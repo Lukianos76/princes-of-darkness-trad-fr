@@ -1,0 +1,11 @@
+﻿l_french:
+  
+ POD_error_suppression.0002.t: "Meilleur salon de coiffure" #NT!
+ POD_error_suppression.0002.desc: "Nous remarquons que vous utilisez le mod Better Barbershop (anciennement Full Screen Barbershop). Veuillez vous assurer que vous utilisez l'ordre de chargement suivant : le mod Prince of Darkness, puis le mod Better Barbershop, puis le mod "POD + Better Barbershop Compatibility Patch" (podbb).\nSinon, vous manquerez plusieurs fonctionnalités de Princes of Darkness et toutes les personnages finiront par être musclés ou en surpoids et les interactions des personnages déroulants ne seront pas disponibles. Merci!" #NT!
+ POD_error_suppression.0002.a: "Compris" #NT!
+  
+  
+  
+  
+  
+  

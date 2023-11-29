@@ -1,0 +1,314 @@
+﻿l_french:
+ black_death_prevented: "L’événement de la peste noire n’aura plus lieu à l’avenir." #NT!
+ shattering_prevented: "L'événement [shattering|E] ne se produira plus à l'avenir." #NT!
+ prevent_black_death_objective_decision_before_last_date: "La date est 1347.1.1 ou antérieure" #NT!
+  
+ prevent_black_death_rat_objective_decision: "Schémas du Ratkin" #NT!
+ prevent_black_death_rat_objective_decision_desc: "Les voyants Fae peuvent avoir des rêves prophétiques sur un événement cataclysmique dans le futur qui tuera des millions de rêveurs. Les détails sont vagues mais il semble s'agir de hordes de rats venant du lever du soleil, de tas de cadavres en feu, de squelettes dansants, de doigts et d'orteils noircis. Certains faes sont convaincus que les Ratkin et leurs accessoires wyrmish malades doivent être détruits." #NT!
+ prevent_black_death_rat_objective_decision_tooltip: "Vous tenterez d'empêcher l'accomplissement de la prophétie du rat." #NT!
+ prevent_black_death_rat_objective_decision_confirm: "Parler!" #NT!
+ prevent_black_death_rat_objective_decision_custom: "Il ne doit pas y avoir de [independent_ruler|E] après [GetReligionFamily('rf_wyrm').GetName] [religion|E] sur la carte" #NT!
+ prevent_black_death_rat_objective_decision_custom_ex: "$prevent_black_death_rat_objective_decision_custom$ #weak ([example.GetFirstName])#!" #NT!
+  
+ prevent_black_death_cat_objective_decision: "Des chatons !" #NT!
+ prevent_black_death_cat_objective_decision_tooltip: "Vous empêcherez la Prophétie du Rat en faisant adorer les chats à tout le monde." #NT!
+ prevent_black_death_cat_objective_decision_desc: "En clair, pour éviter la Prophétie du Rat, il faut faire aimer les chats à tout le monde !" #NT!
+ prevent_black_death_cat_objective_decision_confirm: "Miauler!" #NT!
+ prevent_black_death_cat_objective_decision_custom1: "Chaque roi et empereur doit avoir un modificateur [GetModifier('cat_story_modifier').GetNameWithTooltip]" #NT!
+ prevent_black_death_cat_objective_decision_custom1_ex: "$prevent_black_death_cat_objective_decision_custom1$ #weak ([example.GetFirstName])#!" #NT!
+ prevent_black_death_cat_objective_decision_custom2: "Peut recruter [GetMaA('cats').GetName] en tant que [men_at_arms|E]" #NT!
+  
+ prevent_black_death_anda_objective_decision: "Arrêter la Horde" #NT!
+ prevent_black_death_anda_objective_decision_tooltip: "Vous empêcherez la Prophétie du Rat en arrêtant les Mongols, en ciblant leurs gardes du corps Anda pour les affaiblir." #NT!
+ prevent_black_death_anda_objective_decision_desc: "Cette prophétie du Ratkin n'est pas claire, mais vous avez le sentiment que faire face aux hordes mongoles et andas peut aider." #NT!
+ prevent_black_death_anda_objective_decision_confirm: "Plus de raids." #NT!
+  
+ destroy_inquisition_objective_decision: "Détruisez l'Inquisition" #NT!
+ destroy_inquisition_objective_decision_tooltip: "Vous détruirez l’Inquisition de l’Ombre." #NT!
+ destroy_inquisition_objective_decision_desc: "L'Église et sa redoutable Inquisition persécutent les païens et les Fae. Il convertit par l'épée, torture ou brûle vifs les adeptes des Dieux Anciens et les praticiens des arts mystiques. Ses prêtres utilisent le baptême rituel des enfants Changeling pour les priver à jamais de leur nature enchantée et éteindre l'étincelle du Glamour. Les papes Célestin II et Innocent III ont déclaré la conversion violente de la Livionie par la croisade. Une bulle papale a déclaré que combattre les païens baltes était du même rang que participer à la croisade pour Jérusalem. Pour que les Fae restent sur Terre, il est temps d’arrêter cela." #NT!
+ destroy_inquisition_objective_decision_confirm: "Mettez fin aux temps brûlants." #NT!
+ destroy_inquisition_objective_decision_before_last_date: "La date est 1430.1.1 ou antérieure" #NT!
+ destroy_inquisition_objective_decision_custom1: "L'événement Age of Inquisition n'aura pas lieu à l'avenir" #NT!
+ destroy_inquisition_objective_decision_custom2: "Débloquer la décision $prodigal_objective_decision$" #NT!
+ destroy_inquisition_objective_decision_james: "Le [GetTitleByKey('k_sword_of_st_james').GetNameNoTier] [title|E] doit être détruit." #NT!
+ destroy_inquisition_objective_decision_knights: "Le [GetTitleByKey('k_knights_of_acre').GetNameNoTier] [title|E] doit être détruit." #NT!
+ destroy_inquisition_objective_decision_sisters: "Le [GetTitleByKey('k_sisters_of_st_john').GetNameNoTier] [title|E] doit être détruit." #NT!
+ destroy_inquisition_objective_decision_oculi: "Le [GetTitleByKey('k_oculi_dei').GetNameNoTier] [title|E] doit être détruit." #NT!
+ destroy_inquisition_objective_decision_red: "Le [GetTitleByKey('k_red_order').GetNameNoTier] [title|E] doit être détruit." #NT!
+ destroy_inquisition_objective_decision_murnau: "Le [GetTitleByKey('k_house_murnau').GetNameNoTier] [title|E] doit être détruit." #NT!
+ destroy_inquisition_objective_decision_livonia: "La Livonie, les Latigaliens, la Lituanie et l'Estonie ne doivent pas être contrôlées par les chasseurs de sorcières" #NT!
+  
+ prodigal_objective_decision: "Ramenez les prodigues" #NT!
+ prodigal_objective_decision_tooltip: "Vous rappellerez aux Prodigues qui ils sont." #NT!
+ prodigal_objective_decision_desc: "Les Prodigues ont oublié leurs origines dans le Rêve, il est temps de leur rappeler qui ils sont." #NT!
+ prodigal_objective_decision_confirm: "Revenir." #NT!
+ prodigal_objective_decision_custom: "Il ne doit pas y avoir de [independent_ruler|E] sans le trait féerique avec une opinion négative à votre sujet sur la carte" #NT!
+ prodigal_objective_decision_custom_ex: "$prodigal_objective_decision_custom$ #weak ([example.GetFirstName])#!" #NT!
+ prodigal_objective_decision_custom1: "Tous les autres surnaturels seront renommés prodigues" #NT!
+ prodigal_objective_decision_custom2: "Aucun surnaturel Kithain n'acceptera toujours votre offre de vassalisation." #NT!
+  
+ pod1230objectives_fae.100.t: "La prophétie du rat" #NT!
+ pod1230objectives_fae.100.desc: "Dans les premières années du XIIIe siècle, les hivers devenaient longs et froids et les pluies tombaient avec une durée semblable à celle de la mousson. Les récoltes ont été noyées. Les routes étaient réduites à des marécages boueux. La famine et le froid ont contribué à remplir les cimetières. Il existe des rêves prophétiques concernant un événement cataclysmique futur qui tuera des millions de rêveurs. Les détails sont vagues mais il semble s'agir de hordes de rats venant du lever du soleil, de tas de cadavres en feu, de squelettes dansants, de doigts et d'orteils noircis. Certains faes sont convaincus que les Ratkin et leurs alliés wyrmish malades doivent être détruits.\nVotre Voyant a parlé, disant qu'ils ont vu un avenir sombre pire que la Fracture, la Prophétie du Rat. Vous devriez vous concentrer sur le siècle prochain pour vous assurer que cela n’arrive pas." #NT!
+ pod1230objectives_fae.100.a: "Les Ratkins et leurs accessoires !" #NT!
+ pod1230objectives_fae.100.b: "Pour arrêter les rats, il nous faut des chats !" #NT!
+ unlock_convert_to_catlover_scheme: "Débloquez [GetScheme('convert_to_catlover').GetTypeName] [scheme|E]." #NT!
+ pod1230objectives_fae.100.c: "La horde mongole est à blâmer !" #NT!
+  
+ pod1230objectives_fae.101.t: "Le plan de Ratkin" #NT!
+ pod1230objectives_fae.101.desc: "Il y avait un plan sombre concocté par les ignobles Ratkin, ils ont créé la maladie la plus mortelle jamais connue sous le nom de peste noire. Vous êtes heureux de les avoir arrêtés avant qu’ils ne le lâchent complètement sur le monde." #NT!
+ pod1230objectives_fae.101.a: "Des rats méchants." #NT!
+  
+ pod1230objectives_fae.102.t: "Catastrophe" #NT!
+ pod1230objectives_fae.102.desc: "Tout le monde dans le monde adore les chats désormais, la prophétie du rat ne se réalisera pas, mais il y a peut-être un autre problème à résoudre." #NT!
+ pod1230objectives_fae.102.a: "Oh mon..." #NT!
+  
+ pod1230objectives_fae.103.t: "Fléau" #NT!
+ pod1230objectives_fae.103.desc: "La Horde Mongole ralentit grâce à vous, et votre Voyant confirme que vous avez stoppé un futur de Mongols catapultant des rats morts lors de sièges qui auraient pu propager une pandémie." #NT!
+ pod1230objectives_fae.103.a: "J'avais raison." #NT!
+  
+ pod1230objectives_fae.120.t: "Fin de l'Inquisition" #NT!
+ pod1230objectives_fae.120.desc: "La création de l'Inquisition fut le point culminant de la Fracture alors que l'Église, dans ses recherches doctrinales, tentait d'éliminer du monde tous les éléments surnaturels indésirables, y compris les faes. Mais maintenant c'est fini." #NT!
+ pod1230objectives_fae.120.a: "Encore des superstitions !" #NT!
+  
+ pod1230objectives_fae.121.t: "Le retour des prodigues" #NT!
+ pod1230objectives_fae.121.desc: "Tous les autres habitants surnaturels du Monde des Ténèbres sont des factions de faes qui ont oublié leurs origines dans le Rêve. Maintenant, ils ont repris leurs esprits." #NT!
+ pod1230objectives_fae.121.a: "Content de te revoir." #NT!
+  
+ POD_fae_maintenance.21.t: "Le fracas" #NT!
+ POD_fae_maintenance.21.desc: "Vous ne pouviez pas arrêter la Prophétie.\nFinalement, les fils qui étaient si fins entre le royaume des mortels et le Rêve ont commencé à se rompre. Cette coupure a apporté le [shattering|E]. Non seulement cela a brisé les liens entre Arcadia et la Terre, mais aussi les espoirs que cela puisse être inversé.\nVous devez choisir un moyen de gérer cela." #NT!
+ POD_fae_maintenance.21.a: "Adoptez la voie Changeling." #NT!
+ POD_fae_maintenance.21.b: "Fuyez en Arcadie." #NT!
+ POD_fae_maintenance.21.c: "Séquestrer en pleine propriété" #NT!
+  
+ POD_fae_maintenance.22.t: "Le fracas" #NT!
+ POD_fae_maintenance.22.desc: "Finalement, les fils qui étaient si fins entre le royaume des mortels et le Rêve commencèrent à se rompre. Cette coupure est le [shattering|E]. Non seulement cela a brisé les liens entre Arcadia et la Terre, mais aussi les espoirs que cela puisse être inversé." #NT!
+ POD_fae_maintenance.22.a: "Yay?" #NT!
+  
+ constantinian_objective_decision: "S'intégrer à l'Église" #NT!
+ constantinian_objective_decision_tooltip: "L'Église en viendra à considérer les Fae comme de saints serviteurs du divin : des anges, des prophètes, des faiseurs de miracles et des véritables bienheureux." #NT!
+ constantinian_objective_decision_desc: "Plutôt que de voir l’Église comme un ennemi à combattre et à arrêter, les Constantiniens la voient comme un mystère à révéler, à étudier et à guider. Une fois que le pouvoir des croyances des mortels sera compris, peut-être même les Brumes retrouveront leur équilibre plus bienveillant et les Fae pourront récolter le glamour de la créativité des fidèles." #NT!
+ constantinian_objective_decision_confirm: "Établir le catéchisme constantinien" #NT!
+ constantinian_objective_decision_custom_artifact: "Vous devez posséder une des saintes reliques [artifacts|E] du Christianisme : le Saint Graal, un Fragment de la Vraie Croix, la Lampe de Constantin, le Flagrum de la Passion, la Lance du Destin, le Calice de Valence ou la Trompette de Gabriel." #NT!
+ constantinian_objective_decision_custom_byzantion: "Le titulaire du [GetTitleByKey('c_byzantion').GetNameNoTier] doit être un [GetFaithDoctrine('special_doctrine_ecumenical_hunters').GetBaseName] ou un [GetFaithDoctrine('doctrine_fae_agenda_constantinian').GetBaseName]" #NT!
+ constantinian_objective_decision_custom_roma: "Le titulaire du [GetTitleByKey('c_roma').GetNameNoTier] doit être un [GetFaithDoctrine('special_doctrine_ecumenical_hunters').GetBaseName] ou un [GetFaithDoctrine('doctrine_fae_agenda_constantinian').GetBaseName]" #NT!
+ constantinian_objective_decision_custom_jerusalem: "Le titulaire du [GetTitleByKey('c_jerusalem').GetNameNoTier] doit être un [GetFaithDoctrine('special_doctrine_ecumenical_hunters').GetBaseName] ou un [GetFaithDoctrine('doctrine_fae_agenda_constantinian').GetBaseName]" #NT!
+ constantinian_objective_decision_custom1: "$POD_splat_hunter_plural$ cessera de considérer les Fae comme un ennemi incompatible. Au lieu de cela, les Fae seront considérés comme des anges, des prophètes, des faiseurs de miracles ou comme des êtres particulièrement bénis." #NT!
+ constantinian_objective_decision_custom2: "Peut recruter [GetMaA('witchhunters').GetName] en tant que [men_at_arms|E]" #NT!
+  
+ pod1230objectives_fae.122.t: "Catéchisme constantinien" #NT!
+ pod1230objectives_fae.122.desc: "Notre Père qui es aux cieux,\nque vos noms soient sanctifiés.\nVotre royaume vienne.\nVos Esprits Saints viennent sur nous et nous purifient.\nQue votre volonté soit faite, sur terre comme au ciel.\nDonnez-nous chaque jour notre pain pour demain. ,\net pardonne-nous nos péchés, car nous honorons nous-mêmes nos obligations.\nEt ne nous amène pas au temps de l'épreuve, de la destruction, et ne nous tente pas vers la banalité.\nCar le royaume, la puissance et la gloire sont à toi pour toujours." #NT!
+ pod1230objectives_fae.122.a: "Amen." #NT!
+  
+ destroy_order_of_reason_objective_decision: "Au-delà de la raison" #NT!
+ destroy_order_of_reason_objective_decision_tooltip: "Vous empêcherez l’Ordre de la Raison d’apporter plus de banalité au monde." #NT!
+ destroy_order_of_reason_objective_decision_desc: "Les hommes érudits cherchent à lier le monde à la Raison et à la Science. Leurs efforts banals pour cataloguer, définir et limiter le monde menacent de mettre fin à la croyance au mystérieux et à l’incontrôlable. Les artisans-maçons, successeurs du Collegium Praecepti de la Rome antique dans leur nouvelle alliance avec la Confrérie de la Règle, cherchent à lier la réalité dans des réglementations restrictives comme une sorte de banals avocats des lois froides et à toute épreuve de l'Ars Praeclarus. Ils tracent les lignes telluriques pour trouver des sources de glamour, qu'ils appellent des nœuds, qu'ils drainent et détruisent ensuite. En 1210 après JC, les artisans maçons détruisirent l'Alliance de Mistridge avec de longs tubes en fer forgé tirant des boules de fer froides selon un processus qu'ils appellent « tir de canon ». On dit que les traîtres prodigues de la Maison Tremere, autrefois mages hermétiques – maintenant vampires, ont contribué à cette victoire des artisans-maçons. Ces « hommes raisonnables » ont massacré toutes les sorcières et Faes qu'ils ont pu trouver dans les ruines de Mistridge et de ses environs. Il faut les arrêter à tout prix !" #NT!
+ destroy_order_of_reason_objective_decision_confirm: "Plus de stase" #NT!
+ destroy_order_of_reason_objective_decision_before_last_date: "La date est 1851.1.1 ou antérieure" #NT!
+ destroy_order_of_reason_objective_decision_custom: "L'Ordre de la Raison [title|E] doit être détruit.\nVous devez contrôler les ateliers d'arsenal en fer forgé d'Innsbruck dans le duché du Tyrol." #NT!
+ destroy_order_of_reason_objective_decision_grimgroth: "[GetScriptedCharacterByHistoryID('505107').GetFirstName], le Fléau de Mistridge, doit être mort ou dans [torpor|E]" #NT!
+  
+ inert_cold_iron_objective_decision: "Fer froid inerte" #NT!
+ inert_cold_iron_objective_decision_tooltip: "Vous modifierez la « réalité » scientifique en cherchant un moyen de transmuter ou de modifier les propriétés du fer froid pour le rendre inerte." #NT!
+ inert_cold_iron_objective_decision_desc: "Lorem ipsum dolor sit amet, consectetur adipiscing" #NT!
+ inert_cold_iron_objective_decision_confirm: "Guéri" #NT!
+ inert_cold_iron_objective_decision_before_last_date: "La date est 1510.1.1 ou antérieure" #NT!
+ inert_cold_iron_objective_decision_forges: "Vous [completely_control|E] Forge perdue ([GetTitleByKey('c_messina').GetNameNoTier]) ." #NT!
+ inert_cold_iron_objective_decision_artifacts: "Vous devez posséder l'un de ces artefacts d'artisanat glamour : \n[GetGlobalVariable('achen_link').Artifact.GetName]\n[GetGlobalVariable('caliper_of_aife_link').Artifact.GetName]\n[GetGlobalVariable('vulcans_hammer_link').Artifact.GetName]\n[GetGlobalVariable('anweyth_link').Artifact.GetName]" #NT!
+  
+ arcadian_restoration_objective_decision: "Restauration arcadienne" #NT!
+ arcadian_restoration_objective_decision_tooltip: "Vous ramènerez l’ère mythique." #NT!
+ arcadian_restoration_objective_decision_desc: "Lorem ipsum dolor sit amet, consectetur adipiscing" #NT!
+ arcadian_restoration_objective_decision_confirm: "Enfin" #NT!
+  
+ pod1230objectives_fae.130.t: "Au-delà de la raison" #NT!
+ pod1230objectives_fae.130.desc: "None" #NT!
+ pod1230objectives_fae.130.a: "Logique modérée." #NT!
+  
+ pod1230objectives_fae.131.t: "Fer froid inerte" #NT!
+ pod1230objectives_fae.131.desc: "Lorem ipsum dolor sit amet, consectetur adipiscing" #NT!
+ pod1230objectives_fae.131.a: "La science n'est plus un obstacle à l'imagination" #NT!
+  
+ pod1230objectives_fae.140.t: "Restauration arcadienne" #NT!
+ pod1230objectives_fae.140.desc: "Lorem ipsum dolor sit amet, consectetur adipiscing" #NT!
+ pod1230objectives_fae.140.a: "Fusionnez le Rêve avec la Terre." #NT!
+ fae_ending_tooltip: "Avec la fusion d'Arcadia avec la Terre, votre partie sera terminée car le monde que vous connaissiez autrefois sera changé à jamais." #NT!
+ pod1230objectives_fae.140.b: "J'ai encore quelque chose à faire." #NT!
+  
+ underbridge_kingdom_objective_decision: "Roi de Underbridge" #NT!
+ underbridge_kingdom_objective_decision_desc: "Lorem ipsum dolor sit amet, consectetur adipiscing" #NT!
+ underbridge_kingdom_objective_decision_tooltip: "Vous deviendrez le roi d'Underbridge." #NT!
+ underbridge_kingdom_objective_decision_confirm: "Personne ne traversera sans ma permission" #NT!
+ underbridge_kingdom_objective_decision_custom: "Je peux utiliser le Bridge War [casus_belli|E]" #NT!
+ underbridge_kingdom_objective_decision_riverside_county_contol_tt: "Vous [completely_control|E] chaque bord de rivière [counties|E] de [GetTitleByKey('k_novgorod').GetNameNoTier] ([SCOPE.ScriptValue('underbridge_kingdom_controlled_riverside_county_value')|0]/[SCOPE.ScriptValue('underbridge_kingdom_total_riverside_county_value')|0])" #NT!
+ underbridge_king_modifier: "Roi de Underbridge" #NT!
+  
+ underbridge_empire_objective_decision: "Grand roi d'Underbridge" #NT!
+ underbridge_empire_objective_decision_desc: "Lorem ipsum dolor sit amet, consectetur adipiscing" #NT!
+ underbridge_empire_objective_decision_tooltip: "Vous deviendrez le Haut Roi d'Underbridge." #NT!
+ underbridge_empire_objective_decision_confirm: "Personne ne traversera sans ma permission" #NT!
+ underbridge_empire_objective_decision_custom: "Chaque comté riverain pris à l'aide de la guerre des ponts [casus_belli|E] deviendra [de_jure|E] [counties|E] du [GetTitleByKey('e_underbridge').GetNameNoTier]" #NT!
+ underbridge_empire_objective_decision_riverside_county_contol_tt: "Vous [completely_control|E] chaque bord de rivière [counties|E] de [GetTitleByKey('e_shadow_curtain').GetNameNoTier] ([SCOPE.ScriptValue('underbridge_empire_controlled_riverside_county_value')|0]/[SCOPE.ScriptValue('underbridge_empire_total_riverside_county_value')|0])" #NT!
+ underbridge_emperor_modifier: "Grand roi d'Underbridge" #NT!
+  
+ pod1230objectives_fae.150.t: "Roi de Underbridge" #NT!
+ pod1230objectives_fae.150.desc: "Lorem ipsum dolor sit amet, consectetur adipiscing" #NT!
+ pod1230objectives_fae.150.a: "Personne ne traversera sans ma permission" #NT!
+  
+ pod1230objectives_fae.151.t: "Grand roi d'Underbridge" #NT!
+ pod1230objectives_fae.151.desc: "Lorem ipsum dolor sit amet, consectetur adipiscing" #NT!
+ pod1230objectives_fae.151.a: "Personne ne traversera sans ma permission" #NT!
+  
+ sidhe_house_dominance_beaumayn_objective_decision: "La guerre des frères" #NT!
+ sidhe_house_dominance_beaumayn_objective_decision_desc: "Lorem ipsum dolor sit amet, consectetur adipiscing." #NT!
+ sidhe_house_dominance_beaumayn_objective_decision_tooltip: "Lorem ipsum dolor sit amet, consectetur adipiscing" #NT!
+ sidhe_house_dominance_beaumayn_objective_decision_confirm: "Nous sommes les meilleurs" #NT!
+ brandell_victory_modifier: "Titulaire d'eschea" #NT!
+ markesh_victory_modifier: "Présages de l'Exode" #NT!
+ sidhe_house_dominance_beaumayn_objective_decision_custom: "[TARGET_CHARACTER.GetFirstName] doit être mort" #NT!
+  
+ sidhe_house_dominance_dougal_objective_decision: "Du fer à l'acier" #NT!
+ sidhe_house_dominance_dougal_objective_decision_desc: "Lorem ipsum dolor sit amet, consectetur adipiscing" #NT!
+ sidhe_house_dominance_dougal_objective_decision_tooltip: "Lorem ipsum dolor sit amet, consectetur adipiscing" #NT!
+ sidhe_house_dominance_dougal_objective_decision_confirm: "Nous sommes les meilleurs" #NT!
+ dougal_victory_modifier: "Du fer à l'acier" #NT!
+  
+ sidhe_house_dominance_eiluned_objective_decision: "Propriétés franches fortifiées" #NT!
+ sidhe_house_dominance_eiluned_objective_decision_desc: "Lorem ipsum dolor sit amet, consectetur adipiscing" #NT!
+ sidhe_house_dominance_eiluned_objective_decision_tooltip: "Lorem ipsum dolor sit amet, consectetur adipiscing" #NT!
+ sidhe_house_dominance_eiluned_objective_decision_confirm: "Nous sommes les meilleurs" #NT!
+ eiluned_victory_modifier: "Propriétés franches fortifiées" #NT!
+  
+ sidhe_house_dominance_fiona_objective_decision: "Grand Amant" #NT!
+ sidhe_house_dominance_fiona_objective_decision_desc: "Pour Fionna, il vaut bien mieux être aimé que craindre. Pratiquement toutes les Fiona sont des romantiques ; ils s'adonnent joyeusement à l'amour courtois et construisent des jeux et des rituels élaborés autour de toutes les affaires de cœur. Les cours de Fiona sont des lieux de beauté et de passion, souvent remplis d'intrigues ludiques, de rendez-vous secrets et d'amours interdits. Fionna peut acquérir une renommée en ayant une grande habileté à faire l'amour, en augmentant leur attrait déjà surnaturel et en ayant également des amants variés et puissants qui sont utiles dans leurs projets futurs." #NT!
+ sidhe_house_dominance_fiona_objective_decision_tooltip: "None" #NT!
+ sidhe_house_dominance_fiona_objective_decision_confirm: "Nous avons aimé d'un amour qui était plus que de l'amour" #NT!
+ sidhe_house_dominance_fiona_objective_decision_custom: "A #V 3#! de grandes personnes comme [lovers|E]" #NT!
+ sidhe_house_dominance_fiona_objective_decision_werewolf: "Avoir un [GetTrait('werewolf').GetName( GetPlayer )] comme [lover|E]" #NT!
+ sidhe_house_dominance_fiona_objective_decision_sidhe: "Avoir un [landed|E] [GetTrait('sidhe').GetName( GetPlayer )] comme [lover|E]" #NT!
+ sidhe_house_dominance_fiona_objective_decision_satyr: "Avoir un [GetTrait('satyr').GetName( GetPlayer )] comme [lover|E]" #NT!
+ fiona_victory_modifier: "Grand Amant" #NT!
+  
+ sidhe_house_dominance_gwydion_objective_decision: "Le vrai roi" #NT!
+ sidhe_house_dominance_gwydion_objective_decision_desc: "Avec la Fracture, les Tuatha de Danaan ont quitté la Terre pour Arcadie. La maison Gwydion, habituée depuis longtemps au rôle de chevalier errant, a reconnu avec la Fracture une nouvelle responsabilité : diriger tous les Fae. Il était désormais nécessaire pour la Maison Gwydion de revendiquer ses terres et de protéger ces propriétés contre les déprédations des perdus et des désespérés. Le fabuleux Don de Gwydion, neveu du roi vénidotien, Math fab Mathonwy, a une descendance claire d'Ogma et de Danu elle-même. Les contes racontent que Lord Gwydion était présent lors du couronnement du premier Haut Roi à avoir régné et qu'il a fait cadeau d'une paire d'énormes griffons gris au nouveau seigneur. Il affirme : « Si jamais le doute envahit le cœur de vos sujets, qu'ils se tournent vers les griffons, qui seront les hérauts du véritable Haut Roi. » Les seigneurs de la Maison Gwydion ont le courage, l'ambition et la lignée nécessaires pour conduire légitimement tous les Seelie Sidhe vers un nouvel âge d'or. Qui d'autre pourrait chercher à trouver et manier le tonnerre – l'épée de lumière – la lame des artisans de paix – Caliburn, si ce n'est le Vrai Roi !" #NT!
+ sidhe_house_dominance_gwydion_objective_decision_tooltip: "Vous devez prouver à tous que la Maison Gwydion est connue dans le monde entier grâce à un long règne de nombreuses propriétés franches, en sécurisant des sites vénérés de glamour, en acquérant de merveilleux artefacts et en faisant raconter de grandes épopées sur vos exploits qui convaincront tous les Fae de votre splendeur légendaire. Enfin, une quête pour retrouver l'épée du Vrai Roi — Excalibur — Caliburn prouvera votre indéniable majesté." #NT!
+ sidhe_house_dominance_gwydion_objective_decision_confirm: "Nous sommes magnifiques" #NT!
+ sidhe_house_dominance_gwydion_objective_decision_custom: "Vous devez récupérer [GetGlobalVariable('caliburn_link').Artifact.GetName] à partir de [deep_dreaming|E]" #NT!
+ gwydion_victory_modifier: "Vrai roi" #NT!
+  
+ sidhe_house_dominance_liam_objective_decision: "Chanson mortelle" #NT!
+ sidhe_house_dominance_liam_objective_decision_desc: "L’imagination des mortels est enfermée dans les limites de l’Église. La Maison Liam conduit les Fae à tenter de comprendre l'emprise mystique de l'Église sur l'humanité. Soit l'organisation la plus tyrannique de l'Église doit être neutralisée, soit l'Église a besoin que les Faes s'éloignent de la banalité. Si la Maison Liam réussit, elle pourra orienter la croissance de l’humanité vers la créativité." #NT!
+ sidhe_house_dominance_liam_objective_decision_tooltip: "Lorem ipsum dolor sit amet, consectetur adipiscing" #NT!
+ sidhe_house_dominance_liam_objective_decision_confirm: "Tenez-vous ici devant le Seigneur du chant" #NT!
+ sidhe_house_dominance_liam_objective_decision_custom1: "Vous avez terminé $destroy_inquisition_objective_decision$ [decision|E]" #NT!
+ sidhe_house_dominance_liam_objective_decision_custom2: "Votre foi est [GetFaithDoctrine('doctrine_fae_agenda_constantinian').GetBaseName] et vous avez terminé le $constantinian_objective_decision$ [decision|E]" #NT!
+ sidhe_house_dominance_liam_objective_decision_custom3: "Il ne doit pas y avoir de [GetTrait('supehunter').GetName( GetPlayer )] [independent_ruler|E] sur la carte" #NT!
+ sidhe_house_dominance_liam_objective_decision_custom3_ex: "$sidhe_house_dominance_liam_objective_decision_custom3$ #weak ([example.GetFirstName])#!" #NT!
+ liam_victory_modifier: "Chanson mortelle" #NT!
+  
+ sidhe_house_dominance_aesin_objective_decision: "Tenez-vous sur Midgard" #NT!
+ sidhe_house_dominance_aesin_objective_decision_desc: "Lorem ipsum dolor sit amet, consectetur adipiscing" #NT!
+ sidhe_house_dominance_aesin_objective_decision_tooltip: "Lorem ipsum dolor sit amet, consectetur adipiscing" #NT!
+ sidhe_house_dominance_aesin_objective_decision_confirm: "Nous sommes magnifiques" #NT!
+ aesin_victory_modifier: "Tenez-vous sur Midgard" #NT!
+  
+ sidhe_house_dominance_ailil_objective_decision: "Fin de la saison" #NT!
+ sidhe_house_dominance_ailil_objective_decision_desc: "Lorem ipsum dolor sit amet, consectetur adipiscing" #NT!
+ sidhe_house_dominance_ailil_objective_decision_tooltip: "Lorem ipsum dolor sit amet, consectetur adipiscing" #NT!
+ sidhe_house_dominance_ailil_objective_decision_confirm: "Nous sommes magnifiques" #NT!
+ sidhe_house_dominance_ailil_objective_decision_custom: "La guerre des saisons est terminée" #NT!
+ ailil_victory_modifier: "Fin de la Guerre des Saisons" #NT!
+  
+ sidhe_house_dominance_balor_objective_decision: "Fomorien" #NT!
+ sidhe_house_dominance_balor_objective_decision_desc: "Lorem ipsum dolor sit amet, consectetur adipiscing" #NT!
+ sidhe_house_dominance_balor_objective_decision_tooltip: "Lorem ipsum dolor sit amet, consectetur adipiscing." #NT!
+ sidhe_house_dominance_balor_objective_decision_confirm: "Nous sommes terrifiants" #NT!
+ balor_victory_modifier: "Fomorien" #NT!
+  
+ sidhe_house_dominance_daireann_objective_decision: "Guérisseur-Guerrier" #NT!
+ sidhe_house_dominance_daireann_objective_decision_desc: "Lorem ipsum dolor sit amet, consectetur adipiscing" #NT!
+ sidhe_house_dominance_daireann_objective_decision_tooltip: "Lorem ipsum dolor sit amet, consectetur adipiscing" #NT!
+ sidhe_house_dominance_daireann_objective_decision_confirm: "Nous sommes magnifiques" #NT!
+ daireann_victory_modifier: "Guérisseur-Guerrier" #NT!
+  
+ sidhe_house_dominance_leanhaun_objective_decision: "La malédiction de Leanhaun" #NT!
+ sidhe_house_dominance_leanhaun_objective_decision_desc: "Lorem ipsum dolor sit amet, consectetur adipiscing" #NT!
+ sidhe_house_dominance_leanhaun_objective_decision_tooltip: "Lorem ipsum dolor sit amet, consectetur adipiscing" #NT!
+ sidhe_house_dominance_leanhaun_objective_decision_confirm: "Nous sommes magnifiques" #NT!
+ leanhaun_victory_modifier: "Malédiction de Leanhaun réduite" #NT!
+  
+ sidhe_house_dominance_varich_objective_decision: "Esprits de la Rus" #NT!
+ sidhe_house_dominance_varich_objective_decision_desc: "Lorem ipsum dolor sit amet, consectetur adipiscing" #NT!
+ sidhe_house_dominance_varich_objective_decision_tooltip: "Lorem ipsum dolor sit amet, consectetur adipiscing" #NT!
+ sidhe_house_dominance_varich_objective_decision_confirm: "Nous sommes magnifiques" #NT!
+ varich_victory_modifier: "Esprits de la Rus" #NT!
+  
+ sidhe_house_dominance_scathach_objective_decision: "Édits des Oracles Morphéens" #NT!
+ sidhe_house_dominance_scathach_objective_decision_desc: "Lorem ipsum dolor sit amet, consectetur adipiscing" #NT!
+ sidhe_house_dominance_scathach_objective_decision_tooltip: "Lorem ipsum dolor sit amet, consectetur adipiscing" #NT!
+ sidhe_house_dominance_scathach_objective_decision_confirm: "Nous sommes magnifiques" #NT!
+ sidhe_house_dominance_scathach_objective_decision_custom: "[shattering|E] est empêché" #NT!
+ scathach_victory_modifier: "Édits des Oracles Morphéens" #NT!
+  
+ sidhe_house_dominance_danaan_objective_decision: "Garde rêvant" #NT!
+ sidhe_house_dominance_danaan_objective_decision_desc: "Lorem ipsum dolor sit amet, consectetur adipiscing" #NT!
+ sidhe_house_dominance_danaan_objective_decision_tooltip: ""
+ sidhe_house_dominance_danaan_objective_decision_confirm: "Nous sommes magnifiques" #NT!
+ danaan_victory_modifier: "Garde rêvant" #NT!
+ sidhe_house_dominance_danaan_objective_decision_custom: "Votre capital a [GetBuilding('dreaming_influence_07').GetName] [building|E]" #NT!
+  
+ pod1230objectives_fae.160.t: "Schisme de fer" #NT!
+ pod1230objectives_fae.160.desc: "Lorem ipsum dolor sit amet, consectetur adipiscing" #NT!
+ pod1230objectives_fae.160.a: "Victoire de Brandell" #NT!
+ pod1230objectives_fae.160.b: "Victoire de Markesh" #NT!
+  
+ pod1230objectives_fae.161.t: "Du fer à l'acier" #NT!
+ pod1230objectives_fae.161.desc: "Lorem ipsum dolor sit amet, consectetur adipiscing" #NT!
+ pod1230objectives_fae.161.a: "Du fer à l'acier" #NT!
+  
+ pod1230objectives_fae.162.t: "Propriétés franches fortifiées" #NT!
+ pod1230objectives_fae.162.desc: "Lorem ipsum dolor sit amet, consectetur adipiscing" #NT!
+ pod1230objectives_fae.162.a: "Propriétés franches fortifiées" #NT!
+  
+ pod1230objectives_fae.163.t: "Grand Amant" #NT!
+ pod1230objectives_fae.163.desc: "Lorem ipsum dolor sit amet, consectetur adipiscing" #NT!
+ pod1230objectives_fae.163.a: "Grand Amant" #NT!
+  
+ pod1230objectives_fae.164.t: "Vrai roi" #NT!
+ pod1230objectives_fae.164.desc: "Lorem ipsum dolor sit amet, consectetur adipiscing" #NT!
+ pod1230objectives_fae.164.a: "Vrai roi" #NT!
+  
+ pod1230objectives_fae.165.t: "Chanson mortelle" #NT!
+ pod1230objectives_fae.165.desc: "C'est fait. Le troupeau a accepté les faes comme bergers et guides. L'Église ne sera plus la menace qu'elle était autrefois pour les Faes, et toutes les belles personnes doivent remercier [ROOT.Char.GetFullName]. Des louanges seront chantées à la Maison [ROOT.Char.GetHouse.GetName] pour toute l'éternité.\n\nChaque fae sur terre et dans les cieux devra réfléchir à sa relation avec la Sainte Église et ses intercesseurs sacrés - les [ROOT.Char.GetHouse.GetName]. Priez qu'ils choisissent le droit chemin vers le salut, sinon la gueule béante de l'enfer les attendra pour toujours et à jamais. La rédemption est proche !\n\nLes mortels doivent aider de toutes les manières possibles à créer de grandes cathédrales, des œuvres d'art magnifiques et une musique triomphante, le tout en gloire du divin et de ses saints messagers. Bâtissons une ville brillante sur la colline qui sera un phare d’espoir et de salut pour tous ceux qui ont des oreilles pour entendre notre chant béatif !" #NT!
+ pod1230objectives_fae.165.a: "Alléluia!" #NT!
+  
+ pod1230objectives_fae.170.t: "Tenez-vous sur Midgard" #NT!
+ pod1230objectives_fae.170.desc: "Lorem ipsum dolor sit amet, consectetur adipiscing" #NT!
+ pod1230objectives_fae.170.a: "Tenez-vous sur Midgard" #NT!
+  
+ pod1230objectives_fae.171.t: "Fin de la saison" #NT!
+ pod1230objectives_fae.171.desc: "Lorem ipsum dolor sit amet, consectetur adipiscing" #NT!
+ pod1230objectives_fae.171.a: "Fin de la saison" #NT!
+  
+ pod1230objectives_fae.172.t: "Fomorien" #NT!
+ pod1230objectives_fae.172.desc: "Lorem ipsum dolor sit amet, consectetur adipiscing" #NT!
+ pod1230objectives_fae.172.a: "Fomorien" #NT!
+  
+ pod1230objectives_fae.173.t: "Guérisseur-Guerrier" #NT!
+ pod1230objectives_fae.173.desc: "Lorem ipsum dolor sit amet, consectetur adipiscing" #NT!
+ pod1230objectives_fae.173.a: "Guérisseur-Guerrier" #NT!
+  
+ pod1230objectives_fae.174.t: "La malédiction de Leanhaun" #NT!
+ pod1230objectives_fae.174.desc: "Lorem ipsum dolor sit amet, consectetur adipiscing." #NT!
+ pod1230objectives_fae.174.a: "La malédiction de Leanhaun" #NT!
+  
+ pod1230objectives_fae.175.t: "Esprits de la Rus" #NT!
+ pod1230objectives_fae.175.desc: "Lorem ipsum dolor sit amet, consectetur adipiscing" #NT!
+ pod1230objectives_fae.175.a: "Esprits de la Rus" #NT!
+  
+ pod1230objectives_fae.180.t: "Édits des Oracles Morphéens" #NT!
+ pod1230objectives_fae.180.desc: "Lorem ipsum dolor sit amet, consectetur adipiscing" #NT!
+ pod1230objectives_fae.180.a: "Édits des Oracles Morphéens" #NT!
+  
+ pod1230objectives_fae.181.t: "Garde rêvant" #NT!
+ pod1230objectives_fae.181.desc: "Lorem ipsum dolor sit amet, consectetur adipiscing." #NT!
+ pod1230objectives_fae.181.a: "Garde rêvant" #NT!

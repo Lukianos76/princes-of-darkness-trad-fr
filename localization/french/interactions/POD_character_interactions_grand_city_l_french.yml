@@ -1,0 +1,28 @@
+﻿l_french:
+ POD_grand_city_propaganda_interaction: "La propagande" #NT!
+ POD_grand_city_propaganda_interaction_desc: "Faites oublier vos crimes aux autres." #NT!
+  
+ POD_grand_city_assassination_interaction: "Assassinat" #NT!
+ POD_grand_city_assassination_requirement: "Vous avez au moins un programme [GetScheme('murder').GetTypeName()] actif." #NT!
+ POD_grand_city_assassination_result: "Tous vos programmes [GetScheme('murder').GetTypeName()] actifs se termineront instantanément." #NT!
+ POD_grand_city_assassination_interaction_desc: "Mettez vos projets à exécution, quel qu’en soit le prix." #NT!
+  
+ POD_grand_city_unburden_interaction: "Soulager" #NT!
+ POD_grand_city_unburden_interaction_desc: "Trouvez de meilleures façons de gérer une existence stressante." #NT!
+ POD_grand_city_unburden_requirement_1: "Vous avez un trait de stress négatif." #NT!
+ POD_grand_city_unburden_requirement_2: "Vous avez moins de deux traits de stress positifs." #NT!
+ POD_grand_city_unburden_requirement_3: "Vous devez avoir moins de deux traits de stress au total." #NT!
+ POD_unburden_drunkard: "Abandonnez la boisson." #NT!
+ POD_unburden_flagellant: "Arrêtez de vous flageller." #NT!
+ POD_unburden_comfort_eater: "Allez-y doucement avec les collations." #NT!
+ POD_unburden_contrite: "Soulagez votre mauvaise conscience." #NT!
+ POD_unburden_improvident: "Arrêtez de donner ce que vous avez gagné." #NT!
+ POD_unburden_inappetetic: "Recommencez à manger." #NT!
+ POD_unburden_reclusive: "Rejoignez la société." #NT!
+ POD_unburden_irritable: "Respirez profondément." #NT!
+ POD_unburden_rakish: "Pratiquez la retenue sexuelle." #NT!
+ POD_unburden_hashishiyah: "Abandonnez le haschisch." #NT!
+ POD_unburden_profligate: "Arrêtez de gaspiller votre argent." #NT!
+ POD_unburden_athletic: "Faites de l'exercice." #NT!
+ POD_unburden_journaller: "Mettez vos pensées sur papier." #NT!
+ POD_unburden_confider: "Partagez vos problèmes avec vos proches." #NT!

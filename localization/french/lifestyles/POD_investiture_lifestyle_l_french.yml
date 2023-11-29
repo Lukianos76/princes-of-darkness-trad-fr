@@ -1,0 +1,106 @@
+﻿l_french:
+ game_concept_investiture_lifestyle: "Investiture" #NT!
+ game_concept_investiture_lifestyle_desc: "Les investitures sont des capacités accordées par les démons à ceux qui servent ou concluent un pacte avec un démon." #NT!
+  
+ investiture_lifestyle_name: "Investiture" #NT!
+ investiture_lifestyle_desc: "Concentrez-vous sur les capacités accordées par les démons." #NT!
+ investiture_lifestyle_highlight_desc: "Parce que votre [GetTrait('demonology').GetName( GetPlayer )] [trait|E], vous gagnez #P 100%#! [experience|E] de plus dans ce Lifestyle." #NT!
+ monthly_investiture_lifestyle_xp_gain_mult: "Investiture mensuelle [lifestyle|E] [experience|E]" #NT!
+  
+ demonic_investment_focus: "Focus sur l’investissement démoniaque" #NT!
+ demonic_investment_focus_modifier: "[GetFocus('demonic_investment_focus').GetName]" #NT!
+ demonic_investment_focus_desc: "Transmutatio Diabolicus." #NT!
+ demonic_investment_focus_effect_desc: "Se concentrer sur les subventions d’investissement démoniaque :" #NT!
+  
+ GAINS_INVESTITURE_LIFESTYLE_XP: "Gains $VALUE|V0$ [investiture_lifestyle|E] d'expérience" #NT!
+ GAINED_INVESTITURE_LIFESTYLE_XP: "Expérience $VALUE|V0$ [investiture_lifestyle|E] acquise" #NT!
+ I_GAIN_INVESTITURE_LIFESTYLE_XP: "Vous gagnez $VALUE|V0$ [investiture_lifestyle|E] d'expérience" #NT!
+ I_GAINED_INVESTITURE_LIFESTYLE_XP: "Vous avez gagné $VALUE|V0$ [investiture_lifestyle|E] d'expérience" #NT!
+ TARGET_GAINS_INVESTITURE_LIFESTYLE_XP: "[CHARACTER.GetShortUIName] gagne $VALUE|V0$ [investiture_lifestyle|E] Expérience" #NT!
+ TARGET_GAINED_INVESTITURE_LIFESTYLE_XP: "[CHARACTER.GetShortUIName] gagné $VALUE|V0$ [investiture_lifestyle|E] Expérience" #NT!
+  
+ GAINS_A_INVESTITURE_LIFESTYLE_PERKPOINT: "Gains $VALUE|V0$ [investiture_lifestyle|E] [perk|E] Débloqué" #NT!
+ GAINED_A_INVESTITURE_LIFESTYLE_PERKPOINT: "Gagné $VALUE|V0$ [investiture_lifestyle|E] [perk|E] Débloqué" #NT!
+ I_GAIN_A_INVESTITURE_LIFESTYLE_PERKPOINT: "Vous gagnez $VALUE|V0$ [investiture_lifestyle|E] [perk|E] Déverrouillage" #NT!
+ I_GAINED_A_INVESTITURE_LIFESTYLE_PERKPOINT: "Vous avez gagné $VALUE|V0$ [investiture_lifestyle|E] [perk|E] Déverrouillage" #NT!
+ TARGET_GAINS_A_INVESTITURE_LIFESTYLE_PERKPOINT: "[CHARACTER.GetShortUIName] gains $VALUE|V0$ [investiture_lifestyle|E] [perk|E] Déverrouillage" #NT!
+ TARGET_GAINED_A_INVESTITURE_LIFESTYLE_PERKPOINT: "[CHARACTER.GetShortUIName] gagné $VALUE|V0$ [investiture_lifestyle|E] [perk|E] Débloqué" #NT!
+  
+ INVESTITURE_LIFESTYLE_PERK_POINTS_TRIGGER: "Points d'avantage du style de vie d'investiture : $NUM|V0$" #NT!
+  
+ NEEDS_BE_THRALL_OR_DIABOLIST_FOR_FOCUS_TEXT: "@warning_icon !#X Vous avez besoin d'un pacte avec ou d'être lié à au moins un [GetTrait('demon').GetName( GetPlayer )] pour choisir ce focus#!\n" #NT!
+  
+ demonic_investment_visible: "Investissement démoniaque" #NT!
+  
+ backgrounds_perk_name: "Arrière-plans" #NT!
+ investiture_longevity_perk_name: "Longévité" #NT!
+ aquatic_perk_name: "Aquatique" #NT!
+ bat_ears_perk_name: "Oreilles de chauve-souris" #NT!
+ grim_jaws_perk_name: "Mâchoires sinistres" #NT!
+ kiss_of_hades_perk_name: "Baiser d'Hadès" #NT!
+ lashing_tail_perk_name: "Queue d'arrimage" #NT!
+ magic_sense_perk_name: "Sens magique" #NT!
+ razor_fangs_perk_name: "Crocs de rasoir" #NT!
+ razor_fingers_perk_name: "Doigts de rasoir" #NT!
+ smell_fear_perk_name: "Sentir la peur" #NT!
+ devils_eyes_perk_name: "Les yeux du diable" #NT!
+ goat_feet_perk_name: "Pieds de chèvre" #NT!
+ invisibility_to_animals_perk_name: "Invisibilité pour les animaux" #NT!
+ pheromone_powers_perk_name: "Pouvoirs des phéromones" #NT!
+ psychic_tracker_perk_name: "Traqueur psychique" #NT!
+ investiture_horns_perk_name: "Cornes" #NT!
+ investiture_claws_perk_name: "Les griffes" #NT!
+ investiture_hellfire_perk_name: "Feu de l'enfer" #NT!
+ invulnerability_perk_name: "Invulnérabilité" #NT!
+ panpipe_voice_perk_name: "Voix de flûte de pan" #NT!
+ serpent_skin_perk_name: "Peau de Serpent" #NT!
+ service_perk_name: "Service" #NT!
+ investiture_wings_perk_name: "Ailes" #NT!
+ cause_vertigo_perk_name: "Causer le vertige" #NT!
+ magic_portal_perk_name: "Portail magique" #NT!
+ walk_the_walls_perk_name: "Parcourez les murs" #NT!
+ demon_hide_perk_name: "Peau de démon" #NT!
+ apportation_perk_name: "Répartition" #NT!
+ awareness_perk_name: "Conscience" #NT!
+ luciferian_charm_perk_name: "Charme luciférien" #NT!
+ guardian_perk_name: "Gardien" #NT!
+ toxic_blast_perk_name: "Explosion toxique" #NT!
+ two_dimensional_perk_name: "Bidimensionnel" #NT!
+ investiture_eyes_of_the_abyss_perk_name: "Les yeux de l'abîme" #NT!
+ imp_familiar_perk_name: "Familier Diablotin" #NT!
+ sign_of_the_inferno_perk_name: "Signe de l'Enfer" #NT!
+ body_armor_perk_name: "Gilet pare-balles" #NT!
+ life_leech_perk_name: "Sangsue de vie" #NT!
+ master_of_the_domain_perk_name: "Maître du Domaine" #NT!
+ bestial_form_perk_name: "Forme bestiale" #NT!
+ lightning_speed_perk_name: "Vitesse de l'éclair" #NT!
+ bond_breaking_perk_name: "Rupture de liens" #NT!
+ demonic_strength_perk_name: "Force démoniaque" #NT!
+ shameful_sight_perk_name: "Vue honteuse" #NT!
+ atrophic_touch_perk_name: "Toucher atrophique" #NT!
+ teleportation_perk_name: "Téléportation" #NT!
+ turn_to_toad_perk_name: "Tournez-vous vers le crapaud" #NT!
+ hand_of_the_defiler_perk_name: "La main du profanateur" #NT!
+ emotion_projection_perk_name: "Projection d'émotions" #NT!
+ infernal_passage_perk_name: "Passage infernal" #NT!
+ journey_to_the_spirit_realm_perk_name: "Voyage au royaume des esprits" #NT!
+ summon_hellions_perk_name: "Invoquer des Hellions" #NT!
+ mammons_gift_perk_name: "Le cadeau de Mammon" #NT!
+ talons_of_the_plague_crow_perk_name: "Serres du Corbeau de la Peste" #NT!
+ uncanny_beauty_perk_name: "Beauté étrange" #NT!
+ army_of_the_damned_perk_name: "Armée des Damnés" #NT!
+ infernal_ranking_perk_name: "Classement infernal" #NT!
+ regeneration_perk_name: "Régénération" #NT!
+  
+ BACKGROUNDS_PERK_EFFECT: "En tant que [decision|E], vous permet de dépenser des points d'investiture pour gagner de l'or et du prestige." #NT!
+ INVESTITURE_LONGEVITY_PERK_EFFECT: "En tant que [decision|E], permet de dépenser des points d'investiture pour empiler [GetModifier( 'longevity_modifier' ).GetNameWithTooltip|L]." #NT!
+ APPORTATION_PERK_EFFECT: "[buy_claim_interaction|E] et [buy_artifact_claim_interaction|E] Coût : #P -50%#!" #NT!
+ IMP_FAMILIAR_PERK_EFFECT: "Autoriser le recrutement [GetMaA('imps').GetName] en tant que [men_at_arms|E]" #NT!
+ LIFE_LEECH_PERK_EFFECT: "En tant que [character_interaction|E], permettez de consommer la puissance de la cible pour gagner de la force vitale." #NT!
+ BESTIAL_FORM_PERK_EFFECT: "Autoriser le changement de forme vers plusieurs formes animales." #NT!
+ TELEPORTATION_PERK_EFFECT: "En tant que [character_interaction|E], vous permet de vous téléporter vers l'emplacement cible." #NT!
+ TURN_TO_TOAD_PERK_EFFECT: "En tant que [character_interaction|E], permet de transformer la cible en [GetModifier( 'POD_shapeshift_form_toad_modifier' ).GetNameWithTooltip|L]." #NT!
+ EMOTION_PROJECTION_PERK_EFFECT: "Débloque [GetScheme('PODsoul_bridge').GetTypeName] [scheme|E]." #NT!
+ JOURNEY_TO_THE_SPIRIT_REALM_PERK_EFFECT: "Accédez aux [astral_reaches|E] et [spirit_wilds|E] lors des voyages dans l'Umbra." #NT!
+ MAMMONS_GIFT_PERK_EFFECT: "En tant que [character_interaction|E], vous permet d'utiliser la piété pour gagner de l'or." #NT!
+ TALONS_OF_THE_PLAGUE_CROW_PERK_EFFECT: "Donnez des maladies aléatoires aux commandants ennemis et [knights|E] en guerre en tant que commandant ou à l'ennemi dans [single_combat_duel|E]." #NT!

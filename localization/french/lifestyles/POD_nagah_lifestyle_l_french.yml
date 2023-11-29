@@ -1,0 +1,121 @@
+﻿l_french:
+ nagahgifts_visible: "Cadeaux Nagah" #NT!
+ balaramgifts_visible: "Cadeaux Balaram" #NT!
+ vasukigifts_visible: "Cadeaux vasuki" #NT!
+ ahigifts_visible: "Cadeaux ahi" #NT!
+ kamakshigifts_visible: "Cadeaux kamakshi" #NT!
+ kartikeyagifts_visible: "Cadeaux Kartikeya" #NT!
+ kamsagifts_visible: "Cadeaux kamsa" #NT!
+ kaligifts_visible: "Cadeaux Kali" #NT!
+  
+ NEEDS_KAMAKSHI_TEXT: "@warning_icon!#X Nécessite le [GetTrait('kamakshi').GetName( GetPlayer )] [traits|E] pour acheter des avantages dans cet arbre.#!" #NT!
+ NEEDS_KARTIKEYA_TEXT: "@warning_icon!#X Nécessite le [GetTrait('kartikeya').GetName( GetPlayer )] [traits|E] pour acheter des avantages dans cet arbre.#!" #NT!
+ NEEDS_KAMSA_TEXT: "@warning_icon!#X Nécessite le [GetTrait('kamsa').GetName( GetPlayer )] [traits|E] pour acheter des avantages dans cet arbre.#!" #NT!
+ NEEDS_KALI_TEXT: "@warning_icon!#X Nécessite le [GetTrait('kali').GetName( GetPlayer )] [traits|E] pour acheter des avantages dans cet arbre.#!" #NT!
+  
+ eyes_of_the_dragon_kings_perk_name: "Les yeux des rois dragons" #NT!
+ lizards_favor_perk_name: "Faveur du lézard" #NT!
+ veil_of_the_wani_perk_name: "Voile du Wani" #NT!
+ blessings_of_kali_perk_name: "Bénédictions de Kali" #NT!
+ pure_venom_perk_name: "Venin pur" #NT!
+ swimming_the_spirit_river_perk_name: "Nager dans la rivière Spirit" #NT!
+ breath_of_the_dragon_lords_perk_name: "Le Souffle des Seigneurs Dragons" #NT!
+ destroyers_blessing_perk_name: "Bénédiction du Destructeur" #NT!
+ nagah_dance_of_shiva_perk_name: "Danse de Shiva" #NT!
+  
+ SWIMMING_THE_SPIRIT_RIVER_PERK_EFFECT: "Progression mensuelle de l'exploration d'Umbra : [grace_i]#P +10#!" #NT!
+ BREATH_OF_THE_DRAGON_LORDS_PERK_EFFECT: "Blesser l'ennemi [knights|E] en guerre en tant que commandant ou ennemi au [single_combat_duel|E]." #NT!
+ NAGAH_DANCE_OF_SHIVA_PERK_EFFECT: "En tant que [character_interaction|E], vous permet de brûler une région entière et toute sa population, abaissant le développement à 0 et en gagnant du prestige.\n#F Le Seigneur Shiva, le Destructeur, est fréquemment appelé Shiva Nataraja : Shiva, Seigneur de la Danse. Quand viendra le temps de la fin du monde, Shiva dansera et les flammes consumeront tout, préparant le monde pour le prochain cycle. Ce Don donne au monde un petit avant-goût de cette destruction.#!" #NT!
+  
+ cold_blood_perk_name: "Sang-froid" #NT!
+ prehensile_body_perk_name: "Corps préhensile" #NT!
+ subtle_serpent_perk_name: "Serpent subtil" #NT!
+ fluid_grace_perk_name: "Grâce fluide" #NT!
+ pierce_illusion_perk_name: "Illusion de Pierce" #NT!
+ being_one_perk_name: "Être un" #NT!
+ spirit_ward_perk_name: "Protection spirituelle" #NT!
+ there_is_no_body_perk_name: "Il n'y a personne" #NT!
+  
+ rivers_gift_perk_name: "Le cadeau de la rivière" #NT!
+ treesnakes_blessing_perk_name: "La bénédiction du serpent arboricole" #NT!
+ form_mastery_perk_name: "Maîtrise des formes" #NT!
+ nagah_lightning_strike_perk_name: "Coup de foudre" #NT!
+ long_strike_perk_name: "Longue frappe" #NT!
+ sidewind_perk_name: "Vent latéral" #NT!
+ belly_ride_perk_name: "Tour du ventre" #NT!
+ assassins_well_perk_name: "Le puits de l'assassin" #NT!
+  
+ FORM_MASTERY_PERK_EFFECT: "Rendre le changement de forme [character_interaction|E] moins coûteux." #NT!
+ LONG_STRIKE_PERK_EFFECT: "En tant que [character_interaction|E], vous permet d'infliger à la cible une blessure dont la gravité dépend de vos prouesses." #NT!
+ BELLY_RIDE_PERK_EFFECT: "En tant que [character_interaction|E], vous permet de blesser la cible ou de la tuer mais avec un risque de mort pour vous-même." #NT!
+  
+ bones_as_coils_perk_name: "Des os comme des bobines" #NT!
+ face_of_surya_perk_name: "Visage de Surya" #NT!
+ indras_cloak_perk_name: "Cape d'Indra" #NT!
+ command_water_spirit_perk_name: "Commandement de l'Esprit de l'Eau" #NT!
+ rapture_of_the_deep_perk_name: "Ravissement des profondeurs" #NT!
+ throat_snake_perk_name: "Serpent de gorge" #NT!
+ force_balance_perk_name: "Équilibre des forces" #NT!
+ child_of_storms_perk_name: "Enfant des tempêtes" #NT!
+  
+ FACE_OF_SURYA_PERK_EFFECT: "Donnez le modificateur [GetModifier('face_of_surya_perk_modifier').GetNameWithTooltip] à l'allié [knights|E] en guerre en tant que commandant ou à vous-même en [single_combat_duel|E]." #NT!
+ INDRAS_CLOAK_PERK_EFFECT: "Donnez le modificateur [GetModifier('indras_cloak_perk_modifier').GetNameWithTooltip] à l'ennemi [knights|E] en guerre en tant que commandant ou à l'ennemi en [single_combat_duel|E]." #NT!
+ COMMAND_WATER_SPIRIT_PERK_EFFECT: "Peut recruter [GetMaA('water_elemental').GetName] en tant que [men_at_arms|E]." #NT!
+ CHILD_OF_STORMS_PERK_EFFECT: "Débloquez l'option de changement de forme [GetModifier( 'POD_shapeshift_form_storm_modifier' ).GetNameWithTooltip|L]." #NT!
+  
+ kind_death_perk_name: "Bonne mort" #NT!
+ bask_perk_name: "Se prélasser" #NT!
+ serpents_sting_perk_name: "Dard du serpent" #NT!
+ assassins_insistence_perk_name: "L'insistance de l'assassin" #NT!
+ prevent_adharma_perk_name: "Prévenir l'Adharma" #NT!
+ denial_of_wellbeing_perk_name: "Déni de bien-être" #NT!
+ suspend_perk_name: "Suspendre" #NT!
+ shed_of_years_perk_name: "Hangar d'années" #NT!
+  
+ KIND_DEATH_PERK_EFFECT: "En tant que [character_interaction|E], vous permet de vous attribuer un modificateur [GetModifier('kind_death_modifier').GetNameWithTooltip]." #NT!
+ SERPENTS_STING_PERK_EFFECT: "Donnez le modificateur [GetModifier('serpents_sting_perk_modifier').GetNameWithTooltip] à l'ennemi [knights|E] en guerre en tant que commandant ou à l'ennemi en [single_combat_duel|E]." #NT!
+ ASSASSINS_INSISTENCE_PERK_EFFECT: "En tant que [character_interaction|E], vous permet de soigner les blessures de la cible." #NT!
+ PREVENT_ADHARMA_PERK_EFFECT: "Donnez le modificateur [GetModifier('prevent_adharma_perk_modifier').GetNameWithTooltip] à l'ennemi [knights|E] en guerre en tant que commandant ou à l'ennemi en [single_combat_duel|E]." #NT!
+ DENIAL_OF_WELLBEING_PERK_EFFECT: "En [character_interaction|E], permet de faire subir un [GetModifier( 'denial_of_wellbeing_perk_modifier' ).GetNameWithTooltip|L] à une cible." #NT!
+ SHED_OF_YEARS_PERK_EFFECT: "Supprimez toutes les blessures et mutilations et gagnez [GetModifier('shed_of_years_perk_modifier').GetNameWithTooltip] tous les #V 10#! ans." #NT!
+  
+ brief_sensation_perk_name: "Brève sensation" #NT!
+ eyes_of_the_war_god_perk_name: "Les yeux du dieu de la guerre" #NT!
+ secret_serpent_perk_name: "Serpent secret" #NT!
+ the_serpents_voice_perk_name: "La voix du serpent" #NT!
+ lance_of_the_summer_sun_perk_name: "Lance du soleil d'été" #NT!
+ blood_running_hot_perk_name: "Le sang brûle" #NT!
+ hydra_warrior_perk_name: "Guerrier Hydra" #NT!
+ jungle_snakes_hoodoo_perk_name: "Hoodoo des serpents de la jungle" #NT!
+  
+ BRIEF_SENSATION_PERK_EFFECT: "Donnez le modificateur [GetModifier('brief_sensation_perk_modifier').GetNameWithTooltip] à l'ennemi [knights|E] en guerre en tant que commandant ou à l'ennemi en [single_combat_duel|E]." #NT!
+ LANCE_OF_THE_SUMMER_SUN_PERK_EFFECT: "Blessez l'ennemi [knights|E] en guerre en tant que commandant ou ennemi dans [single_combat_duel|E], s'il s'agit de vampires (ou d'autres surnaturels qui craignent le soleil)." #NT!
+ BLOOD_RUNNING_HOT_PERK_EFFECT: "La récupération de Rage sera désormais certaine, sans aucune chance d'échec." #NT!
+ HYDRA_WARRIOR_PERK_EFFECT: "En tant que [character_interaction|E], permettez-vous de partager les prouesses entre les membres de votre [GetPlayer.Custom('PODCoterie')]." #NT!
+ JUNGLE_SNAKES_HOODOO_PERK_EFFECT: "Donnez au participant à la guerre du côté ennemi un modificateur [GetModifier('jungle_snakes_hoodoo_perk_modifier').GetNameWithTooltip] lorsqu'il est en guerre en tant que participant à la guerre." #NT!
+  
+ predators_patience_perk_name: "La patience du prédateur" #NT!
+ obscure_the_truth_perk_name: "Obscurcir la vérité" #NT!
+ inattention_to_detail_perk_name: "Inattention aux détails" #NT!
+ smothering_question_perk_name: "Question étouffante" #NT!
+ summon_the_accused_perk_name: "Convoquer l'accusé" #NT!
+ nagah_open_wounds_perk_name: "Plaie ouverte" #NT!
+ heartstrings_perk_name: "Cordes sensibles" #NT!
+ undying_serpent_perk_name: "Serpent éternel" #NT!
+  
+ INATTENTION_TO_DETAIL_PERK_EFFECT: "Donnez le modificateur [GetModifier('inattention_to_detail_perk_modifier').GetNameWithTooltip] à l'ennemi [knights|E] en guerre en tant que commandant ou à l'ennemi en [single_combat_duel|E]." #NT!
+ SMOTHERING_QUESTION_PERK_BONUS_VALUE: "[GetPerk('smothering_question_perk').GetName(GetPlayer)]" #NT!
+ SUMMON_THE_ACCUSED_PERK_EFFECT: "Débloquez l'invocation [character_interaction|E] pour qu'un personnage non débarqué vienne à votre cour." #NT!
+  
+ guided_strike_perk_name: "Frappe guidée" #NT!
+ iron_coils_perk_name: "Bobines de fer" #NT!
+ solidify_water_perk_name: "Solidifier l'eau" #NT!
+ assassins_strike_perk_name: "Frappe de l'assassin" #NT!
+ indirect_strike_perk_name: "Frappe indirecte" #NT!
+ song_of_winter_perk_name: "Chanson de l'hiver" #NT!
+ magistrates_icy_judgment_perk_name: "Le jugement glacial du magistrat" #NT!
+ mahanaga_perk_name: "Mahanaga" #NT!
+  
+ ASSASSINS_STRIKE_PERK_EFFECT: "Progression mensuelle de l'exploration d'Umbra : [grace_i]#P +5#!" #NT!
+ MAGISTRATES_ICY_JUDGMENT_PERK_EFFECT: "Blesser l'ennemi [knights|E] en guerre en tant que commandant ou ennemi au [single_combat_duel|E], à moins qu'il ne s'agisse d'un esprit." #NT!
+ MAHANAGA_PERK_EFFECT: "Gagnez le modificateur [GetModifier('mahanaga_perk_modifier').GetNameWithTooltip] lorsque vous changez de forme en [GetModifier('POD_nagah_form_azhi_dahaka_modifier').GetNameWithTooltip]." #NT!

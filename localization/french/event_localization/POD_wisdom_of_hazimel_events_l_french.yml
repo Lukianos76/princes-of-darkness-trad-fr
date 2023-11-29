@@ -1,0 +1,10 @@
+﻿l_french:
+  
+ POD_hazimel_wisdom.001.t: "À la recherche de la sagesse" #NT!
+ POD_hazimel_wisdom.001.desc: "Le grand Hazimel a payé un prix pour sa sagesse : son œil. Son exemple est encore suivi par certains Ravnos jusqu'à cette nuit, car personne ne peut atteindre la grandeur sans sacrifices.\nToutes les familles ne sont pas prêtes à sacrifier une partie de leur corps immortel pour acquérir la connaissance. Contrairement aux autres, vous êtes prêt à le faire. Seuls les plus courageux peuvent atteindre la sagesse éternelle, mais êtes-vous assez fort pour faire un sacrifice sans retour en arrière ?" #NT!
+ POD_hazimel_wisdom.001.option.a: "Je vais suivre l'exemple d'Hazimel. Un œil en échange de connaissances" #NT!
+ POD_hazimel_wisdom.001.option.a.tt: "Vous perdrez votre œil et vous ne pourrez pas le guérir" #NT!
+ POD_hazimel_wisdom.001.option.b: "Ma jambe ne peut pas se comparer aux connaissances que j'obtiendrai !" #NT!
+ POD_hazimel_wisdom.001.option.b.tt: "Vous perdrez votre jambe et vous ne pourrez pas la guérir" #NT!
+ POD_hazimel_wisdom.001.option.c: "Je... je ne suis pas prêt" #NT!
+ POD_hazimel_wisdom.001.option.c.tt: "Vous abandonnerez votre quête de sagesse" #NT!

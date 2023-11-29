@@ -1,0 +1,43 @@
+﻿l_french:
+  
+ POD_auspex.100.t: "Invasion psychique" #NT!
+ POD_auspex.100.desc: "[actor.GetTitledFirstName] essaie de voler vos secrets dans votre esprit. Grâce à leur maîtrise de l'Auspex, ils sont capables d'ouvrir votre esprit même à longue distance. Heureusement, une telle tentative n’est guère subtile et vous pouvez tenter de résister à cette invasion flagrante de la vie privée mentale." #NT!
+ POD_auspex.100.option.a: "Exercer ma volonté pour résister à l'attaque télépathique." #NT!
+ POD_auspex.100.option.b: "Combattez l’intrusion psychique." #NT!
+ POD_auspex.100.option.c: "Acceptez l'intrusion psychique." #NT!
+  
+ POD_auspex.200.t: "Lecture dans les pensées [recipient.GetFirstNameNoTooltip]" #NT!
+ POD_auspex.200.desc: "Le moment est venu d’envahir le psychisme du [recipient.GetTitledFirstName], mais le [recipient.GetSheHe] résiste." #NT!
+ POD_auspex.200.option.a: "Réveillez le sang pour espionner [recipient.GetHerHim]." #NT!
+ POD_auspex.200.a.tt_willpower: "[recipient.GetFirstNameNoTooltip] a exercé sa volonté pour résister à votre télépathie." #NT!
+ POD_auspex.200.a.tt_fortitude: "[recipient.GetFirstNameNoTooltip] maîtrise le [discipline|E] de courage et résiste à votre manipulation." #NT!
+ POD_auspex.200.a.success.desc: "La victoire" #NT!
+ POD_auspex.200.a.tt_success: "[recipient.GetTitledFirstNamePossessive] secret ne me sera connu !" #NT!
+ POD_auspex.200.a.failure.desc: "Défaite" #NT!
+ POD_auspex.200.a.tt_failure: "[recipient.GetTitledFirstName] a résisté à ma tentative d'espionnage télépathique." #NT!
+ POD_auspex.200.option.b: "Réveillez le sang et exercez ma volonté. Mon esprit verra tout !" #NT!
+ POD_auspex.200.option.b.tt.beast: "#R [recipient.GetSheHe|U] doit craquer sous notre puissance mentale !#!" #NT!
+ POD_auspex.200.option.c: "Abandonnez cette entreprise, je ne souhaite plus espionner psychiquement [recipient.GetHerHim]." #NT!
+ POD_auspex.200.option.c.tt: "La télépathie échouera." #NT!
+ POD_auspex.200.option.c.tt.beast: "#R Comme la proie, nous sommes aveugles !#!" #NT!
+  
+ POD_auspex.300.t: "L'esprit de [recipient.GetFirstNameNoTooltip] a été piraté" #NT!
+ POD_auspex.300.desc: "J'ai appris le secret du [recipient.GetTitledFirstNamePossessive] grâce aux murmures de l'esprit du [recipient.GetHersHis]." #NT!
+ POD_auspex.300.option.a: "C'est comme il se doit." #NT!
+ POD_auspex.300.option.a.tt.beast: "#R Maintenant, que faire de cette douce connaissance ?#!" #NT!
+  
+ POD_auspex.400.t: "Votre esprit a été violé" #NT!
+ POD_auspex.400.desc: "Ayant perdu la bataille des volontés face au [actor.GetTitledFirstName], vos secrets sont désormais connus du [actor.GetHerHim]." #NT!
+ POD_auspex.400.option.a: "Mon esprit n'est plus mon sanctuaire" #NT!
+  
+ POD_auspex.500.t: "A résisté à l'espionnage télépathique" #NT!
+ POD_auspex.500.desc: "[recipient.GetTitledFirstName] a résisté à ma tentative d'espionnage sur [recipient.GetHerHim]." #NT!
+ POD_auspex.500.option.a: "Contrarié !" #NT!
+ POD_auspex.500.option.a.tt.beast: "#R Prenons plus de sang et réessayons !#!" #NT!
+  
+ POD_auspex.600.t: "A résisté à l'espionnage télépathique" #NT!
+ POD_auspex.600.desc: "[actor.GetTitledFirstName] a abandonné la tentative de [actor.GetHerHis] d'envahir votre esprit." #NT!
+ POD_auspex.600.option.a: "Mon esprit m'appartient !" #NT!
+  
+  
+  

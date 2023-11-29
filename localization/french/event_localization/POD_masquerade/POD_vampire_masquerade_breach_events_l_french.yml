@@ -1,0 +1,45 @@
+﻿l_french:
+ POD_vampire_masquerade_breach.100.title: "Violation de la mascarade" #NT!
+ POD_vampire_masquerade_breach.100.desc: "[mortal.GetTitledFirstName] vous a vu violer le Silence du Sang, vous révélant comme un vampire. Le [masquerade|E] a été violé. Que faut-il en faire ?" #NT!
+ POD_vampire_masquerade_breach.100.a: "Faites-leur oublier." #NT!
+ POD_vampire_masquerade_breach.100.b: "Ignorez-les pour l'instant." #NT!
+ POD_vampire_masquerade_breach.100.c: "Soudoyez-les pour qu’ils ne disent rien." #NT!
+ POD_vampire_masquerade_breach.100.d: "Tue-les." #NT!
+ POD_vampire_masquerade_breach.100.e: "Drainez [mortal.GetTitledFirstName] de sang, les tuant." #NT!
+ POD_vampire_masquerade_breach.100.d.tt.beast: "#R La proie a flairé le prédateur - frappez maintenant, de peur de devenir vous-même une proie.#!" #NT!
+ POD_vampire_masquerade_breach.100.e.tt.beast: "#R D'une pierre deux coups !#!" #NT!
+ POD_vampire_masquerade_breach.100.d.notwounded: "Vous avez vaincu le chétif mortel indemne" #NT!
+ POD_vampire_masquerade_breach.100.d.wounded: "Le mortel prouve.... Gênant" #NT!
+ POD_vampire_masquerade_breach.100.d.woundedtoast: "Avant de descendre, [mortal.GetTitledFirstName] a réussi à vous blesser." #NT!
+ POD_vampire_masquerade_breach.100.d.woundedtoastitle: "Blessés" #NT!
+  
+ POD_vampire_masquerade_breach.300.title: "Violation de la mascarade" #NT!
+ POD_vampire_masquerade_breach.300.desc: "[mortal.GetTitledFirstName] a vu [vampire_exposes_masquerade.GetTitledFirstName] violer le Silence du Sang, révélant [vampire_exposes_masquerade.GetFirstName] comme un vampire. Le [masquerade|E] a été violé. Que faire du [mortal.GetFirstName] ?" #NT!
+ POD_vampire_masquerade_breach.300.a: "Faites oublier [mortal.GetTitledFirstName]." #NT!
+ POD_vampire_masquerade_breach.300.b: "Ignorez le [mortal.GetTitledFirstName] pour l'instant." #NT!
+ POD_vampire_masquerade_breach.300.c: "Pot-de-vin [mortal.GetTitledFirstName] pour ne rien dire." #NT!
+ POD_vampire_masquerade_breach.300.d: "Tuez [mortal.GetTitledFirstName]." #NT!
+  
+ POD_vampire_masquerade_breach.400.title: "Violation de la mascarade" #NT!
+ POD_vampire_masquerade_breach.400.desc: "[vampire_exposes_masquerade.GetTitledFirstName] a violé le Silence du Sang, se révélant être un vampire. Le [masquerade|E] a été violé. Que faire du [vampire_exposes_masquerade.GetFirstName] ?" #NT!
+ POD_vampire_masquerade_breach.400.a: "Pardonnez [vampire_exposes_masquerade.GetTitledFirstName] pour une faveur." #NT!
+ POD_vampire_masquerade_breach.400.b: "Pardonnez [vampire_exposes_masquerade.GetTitledFirstName]." #NT!
+ POD_vampire_masquerade_breach.400.c: "Ordonnez à mes serviteurs d'arrêter [vampire_exposes_masquerade.GetTitledFirstName]." #NT!
+ POD_vampire_masquerade_breach.400.d: "Ceci n'est ni pardonné ni oublié [vampire_exposes_masquerade.GetTitledFirstName]." #NT!
+ POD_vampire_masquerade_breach.400.c.Arrest: "[vampire_exposes_masquerade.GetTitledFirstName] est amené dans mon donjon enchaîné." #NT!
+ POD_vampire_masquerade_breach.400.c.ArrestNotificationtitle: "Violation contenue" #NT!
+ POD_vampire_masquerade_breach.400.c.ArrestNotification: "[vampire_exposes_masquerade.GetTitledFirstName] a été emprisonné." #NT!
+ POD_vampire_masquerade_breach.400.c.Escape: "[vampire_exposes_masquerade.GetTitledFirstName] échappe à la capture." #NT!
+ POD_vampire_masquerade_breach.400.c.EscapeNotificationtitle: "[vampire_exposes_masquerade.GetTitledFirstName] s'est échappé !" #NT!
+ POD_vampire_masquerade_breach.400.c.EscapeNotification: "Vos serviteurs n'ont pas réussi à amener [vampire_exposes_masquerade.GetTitledFirstName]. [AddTextIf( PlayerHasBeast, '#R Weaklings.#!' )]" #NT!
+  
+ POD_opinion_breached_masquerade: "Mascarade brisée" #NT!
+ POD_masquerade_breach: "Violation de la mascarade" #NT!
+ POD_masquerade_breach_desc: "Un vampire a violé le Silence du Sang. [masquerade|E] a été violé." #NT!
+  
+ trait_POD_knows_too_much: "En sait trop" #NT!
+ trait_POD_knows_too_much_desc: "Ce mortel a eu un aperçu du surnaturel et a survécu... pour l'instant." #NT!
+  
+  
+  
+  

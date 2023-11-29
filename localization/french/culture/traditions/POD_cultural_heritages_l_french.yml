@@ -1,0 +1,13 @@
+﻿l_french:
+ heritage_enochian_name: "Enochien" #NT!
+ heritage_enochian_collective_noun: "Enochiens" #NT!
+ heritage_ghemalish_name: "Ghémalais" #NT!
+ heritage_ghemalish_collective_noun: "Ghemalishi" #NT!
+ heritage_punic_name: "punique" #NT!
+ heritage_punic_collective_noun: "Puniques" #NT!
+ heritage_coptic_name: "copte" #NT!
+ heritage_coptic_collective_noun: "copte" #NT!
+ heritage_ancientegyptian_name: "Égyptien ancien" #NT!
+ heritage_ancientegyptian_collective_noun: "Les anciens Egyptiens" #NT!
+ tradition_placeholder_name: "Espace réservé" #NT!
+ tradition_placeholder_desc: "Une tradition de substitution qui ne devrait en aucun cas apparaître." #NT!

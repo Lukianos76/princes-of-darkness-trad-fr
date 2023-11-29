@@ -1,0 +1,118 @@
+﻿l_french:
+ RULER_DESIGNER_APPEARANCE_CATEGORY_MONSTROUS: "Monstrueux" #NT!
+ RULER_DESIGNER_CATEGORY_monstrous: "$RULER_DESIGNER_APPEARANCE_CATEGORY_MONSTROUS$" #NT!
+ RULER_DESIGNER_APPEARANCE_CATEGORY_MONSTROUS_HEAD: "Tête monstrueuse" #NT!
+ RULER_DESIGNER_CATEGORY_monstrous_head: "$RULER_DESIGNER_APPEARANCE_CATEGORY_MONSTROUS_HEAD$" #NT!
+ RULER_DESIGNER_APPEARANCE_CATEGORY_MONSTROUS_FACE: "Visage monstrueux" #NT!
+ RULER_DESIGNER_CATEGORY_monstrous_face: "$RULER_DESIGNER_APPEARANCE_CATEGORY_MONSTROUS_FACE$" #NT!
+ RULER_DESIGNER_APPEARANCE_CATEGORY_MONSTROUS_EYES: "Yeux monstrueux" #NT!
+ RULER_DESIGNER_CATEGORY_monstrous_eyes: "$RULER_DESIGNER_APPEARANCE_CATEGORY_MONSTROUS_EYES$" #NT!
+ RULER_DESIGNER_APPEARANCE_CATEGORY_MONSTROUS_NOSE: "Nez Monstrueux" #NT!
+ RULER_DESIGNER_CATEGORY_monstrous_nose: "$RULER_DESIGNER_APPEARANCE_CATEGORY_MONSTROUS_NOSE$" #NT!
+ RULER_DESIGNER_APPEARANCE_CATEGORY_MONSTROUS_LIMBS: "Membres monstrueux" #NT!
+ RULER_DESIGNER_CATEGORY_monstrous_limbs: "$RULER_DESIGNER_APPEARANCE_CATEGORY_MONSTROUS_LIMBS$" #NT!
+ RULER_DESIGNER_APPEARANCE_CATEGORY_MONSTROUS_EARS: "Oreilles monstrueuses" #NT!
+ RULER_DESIGNER_CATEGORY_monstrous_ears: "$RULER_DESIGNER_APPEARANCE_CATEGORY_MONSTROUS_EARS$" #NT!
+ RULER_DESIGNER_APPEARANCE_CATEGORY_MONSTROUS_SKIN: "Peau monstrueuse" #NT!
+ RULER_DESIGNER_CATEGORY_monstrous_skin: "$RULER_DESIGNER_APPEARANCE_CATEGORY_MONSTROUS_SKIN$" #NT!
+ monstrous_head: "Tête monstrueuse" #NT!
+ monstrous_face: "Visage monstrueux" #NT!
+ monstrous_eyes: "Yeux monstrueux" #NT!
+ monstrous_nose: "Nez Monstrueux" #NT!
+ monstrous_limbs: "Membres monstrueux" #NT!
+ monstrous_ears: "Oreilles monstrueuses" #NT!
+ monstrous_skin: "Peau monstrueuse" #NT!
+ POD_horn: "Cornes" #NT!
+ horns: "Cornes cutanées" #NT!
+ POD_NOSsification: "Nossification" #NT!
+ nossification: "Nossification" #NT!
+ nosferatitude: "Nosfératitude" #NT!
+ nosfferization: "Nosférisation" #NT!
+ nossimization: "Nossimisation" #NT!
+ POD_NOSschnoz: "Nosferatu Nez" #NT!
+ nosies: "fouineurs" #NT!
+ schnozies: "Schnozies" #NT!
+ POD_NOSjawz: "Mâchoires Nosferatu" #NT!
+ jawwies: "mâchoires" #NT!
+ wawwies: "Wawwies" #NT!
+ POD_NOSeye: "Grand œil" #NT!
+ aye: "L'œil droit" #NT!
+ eyee: "Oeil gauche" #NT!
+ POD_NOSconifier: "Tête conique" #NT!
+ smallerhats: "Tête conique" #NT!
+ POD_NOSforehead_height: "Hauteur du front Nosferatu" #NT!
+ Nosheadhigh: "Hauteur du front" #NT!
+ POD_NOSforehead_forward: "Nosferatu Front avant" #NT!
+ Nosheadforward: "Front en avant" #NT!
+ POD_NOSforehead_curve: "Courbe du front Nosferatu" #NT!
+ Nosheadcurve: "Courbe du front" #NT!
+ POD_NOSear: "Oreilles pointues" #NT!
+ nosear: "Oreilles pointues" #NT!
+ POD_tzm_browcrest: "Crête à sourcils Vicissitude" #NT!
+ zerghead: "Tête Zerg" #NT!
+ POD_tzm_amphibieyes: "Yeux amphibies" #NT!
+ igoreyes: "Les yeux d'Igor" #NT!
+ POD_tzm_spliceeyes: "Yeux : épissure" #NT!
+ thegreys: "Les Gris" #NT!
+ POD_tzm_widebrain: "Vicissitude Large Cerveau" #NT!
+ galaxybrain: "Cerveaux de galaxie" #NT!
+ POD_tzm_longbrain: "Vicissitude Long Cerveau" #NT!
+ akhenaten: "Akhénaton" #NT!
+ POD_tzm_serpentinejaw: "Mâchoire Serpentine" #NT!
+ smile: "Sourire" #NT!
+ POD_tzm_BROW: "Vicissitude Front" #NT!
+ pox: "Variole" #NT!
+ spike: "Pointe" #NT!
+ POD_tzm_FACE: "Mowhak" #NT!
+ mowhawk: "Faucon" #NT!
+ POD_tzm_JAW: "Pointes de mâchoire" #NT!
+ jawspike: "Pointes de mâchoire" #NT!
+ POD_tzm_NOSE: "Nez de Vicissitude" #NT!
+ nosblade: "Lame nasale" #NT!
+ nosespike: "Pointes de nez" #NT!
+ nosespine: "Colonne nasale" #NT!
+ POD_tzm_upperlip: "Pointes à lèvres" #NT!
+ catfish: "Pointes de poisson-chat" #NT!
+ POD_tzm_TEMPLE: "Temples des Vicissitudes" #NT!
+ templecuts: "Coupes des tempes" #NT!
+ templepox: "Vérole des temples" #NT!
+ templespike: "Pointe du temple" #NT!
+ POD_beasty_claws: "Allonger les avant-bras" #NT!
+ bloodliny_sabbatiztion: "Allonger les avant-bras" #NT!
+ gene_cappadocian: "Ancien Cappadocien" #NT!
+ cappadocian: "Ancien Cappadocien" #NT!
+ gene_banuhaqim: "Ancien Banu Haqim" #NT!
+ banuhaqim: "Ancien Banu Haqim" #NT!
+ gene_POD_bloodsmear: "Frottis de sang" #NT!
+ bloodsmear_1: "Frottis 1" #NT!
+ bloodsmear_2: "Frottis 2" #NT!
+ bloodsmear_3: "Frottis 3" #NT!
+ bloodsmear_4: "Frottis 4" #NT!
+ bloodsmear_5: "Frottis 5" #NT!
+ salubri: "Troisième oeil" #NT!
+ salubrilid: "Paupière" #NT!
+ salubrieye: "Œil" #NT!
+ POD_vamp_open_mouth: "Bouche ouverte" #NT!
+ POD_splat_gene_skin_color: "Couleur de peau fantastique" #NT!
+ normal_skin: "Peau normal" #NT!
+ blue_skin: "Peau bleue" #NT!
+ grey_skin: "Peau grise" #NT!
+ red_skin: "Peau rouge" #NT!
+ green_skin: "Peau verte" #NT!
+ yellow_skin: "Peau jaune" #NT!
+ longear: "Des oreilles plus longues" #NT!
+ POD_splat_gene_hair_color: "Couleur de cheveux fantaisie" #NT!
+ normal_hair: "Cheveux normaux" #NT!
+ pure_black_hair: "Cheveux noirs purs" #NT!
+ light_blue_hair: "Cheveux bleu clair" #NT!
+ dark_blue_hair: "Cheveux bleu foncé" #NT!
+ light_green_hair: "Cheveux vert clair" #NT!
+ dark_green_hair: "Cheveux verts" #NT!
+ purple_hair: "Cheveux violets" #NT!
+ orange_hair: "Cheveux roux" #NT!
+ red_hair: "Cheveux roux" #NT!
+ POD_hairstyles: ""
+ POD_egyptian_hairstyles: ""
+ splat_trait_reminder: "#R Choisissez d'abord un trait surnaturel !" #NT!
+ splat_trait_warning: "#R Vous devez choisir un trait surnaturel avant de continuer !" #NT!
+  

@@ -1,0 +1,50 @@
+﻿l_french:
+  
+ POD_wraith_possession.100.t: "[possession|E]" #NT!
+ POD_wraith_possession.100.desc: "[actor.GetTitledFirstName] essaie de vous [possess|E]. Vous remarquez que des parties de votre corps bougent d’elles-mêmes, des pensées que vous n’auriez pas dû avoir. Il est peut-être temps d'appeler un exorciste ?" #NT!
+ POD_wraith_possession.100.option.a: "Exercer ma volonté et me battre pour mon corps." #NT!
+ POD_wraith_possession.100.option.b: "Résistez à l’intrus." #NT!
+ POD_wraith_possession.100.option.c: "Acceptez le [possession|E]." #NT!
+  
+ POD_wraith_possession.200.t: "Posséder [recipient.GetFirstNameNoTooltip]" #NT!
+ POD_wraith_possession.200.desc: "Le moment est venu de prendre le contrôle du corps de [recipient.GetTitledFirstName], mais [recipient.GetSheHe] résiste." #NT!
+ POD_wraith_possession.200.option.a: "Continuez quand même." #NT!
+ POD_wraith_possession.200.a.tt_willpower: "[recipient.GetFirstNameNoTooltip] a exercé sa volonté pour résister à votre intrusion." #NT!
+ POD_wraith_possession.200.a.tt_fortitude: "[recipient.GetFirstNameNoTooltip] est compétent au [discipline|E] de Fortitude et résiste à votre manipulation." #NT!
+ POD_wraith_possession.200.a.success.desc: "La victoire" #NT!
+ POD_wraith_possession.200.a.tt_success: "[recipient.GetTitledFirstNamePossessive] corps sera à moi !" #NT!
+ POD_wraith_possession.200.a.failure.desc: "Défaite" #NT!
+ POD_wraith_possession.200.a.tt_failure: "[recipient.GetTitledFirstName] a résisté à ma tentative de [possess|E] [actor.GetHerHim]." #NT!
+  
+ POD_wraith_possession.200.option.b: "Exerce ma volonté. Tous les mortels sont des marionnettes à mes côtés." #NT!
+ POD_wraith_possession.200.option.c: "Abandonnez cette entreprise, je ne souhaite plus prendre le contrôle du corps [recipient.GetHerHis]." #NT!
+ POD_wraith_possession.200.option.c.tt: "Le [possession|E] échouera." #NT!
+  
+  
+ POD_wraith_possession.300.t: "Le corps de [recipient.GetFirstNameNoTooltip] a été possédé" #NT!
+ POD_wraith_possession.300.desc: "Vous avez renforcé votre contrôle sur le corps [recipient.GetTitledFirstNamePossessive]. Cette marionnette vous appartient désormais." #NT!
+ POD_wraith_possession.300.option.a: "C'est comme il se doit." #NT!
+  
+  
+ POD_wraith_possession.400.t: "Tu as été possédé" #NT!
+ POD_wraith_possession.400.desc: "Après avoir perdu la bataille des volontés face au [actor.GetTitledFirstName], vous perdez un autre degré de contrôle face au [actor.GetHerHim]." #NT!
+ POD_wraith_possession.400.option.a: "Mon corps ne m'appartient plus." #NT!
+  
+ POD_wraith_possession.500.t: "A résisté [possession|E]" #NT!
+ POD_wraith_possession.500.desc: "[recipient.GetTitledFirstName] a résisté à ma tentative de [possess|E] [recipient.GetHerHim]." #NT!
+ POD_wraith_possession.500.option.a: "Contrarié !" #NT!
+  
+  
+ POD_wraith_possession.600.t: "A résisté [possession|E]" #NT!
+ POD_wraith_possession.600.desc: "[actor.GetTitledFirstName] a abandonné la tentative de [actor.GetHerHis] d'envahir votre corps." #NT!
+ POD_wraith_possession.600.option.a: "Mon corps m'appartient !" #NT!
+  
+ POD_wraith_possession.1000.t: "Un Personne sans Corps" #NT!
+ POD_wraith_possession.1000.desc: "Votre corps d'origine est mort, vous ne pouvez plus y retourner.\nCela semble être une très mauvaise chose, probablement parce que c'est le cas. Il est probablement temps pour un nouveau vous ?" #NT!
+ POD_wraith_possession.1000.option.a: "Je suis piégé dans ce corps pour toujours ?" #NT!
+  
+ POD_wraith_possession_toast_title: "Wraith réussi !" #NT!
+ POD_wraith_possession_toast_text: "Votre spectre a réussi à [possess|E] la cible, vous donnant un certain contrôle sur elle et lui conférant du pouvoir." #NT!
+  
+ POD_wraith_possession.toast.fail: "Wraith a échoué !" #NT!
+ POD_wraith_possession.toast.fail.desc: "Votre cible a résisté au [possession|E] du spectre." #NT!

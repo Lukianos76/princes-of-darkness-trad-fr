@@ -1,0 +1,78 @@
+﻿l_french:
+ POD_natural_disasters.0003.t: "Vue météo" #NT!
+ POD_natural_disasters.0003.desc: "Votre vision météo a prédit qu'il y aurait une catastrophe dangereuse au [target_title.GetNameNoTierNoTooltip] après un an, allez-vous intervenir ?" #NT!
+ POD_natural_disasters.0003.a: "Je ferai quelque chose." #NT!
+ POD_natural_disasters.0003.c: "N'y faites pas attention." #NT!
+  
+ POD_natural_disasters.0005.t: "Magie météo" #NT!
+ POD_natural_disasters.0005.desc: "Votre maîtrise des éléments vous permet soit d'empêcher les pires effets d'une catastrophe naturelle, soit de les amplifier pour encore plus de chaos." #NT!
+ POD_natural_disasters.0005.a: "Je dois arrêter ça !" #NT!
+ POD_natural_disasters.0005.b: "Je vais le rendre encore plus puissant !" #NT!
+  
+ POD_natural_disasters.0101.t_602: "602 Séisme du monastère de Surb Karapet" #NT!
+ POD_natural_disasters.0101.t_632: "632 Tremblement de terre en Arménie" #NT!
+ POD_natural_disasters.0101.t_735: "Séisme de 735 dans la province de Vayots Dzor" #NT!
+ POD_natural_disasters.0101.t_740: "Séisme de 740 à Constantinople" #NT!
+ POD_natural_disasters.0101.t_743: "743 Séisme des portes caspiennes" #NT!
+ POD_natural_disasters.0101.t_749: "749 Tremblement de terre en Galilée" #NT!
+ POD_natural_disasters.0101.t_881: "Tremblement de terre de 881 acres" #NT!
+ POD_natural_disasters.0101.t_893_a: "893 Tremblement de terre d'Ardabil" #NT!
+ POD_natural_disasters.0101.t_893_b: "893 tremblement de terre de Dvin" #NT!
+ POD_natural_disasters.0101.t_906: "Séisme de 906 à K'argop" #NT!
+ POD_natural_disasters.0101.t_957: "957 Séisme de la mer Caspienne" #NT!
+ POD_natural_disasters.0101.t_991: "Séisme de 991 à Damas" #NT!
+ POD_natural_disasters.0101.t_995: "Séisme de 995 à Balu" #NT!
+ POD_natural_disasters.0101.t_1068: "1068 Séisme au Proche-Orient" #NT!
+ POD_natural_disasters.0101.t_1088: "1088 Séisme de Tmogvi" #NT!
+ POD_natural_disasters.0101.t_1091: "Tornade de Londres de 1091" #NT!
+ POD_natural_disasters.0101.t_1117: "1117 Tremblement de terre à Vérone" #NT!
+ POD_natural_disasters.0101.t_1138: "Séisme de 1138 à Alep" #NT!
+ POD_natural_disasters.0101.t_1139: "1139 Tremblement de terre de Gandja" #NT!
+ POD_natural_disasters.0101.t_1157: "Séisme de 1157 à Hama" #NT!
+ POD_natural_disasters.0101.t_1169: "Séisme de 1169 en Sicile" #NT!
+ POD_natural_disasters.0101.t_1170_a: "Séisme de 1170 en Syrie" #NT!
+ POD_natural_disasters.0101.t_1170_b: "Déluge de la Toussaint de 1170" #NT!
+ POD_natural_disasters.0101.t_1185: "Séisme de 1185 dans les East Midlands" #NT!
+ POD_natural_disasters.0101.t_1202: "Séisme de 1202 en Syrie" #NT!
+ POD_natural_disasters.0101.t_1219: "Inondation de Grenoble" #NT!
+ POD_natural_disasters.0101.t_1222_a: "Séisme de Brescia de 1222" #NT!
+ POD_natural_disasters.0101.t_1222_b: "Séisme de 1222 à Chypre" #NT!
+ POD_natural_disasters.0101.t_1268: "Séisme de 1268 en Cilicie" #NT!
+ POD_natural_disasters.0101.t_1275: "Tremblement de terre britannique de 1275" #NT!
+ POD_natural_disasters.0101.t_1287_a: "Inondation du sud de l'Angleterre de février 1287" #NT!
+ POD_natural_disasters.0101.t_1287_b: "Inondation de Sainte-Lucie" #NT!
+ POD_natural_disasters.0101.t_1303: "1303 Tremblement de terre en Crète" #NT!
+ POD_natural_disasters.0101.t_1304: "Déluge de la Toussaint de 1304" #NT!
+ POD_natural_disasters.0101.t_1342: "Le déluge de Sainte Marie-Madeleine" #NT!
+ POD_natural_disasters.0101.t_1343: "1343 Tsunami à Naples" #NT!
+ POD_natural_disasters.0101.t_1348: "Séisme de 1348 dans le Frioul" #NT!
+ POD_natural_disasters.0101.t_1349: "1349 Tremblements de terre des Apennins" #NT!
+ POD_natural_disasters.0101.t_1356: "Tremblement de terre de 1356 à Bâle" #NT!
+ POD_natural_disasters.0101.t_1362: "Le déluge de Saint Marcel" #NT!
+ POD_natural_disasters.0101.t_1382: "Séisme de 1382 dans le détroit du Pas de Calais" #NT!
+ POD_natural_disasters.0101.t_1404: "Inondation de Sainte-Élisabeth de 1404" #NT!
+ POD_natural_disasters.0101.t_1421: "Inondation de Sainte-Élisabeth de 1421" #NT!
+ POD_natural_disasters.0101.t_1428: "Séisme de 1428 en Catalogne" #NT!
+ POD_natural_disasters.0101.t_1436: "Inondation de la Toussaint de 1436" #NT!
+ POD_natural_disasters.0101.t_1456: "1456 Tremblements de terre en Italie centrale" #NT!
+ POD_natural_disasters.0101.t_1461: "Séisme de 1461 à L'Aquila" #NT!
+ POD_natural_disasters.0101.t_1481: "Séisme de 1481 à Rhodes" #NT!
+ POD_natural_disasters.0101.t_1505: "Séisme de 1505 à Lo Mustang" #NT!
+ POD_natural_disasters.0101.t_1509: "Séisme de Constantinople de 1509" #NT!
+ POD_natural_disasters.0101.t_1511: "Séisme de 1511 à Idrija" #NT!
+ POD_natural_disasters.0101.t_1522: "Séisme de 1522 à Almería" #NT!
+ POD_natural_disasters.0101.t_1530: "Inondation de Saint-Félix" #NT!
+ POD_natural_disasters.0101.t_1531: "Tremblement de terre de Lisbonne de 1531" #NT!
+ POD_natural_disasters.0101.t_1555_a: "Séisme de 1555 au Cachemire" #NT!
+ POD_natural_disasters.0101.t_1555_b: "Tornade du Grand Port de Malte" #NT!
+ POD_natural_disasters.0101.t_1570_a: "Déluge de la Toussaint de 1570" #NT!
+ POD_natural_disasters.0101.t_1570_b: "Séisme de Ferrare de 1570" #NT!
+ POD_natural_disasters.0101.t_1580: "Séisme de 1580 dans le détroit du Pas de Calais" #NT!
+ POD_natural_disasters.0101.t_1590: "Séisme de Neulengbach de 1590" #NT!
+ POD_natural_disasters.0101.desc_flood: "De grandes parties du [target_title.GetNameNoTierNoTooltip] ont été emportées." #NT!
+ POD_natural_disasters.0101.desc_earthquake: "Une grande partie du [target_title.GetNameNoTierNoTooltip] a été décimée par le tremblement de terre." #NT!
+ POD_natural_disasters.0101.desc_storm: "Une tornade a frappé le [target_title.GetNameNoTierNoTooltip]." #NT!
+ POD_natural_disasters.0101.desc_stopped: "Soudain, le danger a été stoppé avant qu'il ne cause davantage de dégâts. Seuls quelques mortels furent tués." #NT!
+ POD_natural_disasters.0101.desc_aggraved: "Soudain, le danger est devenu encore plus puissant qu’auparavant. Personne ne peut compter le nombre de personnes qui ont péri." #NT!
+ POD_natural_disasters.0101.desc_default: "Tant de personnes ont été tuées dans cette catastrophe." #NT!
+ POD_natural_disasters.0101.option.a: "Ô nature." #NT!

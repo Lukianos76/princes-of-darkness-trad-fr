@@ -1,0 +1,49 @@
+﻿l_french:
+ POD_animal_herd_cattle_small_modifier: "Petit troupeau de bovins" #NT!
+ POD_animal_herd_cattle_small_modifier_desc: ""C'est une ferme de vaches, vous allez avoir des vaches dehors."" #NT!
+ POD_animal_herd_cattle_moderate_modifier: "Troupeau de bovins modéré" #NT!
+ POD_animal_herd_cattle_moderate_modifier_desc: "Bovin de taille modeste destiné à être traite ou abattu." #NT!
+ POD_animal_herd_cattle_large_modifier: "Grand troupeau de bovins" #NT!
+ POD_animal_herd_cattle_large_modifier_desc: "Un grand troupeau de bovins qui rapportera au propriétaire un revenu régulier grâce au lait et à l'abattage." #NT!
+ POD_animal_herd_sheep_small_modifier: "Petit troupeau de moutons" #NT!
+ POD_animal_herd_sheep_small_modifier_desc: "'Baa, baa, mouton noir,\nAvez-vous de la laine ?\nOui, monsieur, oui, monsieur,\nTrois sacs pleins;\nUn pour le maître,\nEt un pour la dame,\nEt un pour le petit garçon\nQui habite au bout de la rue." #NT!
+ POD_animal_herd_sheep_moderate_modifier: "Troupeau de moutons modéré" #NT!
+ POD_animal_herd_sheep_moderate_modifier_desc: "Un modeste troupeau de moutons qui fournit de la laine ou du mouton" #NT!
+ POD_animal_herd_sheep_large_modifier: "Grand troupeau de moutons" #NT!
+ POD_animal_herd_sheep_large_modifier_desc: "Un grand troupeau de moutons qui rapportera au propriétaire un revenu régulier grâce à la laine ou au mouton." #NT!
+ POD_animal_herd_goats_small_modifier: "Petit troupeau de chèvres" #NT!
+ POD_animal_herd_goats_small_modifier_desc: "« Qui est-ce qui trébuche sur mon pont ? » rugit le troll.\n'Oh, ce n'est que moi, le plus petit bouc bourru, et je monte à flanc de colline pour me faire grossir,'' dit le bouc avec une si petite voix.\n'Maintenant , je viens t'engloutir, dit le troll." #NT!
+ POD_animal_herd_goats_moderate_modifier: "Troupeau de chèvres modéré" #NT!
+ POD_animal_herd_goats_moderate_modifier_desc: "Un modeste troupeau de chèvres qui peuvent être traites ou abattues. Bien que plus petits que le bétail, ils mangent presque tout et sont plus faciles à entretenir." #NT!
+ POD_animal_herd_goats_large_modifier: "Grand troupeau de chèvres" #NT!
+ POD_animal_herd_goats_large_modifier_desc: "Un grand troupeau de chèvres qui rapportera au propriétaire un revenu régulier grâce au lait et à l'abattage. Bien que plus petits que le bétail, ils mangent presque tout et sont plus faciles à entretenir." #NT!
+ POD_animal_herd_pigs_small_modifier: "Petit sondeur de porc" #NT!
+ POD_animal_herd_pigs_small_modifier_desc: "'Ce petit cochon est allé au marché,\nCe petit cochon est resté à la maison,\nCe petit cochon avait du rosbif,\nCe petit cochon n'en avait pas.\nCe petit cochon est allé...\nWee, wee, wee,\ntout le chemin du retour !'" #NT!
+ POD_animal_herd_pigs_moderate_modifier: "Sondeur modéré de porc" #NT!
+ POD_animal_herd_pigs_moderate_modifier_desc: "Un modeste sondeur de porcs attendant d'être abattus. Bien que plus petits que le bétail, ils mangent presque tout et sont plus faciles à entretenir." #NT!
+ POD_animal_herd_pigs_large_modifier: "Grand sondeur de porc" #NT!
+ POD_animal_herd_pigs_large_modifier_desc: "Un grand sondeur de porcs qui rapportera au propriétaire un revenu régulier grâce à l'abattage. Bien que plus petits que le bétail, ils mangent presque tout et sont plus faciles à entretenir." #NT!
+ POD_animal_herd_reindeer_small_modifier: "Petit troupeau de rennes" #NT!
+ POD_animal_herd_reindeer_small_modifier_desc: "Présent uniquement dans le nord, il s'agit d'un petit troupeau de rennes." #NT!
+ POD_animal_herd_reindeer_moderate_modifier: "Troupeau de rennes modéré" #NT!
+ POD_animal_herd_reindeer_moderate_modifier_desc: "Présent uniquement dans le nord, il s'agit d'un modeste troupeau de rennes qui peut être abattu pour sa viande et sa peau." #NT!
+ POD_animal_herd_reindeer_large_modifier: "Grand troupeau de rennes" #NT!
+ POD_animal_herd_reindeer_large_modifier_desc: "Présent uniquement dans le nord, il s'agit d'un grand troupeau de rennes qui peut être abattu pour sa viande et sa peau." #NT!
+ POD_animal_herd_camel_small_modifier: "Petite caravane de chameaux" #NT!
+ POD_animal_herd_camel_small_modifier_desc: "Ces bêtes de somme sont idéales pour les déserts secs, elles peuvent même être utilisées à la guerre." #NT!
+ POD_animal_herd_camel_moderate_modifier: "Caravane de chameaux modérée" #NT!
+ POD_animal_herd_camel_moderate_modifier_desc: "Ces bêtes de somme sont idéales pour les déserts secs, elles peuvent même être utilisées à la guerre. Leur utilisation principale est le commerce longue distance." #NT!
+ POD_animal_herd_camel_large_modifier: "Grande caravane de chameaux" #NT!
+ POD_animal_herd_camel_large_modifier_desc: "Ces bêtes de somme sont idéales pour les déserts secs, elles peuvent même être utilisées à la guerre. Leur utilisation principale est le commerce longue distance." #NT!
+ POD_animal_herd_horse_small_modifier: "Petit troupeau de chevaux" #NT!
+ POD_animal_herd_horse_small_modifier_desc: "Principales bêtes de somme du monde médiéval, adaptées au transport d'une charrette, au labourage d'un champ ou à la bataille." #NT!
+ POD_animal_herd_horse_moderate_modifier: "Troupeau de chevaux modéré" #NT!
+ POD_animal_herd_horse_moderate_modifier_desc: "Principales bêtes de somme du monde médiéval, adaptées au transport d'une charrette, au labourage d'un champ ou à la bataille." #NT!
+ POD_animal_herd_horse_large_modifier: "Grand troupeau de chevaux" #NT!
+ POD_animal_herd_horse_large_modifier_desc: "Principales bêtes de somme du monde médiéval, adaptées au transport d'une charrette, au labourage d'un champ ou à la bataille." #NT!
+ POD_animal_herd_elephant_small_modifier: "Petit troupeau d'éléphants" #NT!
+ POD_animal_herd_elephant_small_modifier_desc: "Des animaux gigantesques, coûteux à domestiquer, mais redoutables en temps de guerre." #NT!
+ POD_animal_herd_elephant_moderate_modifier: "Troupeau d’éléphants modéré" #NT!
+ POD_animal_herd_elephant_moderate_modifier_desc: "Des animaux gigantesques, coûteux à domestiquer, mais redoutables en temps de guerre." #NT!
+ POD_animal_herd_elephant_large_modifier: "Grand troupeau d'éléphants" #NT!
+ POD_animal_herd_elephant_large_modifier_desc: "Des animaux gigantesques, coûteux à domestiquer, mais redoutables en temps de guerre." #NT!

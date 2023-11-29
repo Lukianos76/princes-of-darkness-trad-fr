@@ -1,0 +1,42 @@
+﻿l_french:
+  
+ POD_summon.100.t: "Vous êtes convoqué" #NT!
+ POD_summon.100.desc: "Vous ressentez le besoin de vous ranger du côté du [schemer.GetTitledFirstName]. Ce n'est clairement pas naturel, un vampire puissant utilise les dons de Caine contre vous !" #NT!
+ POD_summon.100.option.a: "Exercer ma volonté pour résister à l’invocation." #NT!
+ POD_summon.100.option.b: "Refusez la convocation." #NT!
+ POD_summon.100.option.c: "Acceptez l'invocation." #NT!
+  
+ POD_summon.200.t: "Invocation [target.GetFirstNameNoTooltip]" #NT!
+ POD_summon.200.desc: "Je sens mon énergie mystique toucher l'esprit du [target.GetTitledFirstName]. [target.GetSheHe|U] résiste à l'invocation. Les dons de Caine ne sont pas parfaits et ils vont seulement aussi loin que votre volonté. Le lien n’est cependant pas encore perdu et je pourrais utiliser mon sang et ma force mentale pour augmenter l’invocation, la rendant encore plus irrésistible." #NT!
+ POD_summon.200.option.a: "Réveillez le sang pour m’apporter [target.GetHerHim]." #NT!
+ POD_summon.200.a.tt_fortitude: "[target.GetFirstNameNoTooltip] est doué pour le [discipline|E] de courage et résiste à mes pouvoirs." #NT!
+ POD_summon.200.a.tt_willpower: "[target.GetFirstNameNoTooltip] a exercé sa volonté pour résister à mes pouvoirs." #NT!
+ POD_summon.200.a.success.desc: "La victoire" #NT!
+ POD_summon.200.a.tt_success: "[target.GetTitledFirstName] arrivera dans ma cour" #NT!
+ POD_summon.200.a.failure.desc: "Défaite" #NT!
+ POD_summon.200.a.tt_failure: "[target.GetTitledFirstName] résistera à mon invocation" #NT!
+ POD_summon.200.option.b: "Réveillez le sang et exercez ma volonté. Je ne serai pas refusé !" #NT!
+ POD_summon.200.option.b.tt.beast: "#R Oui ! Apportez-les-nous !#!" #NT!
+ POD_summon.200.option.c: "Abandonnez, je ne veux plus de [target.GetHerHim]." #NT!
+ POD_summon.200.option.c.tt: "L'invocation échouera." #NT!
+ POD_summon.200.option.c.tt.beast: "#R Non ! Ils s'enfuient !#!" #NT!
+  
+ POD_summon.300.t: "[target.GetFirstNameNoTooltip] Invoqué" #NT!
+ POD_summon.300.desc: "Grâce à l'utilisation de mon pouvoir mystique, [target.GetTitledFirstName] est arrivé dans ma cour. Il est maintenant temps de décider ce que je ferai de ce nouvel invité. Une place d'honneur ou de honte ?\nQuoi qu'il en soit, ne vous attendez pas à ce qu'ils la prennent gentiment au début. Invoquer quelqu'un sans son consentement en utilisant la puissance brute de votre sang n'est pas très amical." #NT!
+ POD_summon.300.option.a: "Bienvenue chez moi, dit l'araignée à la mouche." #NT!
+ POD_summon.300.option.a.tt.beast: "#R L'heure du dîner !#!" #NT!
+  
+ POD_summon.400.t: "Tu es arrivé" #NT!
+ POD_summon.400.desc: "Vous vous retrouvez au tribunal du [schemer.GetTitledFirstName]." #NT!
+ POD_summon.400.option.a: "Ma nouvelle maison." #NT!
+  
+ POD_summon.500.t: "A résisté à l'invocation" #NT!
+ POD_summon.500.desc: "[target.GetTitledFirstName] a résisté à mon invocation. Leur volonté était la plus forte et ils n’oublieront probablement pas votre tentative avant un moment. Invoquer quelqu'un avec la puissance brute du sang n'est pas très amical après tout." #NT!
+ POD_summon.500.option.a: "Déjoué !" #NT!
+ POD_summon.500.option.a.tt.beast: "#R Traquons-les et mangeons-les !#!" #NT!
+  
+ POD_summon.600.t: "Invocation résistée" #NT!
+ POD_summon.600.desc: "Vous savez, vous n'aurez plus l'impression que [schemer.GetTitledFirstNamePossessive] vous appelle." #NT!
+ POD_summon.600.option.a: "Reste hors de mon esprit !" #NT!
+  
+  

@@ -1,0 +1,79 @@
+﻿l_french:
+ POD_umbra_incarna.0100.t: "Communier avec Eshtarra" #NT!
+ POD_umbra_incarna.0100.desc: "$court_of_eshtarra_desc$" #NT!
+ POD_umbra_incarna.0100.a: "Demander un cadeau" #NT!
+ POD_umbra_incarna.0100.b: "Demander de l'aide" #NT!
+ POD_umbra_incarna.0100.f: "Ne fais rien" #NT!
+  
+ POD_umbra_incarna.0200.t: "Communier avec Sokhta" #NT!
+ POD_umbra_incarna.0200.desc: "$court_of_sokhta_desc$" #NT!
+ POD_umbra_incarna.0200.a: "Demander un cadeau" #NT!
+ POD_umbra_incarna.0200.b: "Demander de l'aide" #NT!
+ POD_umbra_incarna.0200.f: "Ne fais rien" #NT!
+  
+ POD_umbra_incarna.0300.t: "Communier avec Katanka-Sonnak" #NT!
+ POD_umbra_incarna.0300.desc: "$court_of_katanka_sonnak_desc$" #NT!
+ POD_umbra_incarna.0300.a: "Demander un cadeau" #NT!
+ POD_umbra_incarna.0300.b: "Demander de l'aide" #NT!
+ POD_umbra_incarna.0300.f: "Ne fais rien" #NT!
+  
+ POD_umbra_incarna.0400.t: "Communier avec Mitanu" #NT!
+ POD_umbra_incarna.0400.desc: "$court_of_mitanu_desc$" #NT!
+ POD_umbra_incarna.0400.a: "Demander un cadeau" #NT!
+ POD_umbra_incarna.0400.b: "Demander de l'aide" #NT!
+ POD_umbra_incarna.0400.f: "Ne fais rien" #NT!
+  
+ POD_umbra_incarna.0500.t: "Communier avec Hakahe" #NT!
+ POD_umbra_incarna.0500.desc: "$court_of_hakahe_desc$" #NT!
+ POD_umbra_incarna.0500.a: "Demander un cadeau" #NT!
+ POD_umbra_incarna.0500.b: "Demander de l'aide" #NT!
+ POD_umbra_incarna.0500.f: "Ne fais rien" #NT!
+  
+ POD_umbra_incarna.0600.t: "Communier avec Tambiyah" #NT!
+ POD_umbra_incarna.0600.desc: "$court_of_tambiyah_desc$" #NT!
+ POD_umbra_incarna.0600.a: "Demander un cadeau" #NT!
+ POD_umbra_incarna.0600.b: "Demander de l'aide" #NT!
+ POD_umbra_incarna.0600.f: "Ne fais rien" #NT!
+  
+ POD_umbra_incarna.0700.t: "Communier avec Nérigal" #NT!
+ POD_umbra_incarna.0700.desc: "$court_of_nerigal_desc$" #NT!
+ POD_umbra_incarna.0700.a: "Demander un cadeau" #NT!
+ POD_umbra_incarna.0700.b: "Demander de l'aide" #NT!
+ POD_umbra_incarna.0700.f: "Ne fais rien" #NT!
+  
+ POD_umbra_incarna.0800.t: "Communiquer avec Rorg" #NT!
+ POD_umbra_incarna.0800.desc: "$court_of_rorg_desc$" #NT!
+ POD_umbra_incarna.0800.a: "Demander un cadeau" #NT!
+ POD_umbra_incarna.0800.b: "Demander de l'aide" #NT!
+ POD_umbra_incarna.0800.f: "Ne fais rien" #NT!
+  
+ POD_umbra_incarna.0900.t: "Communier avec Zarok" #NT!
+ POD_umbra_incarna.0900.desc: "$court_of_zarok_desc$" #NT!
+ POD_umbra_incarna.0900.a: "Demander un cadeau" #NT!
+ POD_umbra_incarna.0900.b: "Demander de l'aide" #NT!
+ POD_umbra_incarna.0900.f: "Ne fais rien" #NT!
+  
+ POD_umbra_incarna.1000.t: "Communiquer avec Lu-Bat" #NT!
+ POD_umbra_incarna.1000.desc: "$court_of_lu_bat_desc$" #NT!
+ POD_umbra_incarna.1000.a: "Demander un cadeau" #NT!
+ POD_umbra_incarna.1000.b: "Demander de l'aide" #NT!
+ POD_umbra_incarna.1000.f: "Ne fais rien" #NT!
+  
+ POD_umbra_incarna.1100.t: "Communier avec Ruatma" #NT!
+ POD_umbra_incarna.1100.desc: "$court_of_ruatma_desc$" #NT!
+ POD_umbra_incarna.1100.a: "Demander un cadeau" #NT!
+ POD_umbra_incarna.1100.b: "Demander de l'aide" #NT!
+ POD_umbra_incarna.1100.f: "Ne fais rien" #NT!
+  
+ POD_umbra_incarna.1200.t: "Communier avec Shantar" #NT!
+ POD_umbra_incarna.1200.desc: "$court_of_shantar_desc$" #NT!
+ POD_umbra_incarna.1200.a: "Demander un cadeau" #NT!
+ POD_umbra_incarna.1200.b: "Demander de l'aide" #NT!
+ POD_umbra_incarna.1200.f: "Ne fais rien" #NT!
+  
+ POD_umbra_incarna.1300.t: "Communiquer avec Méros" #NT!
+ POD_umbra_incarna.1300.desc: "$court_of_meros_desc$" #NT!
+ POD_umbra_incarna.1300.a: "Demander un cadeau" #NT!
+ POD_umbra_incarna.1300.b: "Demander de l'aide" #NT!
+ POD_umbra_incarna.1300.f: "Ne fais rien" #NT!
+  

@@ -1,0 +1,4 @@
+﻿l_french:
+  
+ rival_cast_spell: "[TARGET_CHARACTER.GetShortUIName|U] a lancé un sort sur [CHARACTER.GetShortUIName]." #NT!
+ rival_cast_spell_corresponding: "[CHARACTER.GetShortUIName|U] a lancé un sort sur [TARGET_CHARACTER.GetShortUIName]." #NT!

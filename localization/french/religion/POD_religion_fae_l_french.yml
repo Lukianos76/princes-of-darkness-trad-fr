@@ -1,0 +1,558 @@
+﻿l_french:
+  
+ rf_fae: "Fée" #NT!
+ rf_fae_desc: ""
+  
+ #Fae Religion Localization 
+ fae_religion: "Fée" #NT!
+ fae_religion_adj: "Fée" #NT!
+ fae_religion_adherent: "Fée" #NT!
+ fae_religion_adherent_plural: "Fée" #NT!
+ fae_religion_desc: ""
+ fae_high_god_name: "Charme" #NT!
+ fae_high_god_name_possessive: "Glamour" #NT!
+ fae_high_god_name_alternate: "Charme" #NT!
+ fae_high_god_name_alternate_possessive: "Glamour" #NT!
+ fae_good_god_jesus: "$fae_health_god_name$" #NT!
+ fae_good_god_christ: "Charme" #NT!
+ fae_devil_name: "Banalité" #NT!
+ fae_devil_name_possessive: "La banalité" #NT!
+ fae_evil_god_lucifer: "Banalité" #NT!
+ fae_evil_god_beelzebub: "Banalité" #NT!
+ fae_evil_god_mephistopheles: "Banalité" #NT!
+ fae_death_deity_name: "La mort" #NT!
+ fae_death_deity_name_possessive: "Décès" #NT!
+ fae_house_of_worship: "Pleine propriété" #NT!
+ fae_house_of_worship_plural: "Propriétés franches" #NT!
+ fae_religious_symbol: "glyphe" #NT!
+ fae_religious_text: "légendes" #NT!
+ fae_religious_head_title: "Gardien du savoir" #NT!
+ fae_religious_head_title_name: "Gardien du savoir" #NT!
+ fae_devotee_male: "Gardiens du savoir" #NT!
+ fae_devotee_male_plural: "Gardien du savoir" #NT!
+ fae_devotee_female: "Gardien du savoir" #NT!
+ fae_devotee_female_plural: "Gardiens du savoir" #NT!
+ fae_devotee_neuter: "Gardiens du savoir" #NT!
+ fae_devotee_neuter_plural: "Gardiens du savoir" #NT!
+ fae_priest_male: "Gardiens du savoir" #NT!
+ fae_priest_male_plural: "Gardien du savoir" #NT!
+ fae_priest_alternate_plural: "Gardiens du savoir" #NT!
+ fae_bishop: "Gardien du savoir" #NT!
+ fae_bishop_plural: "Gardiens du savoir" #NT!
+ fae_divine_realm: "Rêve" #NT!
+ fae_positive_afterlife: "Arcadie" #NT!
+ fae_negative_afterlife: "Banalité" #NT!
+ fae_witchgodname_the_horned_god: "Banalité" #NT!
+ fae_witchgodname_the_horned_god_possessive: "La banalité" #NT!
+  
+ fae_creator_god_name: "$fae_high_god_name$" #NT!
+ fae_creator_god_name_possessive: "$fae_high_god_name_possessive$" #NT!
+ fae_health_god_name: "Charme" #NT!
+ fae_health_god_name_possessive: "Glamour" #NT!
+ fae_fertility_god_name: "$fae_high_god_name$" #NT!
+ fae_fertility_god_name_possessive: "$fae_high_god_name_possessive$" #NT!
+ fae_wealth_god_name: "$fae_high_god_name$" #NT!
+ fae_wealth_god_name_possessive: "$fae_high_god_name_possessive$" #NT!
+ fae_household_god_name: "$fae_health_god_name$" #NT!
+ fae_household_god_name_possessive: "$fae_health_god_name_possessive$" #NT!
+ fae_fate_god_name: "$fae_high_god_name$" #NT!
+ fae_fate_god_name_possessive: "$fae_high_god_name_possessive$" #NT!
+ fae_knowledge_god_name: "$fae_high_god_name$" #NT!
+ fae_knowledge_god_name_possessive: "$fae_high_god_name_possessive$" #NT!
+ fae_war_god_name: "$fae_high_god_name$" #NT!
+ fae_war_god_name_possessive: "$fae_high_god_name_possessive$" #NT!
+ fae_trickster_god_name: "Chicanerie" #NT!
+ fae_trickster_god_name_possessive: "Chicanes" #NT!
+ fae_night_god_name: "$fae_high_god_name$" #NT!
+ fae_night_god_name_possessive: "$fae_high_god_name_possessive$" #NT!
+ fae_water_god_name: "$fae_health_god_name$" #NT!
+ fae_water_god_name_possessive: "$fae_health_god_name_possessive$" #NT!
+  
+ # Political Faction Agendas 
+  
+ # Militants 
+ # A great many fae are eager for the Oath-Truce to end so they can return to the engagements of the War or Seasons. The driving emotions and loyalty inspired from being Sained into a Court are fierce and are difficult to lay aside over any matter. Almost every member of the Four Courts truly believes that their way of life is the true way, be it in the form of a better world for all, or simply that the strongest deserves to rule. Accordingly, the resumption of the fae's war is not something that strikes dread in the hearts of many of the factionalized fae. In fact, quite the opposite—it is the end of a too-long delay, a signal that the battle to decide the fate of the world can finally begin. 
+ # Militants emerge from every Court, although the Summer Court cradles the most Militants among their number and the Autumn Court the least. The Winter and Spring Courts, though they lack the same enthusiasm for world rule that they Summer fae display, do not want for reasons to commit troops to the front when the War of Seasons begins anew. 
+  
+ # Truce-Bearers 
+ # 'Truce-Bearer' is a term applied to those fae who seek to end the War of Seasons, either by extending the Oath-Truce indefinitely, or forging a new, lasting treaty that will cease hostilities between the courts. Many of this faction adopt an air of disinterest in humans. They see fae society as infinitely more important, and in immediate need of attention, than the world of mortals. 
+ # Other fae, over the course of the 800 years since the Battle of Stone (and especially during the 100 years of the Oath-Truce) have forged close alliances and friendships with the members of rival Courts, and are less than eager to take the field against these new comrades. 
+ # Finally some fae don't care if the Courts return to war; they would just rather they themselves didn't have to join in the conflict. Many of these advocate a return to Arcadia—or keeping out of the way of humanity at the very least. 
+ # Truce-Bearers of all Courts tend to be isolated individuals or small groups of fae who fervently work in the social arena to sway the local courts towards peace. Unsurprisingly, they are rarely successful, but this only serves to stoke the fires in their hearts. Peace, no matter the price, is their calling. 
+  
+ # Humanists 
+ # The Humanist faction does not necessarily advocate kindness and tolerance when dealing with the human realm, rather it embraces an ethic that is primarily concerned with understanding humanity. First, with the emergence of several human faiths and rituals that actively repel the fae—especially the Christian practice of baptism—even many changeling admit that they no longer understand humanity the way the used to. Times have changed, and left the fae by the wayside. The humans now have numbers and power beyond what the fae themselves possess. This is a sudden and extremely sobering realization. 
+ # The Humanists believe that this is the time to gather information about humans, treat with them, forge new oaths, and in all ways seek a balance between the two races before it's too late. This faction is well aware that in time, it's likely that the fae will simply become irrelevant to humans, which is a factor never seen previously considered. Accordingly, while most fae are Humanist to one degree or another, members of this faction significantly populate the Spring and Autumn Courts. Many Humanists wish for a solution that will resolve the matter in their favor—what can humans do for the fae? But ultimately, the Humanists wish to achieve a level of co-dependency with humans, where the fae are acknowledged once more, and either valued and respected... or simply valued and feared. 
+  
+ # Constantinians 
+  
+ # Fae who sought to understand the details of human faith were always seen as pursuing a fairly useless path of scholarship — until now. The Constantinians have enjoyed a vast increase in membership during the years of the Oath-Truce. Named after Emperor Constantine I, these fae seek to know more of the human religions, especially the Christian Church, and are interested in doing so for potentially any number of reasons. 
+ # As a whole, the fae's reaction to the Church is generally an uneasy balance of fear and awe. Constantinians take this attitude and combine it with their desire to learn more of the mysteries of human faith. Some members of this agenda feel respect for humanity's beliefs and the power they now wield because of them, but just as many Constantinians feel hatred , revulsion and even jealousy. 
+ # Those who follow this path of research and deduction tend to do so for one of two main reasons: to understand the phenomenon of faith and find a way to balance it with the fae's place in the world; or to seek any weakness in humanity's new power, and find a way to exploit it. The greatest threat posed to the fae is the practice of baptism, and the ritual is accorded a great deal of attention and study by those with a Constantinian agenda. The powers of faith that can physically repel the fae are also heavily researched—these are worrying and dangerous new developments that need to be understood. 
+ # The Autumn and Winter Courts have Constantinians among them, although most of these fae tend to use their knowledge of the Church for their own advantages (and to humanity's detriment). The Spring Court boasts the largest proportion of those fae who seek to understand the Church for the betterment and balance of both worlds. 
+  
+ # Season Courts 
+  
+ # Winter Court 
+ # The most brutal of all the fae, the Winter-kin lurk under bridges and in dark forests. While they are vicious warriors, most of them are not looking forward to the end of the Oath-Truce with any degree of enthusiasm.  Organized war isn't much to their liking, but preying on humanity, the thrill of nighttime hunts, the taste of blood and fear—these things are very much to their tastes. It is only the notion of plunging the world into a dark, savage night that spurs them to participate in the War of Seasons at all. 
+ # The monsters of human legend, the creatures in the night's shadows—the Winter-kin live to inspire terror in humanity. Largely disdainful of the War of Seasons, the Court has lost much of its drive to eventually triumph over the other factions, now seeing them as almost below notice. The Winter fae seem incapable of empathizing with humanity, having neither basis nor starting ground to understand the mortals and their lives. Changelings (and Humanists) are rare in this court. 
+  
+ # Winter Poem: 
+ # Sun hides low in her sky; fearful of the shadow she creates, 
+ # As Night sits in his dank hollow and awaits, 
+ # For her to sink deep beneath the iced barren lands, 
+ # Allowing the frosts to eat warmth from the blooded, 
+ # And free the hunting creatures of the forest once again. 
+  
+ # Humans have always feared the things that live in the shadows. 
+ # The Winter Court understands very little about humanity, and cares about them even less. In the darkest forests in the dread of night, these are the creatures that eat lost children and bathe their caps in the blood that remains. These are the creatures that chase anyone in their domains, running mortals to terrified exhaustion. These creatures are the reasons that humanity fears the hours after sunset. 
+ # The Winter fae have a hatred of the other Courts that goes beyond the (mostly) rational dislike and disagreements among the SUmmer, Spring and Autumn factions. The Winter fae feel the Spring-kin are almost universally blinded by their obsession with humanity, the Summer fae are locked in the past and are suffering for their ignorance, and the Autumn Court deals with strange, foul human powers that are best left untouched. As for the Solstice fae — well, they are too spineless to even join the pathetic, rules-bound Summer Court. 
+ # As the Oath-Truce enters its last hours, the Winter fae are hardly slavering for a fight with sharpened fangs and claws. Most members of this Court are actually somewhat apathetic about the War of Seasons. In many case, they are too removed from fae politics to keep up to speed with the latest shifting tide of alliances and betrayals; and to limit their involvement further, they often just don't care who is stabbing whom in the back over some petty local treaty. 
+ # Many Winter fae are realists, and can see clearly that the War of Seasons is something of an unending trial. Most are more concerned with saving their own skins and protecting their domains against any human influence. It's unsurprising that their oaths with humans tend to be blunt, simple and extremely serious. To break a Winter oath usually means death, and death usually means evisceration under the claws of a savage monster. 
+ # That said, there have been noted differences in Winter Court opinions in recent years. The Spring Court, ever seen by the Winter-kin as the most spineless, weakest collection of fools that ever called itself a Court, is gearing up for many serious engagements when the Oath-Truce falls. In particular, Seigfreid Hein's Green Blade is viewed with particular unease, as are the Other Lost Legions. The Winter Court's fighters and soldiers (such as they are) are finally realizing that the Spring-kin are hardly the toothless milksops that they once were perceived to be. In fact, Spring military activity rivals even that of the Summer Court—in intensity and ferocity, if not in size. 
+ # Also, tentative alliances with smaller Autumn holdings, have been attempted and have met with some success. The Winter fae are not universally mindless killers and monsters—they too have a vested interest in the changes within the human realm. Of course, while the Autumn Court seeks ways to examine humanity and bend the mortals into a wieldable advantage, the Winter Court is more concerned with brining the mortals to heel and ending the sudden emergences of these powerful faiths, and with the boom of changeling populations in the other Courts. 
+ # The Winter Court, unsurprisingly, consists of mainly firstborn and inanimae. It is the rare changeling who even surives the Saining, as such rituals are often doctored to make sure the milkling fails. Conversely, it is also rumored that many of the changelings in the Court were actually forced into being Sained. The exact mechanics behind such an accusation are not to difficult to comprehend; the threats mostlikely run along the lines of, 'Take the Saining, or be eaten." While such a proposition is anathema to the proud fae of the other Courts (and terrifying to a Solstice fae in Winter territory), it seems likely that once such a 'forced' Saining has occurred, the new Winter-king is more than delighted with her new position and powers. When this approach is not used, most changelings are stolen from families, rather than birthed. Both practices are extremely rare, however. 
+  
+  
+ winter_court_religion: "Cour d'hiver" #NT!
+ winter_court_religion_adj: "Cour d'hiver" #NT!
+ winter_court_religion_adherent: "Parents de l'hiver" #NT!
+ winter_court_religion_adherent_plural: "Parents de l'hiver" #NT!
+ winter_court_religion_desc: "Les monstres de la légende humaine, les créatures dans les ombres de la nuit : les Winter-kin vivent pour inspirer la terreur à l'humanité. Largement dédaigneuse à l'égard de la Guerre des Saisons, la Cour a perdu une grande partie de sa volonté de triompher des autres factions, les considérant désormais comme presque inaperçues. Les faes de l'hiver semblent incapables de sympathiser avec l'humanité, n'ayant ni base ni point de départ pour comprendre les mortels et leur vie. Les changelings (et les humanistes) sont rares dans cette cour." #NT!
+  
+ winter_court: "Cour d'hiver" #NT!
+ winter_court_adj: "Cour d'hiver" #NT!
+ winter_court_adherent: "Parents de l'hiver" #NT!
+ winter_court_adherent_plural: "Parents de l'hiver" #NT!
+ winter_court_desc: "Les plus brutaux de tous les faes, les Winter-kin se cachent sous les ponts et dans les forêts sombres. Bien qu’ils soient de vicieux guerriers, la plupart d’entre eux n’attendent pas avec impatience la fin du Serment-Trêve avec le moindre enthousiasme. La guerre organisée ne leur plaît pas beaucoup, mais les attaques contre l'humanité, le frisson des chasses nocturnes, le goût du sang et de la peur, tout cela leur convient tout à fait. Seule l’idée de plonger le monde dans une nuit sombre et sauvage les incite à participer à la Guerre des Saisons." #NT!
+  
+ winter_court_militants: "Militants de la Cour d'Hiver" #NT!
+ winter_court_militants_adj: "Militant de la Cour d'Hiver" #NT!
+ winter_court_militants_adherent: "Militant parent de l'Hiver" #NT!
+ winter_court_militants_adherent_plural: "Militants parents de l'Hiver" #NT!
+ winter_court_militants_desc: "De nombreux faes attendent avec impatience la fin du Serment-Trêve afin de pouvoir reprendre les engagements de la Guerre ou des Saisons. Les émotions qui découlent du fait d’être introduit dans un tribunal sont féroces. Les militants Winter-kin croient sincèrement que leur mode de vie est le vrai, que les plus forts méritent de gouverner. La reprise de la guerre des faes n’est pas quelque chose qui effraie leurs cœurs froids. C'est le signal que la bataille pour décider du sort du monde peut enfin commencer.\n\nLes Winter-kin sont les plus brutaux de tous les faes, ils se cachent sous les ponts et dans les forêts sombres. Les guerriers vicieux qui s'attaquent à l'humanité, le frisson des chasses nocturnes, le goût du sang et de la peur, ces choses sont tout à fait à leur goût. Ils ont soif de la Guerre des Saisons pour pouvoir plonger le monde dans une nuit sombre et sauvage." #NT!
+  
+ winter_court_trucebearers: "Porteurs de la trêve de la cour d'hiver" #NT!
+ winter_court_trucebearers_adj: "Porteur de la trêve de la Cour d'Hiver" #NT!
+ winter_court_trucebearers_adherent: "Porteur de la Trêve des parents de l'Hiver" #NT!
+ winter_court_trucebearers_adherent_plural: "Porteurs de la Trêve des frères de l'Hiver" #NT!
+ winter_court_trucebearers_desc: "Alors que la Trêve du Serment entre dans ses dernières heures, les faes de l'Hiver, les « Porteurs de la Trêve », ne luttent guère pour un combat avec leurs crocs et leurs griffes aiguisés. La plupart des membres de cette Cour sont en fait quelque peu apathiques à l'égard de la Guerre des Saisons. Dans de nombreux cas, ils sont trop éloignés de la politique des faes pour suivre la dernière vague changeante d'alliances et de trahisons ; et pour limiter davantage leur implication, ils ne se soucient souvent pas de savoir qui poignarde qui dans le dos à cause d'un petit traité local. De nombreux faes de l’Hiver sont réalistes et voient clairement que la Guerre des Saisons est en quelque sorte une épreuve sans fin. La plupart sont plus soucieux de sauver leur peau et de protéger leurs domaines contre toute influence humaine." #NT!
+  
+ winter_court_humanists: "Humanistes de la Cour d'Hiver" #NT!
+ winter_court_humanists_adj: "Humaniste de la Cour d'Hiver" #NT!
+ winter_court_humanists_adherent: "Humaniste parent de l'Hiver" #NT!
+ winter_court_humanists_adherent_plural: "Humanistes de l'Hiver" #NT!
+ winter_court_humanists_desc: "Vaut-il mieux que les faes soient aimés ou craintifs par les humains ? La Cour de l'Hiver estime qu'il vaut bien mieux avoir peur. Laissons les humains haïr, tant qu’ils ont peur. Les Humanistes Winter-kin approchent l’humanité comme un enfant torturant des fourmis avec une loupe. Ils ont une fascination obsessionnelle pour les humains, essayant de déterminer la meilleure façon de les terroriser et d'extraire le glamour de cette terreur." #NT!
+  
+ winter_court_constantinians: "Cour d'hiver des Constantiniens" #NT!
+ winter_court_constantinians_adj: "Cour d'Hiver Constantinienne" #NT!
+ winter_court_constantinians_adherent: "Constantinien, parent de l'Hiver" #NT!
+ winter_court_constantinians_adherent_plural: "Constantiniens parents de l'hiver" #NT!
+ winter_court_constantinians_desc: "Les Constantiniens de la Cour d'Hiver utilisent leur connaissance de l'Église à leur propre avantage et au détriment de l'humanité. Ils se sont beaucoup intéressés à la persécution des hérétiques et des sorcières par l'Église – non pas tant au dogme qu'à ses techniques de torture et de terreur. La violente horreur de la Croisade des Albigeois a également éveillé la curiosité des Winter. Même les flagellants intéressent. Les rêves apocalyptiques du Christ avec l’épée et les anges vengeurs peuvent fournir beaucoup de mirage à récolter." #NT!
+  
+ # Spring Court 
+ # In this new age of both faith and uncertainty, the Spring Court seeks to understand and resolve the wounds created between humanity and the fae. In the War of Seasons, they are keen fighters, eager to achieve victory once and for all; and in the mortal realm, they seek to regain the mantle of relevance to the humans and be feared and respected once more. The Court of change and paradox,the Spring fae endeavor to change anything and everything to their advantage, before humanity either forgets them, or banishes the fae forever. Should such an impasse occur, the whole War of Seasons and all other efforts will come to a wasted end. 
+ # The Spring fae embrace change in all forms, watching life progress over the reasons and reveling it all of its myriad variations (including the many different ways it can end). They have lost many of their greatest holdings from centuries past, but of all the Courts, they are the most adept at finding new homes and adapting to new surroundings. 
+  
+ # Spring Poem: 
+ # Dawn cracks the pristine shell of day, new life does start, 
+ # And the clasp of winter's crippled hand falls apart, 
+ # The melt of snow runs down Nature's growing form, 
+ # But with beauty of a blossoming flower, 
+ # Comes not the strength to protect it from Her storm. 
+  
+ # Spring is the season of birth—of bloom and growth. It is also the season of unpredictable weather, of storms and tempers, and of irreconcilable change. 
+ # The Spring fae embrace change in all things, which is the great strength and great weakness of the Court itself. Change is not always progressive, nor is it always beneficial. Returning to the War of Seasons after centuries of tense 'peace' is a significant change, and one that many of the Spring Court are keen to act upon. Other fae, seeing the great conflict as an endeavor in futility, advocating changing tactics entirely, and wish to concentrate work in the human realm to ensure continued relevance of the fae. 
+ # These fae are often seen as the most protective of humanity, although this is by no means necessarily an act of dedicated altruism. The Spring fae realize they must reinforce the mutually beneficial relationship between the two races, lest the fae slip from the minds of the mortals for all time. Consequently, their oaths often involve helping or protecting humans, although such weighty oaths require equally substantial pledges from the oath-bound mortal. 
+ # A tempestous attitude, clashing interests and a lack of cohesive focus are characteristic of Spring fae—unsurprising considering the the relatively equal spread of the three Origins in this Court. Undeniably mighty, with their strength waxing as their seasonable bias would suggest, the Spring Court is ever split by the myriad differing approaches within their ranks. 
+ # Changelings suffer no negative Courtly bias, although some rare bigotry does exist in a few individuals. Over time, the Spring Court's changeling population has slowly increased to meet the number of firstborn and inanimae, and continues to swell in the current age. Most Spring firstborn prefer to create new changelings in a labor of love or lust, rather than steal a human family's beloved infant. Children treated with particularly cruelty are often prized additions to the Court, however, rescued as they are from a life of abuse. Spring fae, while rarely kind in the human sense of the word, often have sympathy for downtrodden or helpless mortals, especially children. Such luckless humans are fertile ground for oaths and alliances. 
+ # The tactics of the Spring Court are, as is to be expected, a clashing mix of action and intent. While the majority of the Court is of Humanist agenda, Militants and Constantinians are hardly rare. Complicating the matter further, many Humanists are all to happy to spend time throwing their skills into the War of Seasons, and many Militants advocate discussing the issues of the human realm in-between hostile engagements with the other courts. 
+ # Currently, the Court is like a nest of ants that has been kicked over. Diplomats and ambassadors race to other local courts, both Spring holdings and hostile, other-Court domains. Other areas boast the presence of assembled companies of soldiers, who, although a hollow reflection of the grand armies of the Battle of Stone, are still formidable for their skill and dedication. 
+ # Interestingly, the Patrons are also seeing a great increase in Spring fae joining their ranks. Most Spring fae who join the ranks of the Patrons tend to find themselves among the hidden enclaves of the Seekers or the bold and visible Vanguard. 
+  
+ spring_court_religion: "Cour de printemps" #NT!
+ spring_court_religion_adj: "Cour de printemps" #NT!
+ spring_court_religion_adherent: "Parent du printemps" #NT!
+ spring_court_religion_adherent_plural: "Parent du printemps" #NT!
+ spring_court_religion_desc: "Les fées du printemps acceptent le changement sous toutes ses formes, observant la vie progresser au fil des raisons et se délectant de toutes ses myriades de variations, y compris les nombreuses manières différentes dont elle peut se terminer. Ils ont perdu bon nombre de leurs plus grandes propriétés des siècles passés, mais de toutes les cours, ils sont les plus aptes à trouver de nouveaux foyers et à s'adapter à un nouvel environnement." #NT!
+  
+ spring_court: "Cour de printemps" #NT!
+ spring_court_adj: "Cour de printemps" #NT!
+ spring_court_adherent: "Parent du printemps" #NT!
+ spring_court_adherent_plural: "Parent du printemps" #NT!
+ spring_court_desc: "Dans cette nouvelle ère de foi et d'incertitude, la Cour du Printemps cherche à comprendre et à résoudre les blessures créées entre l'humanité et les faes. Dans la Guerre des Saisons, ce sont de fervents combattants, désireux de remporter la victoire une fois pour toutes ; et dans le royaume des mortels, ils cherchent à retrouver leur pertinence pour les humains et à être à nouveau craints et respectés.\n\nLa Cour du changement et du paradoxe, les fae du Printemps s'efforcent de changer tout et n'importe quoi à leur avantage, avant l'humanité. soit il les oublie, soit il bannit les faes pour toujours. Si une telle impasse se produisait, toute la Guerre des Saisons et tous les autres efforts connaîtraient une fin vaine." #NT!
+  
+ spring_court_militants: "Militants de la Cour de Printemps" #NT!
+ spring_court_militants_adj: "Militant de la Cour du Printemps" #NT!
+ spring_court_militants_adherent: "Militant parent du printemps" #NT!
+ spring_court_militants_adherent_plural: "Militants parents du printemps" #NT!
+ spring_court_militants_desc: "Dans la Guerre des Saisons, les militants Spring-kin sont de fervents combattants, désireux de remporter la victoire une fois pour toutes ; et dans le royaume des mortels, ils cherchent à retrouver leur pertinence pour les humains et à être à nouveau craints et respectés. Cour du changement et du paradoxe, les faes du printemps s'efforcent de changer tout et n'importe quoi à leur avantage, avant que l'humanité ne les oublie ou ne les bannisse pour toujours. De nombreux militants originaires de Spring préconisent de discuter des questions liées au domaine humain entre deux engagements hostiles avec les autres tribunaux. De nombreuses Cours de Printemps se vantent de la présence de compagnies de soldats rassemblés qui, bien qu'ils ne soient qu'un reflet creux des grandes armées de la Bataille de Pierre, sont néanmoins redoutables par leur habileté et leur dévouement." #NT!
+  
+ spring_court_trucebearers: "Porteurs de la trêve de la Cour du Printemps" #NT!
+ spring_court_trucebearers_adj: "Porteur de la trêve de la Cour du Printemps" #NT!
+ spring_court_trucebearers_adherent: "Porteur de la trêve des parents du printemps" #NT!
+ spring_court_trucebearers_adherent_plural: "Porteurs de trêve parents du printemps" #NT!
+ spring_court_trucebearers_desc: "Alors qu'une grande partie de la Cour de Printemps salue la fin de la Trêve-Serment comme un grand changement, les porteurs de la Trêve-parents de Printemps soutiennent qu'un compromis dans lequel le règne du monde passe par les tribunaux saisonniers serait bien plus de changement que si un seul la cour, même la Cour de Printemps, en est venue à statuer seule." #NT!
+  
+ spring_court_humanists: "Humanistes de la Cour du Printemps" #NT!
+ spring_court_humanists_adj: "Humaniste de la Cour du Printemps" #NT!
+ spring_court_humanists_adherent: "Humaniste du printemps" #NT!
+ spring_court_humanists_adherent_plural: "Humanistes du printemps" #NT!
+ spring_court_humanists_desc: "La majorité de la Cour de Printemps suit un programme humaniste. Les Spring-kin sont souvent considérés comme les plus protecteurs de l’humanité, même s’il ne s’agit en aucun cas nécessairement d’un acte d’altruisme dévoué. Les faes du Printemps réalisent qu'ils doivent renforcer la relation mutuellement bénéfique entre les deux races, de peur que les faes ne disparaissent de l'esprit des mortels pour toujours. Par conséquent, leurs serments impliquent souvent d’aider ou de protéger les humains, bien que des serments aussi lourds exigent des engagements tout aussi substantiels de la part du mortel qui a prêté serment." #NT!
+  
+ spring_court_constantinians: "Cour de Printemps Constantiniens" #NT!
+ spring_court_constantinians_adj: "Cour de Printemps Constantinien" #NT!
+ spring_court_constantinians_adherent: "Constantinien, parent du printemps" #NT!
+ spring_court_constantinians_adherent_plural: "Constantiniens parents du printemps" #NT!
+ spring_court_constantinians_desc: "La Cour du Printemps abrite la plus grande partie des faes qui cherchent à comprendre l'Église pour le bien et l'équilibre des deux mondes. Ils travaillent rapidement pour rechercher et comprendre les merveilles de choses comme les vastes cathédrales, la prière sacrée et les croisades. L'avènement de l'Église du Dieu Unique est certainement le plus grand changement qui puisse se produire chez les humains, et les Constantiniens de la famille printanière veulent faire partie des changements que l'Église apportera ensuite." #NT!
+  
+ # Summer Court 
+ # Consisting mainly of firstborn and inanimae, the Summer Court is a bastion of traditional and self-righteous. The members of the Summer Court are alien in their views of humanity; and despite realizing full well that the mortal realm and its inhabitants have utterly changed in the last centuries, these hidebound creatures are unwilling to change alongside them. For the Summer fae, ignorance of the law is no excuse. Humanity may have forgotten many of its oaths, but that does not mean punishment should be lightened accordingly. 
+ # The Summer Court prides itself on adherence to tradition and structure, and harsh observance of discipline. Summer fae are stern but fair masters, and their love of traditions means that they have retained many treasures and strongholds from ages past. 
+  
+ # Summer Poem: 
+ # The pinnacle of Nature's fruits swell with the warmth of the midday, 
+ # The fullest time of the turning year and darkness furthest away, 
+ # A sedating calm claims beast and man, 
+ # As the laze of summer weaves its terrible sheath, 
+ # Shrouding the weak in a lack of will, allowing the sly to bare their teeth. 
+  
+ # Wrapped in the traditional roles of the fae, the Sumer Court is populated by living reflections of Faerie-kind's fading might. The very core of this Court is the literal embodiment of unchanging stasis; and  in the pillars of tradition and history, the Summer fae find a unique strength. 
+ # The other Courts can scramble to change and shift to fit in with the mortal realm — that is their prerogative. The dignified Summer fae are aware of the same changes, but have made a conscious choice to resist them. Humankind has forgotten the old ways. The Summer fae have not. For these traditionalists, is time to remind the mortals of the way of things once were: renewing all of their faded ties, reminding them of all the lost customs, and restoring the upstarts to their proper place in the world. 
+ # The Summer fae are not preparing to invade the human realm en masse, of course. Even to their alien views of humanity, it is clear that such a course would be a failure at best, and a disastrous failure at worst. Rather, they intend to renew their old ties to the mortals and strengthen the bonds that remain. Oath-bound humans are to be prized and rewarded for acting in accord with their place in the drama of the world, while oath-breakers are to be punished swiftly and definitively to the full extent of the oath's tenets. To the Summer fae, humans are strange, beguiling and intelligent creatures, but creatures nonetheless. Many of this Court believe the time for retraining these creatures has come. 
+ # As the Oath-Truce moves into its final days, the faeries of the Summer Court are preparing for the resumption of conflict with gladdened hearts and sharpened blades. Th War of Seasons is their battle, for despite the setbacks of the Battle of Stone, the Summer fae have ever believed they would emerge as the ultimate victors. Indeed, it is the rare Summer holding that lacks a traditional (and utterly ostentatious) show of military influence. Be it war banners hanging from the rafters of a palace's throne room, or a collection of tunnels under the Earth filled with the pipes, flutes and harp-notes of an ancient war song, many of the Summer fae prize the tools of war and are fierce advocates of the Militant agenda. Truce-Bearers are almost unheard of, and those who do pursue that agenda usually do so with the single intention of  allowing their own domains more time to prepare for the eventual recommencement of battle. 
+ # This is not to say that the Summer fae are bloodthirsty savages. In most cases, nothing could be further from the truth. In fae circles, they are often witty and urbane; and though frequently aloof, they are considered correct to a fault. Mortal eyes do not share these views, however. To humans, the Summer fae are no less than awe-inspiring creatures of legend that can bring tears of joy or fear to mortal eyes. 
+ # Changelings re few in number compared to the firstborn and inanimae, which goes a long way to explaing the Court's alien perceptions of humanity. Even the changelings of this hidebound faction, most often stolen from families rather than born of firstborn and human couplings, tend to follow almost chivalric codes of conduct and respectability. 
+ # The Court bears a passionate hatred of the Patrons, which stands to reason considering the Summer fae's ardent assurance that they will triumph in the War of Seasons. Also, the Solstice fae are particularly sneered at — in public, at least. In private, the Summer fae stoop to hiring the netural fae as often as any other faction (and perhaps more than some). Publicly, the Court at large detests the Solstice-kin, mainly because of the rumors that the Courtless began the War of Seasons. 
+  
+ summer_court_religion: "Cour d'été" #NT!
+ summer_court_religion_adj: "Cour d'été" #NT!
+ summer_court_religion_adherent: "Parent d'été" #NT!
+ summer_court_religion_adherent_plural: "Parent d'été" #NT!
+ summer_court_religion_desc: "La Cour d'Été est fière de son adhésion à la tradition et à la structure, ainsi que du strict respect de la discipline. Les faes de l'été sont des maîtres sévères mais justes, et leur amour des traditions signifie qu'ils ont conservé de nombreux trésors et forteresses des siècles passés." #NT!
+  
+ summer_court: "Cour d'été" #NT!
+ summer_court_adj: "Cour d'été" #NT!
+ summer_court_adherent: "Parent d'été" #NT!
+ summer_court_adherent_plural: "Parent d'été" #NT!
+ summer_court_desc: "Enveloppée dans les rôles traditionnels des fées, la Cour de Sumer est peuplée de reflets vivants de la puissance déclinante du genre féerique. Le noyau même de cette Cour est l’incarnation littérale d’une stase immuable ; et dans les piliers de la tradition et de l’histoire, les fées de l’été trouvent une force unique. Les dignes faes de Summer sont conscients des changements intervenus dans le royaume des mortels, mais ont fait le choix conscient d'y résister. L’humanité a oublié les anciennes méthodes. Les fées de l'été ne l'ont pas fait. Pour ces traditionalistes, il est temps de rappeler aux mortels la façon dont les choses étaient autrefois : renouer tous leurs liens fanés, leur rappeler toutes les coutumes perdues et redonner aux parvenus la place qui leur revient dans le monde. Pour les fées de l'été, l'ignorance de la loi n'est pas une excuse. L’humanité a peut-être oublié bon nombre de ses serments, mais cela ne signifie pas que les sanctions doivent être allégées en conséquence." #NT!
+  
+ summer_court_militants: "Militants de la Cour d'été" #NT!
+ summer_court_militants_adj: "Militant de la Cour d'été" #NT!
+ summer_court_militants_adherent: "Militant d'été" #NT!
+ summer_court_militants_adherent_plural: "Militants de l'été" #NT!
+ summer_court_militants_desc: "Alors que le Serment-Trêve entre dans ses derniers jours, les fées de la Cour d'Été se préparent à la reprise du conflit avec des cœurs réjouis et des lames aiguisées. La Guerre des Saisons est leur bataille, ils ont toujours cru qu'ils en sortiraient vainqueurs ultimes.\n\nLa plupart des propriétés d'été présentent des démonstrations traditionnelles et tout à fait ostentatoires d'influence militaire. Qu'il s'agisse de bannières de guerre suspendues aux chevrons de la salle du trône d'un palais ou d'un ensemble de tunnels sous terre remplis de cornemuses, de flûtes et de notes de harpe d'un ancien chant de guerre, de nombreux faes de l'été apprécient les outils de guerre et sont fervents défenseurs du programme militant. La Cour nourrit une haine passionnée envers les Patrons, ce qui est logique compte tenu de l'assurance ardente des Fae de l'Été qu'ils triompheront dans la Guerre des Saisons." #NT!
+  
+ summer_court_trucebearers: "Gardiens de la trêve de la cour d'été" #NT!
+ summer_court_trucebearers_adj: "Porteur de la trêve de la cour d'été" #NT!
+ summer_court_trucebearers_adherent: "Porteur de la Trêve, parent de l'Été" #NT!
+ summer_court_trucebearers_adherent_plural: "Porteurs de la trêve parents de l'été" #NT!
+ summer_court_trucebearers_desc: "Les porteurs de trêve sont presque inconnus à la Cour d'Été, et ceux qui poursuivent ce programme le font généralement dans le seul but de donner à leurs propres domaines plus de temps pour se préparer à la reprise éventuelle de la bataille. D'autres parents de l'été, au cours des 800 ans depuis la bataille de Stone (et particulièrement pendant les 100 ans du Serment-Trêve) ont forgé des alliances et des amitiés étroites avec les membres des cours rivales, et ne sont pas très désireux de prendre le terrain contre ces nouveaux camarades. Finalement, certains faes ne se soucient pas si les tribunaux reprennent la guerre ; ils préféreraient simplement ne pas avoir eux-mêmes à se joindre au conflit. Certains proches de l'été préconisent même un retour en Arcadie." #NT!
+  
+ summer_court_humanists: "Humanistes de la Cour d'été" #NT!
+ summer_court_humanists_adj: "Humaniste de la Cour d'été" #NT!
+ summer_court_humanists_adherent: "Humaniste parent de l'été" #NT!
+ summer_court_humanists_adherent_plural: "Humanistes parents de l'été" #NT!
+ summer_court_humanists_desc: "Les Summer-kin veulent que les humains « connaissent leur place » et voient les humains enchantés avant tout comme des serviteurs. Ils souhaitent renforcer les anciennes relations où, pour les humains, les faes de l'été ne sont rien de moins que des créatures légendaires impressionnantes qui peuvent faire pleurer de joie ou de peur les yeux des mortels." #NT!
+  
+ summer_court_constantinians: "Cour d'été des Constantiniens" #NT!
+ summer_court_constantinians_adj: "Cour d'été Constantinienne" #NT!
+ summer_court_constantinians_adherent: "Constantinien, parent de l'été" #NT!
+ summer_court_constantinians_adherent_plural: "Constantiniens parents de l'été" #NT!
+ summer_court_constantinians_desc: "Certains membres de la famille Summer voient un reflet de leurs propres croyances dans l'importance de la pratique rituelle et de la hiérarchie dans l'Église. Le christianisme a survécu et a même prospéré pendant plus d'un millénaire – c'est juste assez longtemps en tant qu'institution pour gagner un respect réticent envers certains membres de la Cour d'Été. Pour de nombreux changelins de l’été, l’Église semble aussi éternelle et immuable que les véritables faes. Les Constantiniens de la Cour d'Été cherchent à faire ressortir les anciennes traditions du christianisme depuis la résurrection de Jésus, représentée comme un lever de soleil sur l'obsession de Constantin pour Sol Invictus. Que la lumière soit!" #NT!
+  
+ # Autumn Court 
+ # The fae of the Autumn Court seek to hide their true selves from the humans, dominating and manipulating them from behind facades of mysterious benefactors. The Autumn fae, like the Spring-kin, realize that the mortals are slowly replacing the presence of fae in their lives with the incantations to a distant God. Many work to understand humanity's new stance and restore themselves as half-hidden overlords, while others seek to use humanity and the old oaths as weapons in the War of Seasons. Mortals, for all their frailties and weaknesses, are useful because of the oaths that bind them—useful both as shields against banality and as allies in the coming conflict. 
+ # Fascinated with humanity, even more than most fae, the Autumn-kin are contemplative and clever. Swearing an oath with an Autumn fae is much like making a deal with the devil—enticing, empowering and often deadly in the final accounting. The Autumn fae look at humans and their faith with wonder and ambition, and they of all faeries know that the next phase of the War of Seasons depends entirely on dealing with humanity. 
+  
+ # Autumn Poem: 
+ # The falling colors of dusk descent with the waning leaves, 
+ # Just as a butterfly's wings are a warning; their beauty deceives, 
+ # For as their color spills like ink; they are dying 
+ # Sure as the season's mists whisper it so, 
+ # The vibrancy is a facade, as Autumn persists in lying. 
+  
+ # As the Oath-Truce nears its end, the Autumn fae set their attentions upon two factors that they believe will change everything. The Spring Court suffers under the pull of too many directions, while the Summer Court ruthless pursues a singular goal, and the Winter Court remains largely ambivalent. Many of the Autumn Court like to see themselves as more composed than their other-season kin in these times; and to a great extend, they are correct. The fae of the Autumn Court excel at seeing the larger picture and working toward their goals with this in mind. 
+ # The War of Seasons has always been fought over the grand prize of the world itself, and the other Courts ready themselves in varying degrees to return to the fray with eyes narrowed and blades bared. The Autumn fae have opened their eyes and lowered their swords, because something is very, very wrong. 
+ # The War of Seasons is a fool's gamble: Nigh-impossible to win, and crippling to the victors, for the Court that eventually achieves victory will be so weakened from the War that any triumph will be rendered pointless. Over and above the fae conflict, the Autmun Court's fae are directing their attentions to the fact that the world is no longer theirs in truth. The humans have bred and spawned in their many thousands across the realm, and they bring with them the alien powers and magic of their mysterious faith. 
+ # The Autumn fae realize that no matter which faction conquers all in the War of Seasons, what comes after the conflict is the truly important aspect in this day and age. The humans have magic from their invented Divine overseer, which makes many fae wonder if the One Aove is indeed a mortal invention or not. Since the age of openly declared fae rule, the face of the world has altered too significantly to simply reveal themselves to the humans and expect fear, adoration and respect. Now, different methods must be employed if the fae wish to achieve their goals. The War of Seasons can wait. Now is the time to take stock of the world and see what the great war is actually being fought for. 
+ # Humanity can be a great weapon for the fae. The Autumn court, comprised almost entirely of Changelings who excel at this kind of deception and bargaining, offers Faustian deals and oaths to needy (or greedy) mortals. A shield against Banality and a source of both religious lore and allies and contacts, the Autumn fae view humanity as a useful commodity indeed. In addition, as a vast majority of the Court's fae are changeling, they are also view humanity as the principle source of "recruitment." Many Autumn fae, protective of their true natures and their desires for humanity to never understand the fae entirely, prefer to steal human children and raise them as changelings rather than take mortal lovers. "recrutement." #NT!
+ # The Autumn Court is flooded with Constantinians, who make tentative contacts with select mortals in their immense undertaking to comprehend the complexities and power of human faith. The power of baptism terrifies the Autumn fae more than any other Court, both because the Court largely consists of changelings, and because they have learned the most about the intricacies of human faith. Baptism itself is unanimously regarded with horror, for a ritual that can immediately counteract a Saining and wash a fae clean of his mystical powers is seen as nothing less than a fate worse than death. The Autumn-kin are pragmatic, however. Rather than seeing the Church as an enemy to be opposed and halted, they view it as a mystery to be revealed, opened and studied. Once the power of mortals' beliefs is understood, perhaps even the Mists will return to their more benevolent balance. 
+ # Currently, many Constantinians are finding new allies among the Humanists of the Spring Court; and although the Autumn Court's Truce-Bearers and Militants are mostly interesting rarities, they do exist are acting on their own agendas. 
+ # The Patrons appare to lack Autumn members, purely because the majority of the Vanguard, visible to society, are not from this Court. The Seekers and Austere Conclave, however, boast more than their share of Autumn fae, drawn as they are to the inner workings of both the fae and human realms. 
+  
+ autumn_court_religion: "Cour d'automne" #NT!
+ autumn_court_religion_adj: "Cour d'automne" #NT!
+ autumn_court_religion_adherent: "Parents d'automne" #NT!
+ autumn_court_religion_adherent_plural: "Parents d'automne" #NT!
+ autumn_court_religion_desc: "Fascinés par l'humanité, encore plus que la plupart des faes, les membres de l'Automne sont contemplatifs et intelligents. Prêter serment avec un fae d'automne revient un peu à conclure un pacte avec le diable : séduisant, stimulant et souvent mortel au final. Les faes d'Automne regardent les humains et leur foi avec émerveillement et ambition, et eux, plus que toutes les fées, savent que la prochaine phase de la Guerre des Saisons dépend entièrement de la relation avec l'humanité." #NT!
+  
+ autumn_court: "Cour d'automne" #NT!
+ autumn_court_adj: "Cour d'automne" #NT!
+ autumn_court_adherent: "Parents d'automne" #NT!
+ autumn_court_adherent_plural: "Parents d'automne" #NT!
+ autumn_court_desc: "Les faes de la Cour d'Automne cherchent à cacher leur véritable identité aux humains, les dominant et les manipulant derrière les façades de mystérieux bienfaiteurs. Les faes d'automne se rendent compte que les mortels remplacent peu à peu la présence des faes dans leur vie par des incantations adressées à un Dieu lointain.\n\nBeaucoup d'entre eux s'efforcent de comprendre la nouvelle position de l'humanité et de se rétablir en tant que suzerains à moitié cachés, tandis que d'autres cherchent à utiliser l'humanité. et les vieux serments comme armes dans la Guerre des Saisons. Les mortels, malgré toutes leurs fragilités et faiblesses, sont utiles en raison des serments qui les lient – ​​utiles à la fois comme boucliers contre la banalité et comme alliés dans le conflit à venir." #NT!
+  
+ autumn_court_militants: "Militants de la Cour d'Automne" #NT!
+ autumn_court_militants_adj: "Militant de la Cour d'Automne" #NT!
+ autumn_court_militants_adherent: "Militant apparenté à l'Automne" #NT!
+ autumn_court_militants_adherent_plural: "Militants apparentés à l'Automne" #NT!
+ autumn_court_militants_desc: "Des militants émergent de chaque Cour, même si la Cour d'Automne compte le moins d'entre eux avides de bataille. Quelques-uns des Fae d'Automne ont hâte que le Serment-Trêve prenne fin afin de pouvoir reprendre les engagements de la Guerre ou des Saisons.\n\nLes militants Autumn-Kin tissent des intrigues pour manipuler les faes et les mortels et servent de pions dans la guerre. . Ils cherchent à utiliser l’humanité et les anciens serments comme armes dans la Guerre des Saisons. Les mortels, malgré toutes leurs fragilités et faiblesses, sont utiles en raison des serments qui les lient – ​​utiles à la fois comme boucliers contre la banalité et comme alliés dans le conflit à venir. La Guerre des Saisons a commencé avec des assassinats, des embuscades de tirailleurs, des attaques par procuration d'humains et de faes trompés, des coups dans le dos, des mercenaires du Solstice et des surprises – les fae d'Automne croient qu'elle peut également être gagnée par de tels moyens. Frappez depuis l'ombre !" #NT!
+  
+ autumn_court_trucebearers: "Porteurs de la trêve de la Cour d'Automne" #NT!
+ autumn_court_trucebearers_adj: "Porteur de la trêve de la Cour d'Automne" #NT!
+ autumn_court_trucebearers_adherent: "Porteur de la Trêve des parents d'Automne" #NT!
+ autumn_court_trucebearers_adherent_plural: "Porteurs de la Trêve, parents d'Automne" #NT!
+ autumn_court_trucebearers_desc: "Les faes d’Automne ont ouvert les yeux et baissé leurs épées, car quelque chose ne va vraiment pas. La Guerre des Saisons est un pari insensé : presque impossible à gagner et paralysante pour les vainqueurs, car la Cour qui remportera finalement la victoire sera tellement affaiblie par la guerre que tout triomphe deviendra inutile. Les faes de la Cour d'Automne concentrent leur attention sur le fait que le monde ne leur appartient plus. Les faes d'Automne réalisent que ce qui vient après le conflit est vraiment l'aspect le plus important. Les humains possèdent la magie de leur surveillant divin inventé, ce qui amène de nombreux faes à se demander si Celui d'en haut est effectivement une invention mortelle ou non. Depuis l’époque du règne ouvertement déclaré des Faes, la face du monde a trop changé de manière significative pour qu’on puisse simplement se révéler aux humains et s’attendre à la peur, à l’adoration et au respect. Désormais, différentes méthodes doivent être employées si les faes souhaitent atteindre leurs objectifs. La Guerre des Saisons peut attendre. Il est désormais temps de faire le point sur le monde et de voir pourquoi cette grande guerre est réellement menée." #NT!
+  
+ autumn_court_humanists: "Humanistes de la Cour d’Automne" #NT!
+ autumn_court_humanists_adj: "Humaniste de la Cour d'Automne" #NT!
+ autumn_court_humanists_adherent: "Humaniste d'automne" #NT!
+ autumn_court_humanists_adherent_plural: "Humanistes de l'Automne" #NT!
+ autumn_court_humanists_desc: "Même si la plupart des faes sont humanistes à un degré ou à un autre, les membres de cette faction peuplent de manière significative la Cour d'Automne. Les faes de la Cour d'Automne excellent à avoir une vue d'ensemble et à travailler vers leurs objectifs en gardant cela à l'esprit. Fascinés par l'humanité, encore plus que la plupart des faes, les membres de l'Automne sont contemplatifs et intelligents. Prêter serment avec un fae d'automne revient un peu à conclure un pacte avec le diable : séduisant, stimulant et souvent mortel au final. Les faes d'Automne regardent les humains et leur foi avec émerveillement et ambition, et eux, plus que toutes les fées, savent que la prochaine phase de la Guerre des Saisons dépend entièrement de la relation avec l'humanité. Les faes de la Cour d'Automne cherchent à cacher leur véritable identité aux humains, les dominant et les manipulant derrière les façades de mystérieux bienfaiteurs." #NT!
+  
+ autumn_court_constantinians: "Cour d'automne des Constantiniens" #NT!
+ autumn_court_constantinians_adj: "Cour d'Automne Constantinienne" #NT!
+ autumn_court_constantinians_adherent: "Automne Constantinien" #NT!
+ autumn_court_constantinians_adherent_plural: "Constantiniens d'automne" #NT!
+ autumn_court_constantinians_desc: "La Cour d'Automne est inondée de Constantiniens, qui établissent des contacts provisoires avec des mortels sélectionnés dans leur immense entreprise visant à comprendre les complexités et le pouvoir de la foi humaine. Le pouvoir du baptême terrifie les fae d'Automne plus que toute autre Cour, à la fois parce que la Cour est en grande partie composée de changelings et parce que ce sont eux qui en ont le plus appris sur les subtilités de la foi humaine. Le baptême lui-même est unanimement considéré avec horreur, car un rituel qui peut immédiatement contrecarrer un Saining et laver un fae de ses pouvoirs mystiques est considéré comme rien de moins qu'un destin pire que la mort.\n\nLes parents d'Automne sont pragmatiques. Plutôt que de considérer l’Église comme un ennemi à combattre et à stopper, ils la voient comme un mystère à révéler, à ouvrir et à étudier. Une fois que le pouvoir des croyances des mortels sera compris, peut-être même les Brumes retrouveront leur équilibre plus bienveillant." #NT!
+  
+ # Solstice Court 
+ # Courtless and scattered, the unSained are the neutral faction in the War of Seasons. While most are ignored, disregarded or simply despised, the Solstice fae can also make mercenaries and diplomats of extraordinary skill and usefulness, due to their unbiased stance in the whole conflict. A Solstice fae can be either a great boon to an oathcircle, or a great burden, depending on the local fae and their opinions—and the Solstice-king's personal skills. Many of them ignore fae society completely and exist on the fringes of domains, while others carve out what lives they can as sell-swords and couriers for the high and mighty Courts. 
+  
+ # The Courtless fae first appeared after seasonal rule was instituted. Some fae, the story goes, refused to be part of the seasonal rule. They wold accept nothing less than true rule. Most Fae regarded this attitude with amusement and contempt, and turned such fae out of their Courts. These outcasts wandered from place to place, and eventually began acting as couriers and mercenaries to survive. The Solstice fae, as they have become known, still perform those duties today. 
+  
+ # Solstice Poem: 
+  
+ # We have no great song. No poem. No words. And yet,we are beholden to none; slaves to 
+  
+ # neither the seaons' turning nor destiny's wheel. 
+ # They are pitied by the Spring Court, disregarded by the Autumn Courtiers, hated by the Winter-kin, and publicly despised by the Summer fae. The main accusation aimed at the Solstice fae, however, is one of stupidity. The fact is that a fae who remains unSained and unallied with a chosen Court has no claim to the human realm once the War of Seaons is won. 
+ # Every Sained fae, eve if they are not fighters or soldiers, believes that their Court's ideology is the truest and best plan for the new world order. In the face of such dedication and fanaticism, the Solstice fae simply shrug and declare no interst, no allegiance and no desire to partake of the final prize—the world itself. 
+ # The fact that most Solstice fae don't even hold oaths with humanity adds another layer of disadvantage to their situations. Oaths, in their most basic form, are shields against banality. Solstice fae, lacking even this basic defense for their unSained souls, are accordingly vulnerable in the human realm. 
+ # The reputation of this faction is tattered further by the slander of the Winter and Summer Courts, for both have inner factions that hold vague legends claiming the entire War of Seasons was started by a faction of the Solstice fae known as the Coterie of Drail to be true. A few fae alive today claim to have met Drail, even though their meetings with him would have dated many years after the commencement of the War of Seasons. He is not a name spoken with kindness. 
+ # For all their perceived vulnerabilities, Solstice mercenaries are the hirelings of choice in the War of Seasons. It is safer to acquire the services of the Solstice fae over any Sained fae, because the Courtless have no predetermined or pre-sworn loyalties. As soldiers, diplomats, message-bearers, spies and ambassadors, the Solstice fae are in their element. 
+ # Ofcourse, everyone has a price. The Solstice fae are no exception, and it's possible that a hireling will defect or betray secret information. This is always a risk for the employer, but many Solstice fae have earned their reputations for reliability through years of diligence, effort and conflict. 
+ # With such chaotic roots, its hardly surprising that the Solstice fae are not divided equally among the three Origins. Firstborn are by far the most numerous, followed by inanimae and changelings. While not specifically rare, changelings are certainly outnumbered by the othe Origins due to the Solstice fae's lack of oaths and associated relations with humans. Solstice firstborn are notoriously proud and difficult to deal with unless a respectful attitude is shown. Many of this creed of Solstice-kin see themselves as the elite of the elite—they are true-blooded fae, above the limitations that Court-bound fae must endure. In fact, it is these fae in particular who are eager for the Oath-Truce to finally fall, so that they can begin accepting military contracts in addition to the negotiations and diplomacy. These tend to be the Solstice-kin that make the most desirable and keen hirelings. 
+ # While the War of Seasons close to breaking out once more, and the Courts, factions and agendas swelling with conflicting tensions and ideologies, it goes almost without saying that the Solstice fae will see a great deal of action before too long—either as instigators and mercenaries if they are shrewd and careful... or merely arrow-fodder if they are not. 
+  
+ solstice_court_religion: "Cour du Solstice" #NT!
+ solstice_court_religion_adj: "Cour du Solstice" #NT!
+ solstice_court_religion_adherent: "Parent du solstice" #NT!
+ solstice_court_religion_adherent_plural: "Parent du solstice" #NT!
+ solstice_court_religion_desc: "Sans cour et dispersés, les non-Sains constituent la faction neutre de la Guerre des Saisons. Bien que la plupart soient ignorés, méprisés ou simplement méprisés, les fae du Solstice peuvent également faire des mercenaires et des diplomates d'une compétence et d'une utilité extraordinaires, en raison de leur position impartiale dans l'ensemble du conflit. Un fae du Solstice peut être soit une grande aubaine pour un cercle de serment, soit un lourd fardeau, selon le fae local et ses opinions, ainsi que les compétences personnelles du parent du Solstice. Beaucoup d’entre eux ignorent complètement la société fae et existent en marge des domaines, tandis que d’autres mènent leur vie comme ils le peuvent en vendant des épées et des messagers pour les hautes et puissantes Cours." #NT!
+  
+ solstice_court: "Cour du Solstice" #NT!
+ solstice_court_adj: "Cour du Solstice" #NT!
+ solstice_court_adherent: "Parent du solstice" #NT!
+ solstice_court_adherent_plural: "Parent du solstice" #NT!
+ solstice_court_desc: "Sans cour et dispersés, les non-Sains constituent la faction neutre de la Guerre des Saisons. Bien que la plupart soient ignorés, méprisés ou simplement méprisés, les fae du Solstice peuvent également faire des mercenaires et des diplomates d'une compétence et d'une utilité extraordinaires, en raison de leur position impartiale dans l'ensemble du conflit. Un fae du Solstice peut être soit une grande aubaine pour un cercle de serment, soit un lourd fardeau, selon le fae local et ses opinions, ainsi que les compétences personnelles du parent du Solstice. Beaucoup d’entre eux ignorent complètement la société fae et existent en marge des domaines, tandis que d’autres mènent leur vie comme ils le peuvent en vendant des épées et des messagers pour les hautes et puissantes Cours." #NT!
+  
+ solstice_court_militants: "Militants de la Cour du Solstice" #NT!
+ solstice_court_militants_adj: "Militant de la Cour du Solstice" #NT!
+ solstice_court_militants_adherent: "Militant apparenté au Solstice" #NT!
+ solstice_court_militants_adherent_plural: "Militants apparentés au Solstice" #NT!
+ solstice_court_militants_desc: "Malgré toutes leurs vulnérabilités perçues, les mercenaires du Solstice sont les mercenaires de choix dans la Guerre des Saisons. Il est plus sûr d'acquérir les services des fae du Solstice plutôt que ceux de n'importe quel fae Sained, car les Sans Court n'ont pas de loyauté prédéterminée ou pré-jurée. Bien que la plupart soient ignorés, méprisés ou simplement méprisés, les fae du Solstice peuvent également faire des mercenaires d'une compétence et d'une utilité extraordinaires, en raison de leur position impartiale dans l'ensemble du conflit. En tant que soldats, les faes du Solstice sont dans leur élément.\n\nDe nombreux faes du Solstice ont acquis leur réputation de fiabilité grâce à des années de diligence, d'efforts et de conflits. Beaucoup de membres de cette croyance se considèrent comme l'élite de l'élite : ce sont des faes de sang pur, au-dessus des limites que les faes liés à la Cour doivent endurer. Ce sont ces faes qui ont hâte que le Serment-Trêve tombe enfin, afin de pouvoir à nouveau accepter des contrats militaires. Ce sont généralement les parents du Solstice qui constituent les mercenaires les plus désirables et les plus enthousiastes." #NT!
+  
+ solstice_court_trucebearers: "Porteurs de trêve de la Cour du Solstice" #NT!
+ solstice_court_trucebearers_adj: "Porteur de la trêve de la Cour du Solstice" #NT!
+ solstice_court_trucebearers_adherent: "Porteur de la Trêve des frères du Solstice" #NT!
+ solstice_court_trucebearers_adherent_plural: "Porteurs de trêve des frères du Solstice" #NT!
+ solstice_court_trucebearers_desc: "Bien que la plupart soient ignorés, méprisés ou simplement méprisés, les fae du Solstice peuvent également faire des diplomates d'une compétence et d'une utilité extraordinaires, en raison de leur position impartiale dans l'ensemble du conflit. En tant que diplomates, porteurs de messages, espions et ambassadeurs, les fae du Solstice sont dans leur élément. Les porteurs de la trêve sans court sont des individus isolés ou de petits groupes de faes qui travaillent avec ferveur dans l'arène sociale pour influencer les tribunaux locaux vers la paix. Sans surprise, ils réussissent rarement, mais cela ne fait qu’attiser les flammes de leur cœur. La paix, quel qu’en soit le prix, est leur vocation." #NT!
+  
+ solstice_court_humanists: "Humanistes de la Cour du Solstice" #NT!
+ solstice_court_humanists_adj: "Humaniste de la Cour du Solstice" #NT!
+ solstice_court_humanists_adherent: "Humaniste proche du Solstice" #NT!
+ solstice_court_humanists_adherent_plural: "Humanistes du Solstice" #NT!
+ solstice_court_humanists_desc: "Très peu de faes du Solstice risquent un contact prolongé avec l'humanité, car ils sont incapables de forger des serments magiques avec les mortels. Les quelques Courtless qui suivent un programme humaniste sont attirés par l’humanité comme un papillon de nuit par la flamme. La faction humaniste ne prône pas nécessairement la gentillesse et la tolérance lorsqu’elle traite du domaine humain, mais elle adopte plutôt une éthique qui vise principalement à comprendre l’humanité." #NT!
+  
+ solstice_court_constantinians: "Cour du Solstice Constantiniens" #NT!
+ solstice_court_constantinians_adj: "Cour du Solstice Constantinien" #NT!
+ solstice_court_constantinians_adherent: "Constantinien, parent du solstice" #NT!
+ solstice_court_constantinians_adherent_plural: "Constantiniens parents du solstice" #NT!
+ solstice_court_constantinians_desc: "Les fae de la Cour du Solstice, ayant rejeté la Guerre des Saisons et les valeurs des cours saisonnières, sont peut-être les plus enclins à abandonner les idéaux Fae pour chercher à se convertir à l'Église. Si seulement il y avait un moyen pour eux de conserver leur nature de fae grâce au baptême, mais aussi d'acquérir les pouvoirs de la vraie foi." #NT!
+  
+ holy_order_winters_teeth: "Les dents de l'hiver" #NT!
+ holy_order_green_blades: "Lames vertes" #NT!
+ holy_order_sun_guard: "Pare-Soleil" #NT!
+ holy_order_crunch_of_leaves: "Croquant des feuilles" #NT!
+ holy_order_sunset_mercenaries: "Mercenaires du coucher du soleil" #NT!
+  
+ empire_of_seeds: "Empire des graines" #NT!
+ empire_of_seeds_adj: "Graines" #NT!
+ empire_of_seeds_adherent: "Graine" #NT!
+ empire_of_seeds_adherent_plural: "Graines" #NT!
+ empire_of_seeds_desc: "Cour des Kuberas, un phyla des Inanimae. La nation de la Dryade est un groupe sylvestre qui partage des vies et des biens. Dans le [dreaming|E], la Patrie des Nymphes est une vaste forêt au centre des Royaumes de la Patrie. Politiquement, les Dryades soutiennent les Glomes mais ont des réserves quant au traitement réservé à la Patrie Solimond. En tant que Phyla les plus touchés par la Guerre de Création, ils ne sont pas très sympathiques à la cause de la réintégration de Solimond. Le festival de l'équinoxe de printemps est une grande foire organisée par les Kuberas. Les musiciens, artistes et artisans d'Inanimae se réunissent pour montrer leurs produits et célébrer tous le renouveau de la vie et la fin de l'hiver. Si les dirigeants des empires ont besoin de faire des annonces communes, c’est le moment et le lieu. Le Moot est une fête où les Kuberas se rassemblent dans une immense clairière en plein été, quelque part en Russie. Ici, les Dryades sont autorisées à adresser une pétition à leur empereur." #NT!
+  
+ empire_of_stones: "Empire des Pierres" #NT!
+ empire_of_stones_adj: "Des pierres" #NT!
+ empire_of_stones_adherent: "Pierre" #NT!
+ empire_of_stones_adherent_plural: "Des pierres" #NT!
+ empire_of_stones_desc: "Cour des Glomes, un phyla des Inanimae. L'Empire des Pierres est une hiérarchie stricte. Chaque Glome connaît sa place dans le plus grand tout. En même temps, l’empire est une méritocratie. Les progrès sont rapides pour ceux qui peuvent faire avancer les causes de l'Empire. La Patrie [dreaming|E] des Glomes est une gigantesque citadelle issue d'une montagne vivante. Elle a été assiégée à trois reprises et à chaque fois les envahisseurs ont été repoussés et écrasés. Au cœur de la structure se trouve l’une des rares veines de fer chimérique. De tous les empires, les Glomes sont politiquement les plus polarisés. Ils maintiennent une ligne dure selon laquelle les Solimonds doivent être détruits. Organisé par les Glomes, le festival du solstice d'hiver est un grand tournoi organisé au [dreaming|E] qui est similaire aux Jeux olympiques, si les Jeux olympiques étaient axés sur les prouesses martiales. Les gagnants sont comblés d'éloges et, s'ils sont Glomes, destinés à un avancement rapide." #NT!
+  
+ empire_of_flames: "Empire des Flammes" #NT!
+ empire_of_flames_adj: "Flammes" #NT!
+ empire_of_flames_adherent: "Flamme" #NT!
+ empire_of_flames_adherent_plural: "Flammes" #NT!
+ empire_of_flames_desc: "Cour des Solimond, un Phyla des Inanimae. La nation Salamandre possède une monarchie impériale complexe avec des niveaux de noblesse, d'apparat et des cérémonies qui rivalisent avec tout ce que les Sidhe ont imaginé. Les esprits du feu qui sont tombés amoureux de la viande faisaient partie de l'empire et, poussés par cette passion malheureuse, ils ont passé des siècles à observer l'humanité et à apprendre les voies de leur cœur étrange et impressionnant comme seul un amoureux pouvait le faire. Finalement, incapables de se cacher plus longtemps, ils se révélèrent et montrèrent à la viande le fonctionnement de la Flamme avec ses pouvoirs de transformation et de vérité. En cela, ils condamnèrent le monde inanimé à l'esclavage aux mains des hommes et des femmes et provoquèrent la Guerre de Création, forçant les autres Empires à se retourner contre les flammes de la trahison et à les excommunier. Désormais, les autres Empires lents cherchent à étancher les ancres de la clairière des salamandres. La Patrie [dreaming|E] des Salamandres était autrefois une vue de bronze de palais et de domaines avec un horizon de flammes illuminant le ciel. Le solstice d'été est un masque majestueux et noble d'une grande beauté ainsi qu'une université de 4 jours où les Solimonds se rassemblaient et partageaient leurs connaissances." #NT!
+  
+ empire_of_tears: "Empire des larmes" #NT!
+ empire_of_tears_adj: "Larmes" #NT!
+ empire_of_tears_adherent: "Larme" #NT!
+ empire_of_tears_adherent_plural: "Larmes" #NT!
+ empire_of_tears_desc: "Cour des Ondines, un Phyla des Inanimae. Les Néréides dirigent leur empire comme une démocratie de style athénien. N'importe quelle Néréide peut voter sur n'importe quelle question. La patrie [dreaming|E] des collectionneurs de cœur est un vaste océan s'étendant sur tous les horizons. À 20 miles de profondeur, se trouve une gigantesque ville de bâtiments de corail et d’autoroutes. Tout visiteur qui visite doit pouvoir respirer sous l’eau. De nombreux capitaines pirates ont des secrets pour naviguer dans les raccourcis du [dreaming|E], car il est attaché à toutes les étendues d'eau de la Terre et du [dreaming|E]. Politiquement, l'empire n'a pas d'ennemis et reste en bons termes avec tous les autres Inanimae, même si le feu et l'eau n'ont jamais été dans les meilleurs termes. L'équinoxe d'automne est une fête organisée conjointement par les Ondines et les Parosèmes. Tous sont invités dans les palais sous-marins des Néréides avec l'oxygène fourni par les Silfar. Les festins sont grands et les cadeaux sont offerts." #NT!
+  
+ empire_of_skies: "Empire des cieux" #NT!
+ empire_of_skies_adj: "Ciels" #NT!
+ empire_of_skies_adherent: "Sylphe" #NT!
+ empire_of_skies_adherent_plural: "Sylphes" #NT!
+ empire_of_skies_desc: "Cour des Parosèmes, un phyla des Inanimae. Le gouvernement des Silfar peut être mieux décrit comme un croisement entre l'anarchie et le tribalisme. Une fois par an, les 13 membres actifs les plus anciens se réunissent et débattent de questions qui affectent tous les Sprites, puis font de longues proclamations ornées qui sont rapidement ignorées par tout le monde. Trouvée dans le [deep_dreaming|E], la Patrie Paroseme ressemble à un pays entier fait de nuages ​​et de verre. Des animaux fantasmagoriques broutent sur l'herbe semblable à des nuages ​​et des gens vaporeux parcourent la campagne délicate à pied ou en vol. Au centre même du royaume, une tour de nuages, en forme de corne de licorne, s'élève, aussi solide que du marbre. Au sommet se trouve le lieu où se réunit le conseil. Les relations sont bonnes avec l'Empire des Larmes avec un échange régulier de pluie contre évaporation. L’Empire des Pierres est considéré comme trop ennuyeux pour autre chose que des relations superficielles. Ils sont en bons termes avec l'Empire des Semences. Il n'est pas prévu de rejoindre le blocus de l'Empire des Flammes. Personne n’a rien à dire à l’Empire des Poupées. L'Équinoxe d'Automne est une fête commune aux Ondines et aux Parosèmes. Tous sont invités dans les palais sous-marins des Néréides avec l'oxygène fourni par les Silfar. Les festins sont grands et les cadeaux sont offerts." #NT!
+  
+ empire_of_dolls: "Empire des poupées" #NT!
+ empire_of_dolls_adj: "Poupées" #NT!
+ empire_of_dolls_adherent: "Poupée" #NT!
+ empire_of_dolls_adherent_plural: "Poupées" #NT!
+ empire_of_dolls_desc: "Cour des Mannikins, un phyla des Inanimae. Les Toys prétendent n'avoir ni empire ni patrie. Ils se rassemblent occasionnellement dans des quartiers calmes du [dreaming|E] pour garder leurs conseils privés et apparaîtront occasionnellement pour donner des conseils au sein des cours des autres empires. Un émissaire prétendant parler au nom de l'ensemble des Mannikins porte une robe noire et même le maréchal des Glomes écoute lorsque la robe noire apparaît avec des nouvelles. Les Mannikins n'ont jamais invité personne à leur lieu de rendez-vous. Dans la politique des empires, les jouets servent de catalyseurs de changement. Lorsque leur émissaire apparaît, des changements de politique sont à portée de main. Beaucoup se demandent quel est le secret des robes noires, mais les autres empires ne révéleront jamais ce qui se dit. Les rares fois où un émissaire s’est adressé à tout un empire, la guerre a rapidement suivi. Bien que les Mannikins n'aient pas de rituel annuel, des rumeurs persistent selon lesquelles du temps serait volé le soir du Nouvel An entre 23h59 et minuit. Les gens murmurent qu'à ce moment-là, tous les jouets se réveillent et vivent une journée entière pleinement humains, puis retournent à leurs ancres et le temps revient à minuit. SI c'était vrai, cela aiderait à expliquer comment les Dolls savent tant de choses qui restent cachées aux autres empires." #NT!
+  
+ eshu_religion: "Eshu" #NT!
+ eshu_religion_adj: "Eshu" #NT!
+ eshu_religion_adherent: "Eshu" #NT!
+ eshu_religion_adherent_plural: "Eshu" #NT!
+ eshu_religion_desc: "Les Eshu ont leurs propres codes de conduite qui diffèrent de ceux des tribunaux des Sidhe. Ceux qui suivent les voies de l'honneur et de la tradition préfèrent Ojo, ou lumière du jour, fae. Ceux qui suivent leur philosophie consistant à abandonner les anciennes habitudes et à se livrer aux passions, à la mort de la tradition, s'appellent eux-mêmes Iku, ou la mort. Ne pensez pas que cela signifie que tous les Ojo sont gentils et généreux ou que tous (ou même la plupart) Iku sont des fêtards meurtriers. Les deux groupes suivent Uhuru. Cela peut être aussi grave d'être pris entre les mains d'un juge Ojo qui ne veut pas se plier, que d'être pris entre les mains d'un Iku rancunier. Les Eshu n'attachent aucune stigmatisation à ces philosophies, sauf dans des cas extrêmes, en raison de tous les faes qu'ils se considèrent comme des individus. Jugez un Eshu par le « tribunal » qu'il a choisi à vos risques et périls." #NT!
+  
+ ojo_religion: "Ojo" #NT!
+ ojo_religion_adj: "Ojo" #NT!
+ ojo_religion_adherent: "Ojo" #NT!
+ ojo_religion_adherent_plural: "Ojo" #NT!
+ ojo_religion_desc: "Dans le langage courant des Eshu, Ojo (aw-jaw) signifie Lumière du jour et Vie." #NT!
+  
+ ojo: "Ojo" #NT!
+ ojo_adj: "Ojo" #NT!
+ ojo_adherent: "Ojo" #NT!
+ ojo_adherent_plural: "Ojo" #NT!
+ ojo_desc: "Dans le langage courant des Eshu, Ojo (aw-jaw) signifie Lumière du jour et Vie. La plupart des Eshu que vous rencontrerez seront, en fait, des Ojo. Cela vient naturellement et la plupart des Elegbara tirent leur force des millénaires de traditions et d’histoire qui y sont liées. Cependant, ils ne suivent pas le Code Seelie (dont ils sont antérieurs). Ils ont leurs propres normes sur lesquelles se juger, même s'ils maintiendront toujours le Seelie qui n'est généralement pas en conflit. Les Eshu ont simplement des valeurs fondamentales différentes.\nÉcoutez l'appel du destin — Tous les Ojo croient que les orishas ordonnent tout ce qui arrive.\nTransmettez ce que vous avez entendu — Si l'on ne se souvient pas de l'histoire, nous répétons les mêmes erreurs. Une histoire oubliée est un coup porté à tous les Fae.\nRecherchez justice pour ceux qui n'ont pas été entendus : Eshu se sent proche des autres peuples marginalisés et fait de son mieux pour les aider." #NT!
+  
+ iku_religion: "Iku" #NT!
+ iku_religion_adj: "Iku" #NT!
+ iku_religion_adherent: "Iku" #NT!
+ iku_religion_adherent_plural: "Iku" #NT!
+ iku_reilgion_desc: "Dans le langage courant des Eshu, Iku (ee-ku) représente la mort et les ténèbres." #NT!
+  
+ iku: "Iku" #NT!
+ iku_adj: "Iku" #NT!
+ iku_adherent: "Iku" #NT!
+ iku_adherent_plural: "Iku" #NT!
+ iku_desc: "Dans le langage courant des Eshu, Iku (ee-ku) représente la mort et les ténèbres. Les Iku voient les choses un peu différemment des Ojo. Les Eshu peuvent dire qu'ils traitent Ojo et Iku de la même manière, mais les Iku savent que ce n'est pas vrai. Ils savent que les Ojo les voient comme une blague et une plaisanterie méchante et amère en plus et dès que les autres le savent, vous descendez de quelques crans sur leur liste. Beaucoup pensent que parce qu'ils ne se prosternent pas devant le destin, ils ne sont pas de vrais Elegbara, mais ils ont un code pour cela. Bien qu'ils ne ressemblent pas exactement aux Unseelies, ils s'intègrent bien.\nIl n'y a pas de destin — Qu'est-ce que cela signifie ? En fin de compte, ils sont vraiment gratuits !\nLaissez les ennuis dans votre sillage : le chaos sort les gens de la complaisance. Faites en sorte que ceux qui sont au pouvoir aient peur de vous et de ce que vous savez.\nLa vengeance est divine : ils veillent d'abord sur eux-mêmes et s'assurent que quiconque les dérange finit par manquer quelque chose, qu'il s'agisse de leur ego, d'objets de valeur ou d'une partie du corps." #NT!
+  
+ mu_religion: "Tribunaux Mu" #NT!
+ mu_religion_adj: "Tribunaux Mu" #NT!
+ mu_religion_adherent: "Mu" #NT!
+ mu_religion_adherent_plural: "Mu" #NT!
+ mu_religion_desc: "Les Cours Mu sont des groupes de Hsien qui se sont rendus aux rois Yama au [fourth_age|E] car ils ne voyaient aucune issue au dilemme qu'ils s'étaient imposé en brisant le Mandat du Ciel. Les deux tribunaux ne sont pas alliés mais tous deux sont en désaccord avec les autres tribunaux de Hsien." #NT!
+  
+ daityas: "Daityas" #NT!
+ daityas_adj: "Daityas" #NT!
+ daityas_adherent: "Daityas" #NT!
+ daityas_adherent_plural: "Daityas" #NT!
+ daityas_desc: "Les Daityas sont une cour Hsien qui s'est alliée aux rois Yama au [fourth_age|E] mais s'est depuis détournée d'eux. Peu de temps après avoir prêté allégeance aux rois Yama, la société des Daityas réalisa que les démons ne feraient que les corrompre et se nourrir de leurs énergies vitales et ils quittèrent donc l'alliance. Grâce à leurs propres sorcelleries sombres, eux aussi ont compris comment maintenir leur corps et éviter de tomber dans le néant comme l'ont fait les autres Hsien.\nLes Daityas travaillent pour encourager l'arrivée du [sixth_age|E] ; pour provoquer un moment où le personnage auguste de Jade est forcé de quitter sa cour céleste et où les dragons et les phénix se font la guerre dans une conflagration sanglante. En favorisant le manque de croyance, ils cherchent à affaiblir le mur créé par le Personnage auguste et revendiquent ainsi la place qui leur revient dans la Cour Céleste.\nBien qu'ils soient malavisés aux yeux des autres Hsien, ils ne sont pas au-delà de la rédemption. S'ils le voulaient, ils pourraient revenir sur le bon chemin et aider les Hsien à éviter l'ère du chagrin." #NT!
+  
+ kura_sau: "Kura Sau" #NT!
+ kura_sau_adj: "Kura Sau" #NT!
+ kura_sau_adherent: "Kura Sau" #NT!
+ kura_sau_adherent_plural: "Kura Sau" #NT!
+ kura_sau_desc: "Les Kura Sau sont une société de Hsien corrompus. Également appelés Gou Zhang, ils constituent une société composée de Hsien qui se sont rendus aux rois Yama et sont considérés comme faisant partie des tribunaux Mu. En conséquence, ils sont capables de voyager au [yomi_wan|E] sans subir la malédiction du personnage d'août en jade. De plus, ils ont leur propre branche du Wu Tan connue sous le nom de Hac Tao, un art ignoble qui leur permet de transmettre le chi corrompu des Mille Enfers dans le monde.\nIls s'efforcent de réaliser les desseins de leurs sombres maîtres, en faisant venir le [sixth_age|E] et corrompant la majeure partie de l'Empire du Milieu. La plupart sont de sombres reflets du Hsien originel et certains répondent même aux prières, à condition qu'elles impliquent une effusion de sang et la satisfaction de pulsions plus sombres. Certains prétendent que les Kura Sau sont même responsables de la corruption de certains dragons et phénix, les tentant avec des promesses de pouvoir que seuls les rois Yama peuvent accorder." #NT!
+  
+ shinma_religion: "Shinma" #NT!
+ shinma_religion_adj: "Shinma" #NT!
+ shinma_religion_adherent: "Shinma" #NT!
+ shinma_religion_adherent_plural: "Shinma" #NT!
+ shinma_religion_desc: "Les cours des Fae orientales, les Shinma, sont basées sur l'idéologie et la vision du monde." #NT!
+ shu_shen: "Shu Shen" #NT!
+ shu_shen_adj: "Shu Shen" #NT!
+ shu_shen_adherent: "Shu Shen" #NT!
+ shu_shen_adherent_plural: "Shu Shen" #NT!
+ shu_shen_desc: "Les Shu Shen sont les dissolus de la société Shinma. Les dieux profanes défient le concept d’équilibre et poursuivent des extrêmes à la fois charnels et violents. Ils pillent, pillent, assassinent et ruinent généralement partout la réputation du bienveillant Hsien. Ce sont des mercenaires et des gardes du corps de Shen plus puissants qui peuvent en payer le prix, notamment Kuei-jin ou encore Kin-jin. Ils peuvent avoir des alliés parmi les vampires ou même les serviteurs des rois Yama." #NT!
+  
+ li_shen: "Li Shen" #NT!
+ li_shen_adj: "Li Shen" #NT!
+ li_shen_adherent: "Li Shen" #NT!
+ li_shen_adherent_plural: "Li Shen" #NT!
+ li_shen_desc: "Également appelés traditionalistes, dieux de la cérémonie ou simplement Fu, les Li Shen adhèrent aux valeurs confucianistes. Ils croient au [tao_te_hsien|E] mais mettent l'accent sur l'ordre de la nature et son maintien, et non sur l'illumination de soi. La protection de la nature les concerne avant tout et leur nombre est presque entièrement Kamuii. Autrefois les plus puissantes des cours, les dieux de la cérémonie ont perdu contact avec les autres Shen et les méprisent trop souvent. A cause de ces préjugés, ainsi que de toutes les luttes intestines entre les ministères, ils ne font plus leur travail aussi bien qu'ils le pourraient." #NT!
+  
+ tu_shen: "Tu Shen" #NT!
+ tu_shen_adj: "Tu Shen" #NT!
+ tu_shen_adherent: "Tu Shen" #NT!
+ tu_shen_adherent_plural: "Tu Shen" #NT!
+ tu_shen_desc: "Bien que considérés par la plupart des autres Shinma comme des sybarites, les Dieux de l'Harmonie, ou Ambassadeurs du Ciel, ont les mêmes objectifs que les Xian Mo... juste des manières très différentes d'y parvenir. Ils cherchent à faire naître l'ère de la joie en convainquant tout le monde de passer un bon moment. Leur objectif est le ravissement, l’exultation et non la simple extase physique. Ils comprennent qu’un bon dîner en famille et entre amis est une joie plus satisfaisante et plus durable qu’une poignée de pilules. Les Dieux de l'Harmonie agissent selon leurs croyances en accomplissant de bonnes actions, en essayant d'amener les différentes cours de Shen à travailler ensemble ou au moins à parler. Ils marchent et font parfois la fête, tout comme ils parlent.\nLes ambassadeurs du Ciel sont mal vus par les Li Shen et leurs relations sont également tendues avec les Yü. La plupart des autres apprécient au moins leur compagnie. Les Tu Shen, quant à eux, affirment entretenir de bonnes relations avec tous les groupes." #NT!
+  
+ xian_mo: "Xian Mo" #NT!
+ xian_mo_adj: "Xian Mo" #NT!
+ xian_mo_adherent: "Xian Mo" #NT!
+ xian_mo_adherent_plural: "Xian Mo" #NT!
+ xian_mo_desc: "Également appelés les Silencieux ou Esprits Magiques Immortels, les Xian Mo sont des mystiques et de fervents croyants du [tao_te_hsien|E]. Ils croient que des individus éclairés peuvent créer un monde parfait et inverser le tournant des âges. Cette insistance sur l'individu les amène à résister à l'ordre ; ils refusent même de se considérer comme un tribunal. Xian Mo est un nom que d'autres Hsien leur donnent.\nLes Silencieux, cependant, donnent de l'espoir aux Shinma, qui ont presque abandonné à la fin du [fourth_age|E] lorsque le Mur les a empêchés d'accéder au Monde des Esprits. Hanuman a apporté le [tao_te_hsien|E] à un sage Komuko dans le Di Fu. Les Komuko démissionnèrent de leur poste et se retirèrent dans les montagnes. Finalement, leurs enseignements conduisent aux écrits maintenant appelés [tao_te_hsien|E], ou « La Voie du Pouvoir Imminent Hsien ». Ses fervents adeptes constituent désormais les Xian Mo et leurs enseignements ont conduit certains à franchir le Mur." #NT!
+  
+ xian_mun: "Xian Mun" #NT!
+ xian_mun_adj: "Xian Mun" #NT!
+ xian_mun_adherent: "Xian Mun" #NT!
+ xian_mun_adherent_plural: "Xian Mun" #NT!
+ xian_mun_desc: "Les Xian Mun, également appelés Société Immortelle ou Mondains, sont des Shinma qui rejettent leur vraie nature ou se soucient davantage de leur vie de mortel. Certains peuvent même utiliser leurs pouvoirs pour promouvoir d’autres programmes. Les meilleurs du monde pensent qu'il est possible de suivre le [tao_te_hsien|E] en dehors de la société hsien traditionnelle tandis que les pires s'en soucient peu.\nLa Société Immortelle considère les membres des autres cours comme des imbéciles trompés. Les individus font un vœu pieux (avec un peu d'argent et du jade) aux ministères locaux et aux hommes forts de Yü juste pour être laissés tranquilles. Ils ont tendance à s’organiser selon de nombreux modèles différents, qu’il s’agisse de familles, d’entreprises ou d’autres institutions humaines." #NT!
+  
+ yellow_lotus: "Lotus jaune" #NT!
+ yellow_lotus_adj: "Lotus jaune" #NT!
+ yellow_lotus_adherent: "Lotus jaune" #NT!
+ yellow_lotus_adherent_plural: "Lotus jaune" #NT!
+ yellow_lotus_desc: "Les Lotus Jaunes sont une société subtile et secrète au sein de la société Hsien. Ils sont dispersés parmi leurs camarades hsien et leurs objectifs peuvent sembler contradictoires. En fait, personne ne connaît leur véritable programme ni qui sont leurs membres. Leur seul objectif évident est de fomenter la rébellion dans les rangs de la Shinma. Ils font ressortir d’anciennes rivalités et des torts oubliés depuis longtemps pour perturber l’ordre des ministères de Li Shen. Cependant, ils ont également revendiqué la responsabilité de punir ceux qui exhibent trop ouvertement leurs formes wani et agissent ainsi parfois comme une sorte de police secrète. Leur travail consiste à répandre des rumeurs d’assassinat. Que veulent-ils? Peut-être qu’ils aiment simplement semer le chaos pour le plaisir." #NT!
+  
+ yu: "Yu" #NT!
+ yu_adj: "Yu" #NT!
+ yu_adherent: "Yu" #NT!
+ yu_adherent_plural: "Yu" #NT!
+ yu_desc: "Les Yü, également appelés les Classiques ou les Grands Dix, s'inspirent des dix rois chinois de la préhistoire chinoise. (Ils étaient peut-être même quelques-uns d'entre eux.) Ils ont découpé l'Empire du Milieu en 10 provinces mystiques, mais leurs batailles provoquent souvent des déplacements des frontières. Ils soutiennent généralement les Fu et leurs ministères, tant qu'ils peuvent les comparer les uns aux autres et tirer parti de leurs talents. Les Yü ont accumulé du jade pendant des siècles et possèdent à ce jour certains des artefacts de jade les plus puissants. Ils contrôlent également de nombreux Nids de Dragon.\nCependant, tous les Yü ne sont pas des nobles. Certains ne sont que de puissants seigneurs de guerre et criminels qui contrôlent de puissantes Tongs et Triades. Ces Shinma affrontent d'autres Shen qui ont des intérêts dans les relations commerciales les moins légales de l'Empire du Milieu comme le Kuei-jin, le Kindred et d'autres. Aucune des autres cours ne peut se permettre d'avoir de mauvaises relations avec les Yü, c'est pourquoi elles traitent en retour la plupart des autres avec respect. Les tribunaux Mu et le Kuei-jin sont leurs plus grands ennemis." #NT!
+  
+ wu_hsien: "Wu Hsien" #NT!
+ wu_hsien_adj: "Wu Hsien" #NT!
+ wu_hsien_adherent: "Wu Hsien" #NT!
+ wu_hsien_adherent_plural: "Wu Hsien" #NT!
+ wu_hsien_desc: "Aussi appelés Paysans ou Famille de Hsien, les Wu Hsien sont une société fourre-tout. C'est une épithète pour la grande majorité des Shinma qui vivent dans de petits villages et entretiennent des liens étroits avec la terre et les sanctuaires locaux. Ils peuvent avoir des organisations serrées, mais seulement à l'échelle locale. Ils peuvent être insulaires et se préoccuper uniquement de la population locale et de l'environnement.\nIl y a sans aucun doute plus de Hirayanu que de Kamuii parmi les paysans. Ces Hsien sont souvent considérés comme des serviteurs à la fois des Li Shen et des Yü, mais leur seule loyauté repose en réalité sur les villages, les sanctuaires et les sites locaux de beauté naturelle." #NT!
+  
+ shinma_high_god_name: "Pan Ku" #NT!
+ shinma_high_god_name_possessive: "Pan Ku" #NT!
+ shinma_high_god_name_alternate: "le personnage d'août de Jade" #NT!
+ shinma_high_god_name_alternate_possessive: "le personnage août de Jade" #NT!
+ shinma_good_god_jesus: "Chi Ling" #NT!
+ shinma_good_god_christ: "Chi Ling" #NT!
+ shinma_devil_name: "l'Empereur Démon" #NT!
+ shinma_devil_name_possessive: "l'Empereur Démon" #NT!
+ shinma_evil_god_lucifer: "l'Empereur Démon" #NT!
+ shinma_evil_god_beelzebub: "l'Empereur Démon" #NT!
+ shinma_evil_god_mephistopheles: "l'Empereur Démon" #NT!
+ shinma_death_deity_name: "Rois Yama" #NT!
+ shinma_death_deity_name_possessive: "Les rois Yama" #NT!
+ shinma_divine_realm: "Paradis" #NT!
+ shinma_positive_afterlife: "Tao Te Hsien" #NT!
+ shinma_negative_afterlife: "Mille enfers" #NT!
+ shinma_witchgodname_the_horned_god: "l'Empereur Démon" #NT!
+ shinma_witchgodname_the_horned_god_possessive: "l'Empereur Démon" #NT!
+  
+ shinma_creator_god_name: "$shinma_high_god_name$" #NT!
+ shinma_creator_god_name_possessive: "$shinma_high_god_name_possessive$" #NT!
+ shinma_health_god_name: "Yen Ti" #NT!
+ shinma_health_god_name_possessive: "Yen Ti's" #NT!
+ shinma_fertility_god_name: "Kou Mang" #NT!
+ shinma_fertility_god_name_possessive: "Kou Mang" #NT!
+ shinma_wealth_god_name: "Chu Jung" #NT!
+ shinma_wealth_god_name_possessive: "celui de Chu Jung" #NT!
+ shinma_household_god_name: "Hou T'u" #NT!
+ shinma_household_god_name_possessive: "Hou T'u's" #NT!
+ shinma_fate_god_name: "T'ai Hao" #NT!
+ shinma_fate_god_name_possessive: "T'ai Hao's" #NT!
+ shinma_knowledge_god_name: "Huang Ti" #NT!
+ shinma_knowledge_god_name_possessive: "Huang Ti" #NT!
+ shinma_war_god_name: "Shao Hao" #NT!
+ shinma_war_god_name_possessive: "Shao Hao's" #NT!
+ shinma_trickster_god_name: "Joss" #NT!
+ shinma_trickster_god_name_possessive: "celui de Joss" #NT!
+ shinma_night_god_name: "Phénix" #NT!
+ shinma_night_god_name_possessive: "celui de Phénix" #NT!
+ shinma_water_god_name: "Dragon" #NT!
+ shinma_water_god_name_possessive: "Dragons" #NT!

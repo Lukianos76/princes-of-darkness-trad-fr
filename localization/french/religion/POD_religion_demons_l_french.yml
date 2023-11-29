@@ -1,0 +1,143 @@
+﻿l_french:
+ demons_religion: "Péché" #NT!
+ demons_religion_adj: "Péché" #NT!
+ demons_religion_adherent: "Démon" #NT!
+ demons_religion_adherent_plural: "Démons" #NT!
+ demons_religion_desc: "Chaque démon a une obsession à peine contrôlable pour un péché particulier, et il transmet cette obsession à ses disciples." #NT!
+  
+ demons_high_god_name: "Péché" #NT!
+ demons_high_god_name_possessive: "Péchés" #NT!
+ demons_high_god_name_alternate: "la corruption" #NT!
+ demons_high_god_name_alternate_possessive: "La corruption" #NT!
+ demons_good_god_jesus: "Archiduc" #NT!
+ demons_good_god_christ: "Archiduc" #NT!
+ demons_devil_name: "le grand traître" #NT!
+ demons_devil_name_possessive: "le Grand Traître" #NT!
+ demons_evil_god_lucifer: "Lucifer" #NT!
+ demons_evil_god_malhim: "Malhim" #NT!
+ demons_evil_god_elohim: "Élohim" #NT!
+ demons_evil_god_michael: "Michael" #NT!
+ demons_death_deity_name: "La mort" #NT!
+ demons_death_deity_name_possessive: "Décès" #NT!
+ demons_house_of_worship: "église" #NT!
+ demons_house_of_worship_plural: "des églises" #NT!
+ demons_religious_symbol: "pentacle" #NT!
+ demons_religious_text: "écritures" #NT!
+ demons_religious_head_title: "Chef" #NT!
+ demons_religious_head_title_name: "Faction" #NT!
+ demons_devotee_male: "démon" #NT!
+ demons_devotee_male_plural: "démons" #NT!
+ demons_devotee_female: "démon" #NT!
+ demons_devotee_female_plural: "démons" #NT!
+ demons_devotee_neuter: "démon" #NT!
+ demons_devotee_neuter_plural: "démons" #NT!
+ demons_priest_male: "démon" #NT!
+ demons_priest_male_plural: "démons" #NT!
+ demons_priest_alternate_plural: "démons" #NT!
+ demons_bishop: "démon" #NT!
+ demons_bishop_plural: "démons" #NT!
+ demons_bishop_male: "démon" #NT!
+ demons_bishop_male_plural: "démons" #NT!
+ demons_divine_realm: "Cœur" #NT!
+ demons_positive_afterlife: "Rachat" #NT!
+ demons_negative_afterlife: "Abîme" #NT!
+ demons_witchgodname_the_horned_god: "Lucifer" #NT!
+ demons_witchgodname_the_horned_god_possessive: "celui de Lucifer" #NT!
+  
+ demons_creator_god_name: "Dieu" #NT!
+ demons_creator_god_name_possessive: "Dieux" #NT!
+ demons_health_god_name: "Péché" #NT!
+ demons_health_god_name_possessive: "Péchés" #NT!
+ demons_fertility_god_name: "$demons_health_god_name$" #NT!
+ demons_fertility_god_name_possessive: "$demons_health_god_name_possessive$" #NT!
+ demons_wealth_god_name: "$demons_health_god_name$" #NT!
+ demons_wealth_god_name_possessive: "$demons_health_god_name_possessive$" #NT!
+ demons_household_god_name: "$demons_health_god_name$" #NT!
+ demons_household_god_name_possessive: "$demons_health_god_name_possessive$" #NT!
+ demons_fate_god_name: "Fortune" #NT!
+ demons_fate_god_name_possessive: "La Fortune" #NT!
+ demons_knowledge_god_name: "$demons_health_god_name$" #NT!
+ demons_knowledge_god_name_possessive: "$demons_health_god_name_possessive$" #NT!
+ demons_war_god_name: "$demons_health_god_name$" #NT!
+ demons_war_god_name_possessive: "$demons_health_god_name_possessive$" #NT!
+ demons_trickster_god_name: "Fortune" #NT!
+ demons_trickster_god_name_possessive: "La Fortune" #NT!
+ demons_night_god_name: "$demons_health_god_name$" #NT!
+ demons_night_god_name_possessive: "$demons_health_god_name_possessive$" #NT!
+ demons_water_god_name: "$demons_health_god_name$" #NT!
+ demons_water_god_name_possessive: "$demons_health_god_name_possessive$" #NT!
+  
+ avarice: "Avarice" #NT!
+ avarice_adj: "Avarice" #NT!
+ avarice_desc: "Les démons cupides veulent tout posséder, contrôler tout ce qu’ils voient et le refuser aux autres. Contrairement aux gloutons, les démons avides ne veulent pas consommer les choses qu’ils convoitent, ils veulent les garder pour toujours, longtemps après qu’elles soient devenues inutiles. Les démons de la cupidité ont tendance à être subtils et sournois, gardant un œil sur les gains à long terme ; pour un être immortel, ce n’est pas un grand effort de passer trois siècles à acquérir de l’influence sur un pays ou une secte, du moment qu’au final, vous en avez le contrôle total." #NT!
+ avarice_adherent: "Démon de la cupidité" #NT!
+ avarice_adherent_plural: "Les démons de la cupidité" #NT!
+  
+ envy: "Envie" #NT!
+ envy_adj: "Envie" #NT!
+ envy_desc: "Les démons envieux cherchent à détruire ceux qui possèdent ce qui manque aux démons : la liberté, l’amour, l’espoir et le réconfort de la bénédiction de Dieu. De tels démons ne veulent pas de telles choses pour eux-mêmes ; ce qu'ils veulent, c'est punir ceux qui ont l'audace de posséder de telles choses, qui se sentent supérieurs pour avoir de telles bénédictions. Ce n’est qu’après avoir entraîné tout le monde dans la boue que ces démons pourront être satisfaits, sachant que personne d’autre dans la Création n’est plus heureux qu’eux." #NT!
+ envy_adherent: "Démon de l'envie" #NT!
+ envy_adherent_plural: "Démons de l'envie" #NT!
+  
+ gluttony: "Gourmandise" #NT!
+ gluttony_adj: "Gourmandise" #NT!
+ gluttony_desc: "Les démons de la gourmandise ont soif de sensations, de satisfaire tous les appétits et tous les désirs au-delà du point de satiété et de continuer. Les mortels associent généralement la gourmandise au désir de nourriture, mais en réalité, il s’agit simplement du désir de consommer, d’utiliser plus de ressources que nécessaire. Un démon déchaîné et glouton choisit une ressource particulière – la nourriture, la foi, les vies humaines – et prend une joie obscène non seulement à utiliser ou à détruire cette chose, mais à afficher la destruction et la consommation à ceux qui sont désormais contraints de s’en passer." #NT!
+ gluttony_adherent: "Démon de gourmandise" #NT!
+ gluttony_adherent_plural: "Démons de gourmandise" #NT!
+  
+ lust: "Luxure" #NT!
+ lust_adj: "Luxure" #NT!
+ lust_desc: "Les démons de la luxure se perdent dans les pulsions et les sensations du physique, rendus fous par les possibilités d'indulgence physique. Ces démons possèdent régulièrement des adeptes, se gorgeant de plaisir et d’activité avant de savourer les sensations de la mort hideuse des vaisseaux. Les démons vigoureux sont souvent obsédés par le sexe, mais ce n'est pas la seule forme de plaisir physique qu'ils désirent : ils se lancent dans des orgies de nourriture, de combat, de boisson et de destruction pendant le temps dont ils disposent dans un vaisseau." #NT!
+ lust_adherent: "Démon de la luxure" #NT!
+ lust_adherent_plural: "Démons de luxure" #NT!
+  
+ pride: "Fierté" #NT!
+ pride_adj: "Fierté" #NT!
+ pride_desc: "Tous les démons comprennent le péché d’orgueil, peut-être mieux que les humains. C'était l'orgueil qui était le premier péché, le péché de Lucifer et de tous les anges qui se sont rebellés contre Dieu plutôt que d'accepter ses décrets. Les démons d'orgueil se placent toujours au-dessus de toutes les autres entités et exigent l'adoration et l'adulation des mortels et des démons. Perdu dans l'arrogance, un démon orgueilleux pourrait raser une ville en guise de punition pour un affront mineur, ou torturer une société entière jusqu'à ce que chaque membre accepte de l'aimer et de l'adorer inconditionnellement." #NT!
+ pride_adherent: "Démon de la fierté" #NT!
+ pride_adherent_plural: "Démons de fierté" #NT!
+  
+ sloth: "Paresseux" #NT!
+ sloth_adj: "Paresseux" #NT!
+ sloth_desc: "Les démons paresseux ne sont guère paresseux ; c’est une vision erronée et mortelle du péché. La paresse est le besoin de simplicité, de commodité – un désintérêt finalement sociopathique pour le monde. Les démons de la paresse sont presque tous des démons de la mort, qui guidaient autrefois les âmes vers leurs récompenses finales. Ils aspirent désormais à la solitude et au calme de la mort, à la sérénité d'un monde vide. Ces démons sont rares, car le néant de l’Enfer tend à les engloutir à jamais ; ceux qui restent sont des monstres qui étoufferaient un pays pour faire taire un enfant en pleurs, qui aspire à une destruction absolue et à un monde de poussière et de pierres tombales." #NT!
+ sloth_adherent: "Démon de la paresse" #NT!
+ sloth_adherent_plural: "Démons de la paresse" #NT!
+  
+ wrath: "Colère" #NT!
+ wrath_adj: "Colère" #NT!
+ wrath_desc: "Les démons de colère sont des tourbillons de carnage et de destruction, des monstres qui se déchaînent et tuent pour le simple plaisir de la destruction. Cependant, la colère est plus qu’une simple soif de violence ; c'est la revendication d'une colère juste, d'infliger un châtiment à ceux qui ont transgressé. Certains démons de la colère se considèrent comme les exécutants d’un ordre social, mais d’autres ne prennent pas la peine de se raconter de tels mensonges. Dans tous les cas, l’obsession du démon est de s’en prendre à tout ce qui le frustre, le bloque ou tout simplement le gêne, et le détruit." #NT!
+ wrath_adherent: "Démon de colère" #NT!
+ wrath_adherent_plural: "Démons de colère" #NT!
+  
+ #faustian: "Faustien" #NT!
+ #faustian_adj: "Faustien" #NT!
+ #faustian_desc: "Leur objectif est de favoriser le potentiel divin de l'humanité, l'étincelle divine qui brûle en chaque être humain, puis de la retourner contre Dieu ; qu'ils aient l'intention d'être ceux qui encouragent ce potentiel, ou ceux qui l'asservissent, dépend de l'opinion de chaque membre." #NT!
+ #faustian_adherent: "Faustien" #NT!
+ #faustian_adherent_plural: "Faustiens" #NT!
+  # 
+ #cryptic: "Cryptique" #NT!
+ #cryptic_adj: "Cryptique" #NT!
+ #cryptic_desc: "Ces démons représentent la recherche de la connaissance. Cela permet une variété d'options et aucune manière unique de les classer tant que le démon revendique la recherche d'informations sur la Chute et son emprisonnement comme objectif." #NT!
+ #cryptic_adherent: "Cryptique" #NT!
+ #cryptic_adherent_plural: "Cryptiques" #NT!
+  # 
+ #luciferan: "Luciférien" #NT!
+ #luciferan_adj: "Luciférien" #NT!
+ #luciferan_desc: "L'armée permanente de Lucifer, leur objectif est de trouver leur Morningstar et de s'assurer qu'ils disposent d'un avantage stratégique lorsque viendra le temps de reprendre les rênes de la guerre." #NT!
+ #luciferan_adherent: "Luciférien" #NT!
+ #luciferan_adherent_plural: "Lucifériens" #NT!
+ #holy_order_legion_of_majestic_liberation: "Légion de la Libération Majestueuse" #NT!
+ #holy_order_legion_of_glorius_victory: "Victoire de la Légion de Glorius" #NT!
+ #holy_order_legion_of_stark_defiance: "Légion de Stark Defiance" #NT!
+  # 
+ #ravener: "Corbeau" #NT!
+ #ravener_adj: "Corbeau" #NT!
+ #ravener_desc: "Nihilistes du plus haut niveau, ces démons ne représentent rien d’autre que la destruction de tout ce qui est Création. Ils estiment que s’ils ont perdu la guerre, personne ne mérite de détenir la récompense." #NT!
+ #ravener_adherent: "Corbeau" #NT!
+ #ravener_adherent_plural: "Les corbeaux" #NT!
+  # 
+ #reconciler: "Réconciliateur" #NT!
+ #reconciler_adj: "Réconciliateur" #NT!
+ #reconciler_desc: "Pour la plupart opposés aux objectifs déclarés de la société démoniaque dans son ensemble, ces démons sont des pénitents qui recherchent d’une manière ou d’une autre la rédemption auprès de Dieu ou de l’humanité." #NT!
+ #reconciler_adherent: "Réconciliateur" #NT!
+ #reconciler_adherent_plural: "Réconciliateurs" #NT!

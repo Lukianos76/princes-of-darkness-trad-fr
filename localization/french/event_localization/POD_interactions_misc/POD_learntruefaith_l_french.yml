@@ -1,0 +1,21 @@
+﻿l_french:
+  
+ POD_learntruefaith.001.t: "La vraie foi" #NT!
+ POD_learntruefaith.001.desc: "Vous demandez de l'aide à [teacher.GetFirstName]. Même si vous êtes l'un des plus fervents serviteurs de Dieu, vous ne pouvez tout simplement pas obtenir la force divine dont font preuve certains autres fidèles. Votre âme est-elle trop faible ? Faites-vous quelque chose de mal ? Vous êtes désormais déterminé à vous améliorer, mais vous ne savez pas vraiment comment le faire. [teacher.GetFirstName] a proposé un test de foi qui peut vous aider, mais êtes-vous assez pieux pour le terminer ?" #NT!
+ POD_learntruefaith.001.option.a: "Je suis assez pieux !" #NT!
+ POD_learntruefaith.001.option.a.tt: "Votre foi est testée" #NT!
+ POD_learntruefaith.001.option.a.desc: "Une épreuve de foi" #NT!
+ POD_learntruefaith.001.option.a.success: "Tu es digne" #NT!
+ POD_learntruefaith.001.option.a.success.tt: "Vous avez terminé le test" #NT!
+ POD_learntruefaith.001.option.a.failure: "Tu n'es pas digne" #NT!
+ POD_learntruefaith.001.option.a.failure.tt: "Vous avez échoué au test" #NT!
+ POD_learntruefaith.001.option.b: "Je ne pense pas pouvoir faire ça" #NT!
+ POD_learntruefaith.001.option.b.tt: "Vous abandonnez votre tentative d'obtenir la vraie foi" #NT!
+ POD_learntruefaith.101.t: "Digne du pouvoir divin" #NT!
+ POD_learntruefaith.101.desc: "Vous avez terminé le test ! Peut-être que cette force était en vous depuis le début et n’avait besoin que d’une démonstration de confiance de votre part ? Vous ne le saurez probablement jamais, car Dieu agit de manière mystérieuse. [teacher.GetFirstName] est très fier de toi et ton temps avec lui est terminé, car maintenant tu peux ressentir la grâce de Dieu." #NT!
+ POD_learntruefaith.101.option.a: "Je le servirai jusqu'à ma mort" #NT!
+ POD_learntruefaith.101.option.a.tt: "Tu es digne de la puissance divine" #NT!
+ POD_learntruefaith.201.t: "Indigne du pouvoir divin" #NT!
+ POD_learntruefaith.201.desc: "Vous avez échoué au test. Ce n’est peut-être pas le chemin que Dieu a choisi pour vous. Vous voulez y croire parce que l’alternative, la possibilité que vous ayez perdu Sa faveur d’une manière ou d’une autre, est insupportable. [teacher.GetFirstName] est déçu mais prêt à réessayer une autre fois." #NT!
+ POD_learntruefaith.201.option.a: "Je ne m'arrêterai pas" #NT!
+ POD_learntruefaith.201.option.a.tt: "Vous n'obtenez pas encore la Vraie Foi..." #NT!

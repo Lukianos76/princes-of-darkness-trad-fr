@@ -1,0 +1,10 @@
+﻿l_french:
+ POD_wraith_maintenance.21.t: "Sans entrave" #NT!
+ POD_wraith_maintenance.21.desc: "Vous n'avez aucun [Fetters|E] qui vous lie au [skinlands|E], en tant que tel, vous êtes renvoyé de force au [dark_kingdom|E]." #NT!
+ POD_wraith_maintenance.21.option.a: "Non!" #NT!
+ POD_wraith_maintenance.21.option.b: "Mon Po vient-il de se séparer ?" #NT!
+  
+ POD_wraith_maintenance.22.t: "Échapper à Yomi" #NT!
+ POD_wraith_maintenance.22.desc: "Vous êtes coincé dans le Yomi depuis longtemps, torturé par les Yama Kings, mais vous pensez avoir trouvé un moyen de vous échapper et de retrouver votre Hun." #NT!
+ POD_wraith_maintenance.22.option.a: "Je pourrais aller encore plus loin !" #NT!
+ POD_wraith_maintenance.22.option.b: "Permettez-moi simplement de revenir au [underworld|E]." #NT!

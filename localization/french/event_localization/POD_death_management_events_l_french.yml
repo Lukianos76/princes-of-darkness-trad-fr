@@ -1,0 +1,13 @@
+﻿l_french:
+  
+ ghoul_death_notification_title: "Votre [Ghoul|E] #high [LEFT_CHARACTER.GetFirstNameNoTooltip]#! est décédé" #NT!
+ death_management.ghoul.desc: "Votre [Ghoul|E], [dead_character.GetTitledFirstName] est mort." #NT!
+  
+ domitor_death_notification_title: "Votre Domitor #high [LEFT_CHARACTER.GetFirstNameNoTooltip]#! est décédé" #NT!
+ death_management.domitor.desc: "Votre domitor, [dead_character.GetTitledFirstName], est décédé." #NT!
+  
+ herd_death_notification_title: "Votre troupeau #high [LEFT_CHARACTER.GetFirstNameNoTooltip]#! est mort" #NT!
+ death_management.herd.desc: "Votre troupeau, [dead_character.GetTitledFirstName], est mort." #NT!
+  
+ host_death_notification_title: "Votre hôte #high [LEFT_CHARACTER.GetFirstNameNoTooltip]#! est décédé" #NT!
+ death_management.host.desc: "Votre hôte, [dead_character.GetTitledFirstName], est décédé." #NT!

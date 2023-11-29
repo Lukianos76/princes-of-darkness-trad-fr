@@ -1,0 +1,52 @@
+﻿l_french:
+  # Blood Potency modifiers 
+ POD_bloodpotency_link: "[blood_potency|E]" #NT!
+ POD_bloodpotency0_link: "[GetModifier('bloodpotency0_modifier').GetNameWithTooltip]" #NT!
+ POD_bloodpotency1_link: "[GetModifier('bloodpotency1_modifier').GetNameWithTooltip]" #NT!
+ POD_bloodpotency2_link: "[GetModifier('bloodpotency2_modifier').GetNameWithTooltip]" #NT!
+ POD_bloodpotency3_link: "[GetModifier('bloodpotency3_modifier').GetNameWithTooltip]" #NT!
+ POD_bloodpotency4_link: "[GetModifier('bloodpotency4_modifier').GetNameWithTooltip]" #NT!
+ POD_bloodpotency5_link: "[GetModifier('bloodpotency5_modifier').GetNameWithTooltip]" #NT!
+ POD_bloodpotency6_link: "[GetModifier('bloodpotency6_modifier').GetNameWithTooltip]" #NT!
+ POD_bloodpotency7_link: "[GetModifier('bloodpotency7_modifier').GetNameWithTooltip]" #NT!
+ POD_bloodpotency8_link: "[GetModifier('bloodpotency8_modifier').GetNameWithTooltip]" #NT!
+ POD_bloodpotency9_link: "[GetModifier('bloodpotency9_modifier').GetNameWithTooltip]" #NT!
+ POD_bloodpotency10_link: "[GetModifier('bloodpotency10_modifier').GetNameWithTooltip]" #NT!
+  
+ gauntletname0: "[GetModifier('gauntlet0_modifier').GetNameWithTooltip]" #NT!
+ gauntletname1: "[GetModifier('gauntlet1_modifier').GetNameWithTooltip]" #NT!
+ gauntletname2: "[GetModifier('gauntlet2_modifier').GetNameWithTooltip]" #NT!
+ gauntletname3: "[GetModifier('gauntlet3_modifier').GetNameWithTooltip]" #NT!
+ gauntletname4: "[GetModifier('gauntlet4_modifier').GetNameWithTooltip]" #NT!
+ gauntletname5: "[GetModifier('gauntlet5_modifier').GetNameWithTooltip]" #NT!
+ gauntletname6: "[GetModifier('gauntlet6_modifier').GetNameWithTooltip]" #NT!
+ gauntletname7: "[GetModifier('gauntlet7_modifier').GetNameWithTooltip]" #NT!
+ gauntletname8: "[GetModifier('gauntlet8_modifier').GetNameWithTooltip]" #NT!
+ gauntletname9: "[GetModifier('gauntlet9_modifier').GetNameWithTooltip]" #NT!
+ gauntletname10: "[GetModifier('gauntlet10_modifier').GetNameWithTooltip]" #NT!
+  
+ shroudname0: "[GetModifier('shroud0_modifier').GetNameWithTooltip]" #NT!
+ shroudname1: "[GetModifier('shroud1_modifier').GetNameWithTooltip]" #NT!
+ shroudname2: "[GetModifier('shroud2_modifier').GetNameWithTooltip]" #NT!
+ shroudname3: "[GetModifier('shroud3_modifier').GetNameWithTooltip]" #NT!
+ shroudname4: "[GetModifier('shroud4_modifier').GetNameWithTooltip]" #NT!
+ shroudname5: "[GetModifier('shroud5_modifier').GetNameWithTooltip]" #NT!
+ shroudname6: "[GetModifier('shroud6_modifier').GetNameWithTooltip]" #NT!
+ shroudname7: "[GetModifier('shroud7_modifier').GetNameWithTooltip]" #NT!
+ shroudname8: "[GetModifier('shroud8_modifier').GetNameWithTooltip]" #NT!
+ shroudname9: "[GetModifier('shroud9_modifier').GetNameWithTooltip]" #NT!
+ shroudname10: "[GetModifier('shroud10_modifier').GetNameWithTooltip]" #NT!
+  
+ spirit_opinionname0: "[GetModifier('spirit_opinion0_modifier').GetNameWithTooltip]" #NT!
+ spirit_opinionname1: "[GetModifier('spirit_opinion1_modifier').GetNameWithTooltip]" #NT!
+ spirit_opinionname2: "[GetModifier('spirit_opinion2_modifier').GetNameWithTooltip]" #NT!
+ spirit_opinionname3: "[GetModifier('spirit_opinion3_modifier').GetNameWithTooltip]" #NT!
+ spirit_opinionname4: "[GetModifier('spirit_opinion4_modifier').GetNameWithTooltip]" #NT!
+ spirit_opinionname5: "[GetModifier('spirit_opinion5_modifier').GetNameWithTooltip]" #NT!
+  
+ plasmic_opinionname0: "[GetModifier('plasmic_opinion0_modifier').GetNameWithTooltip]" #NT!
+ plasmic_opinionname1: "[GetModifier('plasmic_opinion1_modifier').GetNameWithTooltip]" #NT!
+ plasmic_opinionname2: "[GetModifier('plasmic_opinion2_modifier').GetNameWithTooltip]" #NT!
+ plasmic_opinionname3: "[GetModifier('plasmic_opinion3_modifier').GetNameWithTooltip]" #NT!
+ plasmic_opinionname4: "[GetModifier('plasmic_opinion4_modifier').GetNameWithTooltip]" #NT!
+ plasmic_opinionname5: "[GetModifier('plasmic_opinion5_modifier').GetNameWithTooltip]" #NT!

@@ -1,0 +1,21 @@
+﻿l_french:
+  
+ POD_vamphunt.1.t: "Sang!" #NT!
+ POD_vamphunt.1.desc: "Vous avez traqué votre proie. Vous prenez la première bouchée et [target.GetSheHe] succombe au baiser. Quelle quantité de sang allez-vous boire ?" #NT!
+ POD_vamphunt.1.option.a: "N'en prenez pas. Laissez [target.GetHerHim] partir indemne." #NT!
+ POD_vamphunt.1.option.b: "Prends-en un peu. Juste une gorgée." #NT!
+ POD_vamphunt.1.option.c: "Prends un verre. [target.GetSheHe|U] va s'affaiblir mais tout ira bien." #NT!
+ POD_vamphunt.1.option.d: "Prends beaucoup, blessant [target.GetHerHim]." #NT!
+ POD_vamphunt.1.option.e: "Prends tout, tuant [target.GetFirstName] et rassasiant complètement ma faim." #NT!
+ POD_vamphunt.1.option.f: "Rendez [target.GetHerHim] accro au bonheur de mon baiser, alors [target.GetSheHe] me suppliera de me nourrir de [target.GetHerHim]." #NT!
+  
+ POD_vamphunt.11.t: "Chi !" #NT!
+ POD_vamphunt.11.desc: "Vous avez traqué votre proie. Qu'allez-vous dévorer ?" #NT!
+ POD_vamphunt.11.option.a: "Ne rien dévorer. Laissez [target.GetHerHim] partir indemne." #NT!
+ POD_vamphunt.11.option.b: "Dévorez [target.GetHerHis] Yin Chi." #NT!
+ POD_vamphunt.11.option.c: "Dévorez [target.GetHerHis] Yang Chi." #NT!
+ POD_vamphunt.11.option.d: "Dévorez [target.GetHerHis] du sang, sans tuer [target.GetHerHim]." #NT!
+ POD_vamphunt.11.option.e: "Dévore [target.GetHerHis] chair, tuant [target.GetFirstName] et rassasiant complètement ma faim." #NT!
+  
+ POD_vamphunt.21.t: "Du sang et de la chair !" #NT!
+ POD_vamphunt.21.desc: "Vous avez traqué votre proie. Quelle quantité de sang et de chair allez-vous manger ?" #NT!

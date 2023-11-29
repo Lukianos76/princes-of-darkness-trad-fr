@@ -1,0 +1,23 @@
+﻿l_french:
+  
+ POD_vampire_blood_surge.100.t: "Déferlement de sang !" #NT!
+ POD_vampire_blood_surge.100.desc: "Le sang peut augmenter vos capacités de manière surnaturelle, mais il risque d’éveiller votre faim." #NT!
+ POD_vampire_blood_surge.100.option.a: "Combattez!" #NT!
+ POD_vampire_blood_surge.100.option.a.tt.beast: "#BLOODRED Oui ! Tuer le temps !#!" #NT!
+ POD_vampire_blood_surge.100.option.h: "Je veux être plus dur !" #NT!
+ POD_vampire_blood_surge.100.option.h.tt.beast: "#BLOODRED Nous sommes immortels !#!" #NT!
+ POD_vampire_blood_surge.100.option.b: "Devenez meilleur en tactique" #NT!
+ POD_vampire_blood_surge.100.option.b.tt.beast: "#BLOODRED Guerre. La guerre ne change jamais. Il y a toujours beaucoup de sang versé en temps de guerre.#!" #NT!
+ POD_vampire_blood_surge.100.option.c: "Rends-moi plus charmant" #NT!
+ POD_vampire_blood_surge.100.option.c.tt.beast: "#BLOODRED Bienvenue dans mon salon.#!" #NT!
+ POD_vampire_blood_surge.100.option.d: "Aide-moi avec les chiffres" #NT!
+ POD_vampire_blood_surge.100.option.d.tt.beast: "#BLOODRED Nous avons besoin de plus de troupeau. Nous avons toujours besoin de plus de sang. Je peux vous aider à l'obtenir. Laissez-moi vous aider.#!" #NT!
+ POD_vampire_blood_surge.100.option.e: "Calme comme la mort" #NT!
+ POD_vampire_blood_surge.100.option.e.tt.beast: "#BLOODRED La chasse est ouverte !#!" #NT!
+ POD_vampire_blood_surge.100.option.f: "Une bonne application de vitae peut augmenter l’intellect de façon exponentielle" #NT!
+ POD_vampire_blood_surge.100.option.f.tt.beast: "#BLOODRED Indubitablement. Maximisons notre acquisition de vitae avec empressement et urgence.#!" #NT!
+ POD_vampire_blood_surge.100.option.g: "Je ne risquerai pas d’augmenter ma faim, pour l’instant." #NT!
+ POD_vampire_blood_surge.100.option.g.tt.beast: "#BLOODRED Vous le ferez cependant, et bientôt. J'attendrai.#!" #NT!
+  
+  
+  

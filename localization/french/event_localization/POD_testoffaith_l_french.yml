@@ -1,0 +1,68 @@
+﻿l_french:
+  
+ POD_test_of_faith.001.t: "Un test de foi" #NT!
+ POD_test_of_faith.001.desc: "Certaines personnes peuvent vivre dans le péché, mais pas les serviteurs de Dieu. Vous ne méritez pas Sa grâce si vous n’êtes pas assez vertueux, et vous savez que vous ne l’êtes pas. Il est temps de vous changer, de vous débarrasser de ces péchés qui vous rendent indigne. Un chemin ardu certes, mais nécessaire." #NT!
+ POD_test_of_faith.001.option.a: "La luxure ne troublera pas mon esprit" #NT!
+ POD_test_of_faith.001.option.a.tt: "Tu essaieras de te débarrasser de ton désir" #NT!
+ POD_test_of_faith.001.option.a.desc: "Test de foi" #NT!
+ POD_test_of_faith.001.option.a.success: "Tu as réussi" #NT!
+ POD_test_of_faith.001.option.a.failure: "Vous échouez" #NT!
+ POD_test_of_faith.001.option.a.failure.tt: "Vous échouez au test" #NT!
+ POD_test_of_faith.001.option.b: "Je ne suis pas si génial que ça après tout" #NT!
+ POD_test_of_faith.001.option.b.tt: "Tu essaieras de te débarrasser de ton arrogance" #NT!
+ POD_test_of_faith.001.option.b.desc: "Test de foi" #NT!
+ POD_test_of_faith.001.option.b.success: "Tu as réussi" #NT!
+ POD_test_of_faith.001.option.b.failure: "Vous échouez" #NT!
+ POD_test_of_faith.001.option.b.failure.tt: "Vous échouez au test" #NT!
+ POD_test_of_faith.001.option.c: "J'essaierai de ne pas avoir le cœur plein de dépit" #NT!
+ POD_test_of_faith.001.option.c.tt: "Vous essaierez de vous débarrasser de votre côté vengeur." #NT!
+ POD_test_of_faith.001.option.c.desc: "Test de foi" #NT!
+ POD_test_of_faith.001.option.c.success: "Tu as réussi" #NT!
+ POD_test_of_faith.001.option.c.failure: "Vous échouez" #NT!
+ POD_test_of_faith.001.option.c.failure.tt: "Vous échouez au test" #NT!
+ POD_test_of_faith.001.option.d: "Je ne laisserai pas ma colère me contrôler" #NT!
+ POD_test_of_faith.001.option.d.tt: "Tu essaieras de te débarrasser de ta colère" #NT!
+ POD_test_of_faith.001.option.d.desc: "Test de foi" #NT!
+ POD_test_of_faith.001.option.d.success: "Tu as réussi" #NT!
+ POD_test_of_faith.001.option.d.failure: "Vous échouez" #NT!
+ POD_test_of_faith.001.option.d.failure.tt: "Vous échouez au test" #NT!
+ POD_test_of_faith.001.option.e: "Peut-être que je mange trop" #NT!
+ POD_test_of_faith.001.option.e.tt: "Vous essaierez de vous débarrasser de vos mauvaises habitudes alimentaires" #NT!
+ POD_test_of_faith.001.option.e.desc: "Test de foi" #NT!
+ POD_test_of_faith.001.option.e.success: "Tu as réussi" #NT!
+ POD_test_of_faith.001.option.e.failure: "Vous échouez" #NT!
+ POD_test_of_faith.001.option.e.failure.tt: "Vous échouez au test" #NT!
+ POD_test_of_faith.001.option.f: "je me repose trop" #NT!
+ POD_test_of_faith.001.option.f.tt: "Tu essaieras de te débarrasser de ta paresse" #NT!
+ POD_test_of_faith.001.option.f.desc: "Test de foi" #NT!
+ POD_test_of_faith.001.option.f.success: "Tu as réussi" #NT!
+ POD_test_of_faith.001.option.f.failure: "Vous échouez" #NT!
+ POD_test_of_faith.001.option.f.failure.tt: "Vous échouez au test" #NT!
+ POD_test_of_faith.001.option.g: "La cupidité n'est pas bonne" #NT!
+ POD_test_of_faith.001.option.g.tt: "Tu essaieras de te débarrasser de ta cupidité" #NT!
+ POD_test_of_faith.001.option.g.desc: "Test de foi" #NT!
+ POD_test_of_faith.001.option.g.success: "Tu as réussi" #NT!
+ POD_test_of_faith.001.option.g.failure: "Vous échouez" #NT!
+ POD_test_of_faith.001.option.g.failure.tt: "Vous échouez au test" #NT!
+  
+ POD_test_of_faith.101.t: "Un essai réussi" #NT!
+ POD_test_of_faith.101.desc: "Vous avez réussi. Maintenant, vous avez presque terminé. Vous Le servirez correctement, et la voie vertueuse est la bonne voie. Quelle partie de votre vie et de votre comportement souhaitez-vous améliorer ?" #NT!
+ POD_test_of_faith.101.option.a: "L'esprit avant la chair" #NT!
+ POD_test_of_faith.101.option.a.tt: "Tu deviens chaste" #NT!
+ POD_test_of_faith.101.option.b: "Je serai calme quelles que soient les circonstances" #NT!
+ POD_test_of_faith.101.option.b.tt: "Tu deviens calme" #NT!
+ POD_test_of_faith.101.option.c: "Partager c'est aimer" #NT!
+ POD_test_of_faith.101.option.c.tt: "Tu deviens généreux" #NT!
+ POD_test_of_faith.101.option.d: "je tendrai l'autre joue" #NT!
+ POD_test_of_faith.101.option.d.tt: "Tu deviens indulgent" #NT!
+ POD_test_of_faith.101.option.e: "Je ne suis pas meilleur que les autres" #NT!
+ POD_test_of_faith.101.option.e.tt: "Tu deviens humble" #NT!
+ POD_test_of_faith.101.option.f: "Je sais quand ça suffit" #NT!
+ POD_test_of_faith.101.option.f.tt: "Tu seras tempéré" #NT!
+ POD_test_of_faith.101.option.g: "je me reposerai au paradis" #NT!
+ POD_test_of_faith.101.option.g.tt: "Vous devenez diligent" #NT!
+  
+ POD_test_of_faith.201.t: "Un test raté" #NT!
+ POD_test_of_faith.201.desc: "Tu as échoué. Votre concentration n'était pas assez parfaite. Peut-être devriez-vous réessayer plus tard ?\nIl n'y a aucune honte à ne pas réussir à gravir la montagne, seulement à refuser de la tenter en premier lieu." #NT!
+ POD_test_of_faith.201.option.a: "je ne suis pas encore prêt" #NT!
+ POD_test_of_faith.201.option.a.tt: "Tu as échoué" #NT!

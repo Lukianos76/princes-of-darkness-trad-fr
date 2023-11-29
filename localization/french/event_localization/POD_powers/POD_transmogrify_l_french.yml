@@ -1,0 +1,90 @@
+﻿l_french:
+  
+ POD_transmogrify.100.t: "Transmogrification" #NT!
+ POD_transmogrify.100.desc: "Avec l'utilisation du [discipline|E] de vicissitude, je peux transmogrifier mon sujet en beauté ou en bête. [transmogrifiee.GetSheHe|U] la chair est mon argile, et je suis un artiste des tendons, des os et du sang. Il est possible que [transmogrifiee.GetFirstName] ne survive pas à la procédure." #NT!
+ POD_transmogrify.100.option.a: "Manipuler le visage [transmogrifiee.GetHerHis]" #NT!
+ POD_transmogrify.100.option.b: "Modifier le corps du [transmogrifiee.GetHerHis]" #NT!
+ POD_transmogrify.100.option.c: "Améliorez le [transmogrifiee.GetHerHim] pour le combat" #NT!
+ POD_transmogrify.100.option.d: "Modifier les sens [transmogrifiee.GetHerHis]" #NT!
+ POD_transmogrify.100.option.f: "Moule [transmogrifiee.GetHerHim] pour paraître plus jeune ou plus vieux" #NT!
+ POD_transmogrify.100.option.e: "Ne fais rien" #NT!
+  
+ POD_transmogrify.experiment.desc: "Votre apprentissage sera remis en question par l'expérience" #NT!
+  
+ POD_transmogrify.200.t: "Transmogrification du Visage Malléable" #NT!
+ POD_transmogrify.200.desc: "Comment dois-je modifier l'apparence du [transmogrifiee.GetFirstNamePossessive] ? Il est possible que [transmogrifiee.GetSheHe] ne survive pas à la procédure." #NT!
+ POD_transmogrify.200.option.k: "Soyez créatif avec Vicissitude" #NT!
+ POD_transmogrify.200.option.l: "Inverser les fonctionnalités Vicissitude" #NT!
+ POD_transmogrify.200.option.a: "Craft [transmogrifiee.GetHerHis] s'inscrit dans les notions conventionnelles de beauté" #NT!
+ POD_transmogrify.200.option.b: "Mutiler [transmogrifiee.GetHerHim] pour paraître laid à la société des mortels" #NT!
+ POD_transmogrify.200.option.c: "Extraire le pigment de la peau [transmogrifiee.GetHerHis]" #NT!
+ POD_transmogrify.200.option.d: "Remettez le pigment sur la peau [transmogrifiee.GetHerHis]." #NT!
+ POD_transmogrify.200.option.e: "Cicatrice [transmogrifiee.GetFirstName]" #NT!
+ POD_transmogrify.200.option.f: "Supprimer les cicatrices [transmogrifiee.GetHerHis]" #NT!
+ POD_transmogrify.200.option.g: "Supprimer les échelles [transmogrifiee.GetHerHis]" #NT!
+ POD_transmogrify.200.option.h: "Scalifier la peau [transmogrifiee.GetHerHis]" #NT!
+ POD_transmogrify.200.option.i: "Craft [transmogrifiee.GetHerHim] à mon image" #NT!
+ POD_transmogrify.200.option.j: "Ne fais rien" #NT!
+  
+ POD_transmogrify.300.t: "Transmogrification de l'argile mortelle" #NT!
+ POD_transmogrify.300.desc: "Comment dois-je modifier l'apparence du [transmogrifiee.GetHerHis] ? Il est possible que [transmogrifiee.GetFirstName] ne survive pas à la procédure." #NT!
+ POD_transmogrify.300.option.a: "Transformez [transmogrifiee.GetHerHim] en géant" #NT!
+ POD_transmogrify.300.option.b: "Réduire [transmogrifiee.GetHerHim] en un nain" #NT!
+ POD_transmogrify.300.option.c: "Façonner [transmogrifiee.GetHerHim] à une hauteur moyenne." #NT!
+ POD_transmogrify.300.option.d: "Tordez la colonne vertébrale [transmogrifiee.GetHerHis] en un bossu" #NT!
+ POD_transmogrify.300.option.e: "Détordre le dos [transmogrifiee.GetHerHis]" #NT!
+ POD_transmogrify.300.option.f: "Améliorer [transmogrifiee.GetHerHis] pieds" #NT!
+ POD_transmogrify.300.option.g: "Club [transmogrifiee.GetHerHis] pieds" #NT!
+ POD_transmogrify.300.option.h: "Améliorer les membres [transmogrifiee.GetHerHis]" #NT!
+ POD_transmogrify.300.option.i: "Affaiblir [transmogrifiee.GetHerHis] membres" #NT!
+ POD_transmogrify.300.option.j: "Restaurer [transmogrifiee.GetHerHis] jambe manquante" #NT!
+ POD_transmogrify.300.option.k: "Restaurer [transmogrifiee.GetHerHis] organes génitaux" #NT!
+ POD_transmogrify.300.option.l: "Supprimer les organes génitaux [transmogrifiee.GetHerHis]" #NT!
+ #POD_transmogrify.300.option.m: "Profane Hieros Gamos" #NT!
+ POD_transmogrify.300.option.n: "Ne fais rien" #NT!
+  
+ POD_transmogrify.350.t: "Transmogrification des sens" #NT!
+ POD_transmogrify.350.desc: "Comment dois-je modifier les sens [transmogrifiee.GetFirstNamePossessive] ? Il est possible que [transmogrifiee.GetSheHe] ne survive pas à la procédure." #NT!
+ POD_transmogrify.350.option.a: "Donnez à [transmogrifiee.GetHerHim] de nouveaux yeux" #NT!
+ POD_transmogrify.350.option.b: "Supprimer [transmogrifiee.GetHerHis] yeux" #NT!
+ POD_transmogrify.350.option.c: "Ajouter un troisième œil" #NT!
+ POD_transmogrify.350.option.d: "Retirer le troisième œil" #NT!
+ POD_transmogrify.350.option.e: "Améliorer l'audition [transmogrifiee.GetHerHis]" #NT!
+ POD_transmogrify.350.option.f: "Oreilles normales" #NT!
+ POD_transmogrify.350.option.g: "Améliorer l'odorat" #NT!
+ POD_transmogrify.350.option.h: "Nez normal" #NT!
+ POD_transmogrify.350.option.i: "Ne fais rien" #NT!
+  
+ POD_transmogrify.400.t: "Transmogrification déchirant le cadre osseux" #NT!
+ POD_transmogrify.400.desc: "Comment dois-je modifier l'apparence du [transmogrifiee.GetFirstNamePossessive] ? Il est possible que [transmogrifiee.GetSheHe] ne survive pas à la procédure." #NT!
+ POD_transmogrify.400.option.a: "Équipez [transmogrifiee.GetHerHim] d'armes sauvages" #NT!
+ POD_transmogrify.400.option.b: "Protégez [transmogrifiee.GetHerHim] avec une armure d'os" #NT!
+ POD_transmogrify.400.option.c: "[transmogrifiee.GetSheHe|U] devrait avoir des cornes" #NT!
+ POD_transmogrify.400.option.d: "Supprimer les armes sauvages" #NT!
+ POD_transmogrify.400.option.e: "Retirez l'armure d'os" #NT!
+ POD_transmogrify.400.option.f: "Retirez les cornes" #NT!
+ POD_transmogrify.400.option.g: "Ne fais rien" #NT!
+  
+ POD_transmogrify.greatsuccess: "L'expérience sera un grand succès" #NT!
+ POD_transmogrify.moderatesuccess: "L'expérience sera un succès modéré" #NT!
+ POD_transmogrify.smallsuccess: "L'expérience sera un petit succès" #NT!
+ POD_transmogrify.failure: "L'expérience sera un échec" #NT!
+  
+ POD_transmogrify.500.t: "Transmogrification" #NT!
+ POD_transmogrify.500.desc: "[transmogrifiee.GetFirstName] a été transformé." #NT!
+ POD_transmogrify.500.option.a: "Continuez les expériences." #NT!
+ POD_transmogrify.500.option.b: "Assez pour ça maintenant." #NT!
+  
+ POD_transmogrify.600.t: "Transmogrification" #NT!
+ POD_transmogrify.600.desc: "[transmogrifiee.GetFirstName] a expiré." #NT!
+ POD_transmogrify.600.option.a: "Tels sont les risques de métamorphose pour les mortels" #NT!
+  
+ POD_transmogrify.700.t: "Façonner les ravages du temps" #NT!
+ POD_transmogrify.700.desc: "Dois-je faire paraître [transmogrifiee.GetFirstName] plus jeune ou plus vieux ?" #NT!
+ POD_transmogrify.700.option.a: "Plus vieux" #NT!
+ POD_transmogrify.700.option.b: "Plus jeune" #NT!
+ POD_transmogrify.700.option.c: "Ne fais rien" #NT!
+  
+ POD_transmorgify_ghoul.greatsuccess: "L'expérience sera un grand succès." #NT!
+  
+  

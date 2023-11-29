@@ -1,0 +1,124 @@
+﻿l_french:
+  
+ rule_NPC_vampire_ruler_lifestyle_learning: "Apprentissage ancien" #NT!
+ setting_NPC_vampire_rulers_do_not_learn_lifestyle_perks: "Les aînés n'apprennent pas de nouveaux trucs." #NT!
+ setting_NPC_vampire_rulers_do_not_learn_lifestyle_perks_desc: "Les dirigeants vampires, personnages non-joueurs, n'apprennent PAS les avantages du style de vie." #NT!
+ setting_NPC_vampire_rulers_learn_lifestyle_perks: "Les aînés apprennent de nouvelles astuces." #NT!
+ setting_NPC_vampire_rulers_learn_lifestyle_perks_desc: "Les dirigeants vampires, personnages non-joueurs, apprennent les avantages du style de vie après le début du jeu." #NT!
+  
+ rule_age_of_inquisition_difficulty: "Difficulté d'Inquisition" #NT!
+ setting_age_of_inquisition_difficulty_easy: "Inquisition facile" #NT!
+ setting_age_of_inquisition_difficulty_easy_desc: "Les inquisiteurs de la fin du jeu auront à peine une brèche dans les royaumes des vampires." #NT!
+ setting_age_of_inquisition_difficulty_default: "Inquisition par défaut" #NT!
+ setting_age_of_inquisition_difficulty_default_desc: "Les inquisiteurs de la fin du jeu secoueront le monde des vampires, mais seront ensuite lentement repoussés." #NT!
+ setting_age_of_inquisition_difficulty_hard: "Inquisition apocalyptique" #NT!
+ setting_age_of_inquisition_difficulty_hard_desc: "Les inquisiteurs de la fin du jeu sont susceptibles d’anéantir la « civilisation » des vampires." #NT!
+  
+ rule_web_of_knives_difficulty: "Toile de couteaux" #NT!
+ setting_web_of_knives_difficulty_default: "Toile de couteaux par défaut" #NT!
+ setting_web_of_knives_difficulty_default_desc: "Les assassins Banu Haqim de la Toile de Couteaux seront meurtriers dans leurs bastions régionaux, mais leur portée ne s'étendra pas aussi bien dans d'autres régions." #NT!
+ setting_web_of_knives_difficulty_hard: "Toile mortelle de couteaux" #NT!
+ setting_web_of_knives_difficulty_hard_desc: "Les assassins Banu Haqim de la Toile des Couteaux peuvent désormais atteindre leur cible n'importe où dans le monde, ce qui signifie que ce n'est qu'une question de temps avant qu'ils n'accomplissent leur sanglante mission." #NT!
+  
+  
+ #rule_eyes_of_abyss: "Les yeux de l'abîme" #NT!
+ #setting_lasombra_have_normal_eyes: "Yeux normaux" #NT!
+ #setting_lasombra_have_normal_eyes_desc: "Les Lasombra ont des yeux normaux, même s'ils ont la « Vue de l'Oblivion »" #NT!
+ #setting_lasombra_have_black_eyes: "Les yeux de l'abîme" #NT!
+ #setting_lasombra_have_black_eyes_desc: "Les Lasombra avec « Oblivion's Sight » ont les yeux noirs." #NT!
+  
+ rule_banu_haqim_darken: "La malédiction des Banu Haqim" #NT!
+ setting_banu_haqim_default_darken: "Assombrir avec l'âge" #NT!
+ setting_banu_haqim_default_darken_desc: "La peau des Banu Haqim, les Assamites, s'assombrit jusqu'à devenir obsidienne à mesure qu'ils vieillissent." #NT!
+ setting_banu_haqim_never_darken: "Ne jamais assombrir" #NT!
+ setting_banu_haqim_never_darken_desc: "Les Banu Haqim n'auront pas d'effet visuel obsidienne sombre en vieillissant." #NT!
+  
+ rule_world_of_darkness: "Monde des ténèbres" #NT!
+ setting_world_of_monsters: "Monde des ténèbres" #NT!
+ setting_world_of_monsters_desc: "La plupart des personnages débarqués sont des créatures surnaturelles ou celles qui les chassent." #NT!
+ setting_world_of_minions_and_monsters: "Monde de l'Ombre" #NT!
+ setting_world_of_minions_and_monsters_desc: "La plupart des personnages débarqués sont des créatures surnaturelles ou celles qui les servent ou les chassent." #NT!
+ setting_world_of_minions: "Un monde de corruption" #NT!
+ setting_world_of_minions_desc: "La plupart des personnages débarqués sont les serviteurs de créatures surnaturelles ou ceux qui les chassent." #NT!
+ setting_world_of_mortals_player_knows: "Monde des secrets" #NT!
+ setting_world_of_mortals_player_knows_desc: "Le monde ignore les horreurs qui guettent la nuit, mais le personnage du joueur ne le sait que trop bien..." #NT!
+ setting_world_of_mortals: "Monde de l'ignorance" #NT!
+ setting_world_of_mortals_desc: "La plupart des personnages débarqués ignorent le surnaturel, même le personnage du joueur." #NT!
+  
+ rule_splats: "Domination surnaturelle" #NT!
+ setting_vampires: "Vampire : la mascarade" #NT!
+ setting_vampires_desc: "Les Kindred détiennent la plupart des titres fonciers." #NT!
+ setting_hunters: "Inquisiteur de l'Âge des Ténèbres" #NT!
+ setting_hunters_desc: "La plupart des personnages titrés sont soit des chasseurs, soit des monstres surnaturels." #NT!
+ setting_werewolves: "Loup-garou : l'Apocalypse" #NT!
+ setting_werewolves_desc: "Les Garous détiennent la plupart des titres fonciers." #NT!
+ setting_mages: "Mage : l'Ascension" #NT!
+ setting_mages_desc: "La plupart des détenteurs de titres fonciers sont des mages éveillés." #NT!
+ setting_fae: "Changeling : le rêve" #NT!
+ setting_fae_desc: "La plupart des détenteurs de titres fonciers sont des Fae." #NT!
+ setting_wraiths: "Wraith : l'oubli" #NT!
+ setting_wraith_desc: "Le jeu se déroulera dans le [shadowlands|E] où la plupart des détenteurs de titres débarqués sont des Wraiths." #NT!
+ setting_demons: "Démon : le Déchu" #NT!
+ setting_demons_desc: "La plupart des détenteurs de titres fonciers sont des démons." #NT!
+ setting_vampires_vs_werewolves: "Croc et griffe" #NT!
+ setting_vampires_vs_werewolves_desc: "La plupart des personnages principaux sont soit Kindred, soit Garou." #NT!
+ setting_vampires_vs_mages: "Guerre Massasa" #NT!
+ setting_vampires_vs_mages_desc: "La plupart des personnages débarqués sont soit des Kindred of Mages." #NT!
+ setting_mortals: "Mortel : l'Innocent" #NT!
+ setting_mortals_desc: "La plupart des titres fonciers sont des mortels qui ignorent le Monde des Ténèbres." #NT!
+ setting_all_splats: "Monde des ténèbres" #NT!
+ setting_all_splats_desc: "Toutes les créatures surnaturelles disponibles seront incluses dans le monde." #NT!
+  
+ #rule_wod_rule_set: "Ensemble de règles WoD" #NT!
+ #setting_wod_rule_set_dav20: "DAV20" #NT!
+ #setting_wod_rule_set_dav20_desc: "Édition du 20e anniversaire des vampires de l'âge des ténèbres. Cela peut impacter les disciplines, les fléaux [Clan|E], les symboles de trait, etc..." #NT!
+ #setting_wod_rule_set_v5: "V5" #NT!
+ #setting_wod_rule_set_v5_desc: "Vampire: la Mascarade, cinquième édition. Cela peut avoir un impact sur les fléaux [disciplines|E], [Clan|E], les symboles de trait, etc..." #NT!
+  
+ rule_black_death: "La mort noire" #NT!
+ setting_black_death_default: "Peste noire par défaut" #NT!
+ setting_black_death_default_desc: "La peste noire surviendra au 14ème siècle, dévastatrice et retardant le développement du monde." #NT!
+ setting_black_death_disabled: "Peste noire handicapée" #NT!
+ setting_black_death_disabled_desc: "La peste noire n'arrivera pas" #NT!
+  
+ rule_patreon_and_easter_egg_characters: "Personnages non canoniques" #NT!
+ setting_both_patron_and_easter_egg_on: "Laissez-les être, ils peuvent exister" #NT!
+ setting_both_patron_and_easter_egg_on_desc: "Les personnages Patron et Easter Egg resteront." #NT!
+ setting_patron_only: "Je veux seulement ceux qui ont payé" #NT!
+ setting_patron_only_desc: "Les personnages patrons seront autorisés à vivre." #NT!
+ setting_easter_egg_only: "Montre-moi les œufs !" #NT!
+ setting_easter_egg_only_desc: "Les personnages des œufs de Pâques seront autorisés à vivre." #NT!
+ setting_canon_only: "Tuez-les tous!" #NT!
+ setting_canon_only_desc: "Les personnages mécènes et œufs de Pâques disparaîtront du jeu." #NT!
+  
+ rule_resonance_xp: "Expérience de résonance" #NT!
+ setting_resonance_xp_default: "Expérience de résonance par défaut" #NT!
+ setting_resonance_xp_default_desc: "L'expérience de résonance offerte en buvant sur les mortels est normale, ce qui entraîne la vitesse par défaut d'amélioration des pouvoirs vampiriques." #NT!
+ setting_resonance_xp_fast: "Expérience de résonance rapide" #NT!
+ setting_resonance_xp_fast_desc: "L'expérience de résonance offerte par la consommation d'alcool sur les mortels est plus importante que d'habitude, ce qui entraîne une amélioration plus rapide des pouvoirs vampiriques." #NT!
+  
+ rule_hunt_journey_speed: "Vitesse de chasse [journeys|E]" #NT!
+ setting_hunt_journey_speed_5: "5 mois" #NT!
+ setting_hunt_journey_speed_5_desc: "Hunt [journeys|E] a un [planning_speed|E] de 20 % par mois." #NT!
+ setting_hunt_journey_speed_10: "10 mois" #NT!
+ setting_hunt_journey_speed_10_desc: "Hunt [journeys|E] a un [planning_speed|E] de 10 % par mois." #NT!
+ setting_hunt_journey_speed_20: "20 mois" #NT!
+ setting_hunt_journey_speed_20_desc: "Hunt [journeys|E] a un [planning_speed|E] de 5 % par mois." #NT!
+  
+ rule_journey_cost_mult: "[journey|E] Multiplicateur de coût" #NT!
+ setting_journey_cost_mult_0: "0x" #NT!
+ setting_journey_cost_mult_0_desc: "[journeys|E] ne coûte rien." #NT!
+ setting_journey_cost_mult_05: "0,5x" #NT!
+ setting_journey_cost_mult_05_desc: "Les coûts [journey|E] sont réduits de moitié." #NT!
+ setting_journey_cost_mult_1: "1 fois" #NT!
+ setting_journey_cost_mult_1_desc: "[journeys|E] coûte le montant normal." #NT!
+ setting_journey_cost_mult_2: "2x" #NT!
+ setting_journey_cost_mult_2_desc: "Les coûts [journey|E] sont doublés." #NT!
+  
+ rule_journey_provoke_vatican_requirements: "[journey|E] : $provoke_vatican_name$" #NT!
+ setting_journey_provoke_vatican_default: "Restrictions par défaut" #NT!
+ setting_journey_provoke_vatican_default_desc: "Seuls les $POD_splat_vampire_plural$ téméraires qui ont une histoire avec le catholicisme peuvent entreprendre ce voyage." #NT!
+ setting_journey_provoke_vatican_allvamps: "N'importe quel vampire" #NT!
+ setting_journey_provoke_vatican_allvamps_desc: "N’importe quel [GetTrait('vampire').GetName(GetNullCharacter)] peut contrarier le Vatican." #NT!
+ setting_journey_provoke_vatican_unrestricted: "Tout surnaturel" #NT!
+ setting_journey_provoke_vatican_unrestricted_desc: "Tout surnaturel peut contrarier le Vatican." #NT!

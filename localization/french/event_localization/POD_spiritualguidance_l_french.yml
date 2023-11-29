@@ -1,0 +1,94 @@
+﻿l_french:
+  
+ POD_spiritual_guidance.001.t: "Orientation spirituelle" #NT!
+ POD_spiritual_guidance.001.desc: "[student.GetFirstName] mène une vie de péché. Vous pensez pouvoir aider [student.GetHerHim], mais [student.GetSheHe] écoutera-t-il ? Après tout, le chemin vers la rédemption et l'absolution de ses péchés peut être un processus long et ardu, qui ne convient pas à tout le monde." #NT!
+ POD_spiritual_guidance.001.option.a: "Je vais aider [student.GetHerHim]" #NT!
+ POD_spiritual_guidance.001.option.a.tt: "Vous essayez d'aider [student.GetFirstName]" #NT!
+ POD_spiritual_guidance.001.option.b: "je ne le sens pas" #NT!
+ POD_spiritual_guidance.001.option.b.tt: "Vous abandonnez votre tentative d'aider [student.GetFirstName]" #NT!
+  
+  
+ POD_spiritual_guidance.002.t: "Essayer d'aider" #NT!
+ POD_spiritual_guidance.002.desc: "[teacher.GetFirstName] vous a approché et vous a proposé de vous aider à devenir un meilleur serviteur de Dieu. Quelle sera votre réponse ? Vous pourriez devenir une meilleure personne à la fin, ou simplement attendre un temps précieux, difficile à dire." #NT!
+ POD_spiritual_guidance.002.option.a: "J'accepte avec gratitude l'offre [teacher.GetHerHis]" #NT!
+ POD_spiritual_guidance.002.option.a.tt: "Une leçon commence" #NT!
+ POD_spiritual_guidance.002.option.b: "Je ne pense pas que j'aime où ça va" #NT!
+ POD_spiritual_guidance.002.option.b.tt: "Tu refuses" #NT!
+  
+ POD_spiritual_guidance.102.t: "Un refus" #NT!
+ POD_spiritual_guidance.102.desc: "[student.GetFirstName] ne veut pas que vous « aidiez » [student.GetHerHim]. Il semble que le chemin de la rédemption était trop difficile pour celui-ci. De toute façon, Dieu sera le seul juge de l’âme à la fin." #NT!
+ POD_spiritual_guidance.102.option.a: "Quelle honte.." #NT!
+ POD_spiritual_guidance.102.option.a.tt: "[student.GetFirstName] a refusé votre offre" #NT!
+  
+ POD_spiritual_guidance.202.t: "Orientation spirituelle II" #NT!
+ POD_spiritual_guidance.202.desc: "Une personne vraiment dévouée ne doit pas commettre de péché. [student.GetFirstName] n'est pas prêt à servir Dieu avec toute l'efficacité. Et votre mission sacrée est d'aider [student.GetHerHim] à mieux comprendre Dieu. Serez-vous l’enseignant dévoué dont nous avons besoin maintenant ?" #NT!
+ POD_spiritual_guidance.202.option.a: "Ton désir ne troublera pas ton esprit" #NT!
+ POD_spiritual_guidance.202.option.a.tt: "Vous essaierez de vous débarrasser du [student.GetHerHis] désir" #NT!
+ POD_spiritual_guidance.202.option.a.desc: "Test de foi" #NT!
+ POD_spiritual_guidance.202.option.a.success: "Succès" #NT!
+ POD_spiritual_guidance.202.option.a.failure: "Échec" #NT!
+ POD_spiritual_guidance.202.option.a.failure.tt: "Vous ne parvenez pas à aider [student.GetFirstName]" #NT!
+ POD_spiritual_guidance.202.option.b: "Ta colère ne te contrôlera pas" #NT!
+ POD_spiritual_guidance.202.option.b.tt: "Vous essaierez de vous débarrasser de la colère [student.GetHerHis]" #NT!
+ POD_spiritual_guidance.202.option.b.desc: "Test de foi" #NT!
+ POD_spiritual_guidance.202.option.b.success: "Succès" #NT!
+ POD_spiritual_guidance.202.option.b.failure: "Échec" #NT!
+ POD_spiritual_guidance.202.option.b.failure.tt: "Vous ne parvenez pas à aider [student.GetFirstName]" #NT!
+ POD_spiritual_guidance.202.option.c: "Tu n'es pas si génial que ça après tout" #NT!
+ POD_spiritual_guidance.202.option.c.tt: "Vous essaierez de vous débarrasser de l'arrogance [student.GetHerHis]" #NT!
+ POD_spiritual_guidance.202.option.c.desc: "Test de foi" #NT!
+ POD_spiritual_guidance.202.option.c.success: "Succès" #NT!
+ POD_spiritual_guidance.202.option.c.failure: "Échec" #NT!
+ POD_spiritual_guidance.202.option.c.failure.tt: "Vous ne parvenez pas à aider [student.GetFirstName]" #NT!
+ POD_spiritual_guidance.202.option.d: "Tu te reposes trop" #NT!
+ POD_spiritual_guidance.202.option.d.tt: "Vous essaierez de vous débarrasser de la paresse [student.GetHerHis]" #NT!
+ POD_spiritual_guidance.202.option.d.desc: "Test de foi" #NT!
+ POD_spiritual_guidance.202.option.d.success: "Succès" #NT!
+ POD_spiritual_guidance.202.option.d.failure: "Échec" #NT!
+ POD_spiritual_guidance.202.option.d.failure.tt: "Vous ne parvenez pas à aider [student.GetFirstName]" #NT!
+ POD_spiritual_guidance.202.option.e: "Tu manges trop" #NT!
+ POD_spiritual_guidance.202.option.e.tt: "Vous essaierez de vous débarrasser de [student.GetHerHis] mauvaises habitudes alimentaires" #NT!
+ POD_spiritual_guidance.202.option.e.desc: "Test de foi" #NT!
+ POD_spiritual_guidance.202.option.e.success: "Succès" #NT!
+ POD_spiritual_guidance.202.option.e.failure: "Échec" #NT!
+ POD_spiritual_guidance.202.option.e.failure.tt: "Vous ne parvenez pas à aider [student.GetFirstName]" #NT!
+ POD_spiritual_guidance.202.option.f: "La cupidité n'est pas bonne" #NT!
+ POD_spiritual_guidance.202.option.f.tt: "Vous essaierez de vous débarrasser de la cupidité [student.GetHerHis]" #NT!
+ POD_spiritual_guidance.202.option.f.desc: "Test de foi" #NT!
+ POD_spiritual_guidance.202.option.f.success: "Succès" #NT!
+ POD_spiritual_guidance.202.option.f.failure: "Échec" #NT!
+ POD_spiritual_guidance.202.option.f.failure.tt: "Vous ne parvenez pas à aider [student.GetFirstName]" #NT!
+ POD_spiritual_guidance.202.option.g: "Ton cœur est plein de dépit" #NT!
+ POD_spiritual_guidance.202.option.g.tt: "Vous essaierez de vous débarrasser du [student.GetHerHis] vengeance" #NT!
+ POD_spiritual_guidance.202.option.g.desc: "Test de foi" #NT!
+ POD_spiritual_guidance.202.option.g.success: "Succès" #NT!
+ POD_spiritual_guidance.202.option.g.failure: "Échec" #NT!
+ POD_spiritual_guidance.202.option.g.failure.tt: "Vous ne parvenez pas à aider [student.GetFirstName]" #NT!
+  
+ POD_spiritual_guidance.302.t: "Orientation spirituelle III" #NT!
+ POD_spiritual_guidance.302.desc: "Vous avez réussi à vous débarrasser du péché [student.GetHerHis]. Mais vous n'avez pas encore fini, il est maintenant temps de montrer au [student.GetFirstName] le mode de vie vertueux. Peut-être par exemple ? Prenez juste soin de ne pas tomber dans le péché de l'orgueil..." #NT!
+ POD_spiritual_guidance.302.option.a: "L'esprit avant la chair" #NT!
+ POD_spiritual_guidance.302.option.a.tt: "[student.GetFirstName] devient chaste" #NT!
+ POD_spiritual_guidance.302.option.b: "Tu devrais savoir quand ça suffit" #NT!
+ POD_spiritual_guidance.302.option.b.tt: "[student.GetFirstName] devient tempéré" #NT!
+ POD_spiritual_guidance.302.option.c: "Partager c'est aimer" #NT!
+ POD_spiritual_guidance.302.option.c.tt: "[student.GetFirstName] devient généreux" #NT!
+ POD_spiritual_guidance.302.option.d: "Tu devrais tendre l'autre joue" #NT!
+ POD_spiritual_guidance.302.option.d.tt: "[student.GetFirstName] devient indulgent" #NT!
+ POD_spiritual_guidance.302.option.e: "Vous devez être calme quelles que soient les circonstances" #NT!
+ POD_spiritual_guidance.302.option.e.tt: "[student.GetFirstName] devient calme" #NT!
+ POD_spiritual_guidance.302.option.f: "Tu n'es pas meilleur que les autres" #NT!
+ POD_spiritual_guidance.302.option.f.tt: "[student.GetFirstName] devient humble" #NT!
+ POD_spiritual_guidance.302.option.g: "Tu reposeras au paradis" #NT!
+ POD_spiritual_guidance.302.option.g.tt: "[student.GetFirstName] devient diligent" #NT!
+  
+ POD_spiritual_guidance.402.t: "Échec de l’orientation spirituelle" #NT!
+ POD_spiritual_guidance.402.desc: "[teacher.GetFirstName] vous a échoué ! Après tous ces discours... Certaines âmes ne sont tout simplement pas destinées à être sauvées." #NT!
+ POD_spiritual_guidance.402.option.a: "Très décevant" #NT!
+ POD_spiritual_guidance.402.option.a.tt: "La guidance spirituelle a échoué" #NT!
+  
+ POD_spiritual_guidance.502.t: "Une guidance spirituelle réussie" #NT!
+ POD_spiritual_guidance.502.desc: "[teacher.GetFirstName] a réussi à vous montrer le bon chemin. Vos jours de péché sont presque terminés, vous devez maintenant devenir meilleur par vos propres forces." #NT!
+ POD_spiritual_guidance.502.option.a: "[teacher.GetSheHe] l'a vraiment fait !" #NT!
+ POD_spiritual_guidance.502.option.a.tt: "Tu es une meilleure personne maintenant" #NT!
+  

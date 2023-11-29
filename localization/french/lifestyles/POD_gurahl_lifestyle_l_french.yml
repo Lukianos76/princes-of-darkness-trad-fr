@@ -1,0 +1,111 @@
+﻿l_french:
+ gurahlgifts_visible: "Cadeaux gurahl" #NT!
+ gurahlhomidgifts_visible: "Cadeaux homid" #NT!
+ ursinegifts_visible: "Cadeaux oursin" #NT!
+ arcasgifts_visible: "Cadeaux arcas" #NT!
+ uzmatigifts_visible: "Cadeaux ouzmates" #NT!
+ kojubatgifts_visible: "Cadeaux kojubat" #NT!
+ kiehgifts_visible: "Cadeaux Kieh" #NT!
+ rishigifts_visible: "Cadeaux rishi" #NT!
+  
+ natures_plenty_perk_name: "La nature en abondance" #NT!
+ sentinels_warning_perk_name: "Avertissement de la Sentinelle" #NT!
+ grisly_aspect_perk_name: "Aspect macabre" #NT!
+ treeshake_perk_name: "Tremblement d'arbre" #NT!
+ dreams_of_the_buri_jaan_perk_name: "Rêves du Buri-Jaan" #NT!
+ ease_the_fevered_mind_perk_name: "Apaiser l'esprit fiévreux" #NT!
+ masking_the_hunted_perk_name: "Masquer les traqués" #NT!
+ gaias_breath_perk_name: "Le souffle de Gaïa" #NT!
+ great_grandfathers_summons_perk_name: "Convocation de l'arrière-grand-père" #NT!
+  
+ EASE_THE_FEVERED_MIND_PERK_EFFECT: "En tant que [character_interaction|E]. vous permettent de guérir les traits de stress et les traits mentaux négatifs." #NT!
+ GAIAS_BREATH_PERK_EFFECT: "En tant que [character_interaction|E], permet d'empêcher un ami, un amant, un époux, une famille, un conseiller ou un chevalier de mourir accidentellement." #NT!
+ GREAT_GRANDFATHERS_SUMMONS_PERK_EFFECT: "#F En cas de grand besoin ou d'urgence extrême, ce don puissant et rarement utilisé permet à l'arrière-grand-père (ou à l'Ancien) d'envoyer une convocation à tous les Gurahl, les appelant à ses côtés afin qu'il puisse les informer de la raison. pour l'appel. L'invocation est si puissante qu'elle peut même réveiller Gurahl qui est enfermé dans un sommeil d'hibernation. Gurahl n'a pas besoin de répondre à l'appel, et certains, en fait, refusent ou ignorent l'appel de l'Ancien. Cependant, la plupart des Gurahl rassemblent des objets de guérison, des armes et de la nourriture, puis se rendent là où l'arrière-grand-père les attend. C'est le Don qui a entraîné le réveil massif de nombreux Gurahl lorsque le Mange-tempête a été libéré.#!" #NT!
+  
+ ursas_light_perk_name: "La lumière d'Ursa" #NT!
+ climate_control_perk_name: "Contrôle du climat" #NT!
+ dolorous_countenance_perk_name: "Visage douloureux" #NT!
+ shape_matter_perk_name: "La forme compte" #NT!
+ sense_need_perk_name: "Besoin de sens" #NT!
+ ursas_coat_perk_name: "Le manteau d'Ursa" #NT!
+ spirit_shield_perk_name: "Bouclier spirituel" #NT!
+ charismatic_presence_perk_name: "Présence charismatique" #NT!
+  
+ gurahl_heightened_senses_perk_name: "Sens accrus" #NT!
+ voice_of_woe_perk_name: "Voix du malheur" #NT!
+ weather_watch_perk_name: "Surveillance météo" #NT!
+ pull_of_the_chosen_land_perk_name: "Tirer de la terre choisie" #NT!
+ shelter_of_the_earth_perk_name: "Abri de la Terre" #NT!
+ gnaw_perk_name: "Ronger" #NT!
+ sweet_swarm_of_vengeance_perk_name: "Doux essaim de vengeance" #NT!
+ bears_bounty_perk_name: "La prime de l'ours" #NT!
+  
+ SWEET_SWARM_OF_VENGEANCE_PERK_EFFECT: "Peut recruter [GetMaA('insects').GetName] en tant que [men_at_arms|E]." #NT!
+ BEARS_BOUNTY_PERK_EFFECT: "En tant que [character_interaction|E], vous pouvez lancer [GetModifier('weather_magic_plague_modifier').GetNameWithTooltip] sur le royaume ennemi." #NT!
+  
+ walk_like_a_man_perk_name: "Marchez comme un homme" #NT!
+ cajole_perk_name: "Cajoler" #NT!
+ gurahl_safe_passage_perk_name: "Passage sûr" #NT!
+ trackless_waste_perk_name: "Déchets sans rail" #NT!
+ favor_of_ursa_minor_perk_name: "Faveur de la Petite Ourse" #NT!
+ rejuvenate_perk_name: "Rajeunir" #NT!
+ humiliate_perk_name: "Humilier" #NT!
+ natural_state_perk_name: "État naturel" #NT!
+  
+ CAJOLE_PERK_BONUS_VALUE: "[GetPerk('cajole_perk').GetName(GetPlayer)]" #NT!
+ TRACKLESS_WASTE_PERK_EFFECT: "Donnez un modificateur [GetModifier('trackless_waste_perk_modifier').GetNameWithTooltip] aux commandants ennemis en guerre en tant que commandant." #NT!
+ HUMILIATE_PERK_EFFECT: "Donnez le modificateur [GetModifier('humiliate_perk_modifier').GetNameWithTooltip] à l'ennemi [knights|E] en guerre en tant que commandant ou à l'ennemi en [single_combat_duel|E]." #NT!
+  
+ ultimatum_perk_name: "Ultimatum" #NT!
+ mangis_strong_arms_perk_name: "Les bras puissants de Mangi" #NT!
+ threaten_perk_name: "Menacer" #NT!
+ gurahl_crush_perk_name: "Écraser" #NT!
+ delay_the_death_bears_coming_perk_name: "Retarder l'arrivée de l'ours de la mort" #NT!
+ strength_of_the_earth_perk_name: "Force de la Terre" #NT!
+ engulf_the_prey_perk_name: "Engloutir la proie" #NT!
+ rage_of_the_mother_bear_perk_name: "La colère de la mère ourse" #NT!
+  
+ ULTIMATUM_PERK_EFFECT: "Donnez un modificateur [GetModifier('ultimatum_perk_modifier').GetNameWithTooltip] aux commandants ennemis en guerre en tant que commandant." #NT!
+  
+ stone_sight_perk_name: "Vue de pierre" #NT!
+ eyes_of_the_soul_perk_name: "Les yeux de l'âme" #NT!
+ song_of_terra_perk_name: "Chanson de Terra" #NT!
+ mind_sight_perk_name: "Vue mentale" #NT!
+ mind_to_mind_perk_name: "D'esprit à esprit" #NT!
+ probe_thoughts_perk_name: "Sonder les pensées" #NT!
+ aversion_therapy_perk_name: "Thérapie d'aversion" #NT!
+ gurahl_prophetic_vision_perk_name: "Vision prophétique" #NT!
+  
+ MIND_SIGHT_PERK_BONUS_VALUE: "[GetPerk('mind_sight_perk').GetName(GetPlayer)]" #NT!
+ PROBE_THOUGHTS_PERK_BONUS_VALUE: "[GetPerk('probe_thoughts_perk').GetName(GetPlayer)]" #NT!
+  
+ diagnose_perk_name: "Diagnostiquer" #NT!
+ refresh_perk_name: "Rafraîchir" #NT!
+ sense_the_unnatural_perk_name: "Ressentez le contre-nature" #NT!
+ gurahl_name_the_spirit_perk_name: "Nommer l'Esprit" #NT!
+ spirit_healing_perk_name: "Guérison spirituelle" #NT!
+ spirit_shape_perk_name: "Forme d'esprit" #NT!
+ restore_sanity_perk_name: "Restaurer la santé mentale" #NT!
+ image_of_the_sky_bear_perk_name: "Image de l'ours du ciel" #NT!
+  
+ REFRESH_PERK_EFFECT: "Donnez le modificateur [GetModifier('refresh_perk_modifier').GetNameWithTooltip] à l'allié [knights|E] lorsque vous êtes en guerre en tant que commandant ou à vous-même dans [single_combat_duel|E]." #NT!
+ SPIRIT_SHAPE_PERK_EFFECT: "Temps d'évasion d'Umbra : #P -10 %#!\nMonthly Progression de l'exploration d'Umbra : [grace_i]#P +10#!" #NT!
+ DIAGNOSE_PERK_EFFECT: "En tant que [character_interaction|E]. vous permettent de guérir les maladies." #NT!
+ RESTORE_SANITY_PERK_EFFECT: "En tant que [character_interaction|E]. vous permettent de guérir les traits de stress et les traits mentaux négatifs." #NT!
+ IMAGE_OF_THE_SKY_BEAR_PERK_EFFECT: "En tant que [character_interaction|E]. vous permettent de guérir les blessures." #NT!
+  
+ gurahl_befriend_perk_name: "Se lier d'amitié" #NT!
+ compel_truth_perk_name: "Contraindre la vérité" #NT!
+ presence_of_the_great_bear_perk_name: "Présence de la Grande Ourse" #NT!
+ ways_of_the_tapestry_perk_name: "Chemins de la Tapisserie" #NT!
+ waken_perk_name: "Réveiller" #NT!
+ bestow_ursas_blessing_perk_name: "Accordez la bénédiction d'Ursa" #NT!
+ quell_mob_rage_perk_name: "Réprimer la rage de la foule" #NT!
+ oath_of_the_great_bear_perk_name: "Serment de la Grande Ourse" #NT!
+ words_of_doom_perk_name: "Mots de malheur" #NT!
+  
+ PRESENCE_OF_THE_GREAT_BEAR_PERK_EFFECT: "Peut recruter [GetMaA('bears').GetName] en tant que [men_at_arms|E]." #NT!
+ WAKEN_PERK_EFFECT: "La découverte du repaire caché [journey|E] est désormais gratuite et instantanée." #NT!
+ BESTOW_URSAS_BLESSING_PERK_EFFECT: "En tant que [character_interaction|E], permet d'augmenter temporairement un attribut de cible." #NT!
+ OATH_OF_THE_GREAT_BEAR_PERK_EFFECT: "En tant que [character_interaction|E], vous permet d'obtenir un crochet de la cible." #NT!
+ WORDS_OF_DOOM_PERK_EFFECT: "En [character_interaction|E], permet de diminuer temporairement un attribut de la cible." #NT!

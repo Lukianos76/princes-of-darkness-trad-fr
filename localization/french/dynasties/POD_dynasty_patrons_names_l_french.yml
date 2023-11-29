@@ -1,0 +1,348 @@
+﻿l_french:
+  
+  ############################################################ 
+  # Names 
+  ############################################################ 
+  
+  # Patrons 
+ dynn_powodz: "Powódź" #NT!
+ dynn_powodz_motto: "Tu sèmes ce que tu récoltes" #NT!
+  
+ dynn_pastelos: "La Lune Noire" #NT!
+ dynn_pastelos_motto: "La mer Noire est à moi" #NT!
+  
+ dynn_blackmoon: "La lune Noire" #NT!
+ dynn_blackmoon_motto: "La mer Noire est à moi" #NT!
+  
+ dynn_minceiri: "Mincéiri" #NT!
+ dynn_minceiri_motto: "Faire et souffrir de grandes choses" #NT!
+  
+ dynn_imperiosvs: "Fvria Impériosa" #NT!
+ dynn_imperiosvs_motto: "Si Vis Bellvm, Para Bellvm" #NT!
+  
+ dynn_petronia: "Pétronie" #NT!
+ dynn_petronia_motto: ""
+  
+ dynn_nacearda: "à Ceàrda" #NT!
+ dynn_nacearda_motto: "Chlanna nan con tigibh a' so's gheibh sibh feòil" #NT!
+  
+ dynn_decalamar: "De Calamar" #NT!
+ dynn_decalamar_motto: ""
+  
+ dynn_uagemred: "Ua Gemred" #NT!
+ dynn_uagemred_motto: "Dans notre dernière prise" #NT!
+  
+ dynn_masterson: "Maîtreson" #NT!
+ dynn_masterson_motto: "Annonce Augusta par Angusta" #NT!
+  
+ dynn_shadovie: "Shadovie" #NT!
+ dynn_shadovie_motto: ""
+  
+ dynn_helid: "Hélide" #NT!
+ dynn_helid_motto: ""
+  
+ dynn_hawk: "Faucon" #NT!
+ dynn_hawk_motto: ""
+  
+ dynn_dio: "Dieu" #NT!
+ dynn_dio_motto: ""
+  
+ dynn_varten: "Varten" #NT!
+ dynn_varten_motto: "Transcendance de la chair" #NT!
+  
+ dynn_sagaard: "Sagaard" #NT!
+ dynn_sagaard_motto: "Nous savons déjà" #NT!
+  
+ dynn_lividus: "Lividus" #NT!
+ dynn_lividus_motto: "Centurions de Seth" #NT!
+  
+ dynn_canale: "Canale" #NT!
+ dynn_canale_motto: "Une lumière dans le Maelström" #NT!
+  
+ dynn_cathail: "Cathail" #NT!
+ dynn_cathail_motto: ""
+  
+ dynn_ramos: "Ramos" #NT!
+ dynn_ramos_motto: ""
+  
+ dynn_delacasta: "de la Casta" #NT!
+ dynn_delacasta_motto: ""
+  
+ dynn_natasson: "Natashon" #NT!
+ dynn_natasson_motto: ""
+  
+ dynn_desdeuxvalleesvertes: "des Deux Vallées Vertes" #NT!
+ dynn_desdeuxvalleesvertes_motto: ""
+  
+ dynn_custom: "Coutume" #NT!
+ dynn_custom_motto: "De ma propre main" #NT!
+  
+ dynn_oruairc: "Ó Ruairc" #NT!
+ dynn_oruairc_motto: "Serviendo Guberno" #NT!
+  
+ dynn_fystond: "Fýstönd" #NT!
+ dynn_fystond_motto: ""
+  
+ dynn_bimbeet: "Bimbeet" #NT!
+ dynn_bimbeet_motto: "Leur mélange hunangi við blóðit" #NT!
+  
+ dynn_tenebris: "Ténébris" #NT!
+ dynn_tenebris_motto: "Flammes sombres de Tchernivtsi" #NT!
+  
+ dynn_eridanus: "Éridan" #NT!
+ dynn_eridanus_motto: "Il faut se méfier de l'eau qui dort" #NT!
+  
+ dynn_hastur: "Hastur" #NT!
+ dynn_hastur_motto: "Tu ne prononceras pas ton nom !" #NT!
+  
+ dynn_vovkulaka: "Vovkoulaka" #NT!
+ dynn_vovkulaka_motto: "Défier Défier" #NT!
+  
+ dynn_barcid: "Barcide" #NT!
+ dynn_barcid_motto: "Le bilan de Rome" #NT!
+  
+ dynn_sutherland: "Sutherland" #NT!
+ dynn_sutherland_motto: "Pour le plus grand bien" #NT!
+  
+ dynn_pendragon: "Pendragon" #NT!
+ dynn_pendragon_motto: ""
+  
+ dynn_mortifier: "Mortificateur" #NT!
+ dynn_mortifier_motto: ""
+  
+ dynn_avry: "D'Avry" #NT!
+ dynn_avry_motto: ""
+  
+ dynn_onmyoji: "Onmyōji" #NT!
+ dynn_onmyoji_motto: ""
+  
+ dynn_murchadh: "Murchadh" #NT!
+ dynn_murchadh_motto: ""
+  
+ dynn_fitzroy: "Fitzroy" #NT!
+ dynn_fitzroy_motto: ""
+  
+ dynn_draeck: "de Draeck" #NT!
+ dynn_draeck_motto: ""
+  
+ dynn_cathasach: "Cathasach" #NT!
+ dynn_cathasach_motto: ""
+  
+ dynn_markov: "Markov" #NT!
+ dynn_markov_motto: "Avec du laiton et du sang" #NT!
+  
+ dynn_dominatus: "Dominateur" #NT!
+ dynn_dominatus_motto: ""
+  
+ dynn_morningstar: "L'étoile du matin" #NT!
+ dynn_morningstar_motto: ""
+  
+ dynn_yelbeghen: "Elbeghen" #NT!
+ dynn_yelbeghen_motto: ""
+  
+ dynn_tertia: "Tertia" #NT!
+ dynn_tertia_motto: ""
+  
+ dynn_cephissus: "Céphise" #NT!
+ dynn_cephissus_motto: ""
+  
+ dynn_verrucosus: "Verruqueuse" #NT!
+ dynn_verrucosus_motto: ""
+  
+ dynn_cecilia: "Cécilia" #NT!
+ dynn_cecilia_motto: "Ne pleurez pas à cause du vin renversé" #NT!
+  
+ dynn_tenoctis: "Ténoctis" #NT!
+ dynn_tenoctis_motto: "Contemplez les abysses" #NT!
+  
+ dynn_hectsaehtf: "Hectsaehtf" #NT!
+ dynn_hectsaehtf_motto: "Avec l'épée et le feu" #NT!
+  
+ dynn_namesh: "Nomsh" #NT!
+ #dynn_namesh_motto: ""
+  
+ dynn_de_gray: "de Gray" #NT!
+ dynn_de_gray_motto: ""
+  
+ dynn_memnon: "Memnon" #NT!
+ dynn_memnon_motto: ""
+  
+ dynn_forsworn: "Fait au faux serment" #NT!
+ dynn_forsworn_motto: ""
+  
+ dynn_doe: "Biche" #NT!
+ dynn_doe_motto: ""
+  
+ dynn_eris: "Éris" #NT!
+ dynn_eris_motto: "τῇ καλλίστῃ" #NT!
+  
+ dynn_leanhaun_patron: "Leanhaun" #NT!
+ dynn_leanhaun_patron_motto: "Aimez profondément, buvez profondément" #NT!
+  
+ dynn_sora: "Sora" #NT!
+ dynn_sora_motto: ""
+  
+ dynn_vraalstad: "Vraalstad" #NT!
+ dynn_vraalstad_motto: "Trois Roses" #NT!
+  
+ dynn_tsondu: "Tsondu" #NT!
+ dynn_tsondu_motto: "Les beautés du Tibet" #NT!
+  
+ dynn_huyen: "Huyen" #NT!
+ dynn_huyen_motto: "Soyez magnifique dans votre monstruosité" #NT!
+  
+ dynn_orban: "Orbán" #NT!
+ dynn_orban_motto: "Briseurs de loups" #NT!
+  
+ dynn_valuk: "Valuk" #NT!
+ dynn_valuk_motto: ""
+  
+ dynn_brunestud: "Brunestud" #NT!
+ dynn_brunestud_motto: "Enfant du Croissant de Lune" #NT!
+  
+ dynn_arua: "Arua" #NT!
+ dynn_arua_motto: "Gardiens de la mer" #NT!
+  
+ dynn_atticus: "Atticus" #NT!
+ dynn_atticus_motto: ""
+  
+ dynn_nyx: "Nyx" #NT!
+ dynn_nyx_motto: ""
+  
+ dynn_sha: "Sha" #NT!
+ dynn_sha_motto: ""
+  
+ dynn_cultusveteriscustodiae: "Cultus Veteris Custodiae" #NT!
+ dynn_cultusveteriscustodiae_motto: ""
+  
+ dynn_mckraken: "McKraken" #NT!
+ dynn_mckraken_motto: ""
+  
+ dynn_tigray: "Tigré" #NT!
+ dynn_tigray_motto: "Pas par lignée, mais par le sang" #NT!
+  
+ dynn_ramil: "Ramil" #NT!
+ dynn_ramil_motto: ""
+  
+ dynn_zsoldos: "Zsoldos" #NT!
+ dynn_zsoldos_motto: ""
+  
+ dynn_flynn: "Flynn" #NT!
+ dynn_flynn_motto: ""
+  
+ dynn_degigli: "De'Gigli" #NT!
+ dynn_degigli_motto: ""
+  
+ dynn_lirissa: "Lirisa" #NT!
+ dynn_lirissa_motto: ""
+  
+ dynn_dankovsky: "Dankovski" #NT!
+ dynn_dankovsky_motto: "Vastum Silentium" #NT!
+  
+ dynn_ying: "Ying" #NT!
+ dynn_ying_motto: "Avalez le ciel et dévorez la terre" #NT!
+  
+ dynn_mjolnir: "Mjölnir" #NT!
+ dynn_mjolnir_motto: "Faites attention à la façon dont vous parlez !" #NT!
+  
+ dynn_ilie: "Je ments" #NT!
+ # dynn_ilie_motto: ""
+  
+ dynn_angelista: "Angéliste" #NT!
+ # dynn_angelista_motto: ""
+  
+ dynn_lev: "Lév" #NT!
+ # dynn_lev_motto: ""
+  
+ dynn_branco: "Branco" #NT!
+ # dynn_branco_motto: ""
+  
+ dynn_barachiel: "Barachiel" #NT!
+ # dynn_barachiel_motto: ""
+  
+ dynn_putnik: "Poutnik" #NT!
+ # dynn_putnik_motto: ""
+  
+ dynn_seonjong: "Seonjong" #NT!
+ # dynn_seonjong_motto: ""
+  
+ dynn_lancaster: "Lancastre" #NT!
+ # dynn_lancaster_motto: ""
+  
+ dynn_zonaras: "Zones" #NT!
+ dynn_zonaras_motto: ""
+  
+ dynn_abhartach: "Abhartach" #NT!
+ dynn_abhartach_motto: ""
+  
+ dynn_daniel: "Daniel" #NT!
+ dynn_daniel_motto: ""
+  
+ dynn_ashurbanipal: "Assurbanipal" #NT!
+ dynn_ashurbanipal_motto: ""
+  
+ dynn_larva: "Larve" #NT!
+ dynn_larva_motto: "Ce qui est à moi est à moi. Ce qui est à toi est à moi." #NT!
+  
+ dynn_caerellius: "Caerellius" #NT!
+ dynn_caerellius_motto: ""
+  
+ dynn_thutmosid: "Thoutmosid" #NT!
+ dynn_thutmosid_motto: "Puissant de force, Sacré d'apparence" #NT!
+  
+ dynn_ahmosid: "Ahmosid" #NT!
+ dynn_ahmosid_motto: "Je suis venu comme Hor-watit enflammant mes ennemis" #NT!
+  
+ dynn_gaius: "Gaïus" #NT!
+ dynn_gaius_motto: ""
+  
+ dynn_ezekiel: "Ézéchiel" #NT!
+ dynn_ezekiel_motto: ""
+  
+ dynn_garland: "Guirlande" #NT!
+ dynn_garland_motto: ""
+  
+ dynn_messeni: "Messéni" #NT!
+ dynn_messeni_motto: ""
+  
+ dynn_veles: "Vélès" #NT!
+ dynn_veles_motto: ""
+  
+ dynn_athanasios: "Athanase" #NT!
+ dynn_athanasios_motto: "Mors Pulchrum Est." #NT!
+  
+ dynn_barkov: "Barkov" #NT!
+ dynn_barkov_motto: ""
+  
+ dynn_temguis: "Temguis" #NT!
+ dynn_temguis_motto: ""
+  
+ dynn_deimos: "Déimos" #NT!
+ dynn_deimos_motto: ""
+  
+ dynn_sorush: "Sorush" #NT!
+ dynn_sorush_motto: ""
+  
+ dynn_vitelliae: "Vitelliae" #NT!
+ dynn_vitelliae_motto: ""
+  
+ dynn_chryseopilix: "Chryséopilix" #NT!
+ dynn_chryseopilix_motto: "Vous pouvez être plus cruel que ça !" #NT!
+  
+ dynn_lupiezca: "lupieżca" #NT!
+ dynn_lupiezca_motto: ""
+  
+ dynn_umayyad: "Omeyyade" #NT!
+ dynn_umayyad_motto: ""
+  
+ dynn_kragen: "Krägen" #NT!
+ dynn_kragen_motto: "Venger le sang de ses serviteurs, se venger de ses ennemis" #NT!
+  
+ dynn_helios: "Hélios" #NT!
+ dynn_helios_motto: ""
+  
+ dynn_brigantes: "Brigantes" #NT!
+ dynn_brigantes_motto: ""
+  
+ dynn_avis: "Avis" #NT!
+ dynn_avis_motto: ""

@@ -1,0 +1,16 @@
+﻿l_french:
+  
+ CONTROL_LEVEL_TRIGGER: "Le niveau [control|E] dans le [TITLE.GetName] est $COMPARATOR$ $NUM|V$" #NT!
+ NOT_CONTROL_LEVEL_TRIGGER: "Le niveau [control|E] dans le [TITLE.GetName] est #bold et non #! $COMPARATOR$ $NUM|V$" #NT!
+ ITS_CONTROL_LEVEL_TRIGGER: "Le niveau [control|E] dans le [TITLE.GetName] est $COMPARATOR$ $NUM|V$" #NT!
+ NOT_ITS_CONTROL_LEVEL_TRIGGER: "Le niveau [control|E] dans le [TITLE.GetName] est #bold et non #! $COMPARATOR$ $NUM|V$" #NT!
+  
+ NOT_wall_weak_enough_trigger_tooltip: "Nécessite le modificateur de comté [GetModifier( 'gauntlet5_modifier' ).GetNameWithTooltip|L] ou inférieur pour rester activé." #NT!
+ wall_lower_than_3_trigger_tooltip: "$has_gauntlet3_modifier_tooltip$" #NT!
+ wall_lower_than_2_trigger_tooltip: "$has_gauntlet2_modifier_tooltip$" #NT!
+ wall_lower_than_1_trigger_tooltip: "$has_gauntlet1_modifier_tooltip$" #NT!
+ NOT_wall_weak_trigger: "#X $TRIGGER_OR$#!\n$has_gauntlet1_modifier_tooltip$\n$has_gauntlet2_modifier_tooltip$\n$has_gauntlet3_modifier_tooltip$\n$has_gauntlet4_modifier_tooltip$\n$has_gauntlet5_modifier_tooltip$" #NT!
+  
+ IS_RIVERSIDE_TRIGGER: "Est au bord de la rivière" #NT!
+  
+ oasis_development_growth: "$MOD_MONTHLY_DEVELOPMENT_GROWTH_FACTOR$ dans Oasis ([terrain|E])" #NT!

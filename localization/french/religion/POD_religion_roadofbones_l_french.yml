@@ -1,0 +1,108 @@
+﻿l_french:
+  
+  #Common Road of Bones Localization 
+ roadofbones_religion: "La route des os" #NT!
+ roadofbones_religion_adj: "Savant" #NT!
+ roadofbones_religion_adherent: "Savant" #NT!
+ roadofbones_religion_adherent_plural: "Savants" #NT!
+ roadofbones_religion_desc: "Kindred essayant de comprendre la mort. Principalement suivi du [Clan|E] Cappadocien." #NT!
+ roadofbones_high_god_name: "La mort" #NT!
+ roadofbones_high_god_name_possessive: "Décès" #NT!
+ roadofbones_high_god_name_alternate: "La mort" #NT!
+ roadofbones_high_god_name_alternate_possessive: "Les morts" #NT!
+ roadofbones_good_god_jesus: "$roadofbones_health_god_name$" #NT!
+ roadofbones_good_god_christ: "La mort" #NT!
+ roadofbones_devil_name: "La bête" #NT!
+ roadofbones_devil_name_possessive: "Les bêtes" #NT!
+ roadofbones_evil_god_lucifer: "La bête" #NT!
+ roadofbones_evil_god_beelzebub: "La bête" #NT!
+ roadofbones_evil_god_mephistopheles: "La bête" #NT!
+ roadofbones_death_deity_name: "Destruction" #NT!
+ roadofbones_death_deity_name_possessive: "Destruction" #NT!
+ roadofbones_house_of_worship: "refuge" #NT!
+ roadofbones_house_of_worship_plural: "refuges" #NT!
+ roadofbones_religious_symbol: "crâne" #NT!
+ roadofbones_religious_text: "Codex Sargon" #NT!
+ roadofbones_religious_head_title: "premier érudit" #NT!
+ roadofbones_religious_head_title_name: "premier érudit" #NT!
+ roadofbones_devotee_male: "savant" #NT!
+ roadofbones_devotee_male_plural: "savants" #NT!
+ roadofbones_devotee_female: "savant" #NT!
+ roadofbones_devotee_female_plural: "savants" #NT!
+ roadofbones_devotee_neuter: "savant" #NT!
+ roadofbones_devotee_neuter_plural: "savants" #NT!
+ roadofbones_priest_male: "savant" #NT!
+ roadofbones_priest_male_plural: "savants" #NT!
+ roadofbones_priest_alternate_plural: "savants" #NT!
+ roadofbones_bishop_male: "savant" #NT!
+ roadofbones_bishop_male_plural: "savants" #NT!
+ roadofbones_scholar: "savant" #NT!
+ roadofbones_scholar_plural: "savants" #NT!
+ roadofbones_divine_realm: "Monde souterrain" #NT!
+ roadofbones_positive_afterlife: "Monde souterrain" #NT!
+ roadofbones_negative_afterlife: "Oubli" #NT!
+ roadofbones_witchgodname_the_horned_god: "la bête" #NT!
+ roadofbones_witchgodname_the_horned_god_possessive: "Les bêtes" #NT!
+  
+ roadofbones_creator_god_name: "$roadofbones_high_god_name$" #NT!
+ roadofbones_creator_god_name_possessive: "$roadofbones_high_god_name_possessive$" #NT!
+ roadofbones_health_god_name: "sang" #NT!
+ roadofbones_health_god_name_possessive: "du sang" #NT!
+ roadofbones_fertility_god_name: "$roadofbones_high_god_name$" #NT!
+ roadofbones_fertility_god_name_possessive: "$roadofbones_high_god_name_possessive$" #NT!
+ roadofbones_wealth_god_name: "$roadofbones_high_god_name$" #NT!
+ roadofbones_wealth_god_name_possessive: "$roadofbones_high_god_name_possessive$" #NT!
+ roadofbones_household_god_name: "$roadofbones_health_god_name$" #NT!
+ roadofbones_household_god_name_possessive: "$roadofbones_health_god_name_possessive$" #NT!
+ roadofbones_fate_god_name: "$roadofbones_high_god_name$" #NT!
+ roadofbones_fate_god_name_possessive: "$roadofbones_high_god_name_possessive$" #NT!
+ roadofbones_knowledge_god_name: "$roadofbones_high_god_name$" #NT!
+ roadofbones_knowledge_god_name_possessive: "$roadofbones_high_god_name_possessive$" #NT!
+ roadofbones_war_god_name: "$roadofbones_high_god_name$" #NT!
+ roadofbones_war_god_name_possessive: "$roadofbones_high_god_name_possessive$" #NT!
+ roadofbones_trickster_god_name: "Fortune" #NT!
+ roadofbones_trickster_god_name_possessive: "La Fortune" #NT!
+ roadofbones_night_god_name: "$roadofbones_high_god_name$" #NT!
+ roadofbones_night_god_name_possessive: "$roadofbones_high_god_name_possessive$" #NT!
+ roadofbones_water_god_name: "$roadofbones_health_god_name$" #NT!
+ roadofbones_water_god_name_possessive: "$roadofbones_health_god_name_possessive$" #NT!
+  
+  #Scholar-Group Faiths 
+ viaossium: "Via Ossium" #NT!
+ viaossium_adj: "Ossium" #NT!
+ viaossium_adherent: "Savant" #NT!
+ viaossium_adherent_plural: "Savants" #NT!
+ viaossium_desc: "Les adeptes de Road of Bones valorisent avant tout la connaissance. Grâce à une étude intense de l'inconnu, les érudits tiennent leurs bêtes à distance. Ils feront tout leur possible pour apprendre quelque chose de nouveau, mais ne se sacrifieront pas inutilement pour une cause. Après tout, leurs propres connaissances sont trop importantes pour que les autres puissent les gérer. En même temps, les érudits ne craignent pas la mort ; ils en sont fascinés." #NT!
+  
+ tariqelatham: "Tariq el-A'Tham" #NT!
+ tariqelatham_adj: "A'Tham" #NT!
+ tariqelatham_adherent: "Savant" #NT!
+ tariqelatham_adherent_plural: "Savants" #NT!
+ tariqelatham_desc: "Principalement une émanation de la principale Via Ossium du monde musulman, les Tariq el-A'Tham bénéficient de savoirs plus anciens conservés dans cette partie du monde. Cependant, leurs pratiques parfois insensibles peuvent les mettre en contradiction avec les zélés [ashirra|E] ou les vigilants Enfants de Haqim." #NT!
+  
+ followersoflazarus: "Disciples de Lazare" #NT!
+ followersoflazarus_adj: "Lazaréen" #NT!
+ followersoflazarus_adherent: "Infitiore" #NT!
+ followersoflazarus_adherent_plural: "Infitiores" #NT!
+ followersoflazarus_desc: "Les Disciples de Lazare, également appelés les Infitiores, étaient les Cappadociens qui, pour une raison ou une autre, n'ont pas répondu à l'appel qui a conduit à la Fête de la Folie et ont ainsi évité l'élimination des [Clan|E]. Ne sachant pas s'ils auraient été épargnés et se sentant trahis par leur fondateur, ils se sont effectivement divorcés du corps principal du [Clan|E] Cappadocien. Lazare était officieusement considéré comme le chef des Infitiores." #NT!
+  
+ pathofthewheel: "Chemin de la roue" #NT!
+ pathofthewheel_adj: "Roue" #NT!
+ pathofthewheel_adherent: "Scientifique" #NT!
+ pathofthewheel_adherent_plural: "Scientifiques" #NT!
+ pathofthewheel_desc: "Les membres de cette voie croient que les vampires sont coincés en dehors du cycle et doivent avancer. Ils recherchent tous les moyens scientifiques pour repousser tous les [cainites|E] dans le cycle de la vie." #NT!
+  
+ roadoftheabyss: "Route des Abysses" #NT!
+ roadoftheabyss_adj: "Abyssal" #NT!
+ roadoftheabyss_adherent: "Mystique" #NT!
+ roadoftheabyss_adherent_plural: "Mystiques" #NT!
+ roadoftheabyss_desc: "Les mystiques sont plongés dans l’étude éternelle d’une force transcendant et finalement s’opposant à toute lumière et vie. L’humanité et les concepts comme le bien ou le mal ont peu d’utilité pour ceux qui étudient les mystères des ténèbres extérieures." #NT!
+  
+ holy_order_harbringers_cappa: "Les précurseurs" #NT!
+ holy_order_erciyes: "Gardiens des Erciyes" #NT!
+  
+ viaprimordia: "Via Primordia" #NT!
+ viaprimordia_adj: "Primordia" #NT!
+ viaprimordia_adherent: "Primordien" #NT!
+ viaprimordia_adherent_plural: "Primordiens" #NT!
+ viaprimordia_desc: "Les Primordiens croient aux « Trois », puissants esprits de Création, Destruction et Préservation. Ils attendent un grand événement où les trois esprits fusionneront en un seul Avatar. Bizarrement, cela semble assez proche de la croyance de certains Lupins." #NT!

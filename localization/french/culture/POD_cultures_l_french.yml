@@ -1,0 +1,30 @@
+﻿l_french:
+ enochian_group: "Enochien" #NT!
+ enochian_group_collective_noun: "Enochiens" #NT!
+ enochian: "Enochien" #NT!
+ enochian_prefix: "Enochien" #NT!
+ enochian_collective_noun: "Enochiens" #NT!
+ name_list_enochian: "Enochien" #NT!
+ ghemalish: "Ghémalais" #NT!
+ ghemalish_prefix: "Ghémalais" #NT!
+ ghemalish_collective_noun: "Ghémalais" #NT!
+ name_list_ghemalish: "Ghémalais" #NT!
+ punic: "punique" #NT!
+ punic_prefix: "punique" #NT!
+ punic_collective_noun: "Puniques" #NT!
+ name_list_punic: "punique" #NT!
+ coptic_prefix: "copte" #NT!
+ coptic_collective_noun: "Coptes" #NT!
+ name_list_coptic: "copte" #NT!
+ ancientegyptian: "Vieil Égyptien" #NT!
+ ancientegyptian_prefix: "Vieil Égyptien" #NT!
+ ancientegyptian_collective_noun: "Anciens Égyptiens" #NT!
+ name_list_ancientegyptian: "Vieil Égyptien" #NT!
+ aesthetics_ancientegyptian_name: "Égyptien ancien" #NT!
+ aesthetics_enochian_name: "Enochien" #NT!
+ aesthetics_ghemalish_name: "Ghémalais" #NT!
+ aesthetics_punic_name: "punique" #NT!
+ romani: "Romani" #NT!
+ romani_prefix: "Rome" #NT!
+ romani_collective_noun: "Rome" #NT!
+  

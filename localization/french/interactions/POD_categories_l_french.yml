@@ -1,0 +1,31 @@
+﻿l_french:
+ VAMPIRE_ACTIONS: "actions de vampires" #NT!
+ interaction_category_vampire: "Vampire" #NT!
+ WRAITH_ACTIONS: "actions spectrales" #NT!
+ interaction_category_wraith: "Spectre" #NT!
+ GHOUL_ACTIONS: "actions de goules" #NT!
+ interaction_category_ghoul: "Goule" #NT!
+ HOLYARTS_ACTIONS: "Arts sacrés" #NT!
+ interaction_category_holyarts: "Arts sacrés" #NT!
+ MUMMY_ACTIONS: "actions de maman" #NT!
+ interaction_category_mummy: "Momie" #NT!
+ WEREWOLF_ACTIONS: "actions des métamorphes" #NT!
+ interaction_category_werewolf: "Changeforme" #NT!
+ DEMON_ACTIONS: "actions démoniaques" #NT!
+ interaction_category_demon: "Démon" #NT!
+ MAGE_ACTIONS: "actions des mages" #NT!
+ interaction_category_mage: "mage" #NT!
+ FAE_ACTIONS: "actions des fées" #NT!
+ interaction_category_fae: "Fée" #NT!
+ PSYCHIC_ACTIONS: "actions psychiques" #NT!
+ interaction_category_psychic: "Psychique" #NT!
+ POSSESSED_ACTIONS: "actions possédées" #NT!
+ interaction_category_possessed: "Possédé" #NT!
+ GRAND_CITY_ACTIONS: "actions de la grande ville" #NT!
+ interaction_category_grand_city: "Grande Ville" #NT!
+ JOURNEYS_ACTIONS: "actions de voyage" #NT!
+ interaction_category_journeys: "Voyages" #NT!
+ COTERIE_ACTIONS: "actions de coterie" #NT!
+ interaction_category_coterie: "Coterie" #NT!
+ SECT_ACTIONS: "actions de secte" #NT!
+ interaction_category_sect: "Secte" #NT!

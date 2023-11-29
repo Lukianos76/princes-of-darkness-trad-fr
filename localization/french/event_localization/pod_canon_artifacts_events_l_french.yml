@@ -1,0 +1,291 @@
+﻿l_french:
+  
+ POD_canon_artifacts.100.t: "L'épée appelle" #NT!
+ POD_canon_artifacts.100.desc: "Vous connaissez les histoires. L’arme que vous portez est peut-être la plus tristement célèbre au monde. L'Épée de Nul a été créée il y a longtemps comme réceptacle pour le puissant démon Drakonskyr dans l'ancienne Sumer. Juste avant d'être finalement libéré dans le monde des mortels, il a été contrarié par un vampire nommé Tiamat qui l'a piégé dans son propre corps, puis a jeté l'épée maudite.\nDepuis lors, il a toujours essayé de retrouver son maître et la plupart des autres. ses propriétaires sont connus pour connaître une mort prématurée s'ils ne se conforment pas à l'attraction du démon à un moment ou à un autre..." #NT!
+ POD_canon_artifacts.100.a: "Je ne serai pas commandé par une épée !" #NT!
+ POD_canon_artifacts.100.b: "...je suivrai l'appel" #NT!
+ sword_of_nul_warning: "Ce chemin est évidemment très dangereux..." #NT!
+  
+ POD_canon_artifacts.101.t: "L'épée appelle II" #NT!
+ POD_canon_artifacts.101.desc: "Alors que vous répondez à son appel, vous réalisez rapidement que l'Épée de Nul ne se soucie pas du tout de votre bien-être. Il vous conduit sans relâche vers le lieu de repos de son maître, essayant même de vous tenir éveillé pendant la journée. Ainsi, vous allez de danger en danger, qu'il s'agisse des forêts sombres, du manque de sang ou de la difficulté de trouver un lieu de repos dans des terres étranges.\nA ce rythme, vous rejoindrez la longue liste des victimes de l'Épée, dont vous avez besoin ralentir et planifier un plan d'action avant qu'il ne soit trop tard." #NT!
+ POD_canon_artifacts.101.a: "Laissez-moi vous préparer un guide de voyage..." #NT!
+ POD_canon_artifacts.101.b: "Payez pour des guides et une forte escorte armée !" #NT!
+ POD_canon_artifacts.101.effect.success.desc: "Éviter le danger" #NT!
+ POD_canon_artifacts.101.critical.failure.effect.desc: "Encore une victime de l'épée..." #NT!
+ POD_canon_artifacts.101.critical.failure: "Un autre mord..." #NT!
+  
+ POD_canon_artifacts.102.t: "L'épée appelle III" #NT!
+ POD_canon_artifacts.102.desc: "Vous êtes enfin proche du lieu de repos de Drakonskyr et vous pouvez presque sentir l'épée de Nul débordante d'impatience. Il y a un léger problème cependant, le démon se repose dans un labyrinthe rempli de pièges pour dissuader tout intrus indésirable.\nÉvidemment, vous avez l'épée, vous pouvez donc simplement « suivre » son exemple pour éviter la majorité des dangers qui s'y trouvent. Mais il y a toujours le risque d'un mauvais virage... Pas de retour en arrière maintenant, puisque vous êtes presque certain que l'Épée vous attaquera si vous reculez à ce stade." #NT!
+ POD_canon_artifacts.102.a: "Attention, attention..." #NT!
+ POD_canon_artifacts.102.effect.success.desc: "C'est fait!" #NT!
+ POD_canon_artifacts.102.critical.failure.effect.desc: "Que fait ce rocher là ?" #NT!
+ POD_canon_artifacts.102.critical.failure: "Bercé à mort" #NT!
+  
+ drakonskyr_reborn_modifier: "Drakonskyr renaît" #NT!
+ drakonskyr_reborn_modifier_desc: "Vous êtes enfin libre après si longtemps. Le monde tremblera, puis s'inclinera. Saluons tous l’infernal Seigneur de la Guerre !" #NT!
+  
+ POD_canon_artifacts.103.t: "L'épée appelle IV" #NT!
+ POD_canon_artifacts.103.desc: "C'est fait, vous êtes enfin devant Tiamat-Drakonskyr. Le démon s'est réveillé de sa torpeur, averti de votre venue par sa fidèle Épée. Le seigneur infernal est tout doux et chéri, vous remerciant de l'avoir libéré et promettant de riches récompenses pour votre aide.\nVous évaluez rapidement qu'il est trop tard pour vous opposer à lui maintenant, car avec l'épée de Nul à ses côtés, il est bien trop fort même pour vous, vous réfléchissez donc à vos options.\nD'un côté, Drakonskyr vous propose de vous donner le contenu du trésor de cette tombe et de vous laisser garder l'Épée, après en avoir extrait son essence évidemment. De l'autre, le démon essaie de vous séduire en vous offrant la possibilité de devenir son nouvel hôte, avec la promesse d'un pouvoir éternel si vous « travailliez ensemble »." #NT!
+ POD_canon_artifacts.103.a: "Sûrement pas!" #NT!
+ POD_canon_artifacts.103.b: "Bon sang ouais !" #NT!
+ drakonskyr_free: "Félicitations, vous avez libéré un seigneur infernal. Au moins l'Épée de Nul vous sera fidèle désormais." #NT!
+  
+ tablet_of_destiny_decision: "La tablette du destin" #NT!
+ tablet_of_destiny_decision_tooltip: "Connaissance infinie !" #NT!
+ tablet_of_destiny_decision_desc: "La Tablette du Destin possède la connaissance de tous les pouvoirs sanguins d'Enoch. Cela vaut la peine d’être étudié." #NT!
+ tablet_of_destiny_decision_effect_tooltip: "Vous pourrez apprendre de nouveaux [disciplines|EL] depuis la tablette" #NT!
+ tablet_of_destiny_decision_confirm: "De nouveaux pouvoirs !" #NT!
+  
+ POD_canon_artifacts.200.t: "Décrypter la Tablette du Destin" #NT!
+ POD_canon_artifacts.200.desc: "La Tablette du Destin était le modèle du [disciplines|EL] original, peut-être codifié par Caïn lui-même. C'est en fait moins difficile à comprendre que vous ne le craigniez, mais pratiquer les rituels nécessaires pour libérer les pouvoirs de votre sang demandera quand même un certain effort de votre part.\nVous pensez plus sage d'étudier un [discipline|EL] à la fois, pour éviter un danger potentiellement dangereux. surcharge d'information. Sur lequel sera votre focus ce soir ?" #NT!
+ POD_canon_artifacts.200.option.a: "Dominer" #NT!
+ POD_canon_artifacts.200.option.b: "Animalisme" #NT!
+ POD_canon_artifacts.200.option.c: "Auspex" #NT!
+ POD_canon_artifacts.200.option.d: "Célérité" #NT!
+ POD_canon_artifacts.200.option.e: "Brouiller" #NT!
+ POD_canon_artifacts.200.option.f: "Puissance" #NT!
+ POD_canon_artifacts.200.option.g: "Présence" #NT!
+ POD_canon_artifacts.200.option.h: "Protéen" #NT!
+ POD_canon_artifacts.200.option.i: "Sorcellerie du sang" #NT!
+ POD_canon_artifacts.200.option.j: "Courage" #NT!
+ POD_canon_artifacts.200.option.k: "Obténébration" #NT!
+ POD_canon_artifacts.200.option.l: "Ce n'est pas le bon moment" #NT!
+  
+ eye_of_hazimel_decision: "L'oeil d'Hazimel" #NT!
+ eye_of_hazimel_decision_tooltip: "Il te regarde..." #NT!
+ eye_of_hazimel_decision_desc: "L'Œil d'Hazimel est une relique malveillante, connue pour emporter les esprits et les âmes si elle n'est pas manipulée avec soin. Jusqu'à présent, vous avez été prudent en enfermant l'Œil dans une boîte, mais cela vous a également empêché d'exploiter ses véritables pouvoirs." #NT!
+ eye_of_hazimel_decision_effect_tooltip: "Vous tenterez d'exploiter toute la puissance de l'Œil... sans vous perdre" #NT!
+ eye_of_hazimel_decision_confirm: "Laisse moi y réfléchir" #NT!
+  
+ POD_canon_artifacts.300.t: "Planter l'oeil" #NT!
+ POD_canon_artifacts.300.desc: "L'Œil d'Hazimel est une relique malveillante aux origines enveloppées, connue pour conférer de grands pouvoirs à quiconque voudrait remplacer son propre œil par celui-ci, mais aussi pour lui imposer un lourd tribut mental. Certains se sont perdus dans la folie des visions qu'il donne et l'Œil lui-même semble aimer transformer son hôte en une extension de sa volonté corruptrice.\nJusqu'à présent, vous avez résisté à son appel, le laissant enfermé en toute sécurité dans une boîte scellée, mais la tentation est toujours présente. Peut-être êtes-vous assez fort pour exploiter ses pouvoirs sans vous perdre ?... ou peut-être que ce sentiment d'arrogance est une illusion partagée par l'Œil pour vous séduire." #NT!
+ POD_canon_artifacts.300.a: "Je suis plus fort que cette chose !" #NT!
+ POD_canon_artifacts.300.b: "Gardons la boîte fermée" #NT!
+ eye_of_hazimel_warning: "Ce chemin est évidemment très dangereux..." #NT!
+  
+ POD_canon_artifacts.301.t: "Planter l'oeil II" #NT!
+ POD_canon_artifacts.301.desc: "Vous vous êtes arraché votre propre œil, avez ouvert la boîte scellée et avez terriblement vu l'Œil de Hazimel sauter littéralement dans votre orbite pour s'implanter. La sensation est déroutante. Ce n’est pas vraiment de la douleur, car vous êtes bien au-dessus de ces préoccupations insignifiantes, mais le volume d’images et de souvenirs qui vous inondent soudainement est accablant. Vous voyez des civilisations s'élever et s'effondrer et des Caïnites bien plus âgés que vous se battre dans des guerres sans fin... Et pendant tout ce temps, l'Œil étend ses vrilles dans votre corps inerte, essayant de prendre le dessus pendant que vous êtes distrait.\nVous vous en rendez simplement compte. assez vite pour avoir une chance de riposter, mais l'Œil décuple son attaque sur votre esprit lorsqu'il voit que vous n'avez pas encore abandonné..." #NT!
+ POD_canon_artifacts.301.a: "Résister!" #NT!
+ POD_canon_artifacts.301.effect.success.desc: "Je peux le faire!" #NT!
+ POD_canon_artifacts.301.critical.failure.effect.desc: "Tant de merveilles à voir..." #NT!
+  
+ eye_of_hazimel_tamed_modifier: "Oeil apprivoisé d'Hazimel" #NT!
+ eye_of_hazimel_tamed_modifier_desc: "The Eye vous a reconnu comme un hôte digne et n'essaie pas de vous prendre en charge. Pour l'instant." #NT!
+  
+ POD_canon_artifacts.302.t: "Planter l'oeil III" #NT!
+ POD_canon_artifacts.302.desc: "Vous êtes plus fort qu’une simple relique de chair, même aussi vindicative que l’Œil d’Hazimel. Lentement, morceau par morceau, vous avez combattu l’influence corrompue dans votre esprit et avez repris conscience en rampant. L'Œil a essayé plusieurs autres astuces, allant des visions alimentées par des cauchemars à la douleur physique basique, mais vous avez tenu bon.\nÉpuisé, ou peut-être simplement impressionné par votre résilience, l'artefact a cessé de vous combattre et semble maintenant content de vous servir de votre propre œil. Cependant, c'est toujours un être sensible, et vous pouvez sentir le pouvoir qu'il contient très près de votre portée. Un partenariat étrange, mais très lucratif, est né." #NT!
+ POD_canon_artifacts.302.a: "Je vois tout!" #NT!
+  
+ eye_of_hazimel_unleashed_modifier: "Oeil déchaîné d'Hazimel" #NT!
+ eye_of_hazimel_unleashed_modifier_desc: "Vous et l’Œil ne faites qu’un. Sauf qu’il a le contrôle le plus souvent." #NT!
+  
+ POD_canon_artifacts.303.t: "Planter l'oeil III" #NT!
+ POD_canon_artifacts.303.desc: "Tu as fait de ton mieux. Et même dans son triomphe, l’Œil reconnaît que vous êtes l’un de ses hôtes les plus volontaires et que vous pouvez lui être utile. Cette victoire superficielle signifie que vous disposez encore d'un minimum de libre arbitre, mais l'Œil prend le relais quand il en a envie. Et c'est toujours désagréable pour votre entourage lorsque cela se produit.\nCertes, vous êtes plus puissant et intimidant que vous ne l'avez jamais été, mais le prix à payer était élevé. La bonne nouvelle est que vous n’êtes pas dans un état où vous pourriez vous demander si cela en valait la peine." #NT!
+ POD_canon_artifacts.303.a: "On voit tout !" #NT!
+  
+ ankaran_sarcophagus_decision: "Le sarcophage d'Ankara" #NT!
+ ankaran_sarcophagus_decision_tooltip: "Qu'est-ce qu'il y a à l'intérieur?" #NT!
+ ankaran_sarcophagus_decision_desc: "Un sentiment d’appréhension émane de ce sarcophage, comme si un mal ancien et indéniable attendait à l’intérieur. Ou alors, il s’agit peut-être simplement d’une boîte vide. Qui sait?" #NT!
+ ankaran_sarcophagus_decision_effect_tooltip: "Vous n'avez aucune idée de ce qui va se passer" #NT!
+ ankaran_sarcophagus_decision_confirm: "Est-ce que je veux vraiment tenter ma chance ?" #NT!
+  
+ POD_canon_artifacts.400.t: "Le sarcophage d'Ankara" #NT!
+ POD_canon_artifacts.400.desc: "Il y a quelque chose d'effrayant dans ce sarcophage et vous n'êtes pas le seul à le ressentir. De nombreux vampires, et même d'autres créatures, sont déjà morts en essayant de mettre la main dessus, ce qui ajoute à sa réputation grandissante. Les peintures murales du sarcophage représentent des personnages buvant des bols de sang, suggérant une certaine forme de vampirisme.\nLes rumeurs les plus fantaisistes parlent d'un Antédiluvien se reposant à l'intérieur, promettant un pouvoir éternel ou la damnation à celui qui l'ouvrira. L'artefact est déjà utile en lui-même, car il constitue une distraction pratique pour vos rivaux, mais l'attrait de découvrir ses secrets est toujours là. Allez-vous braver l’immense danger potentiel pour des récompenses potentiellement encore plus importantes ?" #NT!
+ POD_canon_artifacts.400.a: "Ouvrez-le !" #NT!
+ POD_canon_artifacts.400.b: "Ne l'ouvre pas" #NT!
+ ankaran_sarcophagus_warning: "Ce chemin est évidemment potentiellement dangereux..." #NT!
+  
+ POD_canon_artifacts.401.t: "Le sarcophage d'Ankara II" #NT!
+ POD_canon_artifacts.401.desc: "Eh bien, c'était décevant.\nMalgré toute l'aura de mystère autour de ce sarcophage, il s'avère qu'il ne contenait qu'une momie banale, bien que bien conservée. Probablement un roi mortel, personne de vraiment important pour vous. Malgré cette déception, cela peut toujours vous être utile car personne d’autre ne connaît la vérité. Vous pouvez piéger le sarcophage pour les voleurs imprudents dans votre domaine ou vendre le droit de le voir à des érudits curieux. Ou encore plus audacieux, dites la vérité à ce sujet !... à quelques alliés de confiance uniquement, bien sûr. Comment allez-vous tirer parti de cette découverte ?" #NT!
+ POD_canon_artifacts.401.a: "Étudiez la momie plus en détail" #NT!
+ POD_canon_artifacts.401.b: "Mettez-y des serpents ! Les serpents sont amusants" #NT!
+ POD_canon_artifacts.401.c: "Dites la vérité à certains « amis » qui seront bientôt redevables" #NT!
+ POD_canon_artifacts.401.d: "Mettre en place un piège à touristes Caïnite" #NT!
+  
+ beatific_decision: "Relique sacrée" #NT!
+ beatific_decision_tooltip: "Un cadeau du Divin à portée de main" #NT!
+ beatific_decision_desc: "Vous avez à votre disposition l'une des reliques les plus sacrées de la Foi. Son aura brille et vous confère des pouvoirs extraordinaires." #NT!
+ beatific_decision_confirm: "Un don du Divin, sans aucun doute" #NT!
+  
+ full_blood_decision: "Relique sanglante" #NT!
+ full_blood_decision_tooltip: "La faim appartient au passé" #NT!
+ full_blood_decision_desc: "Vous avez en votre possession l'un des artefacts inestimables capables de créer un sang suffisamment fort pour nourrir votre corps mort-vivant. Avec cela à votre disposition, vous ne mourrez plus jamais de faim." #NT!
+ full_blood_decision_confirm: "Le sang coulera" #NT!
+  
+ shemaziel_sarcophagus_decision: "Le sarcophage de Shemiazel" #NT!
+ shemaziel_sarcophagus_decision_tooltip: "Qu'est-ce qu'il y a à l'intérieur?" #NT!
+ shemaziel_sarcophagus_decision_desc: "Un sentiment d’appréhension émane de ce sarcophage, comme si un mal ancien et indéniable attendait à l’intérieur. Ou alors, il s’agit peut-être simplement d’une boîte vide. Qui sait?" #NT!
+ shemaziel_sarcophagus_decision_effect_tooltip: "Vous n'avez aucune idée de ce qui va se passer" #NT!
+ shemaziel_sarcophagus_decision_confirm: "Est-ce que je veux vraiment tenter ma chance ?" #NT!
+  
+ POD_canon_artifacts.500.t: "Le sarcophage de Shemiazel" #NT!
+ POD_canon_artifacts.500.desc: "Il y a quelque chose d'effrayant dans ce sarcophage et vous n'êtes pas le seul à le ressentir. De nombreux vampires, et même d'autres créatures, sont déjà morts en essayant de mettre la main dessus, ce qui ajoute à sa réputation grandissante. Il est fait d'une pierre noire, peut-être de l'obsidienne ou de l'onyx, sans gravure visible ni indication de son origine.\nLes rumeurs les plus fantaisistes parlent d'un démon endormi à l'intérieur ou même d'une fosse de sacrifice en mouvement pleine d'horreurs infernales. Allez-vous braver l’immense danger potentiel pour des récompenses potentiellement encore plus importantes ?" #NT!
+ POD_canon_artifacts.500.a: "Ouvrez-le !" #NT!
+ POD_canon_artifacts.500.b: "Ne l'ouvre pas" #NT!
+ shemaziel_sarcophagus_warning: "Ce chemin est évidemment très dangereux..." #NT!
+  
+ shemaziel_reborn_modifier: "Shemiazel renaît" #NT!
+ shemaziel_reborn_modifier_desc: "Salut à tous Shemiazel, duc de l'orgueil, prophète des vanités, pontife de l'arrogance et du mépris !" #NT!
+  
+ POD_canon_artifacts.501.t: "Le sarcophage de Shemiazel II" #NT!
+ POD_canon_artifacts.501.desc: "Eh bien, les rumeurs étaient vraies.\nÀ l'intérieur du sarcophage se trouve un véritable duc de l'enfer, qui s'élève lentement vers vous. Vous voyez des images de champs de bataille divins, de prisons abyssales et d'entités que vous ne comprendrez jamais. Et vous voyez que vous n’êtes rien pour cette créature qui déchirera votre âme pour prendre votre corps comme hôte. Votre Bête se recroqueville de peur dans votre esprit et vous êtes lent à réagir. Que pouvez-vous faire contre une telle entité ?\nEh bien... peut-être que sceller le sarcophage avant qu'il ne soit trop tard et le jeter à la mer, cela pourrait fonctionner. Ou tu pourrais simplement accepter ton destin infernal." #NT!
+ POD_canon_artifacts.501.a: "Résister est inutile" #NT!
+ POD_canon_artifacts.501.b: "Retourne te coucher!" #NT!
+  
+ oblivionadvanced_decision: "Relique de la mort" #NT!
+ oblivionadvanced_decision_tooltip: "Les secrets de la vie et de la mort sont à vous" #NT!
+ oblivionadvanced_decision_desc: "Vous disposez d’une puissante relique nécromantique. Exploiter son pouvoir vous donnerait un excellent aperçu des questions liées à l’au-delà." #NT!
+ oblivionadvanced_decision_confirm: "La tombe m'obéit !" #NT!
+  
+ bloodsorceryadvanced_decision: "Relique magique" #NT!
+ bloodsorceryadvanced_decision_tooltip: "Les secrets les plus profonds du sang sont à toi" #NT!
+ bloodsorceryadvanced_decision_desc: "Vous disposez d’une puissante relique thaumaturgique. Exploiter son pouvoir vous donnerait un excellent aperçu des questions de sorcellerie du sang." #NT!
+ bloodsorceryadvanced_decision_confirm: "Un réveil sanglant" #NT!
+  
+ auspexadvanced_decision: "Relique de la vue" #NT!
+ auspexadvanced_decision_tooltip: "Vous verrez tout !" #NT!
+ auspexadvanced_decision_desc: "Vous disposez d’une puissante relique prophétique. Exploiter son pouvoir vous donnerait un excellent aperçu du [discipline|EL] vampirique d’Auspex." #NT!
+ auspexadvanced_decision_confirm: "Une perception parfaite" #NT!
+  
+ truefaith_decision: "Artefact de foi" #NT!
+ truefaith_decision_tooltip: "La foi est une arme puissante" #NT!
+ truefaith_decision_desc: "Vous disposez d’un puissant artefact sacré. Exploiter son pouvoir vous donnerait un excellent aperçu des bénédictions des fidèles." #NT!
+ truefaith_decision_confirm: "Béni par le Divin" #NT!
+  
+ obfuscate_decision: "Artefact ténébreux" #NT!
+ obfuscate_decision_tooltip: "Dans l'obscurité nous allons" #NT!
+ obfuscate_decision_desc: "Vous disposez d'un puissant artefact. Exploiter son pouvoir vous donnerait un excellent aperçu du vampire [discipline|EL] d’Obfuscate." #NT!
+ obfuscate_decision_confirm: "Tant de choses à cacher..." #NT!
+  
+ auspex_decision: "Artefact de vue" #NT!
+ auspex_decision_tooltip: "Tu verras tout" #NT!
+ auspex_decision_desc: "Vous disposez d’un puissant artefact prophétique. Exploiter son pouvoir vous donnerait un excellent aperçu du [discipline|EL] vampirique d’Auspex." #NT!
+ auspex_decision_confirm: "Une perception puissante" #NT!
+  
+ dominate_decision: "Artefact de domination" #NT!
+ dominate_decision_tooltip: "Enfin, ils devront écouter" #NT!
+ dominate_decision_desc: "Vous disposez d’un puissant artefact. Exploiter son pouvoir vous donnerait un excellent aperçu du [discipline|EL] vampirique de Dominate." #NT!
+ dominate_decision_confirm: "Ils obéiront" #NT!
+  
+ obtenebration_decision: "Artefact abyssal" #NT!
+ obtenebration_decision_tooltip: "Pour regarder dans l'abîme..." #NT!
+ obtenebration_decision_desc: "Vous disposez d’un puissant artefact abyssal. Exploiter son pouvoir vous donnerait un excellent aperçu du [discipline|EL] vampirique de l’Obténébration." #NT!
+ obtenebration_decision_confirm: "Il y a tellement plus à apprendre" #NT!
+  
+ gaffari_scrolls_decision: "Les manuscrits de Gaffari" #NT!
+ gaffari_scrolls_decision_tooltip: "Une lecture intéressante" #NT!
+ gaffari_scrolls_decision_desc: "Preuve d'une conspiration à Alamut, la direction des Banu Haqim adorerait mettre la main là-dessus... ou sur les conspirateurs." #NT!
+ gaffari_scrolls_decision_effect_tooltip: "Vous utiliserez les parchemins à votre avantage, d’une manière ou d’une autre" #NT!
+ gaffari_scrolls_decision_confirm: "Réfléchissons..." #NT!
+  
+ POD_canon_artifacts.600.t: "Les manuscrits de Gaffari" #NT!
+ POD_canon_artifacts.600.desc: "Ces parchemins révèlent l'existence d'une vaste conspiration au sein du clan Banu Haqim, visant à les purger des « nouvelles religions faibles » et à ouvrir la voie au retour d'un « Berger noir » anonyme.\nIls sont, évidemment, d'une importance capitale. aux dirigeants Assamites qui les recherchent depuis un moment maintenant. Mais ils intéresseraient aussi les conspirateurs eux-mêmes, qui pourraient payer un bon prix pour les faire revenir..." #NT!
+ POD_canon_artifacts.600.a: "Vendez-les aux conspirateurs" #NT!
+ POD_canon_artifacts.600.b: "Révéler le complot à l'aîné" #NT!
+ POD_canon_artifacts.600.c: "Je pourrais les utiliser pour ma propre ambition..." #NT!
+  
+ animalismadvanced_decision: "Relique sauvage" #NT!
+ animalismadvanced_decision_tooltip: "Je serai en harmonie avec la nature." #NT!
+ animalismadvanced_decision_desc: "Vous disposez d’une puissante relique sauvage. Exploiter son pouvoir vous donnerait un excellent aperçu du [discipline|EL] vampirique de l'animalisme." #NT!
+ animalismadvanced_decision_confirm: "Un maître métamorphe." #NT!
+  
+ POD_inquihunt_truecross_tt: "Le porteur de la Vraie Croix obtient un sérieux bonus de prouesse pendant toute la durée de cet événement." #NT!
+  
+ grail_ashes_decision: "Le Graal des Cendres Amères" #NT!
+ grail_ashes_decision_tooltip: "Un simple verre ?" #NT!
+ grail_ashes_decision_desc: "On dit que le Graal débloque des pouvoirs fabuleux pour les cœurs purs. En êtes-vous digne ?" #NT!
+ grail_ashes_decision_effect_tooltip: "Vous boirez au Graal. Qui sait ce qui pourrait arriver ?" #NT!
+ grail_ashes_decision_confirm: "Un avant-goût du paradis ?" #NT!
+  
+ POD_canon_artifacts.700.t: "La bravoure de l'aspirant au Graal" #NT!
+ POD_canon_artifacts.700.desc: "Le Saint Graal, ou Graal des Cendres Amères, est une légende parmi les Caïnites et les mortels. Quels pouvoirs miraculeux cela pourrait-il vous débloquer ? Seul le fait d'en boire nous le dira.\nDès que vous pouvez prendre votre première gorgée de cette relique sacrée, votre esprit dérive et vous imaginez entouré de personnages encapuchonnés parlant dans une langue étrangère. Ils se précipitent rapidement sur vous, épées dégainées.\nEt, d'une manière ou d'une autre, vous pouvez sentir leur présence physique autour de vous comme s'ils étaient là..." #NT!
+ POD_canon_artifacts.700.a: "Je n'ai peur d'aucun homme ni d'un fantôme !" #NT!
+ POD_canon_artifacts.700.effect.success.desc: "Victorieux, vous continuez votre verre." #NT!
+ POD_canon_artifacts.700.critical.failure.effect.desc: "Vaincu, vous remettez le Graal avant d'être dépassé." #NT!
+  
+ POD_canon_artifacts.701.t: "L'âme de l'aspirant au Graal" #NT!
+ POD_canon_artifacts.701.desc: "Les fantômes des aspirants déchus ont disparu et la première gorgée du Graal danse sur votre langue. Bien que vous puissiez déjà ressentir le pouvoir de cette relique, il vous en faudra davantage si vous voulez la débloquer complètement.\nEn continuant votre boisson, vous vous retrouvez à nouveau à la dérive, cette fois en vous rappelant chaque fois que votre âme a été entachée par des actes insensibles ou égoïstes. . Le Graal ne sert pas facilement les méchants, semble-t-il." #NT!
+ POD_canon_artifacts.701.a: "Je suis digne!" #NT!
+ drink_grail_tt: "Votre âme et votre personnalité sont mises à l’épreuve." #NT!
+  
+ POD_canon_artifacts.702.t: "Le démon de l'aspirant au Graal" #NT!
+ POD_canon_artifacts.702.desc: "Le dernier obstacle dans votre quête du Graal est... vous, semble-t-il. Vous êtes confronté à une vision grotesque de vous-même, plus sauvage que mortelle, qui vous harcèle et semble vous défier d'essayer de finir ce verre.\nLa Bête, cette malédiction impie dans l'âme de chaque Caïnite, se sent menacée par cette soudaine intrusion de le Saint dans ton foutu corps. Cela ne se fera pas sans un terrible combat mental, essayant déjà d'affirmer le contrôle sur vous." #NT!
+ POD_canon_artifacts.702.a: "J'ai le contrôle !" #NT!
+ drink_grail_tt2: "Votre Bête est-elle plus forte que votre volonté ?" #NT!
+  
+ POD_canon_artifacts.703.t: "Le Chevalier du Graal se lève" #NT!
+ POD_canon_artifacts.703.desc: "C'est fait. Vous avez prouvé votre courage, votre âme et votre volonté jusqu'au Graal et vous pouvez désormais boire librement. Pourtant, même avec ces victoires, cela fait très mal car le Graal modifie fondamentalement qui vous êtes.\nMême cette puissante relique n'est pas suffisante pour vraiment vaincre la malédiction de Dieu sur Caïn, mais il s'agit quand même d'un changement profond et miraculeux. Vous êtes maintenant quelque chose de plus qu'un simple vampire et vous rayonnez d'énergie sacrée[AddTextIf( PlayerHasBeast, ' as the Beast inside you lets out its last, dying howl' )]." #NT!
+ POD_canon_artifacts.703.a: "Le salut enfin ?" #NT!
+ drink_grail_tt3: "En tant que Chevalier du Graal, vous obtenez les avantages suivants :\n -Peut reconstituer votre sang à volonté avec une décision mineure\n -Vous ne serez plus jamais frénétique\n -Vos goules (créées à partir de mortels) commencent physiquement plus fortes\n -Vous ne pouvez pas ne plus être submergé par l'âme de sa victime après une diablerie" #NT!
+ drink_grail_tt4: "En tant que Chevalier du Graal, vos goules sont plus fortes car elles partagent un peu de votre sang sacré." #NT!
+  
+ POD_canon_artifacts.704.t: "L’aspirant indigne du Graal" #NT!
+ POD_canon_artifacts.704.desc: "Les voies du Graal sont mystérieuses. Alors que vous souffrez de la terrible douleur de boire de la sainte relique, le liquide se transforme soudainement en cendres, tout comme Dieu a maudit Caïn. Alors que la Bête rit à la vue de votre défaite, vous jetez violemment le gobelet, symbole de votre honte.\nIl est difficile de dire si réessayer le rituel dans un certain temps entraînerait un résultat différent. Vous pourriez réessayer plus tard, mais le Graal devrait alors rester ici, rappelant à tous votre défaite sans gloire." #NT!
+ POD_canon_artifacts.704.a: "Jetez cette boule à la mer !" #NT!
+ POD_canon_artifacts.704.b: "Une nuit, j'en serai digne." #NT!
+  
+ full_glamour_decision: "La rose" #NT!
+ full_glamour_decision_desc: "Ce trésor est resté pur et vibrant tout en soutenant son détenteur sans avoir besoin de Rhapsodiser. Le fae qui détient la Rose en tire directement le Glamour." #NT!
+ full_glamour_decision_tooltip: "Rhapsodiser appartient au passé" #NT!
+ full_glamour_decision_confirm: "Dessine le glamour" #NT!
+  
+ baizetu_decision: "Bai Ze Tu" #NT!
+ baizetu_decision_tooltip: "Le guide ultime pour tuer des monstres ?" #NT!
+ baizetu_decision_desc: "Selon la rumeur, il aurait été rédigé par l'Empereur Jaune lui-même. Le Bai Ze Tu a été fragmenté au fil des siècles, mais il est peut-être encore possible de le reconstruire." #NT!
+ baizetu_decision_confirm: "Il est temps de lire." #NT!
+ baizetu_decision_custom: "Vous avez besoin que les cinq fragments de Bai Ze Tu soient en votre possession" #NT!
+  
+ artifact_baizetu_name: "Bai Ze Tu" #NT!
+ artifact_baizetu_description: "Un grimoire légendaire écrit par nul autre que l'Empereur Jaune, semblable à un dieu, et qui contiendrait les secrets des 11 520 types de créatures surnaturelles.\nAvec le tome complet entre les mains, on connaîtrait toutes les forces et faiblesses de leurs ennemis, et avec cette sagesse, on ne pourrait pas l'arrêter.\nLa vérité est un peu plus compliquée, le tome étant difficile à déchiffrer et plein d'erreurs, bien qu'il reste très utile au lecteur dévoué et patient." #NT!
+  
+ spear_orthia_decision: "Reforger la lance brisée" #NT!
+ spear_orthia_decision_tooltip: "Un symbole de bravoure recréé ?" #NT!
+ spear_orthia_decision_desc: "La lance d'Artémis Orthia s'est brisée lorsqu'elle a courageusement attaqué les murs de Carthage. Avec l’aide d’un forgeron surnaturel qualifié, il pourrait être reconstruit." #NT!
+ spear_orthia_decision_confirm: "Une arme de légende !" #NT!
+ shattered_spear_decision_custom: "[TARGET_CHARACTER.GetFirstName] doit être votre membre [friend|E], [coterie|E] ou [soulmate|E]" #NT!
+  
+ artifact_spear_orthia_name: "Lance d'Artémis Orthia" #NT!
+ artifact_spear_orthia_description: "Une arme légendaire autrefois utilisée par un guerrier légendaire. Artemis Orthia, considérée comme la bien-aimée de Ventrue lui-même, chargea courageusement dans la folie de Carthage comme on s'attendait à ce qu'une déesse spartiate le fasse. Même si sa lance s'est brisée pendant le combat, elle a maintenant été reforgée pour retrouver sa gloire d'antan." #NT!
+  
+ truth_saulot_decision_tt: "Vous déchiffrez le journal de Javaniel et les tablettes, puis décidez quoi en faire." #NT!
+ truth_saulot_decision: "La vérité sur Saulot ?" #NT!
+ truth_saulot_decision_tooltip: "Que peut-on apprendre de ce mystérieux journal ?" #NT!
+ truth_saulot_decision_desc: "Le journal que vous avez trouvé semble avoir été écrit par un vampire Salubrien. Il est crypté et vous devrez le déchiffrer avec une clé spécifique si vous souhaitez lire son contenu." #NT!
+ truth_saulot_decision_confirm: "Commençons la lecture." #NT!
+ truth_saulot_decision_custom1: "Vous devez posséder [ARTIFACT.GetName]" #NT!
+ truth_saulot_decision_custom2: "Vous devez posséder [ARTIFACT.GetName]" #NT!
+  
+ POD_canon_artifacts.800.t: "La vérité sur Saulot ?" #NT!
+ POD_canon_artifacts.800.desc: "Vous avez enfin déverrouillé le journal de Javaniel et son contenu est... inquiétant.\nJavaniel était un Salubri actif il y a longtemps, compagnon de Saulot et Samiel pendant les guerres Baali. Son récit des événements dépeint Saulot comme un cerveau insensible, voire carrément maléfique, derrière la création de l'infernaliste Baali et loin de son image de saint mentor. Les Tablettes d'Ivoire également en votre possession confirment ce fait, affirmant que Saulot est prêt à brûler le monde entier si cela signifie régner sur lui lors du "prochain tour de Roue".\nJavaniel est mort depuis longtemps, apparemment tué par Saulot lui-même pour se cacher. la vérité, vous êtes donc le seul à avoir une preuve concrète de ce côté moins connu de l’Antédiluvien bien-aimé. Si vous deviez le révéler, le clan Salubri serait profondément ébranlé et ses ennemis enhardis." #NT!
+ POD_canon_artifacts.800.a: "Les reliques de vampires ne me sont d'aucune utilité, en dehors de mes recherches scientifiques." #NT!
+ POD_canon_artifacts.800.b: "Le monde doit connaître la vérité !" #NT!
+ POD_canon_artifacts.800.custom: "Les Salubriens perdront beaucoup de prestige et gagneront énormément de stress.\nLes Tremere gagneront du prestige et perdront un peu de stress en même temps." #NT!
+ POD_canon_artifacts.800.c: "Je détruirai le journal et garderai la vérité pour moi." #NT!
+ POD_canon_artifacts.800.d: "Mensonges! MENSONGES!" #NT!
+  
+ samiel_code_decision: "Reconstruire le Code de Samiel" #NT!
+ samiel_code_decision_tooltip: "L'héritage de Samiel, qui s'accroche à peine à la vie." #NT!
+ samiel_code_decision_desc: "La seule copie du Code de Samiel qui ait survécu a été divisée en deux parties au début de l'ascension des Tremere. Trouver et combiner ces deux-là lui redonnerait toute sa splendeur. Une petite mais qui vaut la peine pour les Salubriens." #NT!
+ samiel_code_decision_confirm: "L'héritage de Samiel perdure." #NT!
+ samiel_code_decision_custom: "Vous avez besoin des deux fragments du Code de Samiel. ([ARTIFACT.GetName])" #NT!
+  
+ codex_mortis_decision: "Le Codex Mortis" #NT!
+ codex_mortis_decision_tooltip: "Les secrets de la mort à portée de main." #NT!
+ codex_mortis_decision_desc: "Un grand livre composé de divers parchemins contenant apparemment les secrets de la Nécromancie. Il semble que rien ne puisse être lu jusqu'à ce que son tuteur fantomatique, Titia Sabina, soit convaincu ou contraint de l'aider." #NT!
+ codex_mortis_decision_confirm: "Wraith, écoute-moi !" #NT!
+ codex_mortis_decision_tt: "Vous tenterez de convaincre Titia Sabina de se retirer, ce qui, espérons-le, vous permettra d'apprendre les secrets du livre." #NT!
+  
+ POD_canon_artifacts.900.desc: "Certaines recherches ont confirmé que le livre que vous tenez entre vos mains contient le savoir nécromantique secret de la famille Iovanus, plus connue aujourd'hui sous le nom de Giovanni. Ce codex a été réalisé par un membre rebelle de leur lignée bien avant qu'ils ne deviennent des vampires et il le détient depuis, principalement dans un acte de dépit contre la famille qui lui a tout pris.\nCet homme, Aurelius Flavius ​​Iovianus, a lié l'âme de sa femme assassinée, Titia Sabina, au livre dans le but de la sauver et également de créer un puissant gardien du codex. Cet effort a été très payant et vous êtes convaincu que vous ne pouvez pas accéder au contenu du livre sans l'approbation de Titia.\nUn conflit direct ne serait pas judicieux puisque vous avez compris que Tinia possède plusieurs [Fetters|E] dans ce monde et qu'elle pourrait donc facilement détruire le réservez si vous avez tenté une action hostile contre elle. Une diplomatie astucieuse semble être la seule voie à suivre." #NT!
+ POD_canon_artifacts.900.a: "Pourquoi est-ce qu'il brille en rouge ?" #NT!
+ codex_mortis_kill_tt: "Titia sait que vous avez tué son bien-aimé Aurelius. Elle détruit le livre pour se venger." #NT!
+ POD_canon_artifacts.900.b: "Aurelius peut me dire un bon mot !" #NT!
+ codex_mortis_friend_tt: "Vous entretenez de bonnes relations avec son bien-aimé Aurelius. Ainsi, Titia ouvre le livre sans aucun problème." #NT!
+ POD_canon_artifacts.900.custom: "Les Salubriens perdront beaucoup de prestige et gagneront énormément de stress.\nLes Tremere gagneront du prestige et perdront un peu de stress en même temps." #NT!
+ POD_canon_artifacts.900.c: "Je peux convaincre un spectre. Probablement." #NT!
+ POD_canon_artifacts.900.effect.success.desc: "Titia ouvre le livre !" #NT!
+ POD_canon_artifacts.900.critical.failure.effect.desc: "Titia refuse d'ouvrir le livre..." #NT!
+ codex_mortis_fail_tt: "Le codex vous rejette, vous laissant avec un livre vide et inutile." #NT!
+  
+  
+  
+  

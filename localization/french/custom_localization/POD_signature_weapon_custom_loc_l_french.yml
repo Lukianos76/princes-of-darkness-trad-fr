@@ -1,0 +1,31 @@
+﻿l_french:
+  # Standard Signature Weapon Loc 
+ signature_weapon_claws: "les griffes" #NT!
+ signature_weapon_claws_draw: "brandir" #NT!
+ signature_weapon_claws_draws: "brandit" #NT!
+ signature_weapon_claws_drawing: "brandir" #NT!
+ signature_weapon_claws_drawn: "brandi" #NT!
+  
+ signature_weapon_fangs: "crocs" #NT!
+ signature_weapon_fangs_lift: "nu" #NT!
+ signature_weapon_fangs_lifts: "met à nu" #NT!
+ signature_weapon_fangs_lifting: "nu" #NT!
+ signature_weapon_fangs_lifted: "mis à nu" #NT!
+  
+ signature_weapon_fangsclaws: "crocs et griffes" #NT!
+ signature_weapon_fangsclaws_bare: "nu" #NT!
+ signature_weapon_fangsclaws_bares: "met à nu" #NT!
+ signature_weapon_fangsclaws_baring: "nu" #NT!
+ signature_weapon_fangsclaws_bared: "mis à nu" #NT!
+  
+  # Weapon Descriptors 
+  
+ signature_weapon_base: "base" #NT!
+  
+ signature_weapon_end_bone: "os" #NT!
+  
+ signature_weapon_breaks_bone_breaks: "fractures osseuses" #NT!
+ signature_weapon_breaks_breaks_the_bone: "casse les os" #NT!
+ signature_weapon_breaks_breaking_the_bone: "briser l'os" #NT!
+ signature_weapon_breaks_break_the_bone: "briser l'os" #NT!
+  

@@ -1,0 +1,18 @@
+﻿l_french:
+  
+  #Hunter 
+ hunter_faction: "Répression de l'Inquisition" #NT!
+ hunter_faction_desc: "Les seigneurs vampires trop exposés et trop peu contrôlés risquent d'attirer l'attention de l'Inquisition." #NT!
+ hunter_faction_short_effect_desc: "Veut libérer votre peuple du bien, vous." #NT!
+ hunter_faction_every_county: "Chaque comté de la faction" #NT!
+ FACTION_DEMAND_HUNTER: "Vers le [ROOT.Char.Custom('InsultAdjective')] [ROOT.Char.GetTitledFirstName]" #NT!
+ FACTION_DEMAND_HUNTER_DESC: "Spawn of Hell, préparez-vous à affronter l'abîme qui vous a donné naissance. Votre contrôle impie sur les pauvres âmes de ce royaume prend fin maintenant !" #NT!
+ FACTION_DEMAND_HUNTER_ACCEPT: "Je ne suis pas prêt à combattre ces chasseurs..." #NT!
+ FACTION_DEMAND_HUNTER_REFUSE: "Jamais! Écrasons ces mortels glorifiés au combat !" #NT!
+ FACTION_HUNTER_NAME: "Cellule d'Inquisition" #NT!
+ FACTION_HUNTER_TITLE_NAME: "Cellule d'Inquisition" #NT!
+ hunter_faction_event_troops: "Inquisitorium Militum" #NT!
+ pod_factions.1103.t: "Vous êtes vaincu !" #NT!
+ pod_factions.1103.desc: "Malgré votre défense concertée, les chasseurs ont submergé la majeure partie de votre royaume, déracinant votre réseau d’influence soigneusement construit. Votre prestige est gravement touché et votre autorité est au plus bas. Les vautours veillent... et les chasseurs pourraient revenir à tout moment. Vous pourriez revenir en arrière, mais cela vous coûterait cher. En tant que tel, le sommeil éternel est une perspective alléchante. De toute façon, le temps n'a pas d'importance..." #NT!
+ pod_factions.1103.a: "je reviendrai" #NT!
+ pod_factions.1103.b: "Je n'ai pas encore fini !" #NT!

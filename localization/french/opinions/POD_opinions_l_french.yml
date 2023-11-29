@@ -1,0 +1,95 @@
+﻿l_french:
+ entrancement_opinion: "Envoûté" #NT!
+ gave_draught_opinion: "A donné un brouillon" #NT!
+ POD_opinion_lacks_control: "Manque de contrôle" #NT!
+ POD_herd_opinion: "Troupeau" #NT!
+ POD_ghoulthrall_opinion: "[Ghoul|E] Thrall" #NT!
+ POD_ghoulthrallgoldreward_opinion: "A donné une récompense en or" #NT!
+ POD_ghoulthrallgolddemand_opinion: "Or demandé" #NT!
+ POD_transmogrifymadebeautiful_opinion: "M'a rendu belle" #NT!
+ POD_transmogrifymademonsterous_opinion: "M'a rendu hideux" #NT!
+ POD_scornedghoulthrall_opinion: "L'ancien Domitor m'a méprisé" #NT!
+ POD_ghoulthrallmadehealed_opinion: "M'a guéri" #NT!
+ POD_binding_opinion: "N'apprécie pas la liaison" #NT!
+ POD_binding_strong_opinion: "N'apprécie pas la liaison" #NT!
+ POD_binding_permanent_opinion: "N'apprécie pas la liaison" #NT!
+ POD_weak_possession_opinion: "Possession superficielle" #NT!
+ POD_possession_opinion: "Possession avancée" #NT!
+ POD_complete_possession_opinion: "Possession totale" #NT!
+ POD_possessed_by_bound_ghost: "Possédé par ton fantôme lié" #NT!
+ POD_killed_me_opinion: "M'a tué!" #NT!
+ POD_turned_me_opinion: "M'a transformé en ténèbres !" #NT!
+ POD_successful_spiritual_guidance: "M'a montré la voie pieuse" #NT!
+ POD_failed_spiritual_guidance: "Je n'ai pas réussi à me montrer la voie pieuse" #NT!
+ POD_great_councilor_childe: "Enfant serviable" #NT!
+ POD_horrible_councilor_childe: "Enfant idiot" #NT!
+ POD_horrible_councilor: "Idiot!" #NT!
+ POD_cadre_opinion: "Membre du cadre" #NT!
+ POD_drained_life_realm: "J'ai vidé la vie de mon royaume !" #NT!
+ POD_havocked_my_realm: "J'ai libéré une tempête de Chi élémentaire sur mon royaume !" #NT!
+ POD_cursed_my_realm: "J'ai attaqué le feng shui de mon royaume !" #NT!
+ POD_unleash_maelstrom_in_my_realm: "Un maelström libéré souffle sur mon royaume !" #NT!
+ POD_unleash_storm_of_mothers_wrath_in_my_realm: "J'ai libéré une tempête de colère maternelle sur mon royaume !" #NT!
+ POD_unleash_divine_wind_in_my_realm: "J'ai libéré un vent divin sur mon royaume !" #NT!
+ POD_unleash_wrath_of_nala_in_my_realm: "J'ai déclenché une tempête sur mon royaume !" #NT!
+ POD_unleash_wound_undersea_in_my_realm: "J'ai déclenché un tremblement de mer sur les côtes de mon royaume !" #NT!
+ POD_unleash_reality_tremors_in_my_realm: "J'ai libéré un effet perturbateur sur mon royaume !" #NT!
+ POD_unleash_sphere_of_chaos_in_my_realm: "J'ai suspendu les lois de la cause sur mon royaume !" #NT!
+ POD_unleash_wave_of_mutilation_in_my_realm: "J'ai libéré une vague de mutilation sur mon royaume !" #NT!
+ POD_unleash_summon_outsider_in_my_realm: "J'ai invoqué un monstre sur mon royaume !" #NT!
+ POD_unleash_hell_on_earth_in_my_realm: "J'ai déclenché une apocalypse miniature sur mon royaume !" #NT!
+ pod_unleash_extinguish_life_in_my_realm: "Libéré, éteignez l'évocation de la vie sur mon royaume !" #NT!
+ POD_stole_heart_opinion: "Volé mon cœur!" #NT!
+ POD_tried_stealing_heart_opinion: "J'ai essayé de voler mon cœur !" #NT!
+ summoned_me_opinion: "M'a convoqué !" #NT!
+ POD_demanded_animal_blood_tithe_opinion: "Troupeau d'animaux exigé comme dîme du sang" #NT!
+ POD_demanded_kine_blood_tithe_opinion: "Des vaches exigées comme dîme du sang" #NT!
+ POD_demanded_kine_blood_tithe_opinion_from_nice_vassal: "Des vaches exigées comme dîme du sang" #NT!
+ POD_demanded_vitae_blood_tithe_opinion: "J'ai exigé ma dîme de sang vitae" #NT!
+ POD_demanded_childer_blood_tithe_opinion: "J'ai exigé mon enfant comme dîme du sang" #NT!
+ POD_demanded_kine_blood_tithe_rejection_opinion: "Rejeté les vaches offertes comme dîme du sang" #NT!
+ POD_diablerized_my_childe_opinion: "Diablerisé mon enfant !" #NT!
+ POD_used_hekau_on_me_opinion_minor: "M'a roulé" #NT!
+ POD_used_hekau_on_me_opinion_medium: "M'a ensorcelé" #NT!
+ POD_used_hekau_on_me_opinion_major: "M'a ensorcelé !" #NT!
+ POD_cast_evil_weather_magic_to_my_realm: "Jette de la magie du mauvais temps dans mon royaume" #NT!
+  
+ kueijin_religion_opinion: "$kueijin_religion_adherent$ Avis" #NT!
+ boneflowers_religion_opinion: "$boneflowers_religion_adherent$ Avis" #NT!
+ deviltigers_religion_opinion: "$deviltigers_religion_adherent$ Avis" #NT!
+ resplendentcranes_religion_opinion: "$resplendentcranes_religion_adherent$ Avis" #NT!
+ thousandwhispers_religion_opinion: "$thousandwhispers_religion_adherent$ Avis" #NT!
+ thrashingdragons_religion_opinion: "$thrashingdragons_religion_adherent$ Avis" #NT!
+ ashirra_religion_opinion: "$ashirra_religion_adherent$ Avis" #NT!
+ roadofset_religion_opinion: "$roadofset_religion_adherent$ Avis" #NT!
+ karoush_religion_opinion: "$karoush_religion_adherent$ Avis" #NT!
+ silverfang_religion_opinion: "$silverfang_religion_adherent$ Avis" #NT!
+ fianna_religion_opinion: "$fianna_religion_adherent$ Avis" #NT!
+ getoffenris_religion_opinion: "$getoffenris_religion_adherent$ Avis" #NT!
+ childofgaia_religion_opinion: "$childofgaia_religion_adherent$ Avis" #NT!
+ demons_religion_opinion: "$demons_religion_adherent$ Avis" #NT!
+ winter_court_religion_opinion: "$winter_court_religion_adherent$ Avis" #NT!
+ spring_court_religion_opinion: "$spring_court_religion_adherent$ Avis" #NT!
+ summer_court_religion_opinion: "$summer_court_religion_adherent$ Avis" #NT!
+ autumn_court_religion_opinion: "$autumn_court_religion_adherent$ Avis" #NT!
+ solstice_court_religion_opinion: "$solstice_court_religion_adherent$ Avis" #NT!
+ ignorance_religion_opinion: "$ignorance_religion_adherent$ Avis" #NT!
+ hunters_religion_opinion: "$hunters_religion_adherent$ Avis" #NT!
+ camarilla_religion_opinion: "$camarilla_religion_adherent$ Avis" #NT!
+ sabbat_religion_opinion: "$sabbat_religion_adherent$ Avis" #NT!
+ talmahera_religion_opinion: "$talmahera_religion_adherent$ Avis" #NT!
+  
+ rf_kueijin_opinion: "$rf_kueijin_adherent$ Avis" #NT!
+  
+ masspact_opinion: "Pacte avec d'autres démons" #NT!
+ POD_assist_arcana_opinion: "Il m'a demandé d'assister à l'entraînement Arcana." #NT!
+ POD_assist_lore_opinion: "Il m'a demandé d'assister à la formation sur les connaissances." #NT!
+ POD_assist_investiture_opinion: "M'a demandé de fournir plus d'investiture" #NT!
+  
+ dream_riding_opinion: "Equitation de rêve" #NT!
+  
+ POD_anathema_opinion: "Anathème" #NT!
+ rejected_call_to_blood_hunt_war: "Appel rejeté à une chasse au sang" #NT!
+ rejected_call_to_wild_hunt_war: "Appel rejeté à une chasse sauvage" #NT!
+  
+ occitan_opinion: "Opinion Occitane" #NT!

@@ -1,0 +1,99 @@
+﻿l_french:
+ action_can_set_fetter_alert: "Vous avez désactivé [Fetter|E]" #NT!
+ action_can_set_fetter_alert_label: "Vous avez désactivé [Fetter|E]" #NT!
+ action_can_set_fetter_alert_desc: "Vous devez définir un [Fetter|E] si vous ne souhaitez pas gagner [stress|E] chaque mois." #NT!
+ action_can_set_fetter_alert_click: "#I Cliquez pour définir un [Fetter|E] sur un [title|E]#! détenu" #NT!
+  
+ action_can_demonic_possess_alert: "Vous devriez posséder un navire" #NT!
+ action_can_demonic_possess_alert_label: "Vous devriez posséder un navire" #NT!
+ action_can_demonic_possess_alert_desc: "Vous devez posséder un vaisseau si vous ne voulez pas être piégé dans les Abysses." #NT!
+ action_can_demonic_possess_alert_click: "#I Cliquez pour posséder votre capital#!" #NT!
+  
+ action_can_fallen_possess_alert: "Vous devez désigner un navire" #NT!
+ action_can_fallen_possess_alert_label: "Vous devez désigner un navire" #NT!
+ action_can_fallen_possess_alert_desc: "Vous devez désigner un vaisseau si vous ne voulez pas être piégé dans les Abysses." #NT!
+ action_can_fallen_possess_alert_click: "#I Cliquez pour désigner un [thrall|E] comme navire#!" #NT!
+  
+ action_can_add_herd_alert: "Tu devrais rassembler un mortel" #NT!
+ action_can_add_herd_alert_label: "Tu devrais rassembler un mortel" #NT!
+ action_can_add_herd_alert_desc: "Vous devriez regrouper un mortel pour gagner plus d’XP de résonance." #NT!
+ action_can_add_herd_alert_click: "#I Cliquez pour regrouper un mortel en troupeau#!" #NT!
+  
+ action_can_add_dreamer_alert: "Tu devrais réfléchir à un mortel" #NT!
+ action_can_add_dreamer_alert_label: "Tu devrais réfléchir à un mortel" #NT!
+ action_can_add_dreamer_alert_desc: "Vous devriez réfléchir à un mortel pour gagner plus d'XP cantrip." #NT!
+ action_can_add_dreamer_alert_click: "#I Cliquez pour rêver d'un mortel en tant que rêveur#!" #NT!
+  
+ action_no_sekhem_alert: "Pas de Sekhem" #NT!
+ action_no_sekhem_alert_label: "Vous devriez construire le Havre de Maât" #NT!
+ action_no_sekhem_alert_desc: "Puisque vous n'êtes pas dans le [GetGeographicalRegion('pod_lands_of_faith').GetName], vous devriez construire le [GetBuilding('maats_haven_01').GetName] dans votre capital pour gagner du sekhem mensuel." #NT!
+ action_no_sekhem_alert_click: "#I Cliquez pour sélectionner le $game_concept_holding$#!" #NT!
+  
+ action_no_glamour_alert: "Pas de glamour" #NT!
+ action_no_glamour_alert_label: "Tu devrais construire la Glade" #NT!
+ action_no_glamour_alert_desc: "Vous devez construire le [GetBuilding('glade_freehold_01').GetName] dans votre capital pour gagner du glamour mensuel." #NT!
+ action_no_glamour_alert_click: "#I Cliquez pour sélectionner le $game_concept_holding$#!" #NT!
+  
+ action_host_not_married: "Hôte célibataire" #NT!
+ action_host_not_married_label: "Hôte célibataire" #NT!
+ action_host_not_married_desc: "Votre hôte [recipient.GetUIName] n'a pas de [spouse|E].\n\n#help Vous incarnez le démon incorporel et vous possédez un hôte, si l'hôte a des enfants, alors ils seront considérés comme les vôtres.#!" #NT!
+ action_host_not_married_click: "#I Cliquez pour trouver un [spouse|E]#! approprié" #NT!
+  
+ action_can_create_coterie: "Vous pouvez créer un [GetPlayer.Custom('PODCoterieNoTooltip')]" #NT!
+ action_can_create_coterie_label: "Vous pouvez créer un [GetPlayer.Custom('PODCoterieNoTooltip')]" #NT!
+ action_can_create_coterie_desc: "Faire partie d'un [GetPlayer.Custom('PODCoterie')] facilitera la réussite de votre [journeys|E]." #NT!
+ action_can_create_coterie_click: "#I Cliquez pour créer un [GetPlayer.Custom('PODCoterieNoTooltip')] maintenant.#!" #NT!
+  
+ action_can_buy_alchemy: "@mummy_icon ! Vous pouvez acheter des produits alchimiques" #NT!
+ action_can_buy_alchemy_label: "@mummy_icon ! Vous pouvez acheter des produits alchimiques auprès du [recipient.GetShortUIName]" #NT!
+ action_can_buy_alchemy_desc: "Certains $POD_splat_mummy_plural$ ont la capacité de créer des potions, des essences et d'autres objets magiques. Lors de leur mise en vente, vous avez la possibilité de profiter par vous-même de leurs effets." #NT!
+ action_can_buy_alchemy_click: "#I Cliquez pour voir une liste des articles que [recipient.GetShortUIName] a à offrir.#!" #NT!
+ action_can_buy_alchemy_combined_group_name: "$action_can_buy_alchemy$" #NT!
+ action_can_buy_alchemy_combined_group_label: "$action_can_buy_alchemy$" #NT!
+ action_can_buy_alchemy_combined_group_description: "$action_can_buy_alchemy_desc$" #NT!
+ action_can_buy_alchemy_combined_label: "@mummy_icon ! Acheter à partir du [recipient.GetShortUIName]" #NT!
+  
+ action_can_cover_up_masquerade: "@masquerade_icon ! Vous pouvez couvrir [masquerade|E]" #NT!
+ action_can_cover_up_masquerade_label: "@masquerade_icon ! Vous pouvez dissimuler la mascarade" #NT!
+ action_can_cover_up_masquerade_desc: "En tant que $POD_splat_vampire$, vous devez garder votre existence cachée si vous ne voulez pas devenir la proie du $POD_splat_hunter_plural$." #NT!
+ action_can_cover_up_masquerade_click: "#I Cliquez pour ouvrir la mascarade de dissimulation [character_interaction|E].#!" #NT!
+  
+ reactive_advice_gain_sekhem: "Gagner Sekhem" #NT!
+ action_reactive_advice_gain_sekhem: "Conseil : Gagnez Sekhem" #NT!
+ action_reactive_advice_gain_sekhem_desc: "Vous disposez de plusieurs moyens pour récupérer Sekhem. Ouvrez-le pour en savoir plus sur ce que cela signifie pour vous." #NT!
+ action_reactive_advice_gain_sekhem_click: "$click_to_open_lesson$" #NT!
+ lesson_gain_sekhem_basic: "Gagner Sekhem" #NT!
+ lesson_gain_sekhem_basic_desc: "Vous utilisez Sekhem pour alimenter vos techniques Hekau, et chaque type de Momie le récupère différemment : [GetTrait('shemsuheru').GetName( GetPlayer )] par temps (1 point/1 mois si vous êtes dans le [GetGeographicalRegion('pod_lands_of_faith').GetName], sinon il y aura 25% de chances de les gagner selon le niveau du bâtiment Ma'at's Haven). [GetTrait('cabiri').GetName( GetPlayer )] restaurez-le en activant le personnel 'Restauration Pneuma' [character_interaction|E]. [GetTrait('banemummy').GetName( GetPlayer )] récupérez-le en exécutant [prisoners|E] en utilisant l'option $EXECUTION_DEVOUR$." #NT!
+ lesson_gain_sekhem_advanced: "Gagner Sekhem" #NT!
+ lesson_gain_sekhem_advanced_desc: "Dans le jeu ultérieur, vous pouvez utiliser le Draw Sekhem [character_interaction|E] (débloqué par [GetPerk( 'name_of_sekhem_perk' ).GetName( GetPlayer )]) ou vous rendre à Amenti dans le panneau Umbra pour récupérer également Sekhem." #NT!
+  
+ reactive_advice_gain_resolve: "Gagner en résolution" #NT!
+ action_reactive_advice_gain_resolve: "Conseil : Gagnez en résolution" #NT!
+ action_reactive_advice_gain_resolve_desc: "Vous disposez de plusieurs façons de récupérer Resolve. Ouvrez-le pour en savoir plus sur ce que cela signifie pour vous." #NT!
+ action_reactive_advice_gain_resolve_click: "$click_to_open_lesson$" #NT!
+ lesson_gain_resolve: "Gagner en résolution" #NT!
+ lesson_gain_resolve_desc: "La résolution est le carburant de votre pouvoir démoniaque, vous pouvez l'obtenir par : Révélation [character_interaction|E] (adoptez d'abord une forme démoniaque en changeant de forme, puis vous pourrez révéler votre vraie forme aux autres), Sin Eating [character_interaction|E] (débloqué par [GetPerk( 'arcana_sin_eating_perk' ).GetName( GetPlayer )]) ou § _3 Exécution." #NT!
+  
+ reactive_advice_gain_pathos: "Gagner du pathos" #NT!
+ action_reactive_advice_gain_pathos: "Conseil : Gagnez en Pathos" #NT!
+ action_reactive_advice_gain_pathos_desc: "Vous avez plusieurs façons de récupérer Pathos. Ouvrez-le pour en savoir plus sur ce que cela signifie pour vous." #NT!
+ action_reactive_advice_gain_pathos_click: "$click_to_open_lesson$" #NT!
+ lesson_gain_pathos: "Gagner du pathétique" #NT!
+ lesson_gain_pathos_desc: "Pathos est le carburant de votre pouvoir arcanoi, vous pouvez les gagner en : terminant Passion [decision|E], Drain Energy [character_interaction|E] (Débloqué par [GetPerk( 'incubus_perk' ).GetName( GetPlayer )]), Transfer Pathos [character_interaction|E] (Débloqué par [GetPerk( 'pathos_conduit_perk' ).GetName( GetPlayer )]) ou Render Relic [character_interaction|E] (Débloqué par [GetPerk( 'render_relic_perk' ).GetName( GetPlayer )] )." #NT!
+  
+ reactive_advice_gain_glamour: "Gagnez en glamour" #NT!
+ action_reactive_advice_gain_glamour: "Conseil : Gagnez en glamour" #NT!
+ action_reactive_advice_gain_glamour_desc: "Vous avez plusieurs façons de récupérer Glamour. Ouvrez-le pour en savoir plus sur ce que cela signifie pour vous." #NT!
+ action_reactive_advice_gain_glamour_click: "$click_to_open_lesson$" #NT!
+ lesson_gain_glamour_1: "Sanctuaire" #NT!
+ lesson_gain_glamour_1_desc: "33 % de chances de gagner du glamour mensuel en fonction du niveau du bâtiment Glade Freehold dans votre capitale." #NT!
+ lesson_gain_glamour_2: "Ravissement" #NT!
+ lesson_gain_glamour_2_desc: "Vous pouvez utiliser Rapture [decision|E] pour gagner Glamour." #NT!
+ lesson_gain_glamour_3: "Rêverie" #NT!
+ lesson_gain_glamour_3_desc: "Vous pouvez gagner du Glamour en complétant un programme diplomatique." #NT!
+ lesson_gain_glamour_4: "Ravageant" #NT!
+ lesson_gain_glamour_4_desc: "Vous pouvez utiliser Ravaging [character_interaction|E] sur les prisonniers avec [inspiration|E] pour gagner Glamour." #NT!
+ lesson_gain_glamour_5: "Rhapsodie" #NT!
+ lesson_gain_glamour_5_desc: "Vous pouvez utiliser Rhapsody [character_interaction|E] sur des cibles avec [stress_level|E] [stress_i]#V 3#! pour gagner Glamour." #NT!
+ lesson_gain_glamour_6: "Récolter" #NT!
+ lesson_gain_glamour_6_desc: "Vous pouvez utiliser Reaving [character_interaction|E] sur votre emplacement actuel pour gagner Glamour." #NT!

@@ -1,0 +1,155 @@
+﻿l_french:
+ game_concept_horror_lifestyle: "Horreur" #NT!
+ game_concept_horror_lifestyle_desc: "Les horreurs sont les capacités que les Lamentations peuvent utiliser lorsqu'elles sont sous forme de fantôme." #NT!
+  
+ horror_lifestyle_name: "Horreur" #NT!
+ horror_lifestyle_desc: "Concentrez-vous sur les pouvoirs qui viennent de Shades." #NT!
+ horror_lifestyle_highlight_desc: "Parce que vous êtes un [GetTrait('wraith').GetName( GetPlayer )], vous gagnez #P 50%#! de plus [experience|E] dans ce style de vie." #NT!
+ monthly_horror_lifestyle_xp_gain_mult: "Horreur mensuelle [lifestyle|E] [experience|E]" #NT!
+  
+ horror_banshee_focus: "Concentration Banshee" #NT!
+ horror_banshee_focus_modifier: "[GetFocus('horror_banshee_focus').GetName]" #NT!
+ horror_banshee_focus_desc: "Les personnages émotifs et perspicaces qui souhaitent aider les autres." #NT!
+ horror_banshee_focus_effect_desc: "Focus sur les subventions Banshee Shade :" #NT!
+  
+ horror_haunter_focus: "Focus hanteur" #NT!
+ horror_haunter_focus_modifier: "[GetFocus('horror_haunter_focus').GetName]" #NT!
+ horror_haunter_focus_desc: "Les solitaires avec des attachements aux choses plutôt qu'aux personnes." #NT!
+ horror_haunter_focus_effect_desc: "Focus sur les subventions Haunter Shade :" #NT!
+  
+ horror_poltergeist_focus: "Focus sur l'esprit frappeur" #NT!
+ horror_poltergeist_focus_modifier: "[GetFocus('horror_poltergeist_focus').GetName]" #NT!
+ horror_poltergeist_focus_desc: "Ceux qui sont pleins de rage et l’utilisent pour résoudre leurs problèmes." #NT!
+ horror_poltergeist_focus_effect_desc: "Focus sur les subventions Poltergeist Shade :" #NT!
+  
+ horror_skinrider_focus: "Focus sur le skinrider" #NT!
+ horror_skinrider_focus_modifier: "[GetFocus('horror_skinrider_focus').GetName]" #NT!
+ horror_skinrider_focus_desc: "Ceux qui désirent contrôler les autres, pour le meilleur ou pour le pire." #NT!
+ horror_skinrider_focus_effect_desc: "Focus sur les subventions Skinrider Shade :" #NT!
+  
+ horror_wisp_focus: "Focus sur les feux follets" #NT!
+ horror_wisp_focus_modifier: "[GetFocus('horror_wisp_focus').GetName]" #NT!
+ horror_wisp_focus_desc: "Ludiques et charismatiques, les Wisps sont les escrocs des Ombres." #NT!
+ horror_wisp_focus_effect_desc: "Focus sur les subventions Wisp Shade :" #NT!
+  
+ horror_phantasm_focus: "Concentration fantasmatique" #NT!
+ horror_phantasm_focus_modifier: "[GetFocus('horror_phantasm_focus').GetName]" #NT!
+ horror_phantasm_focus_desc: "Les personnages artistiques et imaginatifs qui préfèrent vivre dans les rêves plutôt que dans la réalité." #NT!
+ horror_phantasm_focus_effect_desc: "Focus sur les subventions Phantasm Shade :" #NT!
+  
+ horror_orphan_grinder_focus: "Focus sur le broyeur orphelin" #NT!
+ horror_orphan_grinder_focus_modifier: "[GetFocus('horror_orphan_grinder_focus').GetName]" #NT!
+ horror_orphan_grinder_focus_desc: "Des esprits ramenés des ténèbres qui cherchent à se racheter." #NT!
+ horror_orphan_grinder_focus_effect_desc: "Focus sur les subventions Orphan-Grinder Shade :" #NT!
+  
+ horror_marrow_focus: "Focalisation sur la moelle" #NT!
+ horror_marrow_focus_modifier: "[GetFocus('horror_marrow_focus').GetName]" #NT!
+ horror_marrow_focus_desc: "Ceux qui s’adaptent facilement à n’importe quelle situation ou qui veulent se fondre dans tout." #NT!
+ horror_marrow_focus_effect_desc: "Se concentrer sur les subventions Marrow Shade :" #NT!
+  
+ GAINS_HORROR_LIFESTYLE_XP: "Gains $VALUE|V0$ [horror_lifestyle|E] d'expérience" #NT!
+ GAINED_HORROR_LIFESTYLE_XP: "Expérience $VALUE|V0$ [horror_lifestyle|E] acquise" #NT!
+ I_GAIN_HORROR_LIFESTYLE_XP: "Vous gagnez $VALUE|V0$ [horror_lifestyle|E] d'expérience" #NT!
+ I_GAINED_HORROR_LIFESTYLE_XP: "Vous avez gagné $VALUE|V0$ [horror_lifestyle|E] d'expérience" #NT!
+ TARGET_GAINS_HORROR_LIFESTYLE_XP: "[CHARACTER.GetShortUIName] gagne $VALUE|V0$ [horror_lifestyle|E] Expérience" #NT!
+ TARGET_GAINED_HORROR_LIFESTYLE_XP: "[CHARACTER.GetShortUIName] gagné $VALUE|V0$ [horror_lifestyle|E] Expérience" #NT!
+  
+ GAINS_A_HORROR_LIFESTYLE_PERKPOINT: "Gains $VALUE|V0$ [horror_lifestyle|E] [perk|E] Débloqué" #NT!
+ GAINED_A_HORROR_LIFESTYLE_PERKPOINT: "Gagné $VALUE|V0$ [horror_lifestyle|E] [perk|E] Débloqué" #NT!
+ I_GAIN_A_HORROR_LIFESTYLE_PERKPOINT: "Vous gagnez $VALUE|V0$ [horror_lifestyle|E] [perk|E] Déverrouillage" #NT!
+ I_GAINED_A_HORROR_LIFESTYLE_PERKPOINT: "Vous avez gagné $VALUE|V0$ [horror_lifestyle|E] [perk|E] Déverrouillage" #NT!
+ TARGET_GAINS_A_HORROR_LIFESTYLE_PERKPOINT: "[CHARACTER.GetShortUIName] gains $VALUE|V0$ [horror_lifestyle|E] [perk|E] Déverrouillage" #NT!
+ TARGET_GAINED_A_HORROR_LIFESTYLE_PERKPOINT: "[CHARACTER.GetShortUIName] gagné $VALUE|V0$ [horror_lifestyle|E] [perk|E] Débloqué" #NT!
+  
+ HORROR_LIFESTYLE_PERK_POINTS_TRIGGER: "Points d'avantages du style de vie d'horreur : $NUM|V0$" #NT!
+  
+ banshee_visible: "Banshee" #NT!
+ haunter_visible: "Hanteur" #NT!
+ poltergeist_visible: "Esprit frappeur" #NT!
+ skinrider_visible: "Skinrider" #NT!
+ wisp_visible: "Brin" #NT!
+ phantasm_visible: "Fantasme" #NT!
+ orphan_grinder_visible: "Broyeur orphelin" #NT!
+ marrow_visible: "Moelle" #NT!
+  
+ wail_perk_name: "Lamenter" #NT!
+ forebode_perk_name: "Présager" #NT!
+ pandemonium_perk_name: "Chaos" #NT!
+ screaming_nothing_perk_name: "Crier rien" #NT!
+ storm_gloam_perk_name: "Tempête-Gloam" #NT!
+ inhabit_perk_name: "Habiter" #NT!
+ witchs_nimbus_perk_name: "Nimbus de la sorcière" #NT!
+ broadband_ghost_perk_name: "Fantôme du haut débit" #NT!
+ hell_on_wheels_perk_name: "L'enfer sur roues" #NT!
+ eschers_corkscrew_perk_name: "Le tire-bouchon d'Escher" #NT!
+ helter_skelter_perk_name: "Helter Skelter" #NT!
+ congeal_perk_name: "Figer" #NT!
+ anathema_perk_name: "Anathème" #NT!
+ rend_and_rake_perk_name: "Déchirer et ratisser" #NT!
+ puppet_storm_perk_name: "Tempête de marionnettes" #NT!
+ puppetry_perk_name: "Marionnettes" #NT!
+ juggernaut_perk_name: "Juggernaut" #NT!
+ contaminate_perk_name: "Contaminer" #NT!
+ doppelganger_perk_name: "Sosie" #NT!
+ mob_rule_perk_name: "Loi de la populace" #NT!
+ unearthly_repose_perk_name: "Repos surnaturel" #NT!
+ storm_wending_perk_name: "Combattre les tempêtes" #NT!
+ beckon_relic_perk_name: "Relique de Beckon" #NT!
+ consume_perk_name: "Consommer" #NT!
+ ecstatic_crusade_perk_name: "Croisade extatique" #NT!
+ bedlam_perk_name: "Chahut" #NT!
+ sandman_perk_name: "Marchand de sable" #NT!
+ dream_walker_perk_name: "Marcheur de rêves" #NT!
+ draw_forth_perk_name: "Tirer" #NT!
+ terrible_madness_perk_name: "Terrible folie" #NT!
+ oblivions_husk_perk_name: "La coque de l'oubli" #NT!
+ hellion_perk_name: "Hellion" #NT!
+ vector_perk_name: "Vecteur" #NT!
+ song_of_the_hive_perk_name: "Chanson de la ruche" #NT!
+ salvation_perk_name: "Salut" #NT!
+ flesh_flux_perk_name: "Flux de chair" #NT!
+ familiar_perk_name: "Familier" #NT!
+ legion_born_perk_name: "Né dans la Légion" #NT!
+ nightmarish_gestalt_perk_name: "Gestalt cauchemardesque" #NT!
+ clay_jars_perk_name: "Pots d'argile" #NT!
+  
+ WAIL_PERK_EFFECT: "#F Les banshees peuvent utiliser Wail pour modifier les émotions de ceux qui les entourent ou pour infliger des dégâts avec un cri puissant semblable à celui de leur homonyme.#!" #NT!
+ FOREBODE_PERK_EFFECT: "Vous recevrez une notification si quelqu'un a l'intention d'assassiner vos amis ou votre famille.\nVous recevrez une notification si quelqu'un a l'intention de séduire votre amant ou votre conjoint.\nVotre prisonnier a moins de chances de s'échapper de votre prison.\n#F En vous connectant à ce Horreur, correctement, une Banshee peut voir de brefs aperçus du passé ou du futur.#!" #NT!
+ PANDEMONIUM_PERK_EFFECT: "#F Extension de Forebode, une Banshee peut réellement modifier le futur en modifiant le présent pour qu'il corresponde à l'effet souhaité.#!" #NT!
+ SCREAMING_NOTHING_PERK_EFFECT: "Il n'est plus nécessaire de faire un sacrifice pour accéder au [tempest|E].\nDébloquez l'option $EXECUTION_BANISH_TO_TEMPEST$ [execution|E] pour le prisonnier [GetTrait('wraith').GetName( GetPlayer )].\n#F Avec cette capacité, une Banshee peut ouvrir un nihil qui permet aux fantômes de traverser le Stormwall.§ _5" #NT!
+ STORM_GLOAM_PERK_EFFECT: "En tant que [character_interaction|E], vous permet de libérer [GetModifier( 'maelstrom_winds_modifier' ).GetNameWithTooltip|L] sur les royaumes ennemis.\n#F En vous connectant les uns aux autres, un groupe de Banshees peut ouvrir de petites déchirures dans le Stormwall, laissant passer les vents du Maelström pour infliger des dégâts.#!" #NT!
+ INHABIT_PERK_EFFECT: "Débloque le [buy_artifact_claim_interaction|E].\n[buy_claim_interaction|E] et [buy_artifact_claim_interaction|E] Coût : #P -50%#!\n#F Cette capacité permet à un Haunter de fusionner avec un objet inanimé de son choix et d'en prendre le contrôle complet et total.#!" #NT!
+ WITCHS_NIMBUS_PERK_EFFECT: "#F Un Haunter peut générer du feu ou des éclairs d'énergie électrique pour endommager une cible.#!" #NT!
+ BROADBAND_GHOST_PERK_EFFECT: "#F En utilisant cette capacité, un Haunter peut se transformer en énergie. Ils peuvent ensuite voyager à travers le métal ou manipuler des appareils de manière similaire.#!" #NT!
+ HELL_ON_WHEELS_PERK_EFFECT: "#F Cela permet à un Haunter de se transformer physiquement en un gros véhicule.#!" #NT!
+ ESCHERS_CORKSCREW_PERK_EFFECT: "En tant que [character_interaction|E], vous permet d'ajouter un bâtiment aléatoire à la province de votre royaume.\n#F En combinant leurs pouvoirs, un groupe de Haunters peut posséder complètement un bâtiment et manipuler les conditions à l'intérieur, comme la température, la gravité ou la structure. lui-même.#!" #NT!
+ HELTER_SKELTER_PERK_EFFECT: "Autoriser l'interaction avec le [skinlands|E] tout en restant dans le [shadowlands|E].\n#F Grâce à ses vrilles argentées, un Poltergeist peut manipuler des objets dans le monde vivant.#!" #NT!
+ CONGEAL_PERK_EFFECT: "#F Des outils et des armes peuvent être temporairement créés à partir de la propre gaze d'un Poltergeist grâce à cette capacité.#!" #NT!
+ ANATHEMA_PERK_EFFECT: "#F Cette capacité permet à un Poltergeist de jouer avec le mouvement et la force d'une manière qui n'est pas autorisée dans le monde physique.#!" #NT!
+ REND_AND_RAKE_PERK_EFFECT: "#F Un Poltergeist peut utiliser cette horreur pour tordre et défigurer temporairement le tissu même de la réalité.#!" #NT!
+ PUPPET_STORM_PERK_EFFECT: "En tant que [character_interaction|E], vous permet de blesser l'ennemi [knights|E] avec une intensité qui dépend de vos prouesses.\n#F Un groupe de Poltergeists peut combiner leurs pouvoirs pour permettre à leurs vrilles argentées d'affecter la gaze ou la chair.#!" #NT!
+ PUPPETRY_PERK_EFFECT: "Débloquez Possess [character_interaction|E], permet d'obtenir un crochet de la cible et de lui faire gagner une partie de vos attributs.\n#F Un Skinrider peut pleinement posséder le corps d'un humain vivant.#!" #NT!
+ JUGGERNAUT_PERK_EFFECT: "#F Grâce à cette capacité, un Skinrider s'enveloppe dans une flamme argentée qui le rend plus fort, plus rapide et plus robuste.#!" #NT!
+ CONTAMINATE_PERK_EFFECT: "Débloquer Donnez une maladie aléatoire [character_interaction|E].\n#F Avec cette capacité, un Skinrider peut simuler les symptômes d'une maladie ou simuler un remède chez une autre personne.#!" #NT!
+ DOPPELGANGER_PERK_EFFECT: "En tant que [character_interaction|E], vous permet de créer un clone [GetTrait('mortal').GetName( GetPlayer )] de la cible.\n#F Avec un petit échantillon d'ADN, un Skinrider peut créer une réplique en chair et en os d'une personne vivante qu'il peut posséder librement.#!" #NT!
+ MOB_RULE_PERK_EFFECT: "En tant que [character_interaction|E], vous permettez d'acquérir le contrôle du comté sur votre royaume.\n#F Un groupe de Skinriders peut combiner son pouvoir pour contrôler l'esprit de plusieurs personnes avec des commandes simples.#!" #NT!
+ UNEARTHLY_REPOSE_PERK_EFFECT: "#F Un Wisp peut forcer les autres à le suivre en se faisant paraître plus convaincant.#!" #NT!
+ STORM_WENDING_PERK_EFFECT: "En tant que [character_interaction|E], vous permet de vous téléporter vers l'emplacement cible.\n#F Grâce à cette capacité, le Wisp peut utiliser de minuscules fissures dans le Stormwall pour se transporter vers un autre emplacement.#!" #NT!
+ BECKON_RELIC_PERK_EFFECT: "Débloquez l'artefact reweave [character_interaction|E], permettez de forger des pièces d'artefact en un seul artefact.\n#F Avec cette capacité, un Wisp peut traverser le Stormwall et y invoquer une relique.#!" #NT!
+ CONSUME_PERK_EFFECT: "En tant que [character_interaction|E], vous permet de détruire un artefact pour gagner en piété.\n#F Cette capacité utilise les forces mêmes de la négation pour affaiblir ou effacer complètement un objet.#!" #NT!
+ ECSTATIC_CRUSADE_PERK_EFFECT: "En tant que [character_interaction|E], vous permet de devenir un [GetModifier( 'soul_beacon_modifier' ).GetNameWithTooltip|L].\n#F Un groupe de feux follets peut combiner leurs pouvoirs pour devenir une balise fantomatique, attirant les esprits vers leur emplacement.#!" #NT!
+ BEDLAM_PERK_EFFECT: "#F Un fantasme peut créer des illusions élaborées qui affectent autant de sens que possible.#!" #NT!
+ SANDMAN_PERK_EFFECT: "Accédez au [dreaming|E].\n#F Grâce à cette capacité, un fantasme peut entrer, observer et façonner les rêves à sa guise.#!" #NT!
+ DREAM_WALKER_PERK_EFFECT: "En tant que [character_interaction|E], vous permet de vous téléporter à n'importe quelle distance vers l'emplacement d'une cible qui a un lien avec vous.\n#F Cela permet à un Fantasme d'utiliser le lien partagé par tous les rêveurs pour voyager d'un endroit à l'autre, notamment via des liens émotionnels forts.#!" #NT!
+ DRAW_FORTH_PERK_EFFECT: "Peut recruter [POD_chimera_maa|E] en tant que [men_at_arms|E].\n#F Grâce à cette horreur, un fantasme peut temporairement donner vie aux rêves de quelqu'un.#!" #NT!
+ TERRIBLE_MADNESS_PERK_EFFECT: "En tant que [character_interaction|E], vous permet de donner [GetModifier( 'terrible_madness_modifier' ).GetNameWithTooltip|L] à la cible.\n#F En combinant leur vitalité, un groupe de fantasmes peut piéger quelqu'un dans une illusion élaborée reflétant son pire cauchemar.#!" #NT!
+ OBLIVIONS_HUSK_PERK_EFFECT: "Débloquez l'option [GetModifier('POD_shapeshift_form_limb_weapon_modifier').GetNameWithTooltip] et [GetModifier('POD_shapeshift_form_skin_armor_modifier').GetNameWithTooltip] Shapeshift.\n#F Cette capacité permet à un Orphan-Grinder de détecter les Spectres, de s'en camoufler ou de faire pousser des griffes et une carapace.#!" #NT!
+ HELLION_PERK_EFFECT: "#F Un Orphan-Grinder peut invoquer un cheval spectral en utilisant cette capacité.#!" #NT!
+ VECTOR_PERK_EFFECT: "Vous permet de posséder [GetTrait('wraith').GetName( GetPlayer )].\n#F Contrairement au Skinriding, un Orphan-Grinder peut posséder un fantôme ou un Spectre en utilisant cette capacité.#!" #NT!
+ SONG_OF_THE_HIVE_PERK_EFFECT: "#F Cette Horreur permet à un Orphan-Grinder de puiser temporairement dans l'esprit-ruche spectral.#!" #NT!
+ SALVATION_PERK_EFFECT: "En tant que [character_interaction|E], vous permet de transformer [GetTrait('spectre').GetName( GetPlayer )] en fantôme.\n#F En utilisant cette capacité, un Orphan-Grinder peut insuffler de la Vitalité à un Spectre et réduire son Dépit pour le transformer en Orphan-Grinder.#!" #NT!
+ FAMILIAR_PERK_EFFECT: "Débloquez Shapeshift [character_interaction|E] pour changer d'apparence.\n#F La Moelle peut remodeler sa gaze de manière cosmétique et apparaître comme une autre personne, peut manifester des Taches en utilisant Vitalité au lieu de Spite et peut se donner des Taches qu'elle ne possède normalement pas.#!" #NT!
+ FLESH_FLUX_PERK_EFFECT: "Débloquez [marked_for_return_interaction|E].\nDébloquez [bind_wraith_interaction|E].\nDébloquez [command_wraith_interaction|E].\nNombre maximum de spectres liés : #P +1#!.\n#F En utilisant cette capacité, une Marrow peut invoquer des créatures fantomatiques pour exécuter leurs ordres.#!" #NT!
+ LEGION_BORN_PERK_EFFECT: "#F Avec cette capacité, une Marrow peut se transformer en un essaim fantomatique de petites créatures agissant selon un seul esprit.#!" #NT!
+ NIGHTMARISH_GESTALT_PERK_EFFECT: "En tant que [character_interaction|E], vous permet d'absorber votre animal de compagnie pour améliorer vos statistiques.\n#F Avec cette Horreur, une Moelle peut absorber de la matière organique en elle-même et profiter de la masse et des capacités que possède la créature, la plante ou la personne.§ _2" #NT!
+ CLAY_JARS_PERK_EFFECT: "En tant que [character_interaction|E], vous permet de démarrer un [GetModifier( 'zombu_summon_modifier' ).GetNameWithTooltip|L].\n#F Lorsque deux ou plusieurs Moelles combinent leurs pouvoirs, elles peuvent ressusciter des cadavres comme des zombies insensés pour exécuter leurs ordres.#!" #NT!

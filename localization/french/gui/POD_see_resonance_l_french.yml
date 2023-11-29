@@ -1,0 +1,20 @@
+﻿l_french:
+ CHOLERIC_RESONANCE_01_TT: "#bold Résonance colérique#!\nThis le personnage a du sang avec [choleric_lifestyle|E] négligeable" #NT!
+ CHOLERIC_RESONANCE_02_TT: "#bold Résonance colérique#!\nThis le personnage a du sang avec [choleric_lifestyle|E] éphémère" #NT!
+ CHOLERIC_RESONANCE_03_TT: "#bold Résonance colérique#!\nThis le personnage a du sang avec [choleric_lifestyle|E] intense" #NT!
+ CHOLERIC_RESONANCE_04_TT: "#bold Résonance colérique#!\nThis le personnage a du sang avec aigu [choleric_lifestyle|E]" #NT!
+  
+ PHLEGMATIC_RESONANCE_01_TT: "#bold Résonance flegmatique#!\nThis le personnage a du sang avec [phlegmatic_lifestyle|E] négligeable" #NT!
+ PHLEGMATIC_RESONANCE_02_TT: "#bold Résonance flegmatique#!\nThis le personnage a du sang avec [phlegmatic_lifestyle|E] éphémère" #NT!
+ PHLEGMATIC_RESONANCE_03_TT: "#bold Résonance flegmatique#!\nThis le personnage a du sang avec [phlegmatic_lifestyle|E] intense" #NT!
+ PHLEGMATIC_RESONANCE_04_TT: "#bold Résonance flegmatique#!\nThis le personnage a du sang avec aigu [phlegmatic_lifestyle|E]" #NT!
+  
+ MELANCHOLY_RESONANCE_01_TT: "#bold Résonance mélancolique#!\nThis le personnage a du sang avec [melancholy_lifestyle|E] négligeable" #NT!
+ MELANCHOLY_RESONANCE_02_TT: "#bold Résonance mélancolique#!\nThis le personnage a du sang avec [melancholy_lifestyle|E] éphémère" #NT!
+ MELANCHOLY_RESONANCE_03_TT: "#bold Résonance mélancolique#!\nThis le personnage a du sang avec [melancholy_lifestyle|E] intense" #NT!
+ MELANCHOLY_RESONANCE_04_TT: "#bold Résonance mélancolique#!\nThis le personnage a du sang avec aigu [melancholy_lifestyle|E]" #NT!
+  
+ SANGUINE_RESONANCE_01_TT: "#bold Résonance Sanguine#!\nThis le personnage a du sang avec [sanguine_lifestyle|E] négligeable" #NT!
+ SANGUINE_RESONANCE_02_TT: "#bold Résonance Sanguine#!\nThis le personnage a du sang avec [sanguine_lifestyle|E] éphémère" #NT!
+ SANGUINE_RESONANCE_03_TT: "#bold Résonance Sanguine#!\nThis le personnage a du sang avec [sanguine_lifestyle|E] intense" #NT!
+ SANGUINE_RESONANCE_04_TT: "#bold Résonance Sanguine#!\nThis le personnage a du sang avec aigu [sanguine_lifestyle|E]" #NT!

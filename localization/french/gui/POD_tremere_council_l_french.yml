@@ -1,0 +1,154 @@
+﻿l_french:
+ tab_tremere_council: "#T Conseil Intérieur#!" #NT!
+  
+ tremere_council_tab_tt: "#bold Conseil Intérieur #!" #NT!
+ tremere_council_intro: "Le Conseil Intérieur dirige le Clan Tremere à la place de son fondateur. Chaque conseiller donne une doctrine spécifique au Code de foi Tremere.\nSi un conseiller meurt, se convertit au Code de Tremere ou tombe à 0 influence, il est remplacé par quelqu'un que Tremere lui-même juge digne.\nUn [character_interaction|E] spécial avec les conseillers vous permet de demander une aubaine, ou d'augmenter/entraver leur influence." #NT!
+ council_influence_loc: "Influence" #NT!
+  
+ generic_prowess_council_doctrine_name: "Conseiller Prouesse" #NT!
+ generic_prowess_council_doctrine_desc: "Avoir au moins un conseiller avec une formation en prouesses apporte cette doctrine aux Tremere." #NT!
+ generic_intrigue_council_doctrine_name: "Conseiller d'intrigue" #NT!
+ generic_intrigue_council_doctrine_desc: "Avoir au moins un conseiller avec une formation en intrigue apporte cette doctrine aux Tremere." #NT!
+ generic_stewardship_council_doctrine_name: "Conseiller à l'intendance" #NT!
+ generic_stewardship_council_doctrine_desc: "Avoir au moins un conseiller ayant une formation en intendance apporte cette doctrine aux Tremere." #NT!
+ generic_learning_council_doctrine_name: "Conseiller en apprentissage" #NT!
+ generic_learning_council_doctrine_desc: "Avoir au moins un conseiller avec une formation d'apprentissage apporte cette doctrine aux Tremere." #NT!
+ generic_martial_council_doctrine_name: "Conseiller martial" #NT!
+ generic_martial_council_doctrine_desc: "Avoir au moins un conseiller avec une éducation martiale apporte cette doctrine aux Tremere." #NT!
+ generic_diplomacy_council_doctrine_name: "Conseiller en diplomatie" #NT!
+ generic_diplomacy_council_doctrine_desc: "Avoir au moins un conseiller ayant une formation en diplomatie apporte cette doctrine aux Tremere." #NT!
+ abetorius_council_doctrine_name: "Conseiller Abetorius" #NT!
+ abetorius_council_doctrine_desc: "Malgré de nombreux revers, Abetorius a la confiance de Tremere dans sa capacité à comprendre et à manipuler les intérêts étrangers au profit du clan." #NT!
+ grimgroth_council_doctrine_name: "Conseiller Grimgroth" #NT!
+ grimgroth_council_doctrine_desc: "Grimgroth a trahi ses collègues hermétiques, ouvrant la voie à une guerre sans fin entre eux et l'Ordre de la Raison. Il a été récompensé de manière appropriée par Tremere pour cet acte." #NT!
+ astio_council_doctrine_name: "Conseiller Astio Giavetti" #NT!
+ astio_council_doctrine_desc: "Le vieux mentor est plus à l'aise dans l'exercice de son métier que dans la politique autour du Conseil, ce qui fait de lui une force largement rejetée dans la Pyramide." #NT!
+ leduc_council_doctrine_name: "Conseiller LeDuc" #NT!
+ leduc_council_doctrine_desc: "LeDuc est plus loyal que brillant, mais la loyauté a ses propres avantages." #NT!
+ calderon_council_doctrine_name: "Conseiller Calderon" #NT!
+ calderon_council_doctrine_desc: "Calderon est prompt à la colère et lent à pardonner. Le clan Tremere, qui se déplace lentement, est poussé à l'action par sa colère." #NT!
+ xavier_council_doctrine_name: "Conseiller Xavier de Cincao" #NT!
+ xavier_council_doctrine_desc: "Xavier est un coordinateur compétent, capable de gérer plusieurs dossiers sur une grande région. Sa détermination sur certaines tâches spécifiques frise cependant parfois le pathologique." #NT!
+ meerlinda_council_doctrine_name: "Conseillère Meerlinda" #NT!
+ meerlinda_council_doctrine_desc: "La diplomate Meerlinda est le véritable cœur du Conseil, celle qui maintient la pyramide ensemble malgré tous ses efforts pour s'effondrer." #NT!
+ goratrix_council_doctrine_name: "Conseiller Goratrix" #NT!
+ goratrix_council_doctrine_desc: "Goratrix a perdu sa lutte de pouvoir initiale avec Etrius, mais il en faudra bien plus pour vraiment le retenir." #NT!
+ etrius_council_doctrine_name: "Conseiller Étrius" #NT!
+ etrius_council_doctrine_desc: "Le fidèle est assis au sommet de la pyramide, la maintenant stable à la place de Tremere." #NT!
+  
+ POD_tremere_council_interaction: "Audience avec le conseiller" #NT!
+ POD_tremere_council_interaction_desc: "Utilisez votre piété pour augmenter ou diminuer l'influence du conseiller, ou demandez une faveur." #NT!
+  
+ etrius_boon_modifier: "La faveur d'Etrius" #NT!
+ etrius_boon_modifier_desc: "Une puissante aubaine d'un membre du Cercle Intérieur des Tremere" #NT!
+ goratrix_boon_modifier: "Le bienfait de Goratrix" #NT!
+ goratrix_boon_modifier_desc: "Une puissante aubaine d'un membre du Cercle Intérieur des Tremere" #NT!
+ meerlinda_boon_modifier: "La bénédiction de Meerlinda" #NT!
+ meerlinda_boon_modifier_desc: "Une puissante aubaine d'un membre du Cercle Intérieur des Tremere" #NT!
+ calderon_boon_modifier: "La faveur de Calderon" #NT!
+ calderon_boon_modifier_desc: "Une puissante aubaine d'un membre du Cercle Intérieur des Tremere" #NT!
+ xavier_boon_modifier: "La faveur de Xavier" #NT!
+ xavier_boon_modifier_desc: "Une puissante aubaine d'un membre du Cercle Intérieur des Tremere" #NT!
+ leduc_boon_modifier: "La bénédiction de LeDuc" #NT!
+ leduc_boon_modifier_desc: "Une puissante aubaine d'un membre du Cercle Intérieur des Tremere" #NT!
+ astio_boon_modifier: "La faveur d'Astio" #NT!
+ astio_boon_modifier_desc: "Une puissante aubaine d'un membre du Cercle Intérieur des Tremere" #NT!
+ grimgroth_boon_modifier: "La faveur de Grimgroth" #NT!
+ grimgroth_boon_modifier_desc: "Une puissante aubaine d'un membre du Cercle Intérieur des Tremere" #NT!
+ abetorius_boon_modifier: "Bénédiction d'Abetorius" #NT!
+ abetorius_boon_modifier_desc: "Une puissante aubaine d'un membre du Cercle Intérieur des Tremere" #NT!
+ generic_diplomacy_boon_modifier: "Bénédiction du conseiller diplomatique" #NT!
+ generic_diplomacy_boon_modifier_desc: "Une puissante aubaine d'un membre du Cercle Intérieur des Tremere" #NT!
+ generic_intrigue_boon_modifier: "Aubaine du conseiller d'intrigue" #NT!
+ generic_intrigue_boon_modifier_desc: "Une puissante aubaine d'un membre du Cercle Intérieur des Tremere" #NT!
+ generic_stewardship_boon_modifier: "Aubaine du conseiller en intendance" #NT!
+ generic_stewardship_boon_modifier_desc: "Une puissante aubaine d'un membre du Cercle Intérieur des Tremere" #NT!
+ generic_martial_boon_modifier: "Bénédiction du conseiller martial" #NT!
+ generic_martial_boon_modifier_desc: "Une puissante aubaine d'un membre du Cercle Intérieur des Tremere" #NT!
+ generic_prowess_boon_modifier: "Aubaine du conseiller de prouesse" #NT!
+ generic_prowess_boon_modifier_desc: "Une puissante aubaine d'un membre du Cercle Intérieur des Tremere" #NT!
+ generic_learning_boon_modifier: "Aubaine du conseiller en apprentissage" #NT!
+ generic_learning_boon_modifier_desc: "Une puissante aubaine d'un membre du Cercle Intérieur des Tremere" #NT!
+  
+ pod_tremere_council.2.t: "Une audience avec le conseiller" #NT!
+ pod_tremere_council.2.desc: "Le Conseil Intérieur des Tremere gère la plupart des affaires du clan à la place de Tremere. Comme Tremere est connu pour se réveiller parfois et publier ses propres édits, les Conseillers se battent toujours pour le pouvoir et l'influence, dans l'espoir de plaire à leur maître (ou du moins de ne pas lui déplaire).\nDans cette lutte éternelle, tous les Tremere jouent leur rôle, créer des cliques de followers louant le champion qu’ils ont choisi et espérant en récolter les récompenses le moment venu." #NT!
+ pod_tremere_council.2.a: "Louez le conseiller" #NT!
+ pod_tremere_council.2.b: "Gêner le conseiller" #NT!
+ pod_tremere_council.2.c: "Demandez une aubaine au conseiller" #NT!
+ tremere_council_gain_influence_tt: "Le Conseiller gagnera 10 en influence" #NT!
+ tremere_council_lose_influence_tt: "Le conseiller perdra 10 d'influence.\nSi l'influence atteint 0 ou moins, il sera retiré du Conseil." #NT!
+  
+ pod_tremere_council.4.t: "Sommet de la pyramide" #NT!
+ pod_tremere_council.4.desc: "Un poste vacant au Conseil Intérieur vient de s'ouvrir et, comme toujours, la Pyramide entière attend l'appel de Tremere pour savoir qui sera l'élu. Le processus de réflexion de Tremere à ce sujet est aussi obscur que prévu mais, outre quelques choix « étranges », il semble suivre principalement des lignes politiques. Plus un Tremere est puissant et plus il fait preuve de zèle dans le Code des Tremere, plus il aura de chances d'être nommé dans le Cercle Intérieur.\nEt finalement, après une période d'attente stressante, la nouvelle vous est présentée par les membres actuels du Cercle, Tremere vous a choisi. Certains d'entre eux semblent satisfaits, d'autres mécontents, mais c'est la volonté de Tremere et c'est donc désormais un fait." #NT!
+ pod_tremere_council.4.a: "L'échelle est gravie" #NT!
+  
+ tremere_council_entry_tt: "Vous faites désormais partie du Cercle Intérieur Tremere" #NT!
+  
+ pod_tremere_council.6.t: "Le cercle intérieur" #NT!
+ pod_tremere_council.6.desc: "Le Conseil Intérieur dirige la Maison Tremere à la place de son fondateur. Ces puissants vampires, triés sur le volet par Tremere lui-même, sont les véritables dirigeants du [Clan|E], car le fondateur est soit dans le [torpor|E], soit préoccupé par des affaires plus importantes. À la base, ils sont les cerveaux déterminants de la Maison, et leurs doctrines et politiques doivent être suivies par tous les Tremere fidèles.\n #X Le Cercle Intérieur est une caractéristique déterminante des Tremere fidèles au Code. Vous pouvez y accéder dans un onglet à droite de votre écran.#!" #NT!
+ pod_tremere_council.6.a: "La Pyramide repose sur la discipline" #NT!
+  
+ pod_tremere_council.7.t: "Feud pyramidale" #NT!
+ pod_tremere_council.7.desc: "En tant que puissance suprême du [Clan|E] Tremere, outre le fondateur lui-même évidemment, le Conseil intérieur est un foyer d'intrigues et de rivalités. Chaque Conseiller veut affaiblir ses camarades et s'élever en faveur de Tremere, ce qui entraîne des conflits (souvent assez insignifiants) qui peuvent résonner dans toute la Pyramide.\nUn de ces conflits a éclaté récemment et nombreux sont ceux qui prennent parti, exprimant leurs propres appréhensions et rumeurs sur le des conseillers en conflit pour jeter de l'huile sur le feu." #NT!
+ pod_tremere_council.7.c: "C'est en dessous de moi." #NT!
+ pod_tremere_council.7.a: "[councilor1.GetFirstName] a fait beaucoup de torts..." #NT!
+ pod_tremere_council.7.b: "[councilor2.GetFirstName] n'est pas vraiment fidèle à Tremere !" #NT!
+  
+ pod_tremere_council.8.t: "Louange pyramidale" #NT!
+ pod_tremere_council.8.desc: "La sombre guerre d’influence entre les conseillers se déroule de différentes manières. Rassembler le soutien des influents Tremere en fait partie et un conseiller sollicite votre soutien depuis un certain temps maintenant. De petits gestes, de la flatterie et de la corruption pure et simple ont été utilisés et votre nouvel « ami » vous demande maintenant de dire publiquement à quel point vous l'appréciez." #NT!
+ pod_tremere_council.8.a: "À mon avis objectif, vous êtes le meilleur !" #NT!
+ pod_tremere_council.8.b: "Je suis au-dessus de ces mesquines politiques." #NT!
+ pod_tremere_council.8.c: "Mon soutien vaut sûrement plus..." #NT!
+  
+ pod_tremere_council.9.t: "Connaissance pyramidale" #NT!
+ pod_tremere_council.9.desc: "Vous avez récemment trouvé un livre important concernant vos dernières recherches et heureusement, il est en possession du [Clan|E] Tremere. Plus précisément dans la bibliothèque privée d'un conseiller. Vous pouvez faire une demande d’utilisation formelle (et assez épuisante) ou recourir à une bonne vieille corruption. Après tout, même la connaissance a un prix." #NT!
+ pod_tremere_council.9.a: "Émettez une demande formelle." #NT!
+ pod_tremere_council.9.b: "Un don à la bibliothèque privée s'impose..." #NT!
+ pod_tremere_council.9.c: "None" #NT!
+  
+ pod_tremere_council.10.t: "Patronage pyramidal" #NT!
+ pod_tremere_council.10.desc: "Un conseiller s'intéresse à vous et vous présente une proposition de partenariat de recherche. Ensemble, vous pourriez faire de grands progrès pour percer les secrets du Sang pour [Clan|E] Tremere (et pour vous-même). Cependant, une telle association entre deux puissants thaumaturges a tendance à être difficile à gérer et il pourrait être moins stressant de refuser cette proposition et de continuer à travailler seul." #NT!
+ pod_tremere_council.10.a: "Nous réaliserons de grandes choses !" #NT!
+ pod_tremere_council.10.b: "À temps partiel peut-être ?" #NT!
+ pod_tremere_council.10.c: "Je n'ai besoin d'aucune aide !" #NT!
+  
+ pod_tremere_council.11.t: "Schéma pyramidal" #NT!
+ pod_tremere_council.11.desc: "Alors que vous travailliez sur un autre dossier, vous avez récemment découvert des saletés sur un conseiller. Rien de très important, mais suffisant pour mettre à mal leur influence si cette information sensible devait être rendue publique. Cependant, cela provoquerait probablement une rupture entre vous et eux, et vous pouvez plutôt envisager de leur fournir les informations directement pour gagner une certaine bonne volonté dans cette affaire." #NT!
+ pod_tremere_council.11.a: "La maison Tremere doit connaître la vérité !" #NT!
+ pod_tremere_council.11.b: "Oublions cette indiscrétion." #NT!
+  
+ window_council_session_tooltip: "Une session du Conseil permet au Cercle Intérieur de discuter de la politique Tremere et de fournir des conseils utiles à la Maison... ou simplement de se chamailler sans fin entre eux.\nSeuls les Conseillers peuvent démarrer une session du Conseil.\nUn seul tous les 20 ans est autorisé." #NT!
+ Council_Session: "#V Séance du Conseil#!" #NT!
+  
+ pod_tremere_council.12.t: "Séance du Conseil" #NT!
+ pod_tremere_council.12.desc: "Le Cercle Intérieur se réunit rarement, mais quand ils le font, c'est toujours un événement capital. C'est ici que réside le véritable pouvoir de la Maison Tremere, avec les Conseillers triés sur le volet travaillant sans relâche pour la gloire de toute la Pyramide.\nDu moins, c'est la version officielle.\nLe plus souvent, ces sessions se dissolvent dans des querelles improductives et des injures entre conseillers rivaux et, à part les insultes et les menaces, on n'obtient pas grand-chose. Pourtant, si vous voulez faire une véritable différence dans les affaires du clan, c’est ici que cela se passe." #NT!
+ tremere_council_player_lose_influence_tt: "Vous perdrez 10 d'influence.\nSi l'influence atteint 0 ou moins, vous serez exclu du Conseil Tremere." #NT!
+ tremere_council_gold_tt: "Chaque Tremere loyaliste de niveau duc ou supérieur gagnera 100 pièces d'or." #NT!
+ pod_tremere_council.12.a: "Financez les efforts de nos fidèles membres de la maison !" #NT!
+ tremere_council_military_tt: "Plusieurs options vous seront présentées pour utiliser la partie la plus exotique de l’arsenal Tremere." #NT!
+ pod_tremere_council.12.b: "Nous avons besoin de toute l'aide possible..." #NT!
+ pod_tremere_council.12.c: "Nous devons frapper nos ennemis !" #NT!
+ tremere_council_aggressive_tt: "Chaque Tremere loyaliste de niveau duc ou supérieur bénéficiera d'un modificateur de dix ans, ce qui lui donnera une probabilité accrue d'entrer en guerre et un bonus martial offensif au prix du stress." #NT!
+ pod_tremere_council.12.d: "Renforcer nos défenses est essentiel." #NT!
+ tremere_council_defensive_tt: "Chaque Tremere loyaliste de niveau duc ou supérieur bénéficiera d'un modificateur de dix ans, ce qui lui donnera une probabilité réduite d'entrer en guerre et un bonus martial défensif au prix du stress." #NT!
+ tremere_council_player_gain_influence_tt: "Vous gagnerez 10 points d'influence." #NT!
+ pod_tremere_council.12.e: "Jouez simplement au jeu politique pour cette session." #NT!
+  
+ aggressive_order_modifier: "Doctrine agressive" #NT!
+ aggressive_order_modifier_desc: "Le Cercle Intérieur a décrété que la Pyramide devait être audacieuse contre ses ennemis, et la Maison Tremere obéira." #NT!
+ defensive_order_modifier: "Doctrine défensive" #NT!
+ defensive_order_modifier_desc: "Le Cercle Intérieur a décrété que la Pyramide devait se concentrer sur le renforcement de ses défenses, et la Maison Tremere obéira." #NT!
+  
+ pod_tremere_council.13.t: "Questions militaires" #NT!
+ pod_tremere_council.13.desc: "Ce n’est pas une grande révélation que la Maison Tremere ait beaucoup d’ennemis. Le clan serait tombé depuis longtemps sans son ingéniosité (et son manque de retenue) dans la création de diverses monstruosités engendrées pour la guerre.\nLes gargouilles ne sont que la pointe officielle et visible de l'iceberg. Il existe de nombreuses expériences plus inquiétantes créées par Goratrix et Virstania qui pourraient être déclenchées si le Conseil intérieur devait l'approuver..." #NT!
+ pod_tremere_council.13.a: "Nous avons juste besoin de plus de gargouilles !" #NT!
+ tremere_council_gargoyles_tt: "Chaque niveau de duc loyal ou Tremere loyaliste supérieur obtiendra deux groupes de [GetMaA('gargoyle_warriors').GetName]." #NT!
+ pod_tremere_council.13.b: "Le loup aime-t-il les rats à bec ? Vraiment?" #NT!
+ tremere_council_chitterers_tt: "Le loyaliste Tremere pourra désormais utiliser [GetMaA('chitterers').GetName]." #NT!
+ pod_tremere_council.13.c: "Des coléoptères armés de lames ? Dis m'en plus..." #NT!
+ tremere_council_reapers_tt: "Le loyaliste Tremere pourra désormais utiliser [GetMaA('reapers').GetName]." #NT!
+ pod_tremere_council.13.d: "Un essaim de mangeurs de chair semble amusant..." #NT!
+ tremere_council_skin_eaters_tt: "Le loyaliste Tremere pourra désormais utiliser [GetMaA('skin_eaters').GetName]." #NT!
+ pod_tremere_council.13.e: "Notre armée est très bien dans ce domaine." #NT!
+  
+ pod_gui_nick: "#V '[Character.GetNicknameNoTooltip|U]'#!" #NT!

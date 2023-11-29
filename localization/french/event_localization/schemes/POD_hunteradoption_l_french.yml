@@ -1,0 +1,59 @@
+﻿l_french:
+  
+ POD_hunteradoption.100.t: "Une nouvelle lumière" #NT!
+ POD_hunteradoption.100.desc: "Après une formation approfondie, vous êtes sûr que votre écuyer est prêt à rejoindre le combat contre les ténèbres. Avec cet effort, vous vous assurez que l'œuvre de Dieu vous survivra et se poursuivra jusqu'à l'inévitable victoire. Vous espérez que votre élève fera un jour reculer les forces de l'Enfer par sa simple présence. Mais d’ici là, il reste encore beaucoup de travail à faire…" #NT!
+ POD_hunteradoption.100.option.a: "J'ai enseigné les questions militaires" #NT!
+ POD_hunteradoption.100.option.a.tt: "La période de formation a été stressante, mais vous avez maintenant un nouvel héritier au cas où l'obscurité vous envahirait." #NT!
+ POD_hunteradoption.100.option.b: "L'habileté aux armes était notre objectif principal" #NT!
+ POD_hunteradoption.100.option.b.tt: "La période de formation a été stressante, mais vous avez maintenant un nouvel héritier au cas où l'obscurité vous envahirait." #NT!
+ POD_hunteradoption.100.option.c: "Mon écuyer sait qu'il y a des agents de l'Enfer dans chaque ombre" #NT!
+ POD_hunteradoption.100.option.c.tt: "La période de formation a été stressante, mais vous avez maintenant un nouvel héritier au cas où l'obscurité vous envahirait." #NT!
+ POD_hunteradoption.101.t: "Une nouvelle lumière" #NT!
+ POD_hunteradoption.101.desc: "En tant que cœur battant de l'Inquisition de l'Ombre, les Sœurs de Saint-Jean ont un lourd fardeau qui n'est pas facile à partager. Malgré cela, vous avez confiance dans les capacités de votre nouvel élève après cette période de formation approfondie. Une autre épouse de Dieu est prête à assumer votre manteau si, ou quand, les ténèbres vous envahissent. Un petit réconfort, mais un réconfort quand même." #NT!
+ POD_hunteradoption.101.option.a: "Elle a beaucoup appris" #NT!
+ POD_hunteradoption.101.option.a.tt: "La période de formation a été stressante, mais vous avez maintenant un nouvel héritier au cas où l'obscurité vous envahirait." #NT!
+ POD_hunteradoption.101.option.b: "Elle aidera la Sainte Église à prospérer" #NT!
+ POD_hunteradoption.101.option.b.tt: "La période de formation a été stressante, mais vous avez maintenant un nouvel héritier au cas où l'obscurité vous envahirait." #NT!
+ POD_hunteradoption.101.option.c: "Elle est prête à passer le mot" #NT!
+ POD_hunteradoption.101.option.c.tt: "La période de formation a été stressante, mais vous avez maintenant un nouvel héritier au cas où l'obscurité vous envahirait." #NT!
+ POD_hunteradoption.102.t: "Une nouvelle lumière" #NT!
+ POD_hunteradoption.102.desc: "Souvent décrié, l’Ordre Rouge est néanmoins un élément crucial de l’Inquisition. Poussés par une soif incessante de connaissances, nombre de ses membres se sont souvent retrouvés attirés vers une voie plus sombre. Vous avez enseigné à votre élève du mieux que vous pouviez pour éviter un tel sort." #NT!
+ POD_hunteradoption.102.option.a: "Mon élève a beaucoup appris" #NT!
+ POD_hunteradoption.102.option.a.tt: "La période de formation a été stressante, mais vous avez maintenant un nouvel héritier au cas où l'obscurité vous envahirait." #NT!
+ POD_hunteradoption.102.option.b: "Mon élève aidera la Sainte Église à prospérer" #NT!
+ POD_hunteradoption.102.option.b.tt: "La période de formation a été stressante, mais vous avez maintenant un nouvel héritier au cas où l'obscurité vous envahirait." #NT!
+ POD_hunteradoption.102.option.c: "Mon élève connaît le pouvoir des secrets" #NT!
+ POD_hunteradoption.102.option.c.tt: "La période de formation a été stressante, mais vous avez maintenant un nouvel héritier au cas où l'obscurité vous envahirait." #NT!
+ POD_hunteradoption.103.t: "Une nouvelle lumière" #NT!
+ POD_hunteradoption.103.desc: "Force redoutée à juste titre, même par les autres Inquisiteurs, l'Oculi Dei est la police secrète des Chasseurs. Ils en savent bien plus que ce que la plupart des gens pensent et constituent la source d’informations la plus crédible sur les habitants de la nuit. Les membres de l'Oculi ont tendance à être paranoïaques à l'extrême, voyant des complots partout... mais le plus souvent, ils ont en réalité raison." #NT!
+ POD_hunteradoption.103.option.a: "Ouvre tes yeux!" #NT!
+ POD_hunteradoption.103.option.a.tt: "La période de formation a été stressante, mais vous avez maintenant un nouvel héritier au cas où l'obscurité vous envahirait." #NT!
+ POD_hunteradoption.104.t: "Une nouvelle lumière" #NT!
+ POD_hunteradoption.104.desc: "La famille von Murnau a la bénédiction douteuse de pouvoir « sentir » le mal. En tant que tels, ils sont les Chiens de l'Inquisition et un atout précieux, même si leurs manières non cléricales en font d'étranges compagnons de lit avec les autres ordres. Il est courant qu'un inquisiteur de la famille prenne un autre membre, plus jeune, comme élève jusqu'à ce qu'il soit capable de combattre les ténèbres par lui-même." #NT!
+ POD_hunteradoption.104.option.a: "Mon élève connaît le pouvoir des secrets" #NT!
+ POD_hunteradoption.104.option.a.tt: "La période de formation a été stressante, mais vous avez maintenant un nouvel héritier au cas où l'obscurité vous envahirait." #NT!
+ POD_hunteradoption.104.option.b: "Mon élève aidera la Sainte Église à prospérer" #NT!
+ POD_hunteradoption.104.option.b.tt: "La période de formation a été stressante, mais vous avez maintenant un nouvel héritier au cas où l'obscurité vous envahirait." #NT!
+ POD_hunteradoption.104.option.c: "Mon élève est prêt à diffuser la Parole de Dieu" #NT!
+ POD_hunteradoption.104.option.c.tt: "La période de formation a été stressante, mais vous avez maintenant un nouvel héritier au cas où l'obscurité vous envahirait." #NT!
+ POD_hunteradoption.105.t: "None" #NT!
+ POD_hunteradoption.105.desc: "Il est révolu le temps où le poids de la protection du troupeau fidèle contre les serviteurs des ténèbres était porté seul par Bayezid et Basile. Une nouvelle génération de bergers guidera les âmes pures vers la lumière." #NT!
+ POD_hunteradoption.105.option.a: "Mon élève dirigera la colère des fidèles." #NT!
+ POD_hunteradoption.105.option.a.tt: "La période de formation a été stressante, mais vous avez maintenant un nouvel héritier au cas où l'obscurité vous envahirait." #NT!
+ POD_hunteradoption.105.option.b: "Mon élève attisera les flammes du zèle." #NT!
+ POD_hunteradoption.105.option.b.tt: "La période de formation a été stressante, mais vous avez maintenant un nouvel héritier au cas où l'obscurité vous envahirait." #NT!
+ POD_hunteradoption.106.t: "Une nouvelle lumière" #NT!
+ POD_hunteradoption.106.desc: "Il est révolu le temps où le poids du maintien de l’équilibre entre Shen et le mortel reposait uniquement sur vos épaules. Une nouvelle génération contribuera à maintenir cette paix." #NT!
+ POD_hunteradoption.106.option.a: "Mon élève suivra la trace de Yi." #NT!
+ POD_hunteradoption.106.option.a.tt: "La période de formation a été stressante, mais vous avez maintenant un nouvel héritier au cas où l'obscurité vous envahirait." #NT!
+ POD_hunteradoption.106.option.b: "Mon élève m'aidera à me venger." #NT!
+ POD_hunteradoption.106.option.b.tt: "La période de formation a été stressante, mais vous avez maintenant un nouvel héritier au cas où l'obscurité vous envahirait." #NT!
+ POD_hunteradoption.107.t: "Une nouvelle lumière" #NT!
+ POD_hunteradoption.107.desc: "Il est révolu le temps où le poids de la protection de l’humanité contre les monstres de la nuit reposait sur vos seules épaules. Une nouvelle génération se lèvera et se battra." #NT!
+ POD_hunteradoption.107.option.a: "Mon élève deviendra un leader extraordinaire." #NT!
+ POD_hunteradoption.107.option.a.tt: "La période de formation a été stressante, mais vous avez maintenant un nouvel héritier au cas où l'obscurité vous envahirait." #NT!
+ POD_hunteradoption.107.option.b: "Mon élève rejoindra la cause." #NT!
+ POD_hunteradoption.107.option.b.tt: "La période de formation a été stressante, mais vous avez maintenant un nouvel héritier au cas où l'obscurité vous envahirait." #NT!
+  
+  
+  

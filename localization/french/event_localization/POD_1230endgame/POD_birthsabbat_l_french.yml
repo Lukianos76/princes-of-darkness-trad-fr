@@ -1,0 +1,151 @@
+﻿l_french:
+  
+ PODbirthsabbat.0002.t: "Naissance d'une nouvelle secte" #NT!
+ PODbirthsabbat.0002.desc: "L'hypocrisie et l'arrogance éhontée de la Convention des Épines sont désormais derrière vous, et la « Camarilla » nouvellement créée pense avoir gagné et assuré la fin de la révolte anarch.\nVous le savez mieux. La seule chose dont le mouvement a besoin pour gagner, c’est une direction centralisée forte. Votre direction. Vous y réfléchissez depuis Thorns, et si vous pouviez créer une secte pour vous opposer à la Camarilla ?\nDéjà, la plupart des Anarchs ont rejoint cette nouvelle cause alléchante. Le Sabbat se lève, en serez-vous le héraut ?" #NT!
+ PODbirthsabbat.0002.a: "Caine a besoin d'un régent. Il a besoin de moi." #NT!
+ PODbirthsabbat.0002.b: "...c'est une très mauvaise idée." #NT!
+ sabbat_founder_modifier: "Fondateur du Sabbat" #NT!
+ sabbat_founder_modifier_desc: "Ce personnage est l’un des fondateurs du redouté Sabbat. Toujours protégés par l’impitoyable Main Noire, ils détiennent une autorité considérable en ces temps de conflit sectaire." #NT!
+ sabbat_begins_effect_message: "La plupart des Anarchs ont déjà rejoint le Sabbat naissant." #NT!
+ PODbirthsabbat.0004.t: "Naissance du Sabbat" #NT!
+ PODbirthsabbat.0004.desc: "La Révolte Anarch a reçu un coup puissant avec la Convention des Épines et la naissance de la Camarilla. Le mouvement n'est pas mort pour autant, mais il a renaît en quelque chose de plus... sinistre.\nCette nouvelle secte, se faisant appeler le Sabbat, a pris beaucoup d'ampleur parmi les Anarchs mécontents. Ses principes fondamentaux sont encore assez nébuleux, mais une opposition claire à la Camarilla est apparente, car le [masquerade|E] est plus laxiste et le culte de Caïn lui-même est autorisé. Il reste à voir si ces Anarchs réformés ne seront qu'une nuisance pour le nouvel ordre [cainite|E], ou s'ils seront capables de transformer à nouveau le paysage nocturne." #NT!
+ PODbirthsabbat.0004.a: "Peut-être ont-ils raison ?" #NT!
+ PODbirthsabbat.0004.b: "Ils n'ont aucune chance." #NT!
+ PODbirthsabbat.100.t: "Les chemins de l'illumination" #NT!
+ PODbirthsabbat.100.desc: "Tirant les leçons des Routes de l'Âge des Ténèbres, le Sabbat expérimente de nouvelles Voies de l'Illumination. Les Voies cherchent à réconcilier les croyances et la morale d'un vampire avec sa condition de mort-vivant ; donner à leur non-vie une façon de penser compatible avec les besoins du corps vampirique et les exigences de la Bête. Les chemins sont des modes de moralité actifs, comparés à la passivité de l'humanité. Alors qu'un vampire doté de l'Humanité voit sa boussole morale s'éroder lentement et perd du terrain face à la Bête, un adepte du Chemin le combat ou l'accepte comme faisant partie de lui-même. Comment vais-je décider ?" #NT!
+ PODbirthsabbat.100.a: "Suivez mon instinct." #NT!
+ PODbirthsabbat.100.b: "Étudiez attentivement les alternatives." #NT!
+  
+ PODbirthsabbat.200.t: "Les chemins de l'illumination" #NT!
+ PODbirthsabbat.200.desc: "Après avoir étudié et réfléchi profondément à ma moralité, j'ai choisi de suivre le chemin de..." #NT!
+ PODbirthsabbat.200.a: "Accord honorable" #NT!
+ PODbirthsabbat.200.b: "Le pouvoir et la voix intérieure" #NT!
+ PODbirthsabbat.200.c: "La bête" #NT!
+ PODbirthsabbat.200.d: "Harmonie" #NT!
+ PODbirthsabbat.200.e: "Cathare" #NT!
+ PODbirthsabbat.200.f: "Caïn" #NT!
+ PODbirthsabbat.200.g: "La mort et l'âme" #NT!
+ PODbirthsabbat.200.h: "Vasantasenadharma" #NT!
+ PODbirthsabbat.200.i: "Métamorphose" #NT!
+ PODbirthsabbat.200.j: "Nuit" #NT!
+  
+ POD_sabbat.110.title: "Chasse sauvage" #NT!
+ POD_sabbat.110.desc: "L'institution juridique traditionnelle derrière la Chasse Sauvage est la Lextalionis (ou Lex Talionis), un principe juridique qui peut se résumer par « œil pour œil ». Un tel ordre est généralement donné chaque fois qu'un vampire a commis une infraction grave, telle qu'un meurtre de parenté, une diablerie, une invasion de domaine ayant entraîné l'une des infractions ci-dessus ou un défi répété à l'autorité. Tout vampire qui entend l'ordre d'une chasse sauvage est censé y participer, bien qu'il ne soit pas obligé à moins que le vampire en question n'ait commis des infractions vraiment graves.\nAppellerez-vous vos voisins du Sabbat à se joindre à cette guerre ?" #NT!
+ POD_sabbat.110.a: "Appelle les." #NT!
+ POD_sabbat.110.b: "Je chasse seul." #NT!
+  
+ POD_sabbat.300.opening: "[recipient.Custom2('AppropriateGreeting', actor )]" #NT!
+ POD_sabbat.300.desc: "Mon royaume m'appartient et le restera jusqu'à ce que j'en décide autrement. Votre autorité est reconnue mais votre abus de pouvoir est également constaté. Votre « demande » est refusée." #NT!
+ POD_sabbat.300.a: "Je vais devoir explorer d'autres options..." #NT!
+  
+ POD_sabbat.1001.t: "Sabbat triomphant en Grèce" #NT!
+ POD_sabbat.1001.desc: "La présence du Sabbat en Grèce est devenue dominante.\nSous votre direction, la secte prospère ici et personne ne peut plus nier votre pouvoir. Se déclarer cardinal, l'un des plus grands honneurs de la secte, n'a de sens qu'à ce stade.\nLa force a raison pendant le sabbat et vous avez plus que prouvé votre droit à diriger cette région. Pour la petite Camarilla ou les indépendants restés ici, il ne reste qu'un seul choix. Ils peuvent s'agenouiller devant vous.\nOu ils peuvent mourir." #NT!
+ POD_sabbat.1001.a: "Un honneur dû." #NT!
+ POD_sabbat.1002.t: "Sabbat triomphant au Sahara" #NT!
+ POD_sabbat.1002.desc: "La présence du Sabbat au Sahara est devenue dominante.\nSous votre direction, la secte prospère ici et personne ne peut plus nier votre pouvoir. Se déclarer cardinal, l'un des plus grands honneurs de la secte, n'a de sens qu'à ce stade.\nLa force a raison pendant le sabbat et vous avez plus que prouvé votre droit à diriger cette région. Pour la petite Camarilla ou les indépendants restés ici, il ne reste qu'un seul choix. Ils peuvent s'agenouiller devant vous.\nOu ils peuvent mourir." #NT!
+ POD_sabbat.1002.a: "Un honneur dû." #NT!
+ POD_sabbat.1003.t: "Sabbat triomphant dans les Balkans" #NT!
+ POD_sabbat.1003.desc: "La présence du Sabbat dans les Balkans est devenue dominante.\nSous votre direction, la secte prospère ici et personne ne peut plus nier votre pouvoir. Se déclarer cardinal, l'un des plus grands honneurs de la secte, n'a de sens qu'à ce stade.\nLa force a raison pendant le sabbat et vous avez plus que prouvé votre droit à diriger cette région. Pour la petite Camarilla ou les indépendants restés ici, il ne reste qu'un seul choix. Ils peuvent s'agenouiller devant vous.\nOu ils peuvent mourir." #NT!
+ POD_sabbat.1003.a: "Un honneur dû." #NT!
+ POD_sabbat.1004.t: "Sabbat triomphant dans la Baltique" #NT!
+ POD_sabbat.1004.desc: "La présence du Sabbat dans la Baltique est devenue dominante.\nSous votre direction, la secte prospère ici et personne ne peut plus nier votre pouvoir. Se déclarer cardinal, l'un des plus grands honneurs de la secte, n'a de sens qu'à ce stade.\nLa force a raison pendant le sabbat et vous avez plus que prouvé votre droit à diriger cette région. Pour la petite Camarilla ou les indépendants restés ici, il ne reste qu'un seul choix. Ils peuvent s'agenouiller devant vous.\nOu ils peuvent mourir." #NT!
+ POD_sabbat.1004.a: "Un honneur dû." #NT!
+ POD_sabbat.1005.t: "Sabbat triomphant en Europe centrale" #NT!
+ POD_sabbat.1005.desc: "La présence du Sabbat en Europe centrale est devenue dominante.\nSous votre direction, la secte prospère ici et personne ne peut plus nier votre pouvoir. Se déclarer cardinal, l'un des plus grands honneurs de la secte, n'a de sens qu'à ce stade.\nLa force a raison pendant le sabbat et vous avez plus que prouvé votre droit à diriger cette région. Pour la petite Camarilla ou les indépendants restés ici, il ne reste qu'un seul choix. Ils peuvent s'agenouiller devant vous.\nOu ils peuvent mourir." #NT!
+ POD_sabbat.1005.a: "Un honneur dû." #NT!
+ POD_sabbat.1006.t: "Sabbat triomphant en Russie" #NT!
+ POD_sabbat.1006.desc: "La présence du Sabbat en Russie est devenue dominante.\nSous votre direction, la secte prospère ici et personne ne peut plus nier votre pouvoir. Se déclarer cardinal, l'un des plus grands honneurs de la secte, n'a de sens qu'à ce stade.\nLa force a raison pendant le sabbat et vous avez plus que prouvé votre droit à diriger cette région. Pour la petite Camarilla ou les indépendants restés ici, il ne reste qu'un seul choix. Ils peuvent s'agenouiller devant vous.\nOu ils peuvent mourir." #NT!
+ POD_sabbat.1006.a: "Un honneur dû." #NT!
+ POD_sabbat.1007.t: "Sabbat triomphant en Afrique du Nord" #NT!
+ POD_sabbat.1007.desc: "La présence du Sabbat en Afrique du Nord est devenue dominante.\nSous votre direction, la secte prospère ici et personne ne peut plus nier votre pouvoir. Se déclarer cardinal, l'un des plus grands honneurs de la secte, n'a de sens qu'à ce stade.\nLa force a raison pendant le sabbat et vous avez plus que prouvé votre droit à diriger cette région. Pour la petite Camarilla ou les indépendants restés ici, il ne reste qu'un seul choix. Ils peuvent s'agenouiller devant vous.\nOu ils peuvent mourir." #NT!
+ POD_sabbat.1007.a: "Un honneur dû." #NT!
+ POD_sabbat.1008.t: "Sabbat triomphant en Asie Mineure" #NT!
+ POD_sabbat.1008.desc: "La présence du Sabbat en Asie Mineure est devenue dominante.\nSous votre direction, la secte prospère ici et personne ne peut plus nier votre pouvoir. Se déclarer cardinal, l'un des plus grands honneurs de la secte, n'a de sens qu'à ce stade.\nLa force a raison pendant le sabbat et vous avez plus que prouvé votre droit à diriger cette région. Pour la petite Camarilla ou les indépendants restés ici, il ne reste qu'un seul choix. Ils peuvent s'agenouiller devant vous.\nOu ils peuvent mourir." #NT!
+ POD_sabbat.1008.a: "Un honneur dû." #NT!
+ POD_sabbat.1009.t: "Sabbat triomphant en Europe du Nord" #NT!
+ POD_sabbat.1009.desc: "La présence du Sabbat en Europe du Nord est devenue dominante.\nSous votre direction, la secte prospère ici et personne ne peut plus nier votre pouvoir. Se déclarer cardinal, l'un des plus grands honneurs de la secte, n'a de sens qu'à ce stade.\nLa force a raison pendant le sabbat et vous avez plus que prouvé votre droit à diriger cette région. Pour la petite Camarilla ou les indépendants restés ici, il ne reste qu'un seul choix. Ils peuvent s'agenouiller devant vous.\nOu ils peuvent mourir." #NT!
+ POD_sabbat.1009.a: "Un honneur dû." #NT!
+ POD_sabbat.1010.t: "Sabbat triomphant en Italie" #NT!
+ POD_sabbat.1010.desc: "La présence du Sabbat en Italie est devenue dominante.\nSous votre direction, la secte prospère ici et personne ne peut plus nier votre pouvoir. Se déclarer cardinal, l'un des plus grands honneurs de la secte, n'a de sens qu'à ce stade.\nLa force a raison pendant le sabbat et vous avez plus que prouvé votre droit à diriger cette région. Pour la petite Camarilla ou les indépendants restés ici, il ne reste qu'un seul choix. Ils peuvent s'agenouiller devant vous.\nOu ils peuvent mourir." #NT!
+ POD_sabbat.1010.a: "Un honneur dû." #NT!
+ POD_sabbat.1011.t: "Sabbat triomphant en Britannia" #NT!
+ POD_sabbat.1011.desc: "La présence du Sabbat en Britannia est devenue dominante.\nSous votre direction, la secte prospère ici et personne ne peut plus nier votre pouvoir. Se déclarer cardinal, l'un des plus grands honneurs de la secte, n'a de sens qu'à ce stade.\nLa force a raison pendant le sabbat et vous avez plus que prouvé votre droit à diriger cette région. Pour la petite Camarilla ou les indépendants restés ici, il ne reste qu'un seul choix. Ils peuvent s'agenouiller devant vous.\nOu ils peuvent mourir." #NT!
+ POD_sabbat.1011.a: "Un honneur dû." #NT!
+ POD_sabbat.1012.t: "Sabbat triomphant en France" #NT!
+ POD_sabbat.1012.desc: "La présence du Sabbat en Francia est devenue dominante.\nSous votre direction, la secte prospère ici et personne ne peut plus nier votre pouvoir. Se déclarer cardinal, l'un des plus grands honneurs de la secte, n'a de sens qu'à ce stade.\nLa force a raison pendant le sabbat et vous avez plus que prouvé votre droit à diriger cette région. Pour la petite Camarilla ou les indépendants restés ici, il ne reste qu'un seul choix. Ils peuvent s'agenouiller devant vous.\nOu ils peuvent mourir." #NT!
+ POD_sabbat.1012.a: "Un honneur dû." #NT!
+ POD_sabbat.1013.t: "Sabbat triomphant en Germanie" #NT!
+ POD_sabbat.1013.desc: "La présence du Sabbat en Germanie est devenue dominante.\nSous votre direction, la secte prospère ici et personne ne peut plus nier votre pouvoir. Se déclarer cardinal, l'un des plus grands honneurs de la secte, n'a de sens qu'à ce stade.\nLa force a raison pendant le sabbat et vous avez plus que prouvé votre droit à diriger cette région. Pour la petite Camarilla ou les indépendants restés ici, il ne reste qu'un seul choix. Ils peuvent s'agenouiller devant vous.\nOu ils peuvent mourir." #NT!
+ POD_sabbat.1013.a: "Un honneur dû." #NT!
+ POD_sabbat.1014.t: "Sabbat triomphant en Ibérie" #NT!
+ POD_sabbat.1014.desc: "La présence du Sabbat en Ibérie est devenue dominante.\nSous votre direction, la secte prospère ici et personne ne peut plus nier votre pouvoir. Se déclarer cardinal, l'un des plus grands honneurs de la secte, n'a de sens qu'à ce stade.\nLa force a raison pendant le sabbat et vous avez plus que prouvé votre droit à diriger cette région. Pour la petite Camarilla ou les indépendants restés ici, il ne reste qu'un seul choix. Ils peuvent s'agenouiller devant vous.\nOu ils peuvent mourir." #NT!
+ POD_sabbat.1014.a: "Un honneur dû." #NT!
+ POD_sabbat.1015.t: "Sabbat triomphant en Inde" #NT!
+ POD_sabbat.1015.desc: "La présence du Sabbat en Inde est devenue dominante.\nSous votre direction, la secte prospère ici et personne ne peut plus nier votre pouvoir. Se déclarer cardinal, l'un des plus grands honneurs de la secte, n'a de sens qu'à ce stade.\nLa force a raison pendant le sabbat et vous avez plus que prouvé votre droit à diriger cette région. Pour la petite Camarilla ou les indépendants restés ici, il ne reste qu'un seul choix. Ils peuvent s'agenouiller devant vous.\nOu ils peuvent mourir." #NT!
+ POD_sabbat.1015.a: "Un honneur dû." #NT!
+ POD_sabbat.1016.t: "Le Sabbat triomphant au Moyen-Orient" #NT!
+ POD_sabbat.1016.desc: "La présence du Sabbat au Moyen-Orient est devenue dominante.\nSous votre direction, la secte prospère ici et personne ne peut plus nier votre pouvoir. Se déclarer cardinal, l'un des plus grands honneurs de la secte, n'a de sens qu'à ce stade.\nLa force a raison pendant le sabbat et vous avez plus que prouvé votre droit à diriger cette région. Pour la petite Camarilla ou les indépendants restés ici, il ne reste qu'un seul choix. Ils peuvent s'agenouiller devant vous.\nOu ils peuvent mourir." #NT!
+ POD_sabbat.1016.a: "Un honneur dû." #NT!
+ POD_sabbat.1017.t: "Sabbat triomphant dans les steppes" #NT!
+ POD_sabbat.1017.desc: "La présence du Sabbat dans les Steppes est devenue dominante.\nSous votre direction, la secte prospère ici et personne ne peut plus nier votre pouvoir. Se déclarer cardinal, l'un des plus grands honneurs de la secte, n'a de sens qu'à ce stade.\nLa force a raison pendant le sabbat et vous avez plus que prouvé votre droit à diriger cette région. Pour la petite Camarilla ou les indépendants restés ici, il ne reste qu'un seul choix. Ils peuvent s'agenouiller devant vous.\nOu ils peuvent mourir." #NT!
+ POD_sabbat.1017.a: "Un honneur dû." #NT!
+  
+ POD_sabbat.1100.a: "Le Sabbat est l'avenir." #NT!
+ POD_sabbat.1100.b: "Pas mes affaires." #NT!
+ POD_sabbat.1100.c: "Il faut contre-attaquer !" #NT!
+ POD_sabbat.1101.t: "Sabbat triomphant en Grèce" #NT!
+ POD_sabbat.1101.desc: "La présence du Sabbat en Grèce est devenue dominante. [new_cardinal.GetFirstName] a revendiqué le siège de Cardinal pour cette région. Cela cimente le triomphe du Sabbat dans cette région et entraînera probablement la destruction des derniers résistants non-Sabbat.\nL'Épée de Caïn revendique cette victoire comme un tremplin important vers son triomphe ultime sur les Antédiluviens et leurs serviteurs." #NT!
+ POD_sabbat.1102.t: "Sabbat triomphant au Sahara" #NT!
+ POD_sabbat.1102.desc: "La présence du Sabbat au Sahara est devenue dominante.[new_cardinal.GetFirstName] a revendiqué le siège de Cardinal pour cette région. Cela cimente le triomphe du Sabbat dans cette région et entraînera probablement la destruction des derniers résistants non-Sabbat.\nL'Épée de Caïn revendique cette victoire comme un tremplin important vers son triomphe ultime sur les Antédiluviens et leurs serviteurs." #NT!
+ POD_sabbat.1103.t: "Sabbat triomphant dans les Balkans" #NT!
+ POD_sabbat.1103.desc: "La présence du Sabbat dans les Balkans est devenue dominante. [new_cardinal.GetFirstName] a revendiqué le siège de Cardinal pour cette région. Cela cimente le triomphe du Sabbat dans cette région et entraînera probablement la destruction des derniers résistants non-Sabbat.\nL'Épée de Caïn revendique cette victoire comme un tremplin important vers son triomphe ultime sur les Antédiluviens et leurs serviteurs." #NT!
+ POD_sabbat.1104.t: "Sabbat triomphant dans la Baltique" #NT!
+ POD_sabbat.1104.desc: "La présence du Sabbat dans la Baltique est devenue dominante. [new_cardinal.GetFirstName] a revendiqué le siège de Cardinal pour cette région. Cela cimente le triomphe du Sabbat dans cette région et entraînera probablement la destruction des derniers résistants non-Sabbat.\nL'Épée de Caïn revendique cette victoire comme un tremplin important vers son triomphe ultime sur les Antédiluviens et leurs serviteurs." #NT!
+ POD_sabbat.1105.t: "Le Sabbat triomphant en Europe centrale" #NT!
+ POD_sabbat.1105.desc: "La présence du Sabbat en Europe centrale est devenue dominante. [new_cardinal.GetFirstName] a revendiqué le siège de Cardinal pour cette région. Cela cimente le triomphe du Sabbat dans cette région et entraînera probablement la destruction des derniers résistants non-Sabbat.\nL'Épée de Caïn revendique cette victoire comme un tremplin important vers son triomphe ultime sur les Antédiluviens et leurs serviteurs." #NT!
+ POD_sabbat.1106.t: "Sabbat triomphant en Russie" #NT!
+ POD_sabbat.1106.desc: "La présence du Sabbat en Russie est devenue dominante. [new_cardinal.GetFirstName] a revendiqué le siège de Cardinal pour cette région. Cela cimente le triomphe du Sabbat dans cette région et entraînera probablement la destruction des derniers résistants non-Sabbat.\nL'Épée de Caïn revendique cette victoire comme un tremplin important vers son triomphe ultime sur les Antédiluviens et leurs serviteurs." #NT!
+ POD_sabbat.1107.t: "Sabbat triomphant en Afrique du Nord" #NT!
+ POD_sabbat.1107.desc: "La présence du Sabbat en Afrique du Nord est devenue dominante. [new_cardinal.GetFirstName] a revendiqué le siège de Cardinal pour cette région. Cela cimente le triomphe du Sabbat dans cette région et entraînera probablement la destruction des derniers résistants non-Sabbat.\nL'Épée de Caïn revendique cette victoire comme un tremplin important vers son triomphe ultime sur les Antédiluviens et leurs serviteurs." #NT!
+ POD_sabbat.1108.t: "Sabbat triomphant en Asie Mineure" #NT!
+ POD_sabbat.1108.desc: "La présence du Sabbat en Asie Mineure est devenue dominante.[new_cardinal.GetFirstName] a revendiqué le siège de Cardinal pour cette région. Cela cimente le triomphe du Sabbat dans cette région et entraînera probablement la destruction des derniers résistants non-Sabbat.\nL'Épée de Caïn revendique cette victoire comme un tremplin important vers son triomphe ultime sur les Antédiluviens et leurs serviteurs." #NT!
+ POD_sabbat.1109.t: "Sabbat triomphant en Europe du Nord" #NT!
+ POD_sabbat.1109.desc: "La présence du Sabbat en Europe du Nord est devenue dominante. [new_cardinal.GetFirstName] a revendiqué le siège de Cardinal pour cette région. Cela cimente le triomphe du Sabbat dans cette région et entraînera probablement la destruction des derniers résistants non-Sabbat.\nL'Épée de Caïn revendique cette victoire comme un tremplin important vers son triomphe ultime sur les Antédiluviens et leurs serviteurs." #NT!
+ POD_sabbat.1110.t: "Sabbat triomphant en Italie" #NT!
+ POD_sabbat.1110.desc: "La présence du Sabbat en Italie est devenue dominante. [new_cardinal.GetFirstName] a revendiqué le siège de Cardinal pour cette région. Cela cimente le triomphe du Sabbat dans cette région et entraînera probablement la destruction des derniers résistants non-Sabbat.\nL'Épée de Caïn revendique cette victoire comme un tremplin important vers son triomphe ultime sur les Antédiluviens et leurs serviteurs." #NT!
+ POD_sabbat.1111.t: "Sabbat triomphant en Britannia" #NT!
+ POD_sabbat.1111.desc: "La présence du Sabbat en Britannia est devenue dominante.[new_cardinal.GetFirstName] a revendiqué le siège de Cardinal pour cette région. Cela cimente le triomphe du Sabbat dans cette région et entraînera probablement la destruction des derniers résistants non-Sabbat.\nL'Épée de Caïn revendique cette victoire comme un tremplin important vers son triomphe ultime sur les Antédiluviens et leurs serviteurs." #NT!
+ POD_sabbat.1112.t: "Sabbat triomphant en France" #NT!
+ POD_sabbat.1112.desc: "La présence du Sabbat en France est devenue dominante. [new_cardinal.GetFirstName] a revendiqué le siège de Cardinal pour cette région. Cela cimente le triomphe du Sabbat dans cette région et entraînera probablement la destruction des derniers résistants non-Sabbat.\nL'Épée de Caïn revendique cette victoire comme un tremplin important vers son triomphe ultime sur les Antédiluviens et leurs serviteurs." #NT!
+ POD_sabbat.1113.t: "Sabbat triomphant en Germanie" #NT!
+ POD_sabbat.1113.desc: "La présence du Sabbat en Germanie est devenue dominante.[new_cardinal.GetFirstName] a revendiqué le siège de Cardinal pour cette région. Cela cimente le triomphe du Sabbat dans cette région et entraînera probablement la destruction des derniers résistants non-Sabbat.\nL'Épée de Caïn revendique cette victoire comme un tremplin important vers son triomphe ultime sur les Antédiluviens et leurs serviteurs." #NT!
+ POD_sabbat.1114.t: "Sabbat triomphant en Ibérie" #NT!
+ POD_sabbat.1114.desc: "La présence du Sabbat en Ibérie est devenue dominante.[new_cardinal.GetFirstName] a revendiqué le siège de Cardinal pour cette région. Cela cimente le triomphe du Sabbat dans cette région et entraînera probablement la destruction des derniers résistants non-Sabbat.\nL'Épée de Caïn revendique cette victoire comme un tremplin important vers son triomphe ultime sur les Antédiluviens et leurs serviteurs." #NT!
+ POD_sabbat.1115.t: "Sabbat triomphant en Inde" #NT!
+ POD_sabbat.1115.desc: "La présence du Sabbat en Inde est devenue dominante. [new_cardinal.GetFirstName] a revendiqué le siège de Cardinal pour cette région. Cela cimente le triomphe du Sabbat dans cette région et entraînera probablement la destruction des derniers résistants non-Sabbat.\nL'Épée de Caïn revendique cette victoire comme un tremplin important vers son triomphe ultime sur les Antédiluviens et leurs serviteurs." #NT!
+ POD_sabbat.1116.t: "Le Sabbat triomphant au Moyen-Orient" #NT!
+ POD_sabbat.1116.desc: "La présence du Sabbat au Moyen-Orient est devenue dominante. [new_cardinal.GetFirstName] a revendiqué le siège de Cardinal pour cette région. Cela cimente le triomphe du Sabbat dans cette région et entraînera probablement la destruction des derniers résistants non-Sabbat.\nL'Épée de Caïn revendique cette victoire comme un tremplin important vers son triomphe ultime sur les Antédiluviens et leurs serviteurs." #NT!
+ POD_sabbat.1117.t: "Sabbat triomphant dans les steppes" #NT!
+ POD_sabbat.1117.desc: "La présence du Sabbat dans les Steppes est devenue dominante.[new_cardinal.GetFirstName] a revendiqué le siège de Cardinal pour cette région. Cela cimente le triomphe du Sabbat dans cette région et entraînera probablement la destruction des derniers résistants non-Sabbat.\nL'Épée de Caïn revendique cette victoire comme un tremplin important vers son triomphe ultime sur les Antédiluviens et leurs serviteurs." #NT!
+  
+ POD_sabbat.2001.t: "Le conclave cardinal" #NT!
+ POD_sabbat.2001.desc: "Tous les cardinaux du Sabbat sont désormais présents, démontrant qu'il s'agit d'un événement formidable. Le Sabbat ne reconnaît que Caïn comme son chef, mais jusqu'à son retour glorieux, un régent doit être choisi pour diriger la secte contre ses nombreux ennemis.\nTous les cardinaux ont probablement déjà fait leur choix avant même d'entrer dans la pièce, probablement à cause d'une combinaison d'ambition. , l'autopréservation et les projets à long terme. En fin de compte, un seul d’entre eux sera choisi pour brandir l’épée de Caïn." #NT!
+ POD_sabbat.2001.a: "Excellences, procédez au vote." #NT!
+  
+ POD_sabbat.2101.t: "Candidat : [candidate.GetFirstNameNoTooltip]" #NT!
+ POD_sabbat.2101.desc: "[candidate.GetFirstName|U] a prononcé [candidate.GetHerHis] discours, devriez-vous voter [candidate.GetHerHim] pour Régent ?\nIl est rare que les cardinaux modifient leur vote prévu par rapport à leur plan d'action choisi sur la base d'un simple discours, mais, parfois, ceux-ci peuvent contenir juste assez de menaces voilées ou promet carrément d’influencer un électeur indécis. De toute évidence, le recours à des disciplines est considéré comme un faux pas grossier et aboutit probablement à la disqualification du cardinal... à tout le moins." #NT!
+ POD_sabbat.2101.a: "Je vous ai choisis." #NT!
+ POD_sabbat.2101.b: "Je ne sais pas." #NT!
+  
+ POD_sabbat.2201.t: "Héritier de Caïn" #NT!
+ POD_sabbat.2201.desc: "Le décompte des voix est terminé et vous avez été élu prochain régent. Les cardinaux vous félicitent poliment, certains avec plus d'enthousiasme que d'autres, mais au moins votre victoire est acceptée pour le moment. Le serviteur vous rappelle, comme le veut la tradition, que vous n'avez pas d'autorité absolue et que vous supervisez simplement les fils et les filles de Caïn jusqu'à ce que le Père Ténébreux revienne pour diriger lui-même ses enfants.\nCependant, c'est le niveau le plus élevé auquel on puisse s'élever. la hiérarchie du Sabbat et cela fait de vous l'un des Caïnites les plus puissants politiquement au monde. Il y a du travail à faire, mais vous pouvez accepter un petit moment de fierté pour ce formidable événement." #NT!
+ POD_sabbat.2201.a: "J'utilise l'épée de Caïn." #NT!
+  
+ POD_sabbat.2202.t: "Héritier de Caïn" #NT!
+ POD_sabbat.2202.desc: "Le décompte des votes est terminé et [new_regent.GetFirstName] a été choisi. Les cardinaux les félicitent poliment, certains avec plus d'enthousiasme que d'autres, mais au moins leur victoire est acceptée pour l'instant. Le préposé leur rappelle, comme le veut la tradition, qu'ils n'ont pas d'autorité absolue et qu'ils supervisent simplement les fils et les filles de Caïn jusqu'à ce que le Père Ténébreux revienne pour diriger lui-même ses enfants.\nToutefois, chacun des archevêques ou conseils d'évêques est en fin de compte, il est responsable devant cette autorité et il est probable que cette nomination aura un impact considérable sur le Sabbat dans les années à venir." #NT!
+ POD_sabbat.2202.a: "Félicitations, je suppose." #NT!
+  
+  
+  
+  
+  

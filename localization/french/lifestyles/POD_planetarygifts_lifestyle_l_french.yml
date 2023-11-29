@@ -1,0 +1,172 @@
+﻿l_french:
+ game_concept_planetarygifts_lifestyle: "Cadeaux planétaires" #NT!
+ game_concept_planetarygifts_lifestyle_desc: "Les Dons Planétaires sont des cadeaux de l’Incarna Planétaire." #NT!
+  
+ planetarygifts_lifestyle_name: "Cadeaux planétaires" #NT!
+ planetarygifts_lifestyle_desc: "Concentrez-vous sur le pouvoir qui vient de l’Incarna Planétaire." #NT!
+ planetarygifts_lifestyle_highlight_desc: "Grâce à votre [GetModifier('POD_gnosis_5_modifier').GetNameWithTooltip], vous gagnez #P [GetPlayer.Custom('GetEducationLifestylePercentageBoost')]#! de plus [experience|E] dans ce style de vie." #NT!
+ monthly_planetarygifts_lifestyle_xp_gain_mult: "Cadeaux planétaires mensuels [lifestyle|E] [experience|E]" #NT!
+  
+ GAINS_PLANETARYGIFTS_LIFESTYLE_XP: "Gains $VALUE|V0$ [planetarygifts_lifestyle|E] d'expérience" #NT!
+ GAINED_PLANETARYGIFTS_LIFESTYLE_XP: "Expérience $VALUE|V0$ [planetarygifts_lifestyle|E] acquise" #NT!
+ I_GAIN_PLANETARYGIFTS_LIFESTYLE_XP: "Vous gagnez $VALUE|V0$ [planetarygifts_lifestyle|E] d'expérience" #NT!
+ I_GAINED_PLANETARYGIFTS_LIFESTYLE_XP: "Vous avez gagné $VALUE|V0$ [planetarygifts_lifestyle|E] d'expérience" #NT!
+ TARGET_GAINS_PLANETARYGIFTS_LIFESTYLE_XP: "[CHARACTER.GetShortUIName] gagne $VALUE|V0$ [planetarygifts_lifestyle|E] Expérience" #NT!
+ TARGET_GAINED_PLANETARYGIFTS_LIFESTYLE_XP: "[CHARACTER.GetShortUIName] gagné $VALUE|V0$ [planetarygifts_lifestyle|E] Expérience" #NT!
+  
+ GAINS_A_PLANETARYGIFTS_LIFESTYLE_PERKPOINT: "Gains $VALUE|V0$ [planetarygifts_lifestyle|E] [perk|E] Débloqué" #NT!
+ GAINED_A_PLANETARYGIFTS_LIFESTYLE_PERKPOINT: "Gagné $VALUE|V0$ [planetarygifts_lifestyle|E] [perk|E] Débloqué" #NT!
+ I_GAIN_A_PLANETARYGIFTS_LIFESTYLE_PERKPOINT: "Vous gagnez $VALUE|V0$ [planetarygifts_lifestyle|E] [perk|E] Déverrouillage" #NT!
+ I_GAINED_A_PLANETARYGIFTS_LIFESTYLE_PERKPOINT: "Vous avez gagné $VALUE|V0$ [planetarygifts_lifestyle|E] [perk|E] Déverrouillage" #NT!
+ TARGET_GAINS_A_PLANETARYGIFTS_LIFESTYLE_PERKPOINT: "[CHARACTER.GetShortUIName] gains $VALUE|V0$ [planetarygifts_lifestyle|E] [perk|E] Déverrouillage" #NT!
+ TARGET_GAINED_A_PLANETARYGIFTS_LIFESTYLE_PERKPOINT: "[CHARACTER.GetShortUIName] gagné $VALUE|V0$ [planetarygifts_lifestyle|E] [perk|E] Débloqué" #NT!
+  
+ PLANETARYGIFTS_LIFESTYLE_PERK_POINTS_TRIGGER: "Points d'avantages de style de vie Planetary Gifts : $NUM|V0$" #NT!
+  
+ eshtarragifts_visible: "Terre" #NT!
+ sokhtagifts_visible: "Lune" #NT!
+ katankasonnakgifts_visible: "Soleil" #NT!
+ mitanugifts_visible: "Mercure" #NT!
+ hakahegifts_visible: "Vulcain" #NT!
+ tambiyahgifts_visible: "Vénus" #NT!
+ nerigalgifts_visible: "Mars" #NT!
+ rorggifts_visible: "Turog" #NT!
+ zarokgifts_visible: "Jupiter" #NT!
+ lubatgifts_visible: "Saturne" #NT!
+ ruatmagifts_visible: "Uranus" #NT!
+ shantargifts_visible: "Neptune" #NT!
+ merosgifts_visible: "Pluton" #NT!
+  
+ earth_sense_perk_name: "Sens de la Terre" #NT!
+ herb_call_perk_name: "Appel aux herbes" #NT!
+ oaksong_perk_name: "Chanson de chêne" #NT!
+ lore_of_the_land_perk_name: "Tradition de la terre" #NT!
+ earth_heal_perk_name: "Guérison de la Terre" #NT!
+ lambent_sight_perk_name: "Viseur Lambent" #NT!
+ moonpool_of_sokhta_perk_name: "Bassin lunaire de Sokhta" #NT!
+ moonriver_perk_name: "Rivière de la Lune" #NT!
+ mooncat_perk_name: "Chat de lune" #NT!
+ moondream_perk_name: "Rêve lunaire" #NT!
+ find_the_hearts_flame_perk_name: "Trouvez la flamme des cœurs" #NT!
+ flame_of_the_wind_rider_perk_name: "Flamme du cavalier du vent" #NT!
+ ride_the_solar_winds_perk_name: "Chevauchez les vents solaires" #NT!
+ hand_of_the_sun_perk_name: "Main du Soleil" #NT!
+ cleansing_flame_perk_name: "Flamme purificatrice" #NT!
+ speed_of_the_messenger_perk_name: "Vitesse du messager" #NT!
+ planetarygifts_sticky_fingers_perk_name: "Doigts collants" #NT!
+ planetarygifts_deliberate_misinformation_perk_name: "Désinformation délibérée" #NT!
+ mercurial_messenger_perk_name: "Messager Mercurial" #NT!
+ madthought_perk_name: "Pensée folle" #NT!
+ uncloak_the_hidden_perk_name: "Dévoilez le caché" #NT!
+ shadow_of_the_ebon_whisperer_perk_name: "L'Ombre du Chuchoteur d'Ébène" #NT!
+ hidden_heart_perk_name: "Coeur caché" #NT!
+ whisper_in_the_dark_perk_name: "Murmure dans le noir" #NT!
+ planetarygifts_ebon_binding_perk_name: "Lien d'ébène" #NT!
+ find_the_child_within_perk_name: "Trouvez l'enfant à l'intérieur" #NT!
+ mantle_of_the_land_perk_name: "Manteau de la Terre" #NT!
+ veil_of_the_mother_perk_name: "Voile de la Mère" #NT!
+ motherly_guardian_perk_name: "Gardienne maternelle" #NT!
+ bring_forth_the_future_perk_name: "Faire naître l’avenir" #NT!
+ planetarygifts_battlesense_perk_name: "Sens du combat" #NT!
+ shards_of_icy_rage_perk_name: "Éclats de rage glaciale" #NT!
+ nerigals_call_to_arms_perk_name: "L’appel aux armes de Nerigal" #NT!
+ challenge_of_single_combat_perk_name: "Défi du combat singulier" #NT!
+ heart_of_the_ice_warrior_perk_name: "Cœur du guerrier de glace" #NT!
+ rouse_to_anger_perk_name: "Réveiller la colère" #NT!
+ foetracker_perk_name: "Foetracker" #NT!
+ savagery_of_the_taloned_hunter_perk_name: "Sauvagerie du chasseur à griffes" #NT!
+ hunters_horn_perk_name: "Corne du chasseur" #NT!
+ pack_mind_perk_name: "Esprit de meute" #NT!
+ aura_of_leadership_perk_name: "Aura de leadership" #NT!
+ proclamation_of_action_perk_name: "Proclamation d'action" #NT!
+ planetarygifts_undisputed_ruler_perk_name: "Souverain incontesté" #NT!
+ enthronement_perk_name: "Intronisation" #NT!
+ grand_gesture_perk_name: "Grand geste" #NT!
+ sense_limits_perk_name: "Limites des sens" #NT!
+ peace_of_the_counselor_perk_name: "Paix du Conseiller" #NT!
+ pall_of_despair_perk_name: "Voile de désespoir" #NT!
+ harmonious_slumber_perk_name: "Sommeil harmonieux" #NT!
+ burden_of_knowledge_perk_name: "Fardeau de la connaissance" #NT!
+ find_the_portent_perk_name: "Trouver le présage" #NT!
+ hidden_depths_perk_name: "Profondeurs cachées" #NT!
+ unravel_perk_name: "Démêler" #NT!
+ blank_slate_perk_name: "Ardoise vierge" #NT!
+ diplomatic_immunity_perk_name: "Immunité diplomatique" #NT!
+ threads_of_the_tapestry_perk_name: "Fils de la Tapisserie" #NT!
+ fixit_perk_name: "Répare le" #NT!
+ tangling_the_skein_perk_name: "Enchevêtrer l'écheveau" #NT!
+ shantars_loom_perk_name: "Le métier à tisser de Shantar" #NT!
+ drown_perk_name: "Noyer" #NT!
+ sense_of_the_transformation_perk_name: "Sens de la transformation" #NT!
+ shorten_the_road_perk_name: "Raccourcir la route" #NT!
+ wyld_spirits_perk_name: "Esprits sauvages" #NT!
+ sleeps_travels_perk_name: "Les voyages du sommeil" #NT!
+ essential_transformation_perk_name: "Transformation essentielle" #NT!
+  
+ EARTH_SENSE_PERK_EFFECT: "#F Les Garous peuvent ressentir « l'aura » d'une zone et déterminer si elle est saine ou dégradée.#!" #NT!
+ HERB_CALL_PERK_EFFECT: "#F En chantant ou en chantant, un Garou peut trouver des plantes, des racines ou des écorces utiles ou médicinales même dans les zones pauvres comme les déserts.#!" #NT!
+ OAKSONG_PERK_EFFECT: "#F En utilisant ce Don, un Garou peut communiquer avec des objets inanimés en bois ou toute autre substance organique.#!" #NT!
+ LORE_OF_THE_LAND_PERK_EFFECT: "#F En mangeant, en fumant ou en s'appropriant d'une autre manière une partie du terrain, le Garou peut ressentir des événements qui se sont produits à proximité immédiate dans le passé.#!" #NT!
+ EARTH_HEAL_PERK_EFFECT: "En tant que [character_interaction|E], vous permet de gagner du prestige en supprimant le bâtiment contaminé par le wyrm à l'emplacement de la cible.\n#F Ce don permet au Garou d'aider un morceau de terrain à se remettre d'une flétrissure, d'une souillure de wyrm, d'un empoisonnement ou de tout autre type d'environnement. perturbation.#!" #NT!
+ LAMBENT_SIGHT_PERK_EFFECT: "#F Ce Don permet au Garou de voir dans des circonstances où la vue serait normalement impossible, comme dans des conditions d'obscurité totale ou si le Garou a les yeux bandés.#!" #NT!
+ MOONPOOL_OF_SOKHTA_PERK_EFFECT: "Vous recevrez une notification si quelqu'un a l'intention d'assassiner votre ami de la famille.\nVous recevrez une notification si quelqu'un a l'intention de séduire votre amant ou votre conjoint.\nVotre prisonnier a moins de chances de s'échapper de votre prison.\n#F Ce cadeau permet à un Garou transformer l’eau claire et stagnante en une piscine qui offre des visions d’avenirs possibles.#!" #NT!
+ MOONRIVER_PERK_EFFECT: "#F En utilisant ce don, le Garou peut voyager rapidement à la surface d'une étendue d'eau qui reflète le clair de lune.#!" #NT!
+ MOONCAT_PERK_EFFECT: "Débloquez l'option [GetModifier( 'POD_shapeshift_form_mooncat_modifier' ).GetNameWithTooltip|L] de métamorphose.\n#F Ce cadeau permet au Garou de prendre la forme d'un petit chat blanc. Cette capacité peut s'avérer utile pour pénétrer dans de petits endroits (ou s'en échapper) et rester caché.#!" #NT!
+ MOONDREAM_PERK_EFFECT: "#F Le Garou demande à Sokhta de lui accorder un rêve prophétique avant qu'elle ne s'endorme à la lumière de la lune.#!" #NT!
+ FIND_THE_HEARTS_FLAME_PERK_EFFECT: "#F Grâce à ce don, le Garou peut identifier les sources d'énergie ou de pouvoir, même lorsqu'elles sont cachées ou inconnues.#!" #NT!
+ FLAME_OF_THE_WIND_RIDER_PERK_EFFECT: "#F Ce don rend le Garou plus difficile à endommager en l'engloutissant dans une flamme fantomatique bleu-blanc.#!" #NT!
+ RIDE_THE_SOLAR_WINDS_PERK_EFFECT: "Temps d'évasion d'Umbra : #P -10 %#!\nMonthly Progression de l'exploration d'Umbra : [grace_i]#P +20#!\n#F Ce don permet au Garou de chevaucher les vents solaires qui balayent le royaume éthéré sans craindre d'être dévié de sa trajectoire par les tempêtes.§ _5" #NT!
+ HAND_OF_THE_SUN_PERK_EFFECT: "#F La main du Garou brûle d'une chaleur terrible et dégage une lumière incandescente, semblable à un fer à marquer.#!" #NT!
+ CLEANSING_FLAME_PERK_EFFECT: "#F Le Garou peut localiser une zone (ou un individu) et enflammer la cible avec une flamme intense et purificatrice. Le feu peut brûler toute la souillure du ver ou la pollution d'origine humaine d'une zone ou purifier un individu (à condition que la victime survit) de la souillure du ver.#!" #NT!
+ SPEED_OF_THE_MESSENGER_PERK_EFFECT: "#F Ce Don augmente la vitesse de déplacement du Garou afin qu'il puisse parcourir de longues distances en peu de temps.#!" #NT!
+ PLANETARYGIFTS_STICKY_FINGERS_PERK_EFFECT: "#F Cette astuce enduit les doigts d'un Garou d'une substance argentée qui adhère à tout, permettant ainsi de grimper facilement sur des surfaces verticales.#!" #NT!
+ PLANETARYGIFTS_DELIBERATE_MISINFORMATION_PERK_EFFECT: "#F Le Garou peut glisser des informations confuses et contraires dans la conversation de sa cible, faisant échouer ses plans ou lui faisant souffrir d'une grave panne de communication.#!" #NT!
+ MERCURIAL_MESSENGER_PERK_EFFECT: "#F Ce Don permet à un Garou qui entend une conversation ou à qui on confie un message de se souvenir de ce qu'il a entendu. #!" #NT!
+ MADTHOUGHT_PERK_EFFECT: "#F Les Garous peuvent accélérer si radicalement les processus de pensée de leurs ennemis qu'ils pensent littéralement trop vite pour mettre en œuvre un plan.#!" #NT!
+ UNCLOAK_THE_HIDDEN_PERK_EFFECT: "#F En se concentrant sur une personne, un objet ou une zone, le Garou peut déterminer si sa cible cache quelque chose ou non.#!" #NT!
+ SHADOW_OF_THE_EBON_WHISPERER_PERK_EFFECT: "#F Ce Don rend le Garou aussi insubstantiel qu'une ombre et aussi difficile à voir.#!" #NT!
+ HIDDEN_HEART_PERK_EFFECT: "#F Ce Don permet au Garou de prendre une connaissance dangereuse qu'elle possède et de l'enfermer dans son esprit afin qu'elle devienne inaccessible sans clé.#!" #NT!
+ WHISPER_IN_THE_DARK_PERK_EFFECT: "[espionage|E] Vitesse de progression : #P +[EmptyScope.ScriptValue('digging_for_dirt_perk_percentage')|0]%#!\n#F Ce Don permet au Garou de déterminer un fait préjudiciable à un individu.#!" #NT!
+ WHISPER_IN_THE_DARK_PERK_BONUS_VALUE: "[GetPerk('whisper_in_the_dark_perk').GetName(GetPlayer)]" #NT!
+ PLANETARYGIFTS_EBON_BINDING_PERK_EFFECT: "[espionage|E] Vitesse de progression : #P +[EmptyScope.ScriptValue('digging_for_dirt_perk_percentage')|0]%#!\nAs a [character_interaction|E], vous permet de donner un modificateur [GetModifier('ebon_binding_modifier').GetNameWithTooltip] à une cible qui a [secrets|E] connu de vous.\n#F Ce Don permet au Garou de prendre connaissance de la faute de quelqu'un , pratique ou vice secret et impose une punition appropriée à cette personne.#!" #NT!
+ PLANETARYGIFTS_EBON_BINDING_PERK_BONUS_VALUE: "[GetPerk('planetarygifts_ebon_binding_perk').GetName(GetPlayer)]" #NT!
+ FIND_THE_CHILD_WITHIN_PERK_EFFECT: "#F Avec ce Don, un Garou peut jouer sur la réponse instinctive d'un individu à l'autorité ou à l'affection parentale et convaincre cette personne de suivre un ordre ou de répondre favorablement à une suggestion qu'elle pourrait autrement repousser.#!" #NT!
+ MANTLE_OF_THE_LAND_PERK_EFFECT: "#F Le Garou tire une brume ou un brouillard de l'eau de l'atmosphère.#!" #NT!
+ VEIL_OF_THE_MOTHER_PERK_EFFECT: "#F Ce Don permet au Garou de prendre une apparence différente pendant une courte période afin de confondre les poursuivants ou d'échapper à la détection.#!" #NT!
+ MOTHERLY_GUARDIAN_PERK_EFFECT: "#F Ce Cadeau permet au Garou de « taguer » un individu afin qu'il puisse suivre la santé et le bien-être de sa cible.#!" #NT!
+ BRING_FORTH_THE_FUTURE_PERK_EFFECT: "#F Ce Don permet au Garou de faire appel à Tambiyah pour changer une facette du futur de l'individu.#!" #NT!
+ PLANETARYGIFTS_BATTLESENSE_PERK_EFFECT: "#F Le Garou peut détecter la meilleure direction à partir de laquelle lancer une attaque, en tenant compte du terrain du champ de bataille, du nombre et de l'emplacement de l'ennemi et des forces disponibles sous le commandement du Garou ou alliées avec lui.#!" #NT!
+ SHARDS_OF_ICY_RAGE_PERK_EFFECT: "#F Le Garou invoquant ce Don fait appel à la puissance froide de sa Rage, convertissant sa colère en glace physique.#!" #NT!
+ NERIGALS_CALL_TO_ARMS_PERK_EFFECT: "#F Ce Don permet au Garou d'invoquer à ses côtés toutes créatures d'esprits alliées à Nerigal ou appropriées au Guerrier des Glaces.#!" #NT!
+ CHALLENGE_OF_SINGLE_COMBAT_PERK_EFFECT: "Vous permet d'utiliser le défi rival pour combattre [character_interaction|E] même en guerre.\n#F En invoquant le nom du Guerrier de Glace et en lançant un défi direct à un ennemi, le Garou peut forcer son adversaire à se battre en tête-à-tête selon les règles tacites du fair-play.#!" #NT!
+ HEART_OF_THE_ICE_WARRIOR_PERK_EFFECT: "Vous permet de ne pas mourir à cause de vos blessures.\n#F Habituellement utilisé uniquement dans les circonstances les plus désastreuses, ce don rend le Garou insensible aux dégâts suffisamment longtemps pour porter un coup final à son adversaire.#!" #NT!
+ ROUSE_TO_ANGER_PERK_EFFECT: "En tant que [character_interaction|E], vous permet de dépenser de la Gnose pour gagner de la Rage.\n#F Ce don permet au Garou de dire ou de faire quelque chose qui amène sa cible à rafraîchir sa Rage intérieure.#!" #NT!
+ FOETRACKER_PERK_EFFECT: "#F En utilisant ce Don, le Garou peut suivre sa proie sans risquer de perdre la trace.#!" #NT!
+ SAVAGERY_OF_THE_TALONED_HUNTER_PERK_EFFECT: "En tant que [character_interaction|E], vous permet de dépenser une Rage et une volonté pour gagner deux Rage.\n#F Ce Don permet à un Garou de gagner deux fois l'avantage de sa Rage, augmentant ainsi la férocité et la fréquence des attaques ou bien lui permettant d'accomplir davantage. sous stress qu'il ne le ferait normalement.#!" #NT!
+ HUNTERS_HORN_PERK_EFFECT: "#F Ce don permet au Garou de créer un son si horrible et effrayant qu'il plonge les ennemis dans une panique totale et les fait fuir une zone sans se soucier de la direction ou de la destination.#!" #NT!
+ PACK_MIND_PERK_EFFECT: "Donnez [GetModifier('pack_mind_modifier').GetNameWithTooltip] modificateur à l'ennemi [knights|E] en guerre en tant que commandant ou à l'ennemi en [single_combat_duel|E].\n#F Ce don force un groupe d'ennemis à se comporter comme une meute déterminée.#!" #NT!
+ AURA_OF_LEADERSHIP_PERK_EFFECT: "#F Ce Don entoure le Garou d'une aura d'autorité qui lui permet d'assumer le rôle de leader pendant une brève période de temps.#!" #NT!
+ PROCLAMATION_OF_ACTION_PERK_EFFECT: "#F Ce Don permet au Garou de forcer la fin de la discussion et de prendre la ligne de conduite que le personnage juge la meilleure.#!" #NT!
+ PLANETARYGIFTS_UNDISPUTED_RULER_PERK_EFFECT: "#F Ce Don permet à un Garou de prendre la direction d'un petit rassemblement d'humains ou d'un groupe d'esprits.#!" #NT!
+ ENTHRONEMENT_PERK_EFFECT: "#F Le Garou peut créer des objets petits ou simples à partir de rien, notamment la brume, les nuages ​​ou le vent.#!" #NT!
+ GRAND_GESTURE_PERK_EFFECT: "#F En accordant des cadeaux appropriés à un individu ou à un groupe, le Garou augmente son estime et sa réputation aux yeux des bénéficiaires de ses largesses.#!" #NT!
+ SENSE_LIMITS_PERK_EFFECT: "#F Le Garou peut déterminer approximativement la quantité de Rage, de Gnose ou de Volonté chez un individu.#!" #NT!
+ PEACE_OF_THE_COUNSELOR_PERK_EFFECT: "Débloque le $purchase_truce_interaction$ [interaction|E].\n#F Ce don permet à un Garou de mener à une conclusion pacifique même les discussions les plus animées.#!" #NT!
+ PALL_OF_DESPAIR_PERK_EFFECT: "Donnez un modificateur [GetModifier('pall_of_despair_modifier').GetNameWithTooltip] à l'ennemi [knights|E] en guerre en tant que commandant ou à l'ennemi dans [single_combat_duel|E].\n#F Ce don inflige une vague de désespoir à un individu ciblé, rendant la victime incapable d'agir en raison de sentiments de profonde mélancolie.§ _4" #NT!
+ HARMONIOUS_SLUMBER_PERK_EFFECT: "#F Ce Don permet au Garou de créer un environnement parfait pour dormir même dans les circonstances les plus difficiles.#!" #NT!
+ BURDEN_OF_KNOWLEDGE_PERK_EFFECT: "En tant que [character_interaction|E], permettez-vous de faire gagner à la victime [GetModifier('murderous_frenzy_modifier').GetNameWithTooltip], [GetModifier('change_for_better_modifier').GetNameWithTooltip] ou suicide.\n#F Le Garou inonde un individu de la connaissance de toutes ses propres limites, faisant prendre conscience à la victime de chaque défaut ou échec et lui rappelant de tous les torts qu'elle a commis ou causés.#!" #NT!
+ FIND_THE_PORTENT_PERK_EFFECT: "#F Avec ce Don, un Garou peut appeler et recevoir un présage ou un présage qui peut l'aider à déterminer son prochain plan d'action.#!" #NT!
+ HIDDEN_DEPTHS_PERK_EFFECT: "#F Ce Don permet à un Garou de découvrir une information cachée ou de déchiffrer un passage énigmatique d'un texte.#!" #NT!
+ UNRAVEL_PERK_EFFECT: "#F Ce Don permet au Garou de rassembler des informations apparemment aléatoires pour former une tentative d'analyse d'une situation et de formuler un plan d'action.#!" #NT!
+ BLANK_SLATE_PERK_EFFECT: "#F Le Garou peut supprimer complètement une seule information de son propre esprit ou de celui d'un autre.#!" #NT!
+ DIPLOMATIC_IMMUNITY_PERK_EFFECT: "#F Ce Don permet au Garou de se promener au milieu d'un groupe hostile sans provoquer le déclenchement des hostilités.#!" #NT!
+ THREADS_OF_THE_TAPESTRY_PERK_EFFECT: "#F Ce Don permet au Garou de déterminer les éléments fondamentaux d'une situation qui semble confuse ou volontairement obscurcie.#!" #NT!
+ FIXIT_PERK_EFFECT: "#F Le Garou peut découvrir ce qui ne va pas avec un appareil et effectuer des réparations sur place qui permettent à l'élément de fonctionner ou de fonctionner pendant une courte période.#!" #NT!
+ TANGLING_THE_SKEIN_PERK_EFFECT: "#F Ce Don permet au Garou de semer la confusion parmi ses ennemis en mélangeant leurs perceptions afin qu'ils ne puissent pas décider qui suivre ou quoi faire ensuite.#!" #NT!
+ SHANTARS_LOOM_PERK_EFFECT: "#F L'utilisation de ce don permet au Garou de fabriquer un objet à partir de l'énergie fournie par la Gnose, la Rage ou la Volonté.#!" #NT!
+ DROWN_PERK_EFFECT: "#F Ce don fait remplir les poumons d'un adversaire de liquide. La victime doit recevoir une assistance médicale ou magique immédiate ou mourir en quelques minutes.#!" #NT!
+ SENSE_OF_THE_TRANSFORMATION_PERK_EFFECT: "Si l'un de vos proches ou amis est assassiné dans des circonstances mystérieuses, vous connaîtrez son meurtrier.\n#F Grâce à ce don, le Garou peut identifier les états de transformation ou les changements significatifs au sein des créatures ou des objets.#!" #NT!
+ SHORTEN_THE_ROAD_PERK_EFFECT: "Temps d'évasion de l'Umbra : #P -10 %#!\nMonthly Progression de l'exploration de l'Umbra : [grace_i]#P +20#!\n#F Ce don permet aux Garous de réduire d'un tiers le temps de voyage normal, même dans l'Umbra.#!" #NT!
+ WYLD_SPIRITS_PERK_EFFECT: "Donnez un modificateur [GetModifier('erratic_behavior_modifier').GetNameWithTooltip] à l'ennemi [knights|E] en guerre en tant que commandant ou à l'ennemi en [single_combat_duel|E].\n#F Le Garou peut faire appel à la nature erratique de Meros et infliger à un ou plusieurs de ses adversaires un comportement erratique, rendant ainsi il est plus difficile pour les victimes de coordonner leurs attaques ou d'agir de manière raisonnable dans une situation donnée.#!" #NT!
+ SLEEPS_TRAVELS_PERK_EFFECT: "#F Grâce à ce Don, l'esprit d'un Garou peut voyager vers un autre endroit pendant que son corps dort.#!" #NT!
+ ESSENTIAL_TRANSFORMATION_PERK_EFFECT: "En tant que [character_interaction|E], vous permet d'augmenter les blessures pour gagner la Gnose.\n#F Ce Don permet au Garou de convertir une partie de son essence en Gnose pour l'utiliser dans des situations qui nécessitent la dépense de grandes quantités de puissance spirituelle.#!" #NT!

@@ -1,0 +1,77 @@
+﻿l_french:
+  
+ POD_daimonion_events.1000.title: "Ressentez le péché - La lutte" #NT!
+ POD_daimonion_events.1000.desc: "Même avec des pouvoirs démoniaques, les barrières d’ignorance que les imbéciles élèvent pour contenir leurs propres désirs sont difficiles à abattre. C'est à vous de vous glisser dans l'esprit [recipient.GetFirstNamePossessive] et de les libérer. Mais d’abord, vous devez percer." #NT!
+ POD_daimonion_events.1000.option.a: "Le pouvoir du sang est suffisant." #NT!
+ POD_daimonion_events.1000.a.tt_true_faith: "Leur Foi me résiste !" #NT!
+ POD_daimonion_events.1000.a.success.desc: "La victoire!" #NT!
+ POD_daimonion_events.1000.a.failure.desc: "Perte" #NT!
+ POD_daimonion_events.1000.a.tt_success: "Leurs péchés grandiront et les consumeront" #NT!
+ POD_daimonion_events.1000.a.tt_failure: "[recipient.GetSheHe] restera hors de portée" #NT!
+ POD_daimonion_events.1000.option.b: "Ma propre volonté brisera leurs défenses !" #NT!
+ POD_daimonion_events.1000.option.c: "Ce soir n'est pas le bon moment...." #NT!
+ POD_daimonion_events.1000.option.c.tt: "Abandonner" #NT!
+ POD_daimonion_events.1000.option.b.tt.beast: "#R Je pensais que j'étais le méchant ici....#!" #NT!
+ POD_daimonion_events.2000.title: "Ressentez le péché - Triomphe" #NT!
+ POD_daimonion_events.2000.desc: "J'ai brisé les défenses mentales, le pouvoir démoniaque tordant et corrompant [recipient.GetName]." #NT!
+ POD_daimonion_events.2000.option_a: "Une autre âme sur ma liste" #NT!
+ POD_daimonion_events.3000.title: "Ressentez le péché - Souli" #NT!
+ POD_daimonion_events.3000.desc: "Toute votre vie, vous avez refoulé vos émotions, vos besoins. Vous avez écouté les autres vous dire ce qui est bien et ce qui ne va pas. Vous vous êtes réprimé et vous vous êtes poussé à devenir meilleur.\n[AddTextIf( PlayerHasBeast, '#R Why?#!\n' )]Pas plus. Vous savez ce que vous voulez, ce que vous devez faire." #NT!
+ POD_daimonion_events.3000.desc.auspex: "Pourtant, quelque chose ne va pas. Ces sentiments, ils ne viennent pas de vous. Vous voyez des visions d'un être... Un homme ? Femme? Démon? Dur à dire. Mais vos sens surnaturels vous crient un nom - [actor.GetFirstNameNoTooltip]" #NT!
+ POD_daimonion_events.3000.option_a: "Ça fait du bien" #NT!
+ POD_daimonion_events.4000.title: "Ressentez le péché - Échec" #NT!
+ POD_daimonion_events.4000.desc: "Ce n'était pas la nuit pour que votre cible succombe à ses péchés, mais ce n'est qu'une question de temps : tous les anges tombent et vous les attendrez lorsqu'ils arriveront en enfer." #NT!
+ POD_daimonion_events.4000.option_a: "Bientôt....." #NT!
+ POD_daimonion_events.5000.title: "Psychomachie – Le résultat" #NT!
+ POD_daimonion_events.5000.option.loss: "Bonjour ténèbres, vieil ami...." #NT!
+ POD_daimonion_events.5000.option.loss.ct: "Vous gagnerez plusieurs nouveaux péchés, avec leur version amplifiée" #NT!
+ POD_daimonion_events.5000.option.victory: "Le plus grand héros est celui qui se maîtrise" #NT!
+ POD_daimonion_events.5000.desc.victory: "Vous avez combattu les pires parties de vous-même : les péchés, les défauts et les ténèbres. Et tu as gagné. Les ténèbres sont toujours à l'intérieur de vous, mais maintenant elles vous répondent.\n\nLe pouvoir de vos péchés vous appartient." #NT!
+ POD_daimonion_events.5000.desc.loss: "Tout a été si soudain : la manifestation est apparue de nulle part et a attaqué avec la force de chaque partie irrégulière et imparfaite de vous-même. C'était sans espoir... Comment aurais-tu pu combattre une créature qui incarne tout ce qui te rend si faible ?\n\n Vous ne pouvez pas. Il vaut mieux abandonner." #NT!
+ POD_daimonion_events.5000.loss.toast: "[recipient.GetFirstName] perdu" #NT!
+ POD_daimonion_events.5000.loss.toast.torpor: "Ils sont rapidement tombés dans le [torpor|E] pour s'échapper" #NT!
+ POD_daimonion_events.5000.loss.toast.sins: "Ils ont succombé à la dépravation" #NT!
+ POD_daimonion_events.5000.victory.toasttitle: "[recipient.GetFirstName] gagné" #NT!
+ POD_daimonion_events.5000.victory.toast: "[recipient.GetFirstName] ont pris le contrôle de leurs propres péchés" #NT!
+ POD_daimonion_events.5001.title: "Psychomachie - Le début" #NT!
+ POD_daimonion_events.5001.desc: "Une bataille avec les parties les plus sombres de la psyché – tel est le sort que vous avez décrété au [recipient.GetName]. Hélas, ils ne connaissent pas la valeur d’une telle confrontation et tentent de résister. Que la brèche commence." #NT!
+ POD_daimonion_events.5001.a.tt_success: "La lutte va commencer" #NT!
+ POD_daimonion_events.5001.a.tt_failure: "[recipient.GetSheHe] restera en sécurité dans l'ignorance" #NT!
+ POD_daimonion_events.5001.power_fail: "La psychomachie a échoué" #NT!
+ invite_infernalist_decision: "Leurre Infernaliste" #NT!
+ invite_infernalist_decision_desc: "En plongeant dans votre propre pouvoir pervers, trouvez un mortel mêlé à des démons et attirez-le vers vous." #NT!
+ invite_infernalist_decision_tooltip: "Amenez un infernaliste talentueux à votre service" #NT!
+ invite_infernalist_decision_effect_tooltip: "Un Infernaliste rejoint votre cour" #NT!
+ invite_infernalist_decision_tp: "L'obscurité fournit....." #NT!
+ invite_infernalist_decision_confirm: "Comme une araignée dans une toile...." #NT!
+ POD_daimonion_events.6000.title: "La chute" #NT!
+ POD_daimonion_events.6000.desc: "Vous avez passé des mois à vous frayer un chemin dans l'esprit du [recipient.GetFirstNamePossessive], à mettre en doute leur chemin et à louer le pouvoir des démons. Vous avez utilisé de sombres dons pour découvrir leurs faiblesses et apaiser leurs douleurs. Il est désormais temps de terminer leur descente." #NT!
+ POD_daimonion_events.6000.option.a: "Ce sera un jeu d'enfant." #NT!
+ POD_daimonion_events.6000.a.tt_true_faith: "Leur Foi me résiste !" #NT!
+ POD_daimonion_events.6000.a.success.desc: "La victoire!" #NT!
+ POD_daimonion_events.6000.a.failure.desc: "Perte" #NT!
+ POD_daimonion_events.6000.a.tt_success: "Ils serviront les maîtres des ténèbres !" #NT!
+ POD_daimonion_events.6000.a.tt_failure: "[recipient.GetSheHe] restera hors de portée" #NT!
+ POD_daimonion_events.6000.option.b: "Ma propre volonté brisera leurs défenses !" #NT!
+ POD_daimonion_events.6000.option.c: "Ce soir n'est pas le bon moment...." #NT!
+ POD_daimonion_events.6000.option.c.tt: "Abandonner" #NT!
+ POD_daimonion_events.6000.option.b.tt.beast: "#R Je pensais que j'étais le méchant ici....#!" #NT!
+ POD_daimonion_events.7000.title: "La Chute - Triomphe" #NT!
+ POD_daimonion_events.7000.desc: "C'est fait. [recipient.GetFirstName] est tombé du côté obscur et va désormais se soumettre et servir les grands êtres obscurs." #NT!
+ POD_daimonion_events.7000.option_a: "Le travail du seigneur des ténèbres n'est jamais terminé" #NT!
+ POD_daimonion_events.8000.title: "La Chute - La Descente" #NT!
+ POD_daimonion_events.8000.desc: "Pourquoi pas? Honnêtement. Ils offrent tellement. donner tellement. Les démons m'accorderont ce que je veux, et tout ce que j'ai à faire en retour est une faveur occasionnelle ? Enregistre-moi. Les gens disent qu’ils sont méchants, mais les gens le sont aussi. C'est juste que les princes ne paient pas autant que les démons." #NT!
+ POD_daimonion_events.8000.option_a: "Ça fait du bien" #NT!
+ POD_daimonion_events.9000.title: "La Chute - L'Échec" #NT!
+ POD_daimonion_events.9000.desc: "Malgré tous vos efforts, votre victime a choisi de rester aveugle. Dommage, vous vouliez leur épargner l'ère des ténèbres à venir... Eh bien, vous devrez réessayer un jour." #NT!
+ POD_daimonion_events.9000.option_a: "Bientôt..." #NT!
+ tempt_ct: "Lancez un plan pour inciter la cible à l'infernalisme." #NT!
+ demonic_plague_contraction: "Peste démoniaque contractée" #NT!
+ demonic_plague_contraction_ct: "Vous êtes tombé malade de la redoutable peste démoniaque, condamné à mourir d’une mort lente et angoissante." #NT!
+ demonic_plague_wound: "La peste démoniaque progresse" #NT!
+ demonic_plague_overcome: "La peste démoniaque a résisté" #NT!
+ demonic_plague_overcome_ct: "Au moins pendant un certain temps, votre vitalité et votre force retiennent la peste à distance. Continuez ainsi et vous pourrez le surmonter." #NT!
+ demonic_plague_overcome_complete: "Surmonter la peste démoniaque" #NT!
+ demonic_plague_overcome_complete_ct: "Vous avez vaincu la redoutable peste démoniaque et l’avez purgée de votre système !" #NT!
+  
+  

@@ -1,0 +1,33 @@
+﻿l_french:
+  
+ pod_power_struggle_diarchy_type: "Lutte pour le pouvoir" #NT!
+ pod_power_struggle_diarch_title: "Diabète" #NT!
+ pod_diarch_domain_limit_bonus: "Soutien de Diarch" #NT!
+ pod_diarch_stress_malus: "Dans une lutte de pouvoir" #NT!
+ pod_diarch_prestige_bonus: "Participer à une lutte de pouvoir" #NT!
+ diarch_value_good_ventrue_name: "Le clan avant les rancunes personnelles" #NT!
+ POD_start_powerstruggle_decision: "Commencer une lutte de pouvoir" #NT!
+ POD_start_powerstruggle_decision_desc: "Votre seigneurie est faible mais une guerre civile pourrait coûter cher. Il existe cependant d'autres moyens d'obtenir la puissance dont vous rêvez..." #NT!
+ POD_start_powerstruggle_decision_tooltip: "Le royaume a besoin d’un changement de leadership !" #NT!
+ POD_start_powerstruggle_decision_effect_tooltip: "Vous menacerez votre suzerain pour vous donner plus de pouvoir.\nS'ils acceptent, cela déclenchera une diarchie de lutte pour le pouvoir, avec vous comme diarch.\nS'ils refusent, cela leur coûtera beaucoup de prestige et gagnera leur inimitié." #NT!
+ POD_start_powerstruggle_decision_confirm: "Voici mes revendications !" #NT!
+ diarchy_prestige_tt: "Tu dois avoir plus de prestige que ton suzerain" #NT!
+ diarchy_military_tt: "Vous devez avoir une force militaire maximale (représentée par le nombre de prélèvements) supérieure à celle de votre suzerain." #NT!
+ POD_diarchy_events.0002.t: "Votre leadership contesté !" #NT!
+ POD_diarchy_events.0002.desc: "Un de vos vassaux ambitieux a récemment tenté de contester votre pouvoir. Utilisant leur puissante force militaire, leur grand prestige et le fait qu'ils ne vous aiment pas beaucoup, ils demandent maintenant ouvertement une nouvelle répartition du pouvoir dans votre royaume.\nCe sera un cas difficile à combattre maintenant que leur demande est terminé, mais vous pouvez encore faire un dernier effort pour les réduire. L’option alternative serait d’accepter leurs demandes ; après tout, un tel arrangement pourrait présenter certains avantages." #NT!
+ POD_diarchy_events.0002.a: "C'est MON royaume !" #NT!
+ liege_warning_diarchy_tt: "Cela est dû au fait que ce vassal a plus de prestige, de force militaire (nombre de levées) et une faible opinion de vous.\nSi vous refusez leur demande maintenant, ils pourront la présenter à nouveau dans 10 ans, à condition qu'ils remplissent toujours les conditions préalables. ." #NT!
+ POD_diarchy_events.0002.b: "Le royaume pourrait bénéficier d’un tel bouleversement." #NT!
+ POD_diarchy_events.0003.t: "Tyran!" #NT!
+ POD_diarchy_events.0003.desc: "Votre « offre » parfaitement légitime d’établir une nouvelle division du pouvoir dans votre royaume a été refusée par votre seigneur tyrannique. Cela leur a coûté une bonne part de légitimité aux yeux du royaume et pourrait vous ouvrir de nouvelles opportunités à l’avenir. Cela les a également mis en colère, mais il s’agit clairement d’un petit prix à payer pour accéder au pouvoir." #NT!
+ POD_diarchy_events.0003.a: "Le temps est de mon côté." #NT!
+ POD_diarchy_events.0004.t: "Vive le Diarch !" #NT!
+ POD_diarchy_events.0004.desc: "Votre « offre » parfaitement légitime d’établir une nouvelle division du pouvoir dans votre royaume a été acceptée par votre sage suzerain. C’est une formidable occasion pour vous de montrer de quoi vous êtes capable. Peut-être que si vous faites un assez bon travail et parvenez à mettre votre seigneur sur la touche pendant le processus, vous pourrez peut-être convaincre le royaume qu'un changement complet de leadership s'impose..." #NT!
+ POD_diarchy_events.0004.a: "Ma première réforme sera..." #NT!
+ POD_end_powerstruggle_decision: "Abandonner la lutte pour le pouvoir" #NT!
+ POD_end_powerstruggle_decision_tooltip: "Il est temps de mettre fin à ces absurdités." #NT!
+ POD_end_powerstruggle_decision_desc: "Certaines luttes de pouvoir n’aboutissent à rien et finissent par affaiblir les deux partis. Il est peut-être temps d'abandonner cette mascarade et de rendre le pouvoir que vous avez pris à votre suzerain." #NT!
+ POD_end_powerstruggle_decision_confirm: "Il existe d’autres moyens d’acquérir le pouvoir." #NT!
+  
+  
+  

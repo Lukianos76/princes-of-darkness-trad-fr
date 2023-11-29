@@ -1,0 +1,20 @@
+﻿l_french:
+ POD_hunt_target_interaction: "Chasse" #NT!
+ POD_hunt_target_interaction_desc_vampire: "Partez sur un [journey|E] pour chasser le [recipient.GetShortUINameNoTooltip]. Vous pourrez drainer [recipient.GetHerHis] du sang pour reconstituer vos réserves." #NT!
+ POD_hunt_target_interaction_effect_vampire: "Vous partirez sur un [journey|E] pour chasser [recipient.GetShortUIName] et boire du sang [recipient.GetHerHis|l]." #NT!
+ POD_hunt_target_interaction_desc_chi: "Partez sur un [journey|E] pour chasser le [recipient.GetShortUINameNoTooltip]. Vous pourrez drainer [recipient.GetHerHis] Chi pour reconstituer vos réserves." #NT!
+ POD_hunt_target_interaction_effect_chi: "Vous partirez sur un [journey|E] pour chasser [recipient.GetShortUIName] et drainer [recipient.GetHerHis|l] Chi." #NT!
+ POD_hunt_target_interaction_desc_banemummy: "Partez sur un [journey|E] pour chasser le [recipient.GetShortUINameNoTooltip]. Vous pourrez manger [recipient.GetHerHis] de chair pour reconstituer votre Sekhem." #NT!
+ POD_hunt_target_interaction_effect_banemummy: "Vous partirez sur un [journey|E] pour chasser [recipient.GetShortUIName] et manger [recipient.GetHerHis|l] de la chair." #NT!
+ POD_hunt_target_interaction_monthly: "Le [journey|E] aura un [planning_speed|E] de $five_months_monthly_num$ par mois." #NT!
+  
+ POD_wake_from_torpor_interaction: "Trouver une cachette" #NT!
+ POD_wake_from_torpor_interaction_desc: "Partez sur un [journey|E] pour connaître la localisation exacte de ce vampire engourdi. Ensuite, vous pourriez inviter [recipient.GetHerHim] dans votre cour, ou attaquer [recipient.GetHerHim]..." #NT!
+ POD_wake_from_torpor_interaction_effect: "Vous partirez sur un [journey|E] pour tenter de connaître la localisation exacte de ce vampire engourdi. La chasse est alors ouverte. Il y a évidemment de sérieux risques à encourir..." #NT!
+ POD_wake_from_torpor_interaction_monthly: "#help Le [planning_speed|E] de ce [journey|E] est basé sur le [intrigue_skill|E] de vous et de votre cible.#!" #NT!
+  
+ POD_assault_lair_interaction: "Trouver le repaire" #NT!
+ POD_assault_lair_interaction_desc: "Partez sur un [journey|E] pour connaître l'emplacement exact de ce démon. La chasse est alors ouverte. Il y a évidemment de sérieux risques à encourir..." #NT!
+ POD_assault_lair_interaction_effect: "Vous partirez sur un [journey|E] pour connaître l'emplacement exact de ce démon. La chasse est alors ouverte. Il y a évidemment de sérieux risques à encourir..." #NT!
+ POD_assault_lair_interaction_monthly: "#help Le [planning_speed|E] de ce [journey|E] est basé sur de nombreux facteurs, comme l'âge, le rang, le [intrigue|E], [masquerade_exposure|E] et autres de votre cible.#!" #NT!
+ POD_assault_lair_interaction_instant: "#help Parce que vous avez [GetModifier('tracked_down_modifier').GetNameWithTooltip|L] votre cible, le [journey|E] se terminera instantanément.#!" #NT!

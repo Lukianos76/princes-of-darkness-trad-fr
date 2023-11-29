@@ -1,0 +1,246 @@
+﻿l_french:
+  
+ POD_education_events.1.t: "Une éducation" #NT!
+ POD_education_events.1.desc: "Votre nouvel enfant a fait [victim.GetHerHis] premiers pas hésitants dans la nuit. Maintenant suffisamment expérimenté pour comprendre comment se nourrir, il sera bientôt temps de commencer une éducation formelle, ce qui sera très important pour [victim.GetHerHis] l'avenir, mais aussi pour votre relation. Quelle sera votre approche ?" #NT!
+ POD_education_events.1.option.a: "Enseigner [victim.GetFirstName] [victim.GetHerHis] lieu" #NT!
+ POD_education_events.1.option.b: "Gardez [victim.GetHerHim] proche, mais avec quelques libertés" #NT!
+ POD_education_events.1.option.c: "[victim.GetFirstName] le comprendra tout seul [victim.GetHerHis]" #NT!
+ POD_education_events.1.option.obedience: "Cette éducation peut fournir à des enfants obéissants, même s'ils manquent d'inspiration." #NT!
+ POD_education_events.1.option.lenient: "Une éducation équilibrée" #NT!
+ POD_education_events.1.option.free: "Avec cette éducation, [victim.GetFirstName] a plus de chances de devenir bon, mais aussi plus libre d'esprit." #NT!
+ POD_education_events.1.option.d: "Appliquez vos compétences pédagogiques magistrales" #NT!
+ POD_education_events.1.option.durga: "En tant que Durga Syn, vous pouvez vous assurer que votre enfant deviendra parfait pour les premiers pas [victim.GetHerHis] avec cette option unique" #NT!
+ POD_education_events.2.t: "Une éducation : Le bâton" #NT!
+ POD_education_events.2.desc: "Les jeunes d'aujourd'hui... Vous avez à peine commencé à enseigner aux imbéciles que vous entendez des plaintes sur la façon « dure » et « injuste » dont vous faites les choses. Comme si [victim.GetSheHe] apprenait le contraire !\nQuoi qu'il en soit, vous pouvez reconnaître les signes indiquant que votre enfant est sur le point de se briser sous votre pression si vous ne cédez pas. Vous pouvez évidemment changer d'approche, mais « changer » n'est pas quelque chose que les vampires font facilement." #NT!
+ POD_education_events.2.option.a: "Les anciennes méthodes fonctionnent mieux" #NT!
+ POD_education_events.2.option.b: "Je vais céder, pour l'instant" #NT!
+ POD_education_events.3.t: "Une éducation : les liens humains" #NT!
+ POD_education_events.3.desc: "Votre enfant a toujours des liens humains, amis, famille, etc. Comme pour la plupart des jeunes vampires, il est très difficile pour [victim.GetHerHim] de les laisser partir. De toute évidence, vous le savez mieux, et il est préférable de garder ces sentiments secrets, car le [masquerade|E] est mis en danger par des actions irréfléchies autour des mortels. Et vous commettez souvent des actes irréfléchis avec vos proches.\nPeut-être est-il temps pour votre enfant d'apprendre à abandonner le passé ?" #NT!
+ POD_education_events.3.option.a: "Je couvrirai [victim.GetFirstName]. laissez les jeunes avoir [victim.GetHerHis] rêves" #NT!
+ POD_education_events.3.option.b: "Childe, nous devons parler..." #NT!
+ POD_education_events.4.t: "Une éducation : Liberté !" #NT!
+ POD_education_events.4.desc: "Dernièrement, vous n'avez pas pu beaucoup vous occuper de votre enfant. Vous espériez que cette liberté retrouvée déboucherait sur des découvertes intéressantes que [victim.GetFirstName] pourrait découvrir par [victim.GetHerHis] seul, mais... pas tout à fait.\nToujours en colère contre vous pour avoir été transformé en vampire, ce nouveau-né indiscipliné a commencé à douter publiquement de votre autorité, et non répondant à vos rares convocations. Cela pourrait dégénérer rapidement si vous n’arrêtez pas ce comportement maintenant." #NT!
+ POD_education_events.4.option.a: "Childe, nous devons parler..." #NT!
+ POD_education_events.4.option.b: "Ça passera, probablement" #NT!
+ POD_education_events.100.t: "Une éducation : questions de foi" #NT!
+ POD_education_events.100.desc: "Jusqu’à présent, votre enfant a suivi votre foi principalement parce que vous l’avez dit. De toute évidence, [victim.GetSheHe] est loin de comprendre le fonctionnement interne de la Bête et comment y faire face. Vous devrez prendre du temps pour commencer cette partie de l'enseignement, ou embaucher des praticiens érudits de la Route pour aider votre progéniture." #NT!
+ POD_education_events.100.option.a: "La première chose à savoir..." #NT!
+ POD_education_events.100.option.b: "Écoutez bien vos professeurs. Ils n'étaient pas bon marché." #NT!
+ POD_education_events.100.option.c: "Je peux vous en dire beaucoup plus sur notre route" #NT!
+ POD_education_events.100.dionysius: "En tant que Denys, vous pouvez utiliser cette option pour vous assurer que votre enfant restera sur votre route et qu'il en sera bien informé." #NT!
+ POD_education_events.101.t: "Une éducation : tentée par l'humanité" #NT!
+ POD_education_events.101.desc: "Ce n'est pas une grande surprise que, malgré vos enseignements, votre enfant se soit laissé tenter par Via Humanitatis. C'est, après tout, la voie la plus facile à suivre pour un nouveau-né, et essayer de marcher de près sur les traces des mortels.\nVous envisagez d'organiser une grande démonstration de foi, en n'interférant pas avec l'humanité au cours des prochains mois, comme un preuve à votre enfant de la vérité en la matière. Ou vous pourriez simplement le laisser glisser." #NT!
+ POD_education_events.101.option.a: "Nous sommes cloués au sol pour les mois à venir" #NT!
+ POD_education_events.101.option.b: "La jeunesse sera la jeunesse" #NT!
+ POD_education_events.102.t: "Une éducation : tentée par la rébellion" #NT!
+ POD_education_events.102.desc: "Des rapports inquiétants alors que vos espions ont finalement retracé la récente disparition de votre enfant au profit d'un groupe de rebelles en marge de votre royaume. Ces soi-disant "Furores" sont un fléau pour tout vampire qui se respecte, voulant abolir les belles traditions du sang dans une vaine tentative de "liberté".\nVotre enfant doit rapidement comprendre l'erreur de [victim.GetHerHis] voies, ou [victim.GetSheHe] pourrait même commencer à croire à ces idioties !" #NT!
+ POD_education_events.102.option.a: "Allez dans votre chambre et ne la quittez pas jusqu'à ce que je vous le dise !" #NT!
+ POD_education_events.102.option.b: "Cela passera, comme toutes choses" #NT!
+ POD_education_events.300.t: "Une éducation : la fin" #NT!
+ POD_education_events.300.desc: "Vous avez fait ce que vous pouviez. Votre enfant a appris les modalités de votre condition, les méthodes à utiliser pour contrôler la Bête, et même comment aborder les clans et leurs subtilités. Peut-être que cela suffira. Ou peut-être avez-vous créé l'ennemi le plus dangereux que vous ayez jamais affronté.\nLe temps nous le dira, et c'est toujours le cas." #NT!
+ POD_education_events.300.option.a: "Vous n’êtes plus un jeune impuissant. Mais tu es toujours mon enfant." #NT!
+ POD_education_events.5.t: "Une éducation : un enfant facile à vivre" #NT!
+ POD_education_events.5.desc: "Jusqu'à présent, votre enfant s'est suffisamment bien adapté au nouvel état [victim.GetHerHis]. [victim.GetFirstName] ne fait pas d'histoires, [victim.GetSheHe] écoute vos ordres et est tout autour d'un élève assidu.\nCela ne durera peut-être pas, mais c'est déjà mieux que la plupart des enfants. Alors profitez-en tant que vous le pouvez." #NT!
+ POD_education_events.5.option.a: "Je suis content de toi, mon enfant" #NT!
+ POD_education_events.5.option.b: "Vous ferez bonne impression à ma cour" #NT!
+ POD_education_events.6.t: "Une éducation : Diplomate Childe" #NT!
+ POD_education_events.6.desc: "Depuis l'introduction du [victim.GetHerHis] à la nuit, le [victim.GetFirstName] a montré un vif intérêt pour l'étiquette à la cour. Essayant toujours d'en apprendre davantage sur les clans et les différentes politiques de votre race, [victim.GetSheHe] est déjà un atout précieux dans votre arsenal diplomatique.\nVous savez que les débutants sont cependant inconstants, et cet intérêt pourrait ne pas durer. Vous envisagez donc d’encaisser cette somme le plus rapidement possible." #NT!
+ POD_education_events.6.option.a: "Tu vas bien jusqu'à présent, mon enfant" #NT!
+ POD_education_events.6.option.b: "Vous accompagnerez mes diplomates pour les semaines à venir" #NT!
+ POD_education_events.7.t: "Une éducation : un enfant obéissant" #NT!
+ POD_education_events.7.desc: "Vous avez encore une fois prouvé vos compétences supérieures avec cet enfant spécifique. Faisant l'envie de tous les [Sire|E] potentiels, votre progéniture aide docilement [victim.GetSheHe] de toutes les manières possibles, tout en remerciant le grand mécène qui a amené [victim.GetHerHim] à la nuit.\nVous pourriez concentrer vos prochains efforts pour faire de [victim.GetHerHim] un objet utile. allié à long terme, ou simplement un assistant fiable pour l’instant." #NT!
+ POD_education_events.7.option.a: "Parlons de l'avenir, mon enfant" #NT!
+ POD_education_events.7.option.b: "Retourne travailler" #NT!
+ POD_education_events.8.t: "Une éducation : Enfant fougueux" #NT!
+ POD_education_events.8.desc: "Votre nouvel enfant a pris la nuit comme un charme. Doté d'une grande curiosité, [victim.GetSheHe] a rapidement appris par lui-même les connaissances de base nécessaires pour survivre dans le monde [cainite|E]. Vous êtes reconnaissant, et également soulagé que cela ne semble pas avoir donné à [victim.GetHerHim] des idées d'indépendance... pour l'instant.\nLa prochaine étape consiste à savoir si vous laisserez [victim.GetHerHim] continuer sur cette voie, ou si vous essaierez de travailler plus étroitement avec § _3 à votre avantage." #NT!
+ POD_education_events.8.option.a: "Ah, redevenir jeune !" #NT!
+ POD_education_events.8.option.b: "Travaillons ensemble, mon enfant" #NT!
+ POD_education_events.9.t: "Une éducation : Enfant maladroit" #NT!
+ POD_education_events.9.desc: "Votre enfant se porte assez bien jusqu'à présent, sauf sur un aspect : l'étiquette à la cour. Pour une raison quelconque, [victim.GetSheHe] ne peut pas vraiment comprendre [victim.GetHerHis] le protocole approprié à observer au tribunal. Ce n'est pas si difficile en fait ! Si vous souhaitez récupérer ces compétences diplomatiques, vous devrez enseigner le [victim.GetHerHim] la politique judiciaire par l'exemple. Ce qui n’est pas la chose la plus glorieuse à faire." #NT!
+ POD_education_events.9.option.a: "Restez ici et regardez. Et ne dis rien." #NT!
+ POD_education_events.9.option.b: "...Eh bien, celui-là aura une autre utilité, j'espère" #NT!
+ POD_education_events.103.t: "Une éducation : tentée par l'or" #NT!
+ POD_education_events.103.desc: "Votre nouvel enfant s'est avéré assez original dans son adaptation [victim.GetHerHis] au vampirisme. [victim.GetSheHe|U] pense que la nouvelle condition [victim.GetHerHis] est mieux utilisée pour... gagner de l'argent. [victim.GetSheHe|U] parle toute la journée de la façon dont l'immortalité signifie des investissements faciles, de nouvelles opportunités et ce genre d'absurdités.\nEn soupirant, vous vous consolez en pensant que c'est au moins un meilleur passe-temps que d'essayer de vous assassiner. Mais vous voudrez peut-être quand même sortir le [victim.GetHerHim] de cette « phase »." #NT!
+ POD_education_events.103.option.a: "Voici votre foutu or. Assommez-vous." #NT!
+ POD_education_events.103.option.b: "... À quoi penseront ensuite ces foutus novices ?" #NT!
+ POD_education_events.104.t: "Une éducation : Fidèle Childe" #NT!
+ POD_education_events.104.desc: "Votre enfant a facilement adopté vos propres principes comme foi [victim.GetHerHis]. Vous êtes satisfait des progrès réalisés jusqu’à présent et n’attendez rien d’autre qu’une amélioration continue. En tant qu’enseignant à succès, vous avez également acquis une compréhension plus profonde grâce à cette expérience partagée." #NT!
+ POD_education_events.104.option.a: "Comme cela devrait être" #NT!
+ POD_education_events.105.t: "Une éducation : tentée par l'hédonisme" #NT!
+ POD_education_events.105.desc: "Votre enfant s'est bien adapté au [victim.GetHerHis] nouvel état. Peut-être un peu trop bien... [victim.GetFirstName] passe [victim.GetHerHis] du temps à faire la fête avec des mortels, ou même d'autres vampires, de manière assez dépravée.\nÉvidemment, vous préféreriez que [victim.GetHerHim] fasse des choses utiles avec [victim.GetHerHis] l'immortalité, mais convaincre [victim.GetHerHim] pourrait être une tâche ardue à ce stade." #NT!
+ POD_education_events.105.option.a: "Abattez ce mortel, mon enfant, nous devons parler" #NT!
+ POD_education_events.105.option.b: "Je m'en fiche même à ce stade..." #NT!
+ POD_education_events.10.t: "Une éducation : Intendant Childe" #NT!
+ POD_education_events.10.desc: "[victim.GetFirstName] a été entreprenant depuis [victim.GetHerHis] [Embrace|E], [victim.GetSheHe] a décrit plusieurs projets pour ajouter des régions aberrantes à votre influence, et de nouvelles personnes à soudoyer pour s'assurer que cela reste caché.\nVous envisagez de pousser le nouveau-né enthousiaste plus loin dans cette direction , ou en utilisant les informations du [victim.GetHerHis] sur de telles questions dès maintenant." #NT!
+ POD_education_events.10.option.a: "Tu as un talent ici, mon enfant" #NT!
+ POD_education_events.10.option.b: "Intéressant, parlez-m'en plus de vos projets" #NT!
+ POD_education_events.11.t: "Une éducation : Clueless Childe" #NT!
+ POD_education_events.11.desc: "Votre progéniture a du mal à comprendre qu’en tant que vampire, les règles sont différentes de celles de la vie des mortels. Les habitudes du [victim.GetHerHis|U] en tant qu'être vivant entravent le [victim.GetHerHim], et administrer le réseau d'informateurs et d'agents semble bien au-dessus de la compréhension du [victim.GetHerHis] pour le moment.\nVous pouvez organiser une « mission d'entraînement » pour enseigner les ficelles du métier à [victim.GetHerHim], ou simplement abandonner cette partie du processus de formation." #NT!
+ POD_education_events.11.option.a: "Suis-moi et observe, mon enfant" #NT!
+ POD_education_events.11.option.b: "Les registres vous sont interdits" #NT!
+ POD_education_events.106.t: "Une éducation : tentée par la couronne" #NT!
+ POD_education_events.106.desc: "Votre nouvelle progéniture est fascinée par la structure du pouvoir des vampires, et [victim.GetSheHe] veut tout savoir sur qui gouverne quoi et comment vous avez atteint votre statut actuel de souverain de la nuit.\nBien que flatteur, cela rapproche rapidement [victim.GetHerHim] à la Via Regalis, ce que vous n'approuverez peut-être pas." #NT!
+ POD_education_events.106.option.a: "Concentrons-nous un moment sur le spirituel, mon enfant." #NT!
+ POD_education_events.106.option.b: "Pourquoi oui je peux parler de moi !" #NT!
+ POD_education_events.12.t: "Une éducation : Schemer Childe" #NT!
+ POD_education_events.12.desc: "Votre nouvel enfant adore l’ambiance cape et poignard de la politique vampirique. [victim.GetSheHe|U] a déjà déjoué certains autres nouveau-nés et fait preuve d'un sérieux talent pour l'intrigue. Vous pouvez pousser le [victim.GetHerHim] davantage vers le perfectionnement de ces compétences par le [victim.GetHerHis] vous-même, ou vous pouvez utiliser l'aide pour certains projets urgents que vous planifiez actuellement..." #NT!
+ POD_education_events.12.option.a: "Vous vous en sortez très bien, mon enfant. Prenez juste pour ne pas faire trop bien..." #NT!
+ POD_education_events.12.option.b: "Que pensez-vous de ces projets ?" #NT!
+ POD_education_events.13.t: "Une éducation : Childe déjoué" #NT!
+ POD_education_events.13.desc: "Votre progéniture a du mal à s’adapter à cette nouvelle non-vie. [victim.GetFirstName] prend la plupart de ce qui est dit au pied de la lettre et ne considère pas que, eh bien, tout le monde ment dans la politique des vampires. Vos meilleurs efforts pour enseigner le [victim.GetHerHim] ont été, jusqu'à présent, infructueux. Et ça commence à vous énerver." #NT!
+ POD_education_events.13.option.a: "Ces gens ne sont pas vos amis. Nous n'avons pas d'amis." #NT!
+ POD_education_events.13.option.b: "Eh bien, celui-ci ne me menacera pas au moins" #NT!
+ POD_education_events.107.t: "Une éducation : tenté par le poing ganté" #NT!
+ POD_education_events.107.desc: "Votre enfant a montré un sérieux intérêt pour les questions de gouvernement. Un intérêt qui a amené [victim.GetHerHim], jusqu'à présent, à conclure que le plus fort fait le bien. Même si vous n'êtes pas nécessairement d'accord, vous devez admettre que vous avez déjà appris des idées intéressantes grâce à la [victim.GetHerHis] façon de faire les choses. Peut-être qu'encourager [victim.GetHerHim] à continuer donnerait plus d'expérience ?" #NT!
+ POD_education_events.107.option.a: "Il y a plus dans le pouvoir que la force brute, mon enfant." #NT!
+ POD_education_events.107.option.b: "Peut-être pouvons-nous apprendre les uns des autres, après tout" #NT!
+ POD_education_events.14.t: "Une éducation : Friendly Childe" #NT!
+ POD_education_events.14.desc: "Jusqu’à présent, votre progéniture s’est plutôt bien adaptée à la non-vie. Vous devez admettre que vous ressentez un lien encore plus fort avec le [victim.GetHerHim] que vous aviez anticipé avant le [Embrace|E]. Peut-être que cette fois, pour une fois, vos longues nuits de solitude seront remplies d’une nouvelle compagnie." #NT!
+ POD_education_events.14.option.a: "Parlons encore, mon enfant" #NT!
+ POD_education_events.108.t: "Une éducation : tentée par le ciel" #NT!
+ POD_education_events.108.desc: "Votre enfant a toujours eu besoin de croire en quelque chose pendant [victim.GetHerHis] jours mortels. En tant que tel, vous n'êtes pas trop surpris que le [victim.GetSheHe] ait fait de la Via Caeli le [victim.GetHerHis] route de prédilection. Ce à quoi vous ne vous attendiez pas, c'est la ferveur [victim.GetSheHe] manifestée jusqu'à présent. De nos jours, peu de choses vous touchent, mais peut-être qu'une pure démonstration de dévotion peut être l'une de ces rares choses ?" #NT!
+ POD_education_events.108.option.a: "Je suis ce que je suis" #NT!
+ POD_education_events.108.option.b: "Tu es un spectacle inspirant, mon enfant" #NT!
+ POD_education_events.15.t: "Une éducation : Martial Childe" #NT!
+ POD_education_events.15.desc: "Les guerres contre les vampires sont très différentes des guerres contre les mortels. Ces guerres, relativement secrètes et faisant appel à un petit nombre de troupes d’élite, nécessitent un ensemble de compétences flexibles. Heureusement, votre enfant semble avoir une compréhension naturelle des défis qu'un tel style de guerre apporte.\nComment allez-vous encourager [victim.GetHerHim] à utiliser ces premiers succès ?" #NT!
+ POD_education_events.15.option.a: "Continue tout seul, mon enfant" #NT!
+ POD_education_events.15.option.b: "Vous devriez concentrer votre expertise sur un domaine, mon enfant." #NT!
+ POD_education_events.16.t: "Une éducation : Krokmou Childe" #NT!
+ POD_education_events.16.desc: "Ce qui semble être l'ampleur du conflit entre vampires, c'est surtout l'ampleur du conflit avec lequel votre enfant a du mal. Évidemment très différentes des guerres mortelles, avec leur petit nombre de troupes d'élite, ces batailles peuvent être difficiles à évaluer pour un commandant non préparé. Vous pourriez oublier le problème, car de toute façon, tous les vampires ne sont pas destinés à voir un champ de bataille, ou organiser un « exemple vivant » avec des troupes mortelles locales pour faire apprendre une chose ou deux à votre enfant." #NT!
+ POD_education_events.16.option.a: "Concentrez-vous sur vos autres études, mon enfant." #NT!
+ POD_education_events.16.option.b: "Jouons à un wargame avec des mortels, mon enfant" #NT!
+ POD_education_events.17.t: "Une éducation : Childe peu spectaculaire" #NT!
+ POD_education_events.17.desc: "Jusqu’à présent, votre nouvelle progéniture se porte assez bien. Rien de spectaculaire cependant, qui laisse penser que [victim.GetSheHe] pourrait être utile par d'autres moyens. Peut-être à titre d'exemple ? La plupart des [cainites|E] donnent une grande démonstration de l'éclat de leur progéniture, mais vous pouvez inverser cette habitude. Écrasez l'esprit de votre enfant, sans autre raison que la cruauté, et vous seriez craint pendant un bon moment après..." #NT!
+ POD_education_events.17.option.a: "Ça ne fera pas de mal... longtemps" #NT!
+ POD_education_events.17.option.b: "Celui-ci peut encore être utile" #NT!
+ POD_education_events.109.t: "Une éducation : tentée par la cruauté" #NT!
+ POD_education_events.109.desc: "Votre enfant semble avoir adopté avec un peu trop d'empressement sa nouvelle condition de monstre de la nuit. Vous avez entendu des histoires de « fêtes » et d'« expériences » inquiétantes auxquelles [victim.GetSheHe] a participé ou même organisé. Malheureusement, le petit misérable n'acceptera sans doute pas facilement votre autorité en la matière..." #NT!
+ POD_education_events.109.option.a: "Vous arrêterez cette folie immédiatement !" #NT!
+ POD_education_events.109.option.b: "Tant que ça ne me concerne pas..." #NT!
+ POD_education_events.18.t: "Une éducation : Studieux Childe" #NT!
+ POD_education_events.18.desc: "Votre enfant est fasciné par la vaste histoire de la race [cainite|E]. Les clans, les mythes, les rumeurs... tout ce que [victim.GetSheHe] peut vraiment apprendre. [victim.GetSheHe|U] pourrait en fait avoir un aperçu de certaines questions auxquelles vous n'aviez pas pensé depuis longtemps maintenant. Peut-être pourriez-vous travailler ensemble ?" #NT!
+ POD_education_events.18.option.a: "Tu as ma bénédiction pour continuer, mon enfant" #NT!
+ POD_education_events.18.option.b: "Que penses-tu de cette histoire, mon enfant ?" #NT!
+ POD_education_events.19.t: "Une éducation : Slow Childe" #NT!
+ POD_education_events.19.desc: "Votre progéniture a du mal avec la grande quantité de nouvelles informations que [victim.GetSheHe] doit apprendre. Les clans, l'histoire de la race [cainite|E], les mythes... ça semble être trop. Si vous ne faites pas quelque chose rapidement, votre enfant abandonnera probablement, ce qui pourrait être un frein pour l'initiation au [victim.GetHerHis] dans la nuit." #NT!
+ POD_education_events.19.option.a: "... Celui-ci servira à un autre but" #NT!
+ POD_education_events.19.option.b: "Prenons un peu de temps pour étudier ensemble, mon enfant." #NT!
+ POD_education_events.20.t: "Une éducation : Professeur parfait" #NT!
+ POD_education_events.20.desc: "En tant qu'aîné le plus respecté des Ravnos occidentaux, vous avez enseigné à de nombreux jeunes à votre époque, Durga Syn. Vous aimez même le faire, surgissant de nulle part pour apporter à des nouveau-nés confus votre sagesse, souvent énigmatique.\nEn tant que tel, il est assez facile d'appliquer vos grands talents à votre propre progéniture. Un léger coup par ici, une subtile poussée par là et celui-ci tournera exactement comme vous le souhaitez." #NT!
+ POD_education_events.20.option.a: "Écoutez votre bête, puis combattez-la" #NT!
+ POD_education_events.20.option.b: "La rose est pour les roses, le bleu est pour les seigneurs" #NT!
+ POD_education_events.20.option.c: "Pour débloquer votre propre mystère, vous devez chercher votre propre clé" #NT!
+ POD_education_events.110.t: "Une éducation : manque d’ambition" #NT!
+ POD_education_events.110.desc: "Ces derniers temps, votre enfant approche le [victim.GetHerHis] de sa non-vie de manière plus prudente qu'auparavant. Satisfait de rester dans l'ombre, [victim.GetSheHe] semble content de laisser les responsabilités et les dangers aux autres, même si [victim.GetSheHe] fournit souvent son expertise [victim.GetHerHis] en cas de besoin. Bien que ce soit rassurant pour vous d'avoir un enfant apparemment digne de confiance, vous pourriez avoir d'autres projets pour l'avenir." #NT!
+ POD_education_events.110.option.a: "Faites pousser une colonne vertébrale, mon enfant !" #NT!
+ POD_education_events.110.option.b: "Un rival potentiel de moins... probablement" #NT!
+ POD_education_events.111.t: "Une éducation : Professeur parfait" #NT!
+ POD_education_events.111.desc: "Peu de [cainites|E] peuvent prétendre avoir façonné une route comme vous l'avez fait avec la Route de l'Humanité, seigneur Dionysius. Cela vous a évidemment donné un aperçu approfondi de ces sujets, et vous en apprenez et en débattez depuis assez longtemps.\nEn tant que tel, il y a très peu de personnes plus qualifiées que vous pour enseigner ce sujet. Le jeune dont vous avez la garde en ce moment est en effet très privilégié." #NT!
+ POD_education_events.111.option.a: "J'apprendrai beaucoup en débattant avec un esprit neuf" #NT!
+ POD_education_events.111.option.b: "J'ai beaucoup à t'apprendre" #NT!
+ POD_education_events.200.t: "Une éducation : la présentation" #NT!
+ POD_education_events.200.desc: "Il est temps que votre enfant soit officiellement présenté à votre tribunal... n'est-ce pas ? Cette partie traditionnelle de la société [cainite|E] est pleine à la fois d'opportunités et de dangers, car vos courtisans et vos vassaux rechercheront certainement toute faiblesse méritant d'être exploitée chez votre nouveau protégé.\nVous pourriez ignorer toute l'affaire, mais cela ne vous fera pas du bien." #NT!
+ POD_education_events.200.option.a: "Comportez-vous bien là-dedans" #NT!
+ POD_education_events.200.option.b: "Pas besoin qu'ils sachent pour toi" #NT!
+ POD_education_events.201.t: "Une éducation : Vassal ennuyeux" #NT!
+ POD_education_events.201.desc: "Lors de la présentation de votre enfant, l'un de vos vassaux a profité de toutes les occasions disponibles pour harceler votre progéniture. Pas assez bien, pas digne du [Embrace|E], perte de temps... Vous pouvez voir que votre enfant parvient à peine à contrôler son tempérament [victim.GetHerHis] à ce stade.\nVous voudrez peut-être intervenir si vous ne voulez pas que ces deux-là se haïssent l'un l'autre." #NT!
+ POD_education_events.201.option.a: "Tant qu'ils ne me détestent pas..." #NT!
+ POD_education_events.201.option.b: "Arrête juste de parler" #NT!
+ POD_education_events.202.t: "Une éducation : Vassal amical" #NT!
+ POD_education_events.202.desc: "Un de vos vassaux a vraiment pris d'affection votre enfant lors de la présentation. Authentique ou politiquement engagé, cela n'a pas vraiment d'importance tant que cela maintient la paix dans votre royaume. Vous les rejoignez alors qu’ils se parlent chaleureusement." #NT!
+ POD_education_events.202.option.a: "Je suis content que tu t'entendes bien" #NT!
+ POD_education_events.202.option.b: "Pourquoi oui! Je choisis très bien mon enfant !" #NT!
+ POD_education_events.203.t: "Une éducation : un vassal intrigant" #NT!
+ POD_education_events.203.desc: "Votre enfant a fait une petite erreur lors de la présentation. Étonnamment, l'un de vos vassaux a aidé à dissimuler l'affaire assez rapidement pour ne pas avoir de répercussions.\nVous comprenez pourquoi lorsque ce serpent intrigant vient vers vous et vous dit que vous devez [victim.GetHerHim] maintenant..." #NT!
+ POD_education_events.203.option.a: "Tu as gagné cette manche" #NT!
+ POD_education_events.203.option.b: "Je ne te dois rien!" #NT!
+ POD_education_events.204.t: "Une éducation : Vassal entiché" #NT!
+ POD_education_events.204.desc: "L'un de vos vassaux a été séduit par la présentation impeccable de votre enfant et demande maintenant à passer du temps en privé avec votre progéniture. Évidemment, ce serait un moyen facile pour vous d'obtenir [victim.GetHerHim] de votre dette, mais votre progéniture n'appréciera peut-être pas d'être utilisée comme une sorte de cadeau." #NT!
+ POD_education_events.204.option.a: "Viens ici mon enfant, je veux te présenter quelqu'un..." #NT!
+ POD_education_events.204.option.b: "Malheureusement, je ne peux pas accepter votre demande" #NT!
+ POD_education_events.205.t: "Une éducation : Assez bonne" #NT!
+ POD_education_events.205.desc: "La présentation de votre enfant s'est... assez bien déroulée. Ce n’est en aucun cas une réussite éclatante, mais ce n’est pas non plus une erreur. Vous supposez que, dans la société vampirique, même obtenir un succès moyen est de toute façon déjà assez difficile." #NT!
+ POD_education_events.205.option.a: "Clairement moyen" #NT!
+ POD_education_events.206.t: "Une éducation : sans faille" #NT!
+ POD_education_events.206.desc: "Tout dans la présentation de votre enfant s'est très bien passé, même au-delà de vos attentes. Vos vassaux ont été impressionnés par votre nouvelle progéniture, et encore plus impressionnés par vos qualités de [Sire|E]. Cela vous fera du bien pendant un certain temps." #NT!
+ POD_education_events.206.option.a: "Un résultat parfait" #NT!
+ POD_education_events.207.t: "Une éducation : un échec occulté" #NT!
+ POD_education_events.207.desc: "En apparence, tout semble s'être bien passé pour la présentation de votre enfant. Mais au fond, vous savez que quelque chose s’est mal passé. Vos vassaux étaient tous des paroles mielleuses et se rassemblaient les uns autour des autres, parlant à voix basse.\nPeut-être qu'ils avaient planifié ce mouvement depuis un certain temps, ou peut-être avez-vous fait quelque chose pour les contrarier. Quelle que soit la raison, cela pourrait poser problème à l’avenir." #NT!
+ POD_education_events.207.option.a: "La politique ne s'arrête jamais" #NT!
+ POD_education_events.208.t: "Une éducation : trop réussie" #NT!
+ POD_education_events.208.desc: "Votre enfant a fait une excellente première impression lors de la présentation du [victim.GetHerHis]. Peut-être un peu trop en fait... Encouragé par vos vassaux, désireux de mettre un terme à vos plans, [victim.GetSheHe] a commencé à avoir la folie des grandeurs.\nÉvidemment, c'est bien au-dessus de la station ou du pouvoir du [victim.GetHerHis] en ce moment, mais le Ce petit impudent complote presque ouvertement pour un « futur » mandat de [victim.GetHerHis] en tant qu'héritier. Vous devrez maîtriser celui-ci avec précaution..." #NT!
+ POD_education_events.208.option.a: "Insolent idiot !" #NT!
+ POD_education_events.209.t: "Une éducation : Vassal impressionné" #NT!
+ POD_education_events.209.desc: "La présentation de votre enfant au tribunal se passe bien. Rien de vraiment extraordinaire, si ce n'est la bienveillance apparemment authentique [victim.GetSheHe] gagnée par l'un de vos puissants vassaux. Cette petite démonstration de diplomatie peut être exploitée à votre avantage, soit envers le vassal, soit envers votre enfant." #NT!
+ POD_education_events.209.option.a: "Évidemment, mon enfant parle avec ma bénédiction" #NT!
+ POD_education_events.209.option.b: "Je te choisis bien, mon enfant" #NT!
+ POD_education_events.210.t: "Une éducation : le don" #NT!
+ POD_education_events.210.desc: "Lors de la première introduction de votre enfant à la cour, un petit nombre de vos vassaux arrivent avec un cadeau généreux... pour votre progéniture, pas pour vous. Ils essaient évidemment de créer un fossé entre vous deux en vous obligeant à réclamer le cadeau pour vous-même. Une intrigue pas si subtile, mais néanmoins séduisante par sa valeur..." #NT!
+ POD_education_events.210.option.a: "Tu es trop jeune mon enfant, c'est à moi" #NT!
+ POD_education_events.210.option.b: "Amusez-vous bien alors" #NT!
+ POD_education_events.211.t: "Une éducation : un enfant surdoué" #NT!
+ POD_education_events.211.desc: "Vous devez admettre que votre enfant est plutôt doué pour apaiser les petits griefs de vos vassaux et caresser leur ego encore plus mesquin. Assez bien en fait pour que vous n'ayez besoin de rien pendant cette introduction à la cour.\nIl est peut-être tôt, mais vous vous demandez si vous pourriez utiliser votre progéniture douée pour alléger votre fardeau de gouvernement, au moins pendant un certain temps." #NT!
+ POD_education_events.211.option.a: "Parlons de nouvelles responsabilités, mon enfant" #NT!
+ POD_education_events.211.option.b: "Je me reposerai quand je serai... eh bien" #NT!
+ POD_education_events.1001.t: "Fils contre pères" #NT!
+ POD_education_events.1001.desc: "Vous contemplez votre nouveau fils, encore en convalescence grâce au sang que vous avez si généreusement offert [victim.GetHerHim]. Que va devenir celui-ci ? Un ami, un serviteur, un ennemi ? Vous réfléchissez à cela alors que le nouveau novice se lève pour rencontrer votre regard.\nAttendez, ce regard, ça ne pourrait pas être...\nVous réagissez trop tard alors que [victim.GetSheHe] vous attrape avec [victim.GetHerHis] une nouvelle force et plonge [victim.GetHerHis] crocs dedans. ton cou. Vous sentez votre conscience sombrer dans l’oubli jusqu’à ce que votre Bête, pour une fois votre plus grand allié, vous pousse à vous battre. Vous n'abandonnerez pas si facilement !" #NT!
+ POD_education_events.1001.option.a: "Il n'est pas encore trop tard !" #NT!
+ POD_education_events.1001.effect.success.desc: "Tu repousses ton enfant" #NT!
+ POD_education_events.1001.critical.failure.effect.desc: "...la sensation de bonheur est trop forte" #NT!
+ POD_education_events.1002.t: "Fils contre pères : la miséricorde ?" #NT!
+ POD_education_events.1002.desc: "Dans un effort suprême de volonté et de force physique, vous avez réussi à vous extraire du [Embrace|E] mortel de votre enfant. Vous êtes désormais pleinement conscient de la menace et votre ennemi a perdu l’avantage. [victim.GetSheHe|U] vous examine maintenant attentivement, la peur se cachant derrière les yeux de [victim.GetHerHis].\nAvec votre pleine conscience et vos pouvoirs de retour, vous pouvez maintenant écraser ce petit insolent si cela vous plaît. Ou vous pourriez pardonner et oublier, car vous ne connaissez que trop bien l'attrait du vieux sang pour le nouveau venu..." #NT!
+ POD_education_events.1002.option.a: "Vous avez de l'ambition. Je peux respecter ça." #NT!
+ POD_education_events.1002.option.b: "Vous n'êtes pas digne de mon sang !" #NT!
+ POD_education_events.1003.t: "Cendres du vieux" #NT!
+ POD_education_events.1003.desc: "C'est trop tard. Fort du sang que vous avez utilisé pour ramener [victim.GetHerHim] à la vie, votre nouveau fils a réussi à vous drainer suffisamment pour vous rendre impuissant à résister. C'est ainsi que cela se terminera alors, tué par votre propre progéniture, comme tant d'autres avant et après vous.\nUne ironie surannée, qui ne se perd pas pour vous alors que votre conscience s'éloigne de plus en plus, consumée par un bonheur artificiel.\nJusqu'à ce que tout se termine, dans l’obscurité, comme vous l’avez toujours prévu." #NT!
+ POD_education_events.1003.option.a: "Il faut toujours tuer le père un jour" #NT!
+ POD_education_events.22.t: "Une éducation : Ashen Knight" #NT!
+ POD_education_events.22.desc: "Votre [Clan|E] a une forte tradition de prouesses militaires. En tant que tel, il vous est assez facile de trouver les meilleurs professeurs pour votre nouveau enfant. Dans cet environnement à l’esprit militaire, un nouveau champion va naître. J'espère qu'il sera fidèle." #NT!
+ POD_education_events.22.option.a: "Donnez-moi encore dix tours !" #NT!
+ POD_education_events.21.t: "Une éducation : Ashen Noble" #NT!
+ POD_education_events.21.desc: "Votre [Clan|E] a une forte tradition de noblesse. En tant que tel, il vous est assez facile de trouver les meilleurs professeurs pour votre nouveau enfant. Dans cet environnement exaltant, un nouveau noble de la nuit va naître. J'espère qu'il sera fidèle." #NT!
+ POD_education_events.21.option.a: "Respectez vos meilleurs et utilisez le reste" #NT!
+ POD_education_events.23.t: "Une éducation : Ashen Sénéchal" #NT!
+ POD_education_events.23.desc: "Votre [Clan|E] a une forte tradition de gouvernance. En tant que tel, il vous est assez facile de trouver les meilleurs professeurs pour votre nouveau enfant. Dans cet environnement respectueux, un nouveau maître de la nuit naîtra. J'espère qu'il sera fidèle." #NT!
+ POD_education_events.23.option.a: "J'apprécierai vos conseils, dans une certaine mesure" #NT!
+ POD_education_events.24.t: "Une éducation : Voleur cendré" #NT!
+ POD_education_events.24.desc: "Votre [Clan|E] a une forte tradition de friponnerie. En tant que tel, il vous est assez facile de trouver les meilleurs professeurs pour votre nouveau enfant. Dans cet environnement compétitif, un nouveau chasseur de nuit va naître. J'espère qu'il sera fidèle." #NT!
+ POD_education_events.24.option.a: "Prends ce qui est à toi" #NT!
+ POD_education_events.25.t: "Une éducation : Cultiste cendré" #NT!
+ POD_education_events.25.desc: "Votre [Clan|E] a une forte tradition de profit des sectes. En tant que tel, il vous est assez facile de trouver les meilleurs professeurs pour votre nouveau enfant. Dans ce milieu savant, un nouveau prophète de la nuit va naître. J'espère qu'il sera fidèle." #NT!
+ POD_education_events.25.option.a: "Faire en sorte que [victim.GetHerHim] gagne [victim.GetHerHis] le salut" #NT!
+  
+ POD_education_events.1.option.f: "Nous ferons de vous une Valkyrie !" #NT!
+ POD_education_events.1.option.adisa: "Cette option d'éducation spécialisée, réservée uniquement à Adisa, vous permet de former plus spécifiquement votre enfant." #NT!
+ POD_education_events.28.t: "Une éducation : Une nouvelle Valkyrie" #NT!
+ POD_education_events.28.desc: "Freya vous a appris à vous battre et à vous défendre contre le mal des hommes, mais vous savez que toutes vos sœurs ne sont pas capables d'un tel exploit. Heureusement, vous comprenez que si la plupart des Valkyries sont censées être des guerrières, d'autres sont destinées à un autre rôle, plus discret mais non moins important.\nLe monde est vaste, et les Valkyries douées en diplomatie pourraient devenir de précieux envoyés auprès des seigneurs et des dames de la nuit. , ouvrant la voie à la libération d’un plus grand nombre d’opprimés." #NT!
+ POD_education_events.28.option.a: "Voyons à quel point tu es dure, sœur !" #NT!
+ POD_education_events.28.option.b: "Tu as un sens des mots que je n'ai pas." #NT!
+ POD_education_events.28.option.c: "Vous pourriez trouver le succès dans l’équilibre." #NT!
+  
+ POD_education_events.29.t: "Une éducation : Un mentorat" #NT!
+ POD_education_events.29.desc: "Un de vos courtisans a remarqué que votre nouvel enfant faisait [victim.GetHerHis] ses premiers pas dans la nuit. Cherchant sans doute à obtenir quelques faveurs de votre part, [mentor.GetSheHe] vous propose de donner quelques conseils à votre protégé. Cela pourrait être utile, car même l'individu le plus talentueux a besoin d'un certain temps avant de s'adapter à la condition Caïnite.\nVous pouvez également décider de participer également, en espérant acquérir une certaine expérience dans le processus." #NT!
+ POD_education_events.29.option.a: "Très bien, voici votre faveur et votre or." #NT!
+ POD_education_events.29.option.b: "Tu le feras. Gratuitement." #NT!
+ POD_education_events.29.option.c: "Je participerai également." #NT!
+ POD_education_events.29.option.d: "Il n'y a pas besoin." #NT!
+ badmentor_tooltip: "Le mentor pourrait ne pas faire de [mentor.GetHerHis] mieux dans ce contexte..." #NT!
+  
+ POD_education_events.302.t: "Le rite de libération" #NT!
+ POD_education_events.302.desc: "Les Tzimisces ont de nombreuses traditions qu'ils honorent avec beaucoup de zèle. L'un d'eux est le Rite de Libération, un événement formel au cours duquel un enfant est officiellement reconnu comme un Tzimisce à part entière par son [Sire|E] au cours d'une cérémonie ritualisée. Quelle que soit la relation entre les deux, c'est un moment très attendu pour les enfants ambitieux qui cherchent à se lancer seuls.\nDans votre cas spécifique, votre enfant est déjà propriétaire foncier de [victim.GetHerHis], ce qui signifie que ce Rite ne sera qu'une simple formalité. . La seule question est de savoir s’il faut ou non en faire une grande affaire." #NT!
+ POD_education_events.302.option.a: "Organisez un événement somptueux faisant l’éloge de votre enfant." #NT!
+ POD_education_events.302.option.b: "Un événement plus petit suffira." #NT!
+ POD_education_events.302.option.c: "Aucun événement, [victim.GetSheHe] ne le méritait pas." #NT!
+  
+ POD_education_events.303.desc: "Les Tzimisces ont de nombreuses traditions qu'ils honorent avec beaucoup de zèle. L'un d'eux est le Rite de Libération, un événement formel au cours duquel un enfant est officiellement reconnu comme un Tzimisce à part entière par son [Sire|E] au cours d'une cérémonie ritualisée. Quelle que soit la relation entre les deux, c'est un moment très attendu pour les enfants ambitieux qui cherchent à se lancer seuls.\nVotre enfant a officiellement demandé la libération du [victim.GetHerHis], pensant que [victim.GetHerHis] le temps passé dans votre ombre devrait prendre fin. . Le Rite vous demanderait d'organiser une cérémonie au cours de laquelle vous libérerez l'emprise que vous avez sur [victim.GetHerHim] et, si [victim.GetSheHe] est toujours sous votre garde, donnerez à [victim.GetHerHim] l'autorisation de créer votre propre fortune à [victim.GetHerHis] ailleurs. Il y a cependant toujours la possibilité de refuser, mais cela provoquera probablement de la colère [victim.GetHerHim]." #NT!
+ POD_education_events.303.option.a: "Vous êtes désormais un vrai Tzimisce." #NT!
+ POD_education_events.303.option.b: "Organisez un événement somptueux pour apaiser [victim.GetHerHim], mais ne libérez pas [victim.GetHerHim]." #NT!
+ POD_education_events.303.option.c: "Tu restes ici. Fin de l'histoire." #NT!
+  
+ POD_education_events.304.desc: "Les Tzimisces ont de nombreuses traditions qu'ils honorent avec beaucoup de zèle. L'un d'eux est le Rite de Libération, un événement formel au cours duquel un enfant est officiellement reconnu comme un Tzimisce à part entière par son [Sire|E] au cours d'une cérémonie ritualisée. Quelle que soit la relation entre les deux, c'est un moment très attendu pour les enfants ambitieux qui cherchent à se lancer seuls.\nVotre enfant ne semble cependant pas s'en soucier beaucoup, apparemment content de vous laisser continuer à décider de son avenir [victim.GetHerHis] pour le moment. . En tant que tel, le Rite de libération sera principalement sous votre contrôle, ou vous pourrez l’ignorer complètement avec peu de conséquences." #NT!
+ POD_education_events.304.option.a: "Vous êtes désormais un vrai Tzimisce. Tu dois partir." #NT!
+ POD_education_events.304.option.b: "Organisez un événement somptueux mais ne publiez pas [victim.GetHerHim]." #NT!
+ POD_education_events.304.option.c: "Vous êtes à votre place." #NT!
+  
+  
+  

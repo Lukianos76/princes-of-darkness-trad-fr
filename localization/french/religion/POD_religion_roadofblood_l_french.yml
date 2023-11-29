@@ -1,0 +1,94 @@
+﻿l_french:
+  
+  #Common Road of Blood Localization 
+ roadofblood_religion: "Route du sang" #NT!
+ roadofblood_religion_adj: "Sentinelle" #NT!
+ roadofblood_religion_adherent: "Sentinelle" #NT!
+ roadofblood_religion_adherent_plural: "Sentinelles" #NT!
+ roadofblood_religion_desc: "Depuis la malédiction qui leur a été imposée par les Baali, les [Clan|E] Assamites suivent principalement cette voie de destruction et de purification par le [diablerie|E]. Chaque meurtre n'est qu'un répit temporaire d'une faim sans fin." #NT!
+ roadofblood_high_god_name: "Sang" #NT!
+ roadofblood_high_god_name_possessive: "Le sang" #NT!
+ roadofblood_high_god_name_alternate: "Le sang" #NT!
+ roadofblood_high_god_name_alternate_possessive: "Le sang" #NT!
+ roadofblood_good_god_jesus: "$roadofblood_health_god_name$" #NT!
+ roadofblood_good_god_christ: "Haqim" #NT!
+ roadofblood_devil_name: "La bête" #NT!
+ roadofblood_devil_name_possessive: "Les bêtes" #NT!
+ roadofblood_evil_god_lucifer: "La bête" #NT!
+ roadofblood_evil_god_beelzebub: "La bête" #NT!
+ roadofblood_evil_god_mephistopheles: "La bête" #NT!
+ roadofblood_death_deity_name: "Destruction" #NT!
+ roadofblood_death_deity_name_possessive: "Destruction" #NT!
+ roadofblood_house_of_worship: "Alamut" #NT!
+ roadofblood_house_of_worship_plural: "Alamut" #NT!
+ roadofblood_religious_symbol: "dague" #NT!
+ roadofblood_religious_text: "paroles de Haqim" #NT!
+ roadofblood_religious_head_title: "est-ce que je" #NT!
+ roadofblood_religious_head_title_name: "est-ce que je" #NT!
+ roadofblood_devotee_male: "est-ce que je" #NT!
+ roadofblood_devotee_male_plural: "est-ce que je" #NT!
+ roadofblood_devotee_female: "est-ce que je" #NT!
+ roadofblood_devotee_female_plural: "est-ce que je" #NT!
+ roadofblood_devotee_neuter: "est-ce que je" #NT!
+ roadofblood_devotee_neuter_plural: "est-ce que je" #NT!
+ roadofblood_priest_male: "est-ce que je" #NT!
+ roadofblood_priest_male_plural: "est-ce que je" #NT!
+ roadofblood_priest_alternate_plural: "est-ce que je" #NT!
+ roadofblood_bishop: "as" #NT!
+ roadofblood_bishop_plural: "as" #NT!
+ roadofblood_divine_realm: "veine" #NT!
+ roadofblood_positive_afterlife: "paradis" #NT!
+ roadofblood_negative_afterlife: "les abysses" #NT!
+ roadofblood_witchgodname_the_horned_god: "la bête" #NT!
+ roadofblood_witchgodname_the_horned_god_possessive: "Les bêtes" #NT!
+  
+ roadofblood_creator_god_name: "$roadofblood_high_god_name$" #NT!
+ roadofblood_creator_god_name_possessive: "$roadofblood_high_god_name_possessive$" #NT!
+ roadofblood_health_god_name: "sang" #NT!
+ roadofblood_health_god_name_possessive: "du sang" #NT!
+ roadofblood_fertility_god_name: "$roadofblood_high_god_name$" #NT!
+ roadofblood_fertility_god_name_possessive: "$roadofblood_high_god_name_possessive$" #NT!
+ roadofblood_wealth_god_name: "$roadofblood_high_god_name$" #NT!
+ roadofblood_wealth_god_name_possessive: "$roadofblood_high_god_name_possessive$" #NT!
+ roadofblood_household_god_name: "$roadofblood_health_god_name$" #NT!
+ roadofblood_household_god_name_possessive: "$roadofblood_health_god_name_possessive$" #NT!
+ roadofblood_fate_god_name: "$roadofblood_high_god_name$" #NT!
+ roadofblood_fate_god_name_possessive: "$roadofblood_high_god_name_possessive$" #NT!
+ roadofblood_knowledge_god_name: "$roadofblood_high_god_name$" #NT!
+ roadofblood_knowledge_god_name_possessive: "$roadofblood_high_god_name_possessive$" #NT!
+ roadofblood_war_god_name: "$roadofblood_high_god_name$" #NT!
+ roadofblood_war_god_name_possessive: "$roadofblood_high_god_name_possessive$" #NT!
+ roadofblood_trickster_god_name: "Fortune" #NT!
+ roadofblood_trickster_god_name_possessive: "La Fortune" #NT!
+ roadofblood_night_god_name: "$roadofblood_high_god_name$" #NT!
+ roadofblood_night_god_name_possessive: "$roadofblood_high_god_name_possessive$" #NT!
+ roadofblood_water_god_name: "$roadofblood_health_god_name$" #NT!
+ roadofblood_water_god_name_possessive: "$roadofblood_health_god_name_possessive$" #NT!
+  
+  #Sentinel-Group Faiths 
+ tariqelhaqim: "Tariq el-Haqim" #NT!
+ tariqelhaqim_adj: "Banu Haqim" #NT!
+ tariqelhaqim_adherent: "Sentinelle" #NT!
+ tariqelhaqim_adherent_plural: "Sentinelles" #NT!
+ tariqelhaqim_desc: "Ceux qui suivent la Via Sanguinus sont parmi les plus meurtriers pour leurs camarades [cainites|E], car l'acte du [diablerie|E] est presque un rite de purification parmi les Sentinelles. En effet, l’un des principaux principes de la route est que ses adeptes purgent tout ce qui est indigne du sang de Caïn et purifient les lignées." #NT!
+  
+ pathofrighteousness: "Le chemin de la justice" #NT!
+ pathofrighteousness_adj: "Droiture" #NT!
+ pathofrighteousness_adherent: "Observateur" #NT!
+ pathofrighteousness_adherent_plural: "Observateurs" #NT!
+ pathofrighteousness_desc: "Observateurs sur Observateurs, les adeptes de cette voie se préoccupent d'éradiquer la corruption et le manque de détermination parmi les adeptes de la Route du Sang." #NT!
+  
+ holy_order_sentinnels_of_haqim: "Les Sentinelles d'Haqim" #NT!
+ holy_order_knives: "Les couteaux dans le noir" #NT!
+ holy_order_judges: "Les juges" #NT!
+ holy_order_alamut: "Les guerriers d'Alamut" #NT!
+  
+ sisterhoodoferinyes: "Fraternité d'Erinyes" #NT!
+ sisterhoodoferinyes_adj: "Fraternel" #NT!
+ sisterhoodoferinyes_adherent: "Sœur" #NT!
+ sisterhoodoferinyes_adherent_plural: "Sœurs" #NT!
+ sisterhoodoferinyes_desc: "La Fraternité existe sous une forme ou une autre depuis les nuits de la Grèce antique, lorsqu'un vizir donna le sang à un trio de sœurs dont la rumeur disait qu'elles avaient des pouvoirs prophétiques.\nDévoquées à défendre le point de vue de Haqim sur la justice, les sœurs ont souvent été ostracisées par les les hommes dominaient Alamut mais se sont toujours comportés publiquement et avec fierté dans les couloirs des Banu Haqim." #NT!
+  
+  
+  
+  

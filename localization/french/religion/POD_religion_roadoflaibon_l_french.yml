@@ -1,0 +1,75 @@
+﻿l_french:
+  
+  #Common Laibon Localization 
+ roadoflaibon_religion: "Laibon" #NT!
+ roadoflaibon_religion_adj: "Laibon" #NT!
+ roadoflaibon_religion_adherent: "Laibon" #NT!
+ roadoflaibon_religion_adherent_plural: "Laibons" #NT!
+ roadoflaibon_religion_desc: "Laibon est principalement un terme accrocheur utilisé pour déterminer un mépris pour le mythe de Caïn partagé par la plupart des vampires africains." #NT!
+ roadoflaibon_high_god_name: "Royaume d'ébène" #NT!
+ roadoflaibon_high_god_name_possessive: "Royaume d'ébène" #NT!
+ roadoflaibon_high_god_name_alternate: "Afrique" #NT!
+ roadoflaibon_high_god_name_alternate_possessive: "L'Afrique" #NT!
+ roadoflaibon_good_god_jesus: "$roadoflaibon_health_god_name$" #NT!
+ roadoflaibon_good_god_christ: "Faim" #NT!
+ roadoflaibon_devil_name: "La faim" #NT!
+ roadoflaibon_devil_name_possessive: "La faim" #NT!
+ roadoflaibon_evil_god_lucifer: "La faim" #NT!
+ roadoflaibon_evil_god_beelzebub: "La faim" #NT!
+ roadoflaibon_evil_god_mephistopheles: "La faim" #NT!
+ roadoflaibon_death_deity_name: "Destruction" #NT!
+ roadoflaibon_death_deity_name_possessive: "Destruction" #NT!
+ roadoflaibon_house_of_worship: "tribu" #NT!
+ roadoflaibon_house_of_worship_plural: "tribus" #NT!
+ roadoflaibon_religious_symbol: "couronne d'ébène" #NT!
+ roadoflaibon_religious_text: "traditions" #NT!
+ roadoflaibon_religious_head_title: "Kholo spirituel" #NT!
+ roadoflaibon_religious_head_title_name: "Kholo spirituel" #NT!
+ roadoflaibon_devotee_male: "Gardien du savoir" #NT!
+ roadoflaibon_devotee_male_plural: "Gardiens du savoir" #NT!
+ roadoflaibon_devotee_female: "Gardien du savoir" #NT!
+ roadoflaibon_devotee_female_plural: "Gardiens du savoir" #NT!
+ roadoflaibon_devotee_neuter: "Gardien du savoir" #NT!
+ roadoflaibon_devotee_neuter_plural: "Gardiens du savoir" #NT!
+ roadoflaibon_priest_male: "Kholo" #NT!
+ roadoflaibon_priest_male_plural: "Kholos" #NT!
+ roadoflaibon_priest_alternate_plural: "Gardiens du savoir" #NT!
+ roadoflaibon_bishop: "Gardien du savoir" #NT!
+ roadoflaibon_bishop_plural: "Gardiens du savoir" #NT!
+ roadoflaibon_divine_realm: "sauvages" #NT!
+ roadoflaibon_positive_afterlife: "sauvages" #NT!
+ roadoflaibon_negative_afterlife: "les abysses" #NT!
+ roadoflaibon_witchgodname_the_horned_god: "la faim" #NT!
+ roadoflaibon_witchgodname_the_horned_god_possessive: "la faim" #NT!
+  
+ roadoflaibon_creator_god_name: "$roadoflaibon_high_god_name$" #NT!
+ roadoflaibon_creator_god_name_possessive: "$roadoflaibon_high_god_name_possessive$" #NT!
+ roadoflaibon_health_god_name: "sang" #NT!
+ roadoflaibon_health_god_name_possessive: "du sang" #NT!
+ roadoflaibon_fertility_god_name: "$roadoflaibon_high_god_name$" #NT!
+ roadoflaibon_fertility_god_name_possessive: "$roadoflaibon_high_god_name_possessive$" #NT!
+ roadoflaibon_wealth_god_name: "$roadoflaibon_high_god_name$" #NT!
+ roadoflaibon_wealth_god_name_possessive: "$roadoflaibon_high_god_name_possessive$" #NT!
+ roadoflaibon_household_god_name: "$roadoflaibon_health_god_name$" #NT!
+ roadoflaibon_household_god_name_possessive: "$roadoflaibon_health_god_name_possessive$" #NT!
+ roadoflaibon_fate_god_name: "$roadoflaibon_high_god_name$" #NT!
+ roadoflaibon_fate_god_name_possessive: "$roadoflaibon_high_god_name_possessive$" #NT!
+ roadoflaibon_knowledge_god_name: "$roadoflaibon_high_god_name$" #NT!
+ roadoflaibon_knowledge_god_name_possessive: "$roadoflaibon_high_god_name_possessive$" #NT!
+ roadoflaibon_war_god_name: "$roadoflaibon_high_god_name$" #NT!
+ roadoflaibon_war_god_name_possessive: "$roadoflaibon_high_god_name_possessive$" #NT!
+ roadoflaibon_trickster_god_name: "Fortune" #NT!
+ roadoflaibon_trickster_god_name_possessive: "La Fortune" #NT!
+ roadoflaibon_night_god_name: "$roadoflaibon_high_god_name$" #NT!
+ roadoflaibon_night_god_name_possessive: "$roadoflaibon_high_god_name_possessive$" #NT!
+ roadoflaibon_water_god_name: "$roadoflaibon_health_god_name$" #NT!
+ roadoflaibon_water_god_name_possessive: "$roadoflaibon_health_god_name_possessive$" #NT!
+  
+  #Laibon-Group Faiths 
+ laibon: "Laibon" #NT!
+ laibon_adj: "Laibon" #NT!
+ laibon_adherent: "Laibon" #NT!
+ laibon_adherent_plural: "Laibon" #NT!
+ laibon_desc: "Les Laibon ne sont pas une race surnaturelle distincte, mais les Laibon sont, à bien des égards, très différents des apparentés « normaux ». Ils attribuent leurs origines aux dieux et légendes africains, contrairement à la version noddiste de Kindred." #NT!
+  
+  

@@ -1,0 +1,76 @@
+﻿l_french:
+  
+  #Common Ignorance Localization 
+ ignorance_name: "Ignorance" #NT!
+ ignorance_religion: "Ignorance" #NT!
+ ignorance_religion_adj: "Ignorance" #NT!
+ ignorance_religion_adherent: "Ignorant" #NT!
+ ignorance_religion_adherent_plural: "Ignorants" #NT!
+ ignorance_religion_desc: "La plupart des humains ignorent le monde des ténèbres" #NT!
+ ignorance_high_god_name: "Ignorance" #NT!
+ ignorance_high_god_name_possessive: "L'ignorance" #NT!
+ ignorance_high_god_name_alternate: "Dieu" #NT!
+ ignorance_high_god_name_alternate_possessive: "Dieux" #NT!
+ ignorance_good_god_jesus: "$ignorance_health_god_name$" #NT!
+ ignorance_good_god_christ: "Ignorance" #NT!
+ ignorance_devil_name: "Mal" #NT!
+ ignorance_devil_name_possessive: "Le mal" #NT!
+ ignorance_evil_god_lucifer: "Mal" #NT!
+ ignorance_evil_god_beelzebub: "Mal" #NT!
+ ignorance_evil_god_mephistopheles: "Mal" #NT!
+ ignorance_death_deity_name: "La mort" #NT!
+ ignorance_death_deity_name_possessive: "Décès" #NT!
+ ignorance_house_of_worship: "maison" #NT!
+ ignorance_house_of_worship_plural: "maisons" #NT!
+ ignorance_religious_symbol: "croix" #NT!
+ ignorance_religious_text: "écritures" #NT!
+ ignorance_religious_head_title: "pasteur" #NT!
+ ignorance_religious_head_title_name: "pasteur" #NT!
+ ignorance_devotee_male: "pasteur" #NT!
+ ignorance_devotee_male_plural: "pasteurs" #NT!
+ ignorance_devotee_female: "pasteur" #NT!
+ ignorance_devotee_female_plural: "pasteurs" #NT!
+ ignorance_devotee_neuter: "pasteur" #NT!
+ ignorance_devotee_neuter_plural: "pasteurs" #NT!
+ ignorance_priest_male: "pasteur" #NT!
+ ignorance_priest_male_plural: "pasteurs" #NT!
+ ignorance_priest_alternate_plural: "pasteurs" #NT!
+ ignorance_bishop: "évêque" #NT!
+ ignorance_bishop_plural: "évêques" #NT!
+ ignorance_divine_realm: "paradis" #NT!
+ ignorance_positive_afterlife: "paradis" #NT!
+ ignorance_negative_afterlife: "enfer" #NT!
+ ignorance_witchgodname_the_horned_god: "Mal" #NT!
+ ignorance_witchgodname_the_horned_god_possessive: "Le mal" #NT!
+  
+ ignorance_creator_god_name: "$ignorance_high_god_name$" #NT!
+ ignorance_creator_god_name_possessive: "$ignorance_high_god_name_possessive$" #NT!
+ ignorance_health_god_name: "santé" #NT!
+ ignorance_health_god_name_possessive: "la santé" #NT!
+ ignorance_fertility_god_name: "$ignorance_high_god_name$" #NT!
+ ignorance_fertility_god_name_possessive: "$ignorance_high_god_name_possessive$" #NT!
+ ignorance_wealth_god_name: "$ignorance_high_god_name$" #NT!
+ ignorance_wealth_god_name_possessive: "$ignorance_high_god_name_possessive$" #NT!
+ ignorance_household_god_name: "$ignorance_health_god_name$" #NT!
+ ignorance_household_god_name_possessive: "$ignorance_health_god_name_possessive$" #NT!
+ ignorance_fate_god_name: "$ignorance_high_god_name$" #NT!
+ ignorance_fate_god_name_possessive: "$ignorance_high_god_name_possessive$" #NT!
+ ignorance_knowledge_god_name: "$ignorance_high_god_name$" #NT!
+ ignorance_knowledge_god_name_possessive: "$ignorance_high_god_name_possessive$" #NT!
+ ignorance_war_god_name: "$ignorance_high_god_name$" #NT!
+ ignorance_war_god_name_possessive: "$ignorance_high_god_name_possessive$" #NT!
+ ignorance_trickster_god_name: "Fortune" #NT!
+ ignorance_trickster_god_name_possessive: "La Fortune" #NT!
+ ignorance_night_god_name: "$ignorance_high_god_name$" #NT!
+ ignorance_night_god_name_possessive: "$ignorance_high_god_name_possessive$" #NT!
+ ignorance_water_god_name: "$ignorance_health_god_name$" #NT!
+ ignorance_water_god_name_possessive: "$ignorance_health_god_name_possessive$" #NT!
+  
+  #Ignorant-Group Faiths 
+  
+ innocence: "Innocent" #NT!
+ innocence_adj: "Innocent" #NT!
+ innocence_adherent: "Innocent" #NT!
+ innocence_adherent_plural: "Innocents" #NT!
+ innocence_desc: "La majorité des humains sont innocents. Ils ignorent le monde des ténèbres. Ils ne savent rien des monstres qui s'en prennent à eux." #NT!
+  

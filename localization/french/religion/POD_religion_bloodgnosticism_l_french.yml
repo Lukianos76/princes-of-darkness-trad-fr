@@ -1,0 +1,256 @@
+﻿l_french:
+  
+  #Common Blood Gnosticism Localization 
+ bloodgnosticism_religion: "Gnosticisme du sang" #NT!
+ bloodgnosticism_religion_adj: "Gnosticisme du sang" #NT!
+ bloodgnosticism_religion_adherent: "Gnostique du sang" #NT!
+ bloodgnosticism_religion_adherent_plural: "Gnostiques du sang" #NT!
+ bloodgnosticism_religion_desc: "Kindred et goules influencés par le gnosticisme" #NT!
+ bloodgnosticism_high_god_name: "Caïn" #NT!
+ bloodgnosticism_high_god_name_possessive: "Caïn" #NT!
+ bloodgnosticism_high_god_name_alternate: "Caïn" #NT!
+ bloodgnosticism_high_god_name_alternate_possessive: "Les dieux" #NT!
+ bloodgnosticism_good_god_jesus: "$bloodgnosticism_health_god_name$" #NT!
+ bloodgnosticism_good_god_christ: "Caïn" #NT!
+ bloodgnosticism_devil_name: "Ialdabaoth" #NT!
+ bloodgnosticism_devil_name_possessive: "Ialdabaoth" #NT!
+ bloodgnosticism_evil_god_lucifer: "Démiurge" #NT!
+ bloodgnosticism_evil_god_beelzebub: "30e éon de Dieu" #NT!
+ bloodgnosticism_evil_god_mephistopheles: "Démiurge" #NT!
+ bloodgnosticism_death_deity_name: "Destruction" #NT!
+ bloodgnosticism_death_deity_name_possessive: "Destruction" #NT!
+ bloodgnosticism_house_of_worship: "chapelle" #NT!
+ bloodgnosticism_house_of_worship_plural: "chapelles" #NT!
+ bloodgnosticism_religious_symbol: "croix" #NT!
+ bloodgnosticism_religious_text: "Euagetaematikon" #NT!
+ bloodgnosticism_religious_head_title: "principe de foi" #NT!
+ bloodgnosticism_religious_head_title_name: "principe de foi" #NT!
+ bloodgnosticism_devotee_male: "principe de foi" #NT!
+ bloodgnosticism_devotee_male_plural: "principes de foi" #NT!
+ bloodgnosticism_devotee_female: "principe de foi" #NT!
+ bloodgnosticism_devotee_female_plural: "principes de foi" #NT!
+ bloodgnosticism_devotee_neuter: "principe de foi" #NT!
+ bloodgnosticism_devotee_neuter_plural: "principes de foi" #NT!
+ bloodgnosticism_priest_male: "principe de foi" #NT!
+ bloodgnosticism_priest_male_plural: "principes de foi" #NT!
+ bloodgnosticism_priest_alternate_plural: "principes de foi" #NT!
+ bloodgnosticism_bishop: "évêque" #NT!
+ bloodgnosticism_bishop_plural: "évêques" #NT!
+ bloodgnosticism_bishop_male: "évêque" #NT!
+ bloodgnosticism_bishop_male_plural: "évêques" #NT!
+ bloodgnosticism_divine_realm: "paradis" #NT!
+ bloodgnosticism_positive_afterlife: "paradis" #NT!
+ bloodgnosticism_negative_afterlife: "les abysses" #NT!
+ bloodgnosticism_witchgodname_the_horned_god: "Ialdabaoth" #NT!
+ bloodgnosticism_witchgodname_the_horned_god_possessive: "Ialdabaoth" #NT!
+  
+ bloodgnosticism_creator_god_name: "$bloodgnosticism_high_god_name$" #NT!
+ bloodgnosticism_creator_god_name_possessive: "$bloodgnosticism_high_god_name_possessive$" #NT!
+ bloodgnosticism_health_god_name: "Dieu" #NT!
+ bloodgnosticism_health_god_name_possessive: "Dieux" #NT!
+ bloodgnosticism_fertility_god_name: "$bloodgnosticism_high_god_name$" #NT!
+ bloodgnosticism_fertility_god_name_possessive: "$bloodgnosticism_high_god_name_possessive$" #NT!
+ bloodgnosticism_wealth_god_name: "$bloodgnosticism_high_god_name$" #NT!
+ bloodgnosticism_wealth_god_name_possessive: "$bloodgnosticism_high_god_name_possessive$" #NT!
+ bloodgnosticism_household_god_name: "$bloodgnosticism_health_god_name$" #NT!
+ bloodgnosticism_household_god_name_possessive: "$bloodgnosticism_health_god_name_possessive$" #NT!
+ bloodgnosticism_fate_god_name: "$bloodgnosticism_high_god_name$" #NT!
+ bloodgnosticism_fate_god_name_possessive: "$bloodgnosticism_high_god_name_possessive$" #NT!
+ bloodgnosticism_knowledge_god_name: "$bloodgnosticism_high_god_name$" #NT!
+ bloodgnosticism_knowledge_god_name_possessive: "$bloodgnosticism_high_god_name_possessive$" #NT!
+ bloodgnosticism_war_god_name: "$bloodgnosticism_high_god_name$" #NT!
+ bloodgnosticism_war_god_name_possessive: "$bloodgnosticism_high_god_name_possessive$" #NT!
+ bloodgnosticism_trickster_god_name: "Fortune" #NT!
+ bloodgnosticism_trickster_god_name_possessive: "La Fortune" #NT!
+ bloodgnosticism_night_god_name: "$bloodgnosticism_high_god_name$" #NT!
+ bloodgnosticism_night_god_name_possessive: "$bloodgnosticism_high_god_name_possessive$" #NT!
+ bloodgnosticism_water_god_name: "$bloodgnosticism_health_god_name$" #NT!
+ bloodgnosticism_water_god_name_possessive: "$bloodgnosticism_health_god_name_possessive$" #NT!
+  
+  #Blood Gnostics-Group Faiths 
+  
+ viacain: "Hérésie Caïnite" #NT!
+ viacain_adj: "Caïnite" #NT!
+ viacain_adherent: "Caïnite" #NT!
+ viacain_adherent_plural: "Caïnites" #NT!
+ viacain_desc: "L'Hérésie Caïnite est une croyance hérétique pratiquée principalement par les Caïnites chrétiens, mais pas exclusivement par les vampires Lasombra. Il est fortement imprégné de gnosticisme et emploie un troupeau de prêtres et de religieux humains. Historiquement, l'hérésie est née de divers cultes du sang dans lesquels les vampires étaient vénérés comme des dieux. Les vampires, en raison de leur corps incorruptible, de leur indépendance du monde matériel et du pouvoir que leur confère leur [disciplines|E], étaient considérés par certains gnostiques comme des créatures d'une spiritualité supérieure et étaient recherchés pour leurs enseignements en échange de vitae." #NT!
+  
+ holy_order_order_of_saint_panteleimon: "Ordre de Saint-Panteleimon" #NT!
+ holy_order_order_of_euagetaematikon: "L'Ordre Euagetaematikon" #NT!
+ holy_order_knights_of_the_sable_rose: "Chevaliers de la Rose de Sable" #NT!
+ holy_order_knights_of_shining_blood: "Chevaliers du Sang Brillant" #NT!
+ holy_order_knights_of_nod: "Chevaliers du Nod" #NT!
+ holy_order_order_of_the_second_caine: "Ordre du Second Caïn" #NT!
+  
+ viapura: "Via Pura" #NT!
+ viapura_adj: "Katharoi" #NT!
+ viapura_adherent: "Kathar" #NT!
+ viapura_adherent_plural: "Katharoi" #NT!
+ viapura_desc: "À une époque de résistance croissante à l’autorité cléricale, ils ont choisi le dualisme gnostique comme l’épée la mieux forgée pour atteindre leurs objectifs. Les Zélotes construisent des religions avec un calcul presque cynique, en s’appuyant sur le néoplatonisme, les Écritures apocryphes et d’autres sources obscures. Ils se sont nommés Katharoi et soutiennent les Cathares mortels (le même mot, prononcé en français et en latin) non pas en tant que mécènes, mais en tant que guides spirituels." #NT!
+  
+ holy_order_the_pure: "Le pur" #NT!
+ holy_order_order_of_shining_blood: "L'Ordre du Sang Brillant" #NT!
+  
+ calomenaschosen: "L'élu de Calomena" #NT!
+ calomenaschosen_adj: "Chosen" #NT!
+ calomenaschosen_adherent: "Chosen" #NT!
+ calomenaschosen_adherent_plural: "Chosen" #NT!
+ calomenaschosen_desc: "Les Élus ont été fondés par le Caitiff Stanislav. Fondé dans les Balkans occidentaux, ce culte semble vaguement dérivé de l’hérésie bogomile. Les Élus croient que Caïn était un enfant du diable et que ses enfants sont la manifestation la plus vile sur terre. On pense que Calomena, la sœur jumelle de Caine, se prépare à revenir et à détruire les vils Caïnites, nettoyant le monde pour le glorieux Esprit de Dieu. Les Sans Clan sont ses instruments de prédilection. Ils organisent des cercles dirigés par des vampires avec des goules et des mortels. Stanislav fut martyrisé en 1204 à la fin du Rêve de Michel et de la Croisade amère, mais son culte se dirigea vers la Géhenne." #NT!
+ calomenaschosen_fertility_god_name: "Calomène" #NT!
+ calomenaschosen_fertility_god_name_possessive: "de Calomène" #NT!
+ calomenaschosen_wealth_god_name: "Calomène" #NT!
+ calomenaschosen_wealth_god_name_possessive: "de Calomène" #NT!
+ calomenaschosen_household_god_name: "Calomène" #NT!
+ calomenaschosen_household_god_name_possessive: "de Calomène" #NT!
+ calomenaschosen_fate_god_name: "Calomène" #NT!
+ calomenaschosen_fate_god_name_possessive: "de Calomène" #NT!
+ calomenaschosen_knowledge_god_name: "Calomène" #NT!
+ calomenaschosen_knowledge_god_name_possessive: "de Calomène" #NT!
+ calomenaschosen_war_god_name: "Calomène" #NT!
+ calomenaschosen_war_god_name_possessive: "de Calomène" #NT!
+ calomenaschosen_trickster_god_name: "Calomène" #NT!
+ calomenaschosen_trickster_god_name_possessive: "de Calomène" #NT!
+ calomenaschosen_water_god_name: "Calomène" #NT!
+ calomenaschosen_water_god_name_possessive: "de Calomène" #NT!
+ calomenaschosen_high_god_name: "Calomène" #NT!
+ calomenaschosen_high_god_name_possessive: "de Calomène" #NT!
+ calomenaschosen_high_god_name_alternate: "Calomène" #NT!
+ calomenaschosen_high_god_name_alternate_possessive: "de Calomène" #NT!
+ calomenaschosen_good_god_jesus: "Calomène" #NT!
+ calomenaschosen_good_god_christ: "Calomène" #NT!
+ calomenaschosen_devil_name: "Caïn" #NT!
+ calomenaschosen_devil_name_possessive: "Caïn" #NT!
+ calomenaschosen_evil_god_lucifer: "Caïn" #NT!
+ calomenaschosen_evil_god_beelzebub: "Caïn" #NT!
+ calomenaschosen_evil_god_mephistopheles: "Caïn" #NT!
+ holy_order_martyrs_of_stanislav: "Martyrs de Stanislav" #NT!
+ holy_order_harbingers_of_gehenna: "Présages de la Géhenne" #NT!
+  
+ eschatologists: "Eschatologues de Cappadoce" #NT!
+ eschatologists_adj: "Eschatologue" #NT!
+ eschatologists_adherent: "Eschatologue" #NT!
+ eschatologists_adherent_plural: "Eschatologues" #NT!
+ eschatologists_desc: "Une faction des Graverobber [Clan|E] croit fermement à l'hérésie caïnite, bien qu'avec une emphase plus christologique que la secte principale. Les eschatologues croient qu'ils sont à la fois la progéniture de Caïn et du Christ, et qu'offrir leur vie aux mortels est un sacrement en soi. Les eschatologues parcourent les petites routes d'Europe et organisent des « réveils » de masse qui mettent en vedette d'étonnants miracles de sang et de [discipline|E]. La plus grande de ces assemblées a lieu le 17 décembre, fête de Saint-Lazare." #NT!
+ eschatologists_fertility_god_name: "Caïn" #NT!
+ eschatologists_fertility_god_name_possessive: "Caïn" #NT!
+ eschatologists_wealth_god_name: "Christ" #NT!
+ eschatologists_wealth_god_name_possessive: "celui du Christ" #NT!
+ eschatologists_household_god_name: "Christ" #NT!
+ eschatologists_household_god_name_possessive: "celui du Christ" #NT!
+ eschatologists_fate_god_name: "Lazare" #NT!
+ eschatologists_fate_god_name_possessive: "Lazare" #NT!
+ eschatologists_knowledge_god_name: "Cappadoce" #NT!
+ eschatologists_knowledge_god_name_possessive: "Cappadoce" #NT!
+ eschatologists_war_god_name: "Caïn" #NT!
+ eschatologists_war_god_name_possessive: "Caïn" #NT!
+ eschatologists_trickster_god_name: "Lazare" #NT!
+ eschatologists_trickster_god_name_possessive: "Lazare" #NT!
+ eschatologists_water_god_name: "Christ" #NT!
+ eschatologists_water_god_name_possessive: "celui du Christ" #NT!
+ eschatologists_high_god_name: "Caïn" #NT!
+ eschatologists_high_god_name_possessive: "Caïn" #NT!
+ eschatologists_high_god_name_alternate: "Christ" #NT!
+ eschatologists_high_god_name_alternate_possessive: "celui du Christ" #NT!
+ eschatologists_good_god_jesus: "Jésus" #NT!
+ eschatologists_good_god_christ: "Christ" #NT!
+ eschatologists_devil_name: "Ialdabaoth" #NT!
+ eschatologists_devil_name_possessive: "Ialdabaoth" #NT!
+ eschatologists_evil_god_lucifer: "Démiurge" #NT!
+ eschatologists_evil_god_beelzebub: "Démiurge" #NT!
+ holy_order_knights_of_hospital_of_saint_lazarus: "Chevaliers de l'Hôpital de Saint-Lazare" #NT!
+ holy_order_knights_of_hospital_of_caine: "Chevaliers de l'Hôpital de Caïn" #NT!
+ blackmagdalene: "Église de la Madeleine Noire" #NT!
+ blackmagdalene_adj: "Madeleine noire" #NT!
+ blackmagdalene_adherent: "Madeleine noire" #NT!
+ blackmagdalene_adherent_plural: "Madeleines noires" #NT!
+ blackmagdalene_desc: "Se déplaçant à travers l'Europe depuis leur base de Marseille pour séduire et corrompre les fidèles. Ils utilisent la même doctrine que l'Hérésie Caïnite, y compris la Communion du Sang. Ils identifient Sainte Marie-Madeleine avec Isis et la Sophie Gnostique. Les couvents magdalénites servent souvent de maisons de « temple de prostitution » rappelant les anciens cultes de fertilité du Levant – et ils cachent des rituels amers et sanglants de castration et de cannibalisme aux mystères les plus sombres. Tout prêtre lubrique sait où ses pensées les plus sinistres peuvent trouver satiété, et les gens ordinaires ont commencé à identifier Sainte Marie-Madeleine avec la « femme adultère » sans nom grâce aux excès du culte. Les « jeux de la passion » presque pornographiques présentés aux Magdaléniens le 22 juillet, fête de la Madeleine, ont été dénoncés par les prêtres de toute la France. Les adeptes de Set envoient délibérément leurs membres les plus impétueux et les moins subtils fonder des sectes magdalénites." #NT!
+ blackmagdalene_fertility_god_name: "Madeleine noire" #NT!
+ blackmagdalene_fertility_god_name_possessive: "Madeleine noire" #NT!
+ blackmagdalene_wealth_god_name: "Madeleine noire" #NT!
+ blackmagdalene_wealth_god_name_possessive: "Madeleine noire" #NT!
+ blackmagdalene_household_god_name: "Madeleine noire" #NT!
+ blackmagdalene_household_god_name_possessive: "Madeleine noire" #NT!
+ blackmagdalene_fate_god_name: "Isis" #NT!
+ blackmagdalene_fate_god_name_possessive: "Isis'" #NT!
+ blackmagdalene_knowledge_god_name: "Sophie" #NT!
+ blackmagdalene_knowledge_god_name_possessive: "celle de Sophie" #NT!
+ blackmagdalene_war_god_name: "Madeleine noire" #NT!
+ blackmagdalene_war_god_name_possessive: "Madeleine noire" #NT!
+ blackmagdalene_trickster_god_name: "Madeleine noire" #NT!
+ blackmagdalene_trickster_god_name_possessive: "Madeleine noire" #NT!
+ blackmagdalene_water_god_name: "Sophie" #NT!
+ blackmagdalene_water_god_name_possessive: "celle de Sophie" #NT!
+ blackmagdalene_high_god_name: "Madeleine noire" #NT!
+ blackmagdalene_high_god_name_possessive: "Madeleine noire" #NT!
+ blackmagdalene_high_god_name_alternate: "Madeleine noire" #NT!
+ blackmagdalene_high_god_name_alternate_possessive: "Madeleine noire" #NT!
+ blackmagdalene_good_god_jesus: "Madeleine noire" #NT!
+ blackmagdalene_good_god_christ: "Madeleine noire" #NT!
+ blackmagdalene_devil_name: "Ialdabaoth" #NT!
+ blackmagdalene_devil_name_possessive: "Ialdabaoth" #NT!
+ blackmagdalene_evil_god_lucifer: "Démiurge" #NT!
+ blackmagdalene_evil_god_beelzebub: "Démiurge" #NT!
+ holy_order_black_johns: "Johns noirs" #NT!
+ holy_order_order_of_annointed_blood: "Ordre du Sang Oint" #NT!
+ holy_order_handmaidens_of_sophia: "Servantes de Sophie" #NT!
+  
+ swarmofsamael: "Essaim de Samael" #NT!
+ swarmofsamael_adj: "Essaim de Samael" #NT!
+ swarmofsamael_adherent: "Samaélite" #NT!
+ swarmofsamael_adherent_plural: "Essaim de Samael" #NT!
+ swarmofsamael_desc: "Contrôlé par les Baali, l'Essaim considère que les Ialdabaoth sont les têtes jumelles de la même Bête. L'Essaim met l'accent sur les traditions eschatologiques de l'Euagetaematikon plutôt que sur la communion sanguine ou les éléments christologiques, mais il révèle rapidement les mystères les plus sombres de l'infernalisme aux imprudents. La Curie Pourpre n'hésite pas à dénoncer les cultes hérétiques Baali." #NT!
+ swarmofsamael_fertility_god_name: "Baal" #NT!
+ swarmofsamael_fertility_god_name_possessive: "celui de Baal" #NT!
+ swarmofsamael_wealth_god_name: "Samaël" #NT!
+ swarmofsamael_wealth_god_name_possessive: "celui de Samaël" #NT!
+ swarmofsamael_household_god_name: "Baal" #NT!
+ swarmofsamael_household_god_name_possessive: "celui de Baal" #NT!
+ swarmofsamael_fate_god_name: "Samaël" #NT!
+ swarmofsamael_fate_god_name_possessive: "celui de Samaël" #NT!
+ swarmofsamael_knowledge_god_name: "Baal" #NT!
+ swarmofsamael_knowledge_god_name_possessive: "celui de Baal" #NT!
+ swarmofsamael_war_god_name: "Samaël" #NT!
+ swarmofsamael_war_god_name_possessive: "celui de Samaël" #NT!
+ swarmofsamael_trickster_god_name: "Baal" #NT!
+ swarmofsamael_trickster_god_name_possessive: "Madeleine noire" #NT!
+ swarmofsamael_water_god_name: "Samaël" #NT!
+ swarmofsamael_water_god_name_possessive: "celui de Samaël" #NT!
+ swarmofsamael_high_god_name: "Samaël" #NT!
+ swarmofsamael_high_god_name_possessive: "celui de Samaël" #NT!
+ swarmofsamael_high_god_name_alternate: "Baal" #NT!
+ swarmofsamael_high_god_name_alternate_possessive: "celui de Baal" #NT!
+ swarmofsamael_good_god_jesus: "Samaël" #NT!
+ swarmofsamael_good_god_christ: "Baal" #NT!
+ swarmofsamael_devil_name: "Ialdabaoth" #NT!
+ swarmofsamael_devil_name_possessive: "Ialdabaoth" #NT!
+ swarmofsamael_evil_god_lucifer: "Démiurge" #NT!
+ swarmofsamael_evil_god_beelzebub: "Démiurge" #NT!
+  
+ redtemptation: "Tentation rouge" #NT!
+ redtemptation_adj: "Caïnite rouge" #NT!
+ redtemptation_adherent: "Caïnite rouge" #NT!
+ redtemptation_adherent_plural: "Caïnites rouges" #NT!
+ redtemptation_desc: "La foi prêche que l'apparition du Christ en tant que Second Caïn avait marqué le début d'un grand soulèvement contre Ialdabaoth, le créateur diabolique du monde physique. Toutes les anciennes règles doivent être abolies, et les adeptes doivent en adopter autant que possible et se livrer à autant de licence qu'ils le peuvent." #NT!
+  
+ thirdcaine: "Patriarcat œcuménique du Troisième Caïn" #NT!
+ thirdcaine_adj: "Troisième Caïnite" #NT!
+ thirdcaine_adherent: "Troisième Caïnites" #NT!
+ thirdcaine_adherent_plural: "Troisième Caïnites" #NT!
+ thirdcaine_desc: "Cette religion non canonique a été commandée par un patron.\nFondée par le patriarche Alexandre du Synode de Vere-Imeja, cette faction de gnostiques du sang porte de nombreux attributs du christianisme orthodoxe oriental mortel." #NT!
+ thirdcaine_religious_head_title: "Patriarche" #NT!
+ thirdcaine_religious_head_title_name: "Patriarche" #NT!
+ holy_order_of_aleksandr: "Ordre d'Alexandre" #NT!
+  
+ apostlesthirdcaine: "Apôtres du Troisième Caïn" #NT!
+ apostlesthirdcaine_adj: "Apostolique" #NT!
+ apostlesthirdcaine_adherent: "Apôtres" #NT!
+ apostlesthirdcaine_adherent_plural: "Apôtres" #NT!
+ apostlesthirdcaine_desc: "Les Apôtres sont une émanation de l'Hérésie Caïnite qui s'est détachée du Siège de Nod vers l'an 1000 après JC.\nIls sont un mouvement de réforme au sein de leur foi, croyant que leurs voies simples et austères révéleront le Troisième Caïn, qu'ils croient être un mortel attendant d'être étreint." #NT!
+  
+ sanctamater: "Sainte Mère" #NT!
+ sanctamater_adj: "Sainte" #NT!
+ sanctamater_adherent: "Sainte Mère" #NT!
+ sanctamater_adherent_plural: "Sainte Mère" #NT!
+ sanctamater_desc: "Partant des mêmes racines que le Gnosticisme, Sancta Mater met l'accent sur la divinité de Marie, estimant qu'elle est détentrice de Sophia (la sagesse).\nEn adorant Sancta Mater, on peut espérer s'élever de ce faux monde et de ses gardien corrompu, l’Église romaine." #NT!
+  
+  

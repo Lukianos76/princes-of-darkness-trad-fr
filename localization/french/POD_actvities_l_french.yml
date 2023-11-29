@@ -1,0 +1,199 @@
+﻿l_french:
+  
+ activity_brujah_panegyra: "Brujah Panegyra" #NT!
+ activity_brujah_panegyra_desc: "Tradition créée par les Brujah helléniques, le Panegyra est une version vampirique des jeux olympiques adaptée aux forces et faiblesses uniques des enfants de Caïn." #NT!
+ activity_brujah_panegyra_host_desc: "$BULLET_WITH_TAB$[prestige_i|E][prestige|E]\n$BULLET_WITH_TAB$[stress_loss_i][stress|E] Perte\n$BULLET_WITH_TAB$[GetTrait('tourney_participant').GetName( GetNullCharacter )] [trait_level_track_xp|E]" #NT!
+ activity_brujah_panegyra_selection_tooltip: "Invitez vos $knight_culture_player_plural$, vos sujets et vos voisins à un grand spectacle de concours\n\nRécompenses anticipées :\n$BULLET_WITH_TAB$[prestige_i] [prestige|E]\n$BULLET_WITH_TAB$[stress_loss_i] [stress|E] Perte" #NT!
+ activity_brujah_panegyra_destination_selection: ""
+ brujah_panegyra_conclusion_general: "Le Panegyra touche enfin à sa fin.\n" #NT!
+ activity_brujah_panegyra_guest_desc: "$BULLET_WITH_TAB$[prestige_i|E][prestige|E]\n$BULLET_WITH_TAB$[stress_loss_i][stress|E] Perte\n$BULLET_WITH_TAB$[GetTrait('tourney_participant').GetName( GetNullCharacter )] [trait_level_track_xp|E]" #NT!
+ #activity_brujah_panegyra_conclusion_desc: ""
+  
+ brujah_panegyra_option_accommodations: "Hébergements" #NT!
+ brujah_panegyra_accommodations_bad: "Tentes délabrées" #NT!
+ brujah_panegyra_accommodations_bad_desc: "$EFFECT_LIST_BULLET$ Plus les hébergements sont de qualité, plus vous gagnerez en prestige de dynastie à la fin de l'activité.\n\n#weak Qu'est-ce qui compte le plus, les compétences exposées ou l'endroit où vous les affichez ?#!" #NT!
+ brujah_panegyra_accommodations_normal: "Pavillons simples" #NT!
+ brujah_panegyra_accommodations_normal_desc: "$EFFECT_LIST_BULLET$ Plus l'hébergement est de qualité, plus vous gagnerez en prestige de dynastie à la fin de l'activité.\n\n#weak La clé d'une performance décente est d'avoir une bonne journée de repos.#!" #NT!
+ brujah_panegyra_accommodations_good: "Campements luxueux" #NT!
+ brujah_panegyra_accommodations_good_desc: "$EFFECT_LIST_BULLET$ Plus les hébergements sont de qualité, plus vous gagnerez en prestige de dynastie à la fin de l'activité.\n\n#weak Panegyra devrait être plus que de simples événements sportifs, ils devraient être des #underline expériences#! entières pour montrer la gloire. du clan Brujah!.#!" #NT!
+  
+ brujah_panegyra_option_prizes: "Prix" #NT!
+ brujah_panegyra_prizes_bad: "Prix ​​simples" #NT!
+ brujah_panegyra_prizes_bad_desc: "$EFFECT_LIST_BULLET$ Déterminez le montant d'or offert aux gagnants.\n\n#weak Nous sommes là par amour du sport, les babioles proposées ne sont qu'un prétexte.#!" #NT!
+ brujah_panegyra_prizes_normal: "Des prix décents" #NT!
+ brujah_panegyra_prizes_normal_desc: "$EFFECT_LIST_BULLET$ Déterminez la quantité d'or offerte aux gagnants.\n\n#weak Même si nous ne sommes pas là pour les prix, pouvoir financer le voyage de retour est un objectif très pratique.#!" #NT!
+ brujah_panegyra_prizes_good: "Beaux prix" #NT!
+ brujah_panegyra_prizes_good_desc: "$EFFECT_LIST_BULLET$ Déterminer le montant d'or offert aux gagnants.\n\n#weak Sans enjeu, à quoi ça sert une compétition ?#!" #NT!
+ brujah_panegyra_prizes_very_good: "Bons prix" #NT!
+ brujah_panegyra_prizes_very_good_desc: "$EFFECT_LIST_BULLET$ Déterminez la quantité d'or offerte aux gagnants.\n\n#weak Un prix n'est pas simplement une babiole remise au vainqueur, c'est un phare pour attirer les courageux et les audacieux.#!" #NT!
+ brujah_panegyra_prizes_splendid: "Des prix splendides" #NT!
+ brujah_panegyra_prizes_splendid_desc: "$EFFECT_LIST_BULLET$ Déterminez la quantité d'or offerte aux gagnants.\n\n#weak Les meilleurs prix sont ceux si glamour qu'ils éclipsent leurs gagnants.#!" #NT!
+  
+ brujah_panegyra_phase_archery: "Tir à l'arc" #NT!
+ brujah_panegyra_phase_archery_desc: "Une compétition d'arc dans laquelle chaque concurrent tire sur une cible avec un nombre défini de flèches, dans le but de marquer autant de points que possible.\nIl s'agit d'un ajout quelque peu nouveau au Panegyra, principalement demandé par les jeunes membres du clan Brujah à la recherche de quelque chose d'unique. un peu plus "moderne" pour rivaliser." #NT!
+ brujah_panegyra_phase_kerykes: "Kérykes" #NT!
+ brujah_panegyra_phase_kerykes_desc: "Concours d'art oratoire, c'est de loin le favori de la partie la plus érudite des Brujah... et le plus redouté des étrangers en raison de sa longueur." #NT!
+ brujah_panegyra_phase_wrestling: "Lutte" #NT!
+ brujah_panegyra_phase_wrestling_desc: "Élément classique des Jeux olympiques grecs, la lutte est un concours de force et d'astuce, dans lequel les concurrents tentent de renverser ou de jeter leurs ennemis hors du ring pour être les derniers survivants." #NT!
+ brujah_panegyra_phase_boxing: "Boxe" #NT!
+ brujah_panegyra_phase_boxing_desc: "Compétition la plus susceptible de provoquer la frénésie parmi ses participants, la boxe oppose deux combattants dans un duel avec un ensemble de règles élaborées (et souvent changeantes entre chaque Panegyra)." #NT!
+ brujah_panegyra_phase_board_game: "Jeu de plateau" #NT!
+ brujah_panegyra_phase_board_game_desc: "Un concours d'esprit dans lequel les participants jouent une série de matchs de jeu de société, le vainqueur final étant le dernier joueur restant.\nLes échecs sont de loin le jeu le plus joué, mais Panegyra, organisé dans des pays où il n'est pas aussi répandu, l'a souvent échangé. pour une alternative plus locale." #NT!
+ brujah_panegyra_phase_horse_race: "Course de chevaux" #NT!
+ brujah_panegyra_phase_horse_race_desc: "Un sport de spectateur dans lequel des seigneurs et des dames font courir des chevaux les uns contre les autres, le vainqueur étant le premier à franchir la ligne d'arrivée.\nCertains Panegyra utilisent des chars pour ce concours, tandis que d'autres séparent les courses de chevaux en plusieurs concours plus petits." #NT!
+  
+ panegyra_rewards_tt: "Des récompenses sont remises au vainqueur." #NT!
+  
+ brujah_panegyra_events.1000.t: "Tir à l'arc" #NT!
+ brujah_panegyra_events.1000.desc: "Le tir à l'arc n'a jamais fait partie des jeux olympiques originaux et, en tant que tel, n'a pas été considéré comme approprié par les Brujahs pour leur Panegyra. Ce n’est qu’après une longue et épuisante campagne menée par les plus jeunes membres du clan qu’il a finalement été ajouté en tant que compétition. Les partisans du tir à l'arc ont tendance à expliquer qu'il s'agit de l'incarnation parfaite du Brujah car il nécessite à la fois des aptitudes physiques et un esprit vif.\nLa plupart des gagnants ont tendance à être les jeunes nouveau-nés qui ont grandi avec un arc à la main et c'est de loin le meilleur. concours qu'ils attendent le plus. Les anciens ont tendance à y voir un mal nécessaire, une introduction à des parties beaucoup plus traditionnelles et respectées du Panegyra qui suivent." #NT!
+ brujah_panegyra_events.1000.a: "Il est temps de tout donner !" #NT!
+ brujah_panegyra_events.1000.b: "Ce n’est pas mon fort, allons-y doucement." #NT!
+ brujah_panegyra_events.1000.c: "Je suis prêt." #NT!
+ panegyra_overdrive_tt: "Cela augmentera vos chances de réussite à ce concours." #NT!
+ panegyra_underdrive_tt: "Cela diminuera vos chances de réussite à ce concours." #NT!
+  
+ brujah_panegyra_events.1010.t: "Kérykes" #NT!
+ brujah_panegyra_events.1010.desc: "Les kerykes (hérauts) étaient associés aux salpinktai (trompettistes) lors des Jeux olympiques antiques pour former le concours du héraut et de la trompette. La partie de trompette n'a jamais été vraiment populaire parmi les Brujah, mais le concours d'oratoire l'est définitivement. Les gagnants sont choisis en fonction de la clarté de leur énonciation et de l'audibilité de leur voix autant que de ce qu'ils disent réellement. Certains utilisent la poésie tandis que d'autres préfèrent les vieux ouvrages politiques grecs tels que Platon ou Aristote.\nAimé par les anciens Brujah, il s'agit d'un concours redouté par les autres clans car il peut durer des nuits littérales avant de se terminer. Les demandes polies visant à fixer un délai pour chaque candidat ont jusqu'à présent été fermement refusées." #NT!
+ brujah_panegyra_events.1010.b: "Essayons de ne pas nous endormir..." #NT!
+ brujah_panegyra_events.1010.c: "Ma voix est une arme aiguisée !" #NT!
+  
+ brujah_panegyra_events.1020.t: "Lutte" #NT!
+ brujah_panegyra_events.1020.desc: "Classique des classiques, la lutte fait partie des Jeux olympiques depuis qu’il y a des Jeux olympiques. Ses règles ont à peine changé depuis leur première création et il est toujours l'un des favoris des fans du Panegyra jusqu'à ce soir. Gangrel et Nosferatu sont considérés comme des concurrents particulièrement féroces, niant souvent la victoire des Brujahs, car ils sont habitués aux exploits physiques de force nécessaires pour s'imposer ici." #NT!
+  
+ brujah_panegyra_events.1030.t: "Boxe" #NT!
+ brujah_panegyra_events.1030.desc: "La boxe a la particularité douteuse d'être à la fois le concours dont les règles sont le plus souvent modifiées et celui qui provoque le plus de frénésie chez ses participants. En tant que tel, il a parfois été débattu comme ne convenant pas aux vampires, mais la volonté de le retirer du Panegyra n'a jamais eu beaucoup de succès.\nC'est un concours favori des Toréadors qui disent apprécier "l'art physique" montré par un tel concours. Les Snarky Brujah sont connus pour laisser entendre qu'ils veulent simplement assouvir leur désir sur les participants, même si la boxe, comme le veut la tradition grecque, est pratiquée nue." #NT!
+  
+ brujah_panegyra_events.1040.t: "Jeu de plateau" #NT!
+ brujah_panegyra_events.1040.desc: "Premier ajout non olympique grec au Panegyra, les jeux de société sont un incontournable depuis longtemps maintenant. Favorisé par les anciens Brujahs (et les Lasombra participants), il s'agit généralement du concours le plus politiquement important car ces anciens parlent souvent pendant ces parties et certains pensent que les décisions importantes (ou rivalités) qui ont façonné le monde Caïnite ont commencé ici.\nLes échecs sont un incontournable mais loin d’être le seul pratiqué. Les juges sont cependant quelque peu réticents à en introduire rapidement de nouveaux, car certains concurrents sont connus pour essayer de faire sortir leur jeu oublié d'une culture oubliée sans aucun moyen de vérifier les règles, ce qui leur donnerait un avantage injuste." #NT!
+  
+ brujah_panegyra_events.1050.t: "Course de chevaux" #NT!
+ brujah_panegyra_events.1050.desc: "Les Jeux olympiques grecs étaient friands de courses de chevaux, considérées comme la compétition la plus prestigieuse, et elles sont imitées par le Brujah Panegyra depuis des siècles. Chacun a sa vision différente de la course elle-même, les chars étant un spectacle glorieux mais de plus en plus rare de nos jours (car les conducteurs de chars et les fabricants de chars compétents sont rares à cette époque).\nBeaucoup sont passés à une course de chevaux plus traditionnelle et doivent ensuite réfléchissez à l’opportunité d’accepter ou non les chevaux goules. Aucun consensus définitif n'a été trouvé sur ce sujet et, à ce titre, un concurrent devrait probablement se renseigner à ce sujet avant la course, sous peine d'être accusé de tricherie." #NT!
+  
+ brujah_panegyra_events.20.t: "Fin du concours" #NT!
+ brujah_panegyra_events.20.desc: "[contest_winner.GetTitledFirstName] a remporté le concours !\nLa poussière retombe dans l'arène alors que cette partie du Panegyra touche à sa fin. Les perdants lèchent leurs blessures (physiques ou autres), les gagnants se réjouissent de la gloire (et de l'envie) gagnée par leur performance et les serviteurs goules doivent nettoyer les dégâts laissés par leurs maîtres morts-vivants." #NT!
+ brujah_panegyra_events.20.a: "Gloire au vainqueur, malheur au vaincu." #NT!
+  
+ brujah_panegyra_events.13.t: "Olympia renaît" #NT!
+ brujah_panegyra_events.13.desc: "Introduit pour la première fois par les Helléniques Brujahs fascinés par le concept des Jeux Olympiques, le Panegyra est un rassemblement traditionnel du clan Brujah sur l'île de Chalcis qui a lieu tous les dix ans. Les jeux sponsorisés, qui suivent de près les anciens Jeux olympiques grecs, sont la partie la plus attendue de l'événement.\nLes Panegyra se sont répandus aussi loin que le clan Brujah au fil des siècles et de nombreux jeux plus petits ont lieu dans d'autres parties du monde. Chaque Panegyra a tendance à avoir ses propres variations, souvent liées à la culture de la région où elle se déroule. Tous les vampires sont invités à participer, bien que l'utilisation du [discipline|E] soit strictement interdite, ce qui tend à uniformiser les règles du jeu entre les différents participants.\nBien que la plupart des clans ne soient pas vraiment intéressés par l'événement, beaucoup viennent au moins pour les observer ou les utiliser comme couverture pour quelques manœuvres politiques avec des Caïnites originaires de pays lointains." #NT!
+ brujah_panegyra_events.13.a: "Que les jeux commencent!" #NT!
+  
+ panegyra_conclusion_general: "Les Panegyra ont pris fin. Certains ont gagné la gloire, d’autres ont ressenti l’aiguillon de la défaite et d’autres ont profité de l’événement pour comploter et planifier l’avenir. Les juges réfléchissent déjà aux changements de règles pour le prochain et les concurrents réfléchissent à la manière d'améliorer leur programme d'entraînement pour faire encore mieux.\nDans l'ensemble, c'est un succès pour le clan Brujah, rappelant au monde Caïnite qu'il est toujours fidèle à ses idéaux de perfection mentale et physique." #NT!
+  
+ panegyra_archery_tt: "Le tir à l’arc favorise la patience, les habiles avec un arc (et en avoir un bon aide aussi) et, dans l’ensemble, les compétiteurs physiquement doués." #NT!
+ panegyra_kerykes_tt: "Kerykes privilégie les diplomates, les poètes et les candidats grégaires. Les personnages timides ou imprévisibles ont moins de chances de gagner." #NT!
+ panegyra_wrestling_tt: "La lutte favorise fortement les prouesses physiques et les personnages fortement bâtis." #NT!
+ panegyra_boxing_tt: "La boxe privilégie les personnages patients, insensibles et habiles en duel (comme les maîtres-lames)." #NT!
+ panegyra_board_game_tt: "Les jeux de société privilégient les personnages érudits, patients et fourbes." #NT!
+ panegyra_horse_race_tt: "Les courses de chevaux privilégient les cavaliers expérimentés, les personnages enclins à l’intendance et diligents." #NT!
+  
+ brujah_panegyra_events.1001.t: "Outils du métier" #NT!
+ brujah_panegyra_events.1001.desc: "Les participants aux jeux de tir à l'arc doivent venir avec leurs propres arcs, ce qui a conduit une petite mais prospère communauté de fabricants d'arcs à s'installer près de Panegyra. De nombreux vampires n'utilisent généralement pas d'arcs et achètent donc un de ceux proposés par les artisans avant le concours. Même les quelques Caïnites venant avec leur propre arme la feront probablement vérifier avant le début des jeux pour s'assurer qu'elle est en parfait état." #NT!
+ brujah_panegyra_events.1001.a: "Je veux le meilleur arc du pays !" #NT!
+ brujah_panegyra_events.1001.b: "Collez simplement deux brindilles ensemble et tout ira bien." #NT!
+ brujah_panegyra_events.1001.c: "Un arc commun suffira." #NT!
+  
+ panegyra_overdrive_other_tt: "Ce candidat aura des chances accrues de gagner le concours en cours." #NT!
+ panegyra_underdrive_other_tt: "Ce candidat aura des chances réduites de gagner le concours en cours." #NT!
+  
+ brujah_panegyra_events.1002.t: "Coup de main" #NT!
+ brujah_panegyra_events.1002.desc: "Alors que le concours de tir à l'arc est en cours, un autre participant a remarqué vos premiers bons résultats et est venu vous demander conseil. La société vampirique étant ce qu'elle est, ils ne s'attendent certainement pas à ce que ce soit gratuit et au lieu du jeu complexe de politique politique habituel à votre espèce, ils proposent plutôt une petite somme d'or pour vous embaucher comme consultant pour la durée de cette période. concours." #NT!
+ brujah_panegyra_events.1002.a: "Parlons d’abord du vent…" #NT!
+ brujah_panegyra_events.1002.b: "Ha! Non." #NT!
+ brujah_panegyra_events.1002.c: "Donnez-leur simplement quelques conseils de base et passez à autre chose." #NT!
+  
+ panegyra_disqualified_tt: "Vous êtes disqualifié pour ce concours." #NT!
+  
+ brujah_panegyra_events.1003.t: "Un peu d'aide" #NT!
+ brujah_panegyra_events.1003.desc: "Même le plus jeune vampire a le potentiel de réaliser de grands exploits physiques s'il utilise son sang pour le faire. En tant que tel, il serait ridiculement facile de tricher lors de tout concours favorisant ceux-ci. Les règles de Panegyra sont cependant claires : aucune utilisation de pouvoirs sanguins pendant le tournoi. Les juges Brujah sont connus pour être étonnamment désireux de détecter de telles tentatives de tricherie.\nVous êtes presque sûr que certains (sinon la plupart) ne se font pas prendre, alors vous pouvez essayer. Cela pourrait vous donner un sérieux avantage pendant le concours ou vous disqualifier si vous êtes attrapé." #NT!
+ brujah_panegyra_events.1003.a: "Ce n'est pas de la triche si je ne me fais pas prendre." #NT!
+ brujah_panegyra_events.1003.b: "Mon corps parfait est toute la tromperie dont j'ai besoin." #NT!
+ brujah_panegyra_events.1003.c: "La tricherie est pour les perdants." #NT!
+ brujah_panegyra_events.1003.d: "Attrapé!" #NT!
+  
+ brujah_panegyra_events.1011.t: "Préparation parfaite" #NT!
+ brujah_panegyra_events.1011.desc: "Pour certains Brujah traditionalistes, le Kerykes est l'événement le plus important du Panegyra. Ils passent des années à préparer leur discours, à chercher les mots et les intonations parfaits pour leur (probablement très longue) performance lors de l'événement.\nPour un étranger, il est assez difficile d'accéder à ce niveau de compétition sans une bonne préparation. Bien que des bouleversements aient pu se produire, ils empêcheront probablement les concurrents habituels de penser qu'ils doivent prononcer un discours encore plus long pour gagner." #NT!
+ brujah_panegyra_events.1011.a: "J'ai tout parfaitement planifié !" #NT!
+ brujah_panegyra_events.1011.b: "Je pourrais apprendre une chose ou deux de ces orateurs." #NT!
+ brujah_panegyra_events.1011.c: "Préparons-nous." #NT!
+  
+ brujah_panegyra_events.1012.t: "Fantôme écrivain" #NT!
+ brujah_panegyra_events.1012.desc: "En vous promenant dans le parc, vous remarquez que l'un des participants de Kerykes a laissé son discours sans surveillance alors qu'ils discutaient avec un autre invité non loin d'ici. Une telle démonstration est assez rare et, lorsque vous confirmez que personne ne semble être à proximité, vous sentez une opportunité.\nTout est juste dans la guerre et dans les jeux après tout, n'est-ce pas ?" #NT!
+ brujah_panegyra_events.1012.a: "Brûle le! Parce que c'est drôle." #NT!
+ brujah_panegyra_events.1012.b: "Volez-le pour entraver leurs performances." #NT!
+ brujah_panegyra_events.1012.c: "Étudiez-le pour apprendre d’eux." #NT!
+ brujah_panegyra_events.1012.d: "Rendez-le simplement poliment." #NT!
+  
+ brujah_panegyra_events.1013.t: "Prêt à parler" #NT!
+ brujah_panegyra_events.1013.desc: "L'événement principal des Kerykes est le moment où vous prononcez votre discours devant les juges et les spectateurs. Ceux qui viennent d’un milieu traditionaliste tiennent un discours très long et lourd qui leur vaut souvent le respect de leurs pairs. Les candidats plus jeunes, en revanche, ont tendance à privilégier une approche plus « directe » et à parler de sujets plus modernes, allant jusqu'à utiliser les Keryke comme plate-forme pour exprimer certaines frustrations politiques.\nLes tentatives de tricherie ne sont pas rares pendant le concours. , car les disciplines mentales peuvent être très utiles pour influencer le jury. Cependant, comme toujours, les arbitres de Brujah surveillent de près le match et sont prêts à prononcer une disqualification rapide si nécessaire." #NT!
+ brujah_panegyra_events.1013.a: "Juste une petite poussée mentale..." #NT!
+ brujah_panegyra_events.1013.b: "Vous me donnerez la première place !" #NT!
+ brujah_panegyra_events.1013.c: "Pour mon premier des cent soixante-six points..." #NT!
+ brujah_panegyra_events.1013.d: "Continuons avec ça." #NT!
+  
+ brujah_panegyra_events.1021.t: "L'oeil du tigre" #NT!
+ brujah_panegyra_events.1021.desc: "La boxe dans le Panegyra a presque été élevée au rang de forme d’art, principalement parce que certains de ses pratiquants avaient des siècles de pratique pour la maîtriser. Si vous voulez affronter des adversaires aussi intimidants, vous aurez besoin d’un programme d’entraînement sérieux. Heureusement, le Panegyra a de nombreuses possibilités pour un tel entraînement, même si les résultats sont toujours imprévisibles, le corps du vampirique ne réagit pas de la même manière que celui du mortel à de tels exercices." #NT!
+ brujah_panegyra_events.1021.a: "Repérez le montage !" #NT!
+ brujah_panegyra_events.1021.b: "Je suis parfait comme je le serai toujours." #NT!
+  
+ brujah_panegyra_events.1022.t: "Partenaire d'entraînement" #NT!
+ brujah_panegyra_events.1022.desc: "Les concurrents se préparent pour l'événement de boxe et beaucoup recherchent des partenaires d'entraînement pour mettre réellement leurs compétences à l'épreuve. L’un de ces candidats vous a contacté pour plaider en faveur d’un tel partenariat. Il vous appartient de choisir si vous allez tout donner, donnant potentiellement un avantage à cet adversaire, ou si vous essayez subtilement de saper son potentiel." #NT!
+ brujah_panegyra_events.1022.a: "Pensez-vous que je vais juste regarder." #NT!
+ brujah_panegyra_events.1022.b: "Plus rapide! Tu peux faire mieux que ça!" #NT!
+  
+ brujah_panegyra_events.1023.t: "Se déchaîner" #NT!
+ brujah_panegyra_events.1023.desc: "La boxe est de loin la compétition avec le plus de disqualifications au Panegyra. Avoir deux vampires qui se frappent est une recette pour une frénésie facile et le concours est presque autant un match de volonté que de physique. Tomber dans une frénésie est une perte instantanée, mais trop restreindre vos instincts peut également nuire à vos performances globales. Il faut trouver un juste équilibre pour gagner." #NT!
+ brujah_panegyra_events.1023.a: "Laissez-le sortir !" #NT!
+ brujah_panegyra_events.1023.b: "Laisse tout sortir!" #NT!
+ brujah_panegyra_events.1023.c: "Calme et rassemblé." #NT!
+  
+ brujah_panegyra_events.1031.t: "Jeu activé" #NT!
+ brujah_panegyra_events.1031.desc: "Une grande variété de jeux de société sont présents lors de chaque Panegyra, bien que la plupart ne soient utilisés qu'à des fins d'entraînement ou de nouveauté et non de véritable compétition. Pourtant, de nombreux vampires trouvent ces divertissements étonnamment proches de certaines situations auxquelles ils doivent faire face nuit après nuit. Ainsi, il n'est pas rare que de nombreux spectateurs viennent rejoindre les concurrents lors des temps morts, goûtant aux différentes activités présentes sur place." #NT!
+ brujah_panegyra_events.1031.a: "Un jeu-questionnaire peut-être ?" #NT!
+ brujah_panegyra_events.1031.b: "Les wargames sont les meilleurs !" #NT!
+ brujah_panegyra_events.1031.c: "Concentrons-nous simplement sur la concurrence à venir." #NT!
+  
+ brujah_panegyra_events.1032.t: "Règles étranges" #NT!
+ brujah_panegyra_events.1032.desc: "Le monde des mortels a produit de nombreux jeux de société et de nombreuses règles différentes pour chacun d'eux. Il peut être difficile de les suivre, en particulier pour les vampires qui sont souvent connus pour être coincés dans leurs habitudes. L’un de ces candidats est venu vous demander votre aide pour comprendre un jeu particulièrement obscur venant de votre région. Une bonne occasion de montrer vos connaissances... ou simplement de se moquer d'eux pour leurs échecs." #NT!
+ brujah_panegyra_events.1032.a: "Les enfants savent jouer à ce jeu !" #NT!
+ brujah_panegyra_events.1032.b: "Donc lors du premier tour..." #NT!
+  
+ brujah_panegyra_events.1033.t: "Les mouvements du Jyhad" #NT!
+ brujah_panegyra_events.1033.desc: "L'un de vos premiers adversaires lors du concours de jeu de société voit clairement le jeu auquel vous jouez comme une représentation du Jyhad, le soi-disant Grand Jeu de politique et d'intrigues joué par les Caïnites. Ce n'est pas une pratique rare, car de nombreux vampires voient les autres comme des pièces sur un plateau et planifient leurs mouvements des décennies à l'avance. C'est cependant plus rare lors d'une compétition réelle, et votre adversaire semble plus déterminé à vous pousser à faire des déclarations politiques subtiles avec votre jeu au lieu d'y jouer réellement." #NT!
+ brujah_panegyra_events.1033.a: "Jouez simplement à ce foutu jeu." #NT!
+ brujah_panegyra_events.1033.b: "Si cette pièce représente ce Prince, alors..." #NT!
+  
+ brujah_panegyra_events.1041.t: "Lèche-vitrine" #NT!
+ brujah_panegyra_events.1041.desc: "Avant l'événement principal, le Panegyra a proposé du divertissement avec un spectacle de mortels et de lutteurs goules se succédant. Bien qu'ils manquent certainement d'expérience et de force vampirique brute, ils utilisent des tactiques plus modernes qui pourraient s'avérer utiles pendant le concours.\nCe sont également de très bons spécimens de mortels et vous remarquez quelques vampires les regardant avidement, espérant peut-être en obtenir quelques-uns. leur sang probablement doux et fort..." #NT!
+ brujah_panegyra_events.1041.a: "Tellement appétissant !" #NT!
+ brujah_panegyra_events.1041.b: "Je veux celui-ci à la place." #NT!
+ brujah_panegyra_events.1041.c: "Étudiez simplement leur match." #NT!
+  
+ brujah_panegyra_events.1042.t: "Match d'exhibition" #NT!
+ brujah_panegyra_events.1042.desc: "Les juges Panegyra vous informent que vous avez été choisi pour un match d'exhibition avant le début officiel du concours de lutte. C'est une arme à double tranchant, car si vous donnez tout, vous révélerez probablement vos faiblesses et vos forces aux autres concurrents. Mais si vous ne le faites pas, vous risquez de perdre, ce qui est toujours une honte devant tant de spectateurs." #NT!
+ brujah_panegyra_events.1042.a: "Perdez pour cacher vos tactiques." #NT!
+ brujah_panegyra_events.1042.b: "Gagnez pour la gloire !" #NT!
+  
+ brujah_panegyra_events.1043.t: "Correspondance fixe" #NT!
+ brujah_panegyra_events.1043.desc: "Vous avez été approché par le domestique d'un autre concurrent anonyme avant le début du concours de lutte. Vous identifiant comme une menace potentielle pour leur victoire, ils vous offrent de l'or pour simplement lancer l'un de vos premiers matchs, vous supprimant ainsi des concurrents pour les étapes ultérieures. Les juges de Panegyra sont notoirement désireux de remarquer l'utilisation de pouvoirs vampiriques... mais ils sont également notoirement stupides de considérer que la tricherie et la manipulation à l'ancienne peuvent également se produire, il est donc très peu probable que vous vous fassiez prendre." #NT!
+ brujah_panegyra_events.1043.a: "L'or est plus utile que la gloire." #NT!
+ brujah_panegyra_events.1043.b: "...mais la gloire est éternelle !" #NT!
+  
+ brujah_panegyra_events.1051.t: "Char d'Or" #NT!
+ brujah_panegyra_events.1051.desc: "Les organisateurs de ce Panegyra ont décidé qu'il s'agirait cette fois d'une course de chars, une tradition très ancienne remontant aux Jeux olympiques des mortels. Malheureusement, les chars ont été pratiquement oubliés par les mortels de cette époque sombre et mettre la main sur un char suffisamment impressionnant et efficace ne sera pas une tâche facile.\nArtisans (souvent des goules issues d'une longue lignée de fabricants de chars nourris par des vampires ) sont à la périphérie de Panegyra, prêts à mettre leur embarcation à votre disposition. Quel sera votre choix ?" #NT!
+ brujah_panegyra_events.1051.a: "Celui-ci, bon marché, suffira largement !" #NT!
+ brujah_panegyra_events.1051.b: "Un robuste et solide." #NT!
+ brujah_panegyra_events.1051.c: "Seuls les chars dorés d’antan feront l’affaire !" #NT!
+  
+ brujah_panegyra_events.1052.t: "Joutes nocturnes" #NT!
+ brujah_panegyra_events.1052.desc: "La joute est un passe-temps populaire pour les nobles mortels depuis un certain temps, mais elle a été beaucoup plus lente à rattraper les vampires beaucoup plus traditionalistes. Pourtant, une jeune génération de Caïnites est née à cette époque et étaient parfois même des nobles pratiquant eux-mêmes la joute. En tant que tel, il a gagné suffisamment de popularité pour être parfois présenté comme un concours de Panegyra.\nC'est un concours mortel car les joutes nécessitent de ne pas broncher, sachant très bien que votre adversaire pourrait subtilement essayer d'utiliser le pouvoir de son sang pour vous tuer purement et simplement. quand vos lances entrent en collision." #NT!
+ brujah_panegyra_events.1052.a: "La peur ne fait pas partie de mon vocabulaire." #NT!
+ brujah_panegyra_events.1052.b: "Prenons du recul avant de contacter..." #NT!
+  
+ brujah_panegyra_events.1053.t: "Sang utile" #NT!
+ brujah_panegyra_events.1053.desc: "Les organisateurs de Panegyra ont décidé que, cette fois, les chevaux goules ne seraient pas autorisés lors de la course hippique. Il y aura des tests comme d'habitude pour s'assurer que personne n'essaye de tricher.\nCela vous donne cependant une opportunité lorsque vous remarquez une écurie non gardée sur votre chemin vers la vôtre. Avec un petit pot-de-vin au valet d'écurie et un peu de votre propre sang, vous pourriez transformer l'un des chevaux des autres concurrents en goule, assurant ainsi leur disqualification." #NT!
+ brujah_panegyra_events.1053.a: "Les petits projets sont les meilleurs." #NT!
+ brujah_panegyra_events.1053.b: "...encore trop mesquin." #NT!
+  
+  
+  
+  

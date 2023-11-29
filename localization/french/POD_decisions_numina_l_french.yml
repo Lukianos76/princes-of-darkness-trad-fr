@@ -1,0 +1,14 @@
+﻿l_french:
+ POD_sorcery_become_immortal_decision: "Devenez immortel" #NT!
+ POD_sorcery_become_immortal_decision_desc: "Votre compétence en alchimie a atteint son apogée, vous pouvez désormais devenir véritablement immortel." #NT!
+ POD_sorcery_become_immortal_decision_custom: "Vous avez emprisonné $VALUE|0V$ [GetTrait('mummy').GetName( GetPlayer )]" #NT!
+ POD_sorcery_become_immortal_decision_tooltip: "Vous deviendrez immortel." #NT!
+ POD_sorcery_become_immortal_decision_confirm: "La perfection?" #NT!
+  
+ POD_sorcery_create_vampire_interaction: "Transformez-vous en vampire" #NT!
+ POD_sorcery_create_vampire_interaction_desc: "Votre compétence en alchimie a atteint son apogée, vous pouvez désormais créer une concoction capable de transformer quelqu'un en vampire." #NT!
+ POD_sorcery_create_vampire_interaction_custom: "Vous avez emprisonné $VALUE|0V$ [GetTrait('vampire').GetName( GetPlayer )]" #NT!
+  
+ POD_sorcery_create_shapeshifter_interaction: "Transformez-vous en Shapeshifter" #NT!
+ POD_sorcery_create_shapeshifter_interaction_desc: "Votre compétence en alchimie a atteint son apogée, vous pouvez désormais créer une concoction capable de transformer quelqu'un en métamorphe." #NT!
+ POD_sorcery_create_shapeshifter_interaction_custom: "Vous avez emprisonné $VALUE|0V$ [GetTraitGroup('shapeshifter').GetName()]" #NT!

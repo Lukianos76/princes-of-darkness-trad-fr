@@ -1,0 +1,22 @@
+﻿l_french:
+  
+ pod_vampire_flavor.1000.t: "Souvenirs de soleil" #NT!
+ pod_vampire_flavor.1000.desc: "Il est surprenant de voir ce qui manque à une personne après son étreinte. Vous vous retrouvez à manquer de soleil. Vous essayez de vous rappeler à quoi ressemble le monde par une journée ensoleillée, avec un ciel bleu et des nuages ​​gonflés et lumineux. Ces petites joies sont-elles vraiment hors de votre portée pour toujours ?" #NT!
+ pod_vampire_flavor.1000.a: "Je devrais embaucher un peintre." #NT!
+ pod_vampire_flavor.1000.b: "Si je possède un animal, je peux voir le soleil." #NT!
+ pod_vampire_flavor.1000.c: "Un simple coup d'oeil ne fera pas de mal..." #NT!
+ pod_vampire_flavor.1000.d: "Reprenez-vous ! Vous êtes un vampire ! Faites comme ça !" #NT!
+ pod_vampire_flavor.1001.t: "Souvenirs de soleil" #NT!
+ pod_vampire_flavor.1001.desc: "L'artiste dévoile son tableau pour votre approbation. Il représente un magnifique paysage local lors d’une journée ensoleillée. Quand vous le regardez, vous avez l’impression d’être dehors, au soleil ! Le fait que la commande de ce chef-d’œuvre ait amélioré votre réputation est un avantage supplémentaire." #NT!
+ pod_vampire_flavor.1001.a: "C'est exactement ce dont j'avais besoin." #NT!
+  
+ pod_mass.100.t: "Des goules, des goules partout !" #NT!
+ pod_mass.100.desc: "Il y a des accusations selon lesquelles vous avez donné votre sang à de nombreux habitants locaux pour nourrir votre machine de guerre avec des soldats goules, ce qui est boudé par les traditions des Caïnites et de nombreuses routes. Ceci est également mal considéré par la plupart comme une grave violation de la Mascarade imminente, car tant de goules sont difficiles à cacher.\nQuelle est votre réponse ?" #NT!
+ pod_mass.100.a: "Payez quelqu'un pour le couvrir." #NT!
+ POD_massregnant_event_repeat.tt: "Cet événement se répétera si vous avez encore [POD_ghoul_maa|E] régiments à l'avenir." #NT!
+ pod_mass.100.b: "C'est vrai, et alors ?" #NT!
+ pod_mass.200.t: "Des vampires, des vampires partout !" #NT!
+ pod_mass.200.desc: "Il y a des accusations selon lesquelles vous avez donné votre sang à de nombreux habitants locaux pour alimenter votre machine de guerre avec des soldats vampires nouvellement créés, ce qui est boudé par les traditions des Caïnites et de nombreuses routes. Ceci est également mal considéré par la plupart comme une grave violation de la Mascarade imminente, car tant de nouveaux vampires sont difficiles à cacher.\nQuelle est votre réponse ?" #NT!
+ pod_mass.200.a: "Payez quelqu'un pour le couvrir." #NT!
+ POD_masssire_event_repeat.tt: "Cet événement se répétera si vous avez encore un régiment d'hommes vampires en armes à l'avenir." #NT!
+ pod_mass.200.b: "C'est vrai, et alors ?" #NT!

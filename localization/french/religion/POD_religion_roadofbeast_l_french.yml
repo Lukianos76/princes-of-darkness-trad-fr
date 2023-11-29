@@ -1,0 +1,152 @@
+﻿l_french:
+  
+  #Common Road of Beast Localization 
+ roadofbeast_religion: "Route de la bête" #NT!
+ roadofbeast_religion_adj: "Sauvage" #NT!
+ roadofbeast_religion_adherent: "Sauvage" #NT!
+ roadofbeast_religion_adherent_plural: "Les sauvages" #NT!
+ roadofbeast_religion_desc: "Les adeptes de Via Bestiae contrôlent leur bête à travers les concepts primordiaux de survie, de force et d'individualité. De nombreux membres de la Route de la Bête choisissent une existence simple et animale pour mieux servir les croyances de Via Bestiae." #NT!
+ roadofbeast_high_god_name: "Bête" #NT!
+ roadofbeast_high_god_name_possessive: "Bêtes" #NT!
+ roadofbeast_high_god_name_alternate: "Ennoïa" #NT!
+ roadofbeast_high_god_name_alternate_possessive: "Ennoia" #NT!
+ roadofbeast_good_god_jesus: "$roadofbeast_health_god_name$" #NT!
+ roadofbeast_good_god_christ: "Faim" #NT!
+ roadofbeast_devil_name: "La faim" #NT!
+ roadofbeast_devil_name_possessive: "La faim" #NT!
+ roadofbeast_evil_god_lucifer: "La faim" #NT!
+ roadofbeast_evil_god_beelzebub: "La faim" #NT!
+ roadofbeast_evil_god_mephistopheles: "La faim" #NT!
+ roadofbeast_death_deity_name: "Destruction" #NT!
+ roadofbeast_death_deity_name_possessive: "Destruction" #NT!
+ roadofbeast_house_of_worship: "sauvage" #NT!
+ roadofbeast_house_of_worship_plural: "sauvages" #NT!
+ roadofbeast_religious_symbol: "bête" #NT!
+ roadofbeast_religious_text: "traditions" #NT!
+ roadofbeast_religious_head_title: "Gardien du savoir" #NT!
+ roadofbeast_religious_head_title_name: "Gardien du savoir" #NT!
+ roadofbeast_devotee_male: "Gardiens du savoir" #NT!
+ roadofbeast_devotee_male_plural: "Gardien du savoir" #NT!
+ roadofbeast_devotee_female: "Gardien du savoir" #NT!
+ roadofbeast_devotee_female_plural: "Gardiens du savoir" #NT!
+ roadofbeast_devotee_neuter: "Gardiens du savoir" #NT!
+ roadofbeast_devotee_neuter_plural: "Gardiens du savoir" #NT!
+ roadofbeast_priest_male: "Gardiens du savoir" #NT!
+ roadofbeast_priest_male_plural: "Gardien du savoir" #NT!
+ roadofbeast_priest_alternate_plural: "Gardiens du savoir" #NT!
+ roadofbeast_bishop: "Gardien du savoir" #NT!
+ roadofbeast_bishop_plural: "Gardiens du savoir" #NT!
+ roadofbeast_divine_realm: "sauvages" #NT!
+ roadofbeast_positive_afterlife: "sauvages" #NT!
+ roadofbeast_negative_afterlife: "les abysses" #NT!
+ roadofbeast_witchgodname_the_horned_god: "la faim" #NT!
+ roadofbeast_witchgodname_the_horned_god_possessive: "la faim" #NT!
+  
+ roadofbeast_creator_god_name: "$roadofbeast_high_god_name$" #NT!
+ roadofbeast_creator_god_name_possessive: "$roadofbeast_high_god_name_possessive$" #NT!
+ roadofbeast_health_god_name: "sang" #NT!
+ roadofbeast_health_god_name_possessive: "du sang" #NT!
+ roadofbeast_fertility_god_name: "$roadofbeast_high_god_name$" #NT!
+ roadofbeast_fertility_god_name_possessive: "$roadofbeast_high_god_name_possessive$" #NT!
+ roadofbeast_wealth_god_name: "$roadofbeast_high_god_name$" #NT!
+ roadofbeast_wealth_god_name_possessive: "$roadofbeast_high_god_name_possessive$" #NT!
+ roadofbeast_household_god_name: "$roadofbeast_health_god_name$" #NT!
+ roadofbeast_household_god_name_possessive: "$roadofbeast_health_god_name_possessive$" #NT!
+ roadofbeast_fate_god_name: "$roadofbeast_high_god_name$" #NT!
+ roadofbeast_fate_god_name_possessive: "$roadofbeast_high_god_name_possessive$" #NT!
+ roadofbeast_knowledge_god_name: "$roadofbeast_high_god_name$" #NT!
+ roadofbeast_knowledge_god_name_possessive: "$roadofbeast_high_god_name_possessive$" #NT!
+ roadofbeast_war_god_name: "$roadofbeast_high_god_name$" #NT!
+ roadofbeast_war_god_name_possessive: "$roadofbeast_high_god_name_possessive$" #NT!
+ roadofbeast_trickster_god_name: "Fortune" #NT!
+ roadofbeast_trickster_god_name_possessive: "La Fortune" #NT!
+ roadofbeast_night_god_name: "$roadofbeast_high_god_name$" #NT!
+ roadofbeast_night_god_name_possessive: "$roadofbeast_high_god_name_possessive$" #NT!
+ roadofbeast_water_god_name: "$roadofbeast_health_god_name$" #NT!
+ roadofbeast_water_god_name_possessive: "$roadofbeast_health_god_name_possessive$" #NT!
+  
+  #Feral-Group Faiths 
+ viabestiae: "Via Bestiae" #NT!
+ viabestiae_adj: "Sauvage" #NT!
+ viabestiae_adherent: "Sauvage" #NT!
+ viabestiae_adherent_plural: "Les sauvages" #NT!
+ viabestiae_desc: "Les adeptes de Road of the Beast contrôlent leur bête à travers les concepts primordiaux de survie, de force et d'individualité. De nombreux membres de la Route de la Bête choisissent une existence simple et animale pour mieux servir les croyances de Via Bestiae, tandis que d'autres la suivent en vivant une existence simpliste, semblable à celle des barbares." #NT!
+  
+ viapraedator: "Via Prédateur" #NT!
+ viapraedator_adj: "Prédateur" #NT!
+ viapraedator_adherent: "Chasseur" #NT!
+ viapraedator_adherent_plural: "Chasseurs" #NT!
+ viapraedator_desc: "Les sauvages qui suivent la Voie du Chasseur existent pour s'attaquer à ceux qu'ils considèrent comme inférieurs à eux. Agir autrement est blasphématoire. Ils utilisent également leur Bête comme outil pour accomplir leurs chasses." #NT!
+  
+ viaerronis: "Via Erronis" #NT!
+ viaerronis_adj: "Vagabond" #NT!
+ viaerronis_adherent: "Vagabond" #NT!
+ viaerronis_adherent_plural: "Les vagabonds" #NT!
+ viaerronis_desc: "Pour ces Ferals qui suivent la Voie du Nomade, la civilisation et tout ce qui y est associé est un anathème. Ils voyagent légers et voyagent toujours. Il a également été appelé le Chemin des Jours." #NT!
+  
+ viaferitas: "Via Feritas" #NT!
+ viaferitas_adj: "Sauvage" #NT!
+ viaferitas_adherent: "Sauvage" #NT!
+ viaferitas_adherent_plural: "Sauvages" #NT!
+ viaferitas_desc: "Les Ferals sur la Voie du Sauvage sont les plus enclins à déchaîner la Bête dans des accès de rage. Leur fureur est dirigée contre tout ce qu’ils considèrent comme faible, notamment la civilisation. Ils frappent souvent, et ils frappent fort." #NT!
+  
+ viavenatorumbra: "Via Venator Umbra" #NT!
+ viavenatorumbra_adj: "Venator Umbra" #NT!
+ viavenatorumbra_adherent: "Chasseur gris" #NT!
+ viavenatorumbra_adherent_plural: "Chasseurs gris" #NT!
+ viavenatorumbra_desc: "S'il y a des Ferals qui ne détestent pas le concept de civilisation, ce sont bien ceux qui suivent la Voie du Chasseur Gris. Ils considèrent plutôt les villes comme une autre forme de terrain de chasse. Ce sont les sauvages les plus civilisés, mais ne vous y trompez pas, car ils ne sont pas moins capables de chasser que les autres." #NT!
+  
+ vialiberatio: "Via Libération" #NT!
+ vialiberatio_adj: "Libération" #NT!
+ vialiberatio_adherent: "Libérateur" #NT!
+ vialiberatio_adherent_plural: "Libérateurs" #NT!
+ vialiberatio_desc: "Souvent confondus avec les Furores, les Ferals de la Via Liberatio voient les villes comme un piège et la mort de l'âme. Ils considèrent que leur devoir est de libérer les personnes piégées vers un mode de vie plus pur et plus primal." #NT!
+  
+ viaeinherjar: "Einherjar" #NT!
+ viaeinherjar_adj: "Einherjar" #NT!
+ viaeinherjar_adherent: "Einherjar" #NT!
+ viaeinherjar_adherent_plural: "Einherjar" #NT!
+ viaeinherjar_desc: "Une route pratiquée parmi les vampires nordiques et qui rappelle l'éthique ancienne que leur a donnée le Père de Tout. La Route enseigne la responsabilité, le courage face à l'adversité et l'initiative individuelle. Beaucoup chassent la Bête en faisant preuve d'une discipline et d'un courage de fer, comme regarder le soleil se lever. La plupart des adeptes de la Route sont irrespectueux, égoïstes et violents physiquement envers ceux qu'ils ne respectent pas. Souvent, même les personnes qu’ils respectent ne sont que légèrement mieux traitées." #NT!
+  
+ viayasaq: "Yasaq" #NT!
+ viayasaq_adj: "Yasa" #NT!
+ viayasaq_adherent: "Anda" #NT!
+ viayasaq_adherent_plural: "Anda" #NT!
+ viayasaq_desc: "Une Route des vampires de la Steppe, plus précisément de l'Anda. Il rappelait de nombreuses traditions de yasa (confréries de guerriers) chez les Mongols. Les adeptes de la Route des Yasa étaient appelés Barbares parmi les Occidentaux." #NT!
+  
+ pathofnoiad: "Chemin de la Noiade" #NT!
+ pathofnoiad_adj: "Noiade" #NT!
+ pathofnoiad_adherent: "Noiade" #NT!
+ pathofnoiad_adherent_plural: "Noiades" #NT!
+ pathofnoiad_desc: "L'origine des Noiades a été oubliée par [cainite|E] et par les mortels. Dans l’esprit des Noiades, ils ont toujours vécu dans le Nord, guidant et protégeant les tribus Sami du nord de la Scandinavie. Les Noiades se considéraient comme des êtres divins, envoyés par les dieux pour guider et protéger leur peuple élu des menaces surnaturelles et banales, ainsi que pour interpréter les présages des dieux dans les guovssahas. La relation entre les Noiades et leur tribu était quelque peu symbiotique : la Noiade protégeait la tribu des ennemis et leur servait de guide, de chaman et d'enseignant, tandis que la tribu donnait volontairement son sang et abritait la Noiade pendant les longs mois avec pas d'obscurité. En période de famine, la Noiade s'occupait de [ghoul|E] membres de la tribu pour assurer leur survie. La Noiade habitait ouvertement parmi les Sami et s'embrassait exclusivement parmi cette population. Les personnes sélectionnées pour le [Embrace|E] étaient généralement celles qui avaient un talent pour la divination, ainsi que pour l'interprétation des rêves et des étoiles. La Noiad a également observé les enfants issus de familles comprenant au moins un vampire, à la recherche des traits qu'ils favorisaient." #NT!
+  
+ holy_order_schwarze_rudel: "Schwarze Rudel" #NT!
+ holy_order_hounds_of_iberia: "Les chiens d'Ibérie" #NT!
+ holy_order_the_wild_hunt: "La chasse sauvage" #NT!
+ holy_order_the_nomads: "Les Nomades" #NT!
+ holy_order_the_wanderers: "Les vagabonds" #NT!
+ holy_order_the_savage: "Le sauvage" #NT!
+ holy_order_the_grey_hunters: "Les chasseurs gris" #NT!
+ holy_order_the_liberators: "Les libérateurs" #NT!
+ holy_order_the_slain: "Les morts" #NT!
+ holy_order_the_valkyrie: "Compagnons de la Valkyrie" #NT!
+ holy_order_the_noiad: "Les étoiles déchues du Nord" #NT!
+ holy_order_scions_of_itugen: "Les descendants d'Itugen" #NT!
+ holy_order_the_blood_riders: "Les cavaliers de sang" #NT!
+ holy_order_wild_pack: "La meute sauvage" #NT!
+ holy_order_worthy_ronins: "Les dignes Ronin" #NT!
+  
+ viatantabus: "Via Tantabus" #NT!
+ viatantabus_adj: "Tantabus" #NT!
+ viatantabus_adherent: "Chasseur" #NT!
+ viatantabus_adherent_plural: "Chasseurs" #NT!
+ viatantabus_desc: "Des vampires qui suivent le tout puissant Baba Yaga, la sorcière de Russie. Seule Nosferatu à avoir défié leur monstrueux ancêtre, la Grand-Mère est à la fois admirée et injuriée dans une égale mesure par son [Clan|E]." #NT!
+  
+ jotunnsvag: "Jötunns Väg" #NT!
+ jotunnsvag_adj: "Jötunns Väg" #NT!
+ jotunnsvag_adherent: "Jötunn" #NT!
+ jotunnsvag_adherent_plural: "Jötunns" #NT!
+ jotunnsvag_desc: "Cette foi a été demandée par un mécène et ne fait pas partie du canon du Monde des Ténèbres.\nLa voie des Géants." #NT!
+ holy_order_jotunn_warriors: "Guerriers Jötunn" #NT!
+  
+  

@@ -1,0 +1,26 @@
+﻿l_french:
+ gossip_modifier: "Potins connus" #NT!
+ madness_network_actor_modifier: "Madness Network - Contrecoup" #NT!
+ madness_network_target_modifier: "Madness Network - compromis" #NT!
+ madness_network_diplomacy_modifier: "Madness Network - compétence diplomatique empruntée" #NT!
+ madness_network_stewardship_modifier: "Madness Network - compétence d'intendance empruntée" #NT!
+ madness_network_martial_modifier: "Madness Network - compétence martiale empruntée" #NT!
+ madness_network_intrigue_modifier: "Madness Network - compétence d'intrigue empruntée" #NT!
+ madness_network_learning_modifier: "Madness Network - compétence d'apprentissage empruntée" #NT!
+ councilor_diplomacy_modifier: "Excellent conseiller - diplomatie" #NT!
+ councilor_steward_modifier: "Excellent conseiller - intendance" #NT!
+ councilor_marshal_modifier: "Excellent Conseiller - Martial" #NT!
+ councilor_spymaster_modifier: "Excellent conseiller - intrigue" #NT!
+ councilor_chaplain_modifier: "Excellent conseiller - foi" #NT!
+ councilor_diplomacy_negative_modifier: "Conseiller atroce - diplomatie" #NT!
+ councilor_steward_negative_modifier: "Conseiller atroce - intendance" #NT!
+ councilor_marshal_negative_modifier: "Conseiller atroce - Martial" #NT!
+ councilor_spymaster_negative_modifier: "Conseiller atroce - intrigue" #NT!
+ councilor_chaplain_negative_modifier: "Conseiller atroce - foi" #NT!
+ #POD_brujah_cadre_modifier: "Se battre avec Cadre" #NT!
+ #POD_proven_beta_modifier: "Bêta faible" #NT!
+ POD_toreador_bane_modifier: "Distrait par la beauté" #NT!
+ POD_toreador_bane_modifier.painting: "Distrait par un tableau" #NT!
+ POD_toreador_bane_modifier.song: "Distrait par une chanson" #NT!
+ POD_toreador_bane_modifier.sculpture: "Distrait par une sculpture" #NT!
+ POD_toreador_bane_modifier.poem: "Distrait par un poème" #NT!

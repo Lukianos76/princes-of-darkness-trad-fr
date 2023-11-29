@@ -1,0 +1,24 @@
+﻿l_french:
+  
+ POD_mummy_command_effigy.100.t: "Vos effigies de créature reviennent" #NT!
+ POD_mummy_command_effigy.100.desc: "Vos effigies sont revenues de leur mission avec un coffre rempli d'or." #NT!
+ POD_mummy_command_effigy.100.option.a: "Profit" #NT!
+  
+ POD_mummy_command_effigy.200.t: "Vos effigies de créature reviennent" #NT!
+ POD_mummy_command_effigy.200.desc: "Vos effigies sont revenues de leur mission, après avoir répandu votre nom partout." #NT!
+ POD_mummy_command_effigy.200.option.a: "Le monde saura qui je suis." #NT!
+  
+ POD_mummy_command_effigy.300.t: "Vos effigies de créature reviennent" #NT!
+ POD_mummy_command_effigy.300.desc: "Vos effigies sont revenues de leur mission, ayant prêté leur force à votre cause." #NT!
+ POD_mummy_command_effigy.300.option.a: "Ils me serviront." #NT!
+  
+ POD_mummy_command_effigy.400.t: "Vos effigies de créature reviennent" #NT!
+ POD_mummy_command_effigy.400.desc: "Vos effigies sont revenues de leur mission, ayant aidé votre famille à devenir plus forte." #NT!
+ POD_mummy_command_effigy.400.option.a: "Ma lignée se renforce à chaque génération." #NT!
+  
+ POD_mummy_command_effigy.500.t: "Vos effigies de créature reviennent" #NT!
+ POD_mummy_command_effigy.500.desc: "Vos effigies de créature reviennent après avoir observé [target.GetFirstName]. Ils partageront les connaissances qu’ils ont acquises." #NT!
+ POD_mummy_command_effigy.500.option.a: "La connaissance, c'est le pouvoir" #NT!
+  
+ POD_mummy_command_effigy.510.desc: "Vos effigies de créature reviennent de l'observation du [target.GetFirstName], n'ayant rien appris d'utile." #NT!
+ POD_mummy_command_effigy.510.option.b: "Retournez au [target.GetFirstName] pour une observation plus approfondie" #NT!

@@ -1,0 +1,23 @@
+﻿l_french:
+ bloodpotency0_modifier: "Puissance sanguine 0" #NT!
+ bloodpotency0_modifier_desc: "Boire des mortels ne peut pas descendre [hunger_with_icon|E] en dessous de #V 1#!." #NT!
+ bloodpotency1_modifier: "Puissance sanguine 1" #NT!
+ bloodpotency1_modifier_desc: "Boire des mortels ne peut pas descendre [hunger_with_icon|E] en dessous de #V 1#!." #NT!
+ bloodpotency2_modifier: "Puissance sanguine 2" #NT!
+ bloodpotency2_modifier_desc: "Boire des mortels ne peut pas descendre [hunger_with_icon|E] en dessous de #V 1#!." #NT!
+ bloodpotency3_modifier: "Puissance sanguine 3" #NT!
+ bloodpotency3_modifier_desc: "Impossible d'abaisser le [hunger_with_icon|E] en buvant du sang animal (sauf avec certaines capacités).\nBoire des mortels ne peut pas abaisser le [hunger_with_icon|E] en dessous du #V 1#!." #NT!
+ bloodpotency4_modifier: "Puissance sanguine 4" #NT!
+ bloodpotency4_modifier_desc: "Impossible d'abaisser le [hunger_with_icon|E] en buvant du sang animal.\nBoire des mortels ne peut pas abaisser le [hunger_with_icon|E] en dessous du #V. 1#!.\nDrinking des mortels est #V deux#! fois moins efficace pour éteindre le [hunger_with_icon|E]." #NT!
+ bloodpotency5_modifier: "Puissance sanguine 5" #NT!
+ bloodpotency5_modifier_desc: "Impossible d'abaisser le [hunger_with_icon|E] en buvant du sang animal.\nBoire des mortels ne peut pas abaisser le [hunger_with_icon|E] en dessous du #V 2#!.\nDrinking des mortels est #V deux#! fois moins efficace pour éteindre le [hunger_with_icon|E]." #NT!
+ bloodpotency6_modifier: "Puissance sanguine 6" #NT!
+ bloodpotency6_modifier_desc: "Impossible d'abaisser le [hunger_with_icon|E] en buvant du sang animal.\nBoire des mortels ne peut pas abaisser le [hunger_with_icon|E] en dessous du #V 2#!.\nDrinking des mortels est #V deux#! fois moins efficace pour éteindre le [hunger_with_icon|E]." #NT!
+ bloodpotency7_modifier: "Puissance sanguine 7" #NT!
+ bloodpotency7_modifier_desc: "Impossible d'abaisser le [hunger_with_icon|E] en buvant du sang animal.\nBoire des mortels ne peut pas abaisser le [hunger_with_icon|E] en dessous du #V 2#!.\nDrinking des mortels est #V trois#! fois moins efficace pour éteindre le [hunger_with_icon|E]." #NT!
+ bloodpotency8_modifier: "Puissance sanguine 8" #NT!
+ bloodpotency8_modifier_desc: "Impossible d'abaisser le [hunger_with_icon|E] en buvant du sang animal.\nBoire des mortels ne peut pas abaisser le [hunger_with_icon|E] en dessous du #V 2#!.\nDrinking des mortels est #V trois#! fois moins efficace pour éteindre le [hunger_with_icon|E]." #NT!
+ bloodpotency9_modifier: "Puissance sanguine 9" #NT!
+ bloodpotency9_modifier_desc: "Impossible d'abaisser le [hunger_with_icon|E] en buvant du sang animal.\nBoire des mortels ne peut pas abaisser le [hunger_with_icon|E] en dessous du #V. 3#!.\nDrinking des mortels est #V trois#! fois moins efficace pour éteindre le [hunger_with_icon|E]." #NT!
+ bloodpotency10_modifier: "Puissance sanguine 10" #NT!
+ bloodpotency10_modifier_desc: "Impossible d'abaisser le [hunger_with_icon|E] en buvant du sang animal.\nBoire des mortels ne peut pas abaisser le [hunger_with_icon|E] en dessous du #V. 3#!.\nDrinking des mortels est #V quatre#! fois moins efficace pour éteindre le [hunger_with_icon|E]." #NT!

@@ -1,0 +1,176 @@
+﻿l_french:
+ game_concept_numina: "Numina" #NT!
+ game_concept_numina_desc: "Numina est un terme générique désignant les pouvoirs surnaturels dont disposent les mortels et les dormeurs. Trois groupes principaux de numina sont [psi_lifestyle|E], [sorcery_lifestyle|E] et [faith_lifestyle|E]." #NT!
+  
+ game_concept_psi_lifestyle: "Phénomènes psychiques" #NT!
+ game_concept_psi_lifestyle_desc: "Une catégorie de [numina|E]. La capacité de modifier (ou d'observer à distance) la réalité, directement liée à l'esprit/cerveau du personnage." #NT!
+  
+ game_concept_sorcery_lifestyle: "Sorcellerie" #NT!
+ game_concept_sorcery_lifestyle_desc: "La sorcellerie, connue des mages sous le nom de magie linéaire ou, de manière plus dédaigneuse, sous le nom de magie des haies ou de sorcellerie des haies, est la forme de magie utilisée par les mortels non-mages." #NT!
+  
+ psi_lifestyle_name: "Psi" #NT!
+ psi_lifestyle_desc: "Concentrez-vous sur les pouvoirs issus des phénomènes psychiques." #NT!
+ psi_lifestyle_highlight_desc: "Grâce à votre [trait|E] intelligent, vous gagnez #P [GetPlayer.Custom('GetEducationLifestylePercentageBoost')]#! de plus [experience|E] dans ce style de vie." #NT!
+ monthly_psi_lifestyle_xp_gain_mult: "Psi mensuel [lifestyle|E] [experience|E]" #NT!
+  
+ sorcery_lifestyle_name: "Sorcellerie" #NT!
+ sorcery_lifestyle_desc: "Concentrez-vous sur les pouvoirs issus de la magie linéaire." #NT!
+ sorcery_lifestyle_highlight_desc: "Grâce à votre mystique ou sorcière [trait|E], vous gagnez #P [GetPlayer.Custom('GetEducationLifestylePercentageBoost')]#! de plus [experience|E] dans ce style de vie." #NT!
+ monthly_sorcery_lifestyle_xp_gain_mult: "Sorcellerie mensuelle [lifestyle|E] [experience|E]" #NT!
+  
+ psi_focus: "Concentration psi" #NT!
+ psi_focus_modifier: "[GetFocus('psi_focus').GetName]" #NT!
+ psi_focus_desc: "Capacités psychiques." #NT!
+ psi_focus_effect_desc: "Bourses Focus sur les phénomènes psychiques :" #NT!
+  
+ sorcery_focus: "Concentration sur la sorcellerie" #NT!
+ sorcery_focus_modifier: "[GetFocus('sorcery_focus').GetName]" #NT!
+ sorcery_focus_desc: "Des chemins linéaires de magie des haies." #NT!
+ sorcery_focus_effect_desc: "Se concentrer sur les subventions de sorcellerie :" #NT!
+  
+ theurgy_focus: "Focus Théurgie" #NT!
+ theurgy_focus_modifier: "[GetFocus('theurgy_focus').GetName]" #NT!
+ theurgy_focus_desc: "Une autre manière d'invoquer les Cieux." #NT!
+ theurgy_focus_effect_desc: "Focus sur les bourses de théurgie :" #NT!
+  
+ GAINS_PSI_LIFESTYLE_XP: "Gains $VALUE|V0$ [psi_lifestyle|E] d'expérience" #NT!
+ GAINED_PSI_LIFESTYLE_XP: "Expérience $VALUE|V0$ [psi_lifestyle|E] acquise" #NT!
+ I_GAIN_PSI_LIFESTYLE_XP: "Vous gagnez $VALUE|V0$ [psi_lifestyle|E] d'expérience" #NT!
+ I_GAINED_PSI_LIFESTYLE_XP: "Vous avez gagné $VALUE|V0$ [psi_lifestyle|E] d'expérience" #NT!
+ TARGET_GAINS_PSI_LIFESTYLE_XP: "[CHARACTER.GetShortUIName] gagne $VALUE|V0$ [psi_lifestyle|E] Expérience" #NT!
+ TARGET_GAINED_PSI_LIFESTYLE_XP: "[CHARACTER.GetShortUIName] gagné $VALUE|V0$ [psi_lifestyle|E] Expérience" #NT!
+  
+ GAINS_A_PSI_LIFESTYLE_PERKPOINT: "Gains $VALUE|V0$ [psi_lifestyle|E] [perk|E] Débloqué" #NT!
+ GAINED_A_PSI_LIFESTYLE_PERKPOINT: "Gagné $VALUE|V0$ [psi_lifestyle|E] [perk|E] Débloqué" #NT!
+ I_GAIN_A_PSI_LIFESTYLE_PERKPOINT: "Vous gagnez $VALUE|V0$ [psi_lifestyle|E] [perk|E] Déverrouillage" #NT!
+ I_GAINED_A_PSI_LIFESTYLE_PERKPOINT: "Vous avez gagné $VALUE|V0$ [psi_lifestyle|E] [perk|E] Déverrouillage" #NT!
+ TARGET_GAINS_A_PSI_LIFESTYLE_PERKPOINT: "[CHARACTER.GetShortUIName] gains $VALUE|V0$ [psi_lifestyle|E] [perk|E] Déverrouillage" #NT!
+ TARGET_GAINED_A_PSI_LIFESTYLE_PERKPOINT: "[CHARACTER.GetShortUIName] gagné $VALUE|V0$ [psi_lifestyle|E] [perk|E] Débloqué" #NT!
+  
+ GAINS_SORCERY_LIFESTYLE_XP: "Gains $VALUE|V0$ [sorcery_lifestyle|E] d'expérience" #NT!
+ GAINED_SORCERY_LIFESTYLE_XP: "Expérience $VALUE|V0$ [sorcery_lifestyle|E] acquise" #NT!
+ I_GAIN_SORCERY_LIFESTYLE_XP: "Vous gagnez $VALUE|V0$ [sorcery_lifestyle|E] d'expérience" #NT!
+ I_GAINED_SORCERY_LIFESTYLE_XP: "Vous avez gagné $VALUE|V0$ [sorcery_lifestyle|E] d'expérience" #NT!
+ TARGET_GAINS_SORCERY_LIFESTYLE_XP: "[CHARACTER.GetShortUIName] gagne $VALUE|V0$ [sorcery_lifestyle|E] Expérience" #NT!
+ TARGET_GAINED_SORCERY_LIFESTYLE_XP: "[CHARACTER.GetShortUIName] gagné $VALUE|V0$ [sorcery_lifestyle|E] Expérience" #NT!
+  
+ GAINS_A_SORCERY_LIFESTYLE_PERKPOINT: "Gains $VALUE|V0$ [sorcery_lifestyle|E] [perk|E] Débloqué" #NT!
+ GAINED_A_SORCERY_LIFESTYLE_PERKPOINT: "Gagné $VALUE|V0$ [sorcery_lifestyle|E] [perk|E] Débloqué" #NT!
+ I_GAIN_A_SORCERY_LIFESTYLE_PERKPOINT: "Vous gagnez $VALUE|V0$ [sorcery_lifestyle|E] [perk|E] Déverrouillage" #NT!
+ I_GAINED_A_SORCERY_LIFESTYLE_PERKPOINT: "Vous avez gagné $VALUE|V0$ [sorcery_lifestyle|E] [perk|E] Déverrouillage" #NT!
+ TARGET_GAINS_A_SORCERY_LIFESTYLE_PERKPOINT: "[CHARACTER.GetShortUIName] gains $VALUE|V0$ [sorcery_lifestyle|E] [perk|E] Déverrouillage" #NT!
+ TARGET_GAINED_A_SORCERY_LIFESTYLE_PERKPOINT: "[CHARACTER.GetShortUIName] gagné $VALUE|V0$ [sorcery_lifestyle|E] [perk|E] Débloqué" #NT!
+  
+ PSI_LIFESTYLE_PERK_POINTS_TRIGGER: "Points d'avantages du style de vie Psi : $NUM|V0$" #NT!
+ SORCERY_LIFESTYLE_PERK_POINTS_TRIGGER: "Points d'avantages du style de vie de sorcellerie : $NUM|V0$" #NT!
+  
+ NOT_has_sorcerer_trait: "@warning_icon !#X Vous n'avez pas #bold#! [trait|E] : [GetTrait('sorcerer').GetName( GetPlayer )]#!" #NT!
+ NOT_has_theurgist_trait: "@warning_icon !#X Vous n'avez pas #bold#! [trait|E] : [GetTrait('theurgist').GetName( GetPlayer )]#!" #NT!
+  
+ psi_visible: "Pouvoirs psychiques" #NT!
+  
+ animal_psi_perk_name: "Psi animal" #NT!
+ anti_psi_perk_name: "Antipsi" #NT!
+ astral_projection_perk_name: "Projection astrale" #NT!
+ biocontrol_perk_name: "Biocontrôle" #NT!
+ psychic_clairvoyance_perk_name: "Voyance" #NT!
+ cyberkinesis_perk_name: "Kinésie tisserande" #NT!
+ cyberpathy_perk_name: "Tisserpathe" #NT!
+ ectoplasmic_generation_perk_name: "Génération Ectoplasmique" #NT!
+ empathic_healing_perk_name: "Guérison empathique" #NT!
+ mind_shield_perk_name: "Bouclier mental" #NT!
+ necro_psi_perk_name: "Nécro-Psi" #NT!
+ precognition_perk_name: "Préconnaissance" #NT!
+ psychic_healing_perk_name: "Guérison psychique" #NT!
+ psychic_hypnosis_perk_name: "Hypnose psychique" #NT!
+ psychic_invisibility_perk_name: "Invisibilité psychique" #NT!
+ psychic_vampirism_perk_name: "Vampirisme psychique" #NT!
+ psychokinesis_perk_name: "Psychokinèse" #NT!
+ psychometry_perk_name: "Psychométrie" #NT!
+ psychoportation_perk_name: "Psychoportation" #NT!
+ pyrokinesis_perk_name: "Pyrokinésie" #NT!
+ soulstealing_perk_name: "Vol d'âme" #NT!
+ synergy_perk_name: "Synergie" #NT!
+ psychic_telepathy_perk_name: "La télépathie" #NT!
+  
+ ANIMAL_PSI_PERK_EFFECT: "En tant que [character_interaction|E], vous permet d'acquérir un animal de compagnie.\nPeut recruter plusieurs types d'animaux comme [men_at_arms|E].\n#F Animal Psi est la capacité de contacter les animaux. Plus l’animal est intelligent ou dressé, plus il est facile de donner des ordres. Le médium a besoin d'une ligne de vue dégagée vers l'animal en question et doit émettre des bruits correspondant à l'animal.#!" #NT!
+ ANTI_PSI_PERK_EFFECT: "Immunisé contre les pouvoirs psychiques.\n#F Anti Psi est la capacité rare de désactiver d'autres numina psychiques. Bien qu'inutile contre les dons Garous ou les disciplines vampiriques, pour une raison quelconque, il offre une protection limitée contre la Sphère Mentale. Anti Psi est constamment actif et entoure activement le médium à tout moment.#!" #NT!
+ ASTRAL_PROJECTION_PERK_EFFECT: "Accédez au [astral_reaches|E].\n#F Le médium peut séparer son esprit de son corps et parcourir le royaume astral. Bien qu’ils ne puissent pas affecter le monde réel dans cet état, ils peuvent néanmoins utiliser des phénomènes psychiques. Certains ont rapporté avoir entendu les voix d'autres entités et plusieurs médiums qui utilisaient cette capacité ont été perdus, leurs esprits errant dans d'étranges dimensions loin du Royaume Gaïen.#!" #NT!
+ BIOCONTROL_PERK_EFFECT: "Autoriser l'utilisation de Psi Heal [character_interaction|E] sur vous-même.\n#F Le médium peut commander son propre corps.#!" #NT!
+ PSYCHIC_CLAIRVOYANCE_PERK_EFFECT: "#F Le médium peut chasser ses sens tout en maintenant sa conscience à l'intérieur de son corps. Plus le médium connaît le lieu ou la personne observée, plus cela devient facile.#!" #NT!
+ CYBERKINESIS_PERK_EFFECT: "#F Weaverkinesis permet à son utilisateur de prendre le contrôle de divers appareils et objets, en les pliant à sa volonté à distance.#!" #NT!
+ CYBERPATHY_PERK_EFFECT: "#F Weaverpathy permet à son utilisateur de lire la structure interne de divers appareils ou objets similaires.#!" #NT!
+ ECTOPLASMIC_GENERATION_PERK_EFFECT: "Permet de forger l'âme d'un [GetTrait('wraith').GetName( GetPlayer )] emprisonné sans avoir besoin de lier ou de [GetCourtPositionType('artificer_journeymen_court_position').GetName()].\n#F Le psychique peut créer du plasma sous la forme d'une substance collante qui s'évapore après plusieurs minutes dans le [underworld|E]. Le plasma est solide pour les spectres dans le [shadowlands|E].#!" #NT!
+ EMPATHIC_HEALING_PERK_EFFECT: "Bonus au Psi Heal [character_interaction|E], permet de soigner les dégâts mentaux.\n#F Le médium peut établir un lien empathique qui lui permet d'influencer le processus de guérison d'une autre personne. Cela s’étend également aux maladies psychiques. Le médium prend ces blessures sur lui et doit les guérir à un rythme normal.#!" #NT!
+ MIND_SHIELD_PERK_EFFECT: "Immunisé contre le mental hostile [character_interaction|E].\n#F Le médium peut ériger des défenses mentales contre les intrusions surnaturelles. Cela inclut les sorts de mage, les disciplines vampiriques, les sorts mineurs de changeling et d'autres capacités basées sur l'esprit. Ce pouvoir n'a pas de capacités individuelles. Au lieu de cela, ses niveaux ne font qu'augmenter la difficulté pour un intrus de pénétrer l'esprit médium.#!" #NT!
+ NECRO_PSI_PERK_EFFECT: "Permet d'interagir avec un être de l'Umbra lorsque vous êtes dans le Monde Matériel.\nDébloquez [marked_for_return_interaction|E].\nDébloquez [bind_wraith_interaction|E].\nDébloquez [command_wraith_interaction|E].\nNombre maximum de spectres liés : #P +1#!.\n#F Nécro-Psi, également appelée Channeling, est une capacité qui permet à un médium de contacter les fantômes des morts. Les morts ne sont pas obligés de réagir à ces tentatives de communication et peuvent même se montrer hostiles. Le médium peut également faire appel à ses capacités pour lui-même.#!" #NT!
+ PRECOGNITION_PERK_EFFECT: "Vous recevrez une notification si quelqu'un a l'intention d'assassiner votre ami de la famille.\nVous recevrez une notification si quelqu'un a l'intention de séduire votre amant ou votre conjoint.\nVotre prisonnier a moins de chances de s'échapper de votre prison.\n#F Le médium peut avoir un aperçu de la tournure la plus probable des événements et parfois même voir l'avenir.#!" #NT!
+ PSYCHIC_HEALING_PERK_EFFECT: "Autoriser l'utilisation de Psi Heal [character_interaction|E] sur d'autres personnages.\n#F Le médium peut guérir les blessures et autres blessures grâce au pouvoir de son esprit.#!" #NT!
+ PSYCHIC_HYPNOSIS_PERK_EFFECT: "En tant que [character_interaction|E], vous permet d'obtenir un bonus d'opinion de la part de la cible.\n#F Le médium peut implanter des ordres et des suggestions à sa cible en l'envoyant en transe puis en l'hypnotisant.#!" #NT!
+ PSYCHIC_INVISIBILITY_PERK_EFFECT: "#F Semblable à la discipline vampirique de l'obscurcissement, le médium peut masquer sa présence, sans s'en rendre compte aux yeux des spectateurs. Certains la comparent à une sorte d’hypnose de masse. Les caméras vidéo enregistrent toujours leur présence normalement.#!" #NT!
+ PSYCHIC_VAMPIRISM_PERK_EFFECT: "En tant que [character_interaction|E], vous permet de réduire le stress ou la perte de santé due au drainage du prisonnier.\n#F Le médium peut extraire l'émotion et, dans certains cas, même la force vitale d'une cible pour son propre usage. L’expérience qui en résulte est une euphorie exaltante qui peut rapidement rendre le psychique dépendant.#!" #NT!
+ PSYCHOKINESIS_PERK_EFFECT: "#F La psychokinésie, également appelée télékinésie, permet à un médium de déplacer des objets sans les toucher. Tant qu'ils gardent le contrôle de l'objet en lévitation, le médium peut interagir avec eux de toutes les manières qu'ils pourraient faire normalement.#!" #NT!
+ PSYCHOMETRY_PERK_EFFECT: "Débloque les [buy_artifact_claim_interaction|E].\n[buy_claim_interaction|E] et [buy_artifact_claim_interaction|E] Coût : #P -50 %#!\n#F Grâce au toucher, le médium peut apprendre quelque chose sur un objet et les personnes qui ont interagi avec lui dans le passé. Plus la résonance émotionnelle est forte, plus il est facile de la lire.#!" #NT!
+ PSYCHOPORTATION_PERK_EFFECT: "En tant que [character_interaction|E], vous permet de vous téléporter vers l'emplacement cible.\n#F En utilisant son esprit, le médium peut se téléporter sur une courte distance.#!" #NT!
+ PYROKINESIS_PERK_EFFECT: "#F Le médium peut invoquer le feu. Ils n'ont aucun contrôle ni immunité contre le feu invoqué et doivent donc faire très attention à ne pas se brûler eux-mêmes.#!" #NT!
+ SOULSTEALING_PERK_EFFECT: "En tant que [character_interaction|E], vous permet de gagner [lifestyle|E] [experience|E] en drainant un prisonnier.\n#F Semblable au vampirisme psychique, le vol d'âme sape l'essence de sa cible pour renforcer le psychique. Ce pouvoir fonctionne contre les surnaturels dont l'âme a un aspect plus sombre, comme une ombre ou une bête, mais cette partie réagira et endommagera souvent le psychisme du médium incriminé.#!" #NT!
+ SYNERGY_PERK_EFFECT: "Augmentez les chances de réussite de Psi [character_interaction|E] de chaque [GetTrait('psychic').GetName( GetNullCharacter )] [courtier|E] #Weak (Max 10)#!.\n#F Talent incroyablement rare, Synergy permet à un médium de se lier à d'autres médiums pour former une entité gestaltiste qui combine plusieurs de leurs pouvoirs. Le toucher est nécessaire pour former ce lien.#!" #NT!
+ PSYCHIC_TELEPATHY_PERK_EFFECT: "En tant que [character_interaction|E], vous permet d'obtenir un crochet faible de la cible.\n#F La télépathie est le talent de dominer l'esprit d'autrui avec celui du médium.#!" #NT!
+  
+ sorcery_visible: "Chemins" #NT!
+  
+ alchemy_perk_name: "Alchimie" #NT!
+ conjuration_perk_name: "Conjuration" #NT!
+ conveyance_perk_name: "Transport" #NT!
+ cursing_perk_name: "Malédiction" #NT!
+ divination_perk_name: "Divination" #NT!
+ dowsing_perk_name: "Radiesthésie" #NT!
+ enchantment_perk_name: "Enchantement" #NT!
+ ephemera_perk_name: "Éphémère" #NT!
+ fascination_perk_name: "Fascination" #NT!
+ healing_perk_name: "Guérison" #NT!
+ hellfire_perk_name: "Feu de l'enfer" #NT!
+ herbalism_perk_name: "Herboristerie" #NT!
+ mana_manipulation_perk_name: "Manipulation du mana" #NT!
+ oneiromancy_perk_name: "Oniromancie" #NT!
+ saturnal_manes_perk_name: "Saturne - Mânes" #NT!
+ shadowcasting_perk_name: "Projection d'ombre" #NT!
+ shapeshifting_perk_name: "Changement de forme" #NT!
+ spirit_chasing_perk_name: "Chasse aux esprits" #NT!
+ summoning_warding_binding_perk_name: "Invocation, protection et entrave" #NT!
+ weather_control_perk_name: "Contrôle météorologique" #NT!
+  
+ ALCHEMY_PERK_EFFECT: "Débloquez le [decision|E] mineur pour devenir immortel en tant que mortel.\nEn tant que [character_interaction|E], vous permet de transformer un mortel en un surnaturel.\n#F L'utilisateur utilise des rites alchimiques pour perfectionner et combiner des objets matériels afin de éventuellement purifier sa propre âme. Les gens peuvent le pratiquer comme une sorte de chimie avancée, d’herboristerie traditionnelle ou comme une science mystique.#!" #NT!
+ CONJURATION_PERK_EFFECT: "[buy_claim_interaction|E] et [buy_artifact_claim_interaction|E] Coût : #P -50%#!.\n#F Aussi appelée télékinésie ou répartition, Conjuration permet à l'utilisateur de déplacer des objets préalablement préparés avec la force de sa magie.#!" #NT!
+ CONVEYANCE_PERK_EFFECT: "En tant que [character_interaction|E], vous permet de vous téléporter vers l'emplacement cible.\n#F Le moyen de transport, également appelé chemin du transport subtil, permet à l'utilisateur de voyager à l'aide d'un véhicule préparé rituellement. Aux niveaux supérieurs, l'utilisateur évite le véhicule et se téléporte à la place.#!" #NT!
+ CURSING_PERK_EFFECT: "En tant que [character_interaction|E], vous permet de bénir ou de maudire la maison cible.\n#F La malédiction, également appelée Chemin de la Fortune, est l'art d'appliquer des sortilèges et des malédictions à une personne. Ce chemin peut également apporter des bénédictions.#!" #NT!
+ DIVINATION_PERK_EFFECT: "Vous recevrez une notification si quelqu'un a l'intention d'assassiner votre ami de la famille.\nVous recevrez une notification si quelqu'un a l'intention de séduire votre amant ou votre conjoint.\nVotre prisonnier a moins de chances de s'échapper de votre prison.\n#F En utilisant un certain style de divination, l'utilisateur peut voir des événements dans le passé ou dans le futur.#!" #NT!
+ DOWSING_PERK_EFFECT: "#F La radiesthésie est la pratique consistant à localiser des objets perdus avec des moyens magiques. Pour cela, l’utilisateur a besoin d’un outil magique à utiliser. De plus, le sourcier devient plus enclin à l'investigation et à un sens général de la déduction.#!" #NT!
+ ENCHANTMENT_PERK_EFFECT: "En tant que [character_interaction|E], vous permet de fabriquer des talismans.\n#F L'enchantement, également appelé fétichisme, permet la création de talismans magiques mineurs.#!" #NT!
+ EPHEMERA_PERK_EFFECT: "Accédez au [spirit_wilds|E].\n#F Le Chemin des Éphémères permet à l'utilisateur d'interagir avec les mondes spirituels. Devenant effectivement un canal pour les entités des Autres Mondes, ceux qui pratiquent cette voie se retrouvent souvent dépassés par les créatures qui y vivent.#!" #NT!
+ FASCINATION_PERK_EFFECT: "#F L'utilisateur peut faire tomber une cible amoureuse d'une autre personne. La magie peut être lancée soit sur l'utilisateur lui-même, soit sur une amulette ou quelque chose de similaire pour permettre à ses effets de se produire sur les autres.#!" #NT!
+ HEALING_PERK_EFFECT: "Débloquez le [character_interaction|E] de guérison.\nEn tant que [character_interaction|E], permet d'empêcher un ami, un amant, un conjoint, une famille, un conseiller ou un chevalier de mourir accidentellement.\n#F L'utilisateur peut soigner des blessures, des maladies et des affections similaires. Bien qu’il s’agisse rarement d’un traitement permanent, la guérison parvient souvent au moins à soulager la douleur. L'utilisateur a besoin d'au moins un minimum de connaissances médicales pour appliquer correctement ses friandises.#!" #NT!
+ HELLFIRE_PERK_EFFECT: "#F Selon la rumeur, il serait le résultat d'opérations infernales, Hellfire confère à son lanceur d'énormes pouvoirs destructeurs. Bien qu'elles provoquent généralement du feu, des variantes ont été observées qui provoquent des éclairs, de la neige fondue, des tempêtes de sable, des tremblements de terre ou de la fumée. Dans les sociétés occidentales, Hellfire est souvent considéré comme de la magie noire.#!" #NT!
+ HERBALISM_PERK_EFFECT: "En tant que [character_interaction|E], vous permet de créer des potions.\n#F Semblable à l'enchantement et à l'alchimie, l'herboristerie traite de l'assemblage de puissantes infusions à partir d'éléments naturels. Bien qu'elle ne soit pas aussi puissante que la Voie de la Guérison, l'Herboristerie a l'avantage d'être facilement disponible une fois créée. Ses effets sont plus lents, mais sont perçus comme plus naturels et risquent moins d'échouer une fois infusés.#!" #NT!
+ MANA_MANIPULATION_PERK_EFFECT: "#F La manipulation du mana traite de ce que l'utilisateur perçoit comme la substance brute de la magie – le chi, le mana, l'énergie des lignes telluriques et autres. Grâce à des pratiques comme le Feng Shui et la géomancie, l'utilisateur apprend à exploiter ces énergies à ses propres fins.#!" #NT!
+ ONEIROMANCY_PERK_EFFECT: "Accédez au [dreaming|E].\n#F Grâce à l'Oniromancie, l'utilisateur peut visiter les rêves d'autres personnes. Grâce à leurs pouvoirs, ils peuvent les remodeler, bannir les cauchemars ou faire face aux troubles subconscients.#!" #NT!
+ SATURNAL_MANES_PERK_EFFECT: "Débloquez [bind_wraith_interaction|E].\nDébloquez [command_wraith_interaction|E].\nNombre maximum de spectres liés : #P +1#!.\n#F Manes était une pratique des Lunes Cornues de la Société Éclairée de la Lune Pleureuse. En utilisant des rites orgiaques sous la lune, le praticien fait appel aux esprits pour subvenir à ses besoins.#!" #NT!
+ SHADOWCASTING_PERK_EFFECT: "#F Shadowcasting, également appelé Chemin des Ombres, se préoccupe du contrôle des ténèbres. Dans le monde occidental, on pensait qu'il avait un lien avec l'Infernal, mais aucune preuve définitive n'a été fournie.#!" #NT!
+ SHAPESHIFTING_PERK_EFFECT: "Débloquez Shapeshift [character_interaction|E].\n#F L'utilisateur peut manipuler sa propre forme physique. Le changement de forme nécessite une étude intense à la fois du corps des animaux et du vôtre.#!" #NT!
+ SPIRIT_CHASING_PERK_EFFECT: "Débloquez $seek_aid_of_the_spirits_decision$ [decision|E].\n#F L'utilisateur crée un lien entre lui et l'esprit d'un type de plante ou d'animal. En renforçant sa connexion avec l'esprit, le Spirit Chaser acquiert des capacités qui reflètent le type choisi.#!" #NT!
+ SUMMONING_WARDING_BINDING_PERK_EFFECT: "Débloquez l'invocation [character_interaction|E] pour qu'un personnage non atterri vienne à votre cour.\n#F Le chemin complexe qui consiste à la fois à invoquer, à protéger et à lier des créatures est parmi les plus dangereux à pratiquer. Avec l'invocation, l'utilisateur appelle la créature. Avec Warding, ils s'en défendent. Avec Binding, ils exhortent à l'obéissance en échange d'un prix et, à des niveaux plus élevés, peuvent même l'ordonner. En les rejetant, ils font partir la créature.#!" #NT!
+ WEATHER_CONTROL_PERK_EFFECT: "Débloquez Weathercraft [character_interaction|E].\n#F Également connu sous le nom de Weathercraft, avec ce chemin, l'utilisateur manipule les conditions météorologiques pour son propre bénéfice.#!" #NT!
+  
+ theurgy_visible: "Théurgie" #NT!
+  
+ via_geniorum_perk_name: "Via Geniorum" #NT!
+ via_ignis_perk_name: "Via Ignis" #NT!
+ via_medicamenti_perk_name: "Via Médicaments" #NT!
+ via_necromantiae_perk_name: "Par l'intermédiaire des Nécromanties" #NT!
+ via_oraculi_perk_name: "Via Oraculi" #NT!
+  
+ VIA_GENIORUM_PERK_EFFECT: "Débloquez [bind_wraith_interaction|E].\nDébloquez [command_wraith_interaction|E].\nNombre maximum de spectres liés : #P +1#!.\n#F Cette Via traite du royaume des esprits et des démons. La connaissance du vrai nom d’un esprit confère un pouvoir sur lui.#!" #NT!
+ VIA_IGNIS_PERK_EFFECT: "#F Cette Via permet aux Damnés de vivre les flammes de l'Enfer avant leur Mort définitive. Cette Via invoque ce qui semble être un feu normal, mais elle brûle même ceux qui sont protégés des flammes normales.#!" #NT!
+ VIA_MEDICAMENTI_PERK_EFFECT: "Débloquez Heal [character_interaction|E].\n#F Ceux qui pratiquent cette Via, également appelée Voie du Remède, sont des guérisseurs. Via Medicamenti resserrera les os, arrêtera le saignement et inversera les dégâts infligés.#!" #NT!
+ VIA_NECROMANTIAE_PERK_EFFECT: "Débloquez [marked_for_return_interaction|E].\nEn tant que [character_interaction|E], vous permet de bannir un personnage fantôme vers le [dark_kingdom|E].\nNombre maximum de spectres liés : #P +1#!.\n#F La Via Necromantiae est une théurgie conçue pour contacter ou bannir les morts.#!" #NT!
+ VIA_ORACULI_PERK_EFFECT: "Vous recevrez une notification si quelqu'un a l'intention d'assassiner votre ami de la famille.\nVous recevrez une notification si quelqu'un a l'intention de séduire votre amant ou votre conjoint.\nVotre prisonnier a moins de chances de s'échapper de votre prison.\n#F Grâce à la Via Oraculi, les Théurges peut avoir un aperçu du futur inconnu ou voir le passé invisible.#!" #NT!

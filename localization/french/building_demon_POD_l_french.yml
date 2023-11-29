@@ -1,0 +1,151 @@
+﻿l_french:
+ building_type_bastion_01: "Bastion" #NT!
+ building_type_bastion_01_desc: "#F Les bastions étaient des bastions des Elohim rebelles dans la guerre de la colère sur Terre, où ils rassemblaient leurs forces, perfectionnaient leurs compétences et encadraient leurs épouses mortelles.#!" #NT!
+ building_bastion_01: "Petit Bastion" #NT!
+ building_bastion_01_desc: "Il y a ici un petit avant-poste qui sert de fondation à un bastion. Il y a encore beaucoup de travail à faire." #NT!
+ building_bastion_02: "Grand Bastion" #NT!
+ building_bastion_02_desc: "Ce qui était autrefois un petit avant-poste est devenu un bastion respectable, où votre position est désormais assez forte." #NT!
+ building_bastion_03: "Bastion gargantuesque" #NT!
+ building_bastion_03_desc: "Ce complexe tentaculaire constitue un rempart dense et byzantin contre vos ennemis." #NT!
+ building_bastion_04: "Bastion colossal" #NT!
+ building_bastion_04_desc: "Imposant et glorieux, ce rempart de votre pouvoir témoigne de votre volonté." #NT!
+ building_bastion_05: "Immense Bastion" #NT!
+ building_bastion_05_desc: "Assez pour rivaliser avec les portes du paradis, votre Bastion pourrait résister à n'importe quel assaut mortel." #NT!
+ building_bastion_06: "Bastion Monumental" #NT!
+ building_bastion_06_desc: "De là, vous pourrez affronter les feux de l’Apocalypse." #NT!
+  
+ building_type_ministry_of_dragons_01: "Censeurs du Culte" #NT!
+ building_type_ministry_of_dragons_01_desc: "#F Le Ministère des Dragons, également appelé les Censeurs, a pour tâche de remettre en question et de contester l'autorité. Cette autorité étant Dieu, bien sûr.#!" #NT!
+ building_ministry_of_dragons_01: "Censeurs mineurs du culte" #NT!
+ building_ministry_of_dragons_01_desc: "Ici, vous avez quelques âmes qui se consacrent à aider les mortels à remettre en question leurs croyances insensées." #NT!
+ building_ministry_of_dragons_02: "Censeurs respectables du culte" #NT!
+ building_ministry_of_dragons_02_desc: "Imitant désormais les fonctions mineures des Déchus encore piégés dans les Abysses, l'influence des Censeurs a commencé à croître." #NT!
+ building_ministry_of_dragons_03: "Les grands censeurs du culte" #NT!
+ building_ministry_of_dragons_03_desc: "Même les mortels autour de vous commencent à remettre en question leur objectif et leur divinité elle-même, faisant écho aux appels de vos censeurs." #NT!
+ building_ministry_of_dragons_04: "Grands censeurs du culte" #NT!
+ building_ministry_of_dragons_04_desc: "Vos censeurs sont désormais influents dans toute la région, élargissant le pouvoir sur lequel ils et, par extension, vous, faites appel." #NT!
+ building_ministry_of_dragons_05: "Puissants censeurs du culte" #NT!
+ building_ministry_of_dragons_05_desc: "Même les autres Terriens eux-mêmes hésitent désormais face aux questions d'altération de vos censeurs, votre influence étant indéniable." #NT!
+ building_ministry_of_dragons_06: "Censeurs éternels du culte" #NT!
+ building_ministry_of_dragons_06_desc: "Que rien ne soit remis en question. Que tout soit permis. Vous et votre vérité êtes tout ce qui existe. Aucune autre croyance n’est sûre." #NT!
+  
+ building_type_ministry_of_eagles_01: "Gardiens du Culte" #NT!
+ building_type_ministry_of_eagles_01_desc: "#F Les Gardiens du Culte, également appelés Ministère des Aigles, ont pour tâche d'obtenir des renseignements sur les ennemis potentiels.#!" #NT!
+ building_ministry_of_eagles_01: "Observateurs mineurs du culte" #NT!
+ building_ministry_of_eagles_01_desc: "Vous avez maintenant quelques espions, vos premiers Observateurs, qui commencent à élargir votre regard." #NT!
+ building_ministry_of_eagles_02: "Observateurs respectables du culte" #NT!
+ building_ministry_of_eagles_02_desc: "Vos Observateurs ont désormais une influence considérable sur le district de votre base d'opérations et vous rendent compte régulièrement." #NT!
+ building_ministry_of_eagles_03: "Principaux observateurs du culte" #NT!
+ building_ministry_of_eagles_03_desc: "L’ensemble de la population de ce domaine est désormais sous vos yeux, et peu de choses se passent ici à votre insu." #NT!
+ building_ministry_of_eagles_04: "Grands Gardiens du Culte" #NT!
+ building_ministry_of_eagles_04_desc: "Les secrets et les ragots vous sont tous connus, le regard de vos Observateurs couvrant désormais les zones rurales, presque rien ne vous échappe." #NT!
+ building_ministry_of_eagles_05: "Puissants observateurs du culte" #NT!
+ building_ministry_of_eagles_05_desc: "Vos Gardiens savent désormais tout ce qui se passe dans cette zone, et vos espions sont sans précédent, faisant l'envie même des autres Terriens." #NT!
+ building_ministry_of_eagles_06: "Gardiens éternels du culte" #NT!
+ building_ministry_of_eagles_06_desc: "Il y aura des histoires de « Big Brother » que les mortels raconteront. Vous êtes monté au-delà de cela." #NT!
+  
+ building_type_ministry_of_aurochs_01: "Gardiens du Culte" #NT!
+ building_type_ministry_of_aurochs_01_desc: "#F Les Gardiens du Culte, également appelés Ministère des Aurochs, ont pour tâche de défendre la Cour et de faire respecter ses lois.#!" #NT!
+ building_ministry_of_aurochs_01: "Gardiens mineurs du culte" #NT!
+ building_ministry_of_aurochs_01_desc: "Vous disposez désormais d'une petite équipe de gardes du corps, vos premiers Warders destinés à vous défendre dans ce domaine." #NT!
+ building_ministry_of_aurochs_02: "Respectables gardiens du culte" #NT!
+ building_ministry_of_aurochs_02_desc: "Une petite force est ici maintenant, suffisante pour assurer une sécurité respectable." #NT!
+ building_ministry_of_aurochs_03: "Gardiens majeurs du culte" #NT!
+ building_ministry_of_aurochs_03_desc: "L'étendue de votre pouvoir est désormais suffisante pour que vous disposiez d'une petite armée de gardiens sous vos ordres." #NT!
+ building_ministry_of_aurochs_04: "Grands Gardiens du Culte" #NT!
+ building_ministry_of_aurochs_04_desc: "Vos gardiens couvrent désormais votre cour, leur influence à elle seule dissuadant la violence (ou l'encourageant lorsque le besoin s'en fait sentir)." #NT!
+ building_ministry_of_aurochs_05: "Puissants gardiens du culte" #NT!
+ building_ministry_of_aurochs_05_desc: "Les Gardiens constituent désormais une petite armée, d'un niveau égalé par peu d'entre eux, et dotée d'un pouvoir presque inégalé." #NT!
+ building_ministry_of_aurochs_06: "Gardiens éternels du culte" #NT!
+ building_ministry_of_aurochs_06_desc: "Le Ciel lui-même devrait peser le pour et le contre d’une attaque contre une armée comme la vôtre." #NT!
+  
+ building_type_ministry_of_lions_01: "Épées du culte" #NT!
+ building_type_ministry_of_lions_01_desc: "#F Les Épées du Culte, aussi appelées Ministère des Lions, ont pour mission de lutter contre les menaces contre la Cour.#!" #NT!
+ building_ministry_of_lions_01: "Épées mineures du culte" #NT!
+ building_ministry_of_lions_01_desc: "Vous avez engagé quelques Swords, qui agissent désormais comme des « nettoyeurs » pour les habitants que vous souhaitez supprimer." #NT!
+ building_ministry_of_lions_02: "Épées respectables du culte" #NT!
+ building_ministry_of_lions_02_desc: "Une force militaire qui peut désormais mener une bonne bataille, vos épées sont désormais votre main droite de confiance." #NT!
+ building_ministry_of_lions_03: "Épées majeures du culte" #NT!
+ building_ministry_of_lions_03_desc: "Vos gardiens exercent désormais leur contrôle sur une ville entière, y faisant la guerre à votre guise." #NT!
+ building_ministry_of_lions_04: "Épées supérieures du culte" #NT!
+ building_ministry_of_lions_04_desc: "Premier signe de votre portée croissante, les autres Déchus ont commencé à craindre vos épées de confiance." #NT!
+ building_ministry_of_lions_05: "Puissantes épées du culte" #NT!
+ building_ministry_of_lions_05_desc: "Les armées mortelles craindraient d'affronter une poignée de vos épées, et votre portée s'étend encore plus loin, la lame brûlante de votre ambition." #NT!
+ building_ministry_of_lions_06: "Épées éternelles du culte" #NT!
+ building_ministry_of_lions_06_desc: "Le ciel devrait trembler devant vos forces." #NT!
+  
+ building_type_ministry_of_dust_01: "Guides du Culte" #NT!
+ building_type_ministry_of_dust_01_desc: "#F Les Guides du Culte, également appelés Ministère de la Poussière, ont pour tâche de garder le troupeau mortel ainsi que de faire progresser la Cour.#!" #NT!
+ building_ministry_of_dust_01: "Guides mineurs du culte" #NT!
+ building_ministry_of_dust_01_desc: "Quelques gardiens ont été assignés à vos cultistes, actuellement une force invisible qui doit vous avertir lorsque le besoin s'en fait sentir." #NT!
+ building_ministry_of_dust_02: "Guides respectables du culte" #NT!
+ building_ministry_of_dust_02_desc: "Vos Guides sont désormais toujours vigilants envers vos cultes, dans les petits endroits où ils résident." #NT!
+ building_ministry_of_dust_03: "Principaux guides du culte" #NT!
+ building_ministry_of_dust_03_desc: "Les Guides agissent régulièrement comme agents de liaison, ce qui constitue désormais une préoccupation omniprésente dans la vie de vos cultistes et de leurs ennemis." #NT!
+ building_ministry_of_dust_04: "Grands guides du culte" #NT!
+ building_ministry_of_dust_04_desc: "Les guides détiennent désormais un plus grand pouvoir sur le royaume local lui-même, gardiens fermes de vos sources de foi et de pouvoir." #NT!
+ building_ministry_of_dust_05: "Puissants guides du culte" #NT!
+ building_ministry_of_dust_05_desc: "Les Guides sont désormais les champions de votre domaine, vos cultistes sont en sécurité et protégés, et leurs ennemis n'osent pas nuire à votre précieux stock de foi." #NT!
+ building_ministry_of_dust_06: "Guides éternels du culte" #NT!
+ building_ministry_of_dust_06_desc: "Cendres en cendres, poussière en poussière, tout ici est gardé en sécurité ici, sous votre regard éternel." #NT!
+  
+ building_type_theistic_cults_01: "Culte théiste" #NT!
+ building_type_theistic_cults_01_desc: "#F Le théisme, ou la croyance en l'existence de dieux qui s'intéressent personnellement à l'humanité, donne de nombreuses opportunités aux démons de s'introduire dans des systèmes religieux déjà bien établis et de les renverser. Ces cultes tournent autour du culte d'un démon se faisant passer pour un dieu ou une déesse, généralement la divinité d'une culture avec des légendes de dieux interagissant personnellement avec leurs croyants.#!" #NT!
+ building_theistic_cults_01: "Petit culte théiste" #NT!
+ building_theistic_cults_01_desc: "Dans quelques lieux saints, les murmures de votre pouvoir ont commencé." #NT!
+ building_theistic_cults_02: "Petit culte théiste" #NT!
+ building_theistic_cults_02_desc: "Quelques saints hommes ne le sont plus, et votre emprise commence maintenant à vraiment grandir." #NT!
+ building_theistic_cults_03: "Culte théiste modéré" #NT!
+ building_theistic_cults_03_desc: "Vous disposez désormais d’un bâtiment entier secrètement dédié à votre culte, un phare de puissance et de foi pour vous seul." #NT!
+ building_theistic_cults_04: "Grand culte théiste" #NT!
+ building_theistic_cults_04_desc: "Tout le monde dans la ville connaît le nom de votre grand prêtre, et vous pourrez vous gaver de foi, un vrai délice !" #NT!
+ building_theistic_cults_05: "Culte théiste massif" #NT!
+ building_theistic_cults_05_desc: "Votre influence dans le cœur et la foi des mortels est devenue la doctrine officielle dans ce domaine, avec plus de foi que vous n'en auriez jamais demandé dans le passé." #NT!
+ building_theistic_cults_06: "Culte théiste éternel" #NT!
+ building_theistic_cults_06_desc: "Même les cultes des Elohim d’autrefois n’égalent pas ceux que vous avez aujourd’hui." #NT!
+  
+ building_type_pseudo_angelic_cults_01: "Culte pseudo-angélique" #NT!
+ building_type_pseudo_angelic_cults_01_desc: "#F Les gens ordinaires crédules sont d'excellents adorateurs, prêts à entendre vos mensonges sur le salut et sur le fait d'être l'une des armées choisies par Dieu.#!" #NT!
+ building_pseudo_angelic_cults_01: "Petit culte pseudo-angélique" #NT!
+ building_pseudo_angelic_cults_01_desc: "Au sein de quelques communautés, les murmures de votre pouvoir ont commencé." #NT!
+ building_pseudo_angelic_cults_02: "Petit culte pseudo-angélique" #NT!
+ building_pseudo_angelic_cults_02_desc: "Les gens parlent davantage de leur sauveur, et votre emprise commence maintenant à vraiment grandir." #NT!
+ building_pseudo_angelic_cults_03: "Culte pseudo-angélique modéré" #NT!
+ building_pseudo_angelic_cults_03_desc: "Vous disposez désormais d’un bâtiment entier secrètement dédié à votre culte, un phare de puissance et de foi pour vous seul." #NT!
+ building_pseudo_angelic_cults_04: "Grand culte pseudo-angélique" #NT!
+ building_pseudo_angelic_cults_04_desc: "Tout le monde dans la ville connaît le nom de son dieu, et on peut se gaver de foi, un vrai délice !" #NT!
+ building_pseudo_angelic_cults_05: "Culte pseudo-angélique massif" #NT!
+ building_pseudo_angelic_cults_05_desc: "Votre influence dans le cœur et la foi des mortels est devenue la doctrine officielle dans ce domaine, avec plus de foi que vous n'en auriez jamais demandé dans le passé." #NT!
+ building_pseudo_angelic_cults_06: "Culte pseudo-angélique éternel" #NT!
+ building_pseudo_angelic_cults_06_desc: "Même les cultes des Elohim d’autrefois n’égalent pas ceux que vous avez aujourd’hui." #NT!
+  
+ building_type_demonic_cults_01: "Culte démoniaque" #NT!
+ building_type_demonic_cults_01_desc: "#F Bien que tous les cultes impliqués dans le culte des démons puissent techniquement être appelés cultes démoniaques, le terme est utilisé ici pour désigner les cultes au service d'un démon qui ne tentent pas de dissimuler sa véritable nature. Les adeptes des cultes démoniaques ne se font aucune illusion sur la manière dont ils vénèrent les créatures.#!" #NT!
+ building_demonic_cults_01: "Petit culte démoniaque" #NT!
+ building_demonic_cults_01_desc: "Dans quelques maisons corrompues, les murmures de votre pouvoir ont commencé." #NT!
+ building_demonic_cults_02: "Petit culte démoniaque" #NT!
+ building_demonic_cults_02_desc: "Quelques pécheurs apparaissent, votre emprise commence maintenant à vraiment grandir." #NT!
+ building_demonic_cults_03: "Culte démoniaque modéré" #NT!
+ building_demonic_cults_03_desc: "Vous disposez désormais d’un bâtiment entier secrètement dédié à votre culte, un phare de puissance et de foi pour vous seul." #NT!
+ building_demonic_cults_04: "Grand culte démoniaque" #NT!
+ building_demonic_cults_04_desc: "Tout le monde dans la ville connaît le vrai plaisir du péché, et on peut se gaver de foi, un vrai délice !" #NT!
+ building_demonic_cults_05: "Culte démoniaque massif" #NT!
+ building_demonic_cults_05_desc: "Votre influence dans le cœur et la foi des mortels est devenue la doctrine officielle dans ce domaine, avec plus de foi que vous n'en auriez jamais demandé dans le passé." #NT!
+ building_demonic_cults_06: "Culte démoniaque éternel" #NT!
+ building_demonic_cults_06_desc: "Ils savent ce que vous êtes vraiment et ils vous aiment pour cela." #NT!
+  
+ building_type_noble_cults_01: "Culte noble" #NT!
+ building_type_noble_cults_01_desc: "#F Les nobles sont très faciles à corrompre. Après tout, ils se livrent à de nombreux péchés à cause de leur mode de vie même, ce qui rend la volonté de « faire l'expérience d'un peu plus » d'autant plus efficace.#!" #NT!
+ building_noble_cults_01: "Petit culte noble" #NT!
+ building_noble_cults_01_desc: "Dans quelques salles du château, les murmures de votre pouvoir ont commencé." #NT!
+ building_noble_cults_02: "Petit culte noble" #NT!
+ building_noble_cults_02_desc: "Quelques nobles dépravés suivent votre appel, et votre esclavage commence maintenant à vraiment grandir." #NT!
+ building_noble_cults_03: "Culte noble modéré" #NT!
+ building_noble_cults_03_desc: "Vous disposez désormais d’un bâtiment entier secrètement dédié à votre culte, un phare de puissance et de foi pour vous seul." #NT!
+ building_noble_cults_04: "Grand culte noble" #NT!
+ building_noble_cults_04_desc: "Tout le monde dans la ville connaît les délices que vous pouvez offrir, et vous pouvez vous gaver de foi, un vrai délice !" #NT!
+ building_noble_cults_05: "Culte noble massif" #NT!
+ building_noble_cults_05_desc: "Votre influence dans le cœur et la foi des mortels est devenue la doctrine officielle dans ce domaine, avec plus de foi que vous n'en auriez jamais demandé dans le passé." #NT!
+ building_noble_cults_06: "Culte noble éternel" #NT!
+ building_noble_cults_06_desc: "Même les cultes des Elohim d’autrefois n’égalent pas ceux que vous avez aujourd’hui." #NT!
+  

@@ -1,0 +1,139 @@
+﻿l_french:
+  
+ POD_demon_maintenance.10.t: "Navire" #NT!
+ POD_demon_maintenance.10.desc: "Afin de rester dans la Création, un démon doit habiter un vaisseau physique quelconque. Les démons détestent leurs récipients, les coquilles dans lesquelles ils doivent se cacher dans le monde sans valeur de Dieu ; bien que mieux que le néant incontournable des Abysses, un vaisseau reste une sorte de prison et chaque instant passé ancré dans un corps physique est une autre raison de détester Dieu. Ils attendent avec impatience le moment où ils pourront enflammer le monde matériel entier, observant la glorieuse destruction depuis le confort de leur odieux royaume spirituel.\n#X En termes de jeu, les Earthbound sont véritablement immortels mais doivent avoir leur âme contenue dans une partie du monde matériel. Cela peut être leur capitale, ce qui les empêche de commander des troupes, de déplacer leur capitale et d'être repoussés vers la prison abyssale s'ils la perdent. Ou bien ils peuvent être attachés à un reliquaire, un artefact qui leur donne plus de mobilité, mais qui est aussi beaucoup plus fragile. Si le reliquaire est détruit, le Démon retourne à la Prison Abyssale, un processus très coûteux pour s'en échapper.#!" #NT!
+ POD_demon_maintenance.10.option.a: "Je possède un hôte humain." #NT!
+ POD_demon_maintenance.10.option.b: "Je suis dans une prison de pierre." #NT!
+ POD_demon_maintenance.10.option.c: "Je suis lié à la terre." #NT!
+ POD_demon_maintenance.10.option.c.tt: "Vous ne pourrez pas déplacer votre capitale ni devenir commandant, et serez destitué si vous perdez votre capitale." #NT!
+ earthbound_artifact_choice_tt: "Il vous sera présenté un choix d'artefacts à choisir comme reliquaires, contenants de votre âme." #NT!
+  
+ POD_demon_maintenance.11.t: "Prisons de pierre" #NT!
+ POD_demon_maintenance.11.desc: "La majorité des démons en liberté dans la Création sont contenus dans des reliquaires, des objets inanimés créés par leurs adorateurs pour qu'ils puissent les habiter. Lorsqu'un démon est invoqué, le rituel se concentre sur le reliquaire ; le démon apparaît à l'intérieur, son esprit se fondant dans la substance physique de l'objet." #NT!
+ POD_demon_maintenance.11.option.a: "Je suis contenu dans une arme." #NT!
+ POD_demon_maintenance.11.option.b: "Je suis contenu dans une armure." #NT!
+ POD_demon_maintenance.11.option.c: "Je suis contenu dans une boule brillante." #NT!
+ POD_demon_maintenance.11.option.d: "Je suis contenu dans un livre." #NT!
+ POD_demon_maintenance.11.option.e: "Je suis contenu dans un meuble." #NT!
+ POD_demon_maintenance.11.option.f: "Je suis contenu dans un bijou." #NT!
+ artifact_reliquarie_name: "Reliquaire" #NT!
+ artifact_reliquarie_description: "Ayant [owner.GetTitledFirstNamePossessive] âme en lui, ce [reliquarie|E] a acquis certaines propriétés du [GetTrait('demon').GetName( GetNullCharacter )]." #NT!
+ artifact_new_reliquarie_name: "Démoniaque [this_artifact.GetNameNoTooltip]" #NT!
+ artifact_new_reliquarie_desc: "[this_artifact.GetDesc]\n\n$artifact_reliquarie_description$" #NT!
+ artifact_old_reliquarie_desc: "[this_artifact.GetDesc]\n\n#X [owner.GetTitledFirstName] a abandonné ce [reliquarie|E].#!" #NT!
+ reliquarie_destroyed_notification: "Reliquaire détruit" #NT!
+  
+ POD_demon_maintenance.20.t: "Le prochain hôte" #NT!
+ POD_demon_maintenance.20.desc: "La seule alternative à l’habitation d’un reliquaire pour un ange déchu est de posséder une hôte humaine – et jusqu’à récemment, c’était une très mauvaise alternative. Les démons peuvent posséder les humains pendant un certain temps, mais pas de façon permanente, car l'acte de possession condamne le mortel à une mort inévitable et hideuse dans un court laps de temps. Le Rituel de l'âme brisée est une nouvelle possibilité qui rend le processus un peu plus facile.\n#X En termes de jeu, vous êtes véritablement immortel mais vous devez toujours avoir un hôte sous peine d'être forcé de retourner à la Prison abyssale. Vous pouvez choisir vous-même votre prochain hôte via Ajouter un hôte potentiel [character_interaction|E], cela vous permettra également de "sangsue" certains des attributs de l'hôte. Si vous n'avez pas d'hôte pendant un certain temps après la mort de votre hôte actuel, vous serez présenté avec un esclave aléatoire à utiliser comme hôte "d'urgence" à la place (sans sangsue d'âme dans ce cas). Comme vous l'avez peut-être deviné, les personnages hôtes sont importants pour votre gameplay et vous pouvez les trouver dans l'onglet Relations avec vos Minions. gardez un oeil sur eux !#!" #NT!
+ POD_demon_maintenance.20.option.a: "Je posséderai un esclave aléatoire." #NT!
+ POD_demon_maintenance.20.option.b: "Je posséderai un artefact aléatoire." #NT!
+ POD_demon_maintenance.20.option.c: "Je posséderai mon capital." #NT!
+ #POD_demon_maintenance.20.option.a.tt: "Vous jouerez votre vaisseau désigné qui héritera de votre nom, âge, traits, avantages..." #NT!
+ POD_demon_maintenance.20.option.d: "Permettez-moi de revenir à la forme spirituelle." #NT!
+  
+ demon_without_host_tt: "C'est un choix dangereux. Sans hôte, vous pourriez rester coincé dans l'Umbra pendant un certain temps." #NT!
+  
+ POD_demon_arcana.100.t: "Achetez l'Arsenal de la Bête" #NT!
+ POD_demon_arcana.100.desc: "Achetez une nouvelle arme bestiale." #NT!
+  
+ POD_demon_arcana.201.t: "Serviteur indescriptible" #NT!
+ POD_demon_arcana.201.desc: "Avec votre Connaissance de la Contamination, vous pouvez essayer de créer une statue qui pourra ensuite être utilisée comme corps hôte temporaire." #NT!
+ POD_demon_arcana.201.option.a: "Un corps artificiel parfait." #NT!
+ POD_demon_arcana.201.option.a.tt: "Vous allez essayer de créer un organisme hôte temporaire" #NT!
+ POD_demon_arcana.201.option.a.desc: "Une lutte avec vos énergies" #NT!
+ POD_demon_arcana.201.option.a.tt.success: "Votre corps artificiel est séparé avec succès" #NT!
+ POD_demon_arcana.201.option.a.tt.failure: "Vous ne parvenez pas à créer le corps artificiel" #NT!
+ POD_demon_arcana.201.option.b: "Ce n'est pas le bon moment" #NT!
+ POD_demon_arcana.201.option.b.tt: "Vous abandonnerez votre idée de créer un corps artificiel" #NT!
+  
+ POD_demon_arcana.202.t: "Serviteur innommable II" #NT!
+ POD_demon_arcana.202.desc: "Grâce à votre Connaissance de la Contamination, vous avez réussi à créer un corps artificiel, il est maintenant temps de l'utiliser pour vous déplacer." #NT!
+ POD_demon_arcana.202.option.a: "Je me sens libre." #NT!
+ POD_demon_arcana.202.option.a.tt: "Votre Serviteur Indicible est séparé avec succès." #NT!
+  
+ POD_demon_arcana.203.t: "Serviteur innommable II" #NT!
+ POD_demon_arcana.203.desc: "Votre corps artificiel ne suffit pas à supporter vos énergies... Cette expérience est un échec." #NT!
+ POD_demon_arcana.203.option.a: "je ne suis pas encore prêt" #NT!
+ POD_demon_arcana.203.option.a.tt: "Vous n'avez pas réussi à créer le corps artificiel" #NT!
+  
+ POD_demon_arcana.204.t: "Retour à ma prison" #NT!
+ POD_demon_arcana.204.desc: "Votre corps artificiel a fini par être consommé par vos énergies." #NT!
+ POD_demon_arcana.204.option.a: "C'est l'heure du prochain ?" #NT!
+ POD_demon_arcana.204.option.a.tt: "Vous ne pouvez plus bouger dans cette construction." #NT!
+  
+ POD_days_of_fire.1342.t: "Deuxième Grand Maelström" #NT!
+ POD_days_of_fire.1342.desc: "Pour les disciples du Condamné, de telles ténèbres s'abattent sur la Terre\nEt sur l'âme humaine\nQue les vivants envient les morts, et plus encore, envient ceux qui ont oublié de mourir.\nAlors même que les morts subissent leur deuxième grande tempête, les vivants,\nMéprisant le don ultime de Celui qui donne l'Unique,\nEmbrasse plutôt la malédiction du Grand Roi de Sang.\nCela n'arrivera pas une seule fois, mais deux fois." #NT!
+ POD_days_of_fire.1401.t: "Renaissance" #NT!
+ POD_days_of_fire.1401.desc: "Avec le temps, l'obscurité se dissipe.\nL'homme tourne à nouveau ses yeux vers le ciel\nEt trouve quelque chose de plus grand que lui.\nUn homme avec un œil de verre voit la vérité, et un homme avec un nez argenté la flaire.\nUn imbécile sage. demande pourquoi la lune ne tombe pas.\nIls sont les pères, sans le savoir, d'une nouvelle tribu, qui triomphe sans être vu.\nIls ont fondé la tribu de l'Esprit." #NT!
+ POD_days_of_fire.1430.t: "Inquisition" #NT!
+ POD_days_of_fire.1430.desc: "Quand les enfants du Condamné deviendront pères\nEt pourtant refuseront d'engendrer des enfants\nIls s'en prendront aux enfants du Grand Roi de Sang\nEt ils s'en prendront aux enfants du Livre.\nLeur pluie tombera sur les justes et les injustes également.\nEt que la pluie n'est pas de l'eau, mais du feu.\nCherchant de faire le mal au nom du bien, ils font pourtant le bien." #NT!
+ POD_days_of_fire.1450.t: "Révolte anarchique" #NT!
+ POD_days_of_fire.1450.desc: "Avec le temps, la malédiction du Grand Roi\nPortera pleinement ses fruits.\nComme le premier fils cracha sur Celui qui Donateur Unique,\nComme sa semence bâtarde cracha sur lui,\nAinsi les vers de sa misérable couvée se lèveront pour piquer les serpents. ,\nLe nombre de leur faiblesse est quatorze : De leur force, une de moins." #NT!
+ POD_days_of_fire.1492.t: "La terre riche" #NT!
+ POD_days_of_fire.1492.desc: "La Terre Riche sommeille\nJusqu'à ce qu'elle soit réveillée par des hommes de fer sur des poissons en bois.\nLeur premier héraut est la Peste.\nLe deuxième héraut est le Cheval.\nLeur troisième héraut est la Foudre appelée depuis le sol.\nLeur dernier héraut est une peste de vermine cinglante. \nIls viennent, illuminent et spolient." #NT!
+ POD_days_of_fire.1605.t: "Troisième Grand Maelström" #NT!
+ POD_days_of_fire.1605.desc: "La chute de la tribu de la Terre Riche est le premier plus grand péché de cette nation. De là est née une pluie de tourments tels que, pour la troisième fois, même les morts gémissent. Leur deuxième grand péché est pour voler les\nenfants du Pays du Crâne.\nLes esclaves qui travaillent la terre perdent\ntous les cadeaux\nDe liberté, de famille et de culte\nQue les voleurs puissent avoir des vêtements doux\net connaître l'accalmie de l'alcool doux." #NT!
+ POD_days_of_fire.1759.t: "Révolution industrielle" #NT!
+ POD_days_of_fire.1759.desc: "Voyant les merveilles, les merveilles et les prodiges, les gens affluent vers la tribu de l'Esprit. N'abandonnant ni le Livre, ni les piliers, ni l'homme condamné. Pourtant, beaucoup gardent cette première loyauté dans leur bouche et ne leurs âmes.\nDes vêtements fins qu'ils portent, cousus\net tissés par aucune main humaine.\nLeur volonté fait tourner les moteurs avec seulement\nla brume du brouillard.\nDu choix humain vient tout\nce qui suit." #NT!
+ POD_days_of_fire.1775.t: "la révolution américaine" #NT!
+ POD_days_of_fire.1775.desc: "Une nouvelle force arrive sur une terre ancienne\nContestant la vieille sagesse avec\ndu nouveau métal\nEt les anciens dirigeants avec de nouveaux propriétaires.\nPour le bien d'une feuille et d'un verre\nc'est fait\nEt pour les routes vers l'Empire du Milieu\net le Peuple du Rêve.\nLa fierté d'un ancien royaume est ainsi\nabaissée\nEt ses enfants forcés de prendre le\npoison méprisé par leurs envahisseurs." #NT!
+ POD_days_of_fire.1837.t: "Ère victorienne" #NT!
+ POD_days_of_fire.1837.desc: "C'est ce que l'on appelle un bel âge, par\nceux qui ne sont pas du Crâne, ou\ndu Rêve.\nMême pour quelques-uns, il dure moins d'une génération.\nLes idées de charité et de bonté et\nl'humanité perfectionnée\nSont sacrifiées à L'avidité et l'envie\net l'imperfection humaine.\nAppelle à gouverner par la raison\nConduisent à la domination de la raison par la passion.\nAu nom de la vertu, les pulsions sombres marchent." #NT!
+ POD_days_of_fire.1914.t: "Première Guerre mondiale" #NT!
+ POD_days_of_fire.1914.desc: "Avec des regards avides, chaque nation regarde\nles plaques de ses voisins.\nLe Pays du Crâne, à jamais\nmaudit, est attaqué comme par des chacals.\nLa guerre est lancée sur le monde,\nCombattue non seulement sur le terrain, mais\ ndans la mer et au-dessus du ciel.\nUne vaste plaine de désolation, de\nboue, de poisons et d'arêtes vives\nCicatrices la terre sur des kilomètres\nComme les femmes, les hommes et les enfants périssent pour les drapeaux. ." #NT!
+ POD_days_of_fire.1916.t: "Quatrième Grand Maelström" #NT!
+ POD_days_of_fire.1916.desc: "Une telle tristesse surgit de cette guerre\nQue les morts sont à nouveau perturbés dans leurs tombeaux.\nUne quatrième tempête d'ombres\nUne quatrième pluie de souvenirs\nPlus amère que celles qui l'ont précédée Mais moins rude et destructrice\nQue les deux à venir." #NT!
+ POD_days_of_fire.1918.t: "Pandémie de grippe" #NT!
+ POD_days_of_fire.1918.desc: "Ce n'est que lorsque la terre riche\nS'éveillera enfin aux cris de ses parents\nLes combats pourront s'arrêter lamentablement.\nMais la misère ne prendra pas fin à ce moment-là.\nQuand le massacre de l'homme par l'homme sera\nremplacé\nPar le massacre de tout cela par la peste,\nAlors le temps du monde est\ncompté en siècles." #NT!
+ POD_days_of_fire.1931.t: "La Seconde Guerre mondiale" #NT!
+ POD_days_of_fire.1931.desc: "Une seconde guerre naît des graines\nde la première\nEt une seconde tempête parmi les\nsassassinés.\nCette fois, la bataille vaincue pour\nregagner leur fierté\nLeur signe est l'araignée de la vie,\nttordue\nCar c'est la mort qu'ils apportent aux\nPeuples du Livre.\nIls ne massacrent pas dans le feu de la bataille,\nMais ils tuent avec le calme constant d'une mère qui prépare du pain." #NT!
+ POD_days_of_fire.1937.t: "Guerre sino-japonaise" #NT!
+ POD_days_of_fire.1937.desc: "Plus que la nation de l'araignée noire\nse battent.\nIls sont rejoints par une île de\nlumière orientale.\nÀ la pointe de l'épée, ils violent l'\nEmpire du Milieu.\nLes descendants des Enfants\ndu Loup\nCherchent à répéter l'histoire de leurs ancêtres. \nconquêtes\nRetour une fois de plus au Pays\ndu Crâne." #NT!
+ POD_days_of_fire.1945.t: "Fin de la Seconde Guerre mondiale" #NT!
+ POD_days_of_fire.1945.desc: "Encore une fois, c'est la Terre Riche qui mène une compétition serrée\nDépensant ses richesses en nourriture,\nfer et le sang de ses fils.\nÀ la fin de cette guerre,\nLe massacre des hommes par les hommes est\nremplacé\nPar le massacre d'idées et de\ncroyances.\nUne guerre de feu et d'éclairs\nRemplacée par une lutte de silence\net de froid." #NT!
+ POD_days_of_fire.1950.t: "Rideau de fer" #NT!
+ POD_days_of_fire.1950.desc: "Un mur s'élève\nMais est survolé\nComme l'Aigle et l'Ours se disputent.\nLes esprits superficiels engendrent une profonde animosité\nEt le nombre de leurs peurs aveugles est de cinquante et sept.\nLes marionnettes combattent avec du vrai sang\nEt toutes vivent dans l'ombre de feu impie." #NT!
+ POD_days_of_fire.1999.t: "Sixième Grand Maelström" #NT!
+ POD_days_of_fire.1999.desc: "Une sixième tempête arrive qui ne meurt pas, jamais calmée par le soleil.\nUne tempête silencieuse et invisible, un mur de\neffroi et d'ombres.\nVient-elle d'un don d'Ange,\nréveiller le feu qui dort en tout ?\nVient-elle du des ombres dont vous vous souvenez\n, qui font la guerre aux oubliés ?\nÇa arrive. Puis vient elle.\nLes tombes crachent, les souvenirs ruinent le\nréel, un gémissement résonne dans le hall de l'oubli.\nSa progéniture sombre et redoutée craint la\nGrande Gueule, qui aime tout en\nconsomme." #NT!
+  
+ POD_demon_flavor.1.t: "Souvenirs : J'aimerais être un ange" #NT!
+ POD_demon_flavor.1.desc: "Tous les démons étaient autrefois des anges, une création faite à la main par Dieu pour l'aider à administrer et à veiller sur les humains. Chaque ange avait un objectif (parfois large, parfois très spécifique) ancré dans son être lors de la Création. Ce dessein divin est leur essence même, et bien qu'il ait été déformé et corrompu par des millénaires de rébellion et d'emprisonnement, il ne pourra jamais être complètement effacé.\nVotre éminence grandissante a tiré certains de ces premiers souvenirs de l'oubli. À l’époque plus simple d’avant la Rébellion, quel était votre objectif ?" #NT!
+ POD_demon_flavor.1.a: "Un ange du destin" #NT!
+ POD_demon_flavor.1.b: "Un ange de motifs" #NT!
+ POD_demon_flavor.1.c: "Un ange du leadership" #NT!
+ POD_demon_flavor.1.d: "Un ange des sentiers" #NT!
+ POD_demon_flavor.1.e: "Un ange de lumière stellaire" #NT!
+  
+ POD_demon_flavor.100.t: "Escalier vers l'enfer" #NT!
+ POD_demon_flavor.100.desc: "Les démons sont alimentés par la foi fournie directement par leurs esclaves ou même indirectement par les personnes qui tombent dans leur péché d'expertise. Avec la foi, un démon devient vraiment puissant et peut, en théorie du moins, atteindre un pouvoir égal à celui de Dieu lui-même.\nÀ mesure que votre éminence grandit et que votre domination sur l'humanité de Dieu s'étend, votre pouvoir augmente également. Souhaitez-vous utiliser la piété de votre troupeau pour vous responsabiliser et gravir les échelons démoniaques ?" #NT!
+ POD_demon_flavor.100.a: "Un petit coup de pouce." #NT!
+ POD_demon_flavor.100.b: "Mon potentiel est illimité." #NT!
+ POD_demon_flavor.100.c: "Me louer!" #NT!
+ POD_demon_flavor.100.d: "Les cieux trembleront !" #NT!
+ POD_demon_flavor.100.e: "Pouvoir illimité!" #NT!
+ POD_demon_flavor.100.f: "je suis assez puissant" #NT!
+  
+ POD_demon_flavor.2.t: "Souvenirs : Genèse" #NT!
+ POD_demon_flavor.2.desc: "L'humanité était la plus belle création de Dieu, du moins c'est ce qu'il pensait. Votre but, en tant qu'ange, était de veiller sur eux et de les guider, mais sans jamais vous montrer. En vérité, ce fut un tournant dans la mesure où Dieu favorisait clairement sa nouvelle création… mais vous avertissait également de ne pas interférer avec leurs erreurs potentielles. Même si de telles erreurs pourraient conduire à des catastrophes. De nombreux anges étaient déchirés sur cette question, certains pensant que les ordres contradictoires de Dieu étaient une épreuve. Ou qu'il a cessé de se soucier d'eux maintenant que l'humanité commençait son ascension.\nAu final, certains sont devenus jaloux de l'humanité, certains surprotecteurs, certains sont restés à l'écart. Et toi?" #NT!
+ POD_demon_flavor.2.a: "Vous avez suivi votre objectif : les guider." #NT!
+ POD_demon_flavor.2.b: "Vous étiez envieux et irrité envers eux." #NT!
+ POD_demon_flavor.2.c: "Vous vous êtes révélé être un enseignant." #NT!
+  
+ POD_demon_flavor.3.t: "Souvenirs : La Chute" #NT!
+ POD_demon_flavor.3.desc: "La guerre au ciel a commencé lorsqu'une prophétie est venue avertir les anges d'un désastre imminent qui allait s'abattre sur l'humanité. Certains, menés par Lucifer, voulaient se révéler aux mortels pour les sauver de cette catastrophe. D'autres pensaient que la volonté de Dieu de ne pas interférer avec l'humanité était plus importante que leur rôle de gardien. Le débat s'est transformé en guerre après que Caïn a assassiné son frère Abel, introduisant le concept de violence dans le monde naissant.\nLa rébellion de Lucifer a finalement perdu, et tous les rebelles sont devenus des êtres désormais connus sous le nom de démons, comme vous. Mais pourquoi avoir rejoint Lucifer en premier lieu ?" #NT!
+ POD_demon_flavor.3.a: "Le charisme de Lucifer vous a influencé." #NT!
+ POD_demon_flavor.3.b: "Vous vouliez protéger l'humanité." #NT!
+ POD_demon_flavor.3.c: "Le nouveau concept de guerre vous a fasciné." #NT!
+ POD_demon_flavor.3.d: "À ce jour, vous n’en êtes toujours pas sûr." #NT!
+  
+ POD_demon_flavor.4.t: "Souvenirs : Condamnés à l'Enfer" #NT!
+ POD_demon_flavor.4.desc: "Les anges rebelles vaincus, dont vous-même, ont tous été chassés dans la prison abyssale. Cette construction terrifiante a réduit la plupart de ses détenus à l’ombre pathétique d’eux-mêmes. Certains ont quand même réussi à retrouver un semblant de nouvelle normalité et n’ont pas laissé leur tourment divin prendre le dessus sur eux. Cependant, même cela avait un coût. Loin de leur objectif initial, de leur essence même, les êtres autrefois connus sous le nom d'anges sont devenus déformés au point d'être méconnaissables dans l'espoir de trouver un moyen de faire face au fait d'être éternellement exclu du Ciel.\nEn fin de compte, vous avez été l'un des rares chanceux à avoir échappé mais vous pouvez toujours sentir l'attraction de la prison qui vous rappelle. Et les souvenirs de cet endroit reviennent également." #NT!
+ POD_demon_flavor.4.a: "Vous avez fait des choses là-dedans que vous préféreriez oublier." #NT!
+ POD_demon_flavor.4.b: "Vous avez prié pour un pardon qui n'est jamais venu." #NT!
+ POD_demon_flavor.4.c: "Vous avez enduré. C'est tout ce qui compte." #NT!
+  
+ POD_demon_flavor.5.t: "Souvenirs : L'Enfer sur Terre" #NT!
+ POD_demon_flavor.5.desc: "Vous avez été l'un des rares chanceux à avoir été convoqué hors de la prison abyssale, vous permettant ainsi de vous échapper vers le monde des mortels après des millénaires de tourments avec vos camarades rebelles. Le monde a beaucoup changé depuis votre emprisonnement. La guerre et le désespoir sont partout, les maladies sévissent et le paradis qu’était Eden semble à ce stade être un mythe. L'humanité adore toujours Dieu, mais sous de multiples formes et se bat pour savoir laquelle est la meilleure.\nIl a peut-être vraiment détourné son regard de la Terre, peut-être à cause de la rébellion de Lucifer ou des échecs de l'humanité. Quoi qu’il en soit, quelle a été votre première réaction en voyant ce nouveau monde pour la première fois ?" #NT!
+ POD_demon_flavor.5.a: "Il faut le nettoyer !" #NT!
+ POD_demon_flavor.5.b: "Tant d’adorateurs potentiels !" #NT!
+ POD_demon_flavor.5.c: "Peut-être, quelque part, un faible espoir de rédemption." #NT!

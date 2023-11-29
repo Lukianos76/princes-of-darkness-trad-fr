@@ -1,0 +1,21 @@
+﻿l_french:
+ regular_meditating_modifier: "Connaissances croissantes" #NT!
+ regular_meditating_modifier_desc: "Ce personnage passe son temps libre à élever son dharma et à pratiquer ses pouvoirs artistiques." #NT!
+ regular_treking_modifier: "Trekking dans la nature" #NT!
+ regular_treking_modifier_desc: "Ce personnage se promène dans les étendues sauvages hantées de Hengeyokai." #NT!
+ regular_mortal_living_modifier: "Vivre comme un mortel" #NT!
+ regular_mortal_living_modifier_desc: "Ce personnage vit comme un mortel pour affronter la basse société ou pour monter une entreprise florissante." #NT!
+  
+ dah_modifier: "Dah" #NT!
+ dah_modifier_desc: "Moments d'illumination." #NT!
+ knowledge_of_thousand_cranes_mother_modifier: "Connaissance de la Mère des Mille Grues" #NT!
+ knowledge_of_thousand_cranes_mother_modifier_desc: "Vous avez trouvé l'Arhat des Dragons Battants lors de votre voyage dans les Mondes Yang." #NT!
+ knowledge_of_thousand_cranes_mother_modifier_desc_old: "Vous avez trouvé l'Arhat des Dragons Battants alors que vous viviez parmi les mortels." #NT!
+ wisdom_of_black_pearl_mistress_modifier: "Sagesse de la Maîtresse des Perles Noires" #NT!
+ wisdom_of_black_pearl_mistress_modifier_desc: "Vous avez trouvé l'Arhat des Fleurs d'Os lors d'un voyage dans le [yin_world|E]." #NT!
+ wisdom_of_black_pearl_mistress_modifier_desc_old: "Vous avez trouvé l'Arhat des Fleurs d'Os lors d'une randonnée dans la nature." #NT!
+  
+ kueijin_party_hosted_successful_party: "Célébration organisée" #NT!
+ kueijin_party_host_failed_to_appear: "Célébration annulée" #NT!
+ kueijin_party_attended_my_party_opinion: "J'ai assisté à ma célébration" #NT!
+ kueijin_party_spouse_hosted_successful_party_opinion: "J'ai organisé ma célébration" #NT!

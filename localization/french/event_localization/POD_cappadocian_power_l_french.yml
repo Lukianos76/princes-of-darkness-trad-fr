@@ -1,0 +1,26 @@
+﻿l_french:
+ POD_cappadocian_power.2000.title: "Enfant studieux" #NT!
+ POD_cappadocian_power.2000.desc: "Des nouvelles du tribunal du [recipient.GetNamePossessive] arrivent : votre enfant a eu beaucoup de succès ! Ils ont corrigé les erreurs de jugement, aplani les griefs et construit de nouveaux ponts. \n [recipient.GetName] Est très heureux du cadeau que vous avez offert [recipient.GetHerHim]. [recipient.GetSheHe|U] vous a informé que votre enfant restera aux côtés de [recipient.GetHerHis] pour le moment et que [recipient.GetSheHe] vous doit une faveur pour les services fournis." #NT!
+  
+ POD_cappadocian_power.3000.title: "Enfant studieux" #NT!
+ POD_cappadocian_power.3000.desc: "Des nouvelles du tribunal du [recipient.GetNamePossessive] arrivent : votre enfant a eu beaucoup de succès ! Ils ont augmenté leurs revenus, éliminé les dépenses inutiles et amélioré leurs liens avec la population. \n [recipient.GetName] Est très heureux du cadeau que vous avez offert [recipient.GetHerHim]. [recipient.GetSheHe|U] vous a informé que votre enfant restera aux côtés de [recipient.GetHerHis] pour le moment et que [recipient.GetSheHe] vous doit une faveur pour les services fournis." #NT!
+  
+ POD_cappadocian_power.4000.title: "Enfant studieux" #NT!
+ POD_cappadocian_power.4000.desc: "Des nouvelles du tribunal du [recipient.GetNamePossessive] arrivent : votre enfant a eu beaucoup de succès ! Ils ont formé des troupes, construit des lignes d’approvisionnement et élaboré de nouvelles stratégies. \n [recipient.GetName] Est très heureux du cadeau que vous avez offert [recipient.GetHerHim]. [recipient.GetSheHe|U] vous a informé que votre enfant restera aux côtés de [recipient.GetHerHis] pour le moment et que [recipient.GetSheHe] vous doit une faveur pour les services fournis." #NT!
+  
+ POD_cappadocian_power.5000.title: "Enfant studieux" #NT!
+ POD_cappadocian_power.5000.desc: "Des nouvelles du tribunal du [recipient.GetNamePossessive] arrivent : votre enfant a eu beaucoup de succès ! Ils ont établi des connexions, éliminé les fuites potentielles et formé des agents clandestins. \n [recipient.GetName] Est très heureux du cadeau que vous avez offert [recipient.GetHerHim]. [recipient.GetSheHe|U] vous a informé que votre enfant restera aux côtés de [recipient.GetHerHis] pour le moment et que [recipient.GetSheHe] vous doit une faveur pour les services fournis." #NT!
+  
+ POD_cappadocian_power.6000.title: "Enfant studieux" #NT!
+ POD_cappadocian_power.6000.desc: "Des nouvelles du tribunal du [recipient.GetNamePossessive] arrivent : votre enfant a eu beaucoup de succès ! Ils ont lu les Écritures, agi avec vertu et amélioré leurs liens avec la population. \n [recipient.GetName] Est très heureux du cadeau que vous avez offert [recipient.GetHerHim]. [recipient.GetSheHe|U] vous a informé que votre enfant restera aux côtés de [recipient.GetHerHis] pour le moment et que [recipient.GetSheHe] vous doit une faveur pour les services fournis." #NT!
+  
+ POD_cappadocian_power.7000.title: "Enfant désastreux" #NT!
+ POD_cappadocian_power.7000.desc: "Des nouvelles du tribunal du [recipient.GetNamePossessive] arrivent : votre enfant a complètement échoué ! Ils ont causé des dégâts et un chaos incalculables dans leur domaine de prédilection. \n [recipient.GetName] Est furieux du "cadeau" que vous avez fait [recipient.GetHerHim]. [recipient.GetSheHe|U] vous a informé que votre enfant reviendra à votre tribunal dès que possible et que [recipient.GetSheHe] est très déçu de la façon dont vous avez choisi d'abuser de la confiance du [recipient.GetHerHis]. [recipient.GetSheHe|U] s'attendra à ce que vous fassiez amende honorable, tôt ou tard." #NT!
+  
+ POD_cappadocian_power.8000.title: "Enfant désastreux" #NT!
+ POD_cappadocian_power.8000.desc: "Des nouvelles du tribunal du [recipient.GetNamePossessive] arrivent : votre enfant a complètement échoué ! Ils ont causé des dégâts et un chaos incalculables dans leur domaine de prédilection. \n [recipient.GetName] Est furieux du "cadeau" que vous avez fait [recipient.GetHerHim]. [recipient.GetSheHe|U] vous a informé que votre enfant restera aux côtés de [recipient.GetHerHis], mais plus en tant qu'invité, et que [recipient.GetSheHe] est grandement déçu de la façon dont vous avez choisi d'abuser de la confiance de [recipient.GetHerHis]. [recipient.GetSheHe|U] s'attendra à ce que vous fassiez amende honorable, tôt ou tard." #NT!
+  
+ POD_cappadocian_power.optiongood: "Excellent." #NT!
+ POD_cappadocian_power.optionbad: "Ai-je fait une erreur ?....." #NT!
+  
+ POD_cappadocian_power.toast: "Childe n'est plus conseiller pour [recipient.GetName]" #NT!

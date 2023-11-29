@@ -1,0 +1,208 @@
+﻿l_french:
+ glamour0_modifier: "Glamour : 0" #NT!
+ glamour1_modifier: "Glamour : 1" #NT!
+ glamour2_modifier: "Glamour : 2" #NT!
+ glamour3_modifier: "Glamour : 3" #NT!
+ glamour4_modifier: "Glamour : 4" #NT!
+ glamour5_modifier: "Glamour : 5" #NT!
+  
+ glamour_reaved_modifier: "Glamour retrouvé" #NT!
+ glamour_reaver_modifier: "Saccageur de glamour" #NT!
+  
+ fuddle_perk_positive_modifier: "Bonus de farce" #NT!
+ fuddle_perk_negative_modifier: "Fuddle Malus" #NT!
+  
+ phantom_shadow_modifier: "Ombre fantôme" #NT!
+  
+ oakenshield_modifier: "Bouclier de chêne" #NT!
+  
+ artifact_tattletale_modifier: "Commère" #NT!
+  
+ herald_of_winter_modifier: "Héraut de l'hiver" #NT!
+ herald_of_spring_modifier: "Héraut du Printemps" #NT!
+ herald_of_summer_modifier: "Héraut de l'été" #NT!
+ herald_of_autumn_modifier: "Héraut de l'automne" #NT!
+ season_kingmaker_modifier: "Faiseur de rois de saison" #NT!
+ season_kingmaker_modifier_desc: "Autoriser le gain [weak_hook|E] des membres du tribunal de saison promus." #NT!
+ seasons_compromise_ender_modifier: "Grand compromis" #NT!
+ seasons_truce_bringer_modifier: "Porteur de trêve" #NT!
+  
+ seasons_struggle_compromise_house_reward_modifier_desc: ""
+ seasons_struggle_compromise_defensive_reward_modifier_desc: ""
+ seasons_struggle_conciliation_house_reward_modifier_desc: ""
+  
+ captive_heart_perk_commander_modifier: "[battle_modifier|E] : Cœur Captif" #NT!
+ captive_heart_perk_knight_modifier: "[battle_modifier|E] : Cœur Captif" #NT!
+ wyrd_perk_commander_modifier: "[battle_modifier|E] : Wyrd" #NT!
+ wyrd_perk_knight_modifier: "[battle_modifier|E] : Wyrd" #NT!
+ gelid_rime_perk_commander_modifier: "[battle_modifier|E] : Givre Gélidé" #NT!
+ gelid_rime_perk_knight_modifier: "[battle_modifier|E] : Givre Gélidé" #NT!
+ prometheus_fist_perk_commander_modifier: "[battle_modifier|E] : Poing de Prométhée" #NT!
+ prometheus_fist_perk_knight_modifier: "[battle_modifier|E] : Poing de Prométhée" #NT!
+ ironarm_perk_modifier: "[battle_modifier|E] : Bras de fer" #NT!
+ stasis_perk_modifier: "[battle_modifier|E] : Stase" #NT!
+ quake_perk_modifier: "[battle_modifier|E] : Séisme" #NT!
+ friction_perk_knight_negative_modifier: "[battle_modifier|E] : Frictions" #NT!
+ friction_perk_knight_positive_modifier: "[battle_modifier|E] : Frictions" #NT!
+ ares_fist_perk_modifier: "[battle_modifier|E] : Le poing d'Arès" #NT!
+ conceal_confuse_perk_ruler_modifier: "[battle_modifier|E] : Masquer" #NT!
+ conceal_confuse_perk_commander_modifier: "[battle_modifier|E] : Confondre" #NT!
+ conceal_confuse_perk_knight_modifier: "[battle_modifier|E] : Confondre" #NT!
+ summon_dispel_fire_perk_modifierr: "[battle_modifier|E] : Flash époustouflant" #NT!
+ dream_time_perk_character_positive_modifier: "Bonus de temps de rêve" #NT!
+ dream_time_perk_character_negative_modifier: "Temps de rêve Malus" #NT!
+ dream_time_perk_county_positive_modifier: "Bonus de temps de rêve" #NT!
+ dream_time_perk_county_negative_modifier: "Temps de rêve Malus" #NT!
+ reversa_of_fortune_perk_modifier: "Retour du futur" #NT!
+  
+ runic_circle_perk_modifier: "Cercle runique" #NT!
+  
+ POD_gamester_modifier: "Joueur" #NT!
+  
+ lover_tier_1_modifier: "Amant rang 1" #NT!
+ lover_tier_2_modifier: "Amant rang 2" #NT!
+ lover_tier_3_modifier: "Amant rang 3" #NT!
+ lover_tier_4_modifier: "Amant rang 4" #NT!
+ lover_tier_5_modifier: "Amant rang 5" #NT!
+ lover_tier_6_modifier: "Amant rang 6" #NT!
+ lover_tier_7_modifier: "Amant rang 7" #NT!
+ lover_tier_8_modifier: "Amant rang 8" #NT!
+ lover_tier_9_modifier: "Amant rang 9" #NT!
+ lover_tier_10_modifier: "Amant rang 10" #NT!
+  
+ prevent_black_death_rat_route_modifier: "Exterminateur de rats" #NT!
+ prevent_black_death_cat_route_modifier: "CATastrofe" #NT!
+ prevent_black_death_anda_route_modifier: "Inverser la tendance" #NT!
+ destroy_inquisition_decision_modifier: "Chasseur Chasseur" #NT!
+ dynamic_physic_modifier: "Physique dynamique" #NT!
+ philosophers_society_modifier: "Dirigeant de la Société des Philosophes" #NT!
+ arcadian_restoration_modifier: "Rêver sur Terre" #NT!
+  
+ trapped_in_arcadia_modifier: "Déménagé en Arcadie" #NT!
+  
+ green_man_modifier: "Homme vert" #NT!
+ green_man_modifier_desc: "Il ne meurt pas et ne renaît pas comme le reste des Ghille Dhu, mais est leur seigneur, le sol d'où ils proviennent.\n#weak Autoriser la résurrection si ce personnage meurt pour une cause non naturelle.#!" #NT!
+  
+ POD_shapeshift_form_pooka_animal_mien_modifier: "Pooka Animal Mien" #NT!
+ POD_shapeshift_form_pooka_animal_mien_modifier_desc: "Pooka peut prendre la forme d'un animal avec lequel ils ont une affinité." #NT!
+ POD_shapeshift_pooka_wolf_mien_modifier: "Loup Pooka Mien" #NT!
+ POD_shapeshift_pooka_wolf_mien_modifier_desc: "Ce Pooka a pris sa forme animale de loup." #NT!
+ POD_shapeshift_pooka_hyena_mien_modifier: "Hyène Pooka Mien" #NT!
+ POD_shapeshift_pooka_hyena_mien_modifier_desc: "Ce Pooka a pris sa forme animale de hyène." #NT!
+ POD_shapeshift_pooka_cat_mien_modifier: "Chat Pooka Mien" #NT!
+ POD_shapeshift_pooka_cat_mien_modifier_desc: "Ce Pooka a pris sa forme animale de chat." #NT!
+ POD_shapeshift_pooka_raven_mien_modifier: "Corbeau Pooka Mien" #NT!
+ POD_shapeshift_pooka_raven_mien_modifier_desc: "Ce Pooka a pris sa forme animale de corbeau." #NT!
+ POD_shapeshift_pooka_falcon_mien_modifier: "Faucon Pooka Mien" #NT!
+ POD_shapeshift_pooka_falcon_mien_modifier_desc: "Ce Pooka a pris sa forme animale de faucon." #NT!
+ POD_shapeshift_pooka_bear_mien_modifier: "Ours Pooka Mien" #NT!
+ POD_shapeshift_pooka_bear_mien_modifier_desc: "Ce Pooka a pris sa forme animale d'ours." #NT!
+ POD_shapeshift_pooka_fox_mien_modifier: "Renard Pooka Mien" #NT!
+ POD_shapeshift_pooka_fox_mien_modifier_desc: "Ce Pooka a pris sa forme animale de renard." #NT!
+ POD_shapeshift_pooka_crocodile_mien_modifier: "Crocodile Pooka Mien" #NT!
+ POD_shapeshift_pooka_crocodile_mien_modifier_desc: "Ce Pooka a pris sa forme animale de crocodile." #NT!
+ POD_shapeshift_pooka_snake_mien_modifier: "Serpent Pooka Mien" #NT!
+ POD_shapeshift_pooka_snake_mien_modifier_desc: "Ce Pooka a pris sa forme animale de serpent." #NT!
+ POD_shapeshift_pooka_coyote_mien_modifier: "Coyote Pooka Mien" #NT!
+ POD_shapeshift_pooka_coyote_mien_modifier_desc: "Ce Pooka a pris sa forme animale de coyote." #NT!
+ POD_shapeshift_pooka_rat_mien_modifier: "Rat Pooka Mien" #NT!
+ POD_shapeshift_pooka_rat_mien_modifier_desc: "Ce Pooka a pris sa forme animale de rat." #NT!
+ POD_shapeshift_pooka_shark_mien_modifier: "Requin Pooka Mien" #NT!
+ POD_shapeshift_pooka_shark_mien_modifier_desc: "Ce Pooka a pris sa forme animale de requin." #NT!
+ POD_shapeshift_pooka_bovine_mien_modifier: "Bovin Pooka Mien" #NT!
+ POD_shapeshift_pooka_bovine_mien_modifier_desc: "Ce Pooka a pris sa forme animale de bovin." #NT!
+ POD_shapeshift_pooka_deer_mien_modifier: "Cerf Pooka Mien" #NT!
+ POD_shapeshift_pooka_deer_mien_modifier_desc: "Ce Pooka a pris sa forme animale de cerf." #NT!
+ POD_shapeshift_pooka_horse_mien_modifier: "Cheval Pooka Mien" #NT!
+ POD_shapeshift_pooka_horse_mien_modifier_desc: "Ce Pooka a pris sa forme animale de cheval." #NT!
+ POD_shapeshift_pooka_bat_mien_modifier: "Chauve-souris Pooka Mien" #NT!
+ POD_shapeshift_pooka_bat_mien_modifier_desc: "Ce Pooka a pris sa forme animale de chauve-souris." #NT!
+ POD_shapeshift_pooka_boar_mien_modifier: "Sanglier Pooka Mien" #NT!
+ POD_shapeshift_pooka_boar_mien_modifier_desc: "Ce Pooka a pris sa forme animale de sanglier." #NT!
+ POD_shapeshift_pooka_spider_mien_modifier: "Araignée Pooka Mien" #NT!
+ POD_shapeshift_pooka_spider_mien_modifier_desc: "Ce Pooka a pris sa forme animale d'araignée." #NT!
+ POD_shapeshift_pooka_beetle_mien_modifier: "Coléoptère Pooka Mien" #NT!
+ POD_shapeshift_pooka_beetle_mien_modifier_desc: "Ce Pooka a pris sa forme animale de coléoptère." #NT!
+ POD_shapeshift_pooka_crab_mien_modifier: "Crabe Pooka Mien" #NT!
+ POD_shapeshift_pooka_crab_mien_modifier_desc: "Ce Pooka a pris sa forme animale de crabe." #NT!
+ POD_shapeshift_pooka_ape_mien_modifier: "Singe Pooka Mien" #NT!
+ POD_shapeshift_pooka_ape_mien_modifier_desc: "Ce Pooka a pris sa forme animale de singe." #NT!
+ POD_shapeshift_pooka_bee_mien_modifier: "Abeille Pooka Mien" #NT!
+ POD_shapeshift_pooka_bee_mien_modifier_desc: "Ce Pooka a pris sa forme animale d'abeille." #NT!
+ POD_shapeshift_pooka_ant_mien_modifier: "Fourmi Pooka Mien" #NT!
+ POD_shapeshift_pooka_ant_mien_modifier_desc: "Ce Pooka a pris sa forme animale de fourmi." #NT!
+ POD_shapeshift_pooka_mantis_mien_modifier: "Mante Pooka Mien" #NT!
+ POD_shapeshift_pooka_mantis_mien_modifier_desc: "Ce Pooka a pris sa forme animale de mante." #NT!
+ POD_shapeshift_pooka_millipede_mien_modifier: "Mille-pattes Pooka Mien" #NT!
+ POD_shapeshift_pooka_millipede_mien_modifier_desc: "Ce Pooka a pris sa forme animale de mille-pattes." #NT!
+ POD_shapeshift_pooka_turtle_mien_modifier: "Tortue Pooka Mien" #NT!
+ POD_shapeshift_pooka_turtle_mien_modifier_desc: "Ce Pooka a pris sa forme animale de tortue." #NT!
+ POD_shapeshift_pooka_scorpion_mien_modifier: "Scorpion Pooka Mien" #NT!
+ POD_shapeshift_pooka_scorpion_mien_modifier_desc: "Ce Pooka a pris sa forme animale de scorpion." #NT!
+ POD_shapeshift_pooka_butterfly_mien_modifier: "Papillon Pooka Mien" #NT!
+ POD_shapeshift_pooka_butterfly_mien_modifier_desc: "Ce Pooka a pris sa forme animale de papillon." #NT!
+ POD_shapeshift_pooka_rabbit_mien_modifier: "Lapin Pooka Mien" #NT!
+ POD_shapeshift_pooka_rabbit_mien_modifier_desc: "Ce Pooka a pris sa forme animale de lapin." #NT!
+ POD_shapeshift_pooka_fish_mien_modifier: "Poisson Pooka Mien" #NT!
+ POD_shapeshift_pooka_fish_mien_modifier_desc: "Ce Pooka a pris sa forme animale de poisson." #NT!
+  
+ POD_pooka_wolf_affinity_modifier: "Affinité avec le loup Pooka" #NT!
+ POD_pooka_wolf_affinity_modifier_desc: "Ce Pooka a une affinité animale pour les loups." #NT!
+ POD_pooka_hyena_affinity_modifier: "Affinité Pooka Hyène" #NT!
+ POD_pooka_hyena_affinity_modifier_desc: "Ce Pooka a une affinité animale pour les hyènes." #NT!
+ POD_pooka_cat_affinity_modifier: "Affinité avec le chat Pooka" #NT!
+ POD_pooka_cat_affinity_modifier_desc: "Ce Pooka a une affinité animale pour les chats." #NT!
+ POD_pooka_raven_affinity_modifier: "Affinité Pooka Corbeau" #NT!
+ POD_pooka_raven_affinity_modifier_desc: "Ce Pooka a une affinité animale pour les corbeaux." #NT!
+ POD_pooka_falcon_affinity_modifier: "Affinité avec le Faucon Pooka" #NT!
+ POD_pooka_falcon_affinity_modifier_desc: "Ce Pooka a une affinité animale pour les faucons." #NT!
+ POD_pooka_bear_affinity_modifier: "Affinité avec l'ours Pooka" #NT!
+ POD_pooka_bear_affinity_modifier_desc: "Ce Pooka a une affinité animale pour les ours." #NT!
+ POD_pooka_fox_affinity_modifier: "Affinité Pooka Fox" #NT!
+ POD_pooka_fox_affinity_modifier_desc: "Ce Pooka a une affinité animale pour les renards." #NT!
+ POD_pooka_crocodile_affinity_modifier: "Affinité avec le crocodile Pooka" #NT!
+ POD_pooka_crocodile_affinity_modifier_desc: "Ce Pooka a une affinité animale pour les crocodiles." #NT!
+ POD_pooka_snake_affinity_modifier: "Affinité avec le serpent Pooka" #NT!
+ POD_pooka_snake_affinity_modifier_desc: "Ce Pooka a une affinité animale pour les serpents." #NT!
+ POD_pooka_coyote_affinity_modifier: "Affinité Pooka Coyote" #NT!
+ POD_pooka_coyote_affinity_modifier_desc: "Ce Pooka a une affinité animale pour les coyotes." #NT!
+ POD_pooka_rat_affinity_modifier: "Affinité avec le rat Pooka" #NT!
+ POD_pooka_rat_affinity_modifier_desc: "Ce Pooka a une affinité animale pour les rats." #NT!
+ POD_pooka_shark_affinity_modifier: "Affinité avec le requin Pooka" #NT!
+ POD_pooka_shark_affinity_modifier_desc: "Ce Pooka a une affinité animale pour les requins." #NT!
+ POD_pooka_bovine_affinity_modifier: "Affinité bovine Pooka" #NT!
+ POD_pooka_bovine_affinity_modifier_desc: "Ce Pooka a une affinité animale pour les bovins." #NT!
+ POD_pooka_deer_affinity_modifier: "Affinité avec le cerf Pooka" #NT!
+ POD_pooka_deer_affinity_modifier_desc: "Ce Pooka a une affinité animale pour les cerfs." #NT!
+ POD_pooka_bat_affinity_modifier: "Affinité avec la chauve-souris Pooka" #NT!
+ POD_pooka_bat_affinity_modifier_desc: "Ce Pooka a une affinité animale pour les chauves-souris." #NT!
+ POD_pooka_horse_affinity_modifier: "Affinité avec le cheval Pooka" #NT!
+ POD_pooka_horse_affinity_modifier_desc: "Ce Pooka a une affinité animale pour les chevaux." #NT!
+ POD_pooka_boar_affinity_modifier: "Affinité avec le sanglier Pooka" #NT!
+ POD_pooka_boar_affinity_modifier_desc: "Ce Pooka a une affinité animale pour les sangliers." #NT!
+ POD_pooka_spider_affinity_modifier: "Affinité avec l'araignée Pooka" #NT!
+ POD_pooka_spider_affinity_modifier_desc: "Ce Pooka a une affinité animale pour les araignées." #NT!
+ POD_pooka_beetle_affinity_modifier: "Affinité avec le scarabée Pooka" #NT!
+ POD_pooka_beetle_affinity_modifier_desc: "Ce Pooka a une affinité animale pour les coléoptères." #NT!
+ POD_pooka_crab_affinity_modifier: "Affinité avec le crabe Pooka" #NT!
+ POD_pooka_crab_affinity_modifier_desc: "Ce Pooka a une affinité animale pour les crabes." #NT!
+ POD_pooka_ape_affinity_modifier: "Affinité avec le singe Pooka" #NT!
+ POD_pooka_ape_affinity_modifier_desc: "Ce Pooka a une affinité animale pour les singes." #NT!
+ POD_pooka_bee_affinity_modifier: "Affinité avec l'abeille Pooka" #NT!
+ POD_pooka_bee_affinity_modifier_desc: "Ce Pooka a une affinité animale pour les abeilles." #NT!
+ POD_pooka_ant_affinity_modifier: "Affinité avec les fourmis Pooka" #NT!
+ POD_pooka_ant_affinity_modifier_desc: "Ce Pooka a une affinité animale pour les fourmis." #NT!
+ POD_pooka_mantis_affinity_modifier: "Affinité Pooka Mantis" #NT!
+ POD_pooka_mantis_affinity_modifier_desc: "Ce Pooka a une affinité animale pour la mante." #NT!
+ POD_pooka_millipede_affinity_modifier: "Affinité avec le mille-pattes Pooka" #NT!
+ POD_pooka_millipede_affinity_modifier_desc: "Ce Pooka a une affinité animale pour les mille-pattes." #NT!
+ POD_pooka_turtle_affinity_modifier: "Affinité avec la tortue Pooka" #NT!
+ POD_pooka_turtle_affinity_modifier_desc: "Ce Pooka a une affinité animale pour les tortues." #NT!
+ POD_pooka_scorpion_affinity_modifier: "Affinité avec le Scorpion Pooka" #NT!
+ POD_pooka_scorpion_affinity_modifier_desc: "Ce Pooka a une affinité animale pour les scorpions." #NT!
+ POD_pooka_butterfly_affinity_modifier: "Affinité avec le papillon Pooka" #NT!
+ POD_pooka_butterfly_affinity_modifier_desc: "Ce Pooka a une affinité animale pour les papillons." #NT!
+ POD_pooka_rabbit_affinity_modifier: "Affinité avec le lapin Pooka" #NT!
+ POD_pooka_rabbit_affinity_modifier_desc: "Ce Pooka a une affinité animale pour les lapins." #NT!
+ POD_pooka_fish_affinity_modifier: "Affinité avec le poisson Pooka" #NT!
+ POD_pooka_fish_affinity_modifier_desc: "Ce Pooka a une affinité animale pour les poissons." #NT!

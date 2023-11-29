@@ -1,0 +1,11 @@
+﻿l_french:
+  
+ POD_ghoulify.100.t: "Un serviteur fidèle" #NT!
+ POD_ghoulify.100.option.a: "Votre service sera récompensé." #NT!
+ POD_ghoulify.100.option.b: "Ils sont indignes." #NT!
+ POD_ghoulify.100.desc: "\nAprès une préparation et une planification minutieuses, vous avez pu recruter ce mortel comme votre serviteur [ghoul|E].\n" #NT!
+ POD_ghoulify.200.t: "Un compagnon gourmand" #NT!
+ POD_ghoulify.200.option.a: "Goûtez la puissance." #NT!
+ POD_ghoulify.200.option.b: "Ça n'est pas correct." #NT!
+ POD_ghoulify.200.desc: "\n Tentant [target.GetHerHim] avec la promesse d'un pouvoir inhumain, vous avez réussi à convaincre [target.GetTitledFirstName] de vous rejoindre dans l'habitude de consommer des vitae apparentées.\n" #NT!
+  

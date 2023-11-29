@@ -1,0 +1,81 @@
+﻿l_french:
+  
+ POD_vampire_frenzy_events.001.t: "Frénésie de faim !" #NT!
+ POD_vampire_frenzy_events.001.desc: "La bête hurle en vous, luttant pour se libérer. Vous l'avez affamé pendant trop longtemps, et maintenant il exige que vous lui donniez les rênes pour qu'il puisse se rassasier. La bête vise à se libérer et à trouver un vassal sur lequel se nourrir pour apaiser sa soif de sang insatiable à la source la plus proche. Son contrôle sur votre corps augmente à chaque instant qui passe et les bords de votre vue deviennent rouges. Vous pouvez essayer de combattre la bête, mais lâcher prise serait si bon...... #R Pourquoi se battre, quand nous savons tous les deux que je vais gagner ?#!" #NT!
+ POD_vampire_frenzy_events.001.succumb: "Succombez à la frénésie" #NT!
+ POD_vampire_frenzy_events.001.succumb.beast: "#R Laissez-moi vous montrer une vraie satisfaction.#!" #NT!
+ POD_vampire_frenzy_events.001.fight: "Combattez la frénésie" #NT!
+ POD_vampire_frenzy_events.001.fight.beast: "#R Cela ne suffit pas. VOUS n'êtes pas assez.#!" #NT!
+ POD_vampire_frenzy_events.001.fightwp: "Combattez la frénésie de toute votre volonté" #NT!
+ POD_vampire_frenzy_events.001.fightwp.beast: "#R Si ce n'est pas aujourd'hui, que demain... mieux vaut abandonner maintenant chérie.#!" #NT!
+ POD_vampire_frenzy_events.001.fight.failed: "La bête prend le dessus" #NT!
+ POD_vampire_frenzy_events.001.desc.instinct: "La bête hurle en vous, luttant pour se libérer. Vous l'avez affamé pendant trop longtemps, et maintenant il exige que vous lui donniez les rênes pour qu'il puisse se rassasier. La bête vise à se libérer et à trouver un vassal sur lequel se nourrir pour apaiser sa soif de sang insatiable à la source la plus proche. Son contrôle sur votre corps augmente à chaque instant qui passe et les bords de votre vue deviennent rouges. Vous pouvez sentir la pression derrière vos yeux et savoir qu’il est temps de surfer sur la vague et de laisser la bête jouer. mais comment allez-vous faire ?" #NT!
+ POD_vampire_frenzy_events.001.drain: "Je vais trouver un de mes serviteurs mortels et le vider." #NT!
+ POD_vampire_frenzy_events.001.drain.beast: "#R Simple et pertinent. J'aime ça !#!" #NT!
+ POD_vampire_frenzy_events.001.vamp: "Je peux sentir la douce vitae des autres parents au tribunal." #NT!
+ POD_vampire_frenzy_events.001.vamp.beast: "#R Boire à un autre vampire ? Comme c'est exotique !#!" #NT!
+ POD_vampire_frenzy_events.001.social: "Je vais me nourrir ici, maintenant. Je me fiche de ce que pensera le tribunal." #NT!
+ POD_vampire_frenzy_events.001.social.beast: "#R Scandaleux !#!" #NT!
+ POD_vampire_frenzy_events.001.breach: "Je courrai dans les rues et me nourrirai d'un mortel qui passe." #NT!
+ POD_vampire_frenzy_events.001.breach.beast: "#R Parce que ça marche toujours, n'est-ce pas ?#!" #NT!
+ POD_vampire_frenzy_events.201.t: "Frénésie de faim : répercussions" #NT!
+ POD_vampire_frenzy_events.201.desc: "Vous vous réveillez en extase totale, incapable de vous concentrer sur quoi que ce soit autour de vous. Quelques instants passent et vous réalisez que le plaisir émane du mortel sous vos crocs. Vous vous éloignez pour découvrir [mortal.GetTitledFirstName], l'un de vos serviteurs humains. Il semble que la bête l'ait attaqué en utilisant votre corps.\n [mortal.GetTitledFirstName] ne bouge pas et une vérification rapide prouve que [mortal.GetSheHe] n'a plus de sang. Si vous ne faites quelque chose, [mortal.GetTitledFirstName] mourra dans vos bras. #R [mortal.GetSheHe] nous a plus servi dans la mort que dans la vie.#!" #NT!
+ POD_vampire_frenzy_events.201.kill: "Je ne peux rien faire. [mortal.GetTitledFirstName] mourra." #NT!
+ POD_vampire_frenzy_events.201.kill.beast: "#R Le mortel a rempli son objectif.#!" #NT!
+ POD_vampire_frenzy_events.201.embrace: "Je vais les [Embrace|E] pour leur sauver la vie." #NT!
+ POD_vampire_frenzy_events.201.embrace.beast: "#R Est-ce leur vie que vous sauvez, ou votre conscience ?#!" #NT!
+ POD_vampire_frenzy_events.301.t: "Frénésie de faim : répercussions" #NT!
+ POD_vampire_frenzy_events.301.desc: "La dernière chose que vous avez vue avant de sombrer dans la frénésie était le [bonder.GetTitledFirstName]. Maintenant, vous vous réveillez dans les chambres [bonder.GetHerHis], du sang coulant de vos crocs. [bonder.GetTitledFirstName] se tient devant vous avec un froncement de sourcils sur son visage cendré. Vous remarquez que [bonder.GetSheHe] tient [bonder.GetHerHis] la main qui saigne. La traînée de sang mène à vous et vous ressentez un pincement au cœur en pensant que vous avez blessé [bonder.GetTitledFirstName]. Les nouvelles émotions vers [bonder.GetTitledFirstName] sont déroutantes, mais plus encore le fait que votre frénésie vous amène à boire à un autre vampire. [bonder.GetTitledFirstName] Ne semble pas non plus désireux d'expliquer." #NT!
+ POD_vampire_frenzy_events.301.a: "J'ai peur que cela revienne me hanter." #NT!
+ POD_vampire_frenzy_events.301.a.beast: "#R Nous devrons nous assurer que ce n'est pas le cas.#!" #NT!
+ POD_vampire_frenzy_events.401.t: "Frénésie de faim : répercussions" #NT!
+ POD_vampire_frenzy_events.401.desc: "La bête a choisi le pire moment pour relever la tête : vous étiez au milieu d'une réunion du tribunal suprême. Vous essayez de vous enfuir, mais la bête refuse d'attendre. Vous finissez par vous lancer sur un serviteur mortel mineur d'un vampire dont vous ne vous souvenez plus du nom. Le mortel a survécu et son propriétaire était trop insignifiant pour exiger une récompense, mais votre cour vous considère désormais comme faible. Vous avez l'impression d'avoir perdu un peu de respect de la part de votre royaume." #NT!
+ POD_vampire_frenzy_events.401.a: "Je ferai en sorte d'avoir un mortel à portée de main à l'avenir." #NT!
+ POD_vampire_frenzy_events.401.a.beast: "#R Cela n'aidera pas.#!" #NT!
+ POD_vampire_frenzy_events.501.t: "Frénésie de faim : répercussions" #NT!
+ POD_vampire_frenzy_events.501.desc: "La bête a choisi le pire moment pour relever la tête : vous étiez au milieu d'une réunion du tribunal suprême. Vous parvenez à vous échapper avant que la bête ne prenne le dessus, vous épargnant ainsi l'humiliation au tribunal. Dehors, la bête saute sur le mortel le plus proche, vous faisant enfoncer vos crocs dans sa chair. Vous vous réveillez après son extinction. Vous essuyez le sang de vos lèvres, croyant que le problème est résolu. C'est seulement alors que vous remarquez que le mortel vous regarde." #NT!
+ POD_vampire_frenzy_events.501.a: "Je dois m'occuper de ça." #NT!
+ POD_vampire_frenzy_events.501.a.beast: "#R Comme la terreur dans leurs yeux est adorable.#!" #NT!
+ POD_vampire_frenzy_events.401.opinion_malus: "L'opinion de vos vassaux à votre égard diminue." #NT!
+  
+ POD_vampire_frenzy_events.601.t: "Frénésie de rage !" #NT!
+ POD_vampire_frenzy_events.601.desc.instinct: "Tous les vampires ont une bête en eux – une force animale faite de méchanceté, de rage et de faim. Lorsque les proches perdent le contrôle, la bête les surmonte, prend la laisse et poursuit ses désirs les plus vils, qu'ils soient la vengeance, le sang ou la sécurité. Parent de votre chemin Essayez d'exploiter la bête, de surfer sur la vague de frénésie jusqu'à vos objectifs. Pour utiliser son pouvoir. \n\n Votre bête a été provoquée par la rage que vous ressentez maintenant et elle essaie de se libérer. Les bords de votre vision rougissent à mesure que vous affinez votre regard sur ce qui vous a traversé. Vos poings se serrent douloureusement lorsque vous essayez de vous retenir. L’heure de la frénésie est arrivée, mais vers qui dirigerez-vous votre rage ?" #NT!
+ POD_vampire_frenzy_events.601.desc: "Tous les vampires ont une bête en eux – une force animale faite de méchanceté, de rage et de faim. Lorsque les proches perdent le contrôle, la bête les surmonte, prend la laisse et poursuit ses désirs les plus bas, qu'ils soient de vengeance, de sang ou de sécurité. Parent de votre chemin Essayez de combattre la bête, de la garder enfermée en vous. Pour lui refuser le contrôle. \n\n Votre bête a été provoquée par la rage que vous ressentez maintenant et elle essaie de se libérer. Les bords de votre vision rougissent à mesure que vous affinez votre regard sur ce qui vous a traversé. Vos poings se serrent douloureusement lorsque vous essayez de vous retenir. S'il y a un moment pour combattre la bête, c'est maintenant, mais la laisser résoudre le problème à votre place serait si simple..." #NT!
+ POD_vampire_frenzy_events.601.succumb: "Succombez à la frénésie" #NT!
+ POD_vampire_frenzy_events.601.succumb.beast: "#R Laissez-moi vous montrer une vraie satisfaction.#!" #NT!
+ POD_vampire_frenzy_events.601.fight: "Combattez la frénésie" #NT!
+ POD_vampire_frenzy_events.601.fight.beast: "#R Cela ne suffit pas. VOUS n'êtes pas assez.#!" #NT!
+ POD_vampire_frenzy_events.601.fightwp: "Combattez la frénésie de toute votre volonté" #NT!
+ POD_vampire_frenzy_events.601.fightwp.beast: "#R Si ce n'est pas aujourd'hui, que demain... mieux vaut abandonner maintenant chérie.#!" #NT!
+ POD_vampire_frenzy_events.601.troops: "Ces gardes là-bas semblent être un bon combat...." #NT!
+ POD_vampire_frenzy_events.601.troops.beast: "#R Quoi ? Eux? Choisissez au moins quelqu'un qui serait un défi.#!" #NT!
+ POD_vampire_frenzy_events.601.person: "Cela fait des années que je veux combattre cette personne..." #NT!
+ POD_vampire_frenzy_events.601.person.beast: "#R Combien de temps allez-vous les laisser vous marcher dessus ?#!" #NT!
+ POD_vampire_frenzy_events.601.social: "Je brise l'objet le plus proche de moi !" #NT!
+ POD_vampire_frenzy_events.601.social.beast: "#R Frapper un mur... Quelle originalité.#!" #NT!
+ POD_vampire_frenzy_events.601.breach: "Je montrerai ma colère aux humbles mortels !" #NT!
+ POD_vampire_frenzy_events.601.breach.beast: "#R Oui, qu'ils se recroquevillent devant nous !#!" #NT!
+ POD_vampire_frenzy_events.601.fight.failed: "La bête prend le dessus" #NT!
+ POD_vampire_frenzy_events.701.desc: "Vous vous promeniez dans la cour lorsqu'un de vos courtisans a osé faire un commentaire méchant sur votre caractère. Immédiatement, vous vous êtes affolé et vous vous êtes précipité vers le courtisan. Heureusement, un régiment de gardes entraînés et équipés se tenait entre vous et le pauvre courtisan. Vous êtes très fier de ces hommes d'élite - vous les avez formés vous-même, précisément pour affronter les vampires. Maintenant, cependant, vous pourriez regretter de les avoir entraînés, car ils utilisent efficacement vos propres tactiques contre vous. \n\nVous avez été appréhendé avant de pouvoir causer un préjudice majeur, mais vous n'en êtes pas sorti indemne et votre réputation non plus." #NT!
+ POD_vampire_frenzy_events.701.a: "Contrarié par mes propres hommes." #NT!
+ POD_vampire_frenzy_events.701.t: "Frénésie de rage : répercussions" #NT!
+ POD_vampire_frenzy_events.801.t: "Frénésie de rage : répercussions" #NT!
+ POD_vampire_frenzy_events.801.desc: "Frénésie de rage : répercussions" #NT!
+ POD_vampire_frenzy_events.801.victorydesc: "Vous regardez votre vassal [target.GetTitledFirstName] allongé sur le sol avec douleur. Vous vous souvenez de ce qui s'est passé : [target.GetTitledFirstName] vous traitait avec dédain ces derniers temps, et cela commençait à affecter votre relation professionnelle. Vous êtes allé dans les salles privées [target.GetTitledFirstNamePossessive] pour affronter [target.GetHerHim], et [target.GetSheHe] a osé vous accuser de diffamation ! \n\n Cette affirmation scandaleuse vous a rendu frénétique, et le résultat est devant vous. Si ce qui s’est passé sort de cette salle, le résultat sera désastreux. Non seulement votre vassal vous en voudra, mais votre royaume tout entier ridiculisera votre manque de contrôle. \n\n Et pourtant... Vous et [target.GetTitledFirstName] êtes seuls ici. Il est encore possible de garantir que ce qui s’est passé reste dans cette pièce." #NT!
+ POD_vampire_frenzy_events.801.lossdesc: "Vous regardez votre vassal [target.GetTitledFirstName], tenant votre ventre rompu de douleur. Vous vous souvenez de ce qui s'est passé - [target.GetTitledFirstName] vous traitait avec dédain ces derniers temps, et cela commençait à affecter votre relation professionnelle. Vous êtes allé dans les salles privées [target.GetTitledFirstNamePossessive] pour affronter [target.GetHerHim], et [target.GetSheHe] a osé vous accuser de diffamation ! \n\n Cette affirmation scandaleuse vous a rendu frénétique, et la douleur et la honte qui en ont résulté vous ont traversé. Si ce qui s’est passé sort de cette salle, le résultat sera désastreux. Non seulement votre vassal vous en voudra, mais votre royaume tout entier ridiculisera votre manque de contrôle. Et en plus, vous avez perdu ! \n\n Et pourtant... Vous et [target.GetTitledFirstName] êtes seuls ici. Il est encore possible de garantir que ce qui s’est passé reste dans cette pièce." #NT!
+ POD_vampire_frenzy_events.801.kill: "Ils ne peuvent dire à personne s'ils sont morts...." #NT!
+ POD_vampire_frenzy_events.801.bribe: "Si [target.GetSheHe] promet de ne le dire à personne, je promets une faveur à [target.GetHerHim]." #NT!
+ POD_vampire_frenzy_events.801.leave: "Je ne resterai pas ici un instant de plus, quelles que soient les opinions des tribunaux." #NT!
+ POD_vampire_frenzy_events.901.t: "Frénésie de rage : répercussions" #NT!
+ POD_vampire_frenzy_events.901.desc: "La fête se déroulait bien jusqu'à ce que deux de vos invités ivres décident de se bagarrer au milieu de la piste de danse. Vous leur ordonnez d’arrêter et ils vous ignorent effrontément. Vous répétez votre commande, plus fort cette fois. Ils vous défient encore. Bouillonnant d’une colère légitime, vous vous approchez d’eux et les criez, sans effet. L'indignité ! \n\n Vous essayez de les séparer physiquement et ils ont l’audace de vous pousser. Toi, leur suzerain légitime ! Votre rage submerge votre raison alors que vous criez et frappez un pilier suffisamment solide pour le briser. Tout le monde vous regarde maintenant, et vous réalisez à quoi cela doit ressembler : vous avez perdu votre sang-froid et causé des dégâts à votre propre château. On peut déjà voir quelques regards désapprobateurs." #NT!
+ POD_vampire_frenzy_events.901.a: "Cela coûtera de l’or à réparer." #NT!
+ POD_vampire_frenzy_events.101.t: "Frénésie de rage : répercussions" #NT!
+ POD_vampire_frenzy_events.101.desc: "Vous regardez vos mains ensanglantées, votre bouche laissant échapper des gouttes de vitae sur vos vêtements déchirés et sales. Cela a été une sacrée nuit... Vous ne vous souvenez pas comment cela a commencé, mais vous vous souvenez être sorti dans les rues des mortels avec rage et avoir détruit tout ce qui se trouvait en vue. Vous vous sentiez comme un dieu – imparable, tout-puissant et terrifiant. Les mortels s'enfuient effrayés, et les rares qui ont résisté sont tombés sous vos crocs. \n\n Laissant de côté les implications morales de vos horribles actions, vous avez fait beaucoup de bruit dans le monde des mortels. Peu ont réussi à s’échapper, mais ceux qui l’ont fait répandront sûrement des histoires sur votre grand pouvoir et votre monstruosité. Cela effrayera certainement vos sujets, mais attirera également une attention indésirable." #NT!
+ POD_vampire_frenzy_events.101.a: "Les choses que je peux faire si je cède le contrôle...." #NT!
+  
+ POD_vampire_frenzy_events.801.toast: "Vous avez perdu un combat contre [target.GetTitledFirstName]" #NT!
+  
+  
+  
+  
+  

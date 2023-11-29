@@ -1,0 +1,12 @@
+﻿l_french:
+  
+ POD_herdify.1.t: "Faire grandir le troupeau" #NT!
+ POD_herdify.1.option.a: "Un autre mouton rejoint mon troupeau." #NT!
+ POD_herdify.1.desc: "\nAprès une préparation et une planification minutieuses, vous lancez le piège sur la cible que vous avez choisie. Ils se soumettent et rejoignent volontiers votre stock d'alimentation.\n" #NT!
+  
+ POD_drain_animal_interaction_auto: "Vidangez automatiquement les animaux." #NT!
+ POD_drain_animal_interaction_auto.tt: "Vous drainerez automatiquement les animaux tous les six mois pour obtenir de l'XP animale. Cette action ne donne pas de sang et vous procurera un peu de stress à chaque chasse." #NT!
+ POD_herd_automation.4010.toast: "Chasse aux animaux" #NT!
+ POD_drain_animal_interaction_auto_stop.tt: "Vous arrêterez votre chasse automatique aux animaux, sans gagner d’expérience animale ni de stress tous les six mois." #NT!
+ POD_drain_animal_interaction_auto_stop: "Arrêtez de drainer automatiquement les animaux" #NT!
+  

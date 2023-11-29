@@ -1,0 +1,695 @@
+﻿l_french:
+  
+ rf_gaia: "Gaïa" #NT!
+ rf_gaia_desc: ""
+  
+  #Common Road of Beast Localization 
+ gaia_religion: "Gaïen" #NT!
+ gaia_religion_adj: "Gaïen" #NT!
+ gaia_religion_adherent: "Gaïen" #NT!
+ gaia_religion_adherent_plural: "Gaïens" #NT!
+ gaia_religion_desc: "Gaia est plus grande qu'une Célestine et l'un des esprits les plus puissants connus – peut-être le premier et le plus puissant. On lui attribue la création des Garous et de la plupart des Fera pour lui servir de guerriers et d'agents dans les mondes matériel et spirituel." #NT!
+ gaia_high_god_name: "Gaïa" #NT!
+ gaia_high_god_name_possessive: "celui de Gaïa" #NT!
+ gaia_high_god_name_alternate: "Sauvage" #NT!
+ gaia_high_god_name_alternate_possessive: "Wyld's" #NT!
+ gaia_good_god_jesus: "$gaia_health_god_name$" #NT!
+ gaia_good_god_christ: "Terre" #NT!
+ gaia_devil_name: "Wyrm" #NT!
+ gaia_devil_name_possessive: "Wyrm" #NT!
+ gaia_evil_god_lucifer: "Mangeur d'âmes" #NT!
+ gaia_evil_god_beelzebub: "Bête de guerre" #NT!
+ gaia_evil_god_mephistopheles: "Profanateur" #NT!
+ gaia_death_deity_name: "Wyrm" #NT!
+ gaia_death_deity_name_possessive: "Wyrm" #NT!
+ gaia_house_of_worship: "caern" #NT!
+ gaia_house_of_worship_plural: "caerns" #NT!
+ gaia_religious_symbol: "glyphe" #NT!
+ gaia_religious_text: "traditions" #NT!
+ gaia_religious_head_title: "Gardien du savoir" #NT!
+ gaia_religious_head_title_name: "Gardien du savoir" #NT!
+ gaia_devotee_male: "Gardiens du savoir" #NT!
+ gaia_devotee_male_plural: "Gardien du savoir" #NT!
+ gaia_devotee_female: "Gardien du savoir" #NT!
+ gaia_devotee_female_plural: "Gardiens du savoir" #NT!
+ gaia_devotee_neuter: "Gardiens du savoir" #NT!
+ gaia_devotee_neuter_plural: "Gardiens du savoir" #NT!
+ gaia_priest_male: "Gardiens du savoir" #NT!
+ gaia_priest_male_plural: "Gardien du savoir" #NT!
+ gaia_priest_alternate_plural: "Gardiens du savoir" #NT!
+ gaia_bishop: "Gardien du savoir" #NT!
+ gaia_bishop_plural: "Gardiens du savoir" #NT!
+ gaia_divine_realm: "Terre" #NT!
+ gaia_positive_afterlife: "sauvages" #NT!
+ gaia_negative_afterlife: "la spirale" #NT!
+ gaia_witchgodname_the_horned_god: "Profanateur" #NT!
+ gaia_witchgodname_the_horned_god_possessive: "Profanateur" #NT!
+  
+ gaia_creator_god_name: "$gaia_high_god_name$" #NT!
+ gaia_creator_god_name_possessive: "$gaia_high_god_name_possessive$" #NT!
+ gaia_health_god_name: "esprit" #NT!
+ gaia_health_god_name_possessive: "l'esprit" #NT!
+ gaia_fertility_god_name: "$gaia_high_god_name$" #NT!
+ gaia_fertility_god_name_possessive: "$gaia_high_god_name_possessive$" #NT!
+ gaia_wealth_god_name: "$gaia_high_god_name$" #NT!
+ gaia_wealth_god_name_possessive: "$gaia_high_god_name_possessive$" #NT!
+ gaia_household_god_name: "$gaia_health_god_name$" #NT!
+ gaia_household_god_name_possessive: "$gaia_health_god_name_possessive$" #NT!
+ gaia_fate_god_name: "$gaia_high_god_name$" #NT!
+ gaia_fate_god_name_possessive: "$gaia_high_god_name_possessive$" #NT!
+ gaia_knowledge_god_name: "$gaia_high_god_name$" #NT!
+ gaia_knowledge_god_name_possessive: "$gaia_high_god_name_possessive$" #NT!
+ gaia_war_god_name: "$gaia_high_god_name$" #NT!
+ gaia_war_god_name_possessive: "$gaia_high_god_name_possessive$" #NT!
+ gaia_trickster_god_name: "Incarne" #NT!
+ gaia_trickster_god_name_possessive: "d'Incarna" #NT!
+ gaia_night_god_name: "$gaia_high_god_name$" #NT!
+ gaia_night_god_name_possessive: "$gaia_high_god_name_possessive$" #NT!
+ gaia_water_god_name: "$gaia_health_god_name$" #NT!
+ gaia_water_god_name_possessive: "$gaia_health_god_name_possessive$" #NT!
+  
+ blackfury_religion: "Furies noires" #NT!
+ blackfury_religion_adj: "Furies noires" #NT!
+ blackfury_religion_adherent: "Fureur" #NT!
+ blackfury_religion_adherent_plural: "Furies" #NT!
+ blackfury_religion_desc: "Les matriarches des Garous sont les plus proches du Sauvage que la plupart des autres tribus et sont connues pour leur honneur, leur sagesse, leur fierté et leurs féroces compétences au combat.\nLes Furies vénèrent le Sauvage comme une force de féminité, d'instinct plutôt que comme une force intellectuelle. abstractions du Tisserand (et considéré comme masculin par la Tribu). Le Wyld est la force qui maintient les cycles de Gaia et Luna en mouvement et les complète." #NT!
+  
+ blackfury: "Furies noires" #NT!
+ blackfury_adj: "Furies noires" #NT!
+ blackfury_adherent: "Fureur" #NT!
+ blackfury_adherent_plural: "Furies" #NT!
+ blackfury_desc: "Les matriarches des Garous sont les plus proches du Sauvage que la plupart des autres tribus et sont connues pour leur honneur, leur sagesse, leur fierté et leurs féroces compétences au combat.\nLes Furies vénèrent le Sauvage comme une force de féminité, d'instinct plutôt que comme une force intellectuelle. abstractions du Tisserand (et considéré comme masculin par la Tribu). Le Wyld est la force qui maintient les cycles de Gaia et Luna en mouvement et les complète." #NT!
+  
+ amazonsofdiana: "Amazones de Diane" #NT!
+ amazonsofdiana_adj: "Amazones de Diane" #NT!
+ amazonsofdiana_adherent: "Amazones" #NT!
+ amazonsofdiana_adherent_plural: "Amazones" #NT!
+ amazonsofdiana_desc: "Un groupe de Furies noires qui se soucient davantage d'être des femmes guerrières impétueuses et imparables que de vengeresses sacrées. Ce camp est rarement considéré comme un groupe formel et constitue plutôt un fourre-tout pour ceux qui sont plus déterminés à prouver qu'ils sont à juste titre l'égal de n'importe quel homme dans le combat contre le Wyrm. Certains au sein du camp considèrent qu'il est nécessaire d'amener les Furies dans le futur et de les éloigner de leur pratique inutile et archaïque de poursuite des criminels, mais les Garous qui détestent simplement tous les mâles ont également tendance à se tourner vers les Amazones." #NT!
+  
+ avengingmother: "Mère vengeresse" #NT!
+ avengingmother_adj: "Mère vengeresse" #NT!
+ avengingmother_adherent: "Vengeur" #NT!
+ avengingmother_adherent_plural: "Vengeurs" #NT!
+ avengingmother_desc: "Un très petit sous-sect des Furies noires qui s'efforce de faire tomber les structures patriarcales de la nation Garou et des tribus comme les Silver Fangs en exploitant leur confiance." #NT!
+  
+ bacchantes: "Bacchantes" #NT!
+ bacchantes_adj: "Bacchantes" #NT!
+ bacchantes_adherent: "Bacchante" #NT!
+ bacchantes_adherent_plural: "Bacchantes" #NT!
+ bacchantes_desc: "Une faction conservatrice qui poursuit le but sacré originel des Black Furies : venger les torts causés aux femmes et aux enfants avec un zèle fanatique et une violence impitoyable. Ils croient qu'en agissant ainsi, ils combattent l'emprise du Wyrm sur l'humanité et vengent Gaia elle-même." #NT!
+  
+ freebooters: "Les flibustiers" #NT!
+ freebooters_adj: "Les flibustiers" #NT!
+ freebooters_adherent: "Pirate" #NT!
+ freebooters_adherent_plural: "Les flibustiers" #NT!
+ freebooters_desc: "La mission des Freebooters est de trouver de nouveaux lieux sauvages pouvant être consacrés à Gaia et ouverts en tant que caerns. Les kuklos diminuent car il reste très peu de lieux sauvages dans le monde. Une fraction des flibustiers pensent qu'ils doivent trouver un nouveau corps pour Gaia ailleurs dans l'Umbra, quelque part que le Wyrm n'a pas encore trouvé." #NT!
+  
+ moondaughter: "Fille-Lune" #NT!
+ moondaughters_adj: "Fille-Lune" #NT!
+ moondaughter_adherent: "Fille-Lune" #NT!
+ moondaughter_adherent_plural: "Filles de la Lune" #NT!
+ moondaughter_desc: "Un culte cherchant à propager le culte de Gaia à travers le paganisme. Bien qu'accrochés aux traditions, ils s'efforcent également de maintenir l'esprit de Gaia vivant à travers le changement, incarnant du mieux qu'ils peuvent la force du Wyld. Leurs méthodes rituelles font principalement appel à une magie plus ancienne, transmise et modifiée d'une génération à l'autre." #NT!
+  
+ orderofourmercifulmother: "Ordre de Notre Mère Miséricordieuse" #NT!
+ orderofourmercifulmother_adj: "Ordre de Notre Mère Miséricordieuse" #NT!
+ orderofourmercifulmother_adherent: "Religieuse" #NT!
+ orderofourmercifulmother_adherent_plural: "Nonnes" #NT!
+ orderofourmercifulmother_desc: "L'un des kuklos les plus ridiculisés au sein des Furies Noires. Agissant subtilement pour rapprocher le dogme des autres d'une version qui respecte Gaia et les femmes, l'Ordre s'efforce de réformer la société humaine et le christianisme en utilisant ses propres outils contre eux. Ils s’attribuent le mérite de la popularité croissante de la Vierge Marie." #NT!
+  
+ sisterhood: "Fraternité" #NT!
+ sisterhood_adj: "Fraternité" #NT!
+ sisterhood_adherent: "Sœur" #NT!
+ sisterhood_adherent_plural: "Sœur" #NT!
+ sisterhood_desc: "Un réseau pour protéger les Kinfolk, les femmes et les Garous de l'Inquisition et les mettre en sécurité. Ils gèrent également les différents réseaux de Kinfolk des Black Furies, leur offrant de l'aide et informant les autres membres de la tribu lorsqu'un Kinfolk a été lésé par les mains d'un homme. Ils sont également experts dans la collecte de ressources que la tribu pourra utiliser." #NT!
+  
+ templeofartemis: "Temple d'Artémis" #NT!
+ templeofartemis_adj: "Temple d'Artémis" #NT!
+ templeofartemis_adherent: "Prêtresse d'Artémis" #NT!
+ templeofartemis_adherent_plural: "Prêtresses Artémis" #NT!
+ templeofartemis_desc: "Parmi les kukloi les plus anciens et l’un des plus conservateurs. Ils conseillent de se retirer de la nation Garou et de consacrer à nouveau les Furies noires à leur objectif initial de vengeurs des femmes. Ils servent également de juges aux Furies qui ont enfreint les coutumes tribales." #NT!
+  
+ bonegnawer_religion: "Rongeurs d'os" #NT!
+ bonegnawer_religion_adj: "Rongeurs d'os" #NT!
+ bonegnawer_religion_adherent: "Rongeur d'os" #NT!
+ bonegnawer_religion_adherent_plural: "Rongeurs d'os" #NT!
+ bonegnawer_religion_desc: "Charognards et survivants des Garous, les Bone Gnawers sont considérés par les autres tribus comme de simples bâtards qui passent au crible les déchets de l'humanité. Les Bone Gnawers se considèrent comme des outsiders, attendant de triompher contre des ennemis trop confiants." #NT!
+  
+ bonegnawer: "Rongeurs d'os" #NT!
+ bonegnawer_adj: "Rongeurs d'os" #NT!
+ bonegnawer_adherent: "Rongeur d'os" #NT!
+ bonegnawer_adherent_plural: "Rongeurs d'os" #NT!
+ bonegnawer_desc: "Charognards et survivants des Garous, les Bone Gnawers sont considérés par les autres tribus comme de simples bâtards qui passent au crible les déchets de l'humanité. Les Bone Gnawers se considèrent comme des outsiders, attendant de triompher contre des ennemis trop confiants." #NT!
+  
+ thehood: "La hotte" #NT!
+ thehood_adj: "Capot" #NT!
+ thehood_adherent: "Capot" #NT!
+ thehood_adherent_plural: "Hottes" #NT!
+ thehood_desc: "Ce camp se consacre à la distribution des richesses des riches aux pauvres, à condition que l'argent qu'ils fournissent soit utilisé à des fins utiles. Le Hood commence à prendre forme à cette époque (et existe au-delà des limites de la forêt de Sherwood). De nombreux jeunes Gnawers idéalistes rejoignent les rangs des Hood, intrigués par le concept de redistribution organisée des richesses. En tant que bandits de grands chemins et rois voleurs, ils trouvent une nouvelle façon de prendre la nourriture de ceux qui en ont en abondance et de la mettre dans la bouche des affamés." #NT!
+  
+ ratfinks: "Finks de rats" #NT!
+ ratfinks_adj: "Finks de rats" #NT!
+ ratfinks_adherent: "Rat Fink" #NT!
+ ratfinks_adherent_plural: "Finks de rats" #NT!
+ ratfinks_desc: "Les Garous de ce camp sont des espions et des collecteurs d'informations, un réseau de parents et de Garous qui occupent des emplois bas de gamme qui leur donnent justement accès à des informations de haut niveau. D'autres créatures surnaturelles interagissent parfois également avec le camp : des vampires Nosferatu, des espions Ratkin et même des messagers Corax." #NT!
+  
+ maneaters: "Mangeurs d'hommes" #NT!
+ maneaters_adj: "Mangeur d'hommes" #NT!
+ maneaters_adherent: "Mangeur d'hommes" #NT!
+ maneaters_adherent_plural: "Mangeurs d'hommes" #NT!
+ maneaters_desc: "Ce camp gagne du pouvoir en violant le principe de la Litanie qui interdit le cannibalisme de la chair humaine. La plupart des « convertis » de ce camp étaient des Garous qui avaient trop souvent succombé à la frénésie. Ils sont peu nombreux aujourd'hui et la plupart des survivants se sont alliés au camp similaire des Mangeurs de Morts parmi les Silencieux.\nLes histoires macabres occasionnelles de loups-garous voraces donnent également du crédit à l'existence des Mangeurs d'Hommes - après tout, en période de faim, il est trop tentant pour un Rongeur de se nourrir et de retirer une ou trois bouches affamées en excès en même temps." #NT!
+  
+ childrenoffamine: "Enfants de la famine" #NT!
+ childrenoffamine_adj: "Enfants de la famine" #NT!
+ childrenoffamine_adherent: "Enfant de la famine" #NT!
+ childrenoffamine_adherent_plural: "Enfants de la famine" #NT!
+ childrenoffamine_desc: "La faim est peut-être un mode de vie parmi les pauvres du Moyen Âge, mais les Enfants de la Famine font de leur mieux pour atténuer le problème. Ils sont connus pour braconner sur les terres royales ou voler des céréales dans les greniers monastiques pendant les périodes de disette. Gaia n’a jamais voulu que ses enfants aient faim – et là où va la famine, cela doit être dû au Wyrm. Si une sécheresse ou un fléau s'abat sur la terre, les enfants cherchent généralement quelqu'un à blâmer." #NT!
+  
+ childofgaia_religion: "Enfants de Gaïa" #NT!
+ childofgaia_religion_adj: "Enfants de Gaïa" #NT!
+ childofgaia_religion_adherent: "Enfant" #NT!
+ childofgaia_religion_adherent_plural: "Enfants" #NT!
+ childofgaia_religion_desc: "Les gardiens de la paix des Garous, les Enfants, œuvrent pour la compréhension entre les tribus et espèrent éventuellement former un front uni contre le Wyrm." #NT!
+  
+ childofgaia: "Enfants de Gaïa" #NT!
+ childofgaia_adj: "Enfants de Gaïa" #NT!
+ childofgaia_adherent: "Enfant" #NT!
+ childofgaia_adherent_plural: "Enfants" #NT!
+ childofgaia_desc: "Les gardiens de la paix des Garous, les Enfants, œuvrent pour la compréhension entre les tribus et espèrent éventuellement former un front uni contre le Wyrm." #NT!
+  
+ servantsoftheunicorn: "Serviteurs de la Licorne" #NT!
+ servantsoftheunicorn_adj: "Licorne" #NT!
+ servantsoftheunicorn_adherent: "Serviteur de la Licorne" #NT!
+ servantsoftheunicorn_adherent_plural: "Serviteurs de la Licorne" #NT!
+ servantsoftheunicorn_desc: "Le plus grand et le plus puissant des camps des Enfants de Gaia n’est pas vraiment un camp du tout. Les Serviteurs de la Licorne représentent des idéaux tribaux et la plupart des enfants se considèrent comme des Serviteurs. Les Serviteurs les plus dévoués recherchent activement des différends comme médiateurs. De plus, les Serviteurs répandent la parole sur l'unité tribale, promouvant le concept selon lequel tous les Garous sont des enfants de Gaia." #NT!
+  
+ crestofthehorn: "Crête de la Corne" #NT!
+ crestofthehorn_adj: "Corne" #NT!
+ crestofthehorn_adherent: "Crête" #NT!
+ crestofthehorn_adherent_plural: "Crêtes" #NT!
+ crestofthehorn_desc: "Petite scission des Serviteurs de la Licorne, la Crête de la Corne s'occupe avant tout des querelles de l'Église chrétienne, et ses membres les plus radicaux sont le plus souvent ceux qui luttent contre l'influence de l'Église." #NT!
+  
+ anointedones: "Les Oints" #NT!
+ anointedones_adj: "Oint" #NT!
+ anointedones_adherent: "Oint" #NT!
+ anointedones_adherent_plural: "Oint" #NT!
+ anointedones_desc: "Les gardiens de la paix des Garous, les Enfants, œuvrent pour la compréhension entre les tribus et espèrent éventuellement former un front uni contre le Wyrm. Ce camp a renoncé à la violence sous toutes ses formes. Ils ne lèveront pas la main pour frapper une autre créature et trouveront constamment de nouvelles façons de se libérer de la rage pour maintenir ce contrôle. Les Oints luttent pour exister à notre époque, mais ils existent." #NT!
+  
+ onetree: "L'arbre unique" #NT!
+ onetree_adj: "Un arbre" #NT!
+ onetree_adherent: "Enfant de l'arbre" #NT!
+ onetree_adherent_plural: "Enfants des arbres" #NT!
+ onetree_desc: "Ce sont des tueurs – à la fois des guerriers de première ligne et des assassins furtifs. Cela dit, ils ne tuent pas par rage, passion, haine, méchanceté ou fierté, et ils n'acceptent pas les membres qui cherchent à rejoindre le camp avec ces motivations. Ils tuent parce que c'est ce que Gaia leur a demandé de faire ; ils constituent un canal par lequel Gaia peut frapper ses ennemis." #NT!
+  
+ angelsofgaia: "Anges de Gaïa" #NT!
+ angelsofgaia_adj: "anges" #NT!
+ angelsofgaia_adherent: "Ange" #NT!
+ angelsofgaia_adherent_plural: "Ange" #NT!
+ angelsofgaia_desc: "Ce camp des Enfants de Gaia protège, défend et sauve les enfants humains du Wyrm Profanateur. Ils s'occupent particulièrement des enfants dont les familles ont été tuées par la guerre ou la maladie et de ceux qui ont été abandonnés par leurs parents." #NT!
+  
+ aetherainamorata: "Aethera Inamorata" #NT!
+ aetherainamorata_adj: "Amour" #NT!
+ aetherainamorata_adherent: "Amoureux" #NT!
+ aetherainamorata_adherent_plural: "Les amoureux" #NT!
+ aetherainamorata_desc: "Camp controversé dédié à la guérison par le sexe et l'amour physique, ils estiment que les couples Garou-Garou ne constituent pas une violation de la Litanie (et sont, en fait, un outil précieux vers l'unité) tant qu'ils ne produisent pas d'enfants. Ils surveillent les grossesses des Kinfolk pour aider les familles à se préparer à la possibilité d'un enfant Garou et facilitent les mariages mixtes entre les Kinfolk de différentes tribus, dans le but de construire l'unité et la confiance intertribale." #NT!
+  
+ fianna_religion: "Fianna" #NT!
+ fianna_religion_adj: "Fianna" #NT!
+ fianna_religion_adherent: "Fianna" #NT!
+ fianna_religion_adherent_plural: "Fianna" #NT!
+ fianna_religion_desc: "Fortement basé sur les traditions celtiques et européennes, les Fianna sont connus parmi les Garous pour leur passion pour le plaisir de la vie, leurs compétences et leur férocité au combat, et comme gardiens de la musique, des histoires et des traditions des Garous." #NT!
+  
+ fianna: "Fianna" #NT!
+ fianna_adj: "Fianna" #NT!
+ fianna_adherent: "Fianna" #NT!
+ fianna_adherent_plural: "Fianna" #NT!
+ fianna_desc: "Fortement basé sur les traditions celtiques et européennes, les Fianna sont connus parmi les Garous pour leur passion pour le plaisir de la vie, leurs compétences et leur férocité au combat, et comme gardiens de la musique, des histoires et des traditions des Garous." #NT!
+  
+ brotherhoodofherne: "Confrérie de Herne" #NT!
+ brotherhoodofherne_adj: "Herné" #NT!
+ brotherhoodofherne_adherent: "Frère de Herne" #NT!
+ brotherhoodofherne_adherent_plural: "fraternité" #NT!
+ brotherhoodofherne_desc: "Il s'agit d'un camp composé principalement d'Ahrouns avec quelques autres Auspices mélangés. Ils ont commencé comme un moyen de partager des ressources lorsque la bataille contre les Black Spiral Dancers nouvellement formés était à son paroxysme. Quelques Ahrouns de chaque septembre enverraient Moonbridge dans un Caern en difficulté et viendraient à la rescousse, pour ainsi dire. La Confrérie de Herne s'adapte bien aux concepts humains de chevalerie, d'héraldique et de chevalerie. Cependant, ils sont tenus en basse estime par leurs camarades de la tribu Fianna." #NT!
+  
+ childrenofdire: "Enfants de Dire" #NT!
+ childrenofdire_adj: "Terrible" #NT!
+ childrenofdire_adherent: "Loup terrible" #NT!
+ childrenofdire_adherent_plural: "Loups terribles" #NT!
+ childrenofdire_desc: "Composé principalement de Garous lupus, ce camp surveille les émanations des forces du Wyrm par leurs effets sur le Wyld. En notant les changements dans le flux des prédateurs et des proies ainsi que la croissance ou le déclin de la flore dans les zones sauvages, ils peuvent détecter l'influence du Wyrm avant qu'elle ne devienne forte. Le camp lui-même est souvent considéré avec méfiance par les étrangers car ils restent rarement attachés à un caern pendant un certain temps." #NT!
+  
+ grancdhildrenoffionn: "Petits-enfants de Fionn" #NT!
+ grancdhildrenoffionn_adj: "Fionn" #NT!
+ grancdhildrenoffionn_adherent: "Petit enfant" #NT!
+ grancdhildrenoffionn_adherent_plural: "Petits enfants" #NT!
+ grancdhildrenoffionn_desc: "De nombreux jeunes Fianna voient les petits-enfants de Fionn – dédiés aux idéaux de combat de leur ancêtre, Fionn mac Cumhail – comme l'occasion idéale de faire leurs preuves auprès du reste de la tribu et de la nation. Ils se considèrent comme les héros choisis par Stag et sont réputés pour leur courage, voyageant là où se déroulent les meilleurs combats." #NT!
+  
+ mothersfundamentalists: "Les fondamentalistes de la mère" #NT!
+ mothersfundamentalists_adj: "Fondamentaliste" #NT!
+ mothersfundamentalists_adherent: "Fondamentaliste" #NT!
+ mothersfundamentalists_adherent_plural: "Fondamentalistes" #NT!
+ mothersfundamentalists_desc: "Ce camp de Fianna souhaite ramener l'Impergium – l'abattage de la population humaine pratiqué par les Garous à l'époque préhistorique. Ils accusent la propagation incontrôlée de l'humanité d'être responsable de la folie du Tisserand et du Wyrm et de la mort lente de Gaia." #NT!
+  
+ songkeepers: "Gardiens de la chanson" #NT!
+ songkeepers_adj: "Gardien du chant" #NT!
+ songkeepers_adherent: "Gardien du chant" #NT!
+ songkeepers_adherent_plural: "Gardiens de la chanson" #NT!
+ songkeepers_desc: "Les gardiens de chant ont le droit de revendiquer leur héritage en tant qu'aînés, seuls les petits-enfants de Fionn pouvant éventuellement contester cette prétention. C'est à eux que tout le monde pense quand on parle des Fianna ; ce sont les maîtres du savoir, les conteurs et ceux qui se consacrent à maintenir vivante l’histoire orale. Ce camp n'est pas que des Galliards. Les Théurges recherchent et apprennent les Rites, s'assurant qu'aucun ne soit perdu à l'approche de l'Apocalypse, et les Philodoxes préservent l'ancienne sagesse des jugements passés. L'important est la capacité d'apprendre et de partager ces connaissances avec tous les Garous, pas seulement avec les Fianna, c'est pourquoi le Camp est si bien connu des autres tribus." #NT!
+  
+ tuathadefionn: "Tuatha De Fionn" #NT!
+ tuathadefionn_adj: "Tuatha De Fionn" #NT!
+ tuathadefionn_adherent: "Tuatha" #NT!
+ tuathadefionn_adherent_plural: "Tuatha" #NT!
+ tuathadefionn_desc: "Même si les étrangers peuvent relier tous les Fianna aux fées, les Tuatha de Fionn sont le camp le plus susceptible de s'en occuper. Les nouveaux Tuatha sont recrutés par des membres actuels qui trouvent en eux quelque chose – du sang féerique ou de la folie – qui, selon eux, permettra à la nouvelle recrue de traiter avec les Fair Folk sur un pied d'égalité. Après une longue période de tutelle, ils sont emmenés rencontrer les Fae et, espérons-le, rejoindre les Tuatha de Fionn en tant que membres à part entière. Les enfants de Fionn ne se contentent pas de discuter avec les fées au nom de la nation Garou, mais apprennent également d'eux plusieurs de leurs ennemis communs qui, même s'ils ne sont pas nécessairement des descendants de Wyrm, sont susceptibles d'interférer avec la nation." #NT!
+  
+ whisperingrovers: "Rovers chuchotants" #NT!
+ whisperingrovers_adj: "Vagabond" #NT!
+ whisperingrovers_adherent: "Vagabond" #NT!
+ whisperingrovers_adherent_plural: "Rovers" #NT!
+ whisperingrovers_desc: "Ils ne revendiquent aucune terre qui leur appartient et parcourent le monde avec leurs proches en groupes, dépendant grandement les uns des autres pour survivre – toujours mobiles, ne restant jamais longtemps au même endroit. Ils agissent comme les yeux et les oreilles du clan, le Righ de chaque bande faisant rapport à l'Ard Righ de la tribu avec tout ce qu'ils remarquent au cours de leurs voyages et qui pourraient causer des problèmes aux Fianna. Les Rovers sont recherchés lorsque la connaissance d'un certain endroit est nécessaire à d'autres Fianna ou même à d'autres tribus." #NT!
+  
+ getoffenris_religion: "Obtenir de Fenris" #NT!
+ getoffenris_religion_adj: "Fenris" #NT!
+ getoffenris_religion_adherent: "Fenris" #NT!
+ getoffenris_religion_adherent_plural: "Fenris" #NT!
+ getoffenris_religion_desc: "Guerriers féroces avec peu de place pour la pitié et la compassion, les Fenrir se considèrent comme de grands héros, mais sont connus pour choquer les autres Garous par leurs manières violentes." #NT!
+  
+ getoffenris: "Obtenir de Fenris" #NT!
+ getoffenris_adj: "Fenris" #NT!
+ getoffenris_adherent: "Fenris" #NT!
+ getoffenris_adherent_plural: "Fenris" #NT!
+ getoffenris_desc: "Guerriers féroces avec peu de place pour la pitié et la compassion, les Fenrir se considèrent comme de grands héros, mais sont connus pour choquer les autres Garous par leurs manières violentes." #NT!
+  
+ valkyriaoffreya: "Valkyrie de Freya" #NT!
+ valkyriaoffreya_adj: "Valkyrie" #NT!
+ valkyriaoffreya_adherent: "Valkyrie" #NT!
+ valkyriaoffreya_adherent_plural: "Valkyrie" #NT!
+ valkyriaoffreya_desc: "Les Valkyria se battent pour l'égalité des femmes au sein de la tribu. Alors que la plupart des Fenrir méprisent ce camp, estimant qu'il fait de leurs femelles des mauviettes garces qui ne feront que se plaindre sans fin au lieu de prendre ce qui leur appartient de droit, les Valkyria elles-mêmes soutiennent qu'elles sont importantes pour briser de nombreuses idées préconçues humaines sur le rôle des femelles. au sein d'une société. Ils s'affrontent souvent (parfois violemment) avec les Furies Noires." #NT!
+  
+ handoftyr: "Main de Tyr" #NT!
+ handoftyr_adj: "Tyr" #NT!
+ handoftyr_adherent: "Main" #NT!
+ handoftyr_adherent_plural: "Mains" #NT!
+ handoftyr_desc: "La Main de Tyr est composée de Get qui ont tourné leur attention vers la lutte contre l'influence du Wyrm au sein de l'humanité, ciblant les violeurs, les agresseurs d'enfants, les terroristes et les criminels violents." #NT!
+  
+ fangsofgarm: "Crocs de Garm" #NT!
+ fangsofgarm_adj: "Garm" #NT!
+ fangsofgarm_adherent: "Croc" #NT!
+ fangsofgarm_adherent_plural: "Crocs" #NT!
+ fangsofgarm_desc: "Les Crocs de Garm cherchent à mieux intégrer les Gets de Fenris dans la Nation Garou et cherchent à renouer les ponts avec les autres Tribus, afin qu'au moment de l'Apocalypse, ils puissent se serrer les coudes." #NT!
+  
+ mjlolnirsthunder: "Le tonnerre de Mjolnir" #NT!
+ mjlolnirsthunder_adj: "Tonnerre" #NT!
+ mjlolnirsthunder_adherent: "Dédié" #NT!
+ mjlolnirsthunder_adherent_plural: "Dédié" #NT!
+ mjlolnirsthunder_desc: "Cet ancien camp est composé de ceux qui ont perdu (ou coupé) tout lien avec le monde qui les entoure et se sont consacrés uniquement à la destruction du Ver. Ils ne se soucient de rien d'autre : ni des humains, ni des loups, ni des esprits, ni du Voile, ni même de la société Garou dans son ensemble. Ce sont les monstres que d’autres tribus imaginent parfois comme Fenrir, ayant troqué toute trace de compassion, d’empathie et de bon sens contre leur dévouement sociopathique déterminé à la disparition du Wyrm." #NT!
+  
+ gloriousfistofwotan: "Poing glorieux de Wotan" #NT!
+ gloriousfistofwotan_adj: "Wotan" #NT!
+ gloriousfistofwotan_adherent: "Poing" #NT!
+ gloriousfistofwotan_adherent_plural: "Poings" #NT!
+ gloriousfistofwotan_desc: "Le Poing Glorieux de Wotan croit que seule l'éradication de l'humanité peut sauver Gaia. Les humains sont devenus le plus grand vecteur par lequel le Wyrm se propage, donc pour le freiner, ils doivent être tués." #NT!
+  
+ lokissmile: "Le sourire de Loki" #NT!
+ lokissmile_adj: "Loki" #NT!
+ lokissmile_adherent: "Sourire" #NT!
+ lokissmile_adherent_plural: "Souriants" #NT!
+ lokissmile_desc: "On dit que le sourire de Loki contrôle la tribu depuis l'ombre, ses membres communiquant via des esprits de tempête et se cachant du reste de la tribu." #NT!
+  
+ warderofmen_religion: "Gardiens des hommes" #NT!
+ warderofmen_religion_adj: "Gardiens des hommes" #NT!
+ warderofmen_religion_adherent: "Gardien" #NT!
+ warderofmen_religion_adherent_plural: "Gardiens" #NT!
+ warderofmen_religion_desc: "Imprégné de la religion humaine et des flux et reflux de la ville, le Gardien des Hommes vit et meurt selon un credo de progrès. Bien qu'ils craignent l'Apocalypse comme n'importe quel loup-garou, ils croient que chaque jour qui passe les rend plus forts, que chaque nouvelle invention peut être appropriée à leur cause et que chaque nouvelle philosophie pourrait renforcer leur détermination. De cette façon, ils sont la quintessence des Urrah et n'ont pas la forte aversion pour les populations humaines que la plupart des Garous ont." #NT!
+  
+ warderofmen: "Gardiens des hommes" #NT!
+ warderofmen_adj: "Gardiens des hommes" #NT!
+ warderofmen_adherent: "Gardien" #NT!
+ warderofmen_adherent_plural: "Gardiens" #NT!
+ warderofmen_desc: "Imprégné de la religion humaine et des flux et reflux de la ville, le Gardien des Hommes vit et meurt selon un credo de progrès. Bien qu'ils craignent l'Apocalypse comme n'importe quel loup-garou, ils croient que chaque jour qui passe les rend plus forts, que chaque nouvelle invention peut être appropriée à leur cause et que chaque nouvelle philosophie pourrait renforcer leur détermination. De cette façon, ils sont la quintessence des Urrah et n'ont pas la forte aversion pour les populations humaines que la plupart des Garous ont." #NT!
+  
+ bellowsandcrucible: "Soufflet et Creuset" #NT!
+ bellowsandcrucible_adj: "Pompiers" #NT!
+ bellowsandcrucible_adherent: "Pompier" #NT!
+ bellowsandcrucible_adherent_plural: "Pompiers" #NT!
+ bellowsandcrucible_desc: "Les « pompiers » sont en grande partie des théurges et des philodoxes, tous versés dans la tradition élémentaire. Ils font de leur mieux pour guider les alchimistes humains vers l’illumination, dans l’espoir d’ouvrir les yeux de leurs protégés sur la gloire du monde spirituel au-delà." #NT!
+  
+ brethrenofthebook: "Frères du Livre" #NT!
+ brethrenofthebook_adj: "Livre" #NT!
+ brethrenofthebook_adherent: "Frère" #NT!
+ brethrenofthebook_adherent_plural: "Frères" #NT!
+ brethrenofthebook_desc: "Ces Gardiens défendent ce qu'ils considèrent comme la plus grande réussite de l'humanité : la parole écrite. Les membres de ce camp stockent des parchemins et des enluminures rares, et sont connus pour se glisser dans les monastères et les donjons pour voler des livres avant qu'une guerre ou un désastre ne les ravage. Les Frères se reproduisent parmi les érudits, les prêtres et autres lettrés, et s'efforcent souvent d'alphabétiser dans autant de langues que possible." #NT!
+  
+ boli_zouhisze: "Boli Zouhiszé" #NT!
+ boli_zouhisze_adj: "Boli Zouhiszé" #NT!
+ boli_zouhisze_adherent: "Boli Zouhiszé" #NT!
+ boli_zouhisze_adherent_plural: "Boli Zouhiszé" #NT!
+ boli_zouhisze_desc: "Une émanation chinoise des Gardiens des Hommes qui se sont séparés quelque temps avant 2000 avant notre ère, bien qu'ils aient conservé certains aspects de la culture de leur tribu mère, tels que l'appréciation de la culture humaine et la vénération de l'esprit Cafard. Ce dernier a poussé les Fera, originaires de Chine, à éviter les Boli Zouhisze et à les exclure des cours des bêtes, car l'imagerie des insectes est fortement associée au Wyrm parmi les Hengeyokai." #NT!
+  
+ goldenwheel: "Roue d'or" #NT!
+ goldenwheel_adj: "Roue d'or" #NT!
+ goldenwheel_adherent: "Marchand" #NT!
+ goldenwheel_adherent_plural: "Marchands" #NT!
+ goldenwheel_desc: "Le commerce et le commerce sont le moteur de la réussite humaine – ou, du moins, c'est ce que soutiennent les Roues. Ce camp fait de son mieux pour promouvoir les relations commerciales entre les villes et les pays, estimant que là où les biens sont échangés, les idées le seront également. Certains Garous prétendent que les Roues agissent plus par avarice que par bonté de cœur, mais il existe peu de preuves d'une grande corruption au sein du camp." #NT!
+  
+ redtalon_religion: "Serres rouges" #NT!
+ redtalon_religion_adj: "Serres rouges" #NT!
+ redtalon_religion_adherent: "Talon" #NT!
+ redtalon_religion_adherent_plural: "Serres" #NT!
+ redtalon_religion_desc: "Les Serres Rouges sont la seule tribu parmi les Garous qui est exclusivement de nature lupin (à l'exception de très quelques métis), évitant complètement l'humanité comme un fléau sur Terre. Les Serres racontent que leur tribu a été formée directement à partir de Gaia et qu'ils sont restés les Garous les plus purs qui sont restés en contact avec leur forme originale, non corrompus par l'humanité souillée." #NT!
+  
+ redtalon: "Serres rouges" #NT!
+ redtalon_adj: "Serres rouges" #NT!
+ redtalon_adherent: "Talon" #NT!
+ redtalon_adherent_plural: "Serres" #NT!
+ redtalon_desc: "Les Serres Rouges sont la seule tribu parmi les Garous qui est exclusivement de nature lupin (à l'exception de très quelques métis), évitant complètement l'humanité comme un fléau sur Terre. Les Serres racontent que leur tribu a été formée directement à partir de Gaia et qu'ils sont restés les Garous les plus purs qui sont restés en contact avec leur forme originale, non corrompus par l'humanité souillée." #NT!
+  
+ predatorkings: "Loge des Rois Prédateurs" #NT!
+ predatorkings_adj: "Roi prédateur" #NT!
+ predatorkings_adherent: "Prédateur" #NT!
+ predatorkings_adherent_plural: "Prédateurs" #NT!
+ predatorkings_desc: "Les Predator Kings pensent que le temps des compromis est révolu et que les humains doivent être massacrés jusqu'à ce qu'il ne reste plus personne." #NT!
+  
+ wardersoftheland: "Gardiens de la terre" #NT!
+ wardersoftheland_adj: "Atterrir" #NT!
+ wardersoftheland_adherent: "Gardien" #NT!
+ wardersoftheland_adherent_plural: "Gardiens" #NT!
+ wardersoftheland_desc: "Les gardiens tueront tout humain qui pénètre sur leur territoire, mais ne le suivront pas au-delà. Les gardiens n’hésiteront pas à tuer un humain si nécessaire, mais ne croient pas au massacre massif. Certains pensent que s’il n’y avait pas autant d’humains, ils constitueraient une nuisance tolérable plutôt que la menace manifeste qu’ils représentent aujourd’hui. D’autres aimeraient voir l’humanité disparaître, mais estiment que les Garous ne disposent pas des outils nécessaires pour y parvenir et recherchent donc d’autres options." #NT!
+  
+ nightfear: "Peur nocturne" #NT!
+ nightfear_adj: "Peur nocturne" #NT!
+ nightfear_adherent: "La terreur" #NT!
+ nightfear_adherent_plural: "Terreurs" #NT!
+ nightfear_desc: "Ce camp, composé en grande partie de Ragabash et de Galliards, s'intéresse surtout aux histoires que les humains partagent entre eux. Ils espèrent que les humains pourront apprendre à respecter la Mère par la peur et, par la peur, s’enseigner mutuellement la prudence. Les Night-Fear sont connus pour attaquer les humains qu'ils considèrent comme visiblement intrus, mais jamais pour tuer - ils se contentent de blesser et de terroriser, dans l'espoir que les humains fassent savoir que certains endroits et certains actes sont tabous." #NT!
+  
+ settingmoon: "Coucher de lune" #NT!
+ settingmoon_adj: "Coucher de lune" #NT!
+ settingmoon_adherent: "Talon" #NT!
+ settingmoon_adherent_plural: "Serres" #NT!
+ settingmoon_desc: "Les voyants et les sages des Serres surgissent parfois de ce petit camp. Ce sont des chasseurs de visions et des gardiens de prophéties, et ce sont leurs sinistres prédictions qui renforcent la croyance de la tribu selon laquelle les humains entraîneront un jour la mort de Gaia. La Lune Couchante envoie parfois des émissaires dans d'autres septs et fournit souvent des membres à des meutes multitribales, dans l'espoir d'avertir les autres tribus avant qu'il ne soit trop tard." #NT!
+  
+ kucha_ekundu: "Kucha Ekundu" #NT!
+ kucha_ekundu_adj: "Kucha Ekundu" #NT!
+ kucha_ekundu_adherent: "Kucha Ekundu" #NT!
+ kucha_ekundu_adherent_plural: "Kucha Ekundu" #NT!
+ kucha_ekundu_desc: "Les Kucha Ekundu sont une lignée des Serres Rouges qui vivent en Afrique et se reproduisent avec des chiens sauvages africains (alias « loups peints ») au lieu de vrais loups. Certaines rumeurs prétendent qu'ils l'auraient appris des Mokolé. De nombreux Kucha Ekundu partagent les mêmes opinions sur les humains que leurs cousins. Les Kucha Ekundu vénèrent toujours Griffon comme leur Totem." #NT!
+  
+ shadowlord_religion: "Seigneurs de l'Ombre" #NT!
+ shadowlord_religion_adj: "Seigneurs de l'Ombre" #NT!
+ shadowlord_religion_adherent: "Seigneur des Ombres" #NT!
+ shadowlord_religion_adherent_plural: "Seigneurs de l'Ombre" #NT!
+ shadowlord_religion_desc: "Les politiciens et manipulateurs des Garous, les Seigneurs de l'Ombre, travaillent à travers leurs hiérarchies strictes et leurs méthodes secrètes pour s'emparer du plus grand pouvoir possible." #NT!
+  
+ shadowlord: "Seigneurs de l'Ombre" #NT!
+ shadowlord_adj: "Seigneurs de l'Ombre" #NT!
+ shadowlord_adherent: "Seigneur des Ombres" #NT!
+ shadowlord_adherent_plural: "Seigneurs de l'Ombre" #NT!
+ shadowlord_desc: "Les politiciens et manipulateurs des Garous, les Seigneurs de l'Ombre, travaillent à travers leurs hiérarchies strictes et leurs méthodes secrètes pour s'emparer du plus grand pouvoir possible." #NT!
+  
+ lordsofthesummit: "Seigneurs du Sommet" #NT!
+ lordsofthesummit_adj: "Sommet" #NT!
+ lordsofthesummit_adherent: "Seigneur" #NT!
+ lordsofthesummit_adherent_plural: "Seigneurs" #NT!
+ lordsofthesummit_desc: "Un Seigneur du Sommet fera tout pour atteindre le pouvoir, et une fois qu'il l'aura atteint, il ne le sacrifiera pour aucune raison. Invoquant les Litanies, les Seigneurs avec autorité déclarent que puisque l'Apocalypse est proche, il n'y a plus d'illusion de paix sous laquelle leur domination puisse être honorablement contestée. Ces seigneurs occupent de nombreux postes de direction au sein de la tribu (et de la nation), où leurs états continus de « loi martiale » favorisent et préservent leur tyrannie." #NT!
+  
+ bringersoflight: "Porteurs de Lumière" #NT!
+ bringersoflight_adj: "Porteur de lumière" #NT!
+ bringersoflight_adherent: "Porteur" #NT!
+ bringersoflight_adherent_plural: "Porteurs" #NT!
+ bringersoflight_desc: "Les Porteurs de Lumière recherchent leur force intérieure en se testant continuellement contre les souillures qui les entourent. À maintes reprises, ils recherchent la tentation du Wyrm, interagissant avec des vampires, des Danseurs de la Spirale Noire, des fomori et d'autres Wyrmfolk. Bien que beaucoup soient tombés en essayant d’adhérer aux principes de ce camp, les Bringers croient que les plus forts (et vraiment dignes) ne succombent pas aux ténèbres ; ils l'ont surmonté. Beaucoup tombent, bien sûr ; le chemin qu'ils choisissent est assez dangereux, et ils risquent la mort aux mains de ceux qui les entourent ainsi que la corruption sous l'influence du Ver." #NT!
+  
+ childrenofcrow: "Enfants du Corbeau" #NT!
+ childrenofcrow_adj: "Corbeau" #NT!
+ childrenofcrow_adherent: "Enfant" #NT!
+ childrenofcrow_adherent_plural: "Enfants" #NT!
+ childrenofcrow_desc: "Prenant Crow comme totem, ces Garous agissent comme des conseillers et des « réparateurs » auprès des dirigeants de la Nation Garou, soutenant les forts et les sages tout en complotant la chute des indignes. Ils restent dans l’ombre, ne s’intéressant pas au pouvoir personnel ou au leadership. Au lieu de cela, ils travaillent dans les coulisses, apprenant des secrets et prêtant attention aux détails que d'autres pourraient manquer, qu'ils utilisent pour abattre les ennemis des Garous et libérer Gaia, petit à petit. Ils font des bêtas dévoués et fidèles." #NT!
+  
+ masks: "Masques" #NT!
+ masks_adj: "Masques" #NT!
+ masks_adherent: "Masque" #NT!
+ masks_adherent_plural: "Masques" #NT!
+ masks_desc: "Société secrète vouée à inspirer la peur à leurs ennemis, le dévouement des Masques à leurs arts sombres est si fanatique qu'ils pratiquent soi-disant des mutilations ritualisées sur eux-mêmes pour inspirer une plus grande horreur à leurs victimes. Puisque l’inconnu est le terrain de jeu de la peur, aucun véritable Mask ne révèle jamais son appartenance au camp aux étrangers, à l’exception de ceux qui sont ciblés pour endoctriner leur nombre." #NT!
+  
+ societyofnidhogg: "Société de Nidhogg" #NT!
+ societyofnidhogg_adj: "Nidhogg" #NT!
+ societyofnidhogg_adherent: "Nidhoggist" #NT!
+ societyofnidhogg_adherent_plural: "Nidhoggistes" #NT!
+ societyofnidhogg_desc: "Tous les Storm Lords comprennent le pouvoir des ténèbres, mais aucun n'est aussi profond que les membres de ce camp mystique et secret. Leur fanatisme est si fort qu'ils prétendent que la lumière du soleil elle-même est une menace pour les forces du Tonnerre et cherchent à plonger le monde dans les ténèbres éternelles (afin de mieux mener à bien l'ascension de leur tribu vers le pouvoir sans être entravée par les rayons inflexibles d'Hélios)." #NT!
+  
+ judgesofdoom: "Juges du destin" #NT!
+ judgesofdoom_adj: "Perte" #NT!
+ judgesofdoom_adherent: "Juge" #NT!
+ judgesofdoom_adherent_plural: "Juges" #NT!
+ judgesofdoom_desc: "Les Juges du Destin sèment la peur au plus profond du cœur de la Nation Garou en recherchant et en détruisant les Garous qui violent de manière flagrante les principes de la Litanie. Ils poursuivent leur programme avec un zèle impitoyable. Impitoyables et impitoyables, ils ne font preuve d’aucune pitié lorsqu’ils traquent et détruisent les Garous – même des septs entiers – qui ont permis la violation d’un caern ou ont commis d’autres violations massives des lois de la Nation. Aucun briseur de Litanie n’est à l’abri de leur examen minutieux et de leur justice." #NT!
+  
+ hakken: "Hakken" #NT!
+ hakken_adj: "Hakken" #NT!
+ hakken_adherent: "Hakken" #NT!
+ hakken_adherent_plural: "Hakken" #NT!
+ hakken_desc: "Une tribu de Hengeyokai qui ressemble beaucoup aux Seigneurs des Ombres. Bien qu’on se méfie aussi souvent d’eux que des Seigneurs des Ombres, ils ne appartiennent pas à la même tribu. Contrairement à leurs cousins ​​occidentaux, les Hakken ont réussi à équilibrer les manipulations des Seigneurs de l'Ombre avec l'honneur du bushidō. Les Hakken sont l'une des seules tribus de Garous à détenir une quelconque influence dans les cours des bêtes d'Asie." #NT!
+  
+ silentstrider_religion: "Marcheurs silencieux" #NT!
+ silentstrider_religion_adj: "Marcheurs silencieux" #NT!
+ silentstrider_religion_adherent: "Grand pas silencieux" #NT!
+ silentstrider_religion_adherent_plural: "Marcheurs silencieux" #NT!
+ silentstrider_religion_desc: "Originaires d'Égypte, les Silent Striders ont été condamnés à l'exil par le puissant vampire Set, et depuis lors, ils sont en fuite. Nomade, introspectif et hautement spirituel, les Silent Striders ont sondé les profondeurs de l'Umbra, peut-être plus profondément que toute autre tribu de Garou." #NT!
+  
+ silentstrider: "Marcheurs silencieux" #NT!
+ silentstrider_adj: "Marcheurs silencieux" #NT!
+ silentstrider_adherent: "Grand pas silencieux" #NT!
+ silentstrider_adherent_plural: "Marcheurs silencieux" #NT!
+ silentstrider_desc: "Originaires d'Égypte, les Silent Striders ont été condamnés à l'exil par le puissant vampire Set, et depuis lors, ils sont en fuite. Nomade, introspectif et hautement spirituel, les Silent Striders ont sondé les profondeurs de l'Umbra, peut-être plus profondément que toute autre tribu de Garou." #NT!
+  
+ harbingers: "Présages" #NT!
+ harbingers_adj: "Présages" #NT!
+ harbingers_adherent: "Présage" #NT!
+ harbingers_adherent_plural: "Présages" #NT!
+ harbingers_desc: "Ce furent les premiers Garous à prendre au sérieux la prophétie du Phénix, du moins c'est ce que disent certains. Ils se séparèrent et parcourèrent le monde à la recherche du Wyrmsign et rapportèrent le mot. Ils n'ont toujours pas fini de raconter aux Garous tous les signes du Wyrm qu'ils ont trouvés. Plus important encore, ils apportent de l’espoir. Ils sont parmi les plus sages des Garous, alors vous feriez mieux de sauter quand ils vous le disent." #NT!
+  
+ seekers: "Chercheurs" #NT!
+ seekers_adj: "Chercheurs" #NT!
+ seekers_adherent: "Chercheurs" #NT!
+ seekers_adherent_plural: "Chercheurs" #NT!
+ seekers_desc: "Les chercheurs errent d’un endroit à l’autre à la recherche d’informations qu’ils n’ont pas encore apprises. Les chercheurs ont tendance à être intelligents, ingénieux, curieux et têtus comme l’enfer. Si vous voulez savoir quelque chose, demandez à un chercheur. S’ils ne connaissent pas la réponse, ils vous indiqueront la bonne direction. Les chercheurs savent ce qui s’est passé et ce qui se passe actuellement. Les Chercheurs connaissent plus de rites mystiques que n'importe quel autre camp de Silent Striders. Il est également fort probable qu’ils aient un sac rempli de fétiches et de talens trouvés dans les coins sombres et les endroits isolés. Ils servent souvent de mentors aux jeunes Striders, et beaucoup restent en contact avec leurs propres mentors de leur jeunesse." #NT!
+  
+ dispossessed: "Dépossédé" #NT!
+ dispossessed_adj: "Dépossédé" #NT!
+ dispossessed_adherent: "Dépossédé" #NT!
+ dispossessed_adherent_plural: "Dépossédé" #NT!
+ dispossessed_desc: "On ne peut s’empêcher de s’inquiéter pour les dépossédés. Ils ne font rien d’autre que de s’installer quelque part, mais quelque chose les empêche toujours de réussir. Il n'est pas étonnant qu'ils soient si amers.\nIls étudient l'Apocalypse et sont les plus morbides parmi les Grands-Pas. Ils guettent les présages de l’Apocalypse à venir et transmettent leurs avertissements à ceux qui les écoutent. Il y a même des rumeurs selon lesquelles ils essaieraient de contribuer à l'Apocalypse, croyant qu'ils auront un foyer une fois la fin passée." #NT!
+  
+ wayfarers: "Voyageurs" #NT!
+ wayfarers_adj: "Voyageurs" #NT!
+ wayfarers_adherent: "Voyageurs" #NT!
+ wayfarers_adherent_plural: "Voyageur" #NT!
+ wayfarers_desc: "Ces Striders vendent leurs services au plus offrant. Si quelqu’un dit qu’il fera passer votre message, il passera. Les quelques membres de cette confédération informelle d’opportunistes font généralement du troc et des faveurs. Souvent, raisonnent-ils, ils ne seraient même pas les bienvenus dans la plupart des septos s'ils ne rendaient pas service aux responsables - alors pourquoi ne pas obtenir un bon repas et quelques informations en retour, pour adoucir l'affaire ?" #NT!
+  
+ daggersofnut: "Dagues de Noix" #NT!
+ daggersofnut_adj: "Dagues de Noix" #NT!
+ daggersofnut_adherent: "Dague" #NT!
+ daggersofnut_adherent_plural: "Dagues" #NT!
+ daggersofnut_desc: "Tirant leur nom de l'Incarna païenne égyptienne de la nuit, ces Grands-Pas sont bel et bien irrités par la montée des vampires. Leur haine pour les morts-vivants surpasse même celle des Fianna les plus sauvages ou des Crocs d'Argent les plus purs – car ils vengent une patrie perdue et des parents perdus. Les Dagues agissent comme des assassins partout où ils errent, sélectionnant silencieusement une ou trois sangsues pour l'extinction, même si cela doit bouleverser toutes les trêves existantes entre les indigènes. Partout où passent les Dagues de Nut, la guerre entre loup-garou et vampire s'allume dans une nouvelle fureur." #NT!
+  
+ eatersofthedead: "Mangeurs de morts" #NT!
+ eatersofthedead_adj: "Mangeurs de morts" #NT!
+ eatersofthedead_adherent: "Mangeur" #NT!
+ eatersofthedead_adherent_plural: "Mangeurs" #NT!
+ eatersofthedead_desc: "Consommez le cerveau de votre ennemi et découvrez tous ses secrets : un rituel ignoble mais utile. Cependant, tous ceux qui consomment la chair des autres deviennent lentement fous et sentent la puanteur du Wyrm. Certains développent même une dépendance aux cerveaux frais et tuent innocents et coupables pour se régaler. D'autres Striders recherchent et détruisent ceux soupçonnés d'être des Mangeurs de Morts. Ces efforts ont poussé les restes du camp à se cacher, où, selon la rumeur, ils pratiquent leur rite profane dans l'ombre." #NT!
+  
+ bitterhex: "Sortilège amer" #NT!
+ bitterhex_adj: "Hex" #NT!
+ bitterhex_adherent: "Sorcière" #NT!
+ bitterhex_adherent_plural: "Sorcières" #NT!
+ bitterhex_desc: "Les membres du Bitter Hex utilisent l’un des outils les plus controversés et les plus dangereux connus de la tribu : la malédiction. Même si les membres gardent secrète leur association avec le camp, le camp dans son ensemble ne cache pas son existence. Ils veulent que le reste du monde sache que leur tribu a suffisamment souffert, et que l'Hex a beaucoup de motivation pour venger tout tort, aussi léger soit-il, contre les Striders et leurs parents." #NT!
+  
+ silverfang_religion: "Crocs d'argent" #NT!
+ silverfang_religion_adj: "Crocs d'argent" #NT!
+ silverfang_religion_adherent: "Croc en argent" #NT!
+ silverfang_religion_adherent_plural: "Crocs d'argent" #NT!
+ silverfang_religion_desc: "« Tribu Alpha » de la nation Garou, les Silver Fangs sont des dirigeants traditionnels et des chefs de guerre. Ces nobles Garous sont connus pour leur beauté physique, leur courage et leur honneur. Malheureusement, de nombreux membres plus jeunes de la tribu souffrent d'étranges bizarreries - distraction, légères hallucinations, somnambulisme - rien de ouvertement psychotique, mais néanmoins perceptible." #NT!
+  
+ silverfang: "Crocs d'argent" #NT!
+ silverfang_adj: "Crocs d'argent" #NT!
+ silverfang_adherent: "Croc en argent" #NT!
+ silverfang_adherent_plural: "Crocs d'argent" #NT!
+ silverfang_desc: "« Tribu Alpha » de la nation Garou, les Silver Fangs sont des dirigeants traditionnels et des chefs de guerre. Ces nobles Garous sont connus pour leur beauté physique, leur courage et leur honneur. Malheureusement, de nombreux membres plus jeunes de la tribu souffrent d'étranges bizarreries - distraction, légères hallucinations, somnambulisme - rien de ouvertement psychotique, mais néanmoins perceptible." #NT!
+  
+ sunlodge: "Chalet du Soleil" #NT!
+ sunlodge_adj: "Soleil" #NT!
+ sunlodge_adherent: "Gorgés de soleil" #NT!
+ sunlodge_adherent_plural: "Gorgés de soleil" #NT!
+ sunlodge_desc: "Hélios apporte raison et tact aux loups-garous qui l'honorent. Il apprend aux Garous à tempérer leur instinct et leur Rage par la pensée et la logique. Ainsi, ceux qui le suivent deviennent souvent d’habiles diplomates et négociateurs. Souvent, le plus gros problème dans la conclusion d’une trêve, d’un traité ou d’une alliance est d’amener l’autre partie à écouter les arguments avancés par le personnage. Hélios valorise la vérité et la justice." #NT!
+  
+ moonlodge: "Loge de la Lune" #NT!
+ moonlodge_adj: "Lune" #NT!
+ moonlodge_adherent: "Lunaire" #NT!
+ moonlodge_adherent_plural: "Lunaires" #NT!
+ moonlodge_desc: "Le Moon Lodge est spécialisé dans l'aide au moral du sept et des meutes, tout en entretenant de bonnes relations avec les esprits et en renouvelant la faveur de Luna." #NT!
+  
+ ivorypriesthood: "Prêtrise d'Ivoire" #NT!
+ ivorypriesthood_adj: "Ivoire" #NT!
+ ivorypriesthood_adherent: "Prêtre" #NT!
+ ivorypriesthood_adherent_plural: "Prêtres" #NT!
+ ivorypriesthood_desc: "Moins une faction que les chercheurs arcaniques autoproclamés de la tribu, les Prêtres Ivoire étudient les secrets de la mort et de la vie. Lorsque le Premier Loup est mort pour sauver Gaia, il a appris le « Secret de la Mort ». La Prêtrise d'Ivoire est une société secrète de Fang Theurges qui, après avoir subi une série d'épreuves et de tests spirituels, commencent à apprendre ces mêmes secrets sur ce qui se trouve au-delà du linceul de la Mort." #NT!
+  
+ greyraptors: "Rapaces gris" #NT!
+ greyraptors_adj: "Rapace" #NT!
+ greyraptors_adherent: "Rapace" #NT!
+ greyraptors_adherent_plural: "Rapaces" #NT!
+ greyraptors_desc: "Société de Silver Fangs qui s’efforcent de punir ceux qui insultent ou ignorent le droit ancien de leur tribu à gouverner, les Grey Raptors gardent leur identité secrète, mais leurs actions sont manifestes. La terreur et la torture sont leur pain quotidien dans leur tentative de faire respecter d'anciens serments de fidélité dont peu de Garous en dehors des Crocs se souviennent ou reconnaissent." #NT!
+  
+ mastersoftheseal: "Maîtres du Sceau" #NT!
+ mastersoftheseal_adj: "Joint" #NT!
+ mastersoftheseal_adherent: "Maître" #NT!
+ mastersoftheseal_adherent_plural: "Maîtrise" #NT!
+ mastersoftheseal_desc: "Aucun Enfant de Faucon n'admettrait jamais être membre de ce camp et en accuser un entraînerait une demande de défi honorable. La raison est simple : les Maîtres du Sceau sont tous des voleurs, volant des secrets aux esprits et aux autres tribus. Tout en gardant leur identité secrète, ils divulguent ce qu’ils ont appris aux autres membres de la tribu qui peuvent utiliser ces informations pour promouvoir au mieux l’intérêt commun des Fang." #NT!
+  
+ siberakh: "Sibérie" #NT!
+ siberakh_adj: "Sibérie" #NT!
+ siberakh_adherent: "Sibérie" #NT!
+ siberakh_adherent_plural: "Sibérie" #NT!
+ siberakh_desc: "Les Siberakh, ou Outsiders, comme ils s'appellent eux-mêmes, sont une sous-tribu russe des Garou qui a très peu de contacts avec la nation Garou. Leur Totem est Sable. Les Siberakh descendent des Crocs d'Argent qui ont vu la folie de la consanguinité pour maintenir la pureté de leur sang et ont plutôt choisi des partenaires issus de la souche Wendigo. Ce soir, ils vivent isolés dans les étendues sauvages de la Sibérie, à l'insu des plus Garous ; seuls les Wendigo et Silver Fangs en sont conscients. Alors que les Crocs d'Argent les rejettent en tant que Ronin afin de préserver leurs prétentions sur leur lignée inoxydable, les Wendigo acceptent la réticence des Siberakh à s'impliquer dans la politique de la nation Garou." #NT!
+  
+ stargazer_religion: "Les astronomes" #NT!
+ stargazer_religion_adj: "Les astronomes" #NT!
+ stargazer_religion_adherent: "Observateur d'étoiles" #NT!
+ stargazer_religion_adherent_plural: "Les astronomes" #NT!
+ stargazer_religion_desc: "Solitaires par nature, les Stargazers sont les plus calmes et les plus introvertis des Garous, ainsi que la plus petite des tribus restantes. Toujours étrangers à la nation Garou, ils prétendent être les descendants des adeptes de Klaital Starcatcher, un sage de l'Est qui prêchait la modération et l'harmonie." #NT!
+  
+ stargazer: "Les astronomes" #NT!
+ stargazer_adj: "Les astronomes" #NT!
+ stargazer_adherent: "Observateur d'étoiles" #NT!
+ stargazer_adherent_plural: "Les astronomes" #NT!
+ stargazer_desc: "Solitaires par nature, les Stargazers sont les plus calmes et les plus introvertis des Garous, ainsi que la plus petite des tribus restantes. Toujours étrangers à la nation Garou, ils prétendent être les descendants des adeptes de Klaital Starcatcher, un sage de l'Est qui prêchait la modération et l'harmonie." #NT!
+  
+ heavenlysuccessors: "Successeurs célestes du mangeur de démons" #NT!
+ heavenlysuccessors_adj: "Successeurs" #NT!
+ heavenlysuccessors_adherent: "Successeur" #NT!
+ heavenlysuccessors_adherent_plural: "Successeurs" #NT!
+ heavenlysuccessors_desc: "Considérés par beaucoup comme un culte de l'Apocalypse, les Successeurs se consacrent à vaincre et à détruire les démons qui boivent l'âme de Gaia comme des tumeurs affamées, c'est-à-dire les vampires et autres morts-vivants. Lorsqu’ils ne combattent pas leurs démons, les membres de ce camp sont souvent impossibles à distinguer des autres astronomes. Mais face à leur ennemi, ils revêtent des robes vertes en hommage à Zhong Kuei, le premier d'entre eux, et attaquent avec un fanatisme déterminé." #NT!
+  
+ innerpath: "Chemin intérieur" #NT!
+ innerpath_adj: "Chemin intérieur" #NT!
+ innerpath_adherent: "Éclaireur" #NT!
+ innerpath_adherent_plural: "Explorateurs" #NT!
+ innerpath_desc: "Une faction secrète d'observateurs d'étoiles dédiée à la prise de contrôle des Silver Fangs en manipulant et en façonnant la politique de l'intérieur. Ils croient que quelqu'un doit contrôler les dirigeants Garous fous pour le bien de Gaia et de la Nation dans son ensemble. Ils sont très secrets et opèrent à l’insu de leurs maîtres tribaux. Plutôt que de défier ouvertement les Crocs d’Argent, la Voie Intérieure travaille avec d’autres mécontents au sein de la Nation pour atteindre son objectif." #NT!
+  
+ klaitalpuk: "Klaital Puk" #NT!
+ klaitalpuk_adj: "Pouk" #NT!
+ klaitalpuk_adherent: "Pouk" #NT!
+ klaitalpuk_adherent_plural: "Pouk" #NT!
+ klaitalpuk_desc: "Le camp d'observation des étoiles le plus traditionnel et peut-être celui qui compte le plus de fidèles est le Klaital Puk. Dirigés par une réincarnation de Klaital Star-catcher, le premier Stargazer, les Puk suivent les directives de leur mentor pour cultiver l’illumination. Ils estiment que la compréhension issue de la sagesse originelle doit être plus valorisée que la sagesse issue d’un esprit souillé par le monde moderne." #NT!
+  
+ sacredthread: "Fil sacré" #NT!
+ sacredthread_adj: "Fil sacré" #NT!
+ sacredthread_adherent: "Fil" #NT!
+ sacredthread_adherent_plural: "Sujets" #NT!
+ sacredthread_desc: "Les membres de ce camp estiment que la focalisation de la Nation Garou sur les loups-garous entraînera leur perte, et que ce n'est qu'en combattant le Wyrm là où il vit – dans le cœur et l'esprit de l'humanité – que la guerre pourra être véritablement gagnée. Le Fil Sacré voyage dans les cœurs les plus sombres des populations humaines et agit comme instructeurs, conseillers et mentors pour les personnes qu'ils y trouvent, offrant une éducation de toutes sortes pour aider à renforcer l'esprit humain." #NT!
+  
+ trancerunners: "Coureurs de transe" #NT!
+ trancerunners_adj: "Coureurs" #NT!
+ trancerunners_adherent: "Coureurs" #NT!
+ trancerunners_adherent_plural: "Coureurs" #NT!
+ trancerunners_desc: "Parfois confondu avec les membres de la tribu Silent Strider, ce camp appartient à une tradition ancienne. Lung-gompa – méditation du vent – ​​leur confère les prouesses physiques nécessaires pour accomplir leurs tâches : transmettre des messages, des objets et des secrets de caern en caern ou de cour en cour. Grâce à la méditation et à d’autres pratiques mystiques, ils sont capables d’atteindre la quasi-apesanteur, ce qui leur permet de courir sur l’eau, d’escalader des obstacles imposants et d’accomplir d’autres prouesses de dextérité, de vitesse et d’endurance." #NT!
+  
+ worldtree: "Arbre du monde" #NT!
+ worldtree_adj: "Arbre du monde" #NT!
+ worldtree_adherent: "Arboriculteur" #NT!
+ worldtree_adherent_plural: "Arboriculteurs" #NT!
+ worldtree_desc: "L'Arbre du Monde cherche à répandre l'illumination non seulement parmi les Garous mais aussi parmi les humains, les mages et les races changeantes. Ils voyagent également plus loin que la plupart dans les royaumes de l'esprit, ayant appris à envoyer leur esprit dans l'Umbra Astral à la recherche de connaissances tandis que leur corps reste enraciné à la terre." #NT!
+  
+ zephyr: "Zéphyr" #NT!
+ zephyr_adj: "Zéphyr" #NT!
+ zephyr_adherent: "Zéphyr" #NT!
+ zephyr_adherent_plural: "Zéphyr" #NT!
+ zephyr_desc: "Les membres du Zephyr voyagent parmi les autres Garous, rejoignant des meutes et partageant leur sagesse par l'exemple. L'expérience est leur objectif, car dans ses destins tortueux, ils espèrent acquérir des visions impossibles à obtenir autrement. Certains disent que le Zéphyr a été formé à l'origine autour d'un dojo pour l'entraînement de l'art martial du Kailindo, mais comme les esprits du vent avec lesquels ils communient, ils ne peuvent pas rester longtemps au même endroit et errer avec les tempêtes." #NT!
+  
+ anagamin: "Ana-gamin" #NT!
+ anagamin_adj: "Ana-gamin" #NT!
+ anagamin_adherent: "Ana-gamin" #NT!
+ anagamin_adherent_plural: "Ana-gamin" #NT!
+ anagamin_desc: "Connus sous le nom de « Non-Revenants », certains pensent que les Ana-gamin ne sont qu'une légende. Selon l'histoire racontée, ils acceptent ou kidnappent des membres de la tribu qu'ils estiment dignes de les accompagner dans leurs voyages à travers l'Umbra. Ils cherchent à se libérer des entraves de la réalité et croient que bientôt, tous les astronomes se rendront dans l'Umbra, libérés de leurs chaînes mortelles, et ne reviendront jamais sur terre." #NT!
+  
+ metasticbirth: "Naissance métastique" #NT!
+ metasticbirth_adj: "Métastique" #NT!
+ metasticbirth_adherent: "Sage-femme" #NT!
+ metasticbirth_adherent_plural: "Sages-femmes" #NT!
+ metasticbirth_desc: "Ces observateurs d'étoiles croient que le Wyrm n'est pas en cage, mais dans un cocon en cours de métamorphose, se préparant à une nouvelle réalité née par le Tisserand. Une fois sa métamorphose terminée, il sortira de sa chrysalide et inaugurera le nouveau monde. Les Stargazers qui suivent ce camp pensent que c'est une bonne chose et que la tribu devrait aider les autres à s'y préparer, pas à la combattre." #NT!
+  
+ ouroboroans: "Ouroboriens" #NT!
+ ouroboroans_adj: "Ouroboriens" #NT!
+ ouroboroans_adherent: "Ouroboroen" #NT!
+ ouroboroans_adherent_plural: "Ouroboriens" #NT!
+ ouroboroans_desc: "Ils cherchent à libérer le Wyrm of Balance du Web. Au lieu de lutter contre le Tisserand, ils utilisent leur énergie pour rechercher le Ver sous toutes ses formes dans l'espoir de découvrir le secret pour le libérer. Ce n'est qu'en suivant le Ver jusqu'à sa grotte, plutôt qu'en combattant ses serviteurs, qu'ils sentent qu'ils peuvent réellement influencer l'issue de la Guerre Finale. Par conséquent, certains de ces moines croient que les voies du Wyrm doivent être utilisées et non évitées. Ils empruntent un chemin dangereusement proche du [black_spiral_labyrinth|E]." #NT!
+  
+ ronin_religion: "Rônin" #NT!
+ ronin_religion_adj: "Rônin" #NT!
+ ronin_religion_adherent: "Rônin" #NT!
+ ronin_religion_adherent_plural: "Rônin" #NT!
+ ronin_religion_desc: "Les Ronin sont des loups-garous qui sont, pour une raison ou une autre, des parias de la nation Garou.\nLa plupart des Ronin ont trop souvent enfreint un principe de la Litanie, ont contrarié un ancien ou leur meute et certains ont même choisi cette vie afin d'échapper aux dures et hiérarchiques société des Garous ou parce qu'ils ont été dépassés par Harano. Les Garous ne sont pas des créatures solitaires. Tous les instincts des humains, des loups et des Garous exigent la compagnie des autres membres de leur espèce. En tant que tel, le bannissement des autres membres de sa famille est l’un des jugements les plus terribles auxquels un Garou puisse être confronté." #NT!
+  
+ ronin: "Rônin" #NT!
+ ronin_adj: "Rônin" #NT!
+ ronin_adherent: "Rônin" #NT!
+ ronin_adherent_plural: "Rônin" #NT!
+ ronin_desc: "Les Ronin sont des loups-garous qui sont, pour une raison ou une autre, des parias de la nation Garou.\nLa plupart des Ronin ont trop souvent enfreint un principe de la Litanie, ont contrarié un ancien ou leur meute et certains ont même choisi cette vie afin d'échapper aux dures et hiérarchiques société des Garous ou parce qu'ils ont été dépassés par Harano. Les Garous ne sont pas des créatures solitaires. Tous les instincts des humains, des loups et des Garous exigent la compagnie des autres membres de leur espèce. En tant que tel, le bannissement des autres membres de sa famille est l’un des jugements les plus terribles auxquels un Garou puisse être confronté." #NT!
+  
+ karoush_religion: "Karoush" #NT!
+ karoush_religion_adj: "Karoush" #NT!
+ karoush_religion_adherent: "Karoush" #NT!
+ karoush_religion_adherent_plural: "Karoush" #NT!
+ karoush_religion_desc: "Karoush est le code de lois des chats-garous, semblable à la litanie des Garous. Transmises par leurs ancêtres, ces lois sont plus grandes que n'importe quel Bastet et plus grandes que n'importe quel rang ou titre. Ce sont leurs codes d'honneur, et les Bastet croient qu'ils les séparent de l'humanité, les protégeant des erreurs humaines. Le Karoush est le code élaboré par leurs ancêtres, la Loi de la Lune et du Soleil, la Loi de la Façonnage des Secrets et la Loi du Changement." #NT!
+  
+ karoush: "Karoush" #NT!
+ karoush_adj: "Karoush" #NT!
+ karoush_adherent: "Karoush" #NT!
+ karoush_adherent_plural: "Karoush" #NT!
+ karoush_desc: "Karoush est le code de lois des chats-garous, semblable à la litanie des Garous. Transmises par leurs ancêtres, ces lois sont plus grandes que n'importe quel Bastet et plus grandes que n'importe quel rang ou titre. Ce sont leurs codes d'honneur, et les Bastet croient qu'ils les séparent de l'humanité, les protégeant des erreurs humaines. Le Karoush est le code créé par leurs ancêtres, la loi de la Lune et du Soleil, la loi de la formation des secrets et la loi du changement : honorez-vous, honorez votre parole, honorez vos proches et votre espèce, honorez votre Terre et honorez. Ton silence." #NT!
+  
+ bagheera: "Bagheera" #NT!
+ bagheera_adj: "Bagheera" #NT!
+ bagheera_adherent: "Bagheera" #NT!
+ bagheera_adherent_plural: "Bagheera" #NT!
+ bagheera_desc: "Enfants de Saraam et redoutés en tant que bourreaux de Kali, Bagheera sont des métamorphes qui peuvent prendre la forme de panthères noires. Les Bagheera affirment que lorsque Gaia créait le Bastet, elle espérait que les Bagheera seraient les législateurs de l'espèce féline. Ce rôle ne s'est jamais pleinement matérialisé, mais les traces de l'intention de Gaia persistent encore, les remplissant d'un sens aigu de la justice et d'un esprit de colère juste qui est terrible à voir." #NT!
+  
+ bubasti: "Boubasti" #NT!
+ bubasti_adj: "Boubasti" #NT!
+ bubasti_adherent: "Boubasti" #NT!
+ bubasti_adherent_plural: "Boubasti" #NT!
+ bubasti_desc: "Également connus sous le nom de Shadowcats, ce sont les chats-garous d'Égypte. Mystiques du genre chat, c'est une race timide et secrète. Ils sont cependant parmi les plus sociables des Bastet et ont tendance à travailler en étroite collaboration les uns avec les autres dans la plupart de leurs efforts. Les Bubasti ont été maudits il y a longtemps par l'ancienne divinité vampire Set, et par conséquent, leur vie est à jamais liée aux sols de Khem, leur demeure ancestrale. On dit que si tous les Bubasti d’une génération donnée quittent l’Égypte, cette génération sera la dernière. Personne ne connaît la véracité de cette rumeur, mais personne non plus ne souhaite la tester." #NT!
+  
+ ceilican: "Ceilican" #NT!
+ ceilican_adj: "Ceilican" #NT!
+ ceilican_adherent: "Ceilican" #NT!
+ ceilican_adherent_plural: "Plafonds" #NT!
+ ceilican_desc: "Également appelés Ring Dancers, ils sont originaires du nord de l’Europe et ont des liens étroits avec les faes mais ne sont pas eux-mêmes des faes. Les Ceilican peuvent retracer leur ascendance jusqu'aux lions sans crinière du nord de l'Europe et sont considérés comme des cousins ​​des Simba (bien que chaque Simba serait indigné d'être comparé à l'un des Ring Dancers). Pendant les terreurs de la Guerre de Rage qui détruisit leurs parents, les Ceilican survivants se sont engagés auprès d'un seigneur des Fées, qui les a rapidement réduits en esclavage et les a infectés avec leurs manières mercurielles et même leur faiblesse contre le fer froid." #NT!
+  
+ khan_adj: "Khan" #NT!
+ khan_adherent: "Khan" #NT!
+ khan_adherent_plural: "Khans" #NT!
+ khan_desc: "Les Khan, également connus sous le nom de Bright Kings, sont des tigres-garous et constituent l'une des neuf tribus restantes du Bastet. Ils se considèrent comme les remparts contre les ténèbres, qui sont les créations les plus parfaites de Gaia et, en tant que tels, obligés de protéger tous ceux qui sont inférieurs. Bien qu'ils soient généralement indépendants et asocials comme n'importe quel chat-garou, de nombreux Khan sont alliés aux Tribunaux des Bêtes.\nPeuple honorable, les Khan préfèrent rassembler des connaissances sur les villes oubliées, les enclaves isolées, les villes métropolitaines animées et la vie quotidienne des les lieux où ils vivent." #NT!
+  
+ simba: "Simba" #NT!
+ simba_adj: "Simba" #NT!
+ simba_adherent: "Simba" #NT!
+ simba_adherent_plural: "Simbas" #NT!
+ simba_desc: "Les Simba sont des lion-garous. Ils sont également connus sous le nom de Seigneurs des Lumières du Soleil ou de Rois des Ténèbres. Les Simba représentent ce que Gaia a de mieux à offrir, dans la mesure où ils sont royaux, fiers et puissants sans comparaison. Cependant, ils sont également arrogants, dominateurs et malveillants, même dans le meilleur des cas.\nLes Simba ne sont pas des méchants ; ce sont de magnifiques seigneurs, tueurs de démons. Ils pensent que les choses sont tout simplement hors d’usage. Lorsque l’équilibre sera rétabli, lorsque les humains connaîtront leur place et lorsque les villes deviendront des cimetières, les lions auront raison. Dans l'esprit des Simba, les démons de l'âge des ténèbres remontent à la fin de l'Impergium et au laxisme des races changeantes. Et ils entendent remettre les choses dans l’ordre : si cela nécessite du sang, qu’il en soit ainsi. La guerre est le sport des rois." #NT!
+  
+ swara: "Swara" #NT!
+ swara_adj: "Swara" #NT!
+ swara_adherent: "Swara" #NT!
+ swara_adherent_plural: "Swara" #NT!
+ swara_desc: "Les guépards-garous des tribus Bastet sont également appelés les Silver Folk. Comme leurs congénères, ils sont extrêmement rapides et voyagent beaucoup. Ils ont également un lien unique avec l'Umbra. De toutes les tribus des Bastet, les Swara sont les moins bien comprises. Cela est le résultat de leur culture très isolée. Les Swara sont la seule race de Bastet capable de se déplacer de côté, leur permettant de voyager vers des royaumes de l'Umbra que leurs frères ne peuvent pas atteindre. Certains pensent que cela est le résultat de leur relation étroite avec Luna, que la plupart des Swara vénèrent. Certaines légendes prétendent que c'est un Swara qui a visité la lune pour la première fois à l'époque de l'Impergium, et c'est cela qui leur a appris le sens et l'importance de la guerre contre le Wyrm et à quel point la situation est désastreuse." #NT!
+  
+ ajaba_religion: "Ajaba" #NT!
+ ajaba_religion_adj: "Ajaba" #NT!
+ ajaba_religion_adherent: "Ajaba" #NT!
+ ajaba_religion_adherent_plural: "Ajaba" #NT!
+ ajaba_religion_desc: "Les Ajaba sont des hyènes-garous. Les légendes des Ajaba disent qu'ils sont les homologues africains des Garou, créés pour être les guerriers de Gaia dans un continent sans loups. Cependant, en partie à cause de la division des rôles entre les sexes, les Ajaba ont passé une grande partie de leur histoire à se chamailler. Le trait le plus remarquable des Ajaba est qu'ils sont fortement divisés selon les sexes : les femmes Ajaba sont des guerrières, avec une rage généralement élevée et une gnose inférieure ; les hommes sont des mystiques, avec des tendances opposées. Un petit nombre d'Ajaba naissent avec des traits inversés pour leur sexe et sont considérés comme des présages de grand bien ou de mal." #NT!
+  
+ ajaba: "Ajaba" #NT!
+ ajaba_adj: "Ajaba" #NT!
+ ajaba_adherent: "Ajaba" #NT!
+ ajaba_adherent_plural: "Ajaba" #NT!
+ ajaba_desc: "Les Ajaba sont des hyènes-garous. Les légendes des Ajaba disent qu'ils sont les homologues africains des Garou, créés pour être les guerriers de Gaia dans un continent sans loups. Cependant, en partie à cause de la division des rôles entre les sexes, les Ajaba ont passé une grande partie de leur histoire à se chamailler. Le trait le plus remarquable des Ajaba est qu'ils sont fortement divisés selon les sexes : les femmes Ajaba sont des guerrières, avec une rage généralement élevée et une gnose inférieure ; les hommes sont des mystiques, avec des tendances opposées. Un petit nombre d'Ajaba naissent avec des traits inversés pour leur sexe et sont considérés comme des présages de grand bien ou de mal." #NT!
+  
+  
+  

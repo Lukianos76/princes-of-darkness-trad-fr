@@ -1,0 +1,29 @@
+﻿l_french:
+ traditions_government_opinion: "Règle des traditions [opinion|E]" #NT!
+ free_state_government_opinion: "Souverain de l'État libre [opinion|E]" #NT!
+ august_court_government_opinion: "Règle de la Cour d'août [opinion|E]" #NT!
+ heretical_court_government_opinion: "Chef de cour hérétique [opinion|E]" #NT!
+ hive_mind_government_opinion: "Règle de l'esprit de la ruche [opinion|E]" #NT!
+ hierarchy_government_opinion: "Règle de hiérarchie [opinion|E]" #NT!
+ guild_government_opinion: "Chef de guilde [opinion|E]" #NT!
+ ferryman_government_opinion: "Règle des Passeurs [opinion|E]" #NT!
+ far_shore_government_opinion: "Règle du rivage lointain [opinion|E]" #NT!
+ heretic_government_opinion: "Souverain hérétique [opinion|E]" #NT!
+ renegade_government_opinion: "Règle renégat [opinion|E]" #NT!
+ yellow_springs_government_opinion: "Règle à ressorts jaunes [opinion|E]" #NT!
+ household_government_opinion: "Règle de ménage [opinion|E]" #NT!
+ inquisition_government_opinion: "Règle de l'Inquisition [opinion|E]" #NT!
+ celestial_army_government_opinion: "Souverain de l'Armée Céleste [opinion|E]" #NT!
+ cell_government_opinion: "Règle de cellule [opinion|E]" #NT!
+ litany_government_opinion: "Règle de litanie [opinion|E]" #NT!
+ infernal_court_government_opinion: "Souverain de la Cour Infernale [opinion|E]" #NT!
+ cult_government_opinion: "Règle du culte de la momie [opinion|E]" #NT!
+  
+ free_state_government_tax_contribution_mult: "État libre [vassal|E] [tax|E] [modifier_contribution|E]" #NT!
+ free_state_government_levy_contribution_mult: "État libre [vassal|E] [levy|E] [modifier_contribution|E]" #NT!
+  
+ infernal_court_government_tax_contribution_add: "Cour Infernale [vassal|E] [tax|E] [modifier_base_contribution|E]" #NT!
+ infernal_court_government_tax_contribution_mult: "Cour Infernale [vassal|E] [tax|E] [modifier_contribution|E]" #NT!
+ infernal_court_government_levy_contribution_add: "Cour Infernale [vassal|E] [levy|E] [modifier_base_contribution|E]" #NT!
+ infernal_court_government_levy_contribution_mult: "Cour Infernale [vassal|E] [levy|E] [modifier_contribution|E]" #NT!
+  

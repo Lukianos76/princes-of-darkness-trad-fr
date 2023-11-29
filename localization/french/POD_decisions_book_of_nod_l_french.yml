@@ -1,0 +1,8 @@
+﻿l_french:
+ POD_book_of_nod_decision: "Livre de signe de tête" #NT!
+ POD_book_of_nod_decision_tooltip: "Le Livre de Nod est un artefact important de la tradition caïnite." #NT!
+ POD_book_of_nod_decision_opening_desc: "Vous passerez en revue votre collection de contes du Livre de Nod pour les assembler ou les lire." #NT!
+ POD_book_of_nod_decision_effect_tooltip: "Vous pouvez assembler des parties du Livre de Nod ou lire le texte.\n\nUne collection de textes anciens, considérés comme sacrés pour les Caïnites Noddistes. Il se compose de multiples recensions et fragments qui ont été réassemblés par divers érudits de Kindred. Traditionnellement, la transmission principale de l'histoire de Caïn est orale, tandis que les textes relatant les événements les plus importants de l'histoire caïnite sont étroitement gardés pour protéger les Caïnites. Son auteur est inconnu, bien que Malkav, Saulot et même Caine soient souvent cités pour en avoir écrit des parties, voire la totalité. Certains considèrent que le livre entier est constitué de mythes ou de mensonges, d'une histoire inventée par les vampires pour expliquer leur existence ou d'un outil utilisé pour induire les autres en erreur et les amener à penser et à agir d'une certaine manière. La partie la plus ancienne du Livre est datée juste avant l’époque de Sumer, vers 4 500 avant notre ère." #NT!
+ POD_book_of_nod_decision_confirm: "Considérez le livre de Nod" #NT!
+ POD_book_of_nod_decision_custom_cain: "Vous devez posséder La Chronique de Caïn" #NT!
+ POD_book_of_nod_decision_custom: "Vous devez posséder le [ARTIFACT.GetName]" #NT!

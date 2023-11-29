@@ -1,0 +1,110 @@
+﻿l_french:
+ I_MUST_BE_AT_THE_SAME_LOCATION_TRIGGER: "Vous devez être au même endroit que la victime !" #NT!
+ I_MUST_BE_WITHIN_A_SHORT_DISTANCE_TRIGGER: "Vous devez être à une courte distance de la victime !" #NT!
+ I_MUST_BE_WITHIN_A_MEDIUM_DISTANCE_TRIGGER: "Vous devez être à moyenne distance de la victime !" #NT!
+ I_MUST_BE_WITHIN_A_LONG_DISTANCE_TRIGGER: "Vous devez être à une longue distance de la victime !" #NT!
+ I_MUST_BE_WITHIN_A_GREAT_DISTANCE_TRIGGER: "Vous devez être à une grande distance de la victime !" #NT!
+  
+ NOT_has_any_bad_relationship: "Vous ne devez #Bold pas#! entretenir de mauvaises relations avec la cible." #NT!
+  
+ POD_interaction_scheme_attack: "Essayez de le faire en planifiant" #NT!
+ POD_interaction_duel_attack: "Essayez de le faire par la force" #NT!
+ POD_interaction_automatic: "Essayez de le faire tout en contrôlant la cible." #NT!
+ POD_pay_travel_cost_tooltip: "Payer des frais de déplacement" #NT!
+ POD_power_attack_toast: "Vous avez été supprimé !" #NT!
+  
+ POD_train_perk_interaction: "Entraîner la compétence" #NT!
+ POD_train_perk_interaction_desc: "Enseignez à [recipient.GetFirstName] une de vos compétences" #NT!
+  
+ EXECUTION_DIABLERIE: "[diablerie|E]" #NT!
+ EXECUTION_EXSANGUINATION: "Exsanguination" #NT!
+ EXECUTION_SPIRIT_EATING: "Manger des esprits" #NT!
+ EXECUTION_CONVERT_TO_WRAITH: "Convertir en Wraith" #NT!
+ EXECUTION_BANISH_TO_TEMPEST: "Bannir au [GetPlayer.Custom( 'tempest_custom_name' )]" #NT!
+ EXECUTION_UNMAKING: "Effacer de l'existence" #NT!
+ EXECUTION_FILL_JARS: "Remplit les pots canopes" #NT!
+ execution_fill_jars_tooltip: "Asekh-Sen peut tuer une momie et remplir certains de ses organes internes dans des bocaux canopes pour gagner une vie supplémentaire." #NT!
+ EXECUTION_DEVOUR_SOUL: "Dévorer l'âme" #NT!
+ EXECUTION_ABSORB_THE_MIND: "Absorber l'esprit" #NT!
+ EXECUTION_EVAPORATION: "Évaporer" #NT!
+ EXECUTION_SACRIFICE_TO_DEMON: "Sacrifice à un patron démoniaque" #NT!
+ EXECUTION_SOULTAKER: "Sacrifice à Soultaker" #NT!
+ EXECUTION_COLOSSEUM: "Nourrir les animaux sauvages du Colisée" #NT!
+ soultaker_betray: "Soultaker vous a trahi : un esprit assez fort est entraîné dans l'épée et imprime son propre agenda dans l'esprit-ruche fou de Legion." #NT!
+ used_spirit_eating: "#V Spirit Eating#! est en temps de recharge" #NT!
+ execution_spirit_eating_tooltip: "#V Spirit Eating#! sera en temps de recharge pendant #V 3#! ans." #NT!
+ used_absorb_the_mind: "#V Absorber l'esprit#! est en temps de recharge" #NT!
+ execution_absorb_the_mind_tooltip: "#V Absorber l'esprit#! sera en temps de recharge pendant #V 3#! ans." #NT!
+ used_devour_soul: "#V Devour Soul#! est en temps de recharge" #NT!
+ execution_devour_soul_tooltip: "#V Devour Soul#! sera en temps de recharge pendant #V 3#! ans." #NT!
+  
+ POD_ask_reweave_interaction: "Demander à retisser" #NT!
+ POD_ask_reweave_interaction_desc: "Demandez à [recipient.GetFirstName] de retisser vos pièces d'artefact collectées dans le Maelström." #NT!
+ NOT_POD_has_equipped_artifact_pieces: "Avoir équipé au moins deux pièces d'artefact dans l'emplacement du bijou." #NT!
+  
+ POD_do_not_disturb_text: "Ce personnage ne peut être réveillé que par des événements apocalyptiques." #NT!
+  
+ convert_to_government_interaction: "Adopter un gouvernement" #NT!
+ convert_to_government_interaction_desc: "Convertir en [recipient.GetShortUINamePossessiveNoTooltip] [government|E]" #NT!
+  
+ demand_conversion_government_interaction: "Exigez la conversion du gouvernement" #NT!
+ demand_conversion_government_interaction_desc: "Exigez que [recipient.GetShortUINameNoTooltip] soit converti en votre [government|E]" #NT!
+  
+ POD_heal_scarred: "Cicatrices" #NT!
+ POD_heal_wounded: "Blessant" #NT!
+ POD_heal_maimed: "Mutiler" #NT!
+ POD_heal_blind: "Cécité" #NT!
+ POD_heal_one_eyed: "Cécité partielle" #NT!
+ POD_heal_one_legged: "Jambe manquante" #NT!
+ POD_heal_infertile: "Infertile" #NT!
+ POD_heal_disfigured: "Défiguration" #NT!
+ POD_heal_ill: "Maladie" #NT!
+ POD_heal_disease: "Maladie" #NT!
+ POD_heal_scaly: "Squameux" #NT!
+ POD_heal_clubfooted: "Pied bot" #NT!
+ POD_heal_wheezing: "Une respiration sifflante" #NT!
+ POD_heal_bleeder: "Saigneur" #NT!
+ POD_heal_eunuch: "Castration" #NT!
+ POD_heal_weak: "Faible" #NT!
+ POD_heal_lisping: "Zézaiement" #NT!
+ POD_heal_stuttering: "Bégaiement" #NT!
+ POD_heal_hunchbacked: "Bossu" #NT!
+ POD_heal_impotent: "Impuissant" #NT!
+ POD_heal_infirm: "Infirmité" #NT!
+ POD_heal_incapable: "Invalidité" #NT!
+ POD_heal_inbred: "Inné" #NT!
+  
+ He_must_be_my_friend: "Ce personnage doit être mon ami, amant ou âme sœur" #NT!
+ NOT_He_must_be_my_friend: "Ce personnage doit être mon ami, amant ou âme sœur" #NT!
+  
+ POD_shapeshift_interaction_immortal_age: "Mouler pour paraître plus jeune ou plus vieux" #NT!
+  
+ POD_num0: "None" #NT!
+ POD_num1: "None" #NT!
+ POD_num2: "None" #NT!
+ POD_num3: "None" #NT!
+ POD_num4: "None" #NT!
+ POD_num5: "None" #NT!
+ POD_num6: "None" #NT!
+ POD_num7: "None" #NT!
+ POD_num8: "None" #NT!
+ POD_num9: "None" #NT!
+ POD_num10: "None" #NT!
+ POD_num11: "None" #NT!
+ POD_num12: "None" #NT!
+ POD_num13: "None" #NT!
+ POD_num14: "None" #NT!
+ POD_num15: "None" #NT!
+ POD_num16: "None" #NT!
+ POD_num17: "None" #NT!
+ POD_num18: "None" #NT!
+ POD_num19: "None" #NT!
+ POD_num20: "None" #NT!
+  
+ POD_train_magic_interaction: "Entraîner la magie" #NT!
+ POD_train_magic_interaction_desc: "Apprenez au [recipient.GetFirstName] une de vos sphères." #NT!
+  
+ POD_need_non_servant_hook: "Vous ne pouvez pas pardonner les crochets à vos serviteurs volontaires" #NT!
+  
+ COMPEL_INVITE: "Obliger : $VALUE|=+0$" #NT!
+  

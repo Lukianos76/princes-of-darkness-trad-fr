@@ -1,0 +1,115 @@
+﻿l_french:
+ game_concept_lore_lifestyle: "Traditions" #NT!
+ game_concept_lore_lifestyle_desc: "Les savoirs sont les restes des capacités divines que les démons possédaient en tant qu'Elohim." #NT!
+  
+ lore_lifestyle_name: "Traditions" #NT!
+ lore_lifestyle_desc: "Concentrez-vous sur les pouvoirs qui proviennent des restes des capacités divines." #NT!
+ lore_lifestyle_highlight_desc: "Parce que vous résolvez, vous gagnez #P [GetPlayer.Custom('GetDemonicLifestylePercentageBoost')]#! de plus [experience|E] dans ce style de vie." #NT!
+ monthly_lore_lifestyle_xp_gain_mult: "Connaissance mensuelle [lifestyle|E] [experience|E]" #NT!
+  
+ lore_common_focus: "Focus sur les traditions communes" #NT!
+ lore_common_focus_modifier: "[GetFocus('lore_common_focus').GetName]" #NT!
+ lore_common_focus_desc: "Des secrets rassemblés de l'univers, des évocations qui englobent les fondements de la réalité et régissent les forces qui la maintiennent en mouvement." #NT!
+ lore_common_focus_effect_desc: "Se concentrer sur les subventions Common Lore :" #NT!
+  
+ lore_earthbound_focus: "Concentration sur l'histoire terrestre" #NT!
+ lore_earthbound_focus_modifier: "[GetFocus('lore_earthbound_focus').GetName]" #NT!
+ lore_earthbound_focus_desc: "Au fil des millénaires, les Terriens ont développé de nouveaux corps de Lores, des pouvoirs blasphématoires qui leur permettent de contrôler la Création d'une manière que Dieu n'a jamais voulue." #NT!
+ lore_earthbound_focus_effect_desc: "Se concentrer sur les subventions Earthbound Lore :" #NT!
+  
+ GAINS_LORE_LIFESTYLE_XP: "Gains $VALUE|V0$ [lore_lifestyle|E] d'expérience" #NT!
+ GAINED_LORE_LIFESTYLE_XP: "Expérience $VALUE|V0$ [lore_lifestyle|E] acquise" #NT!
+ I_GAIN_LORE_LIFESTYLE_XP: "Vous gagnez $VALUE|V0$ [lore_lifestyle|E] d'expérience" #NT!
+ I_GAINED_LORE_LIFESTYLE_XP: "Vous avez gagné $VALUE|V0$ [lore_lifestyle|E] d'expérience" #NT!
+ TARGET_GAINS_LORE_LIFESTYLE_XP: "[CHARACTER.GetShortUIName] gagne $VALUE|V0$ [lore_lifestyle|E] Expérience" #NT!
+ TARGET_GAINED_LORE_LIFESTYLE_XP: "[CHARACTER.GetShortUIName] gagné $VALUE|V0$ [lore_lifestyle|E] Expérience" #NT!
+  
+ GAINS_A_LORE_LIFESTYLE_PERKPOINT: "Gains $VALUE|V0$ [lore_lifestyle|E] [perk|E] Débloqué" #NT!
+ GAINED_A_LORE_LIFESTYLE_PERKPOINT: "Gagné $VALUE|V0$ [lore_lifestyle|E] [perk|E] Débloqué" #NT!
+ I_GAIN_A_LORE_LIFESTYLE_PERKPOINT: "Vous gagnez $VALUE|V0$ [lore_lifestyle|E] [perk|E] Déverrouillage" #NT!
+ I_GAINED_A_LORE_LIFESTYLE_PERKPOINT: "Vous avez gagné $VALUE|V0$ [lore_lifestyle|E] [perk|E] Déverrouillage" #NT!
+ TARGET_GAINS_A_LORE_LIFESTYLE_PERKPOINT: "[CHARACTER.GetShortUIName] gains $VALUE|V0$ [lore_lifestyle|E] [perk|E] Déverrouillage" #NT!
+ TARGET_GAINED_A_LORE_LIFESTYLE_PERKPOINT: "[CHARACTER.GetShortUIName] gagné $VALUE|V0$ [lore_lifestyle|E] [perk|E] Débloqué" #NT!
+  
+ LORE_LIFESTYLE_PERK_POINTS_TRIGGER: "Points d'avantages du style de vie Lore : $NUM|V0$" #NT!
+  
+ NOT_has_earthbound_trait: "@warning_icon !#X Vous n'avez pas #bold#! le [trait|E] : [GetTrait('earthbound').GetName( GetPlayer )]#!" #NT!
+  
+ LACKS_LOW_PIETY_LEVEL: "@warning_icon !#X Votre [piety_level|E] est #bold et non#! [GetModifier( 'piety_level_1' ).GetNameWithTooltip|L] ou supérieur#!" #NT!
+ LACKS_MEDIUM_PIETY_LEVEL: "@warning_icon !#X Votre [piety_level|E] est #bold et non#! [GetModifier( 'piety_level_2' ).GetNameWithTooltip|L] ou supérieur#!" #NT!
+ LACKS_HIGH_PIETY_LEVEL: "@warning_icon !#X Votre [piety_level|E] est #bold et non#! [GetModifier( 'piety_level_3' ).GetNameWithTooltip|L] ou supérieur#!" #NT!
+ LACKS_VERY_HIGH_PIETY_LEVEL: "@warning_icon !#X Votre [piety_level|E] est #bold et non#! [GetModifier( 'piety_level_4' ).GetNameWithTooltip|L] ou supérieur#!" #NT!
+ LACKS_MAX_PIETY_LEVEL: "@warning_icon !#X Votre [piety_level|E] est #bold et non#! [GetModifier( 'piety_level_5' ).GetNameWithTooltip|L]#!" #NT!
+  
+ full_fundament_tooltip: "Vous gagnez l’intégralité de l’arbre Connaissance de l’Arbre Fondamental." #NT!
+ full_humanity_tooltip: "Vous gagnez l’arbre complet Connaissance de l’humanité." #NT!
+ full_chaos_tooltip: "Vous gagnez l’arbre complet Connaissance du Chaos." #NT!
+ full_contamination_tooltip: "Vous gagnez l’arbre complet Connaissance de la contamination." #NT!
+ full_violation_tooltip: "Vous obtenez l’arbre complet Connaissance des violations." #NT!
+  
+ fundament_visible: "Fondement" #NT!
+ humanity_visible: "Humanité" #NT!
+ chaos_visible: "Chaos" #NT!
+ contamination_visible: "Contamination" #NT!
+ violation_visible: "Violation" #NT!
+  
+ manipulate_gravity_perk_name: "Manipuler la gravité" #NT!
+ manipulate_adhesion_perk_name: "Manipuler l'adhésion" #NT!
+ manipulate_inertia_perk_name: "Manipuler l'inertie" #NT!
+ manipulate_acceleration_perk_name: "Manipuler l'accélération" #NT!
+ manipulate_cohesion_perk_name: "Manipuler la cohésion" #NT!
+  
+ MANIPULATE_GRAVITY_PERK_EFFECT: "Donnez aux commandants ennemis [GetModifier('high_gravity_modifier').GetNameWithTooltip] et aux commandants alliés [GetModifier('low_gravity_modifier').GetNameWithTooltip] un modificateur lorsqu'ils sont en guerre en tant que commandant.\n#F Les morts peuvent sauter d'énormes distances, planer ou tomber sans être blessés.#!" #NT!
+ MANIPULATE_ADHESION_PERK_EFFECT: "Donnez aux commandants ennemis [GetModifier('low_adhesion_modifier').GetNameWithTooltip] et aux commandants alliés [GetModifier('high_adhesion_modifier').GetNameWithTooltip] un modificateur lorsqu'ils sont en guerre en tant que commandant.\n#F Les morts peuvent marcher sur les murs ou le long des plafonds, ou s'accrocher aux objets.#!" #NT!
+ MANIPULATE_INERTIA_PERK_EFFECT: "Donnez [GetModifier('protection_from_projectile_modifier').GetNameWithTooltip] modificateur à l'allié [knights|E] en guerre en tant que commandant ou à vous-même en [single_combat_duel|E].\nChance bonus de mutiler ou de blesser un ennemi [knights|E] en guerre en tant que [knight|E].\nDébloquez [single_combat_duel|E] mouvements.\n#F Les Déchus peut lancer des objets sur des distances énormes, ou simplement arrêter les attaques.#!" #NT!
+ MANIPULATE_ACCELERATION_PERK_EFFECT: "Donnez [GetModifier('momentum_boost_modifier').GetNameWithTooltip] modificateur à votre allié [knights|E] en guerre en tant que commandant ou à vous-même en [single_combat_duel|E].\nChance bonus de mutiler ou de malmener un ennemi [knights|E] en guerre en tant que [knight|E].\nDébloquez [single_combat_duel|E] mouvements.\n#F Les Déchus peuvent se déplacer à une vitesse aveuglante et consacrer leur élan à des attaques dévastatrices au corps à corps.#!" #NT!
+ MANIPULATE_COHESION_PERK_EFFECT: "Débloquez l'option $EXECUTION_EVAPORATION$ [execution|E].\nChance bonus de tuer ou de mutiler un ennemi [knights|E] en guerre en tant que [knight|E].\nDébloquez les mouvements [single_combat_duel|E].\n#F Les Déchus peuvent modifier la densité de la matière, leur permettant de marcher sur l'eau. ou évaporer la pierre ou même la chair.#!" #NT!
+  
+ translate_perk_name: "Traduire" #NT!
+ insinuate_perk_name: "Insinuer" #NT!
+ fade_perk_name: "Disparaître" #NT!
+ confession_perk_name: "Confession" #NT!
+ alter_memory_perk_name: "Modifier la mémoire" #NT!
+  
+ TRANSLATE_PERK_EFFECT: "#F Cette évocation établit une connexion linguistique entre le démon et un destinataire humain.#!" #NT!
+ INSINUATE_PERK_EFFECT: "[white_peace|E] Acceptation : #P +10#!\n[alliance|E] Acceptation de négociation : #P +25#!\n$PERK_CAN_SIGN_ALLIANCE$\nUnlocks le $purchase_truce_interaction$ [interaction|E].\n#F Cette évocation permet au démon de briser subtilement et rapidement les limites personnelles d'un humain.#!" #NT!
+ FADE_PERK_EFFECT: "En tant que [character_interaction|E], vous permet de rompre une alliance entre deux cibles.\nEn tant que [character_interaction|E], vous permet d'annuler une trêve contre une cible.\nEn tant que [character_interaction|E], vous permet de mettre fin à tous les stratagèmes contre une cible.\n#F Ceci l'évocation permet au démon de tromper l'esprit d'un grand nombre de personnes pour qu'il devienne surnaturellement obscurci ou oubliable.#!" #NT!
+ CONFESSION_PERK_EFFECT: "[espionage|E] Vitesse de progression : #P +[EmptyScope.ScriptValue('digging_for_dirt_perk_percentage')|0]%#!\n#F Les Déchus peuvent amener les mortels à révéler leurs secrets les plus intimes et les mortels ne se souviendront même pas d'avoir confié leur cœur au démon.#!" #NT!
+ CONFESSION_PERK_BONUS_VALUE: "[GetPerk('confession_perk').GetName(GetPlayer)]" #NT!
+ ALTER_MEMORY_PERK_EFFECT: "En tant que deux [character_interaction|E], vous permet de supprimer un droit de la cible sur votre titre ou artefact.\nDébloque le [buy_artifact_claim_interaction|E].\n[buy_claim_interaction|E] et [buy_artifact_claim_interaction|E] Coût : #P -50 %#!\n#F Le Déchu peut altérer les souvenirs d'un mortel. de la manière souhaitée.#!" #NT!
+  
+ reality_tremors_perk_name: "Tremblements de réalité" #NT!
+ sphere_of_chaos_perk_name: "Sphère du chaos" #NT!
+ wave_of_mutilation_perk_name: "Vague de mutilation" #NT!
+ summon_outsider_perk_name: "Invoquer un étranger" #NT!
+ hell_on_earth_perk_name: "Enfer sur Terre" #NT!
+  
+ REALITY_TREMORS_PERK_EFFECT: "Autoriser la libération [GetModifier('reality_tremors_modifier').GetNameWithTooltip] sur le royaume cible.\n#F Le Earthbound crée un effet dérangeant mais largement cosmétique dans une zone.#!" #NT!
+ SPHERE_OF_CHAOS_PERK_EFFECT: "Autoriser la libération [GetModifier('sphere_of_chaos_modifier').GetNameWithTooltip] sur le royaume cible.\n#F Le Earthbound suspend temporairement les lois de cause à effet dans une zone.#!" #NT!
+ WAVE_OF_MUTILATION_PERK_EFFECT: "Autoriser la libération [GetModifier('wave_of_mutilation_modifier').GetNameWithTooltip] sur le royaume cible.\n#F Le Earthbound imprègne toute chair vivante à proximité d'énergies chaotiques, activant les neurones au hasard et déclenchant des émotions aléatoires grâce à une chimie cérébrale déséquilibrée.#!" #NT!
+ SUMMON_OUTSIDER_PERK_EFFECT: "Autoriser la destruction de la baronnie du comté cible.\nPeut recruter [GetMaA('the_unnamable').GetName] en tant que [men_at_arms|E].\n#F Le Terrien invoque quelque chose de l'extérieur de la Création.#!" #NT!
+ HELL_ON_EARTH_PERK_EFFECT: "Autoriser la libération [GetModifier('hell_on_earth_modifier').GetNameWithTooltip] sur le royaume cible.\n#F Cette évocation invoque une apocalypse miniature.#!" #NT!
+  
+ create_proxy_perk_name: "Créer un proxy" #NT!
+ lash_of_corruption_perk_name: "Fouet de corruption" #NT!
+ taint_the_land_perk_name: "Entacher la terre" #NT!
+ corrupt_relic_perk_name: "Relique corrompue" #NT!
+ unspeakable_servitor_perk_name: "Serviteur indescriptible" #NT!
+  
+ CREATE_PROXY_PERK_EFFECT: "En tant que [character_interaction|E], vous permet d'infliger à la cible une blessure dont la gravité dépend de la rareté de l'artefact du destinataire revendiqué.\n#F Le Earthbound transforme un objet en un nœud à travers lequel il peut ensuite utiliser sa perception et ses pouvoirs.§ _2" #NT!
+ LASH_OF_CORRUPTION_PERK_EFFECT: "Chance supplémentaire de tuer un ennemi [knights|E] en guerre en tant que [knight|E].\n#F Les Terriens insufflent leurs énergies à une créature, la blessant et éventuellement la tuant.#!" #NT!
+ TAINT_THE_LAND_PERK_EFFECT: "Donnez au comté cible [GetModifier('earthbound_negative_modifier').GetNameWithTooltip] si son détenteur est en guerre avec vous lorsque vous y déplacez votre armée en tant que commandant.\n#F Les Earthbound insufflent leur essence dans une zone, lui donnant vie et attaquant les intrus.#!" #NT!
+ CORRUPT_RELIC_PERK_EFFECT: "En tant que [character_interaction|E], vous permet de créer un artefact personnalisé.\n#F Cette évocation permet aux Terriens de créer des artefacts magiques.#!" #NT!
+ UNSPEAKABLE_SERVITOR_PERK_EFFECT: "En tant que [character_interaction|E], vous permet de créer un [GetTrait('statue').GetName( GetPlayer )] de vous-même pour combattre dans les guerres et vous permet de devenir un commandant même lié à la Terre.\n#F Les Terriens demandent à leurs serviteurs de créer une statue qu'ils peuvent utiliser comme objet temporaire. corps hôte au lieu d’un corps vivant.#!" #NT!
+  
+ nightmare_sending_perk_name: "Envoi de cauchemar" #NT!
+ mind_rape_perk_name: "Viol mental" #NT!
+ visions_of_terror_perk_name: "Visions de terreur" #NT!
+ enslave_perk_name: "Asservir" #NT!
+ devour_the_soul_perk_name: "Dévorer l'âme" #NT!
+  
+ NIGHTMARE_SENDING_PERK_EFFECT: "#F Cette évocation permet aux Terriens d'envoyer des messages dans les rêves des mortels endormis.#!" #NT!
+ MIND_RAPE_PERK_EFFECT: "En tant que [character_interaction|E], vous permet de connaître tous les secrets et schémas de la cible.\n#F Cette évocation permet aux Terriens de sonder l'esprit d'un mortel qu'ils peuvent voir, en analysant leurs pensées et leurs souvenirs à la recherche d'informations.#!" #NT!
+ VISIONS_OF_TERROR_PERK_EFFECT: "#F Cette évocation projette des visions terrifiantes dans l'esprit d'un ou plusieurs mortels.#!" #NT!
+ ENSLAVE_PERK_EFFECT: "En tant que [character_interaction|E], vous permet d'obtenir un crochet de la cible.\n#F Avec cette évocation, un Terrien peut contrôler complètement l'esprit et le corps d'un mortel, lui faisant faire et dire tout ce que le Terrien souhaite.#!" #NT!
+ DEVOUR_THE_SOUL_PERK_EFFECT: "Bonus à l'option $EXECUTION_DEVOUR_SOUL$ [execution|E], vous permet de dévorer l'esprit de la cible pour augmenter votre éducation ou un attribut.\n#F Avec cette évocation, un Terrien peut arracher l'âme d'un mortel vivant et la dévorer, le drainant de son énergie, des souvenirs et même une foi précieuse.#!" #NT!

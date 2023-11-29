@@ -1,0 +1,70 @@
+﻿l_french:
+ WoK_target_loc: "Cible:" #NT!
+ WoK_reward_loc: "Récompense:" #NT!
+ WoK_contractor_loc: "Prestataire:" #NT!
+ WoK_title_loc: "#T Toile de couteaux#!" #NT!
+ WoK_out_range_loc: "Spectacle hors de portée diplomatique" #NT!
+  
+ kill_reward: "Contrat terminé" #NT!
+ target_killed_pay: "Un assassin a tué votre cible" #NT!
+ chase_bounty: "Supprimer le contrat" #NT!
+ chase_bounty_action: "Éliminer" #NT!
+ chase_bounty_desc: "Traquez et trouvez la cible lorsqu'elle est seule, puis lancez un combat singulier contre elle afin de terminer votre contrat et réclamer la récompense." #NT!
+ CHASE_BOUNTY_SUCCESS_DESC: "Vous trouvez et attaquez la cible." #NT!
+ CHASE_BOUNTY_DISCOVERY_DESC: "Ils découvrent votre mission." #NT!
+ chase_bounty_thier_prowess: "Leurs prouesses" #NT!
+ chase_bounty_my_prowess: "Mes prouesses" #NT!
+ chase_bounty_desc_general: "Traquez et trouvez la cible lorsqu'elle est seule, puis lancez un combat singulier contre elle afin de terminer votre contrat et réclamer la récompense." #NT!
+ POD_chase_bounty_interaction_desc: "Chassez la cible pour gagner la prime !" #NT!
+  
+ POD_web_of_knives.1.t: "Épreuve de compétence" #NT!
+ POD_web_of_knives.1.desc: "Vous avez été contacté par l'un des recruteurs insaisissables de Web of Knives. Il y aura trois essais sous sa supervision et le premier sera un « simple » test d'adresse contre lui. À l’aide de l’épée ou de l’intrigue, vous devrez l’impressionner suffisamment pour que le processus continue. Vous avez le choix entre ces deux types de compétences d'assassin à démontrer." #NT!
+ POD_web_of_knives.1.a: "L'épée" #NT!
+ POD_web_of_knives.1.effect.success.desc: "Vous avez triomphé !" #NT!
+ POD_web_of_knives.1.critical.failure.effect.desc: "Vous avez été vaincu..." #NT!
+ POD_web_of_knives.1.b: "Les intrigues sont mon point fort" #NT!
+ POD_web_of_knives.1.c: "Je ne suis pas encore prêt" #NT!
+ web_setback_tooltip: "Vous abandonnez le procès pour le moment. Vous pourrez y revenir." #NT!
+ POD_web_of_knives.1.d: "C'est bien trop dur !" #NT!
+ web_ending_tooltip: "Vous abandonnez le procès et coupez tous les liens que vous aviez avec le Web. Vous ne pourrez plus les contacter à l'avenir." #NT!
+  
+ POD_web_of_knives.3.t: "Épreuve : Vaincu" #NT!
+ POD_web_of_knives.3.desc: "Vous avez été jugé indigne lors du procès. Le Web of Knives ne fonctionnera pas avec vous pour le moment et vous devrez attendre un certain temps avant de réessayer, si c'est quelque chose que vous souhaitez même envisager. Mais rien de véritable valeur n’a été perdu, à l’exception d’un peu de fierté." #NT!
+ POD_web_of_knives.3.a: "La prochaine fois, je serai prêt" #NT!
+ web_trial_failure_tooltip: "Vous pourrez réessayer dans 5 ans" #NT!
+ POD_web_of_knives.3.b: "Ces fous ne valent pas mon temps !" #NT!
+  
+ POD_web_of_knives.2.t: "L'épreuve de l'humanité" #NT!
+ POD_web_of_knives.2.desc: "Le deuxième essai est en réalité assez simple. Vous devez tuer le mortel spécifique présenté devant vous. Aucune réponse à des questions, aucune raison donnée.\nJuste un meurtre insensé.\nDe toute évidence, ils testent si vous êtes capable de suivre les ordres, aussi brutaux ou idiots qu'ils puissent paraître. Ils jugent également probablement vos limites morales, car les membres du Web sont connus pour être des vampires très inhumains." #NT!
+ POD_web_of_knives.2.a: "C'est un meurtre insensé" #NT!
+ POD_web_of_knives.2.b: "Cela va trop loin... pour l'instant" #NT!
+ POD_web_of_knives.2.c: "Cela va trop loin !" #NT!
+  
+ POD_web_of_knives.5.t: "L'épreuve de la foi" #NT!
+ POD_web_of_knives.5.desc: "Le dernier procès est en réalité plus un gage qu’autre chose. La Toile des Couteaux croit en un conte fantaisiste dans lequel Haqim s'est embrassé pour lutter contre les « Enfants damnés de Khayyin ». Toute leur histoire d'assassins n'est qu'une façade pour tuer autant de [cainites|E] que possible en toute impunité et s'emparer lentement de l'ensemble de leur [Clan|E].\nDe toute évidence, ils sont déments et délirants... n'est-ce pas ? Peut-être qu'il y a quelque chose dans cette secte de meurtriers impénitents et sanglants qui vous attire. Ou vous pourriez simplement faire semblant de croire à leurs histoires fantaisistes... mais ils seraient clairement gravement offensés s'ils le découvraient un jour." #NT!
+ POD_web_of_knives.5.a: "Gloire à Haqim !" #NT!
+ POD_web_of_knives.5.b: "Gloire à Haqim..." #NT!
+ POD_web_of_knives.5.effect.success.desc: "Ils vous croient !" #NT!
+ POD_web_of_knives.5.success: "Tu es dans!" #NT!
+ POD_web_of_knives.5.critical.failure.effect.desc: "Ils ne te croient pas..." #NT!
+ POD_web_of_knives.5.critical.failure: "Ne faites pas confiance aux sectes" #NT!
+ POD_web_of_knives.5.c: "Je dois poliment refuser" #NT!
+ join_web_tooltip: "Vous rejoindrez le Web et aurez accès à un nouveau panel avec des contrats à remplir" #NT!
+  
+ web_of_knives_intro: "Vous pouvez tuer les cibles par tous les moyens." #NT!
+ web_of_knives_intro2: "Vous obtenez un contrat de poursuite [interaction|E] se terminant par un duel mortel avec eux." #NT!
+  
+ POD_web_of_knives.6.t: "Assassin!" #NT!
+ POD_web_of_knives.6.desc: "Cela fait déjà un moment que vous étudiez votre cible, apprenez ses habitudes, ses forces et surtout ses faiblesses. Les vampires sont des créatures paranoïaques par nature, et il est souvent assez difficile de trouver un moment dans le temps où l'acte peut être accompli, mais votre reconnaissance approfondie a réussi à trouver une telle opportunité.\nSautant de l'ombre, vous frappez le premier. Un seul d’entre vous sortira vivant de cette rencontre." #NT!
+ POD_web_of_knives.6.a: "La mort vient pour toi !" #NT!
+ web_of_knives_diablerie_tt: "Au lieu de simplement tuer la cible à la fin du duel, vous effectuerez plutôt un [diablerie|E]." #NT!
+ POD_web_of_knives.6.b: "Ton âme est mienne!" #NT!
+  
+ POD_web_of_knives.7.t: "La toile de couteaux" #NT!
+ POD_web_of_knives.7.desc: "Les Enfants de Haqim ont une longue tradition, bien que vivement débattue en interne, d'agir comme mercenaires ou tueurs à louer pour d'autres vampires. Organisés sous la faction secrète Web of Knives, ces contrats apportent une grande richesse (et des opportunités de [diablerie|E] pour les moins scrupuleux) à l'aventurier Banu Haqim. Bien qu'aucun membre du clan ne soit obligé de suivre cette pratique, la plupart d'entre eux s'y mêlent au moins, au moins pour renforcer les idées fausses des autres vampires selon lesquelles les Banu Haqim sont tous des tueurs assoiffés de sang avec lesquels il ne faut pas se mêler.\n § _1 La toile de couteaux est une caractéristique déterminante des Banu Haqim. Si les vampires de votre région mettent à prix la tête de quelqu'un d'autre, vous pouvez le poursuivre avec une interaction spéciale (ou simplement utiliser d'autres moyens de meurtre) pour être payé. Vous pouvez accéder aux contrats potentiels dans un onglet à droite de votre écran.#!" #NT!
+ POD_web_of_knives.7.a: "Une réputation utile à entretenir." #NT!
+  
+ POD_web_of_knives.600.t: "Diablerie!" #NT!
+ POD_web_of_knives.600.desc: "Non seulement tuer mais dévorer l’âme d’un autre être est l’une des actions les plus odieuses possibles. La plupart des parents considèrent cela comme le pire des crimes. Pourtant, la bête ne désire rien de plus.\n\nEnfin, la cible entre mes griffes. Est-ce que je les draine jusqu’au cœur de leur être ? Est-ce que je bois le sang de leur cœur ? Est-ce que je les prends tous ?" #NT!
+ POD_web_of_knives.600.option.a: "Dévorez leur âme !" #NT!
+  

@@ -1,0 +1,207 @@
+﻿l_french:
+ sekhem0_modifier: "Sekhem 0" #NT!
+ sekhem1_modifier: "Sékhem 1" #NT!
+ sekhem2_modifier: "Sékhem 2" #NT!
+ sekhem3_modifier: "Sékhem 3" #NT!
+ sekhem4_modifier: "Sékhem 4" #NT!
+ sekhem5_modifier: "Sékhem 5" #NT!
+ sekhem6_modifier: "Sékhem 6" #NT!
+ sekhem7_modifier: "Sékhem 7" #NT!
+ sekhem8_modifier: "Sékhem 8" #NT!
+ sekhem9_modifier: "Sékhem 9" #NT!
+ sekhem10_modifier: "Sékhem 10" #NT!
+  
+ cloud_of_smoke_modifier: "Nuage de fumée" #NT!
+ drink_of_seven_days_rest_modifier: "Boisson de sept jours de repos" #NT!
+ mild_poison_modifier: "Poison léger" #NT!
+ potion_of_resilience_modifier: "Potion de résilience" #NT!
+ simple_elixir_modifier: "Élixir simple" #NT!
+ simple_elixir_diplomacy_modifier: "Élixir simple (diplomatie)" #NT!
+ simple_elixir_martial_modifier: "Élixir simple (art martial)" #NT!
+ simple_elixir_stewardship_modifier: "Élixir simple (intendance)" #NT!
+ simple_elixir_intrigue_modifier: "Élixir simple (Intrigue)" #NT!
+ simple_elixir_learning_modifier: "Élixir simple (apprentissage)" #NT!
+ simple_elixir_prowess_modifier: "Élixir simple (prouesse)" #NT!
+ simple_philtre_modifier: "Philtre simple" #NT!
+ simple_tonic_modifier: "Tonique simple" #NT!
+ blood_of_the_snake_modifier: "Sang du serpent" #NT!
+ cobra_spit_modifier: "Crachat Cobra" #NT!
+ essence_longing_modifier: "Désir d'essence" #NT!
+ eyes_of_the_ka_modifier: "Les yeux du Ka" #NT!
+ complex_elixir_modifier: "Élixir complexe" #NT!
+ complex_elixir_diplomacy_modifier: "Élixir complexe (diplomatie)" #NT!
+ complex_elixir_martial_modifier: "Élixir complexe (Martial)" #NT!
+ complex_elixir_stewardship_modifier: "Élixir complexe (intendance)" #NT!
+ complex_elixir_intrigue_modifier: "Élixir complexe (Intrigue)" #NT!
+ complex_elixir_learning_modifier: "Élixir complexe (apprentissage)" #NT!
+ complex_elixir_prowess_modifier: "Élixir complexe (Prouesse)" #NT!
+ complex_philtre_modifier: "Philtre complexe" #NT!
+ complex_tonic_modifier: "Tonique Complexe" #NT!
+ dangerous_poison_modifier: "Poison dangereux" #NT!
+ one_hundred_thousand_tongues_modifier: "Cent mille langues" #NT!
+ potion_of_valor_modifier: "Potion de vaillance" #NT!
+ salts_of_the_dead_modifier: "Sels des morts" #NT!
+ panacea_modifier: "Panacée" #NT!
+ philosophers_stone_modifier: "Pierre philosophale" #NT!
+ potion_of_separable_ka_modifier: "Potion de Ka séparable" #NT!
+ deadly_poison_modifier: "Poison mortel" #NT!
+ flesh_of_the_gods_modifier: "Chair des dieux" #NT!
+ potent_elixir_modifier: "Élixir puissant" #NT!
+ potent_elixir_diplomacy_modifier: "Élixir puissant (diplomatie)" #NT!
+ potent_elixir_martial_modifier: "Élixir puissant (art martial)" #NT!
+ potent_elixir_stewardship_modifier: "Élixir puissant (intendance)" #NT!
+ potent_elixir_intrigue_modifier: "Élixir puissant (Intrigue)" #NT!
+ potent_elixir_learning_modifier: "Élixir puissant (apprentissage)" #NT!
+ potent_elixir_prowess_modifier: "Élixir puissant (prouesse)" #NT!
+ potent_philtre_modifier: "Philtre puissant" #NT!
+ potent_tonic_modifier: "Tonique puissant" #NT!
+ potion_of_the_divine_modifier: "Potion du Divin" #NT!
+ potion_of_the_vile_body_modifier: "Potion du corps vil" #NT!
+ distill_the_wisdom_of_maat_modifier: "Distiller la sagesse de Maât" #NT!
+ draught_of_perfect_memory_modifier: "Brouillon de Mémoire Parfaite" #NT!
+ personal_poison_modifier: "Poison personnel" #NT!
+ princely_elixir_modifier: "Élixir princier" #NT!
+ princely_elixir_diplomacy_modifier: "Élixir princier (diplomatie)" #NT!
+ princely_elixir_martial_modifier: "Élixir princier (Martial)" #NT!
+ princely_elixir_stewardship_modifier: "Élixir princier (intendance)" #NT!
+ princely_elixir_intrigue_modifier: "Élixir princier (Intrigue)" #NT!
+ princely_elixir_learning_modifier: "Elixir Princier (Apprentissage)" #NT!
+ princely_elixir_prowess_modifier: "Élixir princier (Prouesse)" #NT!
+ princely_tonic_modifier: "Tonique Princier" #NT!
+ water_of_life_modifier: "Eau de Vie" #NT!
+ elixir_of_thoths_aptitude_modifier: "Élixir d'aptitude de Thot" #NT!
+ kingly_elixir_modifier: "Élixir royal" #NT!
+ kingly_elixir_diplomacy_modifier: "Élixir royal (diplomatie)" #NT!
+ kingly_elixir_martial_modifier: "Élixir royal (art martial)" #NT!
+ kingly_elixir_stewardship_modifier: "Élixir royal (intendance)" #NT!
+ kingly_elixir_intrigue_modifier: "Élixir royal (Intrigue)" #NT!
+ kingly_elixir_learning_modifier: "Élixir royal (apprentissage)" #NT!
+ kingly_elixir_prowess_modifier: "Élixir royal (prouesse)" #NT!
+ kingly_tonic_modifier: "Tonique Royal" #NT!
+ philtre_of_the_blackened_sands_modifier: "Philtre des Sables Noircis" #NT!
+ philtre_of_the_blackened_sands_modifier_desc: "Un encens qui transportera quiconque l'inhale dans les mondes des esprits." #NT!
+ divine_elixir_modifier: "Élixir divin" #NT!
+ divine_elixir_diplomacy_modifier: "Élixir divin (diplomatie)" #NT!
+ divine_elixir_martial_modifier: "Élixir divin (Martial)" #NT!
+ divine_elixir_stewardship_modifier: "Élixir divin (intendance)" #NT!
+ divine_elixir_intrigue_modifier: "Élixir divin (Intrigue)" #NT!
+ divine_elixir_learning_modifier: "Élixir divin (apprentissage)" #NT!
+ divine_elixir_prowess_modifier: "Élixir divin (Prouesse)" #NT!
+ divine_tonic_modifier: "Tonique Divin" #NT!
+ draught_of_the_stalwart_ab_modifier: "Draft du Stalwart Ab" #NT!
+  
+ simple_ward_tattoo_modifier: "Quartier simple" #NT!
+ wood_ward_tattoo_modifier: "Quartier du Bois" #NT!
+ lesser_ward_tattoo_modifier: "Quartier inférieur" #NT!
+ amulet_of_cloud_walking_tattoo_modifier: "Amulette de marche dans les nuages" #NT!
+ lesser_talisman_tattoo_prowess_modifier: "Talisman inférieur (prouesse)" #NT!
+ lesser_talisman_tattoo_diplomacy_modifier: "Talisman inférieur (diplomatie)" #NT!
+ lesser_talisman_tattoo_martial_modifier: "Talisman inférieur (Martial)" #NT!
+ lesser_talisman_tattoo_stewardship_modifier: "Talisman inférieur (intendance)" #NT!
+ lesser_talisman_tattoo_intrigue_modifier: "Talisman inférieur (Intrigue)" #NT!
+ lesser_talisman_tattoo_learning_modifier: "Talisman inférieur (apprentissage)" #NT!
+ major_ward_tattoo_modifier: "Quartier majeur" #NT!
+ metal_ward_tattoo_modifier: "Salle de métal" #NT!
+ veil_of_amaunet_tattoo_modifier: "Voile d'Amaunet" #NT!
+ greater_ward_tattoo_modifier: "Quartier majeur" #NT!
+ greater_talisman_tattoo_prowess_modifier: "Talisman majeur (prouesse)" #NT!
+ greater_talisman_tattoo_diplomacy_modifier: "Talisman majeur (diplomatie)" #NT!
+ greater_talisman_tattoo_martial_modifier: "Talisman majeur (Martial)" #NT!
+ greater_talisman_tattoo_stewardship_modifier: "Grand Talisman (Intendance)" #NT!
+ greater_talisman_tattoo_intrigue_modifier: "Talisman majeur (Intrigue)" #NT!
+ greater_talisman_tattoo_learning_modifier: "Talisman majeur (apprentissage)" #NT!
+ gebs_blessing_tattoo_modifier: "La bénédiction de Geb" #NT!
+ greater_veil_of_amaunet_tattoo_modifier: "Grand Voile d'Amaunet" #NT!
+  
+ divine_forms_diplomacy_modifier: "Charisme d'Hathor" #NT!
+ divine_forms_martial_modifier: "Stratégie de Montu" #NT!
+ divine_forms_stewardship_modifier: "Règle d'Horus" #NT!
+ divine_forms_intrigue_modifier: "La ruse d'Isis" #NT!
+ divine_forms_learning_modifier: "Sagesse de Ptah" #NT!
+ divine_forms_prowess_modifier: "Force d'Amon" #NT!
+ divine_forms_diplomacy_wutian_modifier: "Prédestination de Yue Lao" #NT!
+ divine_forms_martial_wutian_modifier: "Courage de Ch'ih-Yu" #NT!
+ divine_forms_stewardship_wutian_modifier: "Richesse de Ts'ai-Shen" #NT!
+ divine_forms_intrigue_wutian_modifier: "L'intelligence de Chuko Liang" #NT!
+ divine_forms_learning_wutian_modifier: "Connaissance de Lao-Tseu" #NT!
+ divine_forms_prowess_wutian_modifier: "Pouvoir du Mu" #NT!
+ divine_greatness_diplomacy_modifier: "Charisme d'Hathor" #NT!
+ divine_greatness_martial_modifier: "Stratégie de Montu" #NT!
+ divine_greatness_stewardship_modifier: "Règle d'Horus" #NT!
+ divine_greatness_intrigue_modifier: "La ruse d'Isis" #NT!
+ divine_greatness_learning_modifier: "Sagesse de Ptah" #NT!
+ divine_greatness_prowess_modifier: "Force d'Amon" #NT!
+ divine_greatness_diplomacy_wutian_modifier: "Prédestination de Yue Lao" #NT!
+ divine_greatness_martial_wutian_modifier: "Courage de Ch'ih-Yu" #NT!
+ divine_greatness_stewardship_wutian_modifier: "Richesse de Ts'ai-Shen" #NT!
+ divine_greatness_intrigue_wutian_modifier: "L'intelligence de Chuko Liang" #NT!
+ divine_greatness_learning_wutian_modifier: "Connaissance de Lao-Tseu" #NT!
+ divine_greatness_prowess_wutian_modifier: "Pouvoir du Mu" #NT!
+  
+ weather_magic_flow_modifier: "Couler" #NT!
+ weather_magic_flow_modifier_desc: "Cette zone est endommagée par un glissement de terrain, une avalanche, une coulée de boue ou une coulée de débris." #NT!
+ weather_magic_meteor_shower_modifier: "Pluie de météorites" #NT!
+ weather_magic_meteor_shower_modifier_desc: "Cette zone est endommagée par un météore." #NT!
+ weather_magic_storm_modifier: "Tempête" #NT!
+ weather_magic_storm_modifier_desc: "Cette zone est endommagée par un ouragan, une tornade, un blizzard, un orage ou une tempête de sable." #NT!
+ weather_magic_earthquake_modifier: "Tremblement de terre" #NT!
+ weather_magic_earthquake_modifier_desc: "Cette zone est endommagée par les tremblements de terre." #NT!
+ weather_magic_plague_modifier: "Peste" #NT!
+ weather_magic_plague_modifier_desc: "Cette zone est endommagée par les grenouilles, les poux, les mouches, la peste, les furoncles ou les criquets." #NT!
+ weather_magic_flood_modifier: "Inondation" #NT!
+ weather_magic_flood_modifier_desc: "Cette zone est endommagée par les inondations." #NT!
+ weather_magic_drought_modifier: "Sécheresse" #NT!
+ weather_magic_drought_modifier_desc: "Cette zone est endommagée par les sécheresses." #NT!
+  
+ loyal_companion_tt: "Après avoir momifié votre fidèle animal, vous le ressuscitez en tant que serviteur spectral." #NT!
+ mummy_cat_modifier: "Chat de compagnie ressuscité" #NT!
+ mummy_cat_modifier_desc: "Ce personnage apprécie la compagnie d'un compagnon félin" #NT!
+ mummy_dog_modifier: "Chien de compagnie ressuscité" #NT!
+ mummy_dog_modifier_desc: "Un chien fidèle suit ce personnage partout où il va" #NT!
+ mummy_horse_modifier: "Cheval de guerre ressuscité" #NT!
+ mummy_horse_modifier_desc: "Ce personnage possède un cheval de guerre bien entraîné qui suit chacun de ses ordres." #NT!
+  
+ poor_crop_modifier: "Mauvaise récolte" #NT!
+ rich_crop_modifier: "Récolte riche" #NT!
+ grow_weed_modifier: "Mer de mauvaises herbes" #NT!
+ grow_flower_modifier: "Mer de fleurs" #NT!
+ grow_thorn_modifier: "Mer d'épines" #NT!
+ grow_tree_modifier: "Arbre Mer" #NT!
+ grow_mushroom_modifier: "Mer aux champignons" #NT!
+  
+ eye_of_sakhmet_modifier: "Oeil de Sakhmet" #NT!
+ eye_of_sakhmet_modifier_desc: "Ce personnage ne peut pas se soigner tant que ce modificateur est présent." #NT!
+  
+ separated_khaibit_modifier: "Khaibit séparé" #NT!
+  
+ extra_life_4_modifier: "Vie supplémentaire 4" #NT!
+ extra_life_4_modifier_desc: "Ce personnage dispose de quatre vies supplémentaires pour les résurrections." #NT!
+ extra_life_3_modifier: "Vie supplémentaire 3" #NT!
+ extra_life_3_modifier_desc: "Ce personnage dispose de trois vies supplémentaires pour les résurrections." #NT!
+ extra_life_2_modifier: "Vie supplémentaire 2" #NT!
+ extra_life_2_modifier_desc: "Ce personnage dispose de deux vies supplémentaires pour les résurrections." #NT!
+ extra_life_1_modifier: "Vie supplémentaire 1" #NT!
+ extra_life_1_modifier_desc: "Ce personnage a une vie supplémentaire pour les résurrections." #NT!
+  
+ healing_energy_modifier: "Énergie de guérison" #NT!
+ shadow_cloud_modifier: "[battle_modifier|E] : Aveuglé par les ténèbres spectrales" #NT!
+ yang_energy_modifier: "Énergie Yang" #NT!
+ renewed_vitality_modifier: "Vitalité renouvelée" #NT!
+  
+ effigy_scheme_assist_modifier: "Aide au projet des effigies" #NT!
+  
+ POD_neteru_legacy_1_modifier: "Pratiques du culte mortuaire" #NT!
+ POD_neteru_legacy_1_modifier_desc: "Ce personnage bénéficie modestement de pratiques spirituelles et hygiéniques préservées par un ancien culte mortuaire." #NT!
+ POD_neteru_legacy_2_modifier: "Pratiques du culte mortuaire" #NT!
+ POD_neteru_legacy_2_modifier_desc: "Ce personnage bénéficie de pratiques spirituelles et hygiéniques préservées par un ancien culte mortuaire." #NT!
+ POD_neteru_legacy_3_modifier: "Pratiques du culte mortuaire" #NT!
+ POD_neteru_legacy_3_modifier_desc: "Ce personnage bénéficie considérablement des pratiques spirituelles et hygiéniques préservées par un ancien culte mortuaire." #NT!
+ POD_neteru_legacy_4_modifier: "Pratiques du culte mortuaire" #NT!
+ POD_neteru_legacy_4_modifier_desc: "Ce personnage bénéficie grandement des pratiques spirituelles et hygiéniques préservées par un ancien culte mortuaire." #NT!
+ POD_neteru_legacy_5_modifier: "Pratiques du culte mortuaire" #NT!
+ POD_neteru_legacy_5_modifier_desc: "Ce personnage bénéficie énormément des pratiques spirituelles et hygiéniques préservées par un ancien culte mortuaire." #NT!
+  
+ lifeblood_addiction_modifier: "Dépendance vitale" #NT!
+ lifeblood_addiction_modifier_desc: "Les vampires convoitent la puissante vitae qui coule dans les veines des momies, mais les vampires particulièrement inhumains méprisent la « faiblesse morale » que leur inspire la consommation de sang de momie. Un vampire devenu psychologiquement accro au sang de maman dégénère rapidement en monstre." #NT!
+  
+ goto_the_disaster_modifier: "Voyager vers le désastre" #NT!

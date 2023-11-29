@@ -1,0 +1,9 @@
+﻿l_french:
+ POD_building_enables_selling_titles_desc: "Un [building|E] permet au propriétaire de vendre des titres triviaux" #NT!
+ POD_building_enables_panegyra_desc: "Un [building|E] permet au propriétaire d'héberger le Panegyra" #NT!
+ POD_building_enables_hunt_desc: "Un [building|E] permet au propriétaire de chasser" #NT!
+ POD_building_enables_extortion_desc: "Un [building|E] permet au propriétaire d'extorquer ses sujets" #NT!
+ POD_building_enables_commissioning_epic_desc: "Un [building|E] permet au propriétaire de commander des épopées" #NT!
+ POD_building_unlocks_underworld_desc: "Un [building|E] permet au propriétaire de saisir le [shadowlands|E] à son emplacement" #NT!
+ POD_building_unlocks_local_shroud_manipulation_desc: "Un [building|E] permet au propriétaire de manipuler le Linceul à son emplacement" #NT!
+ POD_building_enables_mystical_communion_desc: "Un [building|E] permet au propriétaire de faire des communions mystiques" #NT!

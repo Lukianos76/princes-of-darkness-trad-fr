@@ -1,0 +1,386 @@
+﻿l_french:
+  
+ host_elysium_decision: "Hôte de l'Élysée" #NT!
+ host_elysium_decision_tooltip: "L'Elysée aura lieu, suivi d'une réunion du Conseil" #NT!
+ host_elysium_decision_opening_desc: "Votre cour se rendra à l'Elysée ce soir, puis vous consulterez votre conseil sur les questions d'actualité. S'ils sont suffisamment compétents, leurs conseils pourraient être utiles." #NT!
+ elysium_decision_effect_tooltip: "L'Elysée aura lieu, puis votre conseil vous proposera différents plans en fonction de son niveau de compétence" #NT!
+ host_elysium_decision_confirm: "Démarrez l'Elysée" #NT!
+ host_elysium_decision_desc_shy: "Comme vous êtes timide, cette activité peut être stressante" #NT!
+ ignored_my_plan_opinion: "Conseils ignorés" #NT!
+ busy_chancellor_modifier: "Chancelier assidu" #NT!
+ busy_chancellor_modifier_desc: "Votre chancelier est occupé à chanter vos louanges dans tout votre domaine" #NT!
+ marshal_elysium_levies_modifier: "Population contrôlée" #NT!
+ marshal_elysium_levies_modifier_desc: "Votre maréchal a une forte emprise sur ce domaine, s'assurant que votre autorité se fasse sentir" #NT!
+ capital_reined_in_modifier: "Des investissements sanglants" #NT!
+ capital_reined_in_modifier_desc: "En soutenant les bonnes personnes, vous développez votre influence dans cette région" #NT!
+ spymaster_elysium_scheme_modifier: "Sources du maître espion" #NT!
+ spymaster_elysium_scheme_modifier_desc: "Votre maître espion utilise actuellement un réseau très efficace de sources et de contacts" #NT!
+ cheap_elysium_opinion: "Élysée pas cher" #NT!
+ roaming_elysium_modifier: "Élysée itinérant" #NT!
+ roaming_elysium_modifier_desc: "Vous parcourez votre pays, ce qui rend difficile votre capture" #NT!
+  
+  
+  
+ POD_elysium_events.1.t: "La réunion du Conseil" #NT!
+ POD_elysium_events.1.desc: "Une réunion du conseil est prévue ce soir. Événement classique dans le monde vampirique, c'est le moment où vos conseillers les plus proches pourront s'exprimer sur divers problèmes et sur la manière de les résoudre. En tant que suzerain, ce sera à vous d'accepter ou non leurs suggestions." #NT!
+ POD_elysium_events.1.option.a: "Commençons" #NT!
+ POD_elysium_events.1.option.b: "Pas ce soir" #NT!
+ POD_elysium_events.1.option.meeting: "Plus votre conseil est compétent, meilleurs seront les résultats. Ne vous attendez à rien de bon s'ils ne font pas leur travail." #NT!
+  
+ POD_elysium_events.100.t: "Chancelier : Un plan terne" #NT!
+ POD_elysium_events.100.desc: "Votre chancelier propose un plan pour flatter un dirigeant voisin avec des flatteries, des cadeaux, etc. Bien qu'il s'agisse d'une perspective inoffensive, le coût en or d'une telle entreprise semble assez élevé pour peu de résultats efficaces. Encore faut-il choisir." #NT!
+ POD_elysium_events.100.option.a: "J'espère que ça vaut le coup..." #NT!
+ POD_elysium_events.100.option.b: "Ça ne vaut pas le coup!" #NT!
+  
+ POD_elysium_events.101.t: "Chancelier : Un plan moyen" #NT!
+ POD_elysium_events.101.desc: "Votre chancelier propose un plan pour flatter un dirigeant voisin avec des flatteries, des cadeaux, etc. La majeure partie du travail a déjà été effectuée par votre conseiller et vous n'avez à payer que le cadeau lui-même. Si l'idée vous intéresse évidemment." #NT!
+ POD_elysium_events.101.option.a: "J'espère que ça vaut le coup..." #NT!
+ POD_elysium_events.101.option.b: "Ça ne vaut pas le coup!" #NT!
+  
+ POD_elysium_events.102.t: "Chancelier : Un bon plan" #NT!
+ POD_elysium_events.102.desc: "Votre chancelier propose un plan pour flatter un dirigeant voisin avec des flatteries, des cadeaux, etc. C’est déjà une affaire accomplie, car votre conseiller compétent a fait le travail nécessaire pour y parvenir. Il vous suffit d'approuver." #NT!
+ POD_elysium_events.102.option.a: "Bon travail" #NT!
+ POD_elysium_events.102.option.b: "Je n'ai pas besoin de ça" #NT!
+  
+ POD_elysium_events.103.t: "Chancelier : Un plan terne" #NT!
+ POD_elysium_events.103.desc: "Votre chancelier propose une grande tournée de vos vassaux les plus éminents pour chanter vos louanges et votre grandeur, augmentant ainsi, espérons-le, leur respect pour votre règne. Bien que ce soit une bonne idée, le prix pour fonder une telle tournée est assez élevé..." #NT!
+ POD_elysium_events.103.option.a: "J'espère que ça vaut le coup..." #NT!
+ POD_elysium_events.103.option.b: "Ça ne vaut pas le coup!" #NT!
+  
+ POD_elysium_events.104.t: "Chancelier : Un plan moyen" #NT!
+ POD_elysium_events.104.desc: "Votre chancelier propose une grande tournée de vos vassaux les plus éminents pour chanter vos louanges et votre grandeur, augmentant ainsi, espérons-le, leur respect pour votre règne. Vous n’avez qu’à payer une partie des dépenses et tout sera mis en œuvre." #NT!
+ POD_elysium_events.104.option.a: "J'espère que ça vaut le coup..." #NT!
+ POD_elysium_events.104.option.b: "Ça ne vaut pas le coup!" #NT!
+  
+ POD_elysium_events.105.t: "Chancelier : Un bon plan" #NT!
+ POD_elysium_events.105.desc: "Votre chancelier propose une grande tournée de vos vassaux les plus éminents pour chanter vos louanges et votre grandeur, augmentant ainsi, espérons-le, leur respect pour votre règne. La plupart du voyage est déjà payé et votre conseiller compétent n'attend que votre bénédiction pour partir." #NT!
+ POD_elysium_events.105.option.a: "Bon travail" #NT!
+ POD_elysium_events.105.option.b: "Je n'ai pas besoin de ça" #NT!
+  
+ POD_elysium_events.200.t: "Intendant : un plan terne" #NT!
+ POD_elysium_events.200.desc: "Votre intendant propose un plan pour soutenir un groupe local de voyous et collecter une partie de leurs « gains » en guise de récompense. Ce n’est pas vraiment la plus glamour des activités et vous préféreriez éviter d’y être lié. Malheureusement, votre délégué syndical ne semble pas avoir réfléchi à cette question au préalable." #NT!
+ POD_elysium_events.200.option.a: "Le prestige est surfait" #NT!
+ POD_elysium_events.200.option.b: "C'est le pire plan de l'histoire des plans" #NT!
+  
+ POD_elysium_events.201.t: "Intendant : un plan moyen" #NT!
+ POD_elysium_events.201.desc: "Votre intendant propose un plan pour soutenir un groupe local de voyous et collecter une partie de leurs « gains » en guise de récompense. Ce n’est pas vraiment la plus glamour des activités et vous préféreriez éviter d’y être lié. Votre conseiller a pensé à quelques garde-fous pour protéger votre réputation, ce qui facilitera le processus." #NT!
+ POD_elysium_events.201.option.a: "L'or est toujours important" #NT!
+ POD_elysium_events.201.option.b: "Je n'ai pas besoin de ça" #NT!
+  
+ POD_elysium_events.202.t: "Intendant : un bon plan" #NT!
+ POD_elysium_events.202.desc: "Votre intendant propose un plan pour soutenir un groupe local de voyous et collecter une partie de leurs « gains » en guise de récompense. Ce n’est pas vraiment la plus glamour des activités et vous préféreriez éviter d’y être lié. Heureusement, votre avisé conseiller a déjà pris des mesures pour éviter autant que possible de salir votre réputation prestigieuse." #NT!
+ POD_elysium_events.202.option.a: "Bon travail" #NT!
+ POD_elysium_events.202.option.b: "Je n'ai pas besoin de ça" #NT!
+  
+ POD_elysium_events.203.t: "Intendant : un plan terne" #NT!
+ POD_elysium_events.203.desc: "Votre intendant présente une proposition visant à étendre votre influence dans votre capitale. Après tout, il existe toujours de plus en plus d'institutions mortelles plus récentes dans lesquelles mettre vos crocs. Malheureusement, votre conseiller peu brillant demande une énorme quantité d'or juste pour lancer l'idée, puisqu'aucun agent n'a été placé au préalable pour préparer ce projet." #NT!
+ POD_elysium_events.203.option.a: "L'or est surfait" #NT!
+ POD_elysium_events.203.option.b: "Es-tu fou?!" #NT!
+  
+ POD_elysium_events.204.t: "Intendant : un plan moyen" #NT!
+ POD_elysium_events.204.desc: "Votre intendant présente une proposition visant à étendre votre influence dans votre capitale. Après tout, il existe toujours de plus en plus d'institutions mortelles plus récentes dans lesquelles mettre vos crocs. Le travail de base a déjà été fait, ne vous laissant que les derniers pots-de-vin et autres à payer pour faire avancer cette idée." #NT!
+ POD_elysium_events.204.option.a: "Tu as ma bénédiction" #NT!
+ POD_elysium_events.204.option.b: "Ce n'est pas nécessaire" #NT!
+  
+ POD_elysium_events.205.t: "Intendant : un bon plan" #NT!
+ POD_elysium_events.205.desc: "Votre intendant présente une proposition visant à étendre votre influence dans votre capitale. Après tout, il existe toujours de plus en plus d'institutions mortelles plus récentes dans lesquelles mettre vos crocs. La plupart du travail a déjà été effectué par votre conseiller compétent, ce qui ne vous laisse que quelques petits pots-de-vin à payer pour lancer ce projet." #NT!
+ POD_elysium_events.205.option.a: "Bon travail" #NT!
+ POD_elysium_events.205.option.b: "Ce n'est pas nécessaire" #NT!
+  
+ POD_elysium_events.300.t: "Marshal : Un plan terne" #NT!
+ POD_elysium_events.300.desc: "Votre maréchal présente un plan visant à accroître votre contrôle global sur l'une de vos provinces. Cela vous permettrait d’en tirer davantage d’influence, mais pourrait également attirer une attention indésirable. Malheureusement, c'est un détail auquel votre conseiller n'a pas réussi à se préparer, ce qui rend cette entreprise plus risquée qu'elle n'aurait dû l'être." #NT!
+ POD_elysium_events.300.option.a: "Un schéma toujours utile" #NT!
+ POD_elysium_events.300.option.b: "La prévoyance n’est pas votre point fort, hein ?" #NT!
+  
+ POD_elysium_events.301.t: "Marshal : Un plan moyen" #NT!
+ POD_elysium_events.301.desc: "Votre maréchal présente un plan visant à accroître votre contrôle global sur l'une de vos provinces. Cela vous permettrait d’en tirer davantage d’influence, mais pourrait également attirer une attention indésirable. Votre conseiller a déjà préparé quelques mesures pour éviter le pire des contrecoups." #NT!
+ POD_elysium_events.301.option.a: "Un schéma utile" #NT!
+ POD_elysium_events.301.option.b: "Encore trop dangereux" #NT!
+  
+ POD_elysium_events.302.t: "Maréchal : Un Bon Plan" #NT!
+ POD_elysium_events.302.desc: "Votre maréchal présente un plan visant à accroître votre contrôle global sur l'une de vos provinces. Cela vous permettrait d’en tirer davantage d’influence, mais pourrait également attirer une attention indésirable. Heureusement, votre conseiller compétent s'est déjà occupé de ce problème potentiel, ce qui n'entraîne qu'un faible risque de découverte." #NT!
+ POD_elysium_events.302.option.a: "Bon travail" #NT!
+ POD_elysium_events.302.option.b: "Ce n'est pas nécessaire" #NT!
+  
+ POD_elysium_events.303.t: "Marshal : Un plan terne" #NT!
+ POD_elysium_events.303.desc: "Votre maréchal souhaite concentrer les efforts de votre terrain sur l'amélioration des compétences de vos champions. Un effort louable, mais qui pourrait s’avérer coûteux. Votre conseiller ne semble cependant pas considérer cela comme un réel problème et demande une somme d'argent exorbitante pour mettre en place un programme d'entraînement « approprié »." #NT!
+ POD_elysium_events.303.option.a: "L'argent ne me concerne en effet pas" #NT!
+ POD_elysium_events.303.option.b: "Je ne suis pas fait d'or, idiot !" #NT!
+  
+ POD_elysium_events.304.t: "Marshal : Un plan moyen" #NT!
+ POD_elysium_events.304.desc: "Votre maréchal souhaite concentrer les efforts de votre terrain sur l'amélioration des compétences de vos champions. Un effort louable, mais qui pourrait s’avérer coûteux. Votre conseiller a des idées innovantes qui pourraient réduire certains coûts, mais le prix demandé reste élevé." #NT!
+ POD_elysium_events.304.option.a: "L'argent ne me concerne pas" #NT!
+ POD_elysium_events.304.option.b: "Je ne suis pas en or !" #NT!
+  
+ POD_elysium_events.305.t: "Maréchal : Un Bon Plan" #NT!
+ POD_elysium_events.305.desc: "Votre maréchal souhaite concentrer les efforts de votre terrain sur l'amélioration des compétences de vos champions. Un effort louable, mais qui pourrait s’avérer coûteux. Votre conseiller a pris en charge la plupart des dépenses et a quelques idées pour éviter d'en faire de nouvelles. Grâce à cette approche compétente, le prix n'est pas trop élevé." #NT!
+ POD_elysium_events.305.option.a: "Bon travail" #NT!
+ POD_elysium_events.305.option.b: "Ce n'est pas nécessaire" #NT!
+  
+ POD_elysium_events.400.t: "Aumônier de la Cour : un plan peu reluisant" #NT!
+ POD_elysium_events.400.desc: "Votre aumônier du tribunal a un plan pour légitimer votre autorité sur une zone voisine. Cela inclut évidemment une grande quantité de pots-de-vin et de faveurs. Malheureusement, votre conseiller, peu compétent, n'a pas réussi à trouver un moyen de réduire les coûts, ce qui a abouti à une proposition assez prohibitive." #NT!
+ POD_elysium_events.400.option.a: "je suis fait d'argent" #NT!
+ POD_elysium_events.400.option.b: "Je ne suis PAS fait d'argent" #NT!
+  
+ POD_elysium_events.401.t: "Aumônier de la Cour : un plan moyen" #NT!
+ POD_elysium_events.401.desc: "Votre aumônier du tribunal a un plan pour légitimer votre autorité sur une zone voisine. Cela inclut évidemment une grande quantité de pots-de-vin et de faveurs. Votre conseiller a déjà effectué une partie importante du travail de préparation, ne vous laissant qu'une partie du coût final à payer." #NT!
+ POD_elysium_events.401.option.a: "Un projet qui en vaut la peine" #NT!
+ POD_elysium_events.401.option.b: "Encore trop cher" #NT!
+  
+ POD_elysium_events.402.t: "Aumônier de la Cour : un bon plan" #NT!
+ POD_elysium_events.402.desc: "Votre aumônier du tribunal a un plan pour légitimer votre autorité sur une zone voisine. Cela inclut évidemment une grande quantité de pots-de-vin et de faveurs. Mais votre conseiller compétent a réussi à couvrir toutes les dépenses, ce qui rend ce plan déjà presque terminé." #NT!
+ POD_elysium_events.402.option.a: "Bon travail" #NT!
+ POD_elysium_events.402.option.b: "Ce n'est pas nécessaire" #NT!
+  
+ POD_elysium_events.403.t: "Aumônier de la Cour : un plan peu reluisant" #NT!
+ POD_elysium_events.403.desc: "Votre aumônier de la cour vous demande de prendre un peu de repos dans vos fonctions princières. Cette période serait bonne pour votre âme meurtrie, mais moins bonne pour votre royaume. Malheureusement, votre conseiller peu compétent n'est pas vraiment fiable, vous devrez donc de toute façon effectuer une grande partie du travail vous-même." #NT!
+ POD_elysium_events.403.option.a: "Moins d'idiots autour de moi, ça me semble bien" #NT!
+ POD_elysium_events.403.option.b: "... mais je ne peux pas les laisser gouverner à la place !" #NT!
+  
+ POD_elysium_events.404.t: "Aumônier de la Cour : un plan moyen" #NT!
+ POD_elysium_events.404.desc: "Votre aumônier de la cour vous demande de prendre un peu de repos dans vos fonctions princières. Cette période serait bonne pour votre âme meurtrie, mais moins bonne pour votre royaume. Votre conseiller est suffisamment fiable pour que vous puissiez réellement vous recentrer pendant cette période si vous le souhaitez." #NT!
+ POD_elysium_events.404.option.a: "Des vacances, ça a l'air sympa" #NT!
+ POD_elysium_events.404.option.b: "Je me reposerai quand je serai... eh bien" #NT!
+  
+ POD_elysium_events.405.t: "Aumônier de la Cour : un bon plan" #NT!
+ POD_elysium_events.405.desc: "Votre aumônier de la cour vous demande de prendre un peu de repos dans vos fonctions princières. Cette période serait bonne pour votre âme meurtrie, mais moins bonne pour votre royaume. Votre conseiller est très compétent, ce qui signifie que vous pourrez vraiment y aller doucement pendant un moment si vous le souhaitez." #NT!
+ POD_elysium_events.405.option.a: "Des vacances, ça a l'air sympa" #NT!
+ POD_elysium_events.405.option.b: "Je me reposerai quand je serai... eh bien" #NT!
+  
+ POD_elysium_events.500.t: "Spymaster : Un plan sans éclat" #NT!
+ POD_elysium_events.500.desc: "Votre maître espion s'inquiète toujours d'une éventuelle brèche dans Masquerade, même lorsqu'il n'y en a pas. Puisqu’il s’agit principalement du travail lui-même, vous le laissez passer la plupart du temps. Ce soir, le plan de votre conseiller est de vous faire abandonner plusieurs sources d'influence prestigieuses dont vous disposez pour vous assurer de ne pas être compromis." #NT!
+ POD_elysium_events.500.option.a: "De toute façon, qui a besoin de prestige ?" #NT!
+ POD_elysium_events.500.option.b: "CA ira pour nous" #NT!
+ POD_elysium_events.500.option.c: "Nous sommes parfaitement cachés en ce moment, pas besoin de ça" #NT!
+ perfectmasquerade_tooltip: "Cette option est disponible car vous êtes actuellement à 0 [masquerade_exposure_with_icon|E]" #NT!
+  
+ POD_elysium_events.501.t: "Spymaster : Un forfait moyen" #NT!
+ POD_elysium_events.501.desc: "Votre maître espion s'inquiète toujours d'une éventuelle brèche dans Masquerade, même lorsqu'il n'y en a pas. Puisqu’il s’agit principalement du travail lui-même, vous le laissez passer la plupart du temps. Votre conseiller souhaite que vous réduisiez certaines de vos activités les plus visibles, afin de vous assurer que vous êtes toujours caché aux yeux des mortels." #NT!
+ POD_elysium_events.501.option.a: "Un conseil judicieux" #NT!
+ POD_elysium_events.501.option.b: "CA ira pour nous" #NT!
+  
+ POD_elysium_events.502.t: "Spymaster : Un Bon Plan" #NT!
+ POD_elysium_events.502.desc: "Votre maître espion s'inquiète toujours d'une éventuelle brèche dans Masquerade, même lorsqu'il n'y en a pas. Puisqu’il s’agit principalement du travail lui-même, vous le laissez passer la plupart du temps. Votre conseiller a isolé certaines sources d'influence très visibles mais pas si importantes que vous utilisez. Y renoncer ne coûterait pas cher et garantirait votre sécurité face aux yeux des mortels." #NT!
+ POD_elysium_events.502.option.a: "Bon travail" #NT!
+ POD_elysium_events.502.option.b: "Je n'ai pas peur des mortels" #NT!
+  
+ POD_elysium_events.503.t: "Spymaster : Un plan sans éclat" #NT!
+ POD_elysium_events.503.desc: "Votre maître espion dispose de plusieurs nouveaux informateurs prometteurs et d'autres contacts qui devraient s'avérer utiles à votre cause. Le problème est que votre conseiller peu compétent a bâclé certains premiers contacts avec lui, et vous devrez vous en occuper vous-même si vous souhaitez profiter de cette nouvelle opportunité." #NT!
+ POD_elysium_events.503.option.a: "Dois-je tout faire moi-même ?" #NT!
+ POD_elysium_events.503.option.b: "Pas mon travail" #NT!
+  
+ POD_elysium_events.504.t: "Spymaster : Un forfait moyen" #NT!
+ POD_elysium_events.504.desc: "Votre maître espion dispose de plusieurs nouveaux informateurs prometteurs et d'autres contacts qui devraient s'avérer utiles à votre cause. Même si la majeure partie du travail initial est terminée, vous aurez encore besoin de vous pour sécuriser certains des contacts les plus isolés." #NT!
+ POD_elysium_events.504.option.a: "Un prix acceptable" #NT!
+ POD_elysium_events.504.option.b: "Pas mon travail" #NT!
+  
+ POD_elysium_events.505.t: "Spymaster : Un Bon Plan" #NT!
+ POD_elysium_events.505.desc: "Votre maître espion dispose de plusieurs nouveaux informateurs prometteurs et d'autres contacts qui devraient s'avérer utiles à votre cause. Votre conseiller compétent a effectué presque tout le travail requis et vous n'êtes tenu de vous occuper personnellement que de certains des actifs potentiels les plus tenaces." #NT!
+ POD_elysium_events.505.option.a: "Bon travail" #NT!
+ POD_elysium_events.505.option.b: "Ce n'est pas nécessaire" #NT!
+  
+ POD_elysium_events.106.t: "Le Conseil : un succès critique" #NT!
+ POD_elysium_events.106.desc: "Vous et votre très compétent conseiller avez eu un échange long et très instructif lors de cette séance du conseil. Vous avez l’impression de mieux comprendre certains des points les plus subtils du pouvoir qu’auparavant, grâce à la contribution d’une personne aussi talentueuse." #NT!
+ POD_elysium_events.106.option.a: "Apprendre des meilleurs" #NT!
+  
+ POD_elysium_events.107.t: "Le Concile : un échec critique" #NT!
+ POD_elysium_events.107.desc: "Votre conseiller très peu compétent était encore plus ennuyeux que vous l'aviez prévu lors de la séance du conseil de ce soir. L’idiot désemparé n’a aucune idée des subtilités du travail et vous fait perdre un temps précieux." #NT!
+ POD_elysium_events.107.option.a: "Je suis entouré par des idiots" #NT!
+  
+ POD_elysium_events.108.t: "Le Conseil : Juste une autre nuit" #NT!
+ POD_elysium_events.108.desc: "Rien de particulier à signaler pour cette partie du conseil, les affaires continuent comme d'habitude. Le discours de votre conseiller était plutôt ennuyeux, mais vous y avez quand même retenu quelques informations utiles." #NT!
+ POD_elysium_events.108.option.a: "Une nuit à la fois..." #NT!
+  
+ POD_elysium_events.2.t: "L'Elysium : gros dépensier ?" #NT!
+ POD_elysium_events.2.desc: "Alors que vous préparez le prochain Elysium, vous vous souvenez du problème toujours présent du coût. De toute évidence, vos vassaux s'attendraient à ce que les rassemblements les plus extravagants les impressionnent par votre pouvoir et votre richesse.\nLe fait est que l'or ne pousse pas sur les arbres et vous voudrez peut-être prendre quelques raccourcis. Ou tous les coins." #NT!
+ POD_elysium_events.2.option.a: "L'or ne me concerne pas" #NT!
+ POD_elysium_events.2.option.b: "L'or me préoccupe un peu" #NT!
+ POD_elysium_events.2.option.c: "Cette jolie grange semble parfaite pour le rassemblement !" #NT!
+  
+ POD_elysium_events.3.t: "L'Elysée : Rafraîchissements" #NT!
+ POD_elysium_events.3.desc: "Avec autant de vampires rassemblés au même endroit, vous aurez besoin d’une source de sang. De préférence frais et encore vivant. Les mortels sont faciles à trouver, mais un peu plus difficiles à convaincre et servent de rafraîchissement à vos invités. Alors comment allez-vous procéder ?" #NT!
+ POD_elysium_events.3.option.a: "Raid dans la région" #NT!
+ POD_elysium_events.3.option.b: "je le ferai moi-même" #NT!
+ POD_elysium_events.3.option.c: "Je paierai des experts pour le faire tranquillement" #NT!
+  
+ POD_elysium_events.4.t: "L'Elysée : Sécurité ?" #NT!
+ POD_elysium_events.4.desc: "L'Elysée est traditionnellement un espace sûr pour les vampires, où rien de mal ne peut arriver. De toute évidence, les « traditions » et la « réalité » sont deux choses très distinctes, et vous souhaiterez peut-être préparer une sorte de force de sécurité pour garantir que tout se passe bien." #NT!
+ POD_elysium_events.4.option.a: "Enrôlez des gardes" #NT!
+ POD_elysium_events.4.option.b: "Pas de sécurité. Cela les gardera nerveux" #NT!
+ POD_elysium_events.4.option.c: "je suis assez en sécurité" #NT!
+ elysium_security_tooltip: "Cette option est disponible parce que vous êtes une centrale" #NT!
+  
+ favored_elysium_opinion: "M'a favorisé pendant l'Elysée" #NT!
+ disfavored_elysium_opinion: "M'a rejeté pendant l'Elysée" #NT!
+  
+ POD_elysium_events.5.t: "L'Elysée : Duel Amical" #NT!
+ POD_elysium_events.5.desc: "Deux de vos champions ont envie d'un duel amical entre eux pour divertir la cour. Évidemment, chacun d’eux veut votre faveur avant le duel. Vous pouvez être sûr que celui que vous ne choisirez pas vous en voudra. Après tout, ce sont des politiques vampiriques." #NT!
+ POD_elysium_events.5.option.a: "[duelingknight.GetFirstNameNoTooltip], tu as ma faveur !" #NT!
+ POD_elysium_events.5.option.b: "[otherknight.GetFirstNameNoTooltip], je te choisis !" #NT!
+ POD_elysium_events.5.option.c: "Non, je n'aime aucun de vous" #NT!
+  
+ really_disfavored_elysium_opinion: "M'a ridiculisé pendant l'Elysée" #NT!
+  
+ POD_elysium_events.6.t: "L'Elysée : un coup de main ?" #NT!
+ POD_elysium_events.6.desc: "La tête de [baffledvassal.GetFirstNameNoTooltip] n'est pas de la partie ce soir. Le [baffledvassal.GetSheHe|U] a fait parler de lui à la cour, et pas dans le bon sens. C'est une véritable situation difficile, mais aussi une opportunité, car vous pouvez sauver cette pauvre âme en quelques mots bien choisis. Ou vous pourriez simplement empiler." #NT!
+ POD_elysium_events.6.option.a: "je suis là pour aider" #NT!
+ POD_elysium_events.6.option.b: "Ce n'est pas mon problème" #NT!
+ POD_elysium_events.6.option.c: "Pilling on a l'air amusant..." #NT!
+  
+ POD_elysium_events.7.t: "L'Elysée : une opportunité" #NT!
+ POD_elysium_events.7.desc: "Vous entendez l'un de vos vassaux parler d'une potentielle nouvelle possibilité d'influence parmi les mortels. D'après vos propres sources, il s'agit effectivement d'une perspective lucrative, mais dans laquelle les chasseurs détestés se sont déjà infiltrés, ce qui rend l'ensemble de l'entreprise assez risqué. En avertir votre sujet pourrait vous gagner ses faveurs." #NT!
+ POD_elysium_events.7.option.a: "Investissons ensemble dans cette aventure !" #NT!
+ POD_elysium_events.7.option.b: "Suivez mes conseils, c'est un piège" #NT!
+ POD_elysium_events.7.option.c: "Vous ne poursuivrez pas cette piste, c'est un ordre" #NT!
+  
+ POD_elysium_events.8.t: "L'Elysée : Voisin bruyant" #NT!
+ POD_elysium_events.8.desc: "Il semblerait que votre Elysium n'ait pas été aussi silencieux que vous l'espériez. Tant de personnes rassemblées pendant la nuit attirent l’attention indésirable des mortels à proximité. Rien que vous ne puissiez gérer évidemment, mais vous mettez [masquerade|E] en danger en poursuivant les retrouvailles." #NT!
+ POD_elysium_events.8.option.a: "Il n'y a pas de quoi s'inquiéter" #NT!
+ POD_elysium_events.8.option.b: "Fermons l'Elysée pour ce soir" #NT!
+ POD_elysium_events.8.option.c: "Fermez l'Elysée, puis affrontez les mortels" #NT!
+ ending_elysium_tooltip: "Cette option est disponible car vous disposez de forts pouvoirs mentaux" #NT!
+  
+ POD_elysium_events.9.t: "L'Elysée : Le sang coule" #NT!
+ POD_elysium_events.9.desc: "En tant que digne hôte de l'Elysée, vous avez fourni du sang en abondance à vos invités. Tout va bien, mais la vision de tant de délicieuses liqueurs rouges excite votre Bête. Peut-être pourriez-vous aussi vous faire plaisir un peu ? Ce n’est pas vraiment approprié pour l’hôte de le faire, mais après tout, c’est vous qui dirigez ici." #NT!
+ POD_elysium_events.9.option.a: "Profitez de vos rafraîchissements" #NT!
+ POD_elysium_events.9.option.b: "Juste un peu pour moi s'il te plaît" #NT!
+ POD_elysium_events.9.option.c: "Plus! Je veux plus!" #NT!
+  
+ POD_elysium_events.10.t: "L'Elysée : Slow Night" #NT!
+ POD_elysium_events.10.desc: "Ce soir, c'est un Elysium très moyen il faut l'admettre. Quelques complots mais pas trop, quelques menaces voilées mais rien de trop dangereux... C'est bien d'avoir de temps en temps quelque chose qui ressemble à une respiration. Vous pourriez même aller plus loin et mettre un terme à cette soirée." #NT!
+ POD_elysium_events.10.option.a: "Profitez simplement du calme" #NT!
+ POD_elysium_events.10.option.b: "L'Elysée, c'est fini ! Laisse-moi tranquille" #NT!
+  
+ POD_elysium_events.11.t: "L'Elysée : Préparatifs" #NT!
+ POD_elysium_events.11.desc: "Il y a beaucoup de choses à considérer et à préparer pour un Elysium réussi. Vous avez couvert les besoins de base mais vous envisagez maintenant d'aller un peu plus loin pour vraiment impressionner vos invités. Allez-vous mettre à l’épreuve vos compétences en matière d’hébergement pour sécuriser un Elysium plus prestigieux ?" #NT!
+ POD_elysium_events.11.option.a: "Marchandons !" #NT!
+ POD_elysium_events.11.option.b: "Il suffit de payer des personnes qualifiées pour s'en occuper" #NT!
+ POD_elysium_events.11.option.c: "Mon Elysium est parfait tel qu'il est" #NT!
+ POD_elysium_events.11.effect.success.desc: "Vous avez fait une très bonne affaire !" #NT!
+ POD_elysium_events.11.success: "Une affaire parfaite" #NT!
+ POD_elysium_events.11.failure.effect.desc: "Vous avez conclu un accord adéquat" #NT!
+ POD_elysium_events.11.failure: "Une affaire moyenne" #NT!
+ POD_elysium_events.11.critical.failure.effect.desc: "Tu as fait une très mauvaise affaire" #NT!
+ POD_elysium_events.11.critical.failure: "Une mauvaise affaire" #NT!
+  
+ POD_elysium_events.12.t: "L'Elysée : Wargames" #NT!
+ POD_elysium_events.12.desc: "Fier et longue tradition dans la plupart des Elysées, les wargames sont un bon moyen de mettre à profit vos compétences martiales. L'un de vos vassaux joue actuellement un rôle, commentant la meilleure façon de représenter les nouveaux développements de la guerre des mortels. Peut-être qu'un jeu s'impose ? Vous pourriez apprendre quelque chose." #NT!
+ POD_elysium_events.12.option.a: "Des catapultes à l'avant ? Sérieusement?" #NT!
+ POD_elysium_events.12.option.b: "Merci, pas ce soir" #NT!
+ POD_elysium_events.12.effect.success.desc: "Une victoire décisive !" #NT!
+ POD_elysium_events.12.success: "Une victoire décisive !" #NT!
+ POD_elysium_events.12.failure.effect.desc: "Une victoire à la Pyrrhus" #NT!
+ POD_elysium_events.12.failure: "Une victoire à la Pyrrhus" #NT!
+ POD_elysium_events.12.critical.failure.effect.desc: "Une défaite..." #NT!
+ POD_elysium_events.12.critical.failure: "Vaincu" #NT!
+  
+ POD_elysium_events.13.t: "L'Elysée : Un discours ?" #NT!
+ POD_elysium_events.13.desc: "La plupart du temps, l’Elysée est une affaire tranquille, favorisant les petits groupes de personnes complotant ensemble. Mais il y a des moments où vous avez envie de prononcer un grand discours rappelant à chacun son objectif et votre autorité sur lui, bien sûr. Est-ce que ce soir est un de ces moments ?" #NT!
+ POD_elysium_events.13.option.a: "Écoutez tout le monde !" #NT!
+ POD_elysium_events.13.option.b: "Non, ce n'est pas le cas" #NT!
+ POD_elysium_events.13.effect.success.desc: "Un grand discours !" #NT!
+ POD_elysium_events.13.success: "Un grand discours !" #NT!
+ POD_elysium_events.13.failure.effect.desc: "Un discours moyen" #NT!
+ POD_elysium_events.13.failure: "Un discours moyen" #NT!
+ POD_elysium_events.13.critical.failure.effect.desc: "Un discours bâclé" #NT!
+ POD_elysium_events.13.critical.failure: "Un discours bâclé" #NT!
+  
+ POD_elysium_events.14.t: "L'Elysium : traçage à petite échelle" #NT!
+ POD_elysium_events.14.desc: "L'Elysée est un lieu de rumeurs et de tromperies. Rien de très important cependant, puisque la plupart des projets critiques se déroulent dans des lieux moins publics, mais il y a encore des réputations à créer ou à détruire ici. Un de vos vassaux s'adonne à cet art vampirique avec beaucoup de zèle ce soir. Cela pourrait être l'occasion de vous tester." #NT!
+ POD_elysium_events.14.option.a: "Ah le scandale !" #NT!
+ POD_elysium_events.14.option.b: "Je suis au-dessus de ces petites intrigues" #NT!
+ POD_elysium_events.14.effect.success.desc: "Une démonstration parfaite !" #NT!
+ POD_elysium_events.14.success: "Une démonstration parfaite !" #NT!
+ POD_elysium_events.14.failure.effect.desc: "Une performance adéquate" #NT!
+ POD_elysium_events.14.failure: "Une performance adéquate" #NT!
+ POD_elysium_events.14.critical.failure.effect.desc: "Une tentative ratée" #NT!
+ POD_elysium_events.14.critical.failure: "Une tentative ratée" #NT!
+  
+ POD_elysium_events.15.t: "L'Elysée : Théories" #NT!
+ POD_elysium_events.15.desc: "Ce soir, votre Elysium est très intéressé par un des derniers fades venant des mortels. Comme toujours, de nombreux vampires prétendent qu'ils sont les précurseurs des idées et inventions de ces mortels, mais sans aucune preuve. C’est un débat sans fin, mais qui constitue une excellente occasion de présenter ses propres théories sans réel risque de danger." #NT!
+ POD_elysium_events.15.option.a: "À propos de ça..." #NT!
+ POD_elysium_events.15.option.b: "Jeux d'esprit inutiles" #NT!
+ POD_elysium_events.15.effect.success.desc: "Un raisonnement convaincant !" #NT!
+ POD_elysium_events.15.success: "Un raisonnement convaincant !" #NT!
+ POD_elysium_events.15.failure.effect.desc: "Un raisonnement adéquat" #NT!
+ POD_elysium_events.15.failure: "Un raisonnement adéquat" #NT!
+ POD_elysium_events.15.critical.failure.effect.desc: "Un raisonnement bâclé" #NT!
+ POD_elysium_events.15.critical.failure: "Un raisonnement bâclé" #NT!
+  
+ POD_elysium_events.16.t: "L'Elysée : une cour itinérante ?" #NT!
+ POD_elysium_events.16.desc: "Tradition née du Ventrue allemand, l'Elysée itinérant est le processus consistant à déplacer votre cour d'une tenue à l'autre pendant plusieurs années, en visitant tous vos « sujets » en cours de route. En plus d'être une proposition privilégiée par vos vassaux, c'est également très bon pour des raisons de sécurité car vous ne restez pas trop longtemps au même endroit. L’inconvénient est votre incapacité à contrôler efficacement votre propre domaine lorsque vous êtes absent. Allez-vous adopter cette tradition au cours des cinq prochaines années ?" #NT!
+ POD_elysium_events.16.option.a: "Sur la route une fois de plus..." #NT!
+ POD_elysium_events.16.option.b: "Je suis vraiment une créature sédentaire" #NT!
+  
+ POD_elysium_events.17.t: "L'Elysée : Un protégé" #NT!
+ POD_elysium_events.17.desc: "Un de vos vassaux est très fier d'une belle découverte [patronvassal.GetSheHe] récemment faite. Un mortel apparemment suffisamment prometteur pour être exhibé autour de l'Elysée, ce qui est une occasion rare... et non officiellement autorisée. En tant que dirigeant ici, vous pouvez utiliser ce « faux-pas » pour vous emparer de ce mortel si vous le souhaitez. Ne vous attendez pas à ce que votre vassal vous pardonne bientôt." #NT!
+ POD_elysium_events.17.option.a: "J'ai de grands projets pour toi" #NT!
+ POD_elysium_events.17.option.b: "Bel animal de compagnie" #NT!
+  
+ POD_elysium_events.18.t: "L'Elysée : Qui est Caïn ?" #NT!
+ POD_elysium_events.18.desc: "La vraie nature de Caine a toujours fait l'objet d'un débat au sein de la communauté vampirique. Il n’est donc pas vraiment surprenant que votre Elysée fasse, une nouvelle fois, parler de lui. Chacun a sa propre opinion sur ce sujet, vous y compris. Qui était le premier vampire ? Un sauveur, un monstre, un simple meurtrier mortel ou autre chose ?" #NT!
+ POD_elysium_events.18.option.a: "Fils d'Adam et Ève, il fut le premier meurtrier" #NT!
+ POD_elysium_events.18.option.b: "Il est notre fléau et notre salut" #NT!
+ POD_elysium_events.18.option.c: "Personne n'est parti depuis longtemps" #NT!
+ POD_elysium_events.18.option.d: "Peut-être un gentil chauffeur de car ?" #NT!
+  
+ POD_elysium_events.19.t: "L'Elysée : Invité d'honneur" #NT!
+ POD_elysium_events.19.desc: "Avant que votre prochain Elysium ne commence véritablement, un de vos vassaux vous présente une demande : être l'invité d'honneur du prochain rassemblement. De toute évidence, de petites intrigues entre vos vassaux sont la raison de cette demande et l'accepter vous ferait paraître faible devant le reste de votre cour. Mais accepter signifierait que celui-ci vous est redevable, ce qui pourrait s'avérer utile." #NT!
+ POD_elysium_events.19.option.a: "Tu me dois maintenant" #NT!
+ POD_elysium_events.19.option.b: "Pas intéressé" #NT!
+  
+ POD_elysium_events.20.t: "L'Elysée : Un Cadeau" #NT!
+ POD_elysium_events.20.desc: "Un de vos vassaux se présente devant vous avec un cadeau, apparemment un héritage familial. C'est une offre alléchante, car vous pouvez soit la conserver comme objet de vanité, soit la vendre pour de l'argent utile. Mais évidemment, rien n’est vraiment donné dans le monde vampirique. Vous êtes sûr qu’il y aura un prix à payer plus tard pour une telle générosité." #NT!
+ POD_elysium_events.20.option.a: "Acceptez-le puis vendez-le" #NT!
+ POD_elysium_events.20.option.b: "Acceptez-le et gardez-le" #NT!
+ POD_elysium_events.20.option.c: "Tu peux le garder" #NT!
+  
+ POD_elysium_events.21.t: "L'Elysée : La Deuxième Génération" #NT!
+ POD_elysium_events.21.desc: "Le débat de ce soir à l'Elysée semble porter sur la deuxième génération. Ces enfants mythiques de Caïn lui-même ont sans doute été détruits par leur propre progéniture dans la légendaire ville d'Enoch. Certains contestent cependant cette théorie, voire même l’existence de telles créatures. Quel est ton opinion?" #NT!
+ POD_elysium_events.21.option.a: "Ils sont partis depuis longtemps, tués par la troisième génération" #NT!
+ POD_elysium_events.21.option.b: "Ils sont une leçon de fierté et de chute" #NT!
+ POD_elysium_events.21.option.c: "Contes de fées et croque-mitaines" #NT!
+ POD_elysium_events.21.option.d: "Je les aurais diabolisés si on m'en avait donné l'occasion" #NT!
+  
+ POD_elysium_events.109.t: "Chancelier : Formation diplomatique ?" #NT!
+ POD_elysium_events.109.desc: "Votre conseiller sollicite votre aide ce soir dans un dossier de formation. Un voyage parmi les tribunaux voisins pour en apprendre davantage sur leurs traditions et leurs particularités pourrait entraîner une amélioration significative. Cela aurait cependant une mauvaise image de vous, car vous admettriez que votre conseil pourrait être amélioré." #NT!
+ POD_elysium_events.109.option.a: "Vous avez ma permission" #NT!
+ POD_elysium_events.109.option.b: "Vous êtes suffisamment compétent" #NT!
+  
+ POD_elysium_events.209.t: "Steward : Formation administrative?" #NT!
+ POD_elysium_events.209.desc: "Votre conseiller sollicite votre aide ce soir dans un dossier de formation. Une grosse somme d’or investie dans diverses nouvelles entreprises mortelles pourrait donner lieu à des informations importantes pour votre intendant. Il y a cependant peu d’espoir que vous revoyiez un jour cet argent." #NT!
+  
+ POD_elysium_events.309.t: "Maréchal : Entraînement à la guerre ?" #NT!
+ POD_elysium_events.309.desc: "Votre conseiller sollicite votre aide ce soir dans un dossier de formation. De nouvelles armes de guerre ont été inventées par des mortels, et leur étude pourrait s’avérer instructive. Leur acquisition serait cependant coûteuse et nécessiterait une grande quantité de pots-de-vin." #NT!
+  
+ POD_elysium_events.409.t: "Aumônier de la Cour : une formation universitaire ?" #NT!
+ POD_elysium_events.409.desc: "Votre conseiller sollicite votre aide ce soir dans un dossier de formation. Plusieurs ouvrages importants ont retenu l'attention de votre conseiller et leur acquisition pourrait s'avérer importante. Il serait bien sûr très coûteux de s’assurer que ces écrits finissent en votre possession." #NT!
+  
+ POD_elysium_events.509.t: "Spymaster : Entraînement ténébreux ?" #NT!
+ POD_elysium_events.509.desc: "Votre conseiller sollicite votre aide ce soir dans un dossier de formation. Plusieurs petites opportunités se sont présentées dans votre région et votre maître espion aimerait les exploiter pour tester de nouvelles façons de traiter de telles questions. Cependant, être associé à des intrigues à si petite échelle ne vous conviendrait pas." #NT!
+  
+ POD_elysium_events.22.t: "L'Elysée : L'Étranger" #NT!
+ POD_elysium_events.22.desc: "Un vampire sans prétention est arrivé à votre Elysium de manière inattendue ce soir. Vous ne le connaissez pas et vous ne lui devez rien mais il demande votre hospitalité et la possibilité de discuter et de débattre avec vous et vos courtisans avant de poursuivre son chemin. Divertir ce qui semble être une personne errante n'est pas vraiment prestigieux, mais on a le sentiment qu'il pourrait être plus intéressant qu'il n'en a l'air." #NT!
+ POD_elysium_events.22.option.a: "Tu es mon invité ce soir" #NT!
+ POD_elysium_events.22.option.b: "Va-t-en, misérable !" #NT!
+ strangeraccepted_tooltip: "Est-ce qu'il cache quelque chose ?" #NT!
+  
+ POD_elysium_events.23.t: "L'Elysée : L'Étranger II" #NT!
+ POD_elysium_events.23.desc: "L'étrange solitaire qui est venu dans votre Elysium il y a plusieurs années est de retour, demandant une fois de plus votre hospitalité. Ce soir, il souhaite jouer à des jeux de société avec vous et votre cour, dont certains dont vous ignoriez même l'existence. Vous êtes toujours assez méfiant à l'égard de cet homme et vos courtisans ne l'aiment pas, mais vous ne pouvez pas vous débarrasser du sentiment qu'il serait peut-être préférable de lui faire plaisir." #NT!
+ POD_elysium_events.23.option.a: "Alors quelles sont les règles?" #NT!
+ POD_elysium_events.23.option.b: "Va-t-en, misérable !" #NT!
+  
+ POD_elysium_events.24.t: "L'Elysée : L'Étranger III" #NT!
+ POD_elysium_events.24.desc: "L'étrange vampire qui est déjà venu deux fois dans votre Elysée est de retour. Ce soir, il semble plus grand et plus redoutable qu'avant et ne demande pas votre hospitalité. Au lieu de cela, il demande à vous parler en privé. Vous vous sentez obligé d'accepter, ce qui le conduit dans une partie reculée de votre palais.\nL'homme a un sourire étrange et dit simplement "Vous en êtes digne" avant de vous donner une petite tasse de sang. Avant que vous puissiez enregistrer quoi que ce soit d'autre, il est déjà parti, vous laissant avec cette petite offrande débordante de pouvoir." #NT!
+ POD_elysium_events.24.option.a: "... et c'est le sang le plus délicieux que tu aies jamais eu" #NT!
+  
+ perfectstress_tooltip: "Cette option est disponible car vous n’avez aucun stress." #NT!
+ POD_elysium_events.403.option.c: "Je me sens déjà assez détendu, merci." #NT!
+  
+ POD_elysium_events.26.t: "L'Elysée : une arme de valeur ?" #NT!
+ POD_elysium_events.26.desc: "Un mystérieux étranger, qui n'est peut-être même pas un vampire du tout, est apparu d'une manière ou d'une autre à votre Elysée ce soir. Il vous fait directement une proposition, de l'or contre l'une des armes qu'il porte.\nNe s'intéressant à rien d'autre que cet éventuel échange, il accepte néanmoins de vous les montrer avant de s'engager dans une quelconque décision. Un simple coup d'œil suffit pour constater qu'il s'agit là d'armes authentiques, puissantes et rares.\nL'étranger attend votre réponse avec impatience." #NT!
+ POD_elysium_events.26.option.a: "Cette épée est magnifique." #NT!
+ POD_elysium_events.26.option.b: "Un glaive ! Comme c'est rétro !" #NT!
+ POD_elysium_events.26.option.c: "C'est quoi cette chose étrange ?" #NT!
+ POD_elysium_events.26.option.d: "Celui-ci a l’air menaçant." #NT!
+ POD_elysium_events.26.option.e: "Je n'ai besoin de rien." #NT!

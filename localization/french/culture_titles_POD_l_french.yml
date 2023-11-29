@@ -1,0 +1,197 @@
+﻿l_french:
+  
+ #################################################### 
+ #Special titles 
+ high_lord: "Monarque" #NT!
+ high_lady: "Haute Dame" #NT!
+ voivode_of_voivodes: "Voïvode parmi les Voïvodes" #NT!
+ voivode_of_voivodes_female: "Voïvode parmi les Voïvodes" #NT!
+ lord: "Seigneur" #NT!
+ lady: "Dame" #NT!
+ matriarch_love: "Matrone" #NT!
+ patriarch_love: "Patriarche" #NT!
+ all_high: "Tout haut" #NT!
+ high_valkyrie: "Haute Valkyrie" #NT!
+ khagan: "Khagan" #NT!
+ khatun: "Khatun" #NT!
+ caliph_ashirra: "Calife" #NT!
+ calipha_ashirra: "Calife" #NT!
+ eldest_assamites: "Aîné" #NT!
+ eldest_assamites_female: "Aîné" #NT!
+ chhatrapati: "Chatrapati" #NT!
+ chhatrapati_female: "Chatrapati" #NT!
+ hierophant: "Hiérophante" #NT!
+ hierophant_female: "Hiérophante" #NT!
+ delroh: "Del'Roh" #NT!
+ delroh_female: "Del'Roh" #NT!
+ firstscholar: "Premier érudit" #NT!
+ firstscholar_female: "Premier érudit" #NT!
+ domitor: "Domiteur" #NT!
+ domitrix: "Domitrice" #NT!
+ shaitan: "Shaitan" #NT!
+ shaitan_female: "Shaitan" #NT!
+ seraph: "Séraphin" #NT!
+ seraph_female: "Séraphin" #NT!
+ protector: "Protecteur" #NT!
+ protector_female: "Protecteur" #NT!
+ archbishop: "Archevêque" #NT!
+ archbishop_female: "Archevêque" #NT!
+ councilor: "Conseiller" #NT!
+ councilor_female: "Conseiller" #NT!
+ regent: "Régent" #NT!
+ crone: "Vieille femme" #NT!
+ dictator: "Dictateur" #NT!
+ dictator_female: "Dictatrice" #NT!
+ bishop: "Évêque" #NT!
+ bishop_female: "Évêque" #NT!
+ warleader: "Chef militaire" #NT!
+ warleader_female: "Chef militaire" #NT!
+ antasian_fiefs: "République romaine éternelle" #NT!
+ baron_avalon: "Baron" #NT!
+ baroness_avalon: "Baronne" #NT!
+ bishop_lasombra: "Évêque" #NT!
+ bishop_lasombra_female: "Évêque" #NT!
+ archbishop_lasombra: "Archevêque" #NT!
+ archbishop_lasombra_female: "Archevêque" #NT!
+ cardinal_lasombra: "Cardinal" #NT!
+ cardinal_lasombra_female: "Cardinal" #NT!
+ bishop_cainite: "Évêque" #NT!
+ bishop_cainite_female: "Évêque" #NT!
+ archbishop_cainite: "Archevêque" #NT!
+ archbishop_cainite_female: "Archevêque" #NT!
+ cardinal_cainite: "Cardinal" #NT!
+ cardinal_cainite_female: "Cardinal" #NT!
+ queen_of_love: "Reine" #NT!
+ king_of_love: "Roi" #NT!
+ voivode: "Voïvode" #NT!
+ voivode_female: "Voïvode" #NT!
+ count_furore: "Chef" #NT!
+ count_furore_female: "Chef" #NT!
+ duke_furore: "Protecteur" #NT!
+ duke_furore_female: "Protecteur" #NT!
+ king_furore: "Parangon" #NT!
+ king_furore_female: "Parangon" #NT!
+ emperor_furore: "Premier parmi ses pairs" #NT!
+ emperor_furore_female: "Premier parmi ses pairs" #NT!
+ count_promethean: "Rêveur" #NT!
+ count_promethean_female: "Rêveur" #NT!
+ duke_promethean: "Protecteur" #NT!
+ duke_promethean_female: "Protecteur" #NT!
+ king_promethean: "Dictateur" #NT!
+ king_promethean_female: "Dictateur" #NT!
+ emperor_promethean: "Suffète" #NT!
+ emperor_promethean_female: "Suffète" #NT!
+ count_senate: "Censurer" #NT!
+ count_senate_female: "Censurer" #NT!
+ duke_senate: "Sénateur" #NT!
+ duke_senate_female: "Sénateur" #NT!
+ king_senate: "Proconsul" #NT!
+ king_senate_female: "Proconsul" #NT!
+ emperor_senate: "Consul" #NT!
+ emperor_senate_female: "Consul" #NT!
+ count_tremere: "Magistère" #NT!
+ count_tremere_female: "Magistrice" #NT!
+ duke_tremere: "Régent" #NT!
+ duke_tremere_female: "Régent" #NT!
+ king_tremere: "Pontife" #NT!
+ king_tremere_female: "Pontife" #NT!
+ emperor_tremere: "Conseiller" #NT!
+ emperor_tremere_female: "Conseiller" #NT!
+ count_beast: "Membre de la meute" #NT!
+ count_beast_female: "Membre de la meute" #NT!
+ duke_beast: "Chef de meute" #NT!
+ duke_beast_female: "Chef de meute" #NT!
+ king_beast: "Chef militaire" #NT!
+ king_beast_female: "Dame de guerre" #NT!
+ emperor_beast: "Maître de guerre" #NT!
+ emperor_beast_female: "Maîtresse de Guerre" #NT!
+ count_setite: "Cultiste" #NT!
+ count_setite_female: "Cultiste" #NT!
+ duke_setite: "Passionné" #NT!
+ duke_setite_female: "Passionné" #NT!
+ king_setite: "pharaon" #NT!
+ king_setite_female: "pharaon" #NT!
+ emperor_setite: "Hiérophante" #NT!
+ emperor_setite_female: "Hiérophante" #NT!
+ ashirra_sea: "Califat des Ombres" #NT!
+ caeli_fiefs: "Église de la Croix Noire" #NT!
+ shulgi_alamut: "Alamut annoncé" #NT!
+ typhon_setites: "Typhonistes" #NT!
+ malkavian_leader: "Meilleur farceur" #NT!
+ malkavian_leader_female: "Meilleur farceur" #NT!
+ eternal_rome_leader: "Consul éternel" #NT!
+ eternal_rome_leader_female: "Consul éternel" #NT!
+ ventrue_leader: "Éphore" #NT!
+ ventrue_leader_female: "Éphore" #NT!
+ salubri_leader: "Sauveur" #NT!
+ salubri_leader_female: "Sauveur" #NT!
+ laibon_king: "Magaji" #NT!
+ laibon_king_female: "Magaji" #NT!
+ laibon_leader: "Premier Magaji" #NT!
+ laibon_leader_female: "Premier Magaji" #NT!
+ count_camarilla: "Prince" #NT!
+ count_camarilla_female: "Prince" #NT!
+ duke_camarilla: "Prince" #NT!
+ duke_camarilla_female: "Prince" #NT!
+ king_camarilla: "Prince" #NT!
+ king_camarilla_female: "Prince" #NT!
+ emperor_camarilla: "Conseiller" #NT!
+ emperor_camarilla_female: "Conseiller" #NT!
+ count_sabbat: "Prêtre" #NT!
+ count_sabbat_female: "Prêtre" #NT!
+ duke_sabbat: "Canal" #NT!
+ duke_sabbat_female: "Canal" #NT!
+ king_sabbat: "Évêque" #NT!
+ king_sabbat_female: "Évêque" #NT!
+ emperor_sabbat: "Archevêque" #NT!
+ emperor_sabbat_female: "Archevêque" #NT!
+ count_modernanarch: "Balayeuse" #NT!
+ count_modernanarch_female: "Balayeuse" #NT!
+ duke_modernanarch: "Héraut" #NT!
+ duke_modernanarch_female: "Héraut" #NT!
+ king_modernanarch: "Baron" #NT!
+ king_modernanarch_female: "Baronne" #NT!
+ emperor_modernanarch: "Premier parmi ses pairs" #NT!
+ emperor_modernanarch_female: "Premier parmi ses pairs" #NT!
+ count_hunters: "Inquisiteur" #NT!
+ count_hunters_female: "Inquisitrice" #NT!
+ duke_hunters: "Sous-recteur" #NT!
+ duke_hunters_female: "Sous-rectrice" #NT!
+ king_hunters: "Recteur" #NT!
+ king_hunters_female: "Rectrice" #NT!
+ emperor_hunters: "Grand Inquisiteur" #NT!
+ emperor_hunters_female: "Grande Inquisitrice" #NT!
+ baron_kueijin: "Ancêtre local" #NT!
+ baron_kueijin_female: "Ancêtre local" #NT!
+ count_kueijin: "Ancêtre de la ville" #NT!
+ count_kueijin_female: "Ancêtre de la ville" #NT!
+ duke_kueijin: "Ancêtre ducal" #NT!
+ duke_kueijin_female: "Ancêtre ducal" #NT!
+ king_kueijin: "Ancêtre royal" #NT!
+ king_kueijin_female: "Ancêtre royal" #NT!
+ imperial_ancestor_kueijin: "Ancêtre Impérial" #NT!
+ imperial_ancestor_kueijin_female: "Ancêtre Impérial" #NT!
+ august_ancestor_kueijin: "Ancêtre août" #NT!
+ august_ancestor_kueijin_female: "Ancêtre août" #NT!
+ revered_ancestor_kueijin: "Ancêtre vénéré" #NT!
+ revered_ancestor_kueijin_female: "Ancêtre vénéré" #NT!
+ count_werewolf: "Membre de la meute" #NT!
+ count_werewolf_female: "Membre de la meute" #NT!
+ duke_werewolf: "Chef de meute" #NT!
+ duke_werewolf_female: "Chef de meute" #NT!
+ king_werewolf: "Chef militaire" #NT!
+ king_werewolf_female: "Dame de guerre" #NT!
+ emperor_werewolf: "Maître de guerre" #NT!
+ emperor_werewolf_female: "Maîtresse de Guerre" #NT!
+ demon_duke_male: "Seigneur" #NT!
+ demon_duke_female: "Dame" #NT!
+ demon_king_male: "Suzerain" #NT!
+ demon_king_female: "Surdame" #NT!
+ demon_emperor_male: "Archiduc infernal" #NT!
+ demon_emperor_female: "Archiduchesse infernale" #NT!
+ demon_count_male: "Marquis" #NT!
+ demon_count_female: "Marquise" #NT!
+ fae_emperor_male: "Grand roi" #NT!
+ fae_emperor_female: "Haute Reine" #NT!
+ title_fae_empire: "Haut Royaume" #NT!
+  

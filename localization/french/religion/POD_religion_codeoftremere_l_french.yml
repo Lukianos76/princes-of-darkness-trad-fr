@@ -1,0 +1,88 @@
+﻿l_french:
+  
+  #Common Code of Tremere Localization 
+ codeoftremere_religion: "Code de Tremere" #NT!
+ codeoftremere_religion_adj: "démoniste" #NT!
+ codeoftremere_religion_adherent: "démoniste" #NT!
+ codeoftremere_religion_adherent_plural: "Démonistes" #NT!
+ codeoftremere_religion_desc: "La doctrine morale du [Clan|E] Tremere. Un ensemble strict de règles et de pratiques faisant respecter la volonté des Anciens du [Clan|E]." #NT!
+ codeoftremere_high_god_name: "Magie" #NT!
+ codeoftremere_high_god_name_possessive: "La magie" #NT!
+ codeoftremere_high_god_name_alternate: "La Magie" #NT!
+ codeoftremere_high_god_name_alternate_possessive: "La Magie" #NT!
+ codeoftremere_good_god_jesus: "$codeoftremere_health_god_name$" #NT!
+ codeoftremere_good_god_christ: "Tremere" #NT!
+ codeoftremere_devil_name: "La bête" #NT!
+ codeoftremere_devil_name_possessive: "Les bêtes" #NT!
+ codeoftremere_evil_god_lucifer: "La bête" #NT!
+ codeoftremere_evil_god_beelzebub: "La bête" #NT!
+ codeoftremere_evil_god_mephistopheles: "La bête" #NT!
+ codeoftremere_death_deity_name: "Destruction" #NT!
+ codeoftremere_death_deity_name_possessive: "Destruction" #NT!
+ codeoftremere_house_of_worship: "chantrie" #NT!
+ codeoftremere_house_of_worship_plural: "chantries" #NT!
+ codeoftremere_religious_symbol: "pyramide" #NT!
+ codeoftremere_religious_text: "Code de Tremere" #NT!
+ codeoftremere_religious_head_title: "régent" #NT!
+ codeoftremere_religious_head_title_name: "régent" #NT!
+ codeoftremere_devotee_male: "régent" #NT!
+ codeoftremere_devotee_male_plural: "régents" #NT!
+ codeoftremere_devotee_female: "régent" #NT!
+ codeoftremere_devotee_female_plural: "régents" #NT!
+ codeoftremere_devotee_neuter: "régent" #NT!
+ codeoftremere_devotee_neuter_plural: "régents" #NT!
+ codeoftremere_priest_male: "régent" #NT!
+ codeoftremere_priest_male_plural: "régents" #NT!
+ codeoftremere_priest_alternate_plural: "régents" #NT!
+ codeoftremere_bishop: "régent" #NT!
+ codeoftremere_bishop_plural: "régents" #NT!
+ codeoftremere_divine_realm: "Tapisserie" #NT!
+ codeoftremere_positive_afterlife: "Ombre" #NT!
+ codeoftremere_negative_afterlife: "les abysses" #NT!
+ codeoftremere_witchgodname_the_horned_god: "la bête" #NT!
+ codeoftremere_witchgodname_the_horned_god_possessive: "Les bêtes" #NT!
+  
+ codeoftremere_creator_god_name: "$codeoftremere_high_god_name$" #NT!
+ codeoftremere_creator_god_name_possessive: "$codeoftremere_high_god_name_possessive$" #NT!
+ codeoftremere_health_god_name: "Sang" #NT!
+ codeoftremere_health_god_name_possessive: "Le sang" #NT!
+ codeoftremere_fertility_god_name: "$codeoftremere_high_god_name$" #NT!
+ codeoftremere_fertility_god_name_possessive: "$codeoftremere_high_god_name_possessive$" #NT!
+ codeoftremere_wealth_god_name: "$codeoftremere_high_god_name$" #NT!
+ codeoftremere_wealth_god_name_possessive: "$codeoftremere_high_god_name_possessive$" #NT!
+ codeoftremere_household_god_name: "$codeoftremere_health_god_name$" #NT!
+ codeoftremere_household_god_name_possessive: "$codeoftremere_health_god_name_possessive$" #NT!
+ codeoftremere_fate_god_name: "$codeoftremere_high_god_name$" #NT!
+ codeoftremere_fate_god_name_possessive: "$codeoftremere_high_god_name_possessive$" #NT!
+ codeoftremere_knowledge_god_name: "$codeoftremere_high_god_name$" #NT!
+ codeoftremere_knowledge_god_name_possessive: "$codeoftremere_high_god_name_possessive$" #NT!
+ codeoftremere_war_god_name: "$codeoftremere_high_god_name$" #NT!
+ codeoftremere_war_god_name_possessive: "$codeoftremere_high_god_name_possessive$" #NT!
+ codeoftremere_trickster_god_name: "Fortune" #NT!
+ codeoftremere_trickster_god_name_possessive: "La Fortune" #NT!
+ codeoftremere_night_god_name: "$codeoftremere_high_god_name$" #NT!
+ codeoftremere_night_god_name_possessive: "$codeoftremere_high_god_name_possessive$" #NT!
+ codeoftremere_water_god_name: "$codeoftremere_health_god_name$" #NT!
+ codeoftremere_water_god_name_possessive: "$codeoftremere_health_god_name_possessive$" #NT!
+  
+  #Warlock-Group Faiths 
+ tremerecode: "Code de Tremere" #NT!
+ tremerecode_adj: "Code de Tremere" #NT!
+ tremerecode_adherent: "démoniste" #NT!
+ tremerecode_adherent_plural: "Démonistes" #NT!
+ tremerecode_desc: "Le Code de Tremere marque le [Clan|E] comme unique parmi les [cainites|E] ; aucun autre groupe n'adhère à un ensemble unifié de règles définissant un comportement acceptable. Aucune magie contraignante ne lie un Tremere au serment, à moins qu'un régent sévère ne décide activement de le faire respecter ; au lieu de cela, le code est une liste de facto de ce qui constitue un comportement acceptable pour un membre de l’auguste Maison Tremere. Le code précise ce que l'on attend de Tremere et quelles activités pourraient lui valoir la défaveur." #NT!
+  
+ viaservilis: "Via Servilis" #NT!
+ viaservilis_adj: "Via Servilis" #NT!
+ viaservilis_adherent: "Serviteur" #NT!
+ viaservilis_adherent_plural: "Serviteurs" #NT!
+ viaservilis_desc: "Communément appelée la Route du Service. Via Servilis proclame que seules les actions qui plaisent et vénèrent les créateurs du genre Gargouille sont dignes d'admiration." #NT!
+  
+  #Holy Orders 
+ holy_order_guardians_of_traditions: "Les gardiens des traditions" #NT!
+ holy_order_children_of_the_pyramid: "Les enfants de la pyramide" #NT!
+ holy_order_quaesitori: "Les Quaesitori" #NT!
+ holy_order_the_elite: "L'élite de la pyramide" #NT!
+ holy_order_the_covenant: "L'accord" #NT!
+ holy_order_the_astors: "Les Astors" #NT!
+  

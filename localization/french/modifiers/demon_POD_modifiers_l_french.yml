@@ -1,0 +1,84 @@
+﻿l_french:
+ resolve0_modifier: "Résoudre : 0" #NT!
+ resolve1_modifier: "Résoudre : 1" #NT!
+ resolve2_modifier: "Résoudre : 2" #NT!
+ resolve3_modifier: "Résoudre : 3" #NT!
+ resolve4_modifier: "Résolution : 4" #NT!
+ resolve5_modifier: "Résolution : 5" #NT!
+  
+ POD_shapeshift_form_apocalyptic_angelic_modifier: "Forme apocalyptique angélique" #NT!
+ POD_shapeshift_form_apocalyptic_damned_modifier: "Forme apocalyptique maudite" #NT!
+ POD_shapeshift_form_apocalyptic_lesser_modifier: "Forme apocalyptique moindre" #NT!
+ arsenal_of_the_beast_claws_modifier: "Les griffes" #NT!
+ arsenal_of_the_beast_claws_modifier_desc: "Les ongles du personnage s’étendent comme les serres recourbées d’un rapace ou les griffes rétractables d’un chat." #NT!
+ arsenal_of_the_beast_fangs_modifier: "Crocs" #NT!
+ arsenal_of_the_beast_fangs_modifier_desc: "Les dents du personnage deviennent pointues comme celles d’un loup ou d’un autre grand prédateur, ou peut-être arborent-elles le bec d’un rapace." #NT!
+ arsenal_of_the_beast_gaping_maw_modifier: "Gueule béante" #NT!
+ arsenal_of_the_beast_gaping_maw_modifier_desc: "La mâchoire du personnage se dégonfle ou se distend simplement d’une manière incroyablement large, présentant des rangées après rangées de crocs scintillants." #NT!
+ arsenal_of_the_beast_horns_modifier: "Cornes" #NT!
+ arsenal_of_the_beast_horns_modifier_desc: "Le personnage fait pousser des cornes de chèvre archétypales, des bois comme ceux d'un cerf, des éperons osseux artificiels dépassant du crâne ou une autre croissance permettant des attaques encornées." #NT!
+ arsenal_of_the_beast_lashing_tail_modifier: "Queue d'arrimage" #NT!
+ arsenal_of_the_beast_lashing_tail_modifier_desc: "Le personnage arbore une puissante queue musclée." #NT!
+ arsenal_of_the_beast_poison_modifier: "Poison" #NT!
+ arsenal_of_the_beast_poison_modifier_desc: "Le corps du personnage produit un venin mortel." #NT!
+ arsenal_of_the_beast_venom_spit_modifier: "Crachat de venin" #NT!
+ arsenal_of_the_beast_venom_spit_modifier_desc: "Le personnage a une glande à venin dans la gorge qui lui permet de pulvériser du poison." #NT!
+ arsenal_of_the_beast_spines_modifier: "Épines" #NT!
+ arsenal_of_the_beast_spines_modifier_desc: "Des pointes d’os ou de piquants dépassent de la peau du personnage." #NT!
+ arsenal_of_the_beast_tentacles_modifier: "Tentacules" #NT!
+ arsenal_of_the_beast_tentacles_modifier_desc: "Le personnage possède un long tentacule ou queue préhensile." #NT!
+ arsenal_of_the_beast_wings_modifier: "Ailes" #NT!
+ arsenal_of_the_beast_wings_modifier_desc: "Le personnage fait pousser de grandes ailes dans son dos, s'étirant à nouveau d'un tiers tant que le personnage est grand en extension complète." #NT!
+  
+ possessing_a_dead_body_modifier: "Posséder un cadavre" #NT!
+ possessing_a_dead_body_modifier_desc: "La maintenance de la possession du cadavre inflige des blessures au lieu d'un modificateur de perte de force vitale, mais vous conserverez la possession jusqu'à ce que votre vaisseau atteigne le niveau de blessure maximum." #NT!
+  
+ implacable_vengeance_perk_modifier: "Vengeance implacable" #NT!
+  
+ unknown_eminence_modifier: "Éminence inconnue" #NT!
+ unknown_eminence_modifier_desc: "Vous avez été oublié des mortels, de Dieu comme des démons. Votre Nom Céleste n'inspire plus peur ni respect." #NT!
+ known_eminence_modifier: "Éminence connue" #NT!
+ known_eminence_modifier_desc: "Votre Nom Céleste semble familier à de nombreux démons, même s'ils ne se souviennent pas de votre objectif initial ou de vos réalisations." #NT!
+ respected_eminence_modifier: "Éminence respectée" #NT!
+ respected_eminence_modifier_desc: "La plupart des démons ont probablement entendu parler de vous par votre nom et beaucoup ont une idée générale de ce que vous faisiez avant la rébellion, ne serait-ce que par affiliation générale." #NT!
+ honored_eminence_modifier: "Éminence honorée" #NT!
+ honored_eminence_modifier_desc: "Vous aviez une position d’autorité sur un groupe d’autres anges avant et pendant la rébellion. Il vous appartenait de concevoir ou de maintenir une facette particulière de la Création, englobant un certain nombre de concepts, d'êtres ou d'objets intégrés." #NT!
+ powerful_eminence_modifier: "Éminence puissante" #NT!
+ powerful_eminence_modifier_desc: "Autrefois, vous avez dirigé vos frères dans la création d’une partie intégrante du cosmos. Peut-être que les conceptions mêmes de cette œuvre étaient les vôtres et que vous étiez célèbre dans tout le pays pour votre ingéniosité et votre vision." #NT!
+ exalted_eminence_modifier: "Éminence exaltée" #NT!
+ exalted_eminence_modifier_desc: "Au commencement, il y avait la Parole, et vous étiez parmi les syllabes suivantes prononcées par Lui. Vous avez dirigé une division entière de la création et avez soutenu Lucifer comme l'un de ses officiers choisis dans la rébellion. Tous les démons vous connaissent et connaissent votre nom céleste, qu’ils se souviennent ou non de pourquoi." #NT!
+  
+ host_leech_modifier_terrible: "Soul Leeching : Terrible hôte" #NT!
+ host_leech_modifier_terrible_desc: "Votre hôte actuel vous « fournit » généreusement certains de ses atouts (très limités)." #NT!
+ host_leech_modifier_medium: "Soul Leeching : Hôte moyen" #NT!
+ host_leech_modifier_medium_desc: "Votre hôte actuel vous « met généreusement à la disposition » certains de ses atouts." #NT!
+ host_leech_modifier_good: "Soul Leeching : Bon hôte" #NT!
+ host_leech_modifier_good_desc: "Votre hôte actuel vous « met généreusement à la disposition » certains de ses atouts considérables." #NT!
+  
+ earthbound_modifier: "Influence terrestre" #NT!
+ earthbound_modifier_desc: "Les démons liés à des lieux peuvent percevoir tout ce qui se passe à l'intérieur de cet lieu ; leurs sens sont omniprésents et ne sont pas affectés par des choses comme les murs et l'obscurité." #NT!
+ earthbound_negative_modifier: "Influence terrestre" #NT!
+ earthbound_negative_modifier_desc: "Les démons liés à des lieux peuvent percevoir tout ce qui se passe à l'intérieur de cet lieu ; leurs sens sont omniprésents et ne sont pas affectés par des choses comme les murs et l'obscurité." #NT!
+  
+ low_gravity_modifier: "[battle_modifier|E] : Faible gravité" #NT!
+ high_gravity_modifier: "[battle_modifier|E] : Haute gravité" #NT!
+ high_adhesion_modifier: "[battle_modifier|E] : Haute Adhérence" #NT!
+ low_adhesion_modifier: "[battle_modifier|E] : Faible Adhérence" #NT!
+ momentum_boost_modifier: "[battle_modifier|E] : Boost d'élan" #NT!
+ protection_from_projectile_modifier: "Protection contre les projectiles" #NT!
+ protection_from_projectile_modifier_desc: "Moins de chances d'être blessé ou d'être tué au combat." #NT!
+  
+ unspeakable_servitor_modifier: "Serviteur indescriptible" #NT!
+  
+ longevity_modifier: "Espérance de vie supplémentaire" #NT!
+  
+ possessed_demonic_modifier: "Possédé par un démon" #NT!
+ possessed_demonic_modifier_desc: "L’acte de possession condamnera ce personnage à une mort inéluctable et hideuse." #NT!
+  
+ POD_demon_pacts_1_modifier: "Pactes infernaux" #NT!
+ POD_demon_pacts_2_modifier: "Pactes infernaux" #NT!
+ POD_demon_pacts_3_modifier: "Pactes infernaux" #NT!
+ POD_demon_pacts_4_modifier: "Pactes infernaux" #NT!
+ POD_demon_pacts_5_modifier: "Pactes infernaux" #NT!
+  
+ extinguish_life_modifier: "Éteindre la vie" #NT!

@@ -1,0 +1,15 @@
+﻿l_french:
+ POD_custom_nickname.10.t: "Surnom personnalisé" #NT!
+ POD_custom_nickname.10.desc: "De nombreux habitants du Monde des Ténèbres sont connus par bien plus que leur nom ; êtes-vous l'un d'entre eux ou n'avez-vous pas encore gagné un tel honneur ?" #NT!
+ POD_custom_nickname.10.a: "Oui, permets-moi de choisir comment je m'appellerai" #NT!
+ POD_custom_nickname.10.b: "Non, je n'ai pas encore de pseudo" #NT!
+  
+ POD_custom_nickname.100.t: "Surnom personnalisé" #NT!
+ POD_custom_nickname.100.desc: "Une décision importante doit être prise, comment souhaitez-vous être appelé ? \n\nSi vous prenez une mauvaise décision, vous devrez vivre avec pendant très longtemps." #NT!
+ POD_custom_nickname.100.a: "Désormais, je serai connu sous le nom de..." #NT!
+  
+    #Both of these are needed for the custom nickname to work properly. 
+ nick_POD_custom_nickname1: "[ROOT.Char.GetLocalizedText('POD_custom_nickname_text')]" #NT!
+ nick_POD_custom_nickname2: "[CHARACTER.Custom('PODCustomNickname')]" #NT!
+  
+ nick_POD_custom_nickname_default: "le défunt" #NT!

@@ -1,0 +1,646 @@
+﻿l_french:
+ game_concept_princes_of_darkness: "Princes des Ténèbres" #NT!
+ game_concept_princesofdarkness: "$game_concept_princes_of_darkness$" #NT!
+ game_concept_princes_of_darkness_desc: "Un mod pour Crusader Kings 3 axé sur les créatures surnaturelles du « [world_of_darkness|E] » de White Wolf. Vous y jouez en ce moment ! Un [prince|E] est le titre foncier principal d'un [GetTrait('vampire').GetName( GetNullCharacter )] qui dirige un domaine, équivalent à un CK3 [duchy|E]. Qu'est-ce que l'obscurité ? Regardez à l'intérieur de vous-même." #NT!
+ game_concept_POD: "Cosse" #NT!
+  
+ game_concept_world_of_darkness: "Monde des ténèbres" #NT!
+ game_concept_WoD: "WoD" #NT!
+ game_concept_world_of_darkness_desc: "Le Monde des Ténèbres est un univers qui existe depuis plus de 30 ans maintenant, et qui est couvert par des centaines de livres et autres médias. L'idée principale est que, dans notre monde, plusieurs factions de créatures surnaturelles interagissent sous la surface, créant un monde souterrain plein d'intrigues et d'histoires." #NT!
+  
+ game_concept_prince: "Prince" #NT!
+ game_concept_the_prince: "Le prince" #NT!
+ game_concept_the_princes: "Les princes" #NT!
+ game_concept_princes: "Princes" #NT!
+ game_concept_prince_desc: "Un $prince$ est le titre foncier principal d'un [GetTrait('vampire').GetName( GetNullCharacter )] qui dirige un domaine, équivalent à un CK3 [duchy|E]." #NT!
+  
+ game_concept_bloodpotency: "Puissance du sang" #NT!
+ game_concept_bloodpotency_desc: "$game_concept_bloodpotency$ est le pouvoir inhérent du sang d'un [GetTrait('vampire').GetName( GetNullCharacter )] qui augmente lentement au fil du temps et est limité par le [vampgeneration|E] du [GetTrait('vampire').GetName( GetNullCharacter )]. $game_concept_bloodpotency$ diminue lentement dans [torpor|E]. Il peut augmenter plus rapidement en diabolisant le $POD_splat_vampire_plural$ avec une puissance sanguine plus élevée. $game_concept_bloodpotency$ a un impact sur la rapidité avec laquelle l'utilisation du [discipline|E] augmente la faim et sur l'impact de vos pouvoirs [GetTrait('vampire').GetName( GetNullCharacter )] comme [GetTrait('vampire').GetName( GetNullCharacter )]0." #NT!
+ game_concept_blood_potency: "$game_concept_bloodpotency$" #NT!
+  
+ game_concept_vampgeneration: "Génération" #NT!
+ game_concept_generation: "Génération" #NT!
+ game_concept_vampgeneration_desc: "Selon [cainites|E], ce sont les distances du sang d'un [GetTrait('vampire').GetName( GetNullCharacter )] du père de tous $POD_splat_vampire_plural$ — Caïn. Caïn est du [GetTrait('vampgeneration1').GetName( GetNullCharacter )]. Les vampires du [GetTrait('vampgeneration14').GetName( GetNullCharacter )] ou supérieur ont le sang « maigre » et sont presque humains et à peine des vampires. Les vampires qui ne croient pas que Caïn soit l'ancêtre font souvent remonter leur [vampgeneration|E] à un autre fondateur mythique. Les vampires peuvent diminuer leur [vampgeneration|E], et ainsi augmenter leur puissance potentielle, en commettant le [diablerie|E] sur un vampire de [vampgeneration|E] inférieur au leur." #NT!
+  
+ game_concept_bloodbond: "Lien de sang" #NT!
+ game_concept_bloodbond_desc: "Boire du sang [GetTrait('vampire').GetName( GetNullCharacter )] crée généralement des sentiments de loyauté et d'obéissance intenses envers le [GetTrait('vampire').GetName( GetNullCharacter )]. Également appelé « Serment de sang », cela agit comme un crochet d'intensité croissante, à mesure que la consommation de sang augmente. Certains vampires sont incapables de créer des liens avec leur sang. Les autres vampires sont totalement indissociables." #NT!
+ game_concept_blood_oath: "$game_concept_bloodoath$" #NT!
+ game_concept_bloodoath: "Serment de sang" #NT!
+ game_concept_blood_bond: "$game_concept_bloodbond$" #NT!
+  
+ game_concept_beast: "Bête" #NT!
+ game_concept_the_beast: "$game_concept_thebeast$" #NT!
+ game_concept_thebeast: "La bête" #NT!
+ game_concept_beast_desc: "[the_beast|E] est un terme utilisé par $POD_splat_vampire_plural$ pour décrire le prédateur intérieur qui s'efforce de contrôler son esprit. Elle est en opposition directe avec leur humanité et est responsable de nombreuses pulsions dégradées ressenties par le [cainites|E] au quotidien.\n\nDans les moments de détresse extrême, la Bête peut submerger un [GetTrait('vampire').GetName( GetNullCharacter )] en le forçant à entrer dans la frénésie, un état de frénésie. combat ou fuite purement animal.\n\nAu [princes_of_darkness|E], la Bête vous parlera parfois #R comme ça#!. Si un [GetTrait('vampire').GetName( GetNullCharacter )] devient négatif en [piety|E], elle risque de tomber dans une frénésie permanente et de devenir un [GetTrait('wight').GetName( GetNullCharacter )]. Il s'agit d'une abdication de facto à leur $POD_splat_vampire_plural$0." #NT!
+  
+ game_concept_the_masquerade: "La mascarade" #NT!
+ game_concept_masquerade: "La mascarade" #NT!
+ game_concept_masquerade_exposure: "Exposition à la mascarade" #NT!
+ game_concept_masquerade_i: "@masquerade_icon !" #NT!
+ game_concept_masquerade_exposure_with_icon: "@masquerade_icon ! Exposition à la mascarade" #NT!
+ game_concept_masquerade_desc: "La Mascarade est un terme utilisé par $POD_splat_vampire_plural$ pour décrire le fait de garder son existence secrète envers les mortels. Violer la Mascarade peut entraîner des complications telles que se faire attaquer par des chasseurs. Dans certains domaines, il peut être considéré comme un [crime|E] parmi les vampires.\nLa plupart des religions peuvent dissimuler les violations de la Mascarade en utilisant un [character_interaction|E] personnel. Une exposition trop élevée à la mascarade entraînera des révoltes de factions et des événements au cours desquels votre personnage sera attaqué." #NT!
+  
+ game_concept_cainites: "Caïnites" #NT!
+ game_concept_cainite: "Caïnite" #NT!
+ game_concept_cainite_desc: "La plupart des $POD_splat_vampire_plural$ sont d'accord avec « l'histoire de l'origine de Caïn » pour leur espèce. Le premier meurtrier biblique, après avoir tué son propre frère Abel, fut maudit par Dieu et ses anges de diverses manières, aboutissant finalement à la condition vampirique connue aujourd'hui.\nEn tant que tel, Caïnite est devenu un terme très couramment utilisé par les vampires pour se décrire." #NT!
+  
+ game_concept_diablerist: "diableriste" #NT!
+ game_concept_diablerists: "diableristes" #NT!
+ game_concept_diablerizing: "Diablerisant" #NT!
+ game_concept_diablerized: "Diablerisé" #NT!
+ game_concept_diablerize: "Diableriser" #NT!
+ game_concept_diablerie: "Diablerie" #NT!
+ game_concept_diablerie_desc: "Le crime le plus odieux qu'un vampire puisse commettre, une diablerie se produit lorsque tout le sang d'un vampire est consommé par un autre, ce qui entraîne également la consommation de l'âme de la victime. Ce processus, bien que très mal vu par la plupart, se traduit par une plus grande force pour l'agresseur car il peut apprendre certains pouvoirs de la victime ou diminuer sa génération, la rapprochant ainsi de Caine.\nDans le jeu, la diablerie est un plan disponible contre d'autres $POD_splat_vampire_plural$ . Si vous parvenez à y parvenir, vous pouvez obtenir de nouveaux pouvoirs, une puissance sanguine accrue, une génération réduite, mais au prix d'une grande quantité de piété (selon votre religion) et d'un secret difficile à porter désormais." #NT!
+ game_concept_Diablerist: "Diableriste" #NT!
+ game_concept_amaranth: "Amarante" #NT!
+  
+ game_concept_resonance: "Résonance" #NT!
+ game_concept_resonances: "Résonances" #NT!
+ game_concept_humor: "Humour" #NT!
+ game_concept_humors: "Humours" #NT!
+ game_concept_humour: "Humour" #NT!
+ game_concept_humours: "Humours" #NT!
+ game_concept_humorism: "Humourisme" #NT!
+ game_concept_humourism: "Humourisme" #NT!
+  
+ game_concept_resonance_desc: "Le sang a une certaine qualité basée sur la personnalité et les émotions de son vaisseau. La consommation de sang confère le pouvoir $POD_splat_vampire_plural$ en fonction du caractère du $game_concept_resonance$. Vous gagnez plus d'expérience [discipline|E] en buvant du sang d'une résonance particulière ou en utilisant un [discipline|E] particulier. Les résonances sont :\n$BULLET_WITH_TAB$[choleric_lifestyle|E]\n$BULLET_WITH_TAB$[melancholy_lifestyle|E]\n$BULLET_WITH_TAB$[phlegmatic_lifestyle|E]\n$BULLET_WITH_TAB$$game_concept_resonance$1\n$BULLET_WITH_TAB$$game_concept_resonance$3" #NT!
+  
+ game_concept_torpor: "Torpeur" #NT!
+ game_concept_torpor_desc: "La torpeur est un état d'animation suspendue pour un [GetTrait('vampire').GetName( GetNullCharacter )]. Même s’ils ne peuvent pas bouger, ils peuvent être conscients des événements qui se produisent autour d’eux. Cela peut être causé par un pieu dans le cœur, des dégâts corporels suffisants, une grande faim ou un ennui.\nUn personnage avec le trait de torpeur est gravement affaibli, ne peut pas interagir avec la plupart des actions et ne peut pas gouverner. Ils peuvent être réveillés par le spécial Trouver un refuge caché [character_interaction|E]." #NT!
+ game_concept_torpid: "$game_concept_torpid$" #NT!
+  
+ game_concept_hunger: "Faim" #NT!
+ game_concept_hunger_desc: "$game_concept_hunger$ est le désir d'un [GetTrait('vampire').GetName( GetNullCharacter )] de consommer du sang. Cela est dû au [the_beast|E]. Plus le $game_concept_bloodpotency$ d'un [GetTrait('vampire').GetName( GetNullCharacter )] est élevé, plus il a besoin de sang pour abaisser son $game_concept_hunger$. L'augmentation du $game_concept_hunger$ a des impacts à la fois positifs mais largement négatifs sur un [GetTrait('vampire').GetName( GetNullCharacter )]. La seule manière de rassasier complètement le $game_concept_hunger$ d'un [GetTrait('vampire').GetName( GetNullCharacter )] est de tuer et de drainer tout le sang d'une victime. Même cette satiété du $game_concept_hunger$ est temporaire." #NT!
+ game_concept_the_hunger: "La faim" #NT!
+ game_concept_blood_hunger: "Faim de sang" #NT!
+ game_concept_the_thirst: "La soif" #NT!
+ game_concept_thirst: "La soif" #NT!
+ game_concept_blood_thirst: "Soif de sang" #NT!
+ game_concept_hunger_i: "@blood_icon !" #NT!
+ game_concept_hunger_with_icon: "@blood_icon!La faim" #NT!
+  
+ game_concept_discipline: "Discipline" #NT!
+ game_concept_disciplines: "Disciplines" #NT!
+ game_concept_discipline_desc: "L'origine des pouvoirs vampiriques connus sous le nom de Disciplines est inconnue, mais beaucoup pensent qu'ils sont des dons de Caïn ou de Lilith, et quelques [antediluvians|E] auraient inventé des Disciplines uniques qui ont été transmises à travers leur lignée. D'autres pensent qu'il s'agit de pouvoirs innés inhérents au corps mort-vivant.\nDans le jeu, les disciplines sont traitées comme des arbres de modes de vie dans lesquels vous pouvez débloquer des pouvoirs. Pour démarrer l’un de ces arbres, vous devez posséder le trait Discipline correspondant. L'XP de ces arbres est la résonance sanguine, obtenue en chassant les mortels." #NT!
+  
+ game_concept_choleric_lifestyle: "Résonance colérique" #NT!
+ game_concept_yellow_bile: "$game_concept_yellowbile$" #NT!
+ game_concept_yellowbile: "Bile jaune" #NT!
+ game_concept_choleric_lifestyle_desc: "Le $game_concept_choleric_lifestyle$ convient aux $POD_splat_vampire_plural$ qui souhaitent améliorer le [disciplines|E] qui implique de se nourrir de sang avec des émotions comme la colère et l'envie. Recherchez des proies avec une personnalité [traits|E] comme [GetTrait('wrathful').GetName( GetNullCharacter )] et [GetTrait('sadistic').GetName( GetNullCharacter )].\n\nSes [disciplines|E] communs incluent :\n$BULLET_WITH_TAB$[GetTrait('celerity').GetName( GetNullCharacter )]\n$BULLET_WITH_TAB$$POD_splat_vampire_plural$0\n\nSes [disciplines|E] rares incluent :\n$BULLET_WITH_TAB$$POD_splat_vampire_plural$3 \n$BULLET_WITH_TAB$$POD_splat_vampire_plural$5" #NT!
+  
+ game_concept_sanguine_lifestyle: "Résonance Sanguine" #NT!
+ game_concept_sanguine: "Sanguine" #NT!
+ game_concept_sanguine_lifestyle_desc: "Le $game_concept_sanguine_lifestyle$ convient aux $POD_splat_vampire_plural$ qui souhaitent améliorer le [disciplines|E] qui implique de se nourrir de sang avec des émotions comme le bonheur et l'enthousiasme. Recherchez des proies avec une personnalité [traits|E] comme [GetTrait('gregarious').GetName( GetNullCharacter )] et [GetTrait('lustful').GetName( GetNullCharacter )].\n\nSes [disciplines|E] communs incluent :\n$BULLET_WITH_TAB$[GetTrait('presence').GetName( GetNullCharacter )]\n\nSes [disciplines|E] rares incluent :\n$BULLET_WITH_TAB$$POD_splat_vampire_plural$1\n$BULLET_WITH_TAB$$POD_splat_vampire_plural$3 \n$BULLET_WITH_TAB$$POD_splat_vampire_plural$5" #NT!
+  
+ game_concept_faith_lifestyle: "La vraie foi" #NT!
+ # game_concept_faith: "$game_concept_faith_lifestyle$" #NT!
+ game_concept_faith_lifestyle_desc: "Une aubaine rare pour les personnages très zélés, le trait True Faith ouvre le style de vie du même nom, où divers pouvoirs peuvent être acquis avec l'XP de style de vie correspondant." #NT!
+  
+ game_concept_phlegmatic_lifestyle: "Résonance flegmatique" #NT!
+ game_concept_phlegm: "Flegme" #NT!
+ game_concept_phlegmatic: "Flegmatique" #NT!
+ game_concept_phlegmatic_lifestyle_desc: "La résonance flegmatique convient aux $POD_splat_vampire_plural$ qui souhaitent améliorer le [disciplines|E] qui implique de se nourrir de sang avec des émotions comme la sentimentalité et le contrôle. Recherchez des proies avec une personnalité [traits|E] comme [GetTrait('lazy').GetName( GetNullCharacter )] et [GetTrait('content').GetName( GetNullCharacter )].\n\nSes [disciplines|E] communs incluent :\n$BULLET_WITH_TAB$[GetTrait('auspex').GetName( GetNullCharacter )]\n$BULLET_WITH_TAB$[GetTrait('dominate').GetName( GetNullCharacter )]\n\nSes [disciplines|E] rares incluent :\n$BULLET_WITH_TAB$[disciplines|E]2 \n$BULLET_WITH_TAB$[disciplines|E]4\n$BULLET_WITH_TAB$[disciplines|E]6\n$BULLET_WITH_TAB$[disciplines|E]8" #NT!
+  
+ game_concept_melancholy_lifestyle: "Résonance mélancolique" #NT!
+ game_concept_black_bile: "$game_concept_blackbile$" #NT!
+ game_concept_blackbile: "Bile noire" #NT!
+ game_concept_melancholic: "Mélancolique" #NT!
+ game_concept_melancholy_lifestyle_desc: "Le $game_concept_melancholy_lifestyle$ convient aux $POD_splat_vampire_plural$ qui souhaitent améliorer le [disciplines|E] qui implique de se nourrir de sang avec des émotions comme la tristesse et l'intellectualisation. Recherchez des proies avec une personnalité [traits|E] comme [GetTrait('shy').GetName( GetNullCharacter )] et [GetTrait('craven').GetName( GetNullCharacter )].\n\nSes [disciplines|E] communs incluent :\n$BULLET_WITH_TAB$[GetTrait('fortitude').GetName( GetNullCharacter )]\n$BULLET_WITH_TAB$$POD_splat_vampire_plural$0\n\nSes [disciplines|E] rares incluent :\n$BULLET_WITH_TAB$$POD_splat_vampire_plural$3 \n$BULLET_WITH_TAB$$POD_splat_vampire_plural$5\n$BULLET_WITH_TAB$$POD_splat_vampire_plural$7\n$BULLET_WITH_TAB$$POD_splat_vampire_plural$9\n$BULLET_WITH_TAB$[disciplines|E]1" #NT!
+  
+ game_concept_animal_lifestyle: "Résonance animale" #NT!
+ game_concept_animal_lifestyle_desc: "Le $game_concept_animal_lifestyle$ convient aux $POD_splat_vampire_plural$ qui souhaitent améliorer le [disciplines|E] impliquant l'alimentation à partir d'animaux. Recherchez des animaux comme proies.\n\nSes [disciplines|E] communs incluent :\n$BULLET_WITH_TAB$[GetTrait('animalism').GetName( GetNullCharacter )]\n$BULLET_WITH_TAB$[GetTrait('protean').GetName( GetNullCharacter )]\n\nSes [disciplines|E] rares incluent :\n$BULLET_WITH_TAB$$POD_splat_vampire_plural$0\n$BULLET_WITH_TAB$$POD_splat_vampire_plural$2\n $BULLET_WITH_TAB$$POD_splat_vampire_plural$4" #NT!
+  
+ game_concept_discipline_power: "Pouvoir disciplinaire" #NT!
+ game_concept_discipline_power_desc: "Les pouvoirs [discipline|E] sont l'application de [disciplines|E], permettant à $POD_splat_vampire_plural$ d'accomplir des exploits surnaturels ou de leur accorder d'étranges capacités." #NT!
+  
+ game_concept_bind_famulus: "Lier Famulus" #NT!
+ game_concept_bind_famulus_desc: "Bind Famulus est un [character_interaction|E] qui vous permet de créer un famulus lors du Blood Bonding d'un animal, formant un lien mental avec lui et facilitant l'utilisation d'autres pouvoirs de l'Animalisme." #NT!
+  
+ game_concept_animal_succelence: "Succulence animale" #NT!
+ game_concept_animal_succelence_desc: "Le vampire peut abattre des [hunger|E] supplémentaires en se nourrissant d'animaux. En outre, le vampire peut consommer son famulus, obtenant ainsi une nourriture bien supérieure à celle d'un animal de stature similaire et absorbant une partie de son trait principal." #NT!
+  
+ game_concept_blood_draught: "Brouillon" #NT!
+ game_concept_blood_draught_desc: "Le sang du vampire se sature du pouvoir de son [discipline|E], transmettant une partie de ce pouvoir à quiconque en boit. Le Draft est administré au moyen d'un [character_interaction|E]." #NT!
+  
+ game_concept_shapeshift: "Se métamorphoser" #NT!
+ game_concept_shapeshift_desc: "Un [character_interaction|E] qui permet à l'utilisateur de transformer sa forme d'une manière ou d'une autre, généralement née de Protean ou de Vicissitude." #NT!
+  
+ game_concept_feral_weapons: "Armes sauvages" #NT!
+ game_concept_feral_weapons_desc: "Le vampire peut étendre ses armes naturelles jusqu'à atteindre des proportions monstrueuses, qui prennent généralement la forme d'ongles s'étendant en serres méchantes, mais peuvent également prendre d'autres formes telles que des crocs s'étendant en véritables poignards, comme ceux d'un serpent gigantesque. Une sous-compétence [shapeshift|E]." #NT!
+  
+ game_concept_tenebrous_avatar: "Avatar ténébreux" #NT!
+ game_concept_tenebrous_avatar_desc: "La maîtrise des ténèbres par les vampires est si étendue qu'ils peuvent physiquement le devenir. Lors de l’activation de ce pouvoir, le vampire se transforme en une tache d’ombre amiboïde et d’encre. Les vampires sous cette forme sont pratiquement invulnérables et peuvent se faufiler à travers les fissures et les crevasses. De plus, le vampire de l’ombre acquiert la capacité de voir dans l’obscurité naturelle. Une sous-compétence [shapeshift|E]." #NT!
+  
+ game_concept_bloodsorcery: "Sorcellerie du sang" #NT!
+ game_concept_blood_sorcery: "$game_concept_bloodsorcery$" #NT!
+ game_concept_blood_magic: "Magie du sang" #NT!
+ game_concept_thaumaturgy: "Thaumaturgie" #NT!
+ game_concept_durnaki: "Dur-Na-Ki" #NT!
+ game_concept_bloodsorcery_desc: "La sorcellerie du sang, également appelée Thaumaturgie, Heku, Durnaki et Valeran, est l'art d'utiliser Vampiric Vitae pour évoquer de puissants effets magiques. Possédée par quelques rares clans et gardée jalousement, la sorcellerie du sang est un outil puissant mais dangereux et coûteux. Chaque faction a sa propre manière d'invoquer le pouvoir du sang : les Tremere utilisent la magie et le symbolisme hermétiques, les sorciers des Banu Haqim concluent des pactes avec l'esprit et les dieux. Au même moment, les Lasombras plongent dans les abysses pour des évocations arcaniques. On dit que la magie du sang a le pouvoir de faire presque tout - et bien que ces affirmations proviennent généralement soit de praticiens souhaitant créer une image effrayante, soit de victimes de malédictions et de boules de feu, il est effectivement vrai que la sorcellerie du sang donne accès à une myriade de sorts et de capacités. qu'on peut considérer... Contre nature. \n Toute personne possédant la discipline de sorcellerie du sang peut ouvrir le menu de sorcellerie du sang via [character_interaction|E]. À l'intérieur, les mages peuvent acheter des sorts s'ils en ont suffisamment de [bloodsorcery_exp|E] et lancer des sorts et des malédictions." #NT!
+  
+ game_concept_bloodsorcery_exp: "Expérience de sorcellerie du sang" #NT!
+ game_concept_bloodsorcery_exp_short: "exp" #NT!
+ game_concept_bloodsorcery_exp_desc: "Une mesure de ce que votre personnage a appris dans les arts du [bloodsorcery|E]. L'XP de sorcellerie sanguine est nécessaire pour apprendre de nouveaux pouvoirs et progresser dans les voies et est accordée de deux manières : \n 1. Un personnage recevra une allocation annuelle d'expérience en fonction de son apprentissage. \n 2. Chaque fois qu'un sorcier lance avec succès un sort, ils obtiendront de l'XP." #NT!
+  
+ game_concept_necromancy: "Nécromancie" #NT!
+ game_concept_mortis: "Mortis" #NT!
+ game_concept_necromancy_desc: "La nécromancie est une forme de [bloodsorcery|E] qui traite de la mort, du [underworld|E] et des spectres, les âmes des morts. \n En utilisant les pouvoirs de l'oubli et des abysses, les nécromanciens peuvent lier les spectres à leur volonté et leur ordonner d'accomplir diverses tâches - de l'espionnage au [possession|E]." #NT!
+  
+ game_concept_primogen: "Primogène" #NT!
+ game_concept_primogen_desc: "Primogen est un titre officiel pour les $POD_splat_vampire_plural$ qui sont les représentants de leur [Clans|E]. Ils sont généralement le membre le plus âgé de leur clan dans la ville. En général, la décision [princes|E] valorise le Primogène et ses opinions. Ils sont appelés à se consulter sur les décisions, et leurs recommandations ont un grand poids.\n\nDans le jeu, les Primogen sont [court_positions|E] disponibles pour les vampires de [kingdom|E] [rank|E] et plus. Un [Clan|E] qui n'est pas représenté par un Primogène se sentira marginalisé, ce qui entraînera des pénalités [opinion|E] avec ses membres.\n\nPour des indices sur ce qui fait un Primogène compétent, voir [primogen_aptitude|E]." #NT!
+  
+ game_concept_primogen_aptitude: "Aptitude Primogène" #NT!
+ game_concept_primogen_aptitude_desc: "Différents ensembles de compétences sont requis pour chaque [primogen|E] [court_position|E].\n\n$EFFECT_LIST_BULLET$[assamite_primogen|E]\n$EFFECT_LIST_BULLET$[brujah_primogen|E]\n$EFFECT_LIST_BULLET$[cappadocian_primogen|E]\n$EFFECT_LIST_BULLET$[gangrel_primogen|E]\n$EFFECT_LIST_BULLET$[court_position|E]1\n$EFFECT_LIST_BULLET$[court_position|E]3\ n$EFFECT_LIST_BULLET$[court_position|E]5\n$EFFECT_LIST_BULLET$[court_position|E]7\n$EFFECT_LIST_BULLET$[court_position|E]9\n$EFFECT_LIST_BULLET$$EFFECT_LIST_BULLET$1\n$EFFECT_LIST_BULLET$$EFFECT_LIST_BULLET$3\n$EFFECT_LIST_BULLET$$EFFECT_LIST_BULLET$5\n$EFFECT_LIST_BULLET$$EFFECT_LIST_BULLET$7\n$EFFECT_LIST_BULLET$$EFFECT_LIST_BULLET$9" #NT!
+  
+ game_concept_brujah_primogen: "$brujah_primogen_court_position$" #NT!
+ game_concept_brujah_primogen_desc: "Un [GetTrait('brujah').GetName(GetNullCharacter)] [primogen|E] a besoin de bons [martial|E], [learning|E] et [prowess|E].\n\nÊtre un [GetTrait('scholar').GetName(GetNullCharacter)] et/ou un [GetTrait('strategist').GetName(GetNullCharacter)] aide.\n\nÊtre [GetTrait('wrathful').GetName(GetNullCharacter)] détériore les performances." #NT!
+  
+ game_concept_cappadocian_primogen: "$cappadocian_primogen_court_position$" #NT!
+ game_concept_cappadocian_primogen_desc: "Un [GetTrait('cappadocian').GetName(GetNullCharacter)] [primogen|E] a besoin des bons [learning|E] et [stewardship|E].\n\nÊtre [GetTrait('patient').GetName(GetNullCharacter)], un [GetTrait('scholar').GetName(GetNullCharacter)], un #TOOLTIP:GAME_TRAIT,lifestyle_physician,[GetNullCharacter] #L Médecin#!#!, et/ou un [GetTrait('lifestyle_herbalist').GetName(GetNullCharacter)] aide.\n\nÊtre un [primogen|E]0 #L Mystique [primogen|E]2 aide un peu." #NT!
+  
+ game_concept_lasombra_primogen: "$lasombra_primogen_court_position$" #NT!
+ game_concept_lasombra_primogen_desc: "Un [GetTrait('lasombra').GetName(GetNullCharacter)] [primogen|E] a besoin des bons [intrigue|E], [stewardship|E] et [diplomacy|E].\n\nÊtre [GetTrait('arrogant').GetName(GetNullCharacter)], [GetTrait('ambitious').GetName(GetNullCharacter)], [GetTrait('zealous').GetName(GetNullCharacter)] et/ou un [GetTrait('schemer').GetName(GetNullCharacter)] aide." #NT!
+  
+ game_concept_toreador_primogen: "$toreador_primogen_court_position$" #NT!
+ game_concept_toreador_primogen_desc: "Un [GetTrait('toreador').GetName(GetNullCharacter)] [primogen|E] a besoin de bons [diplomacy|E] et [intrigue|E].\n\nÊtre [GetTrait('gregarious').GetName(GetNullCharacter)] et/ou un [GetTrait('poet').GetName(GetNullCharacter)] aide.\n\nCela aide également si le [culture|E] du personnage a un [tradition|E] qui améliore le [GetTrait('poet').GetName(GetNullCharacter)] [trait|E] ( tel que [primogen|E]0) et/ou améliore [primogen|E]1 [primogen|E]2 Poètes de la cour[primogen|E]3 (comme [primogen|E]4)." #NT!
+  
+ game_concept_tzimisce_primogen: "$tzimisce_primogen_court_position$" #NT!
+ game_concept_tzimisce_primogen_desc: "Un [GetTrait('tzimisce').GetName(GetNullCharacter)] [primogen|E] a besoin des bons [learning|E], [stewardship|E] et [intrigue|E].\n\nÊtre [GetTrait('sadistic').GetName(GetNullCharacter)], [GetTrait('diligent').GetName(GetNullCharacter)] et/ou [GetTrait('torturer').GetName(GetNullCharacter)] aide.\n\n#help Vous ne pouvez pas occuper ce poste au tribunal si vous êtes [GetTrait('tremere').GetName(GetNullCharacter)].[primogen|E]0" #NT!
+  
+ game_concept_ventrue_primogen: "$ventrue_primogen_court_position$" #NT!
+ game_concept_ventrue_primogen_desc: "Un [GetTrait('ventrue').GetName(GetNullCharacter)] [primogen|E] a besoin de bons [stewardship|E], [diplomacy|E] et [martial|E].\n\nÊtre [GetTrait('ambitious').GetName(GetNullCharacter)] aide.\n\nUn Ventrue Primogen qui règne sur un [kingdom|E] obtient un gros coup de pouce pour son [aptitude|E]." #NT!
+  
+ game_concept_assamite_primogen: "$assamite_primogen_court_position$" #NT!
+ game_concept_assamite_primogen_desc: "Un [GetTrait('assamite').GetName(GetNullCharacter)] [primogen|E] a besoin des bons [diplomacy|E], [martial|E], [learning|E] et [prowess|E].\n\nÊtre [GetTrait('diligent').GetName(GetNullCharacter)] aide.\n\n#help Vous ne pouvez occuper ce poste au tribunal que si vous êtes [GetTrait('assamite').GetName(GetNullCharacter)], suivez un Ashirra la foi, ou avoir votre capital dans le [GetGeographicalRegion('world_middle_east').GetName].[primogen|E]0" #NT!
+  
+ game_concept_gangrel_primogen: "$gangrel_primogen_court_position$" #NT!
+ game_concept_gangrel_primogen_desc: "Un [GetTrait('gangrel').GetName(GetNullCharacter)] [primogen|E] a besoin d'un bon [prowess|E].\n\nÊtre [GetTrait('brave').GetName(GetNullCharacter)], [GetTrait('wrathful').GetName(GetNullCharacter)] et/ou [GetTrait('shieldmaiden').GetName(GetNullCharacter)] aide.\n\nÊtre un #TOOLTIP:GAME_TRAIT,lifestyle_blademaster,[GetNullCharacter] #L Blademaster#!#! aide un peu." #NT!
+  
+ game_concept_malkavian_primogen: "$malkavian_primogen_court_position$" #NT!
+ game_concept_malkavian_primogen_desc: "Un [GetTrait('malkavian').GetName(GetNullCharacter)] [primogen|E] a besoin de bons [diplomacy|E] et [learning|E].\n\nAvoir [GetTrait('auspexadvanced').GetName(GetNullCharacter)], être [GetTrait('gregarious').GetName(GetNullCharacter)], [GetTrait('honest').GetName(GetNullCharacter)] et/ou [GetTrait('lifestyle_herbalist').GetName(GetNullCharacter)] aide.\n\nÊtre un #TOOLTIP:GAME_TRAIT,lifestyle_mystic,[GetNullCharacter] #L Mystique[primogen|E]0 aide également. (mise à l'échelle avec le niveau de trait)." #NT!
+  
+ game_concept_nosferatu_primogen: "$nosferatu_primogen_court_position$" #NT!
+ game_concept_nosferatu_primogen_desc: "Un [GetTrait('nosferatu').GetName(GetNullCharacter)] [primogen|E] a besoin de bons [intrigue|E], [diplomacy|E] et [stewardship|E].\n\nAvoir [GetTrait('obfuscateadvanced').GetName(GetNullCharacter)], être un [GetTrait('schemer').GetName(GetNullCharacter)], [GetTrait('deceitful').GetName(GetNullCharacter)] et/ou [GetTrait('patient').GetName(GetNullCharacter)] aide.\n\nÊtre [GetTrait('honest').GetName(GetNullCharacter)] détériore les performances." #NT!
+  
+ game_concept_ravnos_primogen: "$ravnos_primogen_court_position$" #NT!
+ game_concept_ravnos_primogen_desc: "Un [GetTrait('ravnos').GetName(GetNullCharacter)] [primogen|E] a besoin des bons [intrigue|E], [martial|E], [stewardship|E] et [learning|E].\n\nÊtre [GetTrait('gregarious').GetName(GetNullCharacter)] et/ou [GetTrait('zealous').GetName(GetNullCharacter)] aide.\n\n#help Vous ne pouvez occuper ce poste au tribunal que si vous êtes § _0.[primogen|E]0" #NT!
+  
+ game_concept_setite_primogen: "$setite_primogen_court_position$" #NT!
+ game_concept_setite_primogen_desc: "Un [GetTrait('setite').GetName(GetNullCharacter)] [primogen|E] a besoin des bons [intrigue|E], [diplomacy|E] et [learning|E].\n\nÊtre [GetTrait('deceitful').GetName(GetNullCharacter)], [GetTrait('gregarious').GetName(GetNullCharacter)] et/ou [GetTrait('zealous').GetName(GetNullCharacter)] aide.\n\n#help Vous ne pouvez occuper ce poste au tribunal que si vous êtes un [GetTrait('setite').GetName(GetNullCharacter)].[primogen|E]0" #NT!
+  
+ game_concept_tremere_primogen: "$tremere_primogen_court_position$" #NT!
+ game_concept_tremere_primogen_desc: "Un [GetTrait('tremere').GetName(GetNullCharacter)] [primogen|E] a besoin de bons [intrigue|E] et [learning|E].\n\nÊtre [GetTrait('patient').GetName(GetNullCharacter)], un [GetTrait('scholar').GetName(GetNullCharacter)] et/ou un [GetTrait('lifestyle_herbalist').GetName(GetNullCharacter)] aide.\n\nÊtre un #TOOLTIP:GAME_TRAIT,lifestyle_mystic,[GetNullCharacter] #L Mystique#!#! aide un peu.\n \n[primogen|E]0 Vous ne pouvez pas exercer ce poste judiciaire si vous êtes [primogen|E]1, [primogen|E]2, [primogen|E]3, si vous suivez une foi Ashirra ou si vous avez votre capital dans le [primogen|E]4.[primogen|E]5" #NT!
+  
+ game_concept_salubri_primogen: "$salubri_primogen_court_position$" #NT!
+ game_concept_salubri_primogen_desc: "Un [GetTrait('salubri').GetName(GetNullCharacter)] [primogen|E] a besoin de bons [prowess|E] et [learning|E].\n\nÊtre [GetTrait('vengeful').GetName(GetNullCharacter)] et/ou [GetTrait('scholar').GetName(GetNullCharacter)] aide.\n\nÊtre un #TOOLTIP:GAME_TRAIT,lifestyle_blademaster,[GetNullCharacter] #L Blademaster#!#! aide un peu.\n\n#help Vous ne pouvez occuper ce poste au tribunal que si vous êtes [GetTrait('salubri').GetName(GetNullCharacter)].[primogen|E]1" #NT!
+  
+ game_concept_splat: "Éclaboussure" #NT!
+ game_concept_splats: "Éclaboussures" #NT!
+ game_concept_splat_desc: "Le terme « Splat » fait référence au type de créature surnaturelle que vous êtes. Dans [princes_of_darkness|E], votre splat est désigné par un [trait|E].\n\nDans le marque-page #bold Dark Ages : Vampire#!, les splats suivants sont jouables :\n$EFFECT_LIST_BULLET$[GetTrait('vampire').GetName(GetNullCharacter)]\n$EFFECT_LIST_BULLET$[GetTrait('ghoul').GetName(GetNullCharacter)]\n$EFFECT_LIST_BULLET$ [GetTrait('revenant').GetName(GetNullCharacter)]\n$EFFECT_LIST_BULLET$[trait|E]1\n[trait|E]2 Notez qu'aucun autre splat n'existe dans le premier signet ! Cela signifie qu'il n'y a aucun moyen d'interagir avec eux (par exemple, les Infernalistes ne peuvent pas interagir avec les Démons puisqu'il n'y en a aucun sur la carte)#!\n\nDans le marque-page #bold Chasseurs et Traqués#!, les splats suivants sont jouables :\ n$EFFECT_LIST_BULLET$[trait|E]7 Tous les précédents, plus :#!\n$EFFECT_LIST_BULLET$[GetTrait('supehunter').GetName(GetNullCharacter)]\n$EFFECT_LIST_BULLET$[GetTrait('mummy').GetName(GetNullCharacter)]\ n$EFFECT_LIST_BULLET$[GetTrait('loup-garou').GetName(GetNullCharacter)]\n$EFFECT_LIST_BULLET$[GetTrait('démon').GetName(GetNullCharacter)]" #NT!
+  
+ game_concept_battle_modifier: "Modificateur de bataille" #NT!
+ game_concept_battle_modifier_desc: "Le modificateur de combat est supprimé à la fin de la bataille contre son lanceur." #NT!
+  
+ game_concept_possession: "Possession" #NT!
+ game_concept_possess: "posséder" #NT!
+ game_concept_possession_desc: "le processus par lequel un Wraith prend possession d'un corps. La réussite ou non de la possession dépend d'un duel entre le spectre et la victime. La possession est divisée en trois étapes et peut être utilisée plusieurs fois contre la même personne (si vous utilisez le même spectre, bien sûr). Si un fantôme lié à vous possède une victime, la cible sera également liée à vous. Étapes de possession : \n 1. Au cours de la première étape, la victime acquiert certaines des prouesses du spectre en plus des siennes, et le nécromancien et le spectre acquièrent de l'influence sur la victime. \n 2. La deuxième étape confère certaines des compétences du Wraith à la victime, lui donnant ainsi une partie des statistiques du fantôme. Le nécromancien acquiert davantage de contrôle sur la victime. De plus, les personnalités du spectre et de la victime commencent à se fondre. \n 3. Au stade trois, la possession est complète et la personnalité du spectre submerge la cible. La victime est fascinée par le spectre et acquiert davantage de compétences à mesure que le fantôme agit à travers lui. Le contrôle du nécromancien s'accroît encore davantage." #NT!
+  
+ game_concept_endowments_lifestyle: "Style de vie de conviction" #NT!
+ game_concept_endowments_lifestyle_desc: "La conviction représente la progression d'un inquisiteur sur le chemin de la maîtrise des méthodes de son ordre pour vaincre les serviteurs de l'enfer." #NT!
+  
+ game_concept_obtenebration: "Obténébration" #NT!
+ game_concept_obtenebration_desc: "L'obténébration, le pouvoir de contrôler et de manipuler les ombres, est le [discipline|E] dont le [Clan|E] des Ombres tire son nom. Les initiés de la discipline peuvent l'utiliser pour déplacer et manipuler les ombres à leur avantage, tandis que les maîtres peuvent donner aux ombres une forme, une substance et un semblant de vie. La nature de la source de ce pouvoir provoque des désaccords sans fin parmi les Lasombra. Les plus anciens anciens du [Clan|E] affirment que les ténèbres sont elles-mêmes une entité primordiale, égale et opposée à la force de création qui donne naissance au monde. Influencés par le zoroastrisme, les aînés appellent habituellement cette force obscure Ahriman. D'autres Lasombra croient que l'Obténébration tire son pouvoir d'un royaume d'ombre plutôt que d'une entité. Les Lasombra qui se tournent vers l'une des religions abrahamiques pourraient l'appeler l'Enfer, tandis qu'un adepte des anciens dieux grecs ou romains pourrait l'appeler le Tartare. Quelle que soit son origine, l’Obtenebration est totalement déconcertante pour ceux qui la voient utilisée. Il évoque la terreur chez les animaux ou les mortels qui voient le [discipline|E] utilisé. Même le [cainites|E], dont l'existence même défie toute explication, a tendance à considérer l'obténébration comme un affront aux lois de la nature." #NT!
+  
+ game_concept_abyss_eyes: "Les yeux de l'abîme" #NT!
+ game_concept_abyss_eyes_desc: "Eyes of the abyss est une sous-compétence [discipline_power|E], [shapeshift|E]. Les yeux du vampire deviennent noirs. Ils ignorent toutes les pénalités d'obscurité, même celles provoquées par des ténèbres surnaturelles, et peuvent voir les fantômes." #NT!
+  
+ game_concept_nocturne: "Nocturne" #NT!
+ game_concept_nocturne_desc: "Nocturne est un [discipline_power|E] qui peut être utilisé comme [character_interaction|E] personnel. Dans les batailles, cela réduit les prouesses de l'ennemi [knights|E] ou d'un ennemi [single_combat_duel|E] en drainant passivement leur sang (ce qui peut finir par les tuer). Cela coûte de la piété pour chaque ennemi affecté. En se concentrant sur l'invocation des ténèbres, Lasombra, doté de cette capacité, peut invoquer un nuage tordu de ténèbres surnaturelles pour engloutir une zone et obscurcir toutes les sources de lumière. L'obscurité est une manifestation de l'abîme qui étouffe le son et la vue et étouffe la vie des faibles." #NT!
+  
+ game_concept_drain_the_life: "Vider la vie" #NT!
+ game_concept_drain_the_life_desc: "Drain the Life est un [discipline_power|E], [character_interaction|E] qui peut être utilisé pour maudire les royaumes ennemis. D'un simple mouvement du poignet, le vampire ouvre le monde sur les Abysses, créant un terrible vide sphérique dans l'air. Quand il se ferme, amis et ennemis sont blessés et peut-être détruits. Ceux qui ont été tués (ou presque tués) sont emportés dans le néant. Toutes leurs traces ont tout simplement disparu." #NT!
+  
+ game_concept_shadow_twin: "Jumeau de l'Ombre" #NT!
+ game_concept_shadow_twin_desc: "Shadow Twin est un [discipline_power|E], peut être utilisé comme [character_interaction|E] personnel, crée un personnage avec vos capacités et pouvoirs, un seul peut exister à tout moment, et s'il meurt, vous ressentez un stress énorme. Le contrôle du vampire sur les ténèbres a progressé à un tel degré qu’il peut lui conférer un degré limité de sensibilité. En animant sa propre ombre, le [cainite|E] peut réellement « libérer » l'ombre projetée par la lumière. Tant que ce pouvoir est actif, le sujet ne projette aucune ombre, car il est parti suivre les ordres du vampire." #NT!
+  
+ game_concept_elder_perk: "Avantage des aînés" #NT!
+ game_concept_elder_perks: "Avantages des aînés" #NT!
+ game_concept_elder_perk_desc: "Les avantages des aînés sont des [perks|E] auxquels seuls les $POD_splat_vampire_plural$ avec un [vampgeneration|E] suffisamment bas pour éveiller le véritable potentiel de leur sang peuvent avoir accès." #NT!
+  
+ game_concept_shadow_twin_master: "Maître des ombres" #NT!
+ game_concept_shadow_twin_master_desc: "Un $game_concept_shadow_twin_master$ est un $game_concept_relation$ indiquant que ce personnage a créé un Shadow Twin, maintenant un [shadow_twin_servant|E] sert ce personnage." #NT!
+  
+ game_concept_shadow_twin_servant: "Jumeau de l'Ombre" #NT!
+ game_concept_shadow_twin_servant_desc: "Un $game_concept_shadow_twin_servant$ est un $game_concept_relation$ indiquant que ce personnage est un Shadow Twin, clone créé avec Shadows, servant son [shadow_twin_master|E]" #NT!
+  
+ game_concept_daimonion: "Déimonion" #NT!
+ game_concept_daimonion_desc: "Arrachée aux murmures de ceux liés à la terre, une voix arrachée à la gorge des premiers sorciers qui appelèrent les Abysses chante à travers le sang Baali. Daimonion est un cri à travers la Création, s'étendant de ce monde jusqu'à un lieu abandonné, et le pouvoir accompagne l'écho qui revient. Un jour, la lignée Baali criera, et ce cri brisera le monde. Pour l’instant, ils utilisent Daimonion pour endormir doucement les autres et leur faire rêver de feu et d’obscurité." #NT!
+  
+ game_concept_Sire: "Sire" #NT!
+ game_concept_Sires: "Pères" #NT!
+ game_concept_Sire_desc: "Un vampire qui parvient à [Embrace|E] un mortel est alors connu sous le nom de « Sire ». Cette relation est proche de celle parent/enfant dans le monde des mortels. Comme ceux-là également, cela peut prendre de nombreuses formes, depuis une relation de travail jusqu'à une haine pure et simple entre les deux.\nDans le mod, cela remplace la relation « parent/enfants » pour le $POD_splat_vampire_plural$, car ils ne peuvent pas avoir d'enfants naturels." #NT!
+  
+ game_concept_Embrace: "Embrasser" #NT!
+ game_concept_Embrace_desc: "Un vampire qui draine tout le sang d'un mortel avant de lui donner une gorgée de son propre sang le transformera en vampire. Ce processus est connu sous le nom d'Étreinte et créera un lien fort entre le nouveau [Sire|E] et son nouveau fils.\nDans le mod, vous pouvez cliquer avec le bouton droit sur n'importe quel mortel à votre emplacement pour démarrer un projet d'Étreinte. Une fois cela fait, vous transformerez ce mortel en votre propre enfant vampire, créant ainsi une relation parent/enfant en termes de gameplay." #NT!
+ game_concept_Embraced: "Embrassé" #NT!
+  
+ game_concept_Clan: "Clan" #NT!
+ game_concept_Clan_desc: "Le clan est un terme utilisé pour décrire les principaux groupes de $POD_splat_vampire_plural$ qui partagent des caractéristiques communes transmises par le sang. Le clan d'un vampire est sa lignée, la « famille » vampirique dans laquelle il a été étreint. La société vampirique reconnaît généralement 13 clans ce soir, même si certains peuvent avoir été perdus dans l'histoire, d'autres peuvent exister en secret et d'autres n'ont peut-être jamais été connus.\nComme toutes les lignées, chaque clan est plus familier avec un ensemble de trois [disciplines|E], un Faiblesse du clan en grande partie propre à ses membres, et divers stéréotypes lui sont attribués en raison d'une tendance à [Embrace|E] individus présentant certaines caractéristiques." #NT!
+ game_concept_Clans: "Clans" #NT!
+ game_concept_Clan's: "Clans" #NT!
+  
+ game_concept_ashirra: "Ashirra" #NT!
+ game_concept_ashirra_desc: "L'Ashirra (de ashira, arabe pour « clan ») est la secte sous laquelle les islamiques $POD_splat_vampire_plural$ déclarent leur foi en Allah, avec une forte présence dans les terres musulmanes mortelles. Les membres de l'Ashirra croient que la rédemption des vampires faisait partie des promesses faites par Mahomet s'ils choisissaient de suivre Allah. Bien que certains vampires soient de vrais adeptes de l'Islam, la grande majorité de ceux impliqués dans l'Ashirra suivent l'Islam parce que cela leur convient ou pour faciliter leurs opérations au Moyen-Orient.\nDans certains cas, Ashirra peut être utilisé pour désigner tout vampire qui suit l'Islam." #NT!
+  
+ game_concept_antediluvian: "Antédiluvien" #NT!
+ game_concept_antediluvian_desc: "Signifiant « avant le déluge », le terme Antédiluvien peut être appliqué à tout [cainite|E] antérieur au Grand Déluge, comme Caïn ou la Deuxième Génération, mais il est presque toujours utilisé pour désigner spécifiquement la Troisième Génération, à partir de laquelle les treize § _1 sont descendus. Ce sont des êtres au pouvoir incalculable.\nVraisemblablement, les Antédiluviens sont d'un tel âge et d'une telle puissance de sang qu'ils possèdent un pouvoir presque divin, et en fait certains d'entre eux peuvent être des divinités. Il existe très peu de traces de l'utilisation d'un tel pouvoir, mais les légendes les décrivent généralement comme invincibles. Certains émettent même l'hypothèse que la seule façon pour de telles créatures d'être tuées est de le vouloir ou si cela est entre les mains d'un autre Antédiluvien." #NT!
+ game_concept_antediluvians: "Antédiluviens" #NT!
+  
+ game_concept_einherjar: "Einherjar" #NT!
+ game_concept_einherjar_desc: "Einherjar est un terme représentant le nordique $POD_splat_vampire_plural$ sous le règne du vampire Odin, le Tout-Haut (la plupart des Einherjar croient qu'il était une sorte de grand prêtre, non pas Odin lui-même mais un fils ou disciple ardent d'Odin), qui tenait à les anciennes méthodes qui ont été remplacées par le christianisme et le féodalisme.\nMélanger cela avec le fatalisme du guerrier viking moyen, et il en résulte une mentalité de siège. Les Einherjar se considèrent comme les derniers guerriers d'Odin sur Midgard, se préparant à combattre dans le Ragnarok imminent. Tout ce qu'ils peuvent faire, c'est se préparer pour la bataille qui s'ensuit et mourir en héros.\nLes vampires du Nord ne sont pas de simples Vikings dotés de clans. Les particularités de leur héritage nordique donnent aux Einherjar une vision du monde très différente de celle de beaucoup de leurs cousins ​​du sud. Les différences de religion, de société et de mode de vie ne se manifestent pas seulement dans la population mortelle, leurs habitudes et leurs traits se perpétuent dans l'éternité." #NT!
+ game_concept_Einherjar: "Einherjar" #NT!
+  
+ game_concept_Ghoul: "Goule" #NT!
+ game_concept_ghoul: "goule" #NT!
+ game_concept_Ghoul_desc: "Après qu'un vampire ait donné son sang à une autre créature, il devient une goule, ce qui lui confère quelques avantages : le processus de vieillissement s'arrête, s'inverse parfois même légèrement ; accès limité au [disciplines|E] et guérison plus rapide. Cependant, les Goules dépendent du Sang, car elles retrouveront leur véritable âge lorsqu'on leur refuse l'accès, parfois mortellement. Son contrôle est le principal moyen par lequel les goules sont gérées par leurs dominateurs, à travers le Blood Bond – en plus des techniques plus traditionnelles comme Dominate. Le plus méchant dans le fait d'être une goule, bien sûr, c'est qu'on est l'esclave d'un monstre inhumain qui traite les humains comme des pièces d'échecs ou comme une collation légère occasionnelle." #NT!
+ game_concept_ghouls: "goules" #NT!
+  
+ game_concept_Revenant: "Revenant" #NT!
+ game_concept_revenant: "revenant" #NT!
+ game_concept_Revenant_desc: "Un $POD_splat_revenant$ est une sorte de créature hybride qui ressemble et diffère de $POD_splat_mortal_plural$, [ghouls|E] et $POD_splat_vampire_plural$. Certains diraient qu'un revenant est à mi-chemin entre un mortel et un vampire ; d'autres diraient qu'il s'agit d'une corruption des créatures de Dieu avec la malédiction de Caïn, mêlant les deux jusqu'à ce qu'elles deviennent inséparables. Néanmoins, un revenant possède de nombreuses qualités à la fois des vampires et des mortels, ainsi que de nombreuses caractéristiques des goules normales. Les revenants peuvent boire le sang d'un vampire, mais contrairement à une goule, ils n'ont pas besoin de le faire, car ils peuvent produire leur propre vitae, ce qui retarde également leur vieillissement.\nContrairement à leurs maîtres, et malgré leur nom, les revenants sont des créatures vivantes. Comme un mortel, ils ont besoin de manger, de dormir et de respirer. Ils sont capables de reproduction sexuée. Contrairement à un mortel, ils sont plus résistants et ont accès aux pouvoirs surnaturels de la Marque de Caïn." #NT!
+ game_concept_Revenants: "Revenants" #NT!
+ game_concept_revenants: "revenants" #NT!
+  
+ game_concept_typhonic_avatar: "Avatar typhonique" #NT!
+ game_concept_typhonic_avatar_desc: "Typhonic Avatar est une sous-compétence [discipline_power|E], [shapeshift|E]. Le vampire peut se transformer en bête typhonique, une créature de légende. Il se présente comme un grand chacal avec une queue dure, fourchue et pointue, des oreilles sévères et pointues et un long museau. Alternativement, ils peuvent prendre une forme hybride humain/serpent avec une longue queue préhensile en guise de pattes. Cette forme est utilisée comme une sorte de « forme de guerre » en plus de sa fonction religieuse." #NT!
+  
+ game_concept_serpentis: "Serpentis" #NT!
+ game_concept_serpentis_desc: "On pense que Serpentis est l'héritage de Set lui-même, un cadeau à ses enfants. Les adeptes de Set font très attention à garder les secrets de ce [discipline|E], n'enseignant cet art qu'à ceux qu'ils jugent dignes. La plupart des vampires craignent les Séthites en raison des pouvoirs de Serpentis et de son lien avec les serpents et les reptiles." #NT!
+  
+ game_concept_serpent_eyes: "Yeux de serpent" #NT!
+ game_concept_serpent_eyes_desc: "Serpent Eyes est une sous-compétence [discipline_power|E], [shapeshift|E]. Accorde au vampire le légendaire regard hypnotique du serpent. Les yeux du vampire deviennent dorés avec de grands iris noirs, et les mortels à proximité du personnage se sentent étrangement attirés par lui. Un mortel qui croise le regard séduisant du vampire est immobilisé. Jusqu'à ce que le personnage quitte sa victime des yeux, celle-ci reste figée sur place." #NT!
+  
+ game_concept_serpents_flesh: "Chair de serpent" #NT!
+ game_concept_serpents_flesh_desc: "La chair du serpent est une sous-compétence [discipline_power|E], [shapeshift|E]. Avec ce pouvoir, la chair du vampire devient coriace, écailleuse, visqueuse et monstrueuse. Son corps devient flexible et malléable, et il devient plus difficile de la blesser." #NT!
+  
+ game_concept_godhead: "Divinité" #NT!
+ game_concept_godhead_desc: "Divinité est une sous-compétence [discipline_power|E], [shapeshift|E]. Cette capacité redoutable donne au vampire le manteau d'un dieu. Alors que la plupart des Séthites manifestent ce pouvoir en adoptant la tête d'une bête semblable aux dieux égyptiens, chaque vampire manifeste la Divinité différemment. Certains atteignent un mètre de hauteur. Certains adoptent une chair dorée et brillante. Quelle que soit la manifestation, c'est toujours évident et toujours impressionnant." #NT!
+  
+ game_concept_heart_of_darkness: "Cœur des ténèbres" #NT!
+ game_concept_heart_of_darkness_desc: "Heart of Darkness est un [discipline_power|E] qui peut être utilisé comme [character_interaction|E]. Les vampires exécutent un rituel dans lequel ils retirent leur cœur, devenant moins émotifs et immunisés contre la diablerie et le jalonnement." #NT!
+  
+ game_concept_domitor: "Domiteur" #NT!
+ game_concept_domitor_desc: "Un domitor est un vampire qui nourrit un autre être avec sa propre vitae et entretient un lien de sang avec lui, qui à son tour devient son esclave ou [ghouls|E]." #NT!
+  
+ game_concept_godbodies_lifestyle: "Corps divins" #NT!
+ game_concept_godbodies_lifestyle_desc: "Le $game_concept_shintai_lifestyle$ est remplacé par [shintai_lifestyle|E] dans le [fifth_age|E] (après 1250), convient au $POD_splat_kueijin_plural$. Précurseurs des disciplines Shintai modernes, les Corps Divins étaient des disciplines importantes dans la société Kuei-jin au cours du [fourth_age|E]. Contrairement à leur incarnation moderne, le lien élémentaire entre la Discipline et le Kuei-jin était beaucoup plus prononcé et ressemblait davantage aux pouvoirs que le Wan Xian original avait exercés." #NT!
+  
+ game_concept_shintai_lifestyle: "Shintai" #NT!
+ game_concept_shintai_lifestyle_desc: "Le $game_concept_shintai_lifestyle$ est développé dans le [fifth_age|E] (après 1250), convient au $POD_splat_kueijin_plural$. La plupart des vampires considèrent la maîtrise d'un shintai comme démontrant une compréhension correspondante des principes du Chi, et donc une étape significative vers la maîtrise de soi." #NT!
+  
+ game_concept_chi_arts_lifestyle: "Arts Chi" #NT!
+ game_concept_chi_arts_lifestyle_desc: "Le $game_concept_chi_arts_lifestyle$ convient au $POD_splat_kueijin_plural$. Ces [disciplines|E] permettent à un Kuei-jin d'évoquer des effets mystiques en redirigeant son Chi (ou, dans certains cas, le Chi des autres ou le Chi ambiant de l'environnement)." #NT!
+  
+ game_concept_soul_arts_lifestyle: "Arts de l'âme" #NT!
+ game_concept_soul_arts_lifestyle_desc: "Le $game_concept_soul_arts_lifestyle$ convient au $POD_splat_kueijin_plural$. Ceux qui maîtrisent l'âme [disciplines|E] sont des créatures vraiment redoutables, capables d'accomplir des exploits de volonté extrêmement difficiles ou de dominer purement et simplement l'âme d'autres créatures." #NT!
+  
+ game_concept_demon_arts_lifestyle: "Arts démoniaques" #NT!
+ game_concept_demon_arts_lifestyle_desc: "Le $game_concept_demon_arts_lifestyle$ convient au $POD_splat_kueijin_plural$. Ces [disciplines|E] proviennent et sont alimentés par le P'o." #NT!
+  
+ game_concept_alternate_techniques_lifestyle: "Techniques alternatives" #NT!
+ game_concept_alternate_techniques_lifestyle_desc: "Le $game_concept_alternate_techniques_lifestyle$ convient au $POD_splat_kueijin_plural$. Ce sont des techniques alternatives pour un [disciplines|E]." #NT!
+  
+ game_concept_qiao_lifestyle: "Qiao" #NT!
+ game_concept_qiao_lifestyle_desc: "Le $game_concept_qiao_lifestyle$ convient au [GetTrait('shih').GetName( GetNullCharacter )]. Qiao, ou ponts : arts anciens à travers lesquels les chasseurs de démons concentrent leur Chi pour accomplir des exploits surhumains." #NT!
+  
+ game_concept_hekau_alchemy_lifestyle: "Alchimie Hekau" #NT!
+ game_concept_hekau_alchemy_lifestyle_desc: "Le $game_concept_hekau_alchemy_lifestyle$ convient au $POD_splat_mummy_plural$. L'alchimie nécessite des préparations et du dévouement. Un alchimiste ne peut pas simplement sortir un sort de ses manches, mais doit créer un produit qui incarne l'effet qu'il recherche ou qui induit le résultat souhaité." #NT!
+  
+ game_concept_hekau_amulets_lifestyle: "Amulettes Hekau" #NT!
+ game_concept_hekau_amulets_lifestyle_desc: "Le $game_concept_hekau_amulets_lifestyle$ convient au $POD_splat_mummy_plural$. Les amulettes, également appelées Meket en égyptien, sont des charmes qui concentrent le pouvoir magique, le plus souvent pour se protéger du mal, de la maladie ou de la sorcellerie." #NT!
+  
+ game_concept_hekau_celestial_lifestyle: "Hekau céleste" #NT!
+ game_concept_hekau_celestial_lifestyle_desc: "Le $game_concept_hekau_celestial_lifestyle$ convient au $POD_splat_mummy_plural$. Les Hekau célestes sont les arts magiques de l’Égypte ancienne axés sur le destin, la météo et l’astrologie." #NT!
+  
+ game_concept_hekau_effigy_lifestyle: "Effigie Hekau" #NT!
+ game_concept_hekau_effigy_lifestyle_desc: "Le $game_concept_hekau_effigy_lifestyle$ convient au $POD_splat_mummy_plural$. L'effigie est l'art Hekau des connexions symboliques, généralement exprimées par de petites figures connues sous le nom d'Ushabti." #NT!
+  
+ game_concept_hekau_necromancy_lifestyle: "Nécromancie Hekau" #NT!
+ game_concept_hekau_necromancy_lifestyle_desc: "Le $game_concept_hekau_necromancy_lifestyle$ convient au $POD_splat_mummy_plural$. La nécromancie est l'art Hekau consistant à façonner le [underworld|E] et à commander les âmes qui l'habitent." #NT!
+  
+ game_concept_hekau_nomenclature_lifestyle: "Nomenclature Hekau" #NT!
+ game_concept_hekau_nomenclature_lifestyle_desc: "Le $game_concept_hekau_nomenclature_lifestyle$ convient au $POD_splat_mummy_plural$. La nomenclature est l'art Hekau consistant à utiliser les vrais noms, appelés ren en Égypte, à des fins obscures." #NT!
+  
+ game_concept_tan_lifestyle: "bronzer" #NT!
+ game_concept_tan_lifestyle_desc: "Le $game_concept_tan_lifestyle$ convient au [GetTrait('wutian').GetName( GetNullCharacter )]. Des pouvoirs issus de Phoenix et de Dragon Alchemy." #NT!
+  
+ game_concept_pattern_spheres_lifestyle: "Sphères de motif" #NT!
+ game_concept_pattern_spheres_lifestyle_desc: "Le $game_concept_pattern_spheres_lifestyle$ convient au $POD_splat_mage_plural$. Sphères qui composent le monde physique – Forces, Vie et Matière." #NT!
+  
+ game_concept_foundational_spheres_lifestyle: "Sphères fondamentales" #NT!
+ game_concept_foundational_spheres_lifestyle_desc: "Le $game_concept_foundational_spheres_lifestyle$ convient au $POD_splat_mage_plural$. Sphères qui constituent le fondement de l'existence - Correspondance, Temps et Prime." #NT!
+  
+ game_concept_spiritual_spheres_lifestyle: "Sphères spirituelles" #NT!
+ game_concept_spiritual_spheres_lifestyle_desc: "Le $game_concept_spiritual_spheres_lifestyle$ convient au $POD_splat_mage_plural$. Sphères qui composent les royaumes du destin, de l'esprit et de l'âme - Esprit, Entropie et Esprit." #NT!
+  
+ game_concept_phobia: "Phobie" #NT!
+ game_concept_phobia_desc: "La phobie est un [discipline_power|E] qui agit passivement dans les batailles pour vous donner des avantages lorsque vous êtes commandant, principalement en fonction de votre peur actuelle. Cela donne à quelqu’un une peur irrationnelle de quelque chose." #NT!
+  
+ game_concept_mask_of_empathy: "Masque d'empathie" #NT!
+ game_concept_mask_of_empathy_desc: "Le Masque d'Empathie est un [discipline_power|E], [character_interaction|E] qui peut être utilisé pour mettre fin aux relations d'une cible. Coupez les liens émotionnels entre les gens." #NT!
+  
+ game_concept_perfect_world: "Monde parfait" #NT!
+ game_concept_perfect_world_desc: "Perfect World est un [discipline_power|E], qui peut être utilisé comme un [character_interaction|E] personnel qui profite à votre capital. Cela incite tout le monde dans une ville à travailler pour en faire votre ville idéale." #NT!
+  
+ game_concept_neteru: "Neteru" #NT!
+ game_concept_neteru_desc: "$game_concept_neteru$ sont des cultistes qui se sont rassemblés autour d'un Reborn pour l'adorer. Les membres de votre maison de vos vies récentes deviendront Neteru gratuitement, sinon vous devrez utiliser [character_interaction|E] pour les obtenir. Neteru peut détenir vos titres même en tant que mortel, et ils peuvent détenir des bâtiments de momies ou les construire lorsque vous êtes leur suzerain." #NT!
+  
+ game_concept_thrall: "Servitude" #NT!
+ game_concept_thralls: "Les esclaves" #NT!
+ game_concept_thrall_desc: "$game_concept_thralls$ sont les serviteurs mortels des démons. Les démons choisissent leurs esclaves parmi les ambitieux, les vengeurs, les estropiés et les démunis ; des hommes et des femmes qui se sentent trompés par le monde, privés de la vie qu'ils méritent." #NT!
+  
+ game_concept_abombwe: "Abombwe" #NT!
+ game_concept_abombwe_desc: "Abombwe est une discipline pratiquée par l'héritage Akunanse des Laibon et la mystérieuse lignée Bonsam de l'âge des ténèbres. Abombwe utilise la connexion étroite du vampire et son contrôle sur ses propres bêtes (et celles des autres), ainsi que pour canaliser le pouvoir de la bête à diverses fins." #NT!
+  
+ game_concept_penumbra: "Pénombre" #NT!
+ game_concept_penumbra_desc: "La pénombre, également connue sous le nom d’Ombre de la Terre, est le monde spirituel entourant directement le monde physique. De nombreuses caractéristiques du terrain, mais pas toutes, y ont des reflets." #NT!
+  
+ game_concept_astral_reaches: "Portées astrales" #NT!
+ game_concept_astral_reaches_desc: "Les étendues astrales, également appelées l'Umbra Astral, la Haute Umbra ou l'Umbra Supérieure, sont les royaumes de la pensée, de l'idée, du concept." #NT!
+  
+ game_concept_dark_kingdom: "Royaume des Ténèbres" #NT!
+ game_concept_dark_kingdom_desc: "Les Royaumes Ténèbres sont des poches de réalité stable au sein du [tempest|E] du [underworld|E]. Chacun de ces royaumes revendique la domination sur les Wraiths d'une région géographique particulière." #NT!
+  
+ game_concept_shard_realm: "Royaume des éclats" #NT!
+ game_concept_shard_realm_desc: "De l’avis du Chœur Céleste, chaque Royaume d’Éclat est une fraction de l’Un. Un Shard Realm est connecté à l’une des planètes du système solaire et forme sa propre Umbra spécifique. Chaque Shard Realm est connecté à une sphère spécifique qui domine à l’intérieur de ses limites. Chaque Shard Realm est également connecté à un Shade Realm, qui, selon la rumeur, mènerait à un univers parallèle dominé par l'une des sphères. Chaque Shard Realm est habité et gouverné par une puissante Célestine." #NT!
+  
+ game_concept_shade_realm: "Royaume de l'ombre" #NT!
+ game_concept_shade_realm_desc: "Un Royaume de l'Ombre, également connu sous le nom de Vada, est un royaume Umbral dominé par une seule sphère de magie. Chaque Royaume d'Ombre est lié au [shard_realm|E] de l'une des planètes du système solaire, mais se manifeste dans l'horizon terrestre – comme une ombre projetée sur le sol par un nuage qui passe." #NT!
+  
+ game_concept_oneiric_realm: "Royaume onirique" #NT!
+ game_concept_oneiric_realms: "Royaumes oniriques" #NT!
+ game_concept_oneiric_realm_desc: "Dans le flot d'échos qu'est le [deep_dreaming|E], les onze royaumes cristallins des Oneiroi tourbillonnent et sonnent, barattant l'étoffe des Rêves dans leur sillage. L'un de ces royaumes était autrefois connu sous le nom d'Arcadie ; maintenant, il est scellé de l’intérieur, et quiconque s’en éloigne ne pourra jamais y revenir. Quant aux autres Royaumes Oniriques, ceux de Moros et Hemera, Aether et Ker, Hypnates et [Concept('kingdom_of_dan','Dán')|E], Charis et Momus, Diké et Protea, on sait peu de choses. Rares sont ceux qui y sont jamais entrés, et aucun n'en est reparti de la même façon qu'il est venu.\n\nAu-delà de ces soi-disant Royaumes Oniriques "inférieurs" (et s'ils sont vraiment moins splendides qu'Arcadia, personne ne peut le dire), il n'y a que la Nuit. et Silence, portant le total à 13. Les voyageurs rapportent un phénomène étrange : au-delà du Silence, au plus profond du royaume du [dreaming|E], le monde s'ouvre sur lui-même et les ténèbres se transmuent en émerveillement." #NT!
+  
+ game_concept_hearts_realm: "Le royaume du cœur" #NT!
+ game_concept_hearts_realms: "Les royaumes du cœur" #NT!
+ game_concept_hearts_realm_desc: "Au plus profond du [dreaming|E], entre le [far_dreaming|E] et les pays les plus profonds au-delà, se trouvent des dominions qui racontent des histoires façonnées à l'effigie des cœurs humains. Plus forts et plus intimes que les royaumes plus universels du [dreaming|E], ces « Royaumes du Cœur » ont rassemblé de nombreuses pièces fugitives du Rêve Arcadien et sont maintenant souvent confondus avec Arcadia elle-même par les voyageurs pleins d'espoir. Amèrement, c’est une conclusion trop joyeuse pour être vraie." #NT!
+  
+ game_concept_home_realm: "Royaume d'origine" #NT!
+ game_concept_home_realms: "Royaumes d'origine" #NT!
+ game_concept_home_realm_desc: "Le royaume global, un peu plus petit à l'époque qu'il ne l'est aujourd'hui, était un maillage de l'idée de chacun d'un monde parfait. Les terres bordant les régions ressemblaient à la première tentative d'un géant de créer un puzzle. Les reliefs s'emboîtaient alternativement et s'avançaient en blocs et sections irrégulières. Les animaux et les bâtiments chimériques étaient tous faibles et frémissants, la matière brute du rêve crépitait électriquement dans l'air. Alors même qu’ils regardaient, certaines chimères disparurent dans le néant. Une décision devait être prise : devaient-ils rester et continuer à façonner le royaume, voir s'ils pouvaient atteindre Arcadia d'où ils étaient, ou retourner dans le monde ordinaire et éventuellement réessayer ? Tous s'accordèrent sur le fait qu'ils étaient trop loin d'Arcadia pour même essayer de l'atteindre. Certains pensaient que le nouveau royaume était une perte de temps, tandis que la plupart des autres restaient là et essayaient de le rendre plus stable. Quelques-uns se sont égarés dans le [dreaming|E] et n’ont plus jamais été entendus." #NT!
+  
+ game_concept_nightmare_realm: "Royaume des cauchemars" #NT!
+ game_concept_nightmare_realms: "Royaumes de cauchemar" #NT!
+ game_concept_nightmare_realm_desc: "Un Royaume des Cauchemars est un endroit où les cauchemars habitent le [dreaming|E]. Ces lieux, poussés par les Firchlis, peuvent envahir le [dream_realms|E]. Ici, les menaces sont plus graves que dans de nombreuses autres parties du [dreaming|E]." #NT!
+  
+ game_concept_dream_realm: "Royaume des rêves" #NT!
+ game_concept_dream_realms: "Royaumes de rêve" #NT!
+ game_concept_dream_realm_desc: "Un Royaume de Rêve est une partie du [dreaming|E] quelque peu bénigne, où les dangers sont contrebalancés par les merveilles à découvrir. Contrairement à un [nightmare_realm|E]." #NT!
+  
+ game_concept_stable_point: "Point stable" #NT!
+ game_concept_stable_points: "Points stables" #NT!
+ game_concept_stable_point_desc: "Les points stables sont des endroits du [dreaming|E] qui restent pour la plupart non affectés par les Firchlis." #NT!
+  
+ game_concept_dreaming: "Rêver" #NT!
+ game_concept_dreaming_desc: "Comme une carte postale de vacances, lorsque l'humanité a commencé à faire davantage confiance aux faits froids et durs (et au fer froid et dur) plutôt qu'aux caprices et à la fantaisie, les parties mythiques du monde se sont bifurquées vers un niveau de réalité superposé appelé Le Rêve." #NT!
+  
+ game_concept_underworld: "Monde souterrain" #NT!
+ game_concept_yin_world: "Monde Yin" #NT!
+ game_concept_underworld_desc: "Le monde souterrain, également connu sous le nom de Dark Umbra ou Contrarium, est le domaine des morts et des souvenirs." #NT!
+  
+ game_concept_breedgifts_lifestyle: "Cadeaux de race" #NT!
+ game_concept_breedgifts_lifestyle_desc: "Des cadeaux qui viennent avec une forme de race naturelle." #NT!
+  
+ game_concept_auspicegifts_lifestyle: "Cadeaux d'auspice" #NT!
+ game_concept_auspicegifts_lifestyle_desc: "Cadeaux qui viennent avec Auspice." #NT!
+  
+ game_concept_commongifts_lifestyle: "Cadeaux communs" #NT!
+ game_concept_commongifts_lifestyle_desc: "Des cadeaux qui accompagnent le changement de race." #NT!
+  
+ game_concept_bastettribegifts_lifestyle: "Cadeaux tribaux" #NT!
+ game_concept_bastettribegifts_lifestyle_desc: "Les cadeaux tribaux sont des cadeaux enseignés par l'esprit protecteur de la tribu." #NT!
+  
+ game_concept_hengeyokaigifts_lifestyle: "Cadeaux Hengeyokai" #NT!
+ game_concept_hengeyokaigifts_lifestyle_desc: "Les cadeaux Hengeyokai sont des cadeaux enseignés par les cours des bêtes." #NT!
+  
+ game_concept_gurahlauspicegifts_lifestyle: "Cadeaux d'auspice" #NT!
+ game_concept_gurahlauspicegifts_lifestyle_desc: "Cadeaux qui viennent avec Auspice." #NT!
+  
+ game_concept_mokoleauspicegifts_lifestyle: "Cadeaux d'auspice" #NT!
+ game_concept_mokoleauspicegifts_lifestyle_desc: "Cadeaux qui viennent avec Auspice." #NT!
+  
+ game_concept_nagahauspicegifts_lifestyle: "Cadeaux d'auspice" #NT!
+ game_concept_nagahauspicegifts_lifestyle_desc: "Cadeaux qui viennent avec Auspice." #NT!
+  
+ game_concept_rokeaauspicegifts_lifestyle: "Cadeaux d'auspice" #NT!
+ game_concept_rokeaauspicegifts_lifestyle_desc: "Cadeaux qui viennent avec Auspice." #NT!
+  
+ game_concept_pathgifts_lifestyle: "Cadeaux de chemin" #NT!
+ game_concept_pathgifts_lifestyle_desc: "Cadeaux fournis avec Path." #NT!
+  
+ game_concept_aspectgifts_lifestyle: "Cadeaux d'aspect" #NT!
+ game_concept_aspectgifts_lifestyle_desc: "Cadeaux fournis avec Aspect." #NT!
+  
+ game_concept_Fetter: "Entraver" #NT!
+ game_concept_Fetters: "Entraves" #NT!
+ game_concept_Fetter_desc: "Une entrave est une personne, un lieu ou un objet qui lie un spectre au [shadowlands|E] et l'empêche d'avancer. En plus de permettre à un spectre de s'accrocher à son existence et de l'empêcher de tomber dans l'oubli, les chaînes sont également des endroits où un spectre peut dormir et regagner le [Corpus|E].\nSi une chaîne est détruite, le spectre perd un lien majeur avec le §. _0, et donc leur existence devient plus fragile. Les spectres sans entraves ne durent pas longtemps dans le [shadowlands|E], car ils n'ont aucun endroit où se ressourcer et rien pour les lier à leur non-vie." #NT!
+  
+ game_concept_Corpus: "Corpus" #NT!
+ game_concept_Corpus_desc: "Le corps d’un spectre dans le [underworld|E] est appelé le Corpus. Plutôt que d’avoir des systèmes biologiques complexes, il est constitué d’un matériau appelé plasma qui est, dans l’ensemble, la matière brute de l’au-delà." #NT!
+  
+ game_concept_POD_animals_maa: "Animaux" #NT!
+ game_concept_POD_animals_maa_desc: "Les animaux sont des [men_at_arms|E] qui peuvent être recrutés par divers moyens tels que l'animalisme.\n\nIls sont contrés par [archers|E]." #NT!
+  
+ game_concept_POD_legendary_maa: "Légendes" #NT!
+ game_concept_POD_legendary_maa_desc: "Les [men_at_arms|E] légendaires défient toute définition, chacun est une chose unique en soi.\n\nLeur nature unique signifie que rien ne peut les contrer de manière fiable et leurs statistiques sont généralement suffisamment fortes pour qu'il ne soit pas nécessaire de contrer les autres [men_at_arms|E].\n\nEn raison de leur nature unique il n’existe pas de terrain unique où ils soient universellement plus forts ou plus faibles." #NT!
+  
+ game_concept_POD_demonic_maa: "Démoniaque" #NT!
+ game_concept_POD_demonic_maa_desc: "Le [men_at_arms|E] démoniaque représente les forces de l'infernal.\n\nEn tant que telles, elles sont beaucoup trop variées pour contrer universellement quoi que ce soit, mais sont elles-mêmes contrées par ceux qui se spécialisent dans la lutte contre l'infernal.\n\nIl est également impossible d'affirmer qu'un seul terrain le type est universellement bénéfique pour ces régiments." #NT!
+  
+ game_concept_POD_spirit_maa: "Esprit" #NT!
+ game_concept_POD_spirit_maa_desc: "Les Esprits [men_at_arms|E] sont des entités désincarnées qui proviennent et habitent habituellement dans l'Umbra - pour cette raison, certains mages les appellent "l'Ombrood".\n\nLeur nature désincarnée signifie qu'ils sont impossibles à contrer sans moyens spéciaux. \n\nLeur état désincarné signifie également que les esprits ne sont généralement pas affectés par le terrain, étant aussi à l'aise dans un désert gelé que dans un désert brûlant." #NT!
+  
+ game_concept_POD_shapeshifter_maa: "Changeforme" #NT!
+ game_concept_POD_shapeshifter_maa_desc: "Bien que les Garous aient été créés par Gaia comme ses crocs et ses griffes, pour assurer sa sécurité, ils n'étaient pas ses seuls enfants. Elle a créé de nombreuses autres races de métamorphes et leur a confié à chacune une tâche. Certains se sont égarés avec le temps ; d'autres ont été contraints de quitter leur rôle par les Garous. Certains se sont tournés vers un seul aspect du Triat, au lieu de Gaia dans son ensemble.\n\nLes métamorphes sont aussi variés que les choses qu'ils transforment, donc le seul moyen infaillible est la connaissance de la vulnérabilité surnaturelle du type auquel vous êtes confronté. \n\nDans la même veine que leur capacité à contrer et à être contré, les capacités de terrain des métamorphes varient considérablement." #NT!
+  
+ game_concept_POD_gargoyle_maa: "Gargouille" #NT!
+ game_concept_POD_gargoyle_maa_desc: "Les Gargouilles sont une lignée vampirique créée par les Tremere comme leurs serviteurs. Bien que techniquement il ne s'agisse pas d'une lignée Tremere, la lignée est largement sous leur contrôle.\n\nLa capacité des Gargouilles à voler présente des problèmes uniques pour les troupes conventionnelles, car l'entraînement pour combattre des ennemis volants ne fait pas partie de la plupart des exercices d'armes.\n\nGargouilles être capable de voler signifie qu'ils peuvent éviter de nombreux problèmes posés par le terrain tout en pouvant en profiter." #NT!
+  
+ game_concept_POD_ghoul_maa: "Goule" #NT!
+ game_concept_POD_ghoul_maa_desc: "Goule est un terme utilisé pour décrire un serviteur créé lorsqu'un vampire donne un peu de vitae vampirique à un mortel sans le vider de son sang au préalable, ce qui entraînerait plutôt l'Étreinte.\n\nLes goules n'incluent pas seulement les humains ordinaires donnés au vampire. vitae mais aussi les soi-disant « Goules de guerre » utilisées par les Tzimisces et donc contrer certaines goules est tout aussi facile que contrer un humain ordinaire, d'autres, comme le monstrueux Szlachta, sont plus difficiles.\n\nLe terrain affecte les goules comme on pourrait s'y attendre normalement. en fonction de leur corps." #NT!
+  
+ game_concept_POD_plasmic_maa: "Plasmique" #NT!
+ game_concept_POD_plasmic_maa_desc: "La « forme de vie » du [underworld|E] ; plus précisément, toute créature indépendante composée de Plasme." #NT!
+  
+ game_concept_POD_faerie_maa: "Fée" #NT!
+ game_concept_POD_faerie_maa_desc: "Les termes fée, fae et Fair Folk sont souvent utilisés de manière interchangeable par les non-changelings pour désigner aussi bien les changelings que les vrais Fae." #NT!
+  
+ game_concept_POD_chimera_maa: "Animer une chimère" #NT!
+ game_concept_POD_chimera_maa_desc: "Les chimères animées sont simplement des chimères qui ont soit la vie, soit l'apparence de la vie." #NT!
+  
+ game_concept_abomination: "Abomination" #NT!
+ game_concept_abominations: "Abominations" #NT!
+ game_concept_abomination_desc: "L'abomination est un terme utilisé pour décrire un métamorphe transformé en vampire. Inutile de dire que ces créatures sont exceptionnellement rares, compte tenu du fait que presque tous les Fera sont violemment allergiques à la vitae vampirique. Le résultat est boudé par les deux sociétés et est également toujours très instable mentalement.\nDans le jeu, les abominations sont traitées comme des $POD_splat_vampire_plural$ qui ne peuvent pas [Embrace|E] mais conserver l'utilisation des dons de race et d'auspice, ainsi que la capacité de se métamorphoser. ." #NT!
+  
+ game_concept_grace: "la grâce" #NT!
+ game_concept_grace_i: "@grace_icon !" #NT!
+ game_concept_grace_desc: "Une représentation de combien cette entité d’ombre vous favorise." #NT!
+  
+ game_concept_bind_wraith_interaction: "Lier l'interaction avec Wraith" #NT!
+ game_concept_bind_wraith_interaction_desc: "Une interaction qui permet à un personnage de lier un [GetTrait('wraith').GetName( GetNullCharacter )] puis de lui autoriser d'autres commandes." #NT!
+  
+ game_concept_command_wraith_interaction: "Spectre de commandement" #NT!
+ game_concept_command_wraith_interaction_desc: "Une interaction qui permet à un personnage de commander à un [GetTrait('wraith').GetName(GetNullCharacter)] lié d'agir contre d'autres personnages." #NT!
+  
+ game_concept_marked_for_return_interaction: "Marquer pour l'interaction de retour" #NT!
+ game_concept_marked_for_return_interaction_desc: "Une interaction qui permet à un personnage de créer un autre personnage devient un [GetTrait('wraith').GetName( GetNullCharacter )] à sa mort." #NT!
+  
+ game_concept_reliquarie: "Reliquaire" #NT!
+ game_concept_reliquarie_desc: "Si cet artefact est détruit, [GetTrait('demon').GetName( GetNullCharacter )] perdra [GetTrait('earthbound').GetName( GetNullCharacter )] [trait|E]." #NT!
+  
+ game_concept_dreamer: "Rêveur" #NT!
+ game_concept_dreamer_desc: "Chez les Kithain, Rêveur peut être un terme générique pour n'importe quel mortel, mais il est plus correctement attribué aux mortels qui font preuve d'une étincelle de créativité ou qui n'ont pas été émoussés par la Banalité au point où ils sont émotionnellement retardés. Les Rêveurs sont la principale source de Glamour pour Kithain et, en tant que tels, constituent une ressource protégée." #NT!
+  
+ game_concept_dan: "Dan" #NT!
+ game_concept_dan_desc: "Dans l'ancienne forme du Kithain, Dán est le Destin ; le destin et le karma d'une personne. Le Dán n'apprécie pas les gens qui manipulent ses fils et ceux qui le manipulent souvent de manière excessive à travers des arts comme Devin se retrouvent souvent liés de plus en plus inextricablement à ses toiles." #NT!
+  
+ game_concept_mythic_age: "Âge mythique" #NT!
+ game_concept_mythic_age_desc: "L’ère mythique a duré de la préhistoire jusqu’à environ 1000 avant JC, lorsque l’âge du fer a commencé et que l’humanité a réalisé qu’elle pouvait façonner le monde grâce à des efforts et à des changements difficiles et froids." #NT!
+ game_concept_sundering: "Fracture" #NT!
+ game_concept_sundering_desc: "La Fracture a duré environ 1000 avant JC jusqu'à 1200-1400 après JC, lorsque les gens ont commencé à cesser de croire aux Fae et que la pression de la banalité a commencé à monter." #NT!
+ game_concept_shattering: "Bouleversant" #NT!
+ game_concept_shattering_desc: "À l'époque de l'Inquisition espagnole et de la peste noire (et de la pratique des noms de famille devenant à la mode), la pression accumulée par la Fracture s'est finalement brisée, provoquant la Fracture (incitant un grand nombre de [GetTrait('fae').GetName( GetNullCharacter )] à quitter le navire pour Arcadia ou adopter la Voie [GetTrait('changeling').GetName( GetNullCharacter )], ou se cacher)." #NT!
+ game_concept_interregnum: "Interrègne" #NT!
+ game_concept_interregnum_desc: "La période sans Sidhe ni Vrai Fae sur Terre, où les changelings restants « édulcorés » doivent se débrouiller seuls après l'agonie finale du [shattering|E] vers 1400 après JC, est l'Interrègne, pendant laquelle les changelings ont dû essayer de comprendre comment pour survivre par eux-mêmes." #NT!
+ game_concept_resurgence: "Réapparition" #NT!
+ game_concept_resurgence_desc: "Après plus de 400 ans d'âge sombre pour les Fae, l'alunissage en 1969 a soit provoqué la résurgence, soit a été le produit de la réouverture des voies entre le monde ordinaire et le monde mythique." #NT!
+  
+ game_concept_first_age: "Premier Âge" #NT!
+ game_concept_first_age_desc: "Les différentes cultures surnaturelles de l’Empire du Milieu portent des noms différents pour désigner cet âge. Pour le [GetTrait('kueijin').GetName( GetNullCharacter )], c'était le Premier Âge du Grand Cycle ou Âge du Ciel. Pour les Hengeyokai, c'était l'ère de l'aube. Les #TOOLTIP:GAME_TRAIT,mage,[GetNullCharacter] #L Chi'n Ta#!#! y voient l'état d'avant les temps, expliqué à travers des mythes humains comme Pangu ou le Brahman. Les Hsien parlent de l'Âge de Perfection. Le Premier Âge est généralement considéré comme la période précédant la création du monde. Cela marque l'époque où le Yin et le Yang ne s'étaient pas séparés, où toutes choses ne faisaient qu'un avec le personnage auguste de Jade (ou Gaia). Elle est considérée comme une période d’harmonie ultime, le premier point d’interconnexion entre toutes choses." #NT!
+ game_concept_second_age: "Deuxième âge" #NT!
+ game_concept_second_age_desc: "Le [GetTrait('kueijin').GetName( GetNullCharacter )] et Hsien y font référence comme le Deuxième Âge du Grand Cycle ou l'Âge de la Beauté, lorsque l'Empire du Milieu et les Cours des Esprits étaient encore proches l'un de l'autre. Les Hengeyokai parlent de l'ère des dix mille choses, où le San Yuan, le Triat, a vu le jour et où la vie telle qu'on la connaît aujourd'hui s'est formée. Les #TOOLTIP:GAME_TRAIT,mage,[GetNullCharacter] #L Chi'n Ta#!#! parlent de même de la création de la Trinité Métaphysique sous la forme des Trois Ministres, qui supervisèrent la formation des Cinq Éléments qui céderaient la place aux Dix Mille Choses." #NT!
+ game_concept_third_age: "Troisième âge" #NT!
+ game_concept_third_age_desc: "Le [GetTrait('kueijin').GetName( GetNullCharacter )], Hsien et Hengeyokai parlent du Troisième Âge comme du Troisième Âge du Grand Cycle, l'Âge des Légendes. C’était la préhistoire mythique de l’Empire du Milieu, lorsque les Wan Xian marchaient parmi l’humanité et la gouvernaient en maîtres bienveillants. C’était aussi l’époque où les fidèles du Personnage d’Auguste combattaient les créatures de Yomi dans le cadre de trêves fragiles. Pour les #TOOLTIP:GAME_TRAIT,mage,[GetNullCharacter] #L Chi'n Ta#!#!,, c'était l'époque où l'humanité s'est éveillée aux desseins du Ciel et a appris pour la première fois à manier la magie.\nLe Troisième Âge s'est terminé grâce aux machinations des rois Yama, qui ont corrompu les Wan Xian pour se nourrir de chi. Cela a également marqué la fin de la tradition mythique et le début de l’histoire telle que les humains la comprennent aujourd’hui." #NT!
+ game_concept_fourth_age: "Quatrième Âge" #NT!
+ game_concept_fourth_age_desc: "Le [GetTrait('kueijin').GetName( GetNullCharacter )] et Hsien rappellent cet âge comme le Quatrième Âge du Grand Cycle ou l'Âge de la Belle Tristesse. Cela marque le début de la malédiction de [GetTrait('kueijin').GetName( GetNullCharacter )] et de la transformation des guerriers du Ciel en créatures démoniaques originaires de Yomi. Pour les Petits Dieux, c'était le début de leur exil du Ciel après que le Personnage d'Août les ait bannis pour leur implication dans l'insurrection des Wan Xian. Les Hengeyokai parlent de l'ère des épreuves, où le perfide Wan Xian a opposé les Fera les uns aux autres dans un événement connu sous le nom de Guerre de la Honte. Les #TOOLTIP:GAME_TRAIT,mage,[GetNullCharacter] #L Chi'n Ta#!#! se souviennent que diverses factions différentes de travailleurs de la volonté sont nées de cette période et qu'elles se sont souvent affrontées, comme on le voit dans des conflits comme la guerre de l'Himalaya ou la guerre de la rivière Dragon. Au cours de ces conflits, apparurent Yi, l'Excellent Archer et ses partisans, qui fondèrent un ordre qui existera plus tard sous le nom de [GetTrait('shih').GetName( GetNullCharacter )], dédié à la chasse au shen voyou." #NT!
+ game_concept_fifth_age: "Cinquième Âge" #NT!
+ game_concept_fifth_age_desc: "Au [GetTrait('kueijin').GetName( GetNullCharacter )], l'âge actuel est le Cinquième Âge du Grand Cycle ou l'Âge des Ténèbres. Les #TOOLTIP:GAME_TRAIT,mage,[GetNullCharacter] #L Chi'n Ta#!#! parlent du monde actuel comme dominé par le « Peuple de Pierre », venu de loin pour mettre l'Empire du Milieu sous son contrôle. Les Hengeyokai l'appellent l'Âge des Ombres. Les Hsien parlent de l'ère des tribulations, où les shen doivent prouver qu'ils sont dignes du ciel ou être détruits une fois que l'empereur démon règne. Presque tous sont d’accord sur le fait que le déclencheur du Cinquième Âge fut l’intrusion des Occidentaux dans l’Empire du Milieu." #NT!
+ game_concept_sixth_age: "Sixième âge" #NT!
+ game_concept_sixth_age_desc: "Le [GetTrait('kueijin').GetName( GetNullCharacter )] appelle l’ère à venir le sixième âge du grand cycle, également appelé l’ère du chagrin. C'est le nadir de la Roue, où le personnage auguste de Jade descend de son trône et où l'un des rois Yama montera pour devenir l'empereur démon. Cependant, la plupart des [GetTrait('kueijin').GetName( GetNullCharacter )] considèrent l’Âge du chagrin comme une partie nécessaire de l’existence. De même, les Hengeyokai croient que l’ère du chagrin à venir constituera leur plus grand défi. Leurs ennemis, les rois Yama, cherchent à s'introniser sur la roue et à la maintenir piégée pour toujours dans le sixième âge, tandis que le grand mille-pattes cherche à défaire la roue elle-même. Le devoir des enfants de la Mère d’Émeraude sera donc de protéger la Roue de tous ceux qui cherchent à la corrompre. Les #TOOLTIP:GAME_TRAIT,mage,[GetNullCharacter] #L Chi'n Ta#!#! croient également que la Roue va bientôt tourner à nouveau, mais sont divisés sur la manière dont cela les affectera. Les Hsien parlent plutôt de l'Âge de la Joie, où le Mur entre les mondes se brisera et leur permettra de rentrer chez eux. D'autres ont repris les histoires d'autres shen et s'inquiètent secrètement si cela est aussi bon que cela en a l'air." #NT!
+  
+ game_concept_grand_city: "Grande Ville" #NT!
+ game_concept_grand_cities: "Grandes villes" #NT!
+ game_concept_grand_city_desc: "Une Grande Ville est un grand centre de population ayant une grande importance à la fois pour le monde mortel et surnaturel.\n\nChaque Grande Ville est associée à un ensemble de mécanismes uniques. Vous devrez peut-être remplir des conditions particulières avant de pouvoir mettre à niveau son [buildings|E].\n\nActuellement, la seule grande ville est [eternal_rome|E]." #NT!
+  
+ game_concept_eternal_rome: "Rome éternelle" #NT!
+ game_concept_st_peters_city: "Ville de Saint-Pierre" #NT!
+ game_concept_roma_aeterna: "Rome Aeterna" #NT!
+ game_concept_eternal_rome_desc: "Le [grand_city|E] de Rome a une histoire longue et riche. Il existe trois versions de la ville :\n\nLorsqu'elle est contrôlée par un [GetTrait('vampire').GetName(GetNullCharacter)], la ville s'appelle #bold Roma Aeterna#!. Ses 13 quartiers historiques sont répartis entre les [Clans|E]. Afin de les mettre à niveau, vous devrez employer des [primogen|E] qualifiés. Au niveau 3, chaque quartier débloquera #P nouvelles capacités#! pour votre personnage.\n\nLorsqu'elle est contrôlée par un [GetTrait('supehunter').GetName(GetNullCharacter)] de l'Inquisition de l'Ombre, la ville s'appelle #bold Ville de Saint-Pierre#!. Un chasseur peut y élire domicile. dans le monastère de San Michele, ce qui en fait le siège de l'Inquisition. Aider les autres Ordres de l'Inquisition débloquera de puissantes voies d'amélioration pour ses bâtiments.\n\nLorsqu'elle est contrôlée par quelqu'un d'autre, la ville s'appelle #bold Rome éternelle#!.. Ses monuments historiques peuvent être restaurés par des personnages possédant un [GetTrait('vampire').GetName(GetNullCharacter)]3 spécifique ou par des personnes habiles dans [GetTrait('vampire').GetName(GetNullCharacter)]4.\n\n[GetTrait('vampire').GetName(GetNullCharacter)]5 [GetTrait('vampire').GetName(GetNullCharacter)]6 ne peut pas utiliser cette ville. Lors de la conquête de Rome, elle se convertira automatiquement en tribu.#!" #NT!
+  
+ game_concept_propaganda: "La propagande" #NT!
+ game_concept_propaganda_interaction: "Interaction de propagande" #NT!
+ game_concept_propaganda_desc: "Un [character_interaction|E] disponible pour :\n\n$BULLET_WITH_TAB$#TOOLTIP:GAME_TRAIT,setite,[GetNullCharacter] #L Setites#!#! qui ont amélioré le #TOOLTIP:BUILDING,rome_setite_03 #L District de Setite#!#! du [roma_aeterna|E] au niveau 3\n$BULLET_WITH_TAB$Personnages qui ont amélioré $BULLET_WITH_TAB$0 #L Pasquino§ _4 du $BULLET_WITH_TAB$3 au niveau 2\n\nIl vous permet de supprimer un de vos traits criminels en échange du $BULLET_WITH_TAB$4.\n\n$BULLET_WITH_TAB$5 Pour l'utiliser, faites un clic droit sur votre propre personnage.$BULLET_WITH_TAB$6" #NT!
+  
+ game_concept_assassination: "Assassinat" #NT!
+ game_concept_assassination_interaction: "Interaction d'assassinat" #NT!
+ game_concept_assassination_desc: "Un [character_interaction|E] disponible pour les [GetTrait('assamite').GetName(GetNullCharacter)] qui ont amélioré le #TOOLTIP:BUILDING,rome_assamite_03 #L du district de Banu Haqim#!#! du [roma_aeterna|E] au niveau 3.\n\nIl vous permet de compléter instantanément votre [GetScheme('murder').GetTypeName()] [schemes|E] en échange de [prestige|E] et [stress|E]. \n\n[GetTrait('assamite').GetName(GetNullCharacter)]0 Pour l'utiliser, faites un clic droit sur votre propre personnage.[GetTrait('assamite').GetName(GetNullCharacter)]1" #NT!
+  
+ game_concept_unburden: "Soulager" #NT!
+ game_concept_unburden_interaction: "Décharger l'interaction" #NT!
+ game_concept_unburden_desc: "Un [character_interaction|E] disponible pour les [GetTrait('salubri').GetName(GetNullCharacter)] qui ont amélioré le #TOOLTIP:BUILDING,rome_salubri_03 #L District de Salubri#!#! du [roma_aeterna|E] au niveau 3.\n\nIl vous permet de modifier vos traits de stress en échange du [piety|E].\n\n#I Pour utilisez-le, faites un clic droit sur votre propre personnage.#!" #NT!
+  
+ game_concept_journey: "Voyage" #NT!
+ game_concept_journeys: "Voyages" #NT!
+ game_concept_journey_desc: "Un voyage est une quête à long terme qu'un personnage peut entreprendre, seul ou avec un [coterie|E].\n\nLa plupart des voyages ont un [planning_phase|E] et un [travel_phase|E].\n\nUn seul voyage peut être actif à la fois. Contrairement au [schemes|E], les voyages peuvent être interrompus et repris ultérieurement.\n\n#help Pour démarrer un nouveau voyage, cliquez sur le bouton #bold $POD_journeys_hud$#! sur le côté droit de votre écran, ou cliquez avec le bouton droit sur un autre personnage. et démarrez un voyage via [character_interaction|E].#!" #NT!
+  
+ game_concept_planning_phase: "Phase de planification" #NT!
+ game_concept_planning_phase_desc: "La phase de planification d'un [journey|E] représente votre personnage rassemblant des informations, envoyant des éclaireurs et se préparant pour le voyage à venir.\n\nLa durée de la phase de planification dépend du [planning_speed|E]. En fonction du [journey|E], il peut y avoir des moyens de le rendre plus rapide. Certains voyages ont #V Instant#! [planning_speed|E], auquel cas la phase de planification est ignorée.\n\nUne fois la phase de planification terminée, le [journey|E] passe au [travel_phase|E]." #NT!
+  
+ game_concept_planning_speed: "Vitesse de planification" #NT!
+ game_concept_planning_speed_desc: "Contrairement au [schemes|E], le [planning_phase|E] d'un [journey|E] progresse à un rythme constant chaque mois, sans aucun caractère aléatoire.\n\nVotre [journeys|E] progressera #bold et non#! pendant que vous êtes :\n$BULLET_WITH_TAB$Dans [prison|E]\n§ _6Occupé [traveling|E]\n$BULLET_WITH_TAB$Occupé avec un [planning_phase|E]1\n$BULLET_WITH_TAB$Piégé dans l'Umbra\n\n[planning_phase|E]3 L'info-bulle du numéro de vitesse de planification donnera des conseils sur la façon de l'augmenter davantage.#!" #NT!
+  
+ game_concept_travel_phase: "Phase de voyage" #NT!
+ game_concept_travel_phase_desc: "Une fois le [planning_phase|E] d'un [journey|E] terminé, votre personnage découvre un [location|E] dans le monde où il peut terminer sa quête. Vous pouvez [travel|E] là-bas tout de suite, ou mettre le [journey|E] en pause et voyager plus tard.\n\nVous pouvez inviter les membres de votre [coterie|E] à vous accompagner lors de ce voyage.\n\n#help Vous ne pouvez pas commencer un nouveau § _7 ou invitez de nouveaux membres dans votre [coterie|E] pendant la phase de voyage.#!" #NT!
+  
+ game_concept_coterie: "Coterie" #NT!
+ game_concept_coterie_sabbat: "Paquet" #NT!
+ game_concept_coterie_tmr: "Colonne" #NT!
+ game_concept_coterie_anarch: "Gang" #NT!
+ game_concept_coterie_baali: "Assemblée" #NT!
+ game_concept_coterie_baali_hyron: "Nid" #NT!
+ game_concept_coterie_beastcourts: "Sentaï" #NT!
+ game_concept_coterie_werewolf: "Paquet" #NT!
+ game_concept_coterie_nagah: "Nid" #NT!
+ game_concept_coterie_kitsune: "Sentaï" #NT!
+ game_concept_coterie_ratkin: "Meute de rats" #NT!
+ game_concept_coterie_hunter: "Cellule" #NT!
+ game_concept_coterie_demon: "Conspiration" #NT!
+ game_concept_coterie_mage: "Cabale" #NT!
+ game_concept_coterie_redcap: "Corby" #NT!
+ game_concept_coterie_fae: "Covey" #NT!
+ game_concept_coterie_wraith: "Cercle" #NT!
+ game_concept_coterie_kueijin: "Wu" #NT!
+ game_concept_coterie_mummy: "Engagement" #NT!
+ game_concept_coterie_generic: "Faire la fête" #NT!
+ game_concept_coterie_harem: "Harem" #NT!
+ game_concept_coterie_desc: "Une Coterie est un groupe d'individus qui poursuivent leur [journeys|E] ensemble. "Coterie" est un terme utilisé par $POD_splat_vampire_plural$ — les autres [characters|E] peuvent avoir des noms différents.\n\nPendant que vous êtes sur un [journey|E], les [skills|E] sont partagés entre les membres de la Coterie. Par exemple, si une situation lors d'un [journey|E] exige un [diplomacy|E], elle ne prend en compte que le [diplomacy_skill|E] du membre de votre Coterie le plus diplomatique.\n\n#help Pour consulter votre Coterie, cliquez sur le bouton #bold $POD_splat_vampire_plural$0$POD_splat_vampire_plural$1 à droite. côté de votre écran et sélectionnez le deuxième onglet.$POD_splat_vampire_plural$1" #NT!
+  
+ game_concept_inner_circle: "Cercle intérieur" #NT!
+ game_concept_inner_circle_desc: "L'Inner Circle est le conseil organisateur de la Camarilla. On ne sait pratiquement rien de l’Inner Circle, qui s’efforce de garder secrète l’identité de ses membres. Le visage public du Cercle Intérieur est constitué des Justicars et de leurs assistants Archontes. Les membres du Cercle Intérieur élisent les Justicars et établissent les principes de la loi de la Camarilla." #NT!
+ game_concept_justicar: "Justicier" #NT!
+ game_concept_justicar_desc: "Les Justicars sont la composante visible la plus puissante du gouvernement de la Camarilla, chargés de statuer sur les questions liées aux Traditions à grande échelle et d'agir comme les yeux, les oreilles et les mains du Cercle Intérieur. Il y a un justicier pour chaque clan de la Camarilla, et chacun est servi par plusieurs archontes triés sur le volet qui agissent comme leurs espions, exécuteurs et représentants dans le monde entier." #NT!
+ game_concept_archon: "Archonte" #NT!
+ game_concept_archon_desc: "Un Archonte est un agent reconnu d'un des Justicars de la Camarilla. Si les Justicars sont les mains du Cercle Intérieur, les Archontes sont ses doigts." #NT!
+  
+ game_concept_ventrue_clan_curse: "Malédiction du clan Ventrue" #NT!
+ game_concept_feeding_restrictions: "Restrictions alimentaires" #NT!
+ game_concept_ventrue_clan_curse_desc: "Chaque descendant du [GetTrait('ventrue').GetName(GetNullCharacter)] [Clan|E] souffre d'une restriction alimentaire qui le rend incapable de se nourrir de #bold qui que ce soit#! autre que des mortels très particuliers.\n\nDans le [princes_of_darkness|E], un [GetTrait('ventrue').GetName(GetNullCharacter)] peut choisir sa proie préférée au début de le jeu. Se nourrir de tout autre type de mortel ne rassasiera pas votre [hunger|E], ni ne vous donnera le [lifestyle_experience|E] de leur [resonance|E].\n\nSe nourrir d'autres $POD_splat_vampire_plural$ n'est pas soumis à ces restrictions." #NT!
+  
+ game_concept_blood_hunt: "Chasse au sang" #NT!
+ game_concept_anathema: "Anathème" #NT!
+ game_concept_blood_hunt_desc: "Lorsqu'un [GetTrait('vampire').GetName(GetNullCharacter)] a commis une infraction grave contre la sécurité du [masquerade|E], la Camarilla peut le déclarer [GetTrait('anathema').GetName(GetNullCharacter)] et lancer une chasse au sang contre lui.\n\nDans le [princes_of_darkness|E], être [GetTrait('anathema').GetName(GetNullCharacter)] est représenté par un [trait|E]. Les membres de la Camarilla peuvent cibler le [GetTrait('anathema').GetName(GetNullCharacter)] avec la Chasse au Sang [casus_belli|E], qui emprisonne tous les [rulers|E] dans le royaume de la cible." #NT!
+  
+ game_concept_patron_council: "Conseil des mécènes" #NT!
+ game_concept_patron_council_desc: "Le Conseil des Patrons (plus communément appelé « les Patrons ») est une alliance lâche de fae traditionalistes. « Traditionaliste » dans ce sens fait référence à un moment de l'histoire précédant la Guerre des Saisons, lorsque chaque Cour régnait sur le monde pendant un temps imparti. temps. Le tribunal principal remettrait les rênes du pouvoir au tribunal suivant à la fin de son mandat convenu." #NT!
+  
+ game_concept_astral_reaches_access: "Accès aux atteintes astrales" #NT!
+ game_concept_astral_reaches_access_desc: "Le personnage peut se rendre au [astral_reaches|E] s'il a :\n$BULLET_WITH_TAB$[GetTrait('kueijin').GetName( GetNullCharacter )] [trait|E]\n$BULLET_WITH_TAB$[GetPerk('psychic_projection_perk').GetName( GetNullCharacter )] [perk|E] #Weak ([phlegmatic_lifestyle|E])[trait|E]7\n$BULLET_WITH_TAB$[GetPerk('shadow_walk_perk').GetName( GetNullCharacter ) ] [perk|E] #Weak ($BULLET_WITH_TAB$2)[trait|E]7\n$BULLET_WITH_TAB$[GetPerk('dream_the_matres_mind_perk').GetName( GetNullCharacter )] [perk|E] #Weak ($BULLET_WITH_TAB$6)[trait|E]7\n$BULLET_WITH_TAB$[GetPerk('unlock_the_jade_portal_perk'). GetName( GetNullCharacter )] [perk|E] #Weak ([GetTrait('kueijin').GetName( GetNullCharacter )]0)[trait|E]7\n$BULLET_WITH_TAB$[GetPerk('separate_ba_perk').GetName( GetNullCharacter )] [perk|E] #Weak ([GetTrait('kueijin').GetName( GetNullCharacter )]4)[trait|E]7\n$BULLET_WITH_TAB$[GetPerk(' see_the_lands_of_the_spirit_perk').GetName( GetNullCharacter )] [perk|E] #Weak ([GetTrait('kueijin').GetName( GetNullCharacter )]8)[trait|E]7\n$BULLET_WITH_TAB$[GetPerk('journey_to_the_spirit_realm_perk').GetName( GetNullCharacter )] [perk|E] #Weak ([trait|E]2)[trait|E]7\n$BULLET_WITH_TAB$ [GetPerk('astral_projection_perk').GetName( GetNullCharacter )] [perk|E] #Weak ([trait|E]6)[trait|E]7" #NT!
+ game_concept_spirit_wilds_access: "Accès aux Spirit Wilds" #NT!
+ game_concept_spirit_wilds_access_desc: "Le personnage peut voyager jusqu'au [spirit_wilds|E] s'il a :\n$BULLET_WITH_TAB$[GetTraitGroup('shapeshifter').GetName()] [trait|E]\n$BULLET_WITH_TAB$[GetTrait('kueijin').GetName( GetNullCharacter )] [trait|E]\n$BULLET_WITH_TAB$[GetPerk('the_spirit_beast_perk').GetName( GetNullCharacter )] [perk|E] $BULLET_WITH_TAB$0 ($BULLET_WITH_TAB$1)[trait|E]6\n$BULLET_WITH_TAB$[GetPerk(' unlock_the_jade_portal_perk').GetName( GetNullCharacter )] [perk|E] $BULLET_WITH_TAB$0 ($BULLET_WITH_TAB$5)[trait|E]6\n$BULLET_WITH_TAB$[GetPerk('separate_ba_perk').GetName( GetNullCharacter )] [perk|E] $BULLET_WITH_TAB$0 ($BULLET_WITH_TAB$9)[trait|E]6\n$BULLET_WITH_TAB$ [GetPerk('see_the_lands_of_the_spirit_perk').GetName( GetNullCharacter )] [perk|E] $BULLET_WITH_TAB$0 ([GetTraitGroup('shapeshifter').GetName()]3)[trait|E]6\n$BULLET_WITH_TAB$[GetPerk('journey_to_the_spirit_realm_perk').GetName( GetNullCharacter )] [perk|E] $BULLET_WITH_TAB$0 ([GetTraitGroup('shapeshifter').GetName()]7)[trait|E]6 \n$BULLET_WITH_TAB$[GetPerk('ephemera_perk').GetName( GetNullCharacter )] [perk|E] $BULLET_WITH_TAB$0 ([trait|E]1)[trait|E]6\n$BULLET_WITH_TAB$Esprit latéral [perk|E] $BULLET_WITH_TAB$0 ([trait|E]5)[trait|E]6" #NT!
+ game_concept_underworld_access: "Accès au monde souterrain" #NT!
+ game_concept_underworld_access_desc: "Le personnage peut voyager jusqu'au [underworld|E] s'il a :\n$BULLET_WITH_TAB$[GetTrait('wraith').GetName( GetNullCharacter )] [trait|E]\n$BULLET_WITH_TAB$[GetTrait('kueijin').GetName( GetNullCharacter )] [trait|E]\n$BULLET_WITH_TAB$[GetPerk('ex_nihilo_perk').GetName( GetNullCharacter )] [perk|E] $BULLET_WITH_TAB$0 ($BULLET_WITH_TAB$1)[trait|E]6\n$BULLET_WITH_TAB$[GetPerk(' walk_with_hades_perk').GetName( GetNullCharacter )] [perk|E] $BULLET_WITH_TAB$0 ($BULLET_WITH_TAB$5)[trait|E]6\n$BULLET_WITH_TAB$[GetPerk('shadow_walk_perk').GetName( GetNullCharacter )] [perk|E] $BULLET_WITH_TAB$0 ($BULLET_WITH_TAB$9)[trait|E]6\n$BULLET_WITH_TAB$ [GetPerk('shadows_of_mictlan_perk').GetName( GetNullCharacter )] [perk|E] $BULLET_WITH_TAB$0 ($BULLET_WITH_TAB$9)[trait|E]6\n$BULLET_WITH_TAB$[GetPerk('unlock_the_jade_portal_perk').GetName( GetNullCharacter )] [perk|E] $BULLET_WITH_TAB$0 ([GetTrait('wraith').GetName( GetNullCharacter )]7)[trait|E]6 \n$BULLET_WITH_TAB$[GetPerk('separate_ka_perk').GetName( GetNullCharacter )] [perk|E] $BULLET_WITH_TAB$0 ([trait|E]1)[trait|E]6\n$BULLET_WITH_TAB$[GetPerk('lesser_spirit_projection_perk').GetName( GetNullCharacter )] [perk|E] $BULLET_WITH_TAB$0 (§ _35)[trait|E]6" #NT!
+ game_concept_dreaming_access: "Accès Rêver" #NT!
+ game_concept_dreaming_access_desc: "Le personnage peut voyager jusqu'au [dreaming|E] s'il a :\n$BULLET_WITH_TAB$[GetTrait('fae').GetName( GetNullCharacter )] [trait|E]\n$BULLET_WITH_TAB$[GetTrait('kueijin').GetName( GetNullCharacter )] [trait|E]\n$BULLET_WITH_TAB$[GetPerk('visit_faerieland_perk').GetName( GetNullCharacter )] [perk|E] $BULLET_WITH_TAB$0 ($BULLET_WITH_TAB$1)[trait|E]2\n$BULLET_WITH_TAB$[GetPerk(' shadow_walk_perk').GetName( GetNullCharacter )] [perk|E] $BULLET_WITH_TAB$0 ($BULLET_WITH_TAB$5)[trait|E]2\n$BULLET_WITH_TAB$[GetPerk('unlock_the_jade_portal_perk').GetName( GetNullCharacter )] [perk|E] $BULLET_WITH_TAB$0 ($BULLET_WITH_TAB$9)[trait|E]2\n$BULLET_WITH_TAB$ [GetPerk('see_the_lands_of_the_spirit_perk').GetName( GetNullCharacter )] [perk|E] $BULLET_WITH_TAB$0 ([GetTrait('fae').GetName( GetNullCharacter )]3)[trait|E]2\n$BULLET_WITH_TAB$[GetPerk('oneiromancy_perk').GetName( GetNullCharacter )] [perk|E] $BULLET_WITH_TAB$0 ([GetTrait('fae').GetName( GetNullCharacter )]7)[trait|E]2 \n$BULLET_WITH_TAB$[GetPerk('sandman_perk').GetName( GetNullCharacter )] [perk|E] $BULLET_WITH_TAB$0 ([trait|E]1)[trait|E]2" #NT!
+ game_concept_skinlands_access: "Accès aux Skinlands" #NT!
+ game_concept_skinlands_access_desc: "Le personnage peut voyager jusqu'au [skinlands|E] s'il a :\n$BULLET_WITH_TAB$#bold Non#! [GetTrait('wraith').GetName( GetNullCharacter )] [trait|E]\n$BULLET_WITH_TAB$[GetTrait('risen').GetName( GetNullCharacter )] [trait|E]\n$BULLET_WITH_TAB$$BULLET_WITH_TAB$0 [trait|E]\n$BULLET_WITH_TAB$$BULLET_WITH_TAB$3 $BULLET_WITH_TAB$4" #NT!
+  
+ game_concept_golconda: "Golconde" #NT!
+ game_concept_enlightenment: "Éclaircissement" #NT!
+ game_concept_enlightened: "Éclairé" #NT!
+ game_concept_golconda_desc: "Golconde est un état mystique d'illumination dans lequel un $POD_splat_vampire$ n'est plus soumis au [the_beast|E].\n\nDans le [princes_of_darkness|E], le [GetTrait('golconda').GetName(GetNullCharacter)] est un [trait|E]. Quelques rares individus commencent par cela, mais tout le monde ne peut y parvenir qu'après un long [journey|E].\n\n#X Puisque Golconde est étroitement liée à votre humanité, vous perdrez tout progrès dans ce voyage si vous commettez un meurtre ou un vol. , ou succomber à la frénésie.#!" #NT!
+  
+ game_concept_golconda_planning_speed: "Vitesse de planification de Golconda" #NT!
+ game_concept_golconda_planning_speed_desc: "La meilleure façon d'augmenter le [planning_speed|E] du [golconda|E] [journey|E] est d'avoir le [GetCourtPositionType('touchstones_court_position').GetName()] mortel. Il s'agit d'un [court_position|E] débloqué par [faiths|E] avec #TOOLTIP:GAME_FAITH_DOCTRINE,doctrine_enlightenment_virtues_conscience_and_selfcontrol #L Conscience#!#!, et vous pouvez augmenter leur [aptitude|E] en ayant un bon [golconda|E]0 avec eux (comme [golconda|E]1 ou [golconda|E]2).\n\nAutres moyens d'augmenter la vitesse :\n[golconda|E]3Avoir d'autres personnages avec le [golconda|E]4 ou [golconda|E]5 [golconda|E]6 dans votre [golconda|E]7\n[golconda|E]3Être un [golconda|E]9, [journey|E]0 ou [journey|E]1\n[golconda|E]3Posséder un [journey|E]3 avec Golconda Lore" #NT!
+  
+ game_concept_hungerless: "Sans faim" #NT!
+ game_concept_hungerless_desc: "Un $POD_splat_vampire$ sans faim a complètement transcendé le besoin de sang. Ils peuvent utiliser librement le [disciplines|E] et d'autres capacités dont l'utilisation coûterait autrement du sang.\n\nCependant, cela signifie également qu'ils ne peuvent plus acquérir d'expérience [resonance|E] en chassant." #NT!
+  
+ game_concept_umbra: "Ombre" #NT!
+ game_concept_umbra_desc: "L'Umbra, également appelée Monde des Esprits, Ombre ou Ombre de Velours, est un royaume existant à côté du monde matériel, mais séparé de celui-ci." #NT!
+  
+ game_concept_skinlands: "Terres cutanées" #NT!
+ game_concept_skinlands_desc: "Les Wraiths font référence au monde des vivants sous le nom de Skinlands ; cela contraste avec le [shadowlands|E], les terres des morts et la maison des spectres. Les Skinlands et [shadowlands|E] sont séparés par le Linceul, qui obscurcit le monde des vivants aux spectres. Les Wraiths peuvent avoir une meilleure vision de ce qui se passe parmi les Quick grâce à la capacité innée Lifesight. Les spectres ne peuvent pas voir à travers le Linceul et donc dans les Skinlands à moins qu'ils ne possèdent le Dark Arcanos Shroud-Rending." #NT!
+  
+ game_concept_gaia_realm: "Royaume de Gaïa" #NT!
+ game_concept_gaia_realm_desc: "Le Royaume de Gaia, souvent appelé simplement par Garou Le Royaume, est le monde naturel qui englobe le domaine physique, spirituel et ombral de Gaia : à savoir la Terre et tous les royaumes spirituels qu'elle contient. Le terme est parfois utilisé de manière si large qu'il englobe le [penumbra|E] là où il chevauche ou touche le royaume de Gaia." #NT!
+  
+ game_concept_tao_te_hsien: "Tao Te Hsien" #NT!
+ game_concept_tao_te_hsien_desc: "Ce n’est pas le taoïsme de Lao Tsu, même s’il s’en inspire. Son but est que le shinma comprenne sa place dans le cosmos depuis l'avènement du Mur. Contrairement à la philosophie humaine, son objectif est de donner au hsien le pouvoir de briser le mur et de voyager vers les mondes spirituels.\nIl partage de nombreuses caractéristiques du Tao. Les adeptes ont tendance à se retirer des pièges du monde et à envisager une vie d'aisance contemplative dans la nature. Ils aiment apprendre pour le plaisir mais se soucient peu de la politique. Certains sont des scientifiques, d’autres des prêtres, d’autres des mendiants, d’autres encore des guerriers. Les hsien du Japon l'ont modifié en une philosophie plus zen appelée Hsien-do et, contrairement à certaines religions mortelles, le Tao Te Hsien accueille le changement et l'individualisme, à condition qu'il ne devienne pas une auto-glorification. C'est calme, mystérieux et profond.\nIl comporte cinq étapes qui correspondent à peu près à l'histoire de la création taoïste, mais à l'envers. Pour les taoïstes, il y avait d'abord Wu-Wo : Not Nothing. De Wu-Wo est venu Wu Chi : No Limit. cela a engendré Hu T'un : Chaos. Au centre de ce Chaos se trouvait un point immobile, un point qui devint d'abord T'ai Chi : le Grand Pôle et de là naquit le Grand Changement : T'ai I qui est divisé en deux étapes : T'ai Chu : le Grand Premier ou forme, et T'ai Shih : le Grand Commencement ou le Premier Souffle (Chi). Tout cela a finalement conduit à la création du [first_age|E] : T'ai Su : le Grand Primordial.\nPourquoi les étapes sont-elles inversées ? Les étapes représentent la lutte pour revenir au No Limit ; pour briser les liens qui limitent le voyage du shinma vers les mondes spirituels. Il existe de nombreux chemins pour retourner au No Limit mais le plus sûr est le Tao Te Hsien. La rumeur dit que les dieux profanes ont leur propre version de Nei Tan appelée Hac Tao ou la Voie Noire ; une manière dictée par un Yama King lors du [third_age|E]." #NT!
+  
+ game_concept_cantrip: "Cantrip" #NT!
+ game_concept_cantrips: "Cantrips" #NT!
+ game_concept_fae_realm: "Royaume" #NT!
+ game_concept_cantrip_desc: "Les Cantrips sont les sorts magiques du $POD_splat_fae$. Ils ont deux composants : le #bold Art#! et le #bold Royaume#!.\n\nL'Art détermine l'effet du Cantrip. Un personnage peut apprendre de nouveaux Arts en effectuant un [journey|E] à #italic Apprendre de nouvelles capacités#!, puis en déverrouillant [perks|E] dans l'un des Art [lifestyles|E].\n\nLe Royaume détermine qui peut être ciblé avec le Cantrip. Un $POD_splat_fae$ non qualifié ne peut affecter que des personnages très spécifiques avec sa magie, tandis que celui qui maîtrise les Royaumes peut enchanter n'importe qui dans le monde.\n\nIl existe six Royaumes :\n#bold1#bold2 #bold3 Acteur#!#! permet on lance des Cantrips sur des cibles moins familières.\n#bold1#bold6 #bold3 Fae#!#! permet de lancer des Cantrips sur des #bold9 plus puissants.\n#bold1#!1 #bold3 Prop#!#! permet de lancer des Cantrips sur des cibles plus rares. #!4.\n#bold1#!6 #bold3 La nature#!#! permet d'influencer les phénomènes naturels.\n#bold1#bold0 #bold3 La scène#!#! détermine la portée et la zone des Cantrips.\n#bold1#bold4 § _13 Time#!#! détermine la durée et le temps de recharge des Cantrips.\n\nChaque personnage de sang fae peut débloquer le [perks|E] dans le #bold8 #bold9, mais maîtriser complètement un royaume nécessite un [journey|E]." #NT!
+  
+ game_concept_unconquered_soul: "Âme invaincue" #NT!
+ game_concept_unconquered_soul_desc: "Unconquered Soul est un événement dans lequel votre portrait, vos traits de caractère et votre foi peuvent être écrasés par la victime de votre diablerie." #NT!

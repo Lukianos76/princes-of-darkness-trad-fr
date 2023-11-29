@@ -1,0 +1,1519 @@
+﻿l_french:
+  
+ POD_blood_surge: "Poussée de sang" #NT!
+ POD_blood_surge_action: "Poussée de sang" #NT!
+ POD_blood_surge_interaction: "Poussée de sang" #NT!
+ POD_blood_surge_interaction_desc: "Utilisez le pouvoir du sang pour augmenter vos capacités de vampire. Une augmentation de votre sang peut augmenter votre faim" #NT!
+ POD_blood_surge_interaction_options_heading: "Que dois-je faire appel au sang pour s’améliorer ?" #NT!
+ POD_blood_surge_prowess: "Combattez! [AddTextIf( PlayerHasBeast, '#R Yes! Killing time!#!' )]" #NT!
+ POD_blood_surge_health: "Je veux être plus dur ! [AddTextIf( PlayerHasBeast, '#R We are immortal!#!' )]" #NT!
+ POD_blood_surge_martial: "Devenez meilleur en tactique ! [AddTextIf( PlayerHasBeast, '#R There is always much blood spilt in war.#!' )]" #NT!
+ POD_blood_surge_diplomacy: "Rends-moi plus charmant. [AddTextIf( PlayerHasBeast, '#R Welcome to my parlor.#!' )]" #NT!
+ POD_blood_surge_stewardship: "Aide-moi avec les chiffres. [AddTextIf( PlayerHasBeast, '#R We need more herd.#!' )]" #NT!
+ POD_blood_surge_intrigue: "Calme comme la mort. [AddTextIf( PlayerHasBeast, '#R The hunt is on!#!' )]" #NT!
+ POD_blood_surge_learning: "Vitae peut augmenter l’intellect. [AddTextIf( PlayerHasBeast, '#R Indubitably.#!' )]" #NT!
+  
+ POD_blood_heal: "Guérison du sang" #NT!
+ POD_blood_heal_action: "Guérison du sang" #NT!
+ POD_blood_heal_interaction: "Guérison du sang" #NT!
+ POD_blood_heal_interaction_desc: "Utilisez le pouvoir du sang pour guérir vos blessures." #NT!
+ POD_blood_heal_interaction_options_heading: "Que dois-je faire appel au sang pour guérir ?" #NT!
+ POD_blood_heal_blind: "Cécité" #NT!
+ POD_blood_heal_maimed: "Mutiler" #NT!
+ POD_blood_heal_one_legged: "Jambe manquante" #NT!
+ POD_blood_heal_wounded: "Blessant" #NT!
+ POD_blood_heal_scarred: "Cicatrices" #NT!
+ POD_blood_heal_disfigured: "Défiguration" #NT!
+  
+ POD_find_mortals: "Trouver des mortels" #NT!
+ POD_find_mortals_action: "Trouver des mortels" #NT!
+ POD_find_mortals_interaction: "Trouver des mortels" #NT!
+ POD_find_mortals_interaction_options_heading: "Quel genre de mortels je recherche ?" #NT!
+ POD_find_mortals_interaction_warriors: "Guerriers" #NT!
+ POD_find_mortals_interaction_tt_warriors: "Vous rencontrerez des mortels #V 5#! avec une éducation [martial|E]." #NT!
+ POD_find_mortals_interaction_diplomacy: "Diplomates" #NT!
+ POD_find_mortals_interaction_merchants: "Marchands" #NT!
+ POD_find_mortals_interaction_tt_merchants: "Vous rencontrerez des mortels #V 5#! avec une éducation [stewardship|E]." #NT!
+ POD_find_mortals_interaction_scoundrels: "Des scélérats" #NT!
+ POD_find_mortals_interaction_tt_scoundrels: "Vous rencontrerez des mortels #V 5#! avec une éducation [intrigue|E]." #NT!
+ POD_find_mortals_interaction_scoundrels_toast: "Amis dans des endroits bas" #NT!
+ POD_find_mortals_interaction_learning: "Savants" #NT!
+ POD_find_mortals_interaction_mortal_commoners: "Paysans" #NT!
+ POD_find_mortals_interaction_tt_mortal_commoners: "Vous rencontrerez #V 5#! mortels avec des traits aléatoires." #NT!
+ POD_find_mortals_interaction_clergy: "Le clergé" #NT!
+ POD_find_mortals_interaction_tt_clergy: "Vous rencontrerez des mortels #V 5#! avec une éducation [learning|E]." #NT!
+ POD_find_mortals_interaction_choleric: "Mortels aux humeurs colériques" #NT!
+ POD_find_mortals_interaction_tt_choleric: "Vous rencontrerez des mortels #V 2#! dont le sang a un [choleric_lifestyle|E]." #NT!
+ POD_find_mortals_interaction_melancholic: "Mortels aux humeurs mélancoliques" #NT!
+ POD_find_mortals_interaction_tt_melancholic: "Vous rencontrerez des mortels #V 2#! dont le sang a un [melancholy_lifestyle|E]." #NT!
+ POD_find_mortals_interaction_phlegmatic: "Mortels aux humeurs flegmatiques" #NT!
+ POD_find_mortals_interaction_tt_phlegmatic: "Vous rencontrerez des mortels #V 2#! dont le sang a un [phlegmatic_lifestyle|E]." #NT!
+ POD_find_mortals_interaction_sanguine: "Mortels aux humeurs sanguines" #NT!
+ POD_find_mortals_interaction_tt_sanguine: "Vous rencontrerez des mortels #V 2#! dont le sang a un [sanguine_lifestyle|E]." #NT!
+ POD_find_mortals_interaction_choleric.tt: "Réveillez le sang pour invoquer mon pouvoir Auspex de Scry the Soul afin de trouver des mortels à résonance colérique." #NT!
+ POD_find_mortals_interaction_melancholic.tt: "Réveillez le sang pour invoquer mon pouvoir Auspex de Scry the Soul pour trouver des mortels à la résonance mélancolique." #NT!
+ POD_find_mortals_interaction_phlegmatic.tt: "Réveillez le sang pour invoquer mon pouvoir Auspex de Scry the Soul pour trouver des mortels à résonance flegmatique." #NT!
+ POD_find_mortals_interaction_sanguine.tt: "Réveillez le sang pour invoquer mon pouvoir Auspex de Scry the Soul pour trouver des mortels avec une résonance sanguine." #NT!
+ POD_find_mortals_interaction_ashen_nobles: "Nobles cendrés" #NT!
+ POD_find_mortals_interaction_tt_ashen_nobles: "Vous rencontrerez #V 3#! mortels honnêtes avec une éducation [diplomacy|E]." #NT!
+ POD_find_mortals_interaction_ashen_knights: "Chevaliers cendrés" #NT!
+ POD_find_mortals_interaction_tt_ashen_knights: "Vous rencontrerez #V 3#! mortels honnêtes avec une éducation [martial|E]." #NT!
+ POD_find_mortals_interaction_ashen_seneschals: "Sénéchal cendré" #NT!
+ POD_find_mortals_interaction_tt_ashen_seneschals: "Vous rencontrerez #V 3#! mortels honnêtes avec une éducation [stewardship|E]." #NT!
+ POD_find_mortals_interaction_ashen_thieves: "Voleurs cendrés" #NT!
+ POD_find_mortals_interaction_tt_ashen_thieves: "Vous rencontrerez des mortels décents #V 3#! avec une éducation [intrigue|E]." #NT!
+ POD_find_mortals_interaction_ashen_cults: "Cultes cendrés" #NT!
+ POD_find_mortals_interaction_tt_ashen_cults: "Vous rencontrerez #V 3#! mortels honnêtes avec une éducation [learning|E]." #NT!
+ POD_find_mortals_interaction_custom: "Coutume" #NT!
+ POD_find_mortals_interaction_grand_city: "Parce que vous chassez dans votre [grand_city|E], vous trouverez des mortels avec un sang de meilleure qualité." #NT!
+ POD_find_mortals_interaction_desc: "Recherchez sur votre territoire les mortels vulnérables à vos actions." #NT!
+  
+ POD_offer_draught: "Projet d'offre" #NT!
+ POD_offer_draught_interaction: "Projet d'offre" #NT!
+ POD_offer_draught_interaction_desc: "Partagez votre sang et améliorez les capacités physiques de votre serviteur." #NT!
+ POD_offer_draught_interaction_options_heading: "Quel type de brouillon dois-je proposer ?" #NT!
+ POD_offer_draught_interaction_might: "Brouillon de puissance." #NT!
+ POD_offer_draught_interaction_elegance: "Brouillon d'élégance." #NT!
+ POD_offer_draught_interaction_endurance: "Brouillon d'endurance." #NT!
+ POD_offer_draught_interaction_nothing: "Je ne proposerai aucune ébauche." #NT!
+ MUST_HAVE_MORE_POTENCE_THAN_DRINKER: "Doit avoir plus de puissance que de buveur." #NT!
+ MUST_HAVE_MORE_CELERITY_THAN_DRINKER: "Doit avoir plus de célérité que le buveur." #NT!
+ MUST_HAVE_MORE_FORTITUDE_THAN_DRINKER: "Il doit avoir plus de courage que de buveur." #NT!
+  
+ POD_vampshapeshift: "Se métamorphoser" #NT!
+ POD_vampshapeshift_interaction: "Se métamorphoser" #NT!
+ POD_vampshapeshift_interaction_desc: "Utilisez votre sang et [discipline|E] pour transformer votre forme." #NT!
+ POD_vampshapeshift_interaction_options_heading: "Sous quelle forme dois-je me métamorphoser ?" #NT!
+ POD_vampshapeshift_interaction_humanoid: "Revenez à une forme humanoïde." #NT!
+ POD_vampshapeshift_interaction_vicissitudeface: "Visage de vicissitude." #NT!
+ POD_vampshapeshift_interaction_revertvicissitudeface: "Inversez le visage de Vicissitude." #NT!
+ POD_vampshapeshift_interaction_feralweapons: "Étendez les armes sauvages." #NT!
+ POD_vampshapeshift_interaction_bonearmor: "Façonner une armure osseuse." #NT!
+ POD_vampshapeshift_interaction_wolf: "Se transforme en loup." #NT!
+ POD_vampshapeshift_interaction_boar: "Se transforme en sanglier." #NT!
+ POD_vampshapeshift_interaction_lion: "Se transforme en lion." #NT!
+ POD_vampshapeshift_interaction_giantserpent: "Changez-vous de forme en serpent géant." #NT!
+ POD_vampshapeshift_interaction_rat: "Métamorphosez-vous en rat." #NT!
+ POD_vampshapeshift_interaction_bat: "Métamorphosez-vous en chauve-souris." #NT!
+ POD_vampshapeshift_interaction_insect: "Métamorphosez-vous en insecte." #NT!
+ POD_vampshapeshift_interaction_snake: "Métamorphosez-vous en un petit serpent." #NT!
+ POD_vampshapeshift_interaction_blood: "Transformez-vous en une mare de sang sensible." #NT!
+ POD_vampshapeshift_interaction_mist: "Transformez-vous en brume." #NT!
+ POD_vampshapeshift_interaction_shadow: "Devenez une ombre." #NT!
+ POD_vampshapeshift_interaction_incorporeal: "Menez un rituel d’incorporalité." #NT!
+ POD_vampshapeshift_interaction_chiropteran: "Transformez-vous en maraudeur chiroptère" #NT!
+ POD_vampshapeshift_interaction_zulo: "Réveillez la forme Zulo" #NT!
+ POD_vampshapeshift_interaction_dracul: "Assumez la forme draconique" #NT!
+ POD_vampshapeshift_interaction_beasteyes: "Les yeux de la bête." #NT!
+ POD_vampshapeshift_interaction_serpenteyes: "Yeux du Serpent." #NT!
+ POD_vampshapeshift_interaction_abysseyes: "Les yeux de l'abîme" #NT!
+ POD_vampshapeshift_interaction_serpentsflesh: "Obtenez une peau de serpentine" #NT!
+ POD_vampshapeshift_interaction_typhonicavatar: "Assumer la forme typphonique" #NT!
+ POD_vampshapeshift_interaction_godhead: "Divinité" #NT!
+ POD_vampshapeshift_interaction_reshapeface: "Remodeler le visage." #NT!
+ POD_vampshapeshift_interaction_revertreshapeface: "Revenir Remodeler le visage." #NT!
+ POD_vampshapeshift_interaction_skinofchameleon: "Peau du caméléon." #NT!
+ POD_vampshapeshift_interaction_purchase_aspect_of_the_beast: "Acheter Aspect de la Bête" #NT!
+ POD_vampshapeshift_interaction_the_wild_beast: "La forme de la bête sauvage" #NT!
+  
+ POD_animaldominion: "Appeler les animaux" #NT!
+ POD_animaldominion_interaction: "Appeler les animaux" #NT!
+ POD_animaldominion_interaction_desc: "Utilise ton sang et le [discipline|E] de l'animalité pour appeler les bêtes" #NT!
+ POD_animaldominion_interaction_options_heading: "Quel genre d'animaux dois-je appeler ?" #NT!
+ POD_animaldominion_interaction_wolves: "Meutes de loups" #NT!
+ POD_animaldominion_interaction_wolves.tt: "Appelez des meutes de loups. [AddTextIf( PlayerHasBeast, '#R Listen to them, the children of the night. What music they make!#!' )]" #NT!
+ POD_animaldominion_interaction_bats: "Nuage de chauves-souris" #NT!
+ POD_animaldominion_interaction_bats.tt: "Appelez un nuage de chauves-souris." #NT!
+ POD_animaldominion_interaction_rats: "La peste des rats" #NT!
+ POD_animaldominion_interaction_rats.tt: "Appelez une épidémie de rats." #NT!
+ POD_animaldominion_interaction_scorpions: "Nid de Scorpions" #NT!
+ POD_animaldominion_interaction_scorpions.tt: "Appelez un nid de scorpions." #NT!
+ POD_animaldominion_interaction_snakes: "Fosse aux Serpents" #NT!
+ POD_animaldominion_interaction_snakes.tt: "Appelez une fosse aux serpents." #NT!
+ POD_animaldominion_interaction_insects: "Essaim d'insectes" #NT!
+ POD_animaldominion_interaction_insects.tt: "Appelez un essaim d'insectes." #NT!
+  
+ POD_drain_animal: "Égoutter les animaux" #NT!
+ POD_drain_animal_interaction: "Égoutter les animaux" #NT!
+ POD_drain_animal_interaction_desc: "Videz un animal de son sang pour nourrir votre faim." #NT!
+ POD_drain_animal_interaction_options_heading: "Quel animal dois-je drainer ?" #NT!
+ POD_drain_animal_interaction_my_horse: "Mon cheval" #NT!
+ POD_drain_animal_interaction_my_horse.tt: "La dernière bataille pour mon cheval de guerre, [actor.Custom('WarhorseStoryName')].\n[AddTextIf( PlayerHasBeast, '#R Do you know where glue comes from?#!\n' )]" #NT!
+ POD_drain_animal_interaction_my_cat: "Mon chat" #NT!
+ POD_drain_animal_interaction_my_cat.tt: "Tuez mon chat, [actor.Custom('CatStoryName')], en buvant [actor.Custom('CatStoryHerHis')] du sang.\n[AddTextIf( PlayerHasBeast, '#R Come here kitty kitty kitty.#!\n' )]" #NT!
+ POD_drain_animal_interaction_my_dog: "Mon chien" #NT!
+ POD_drain_animal_interaction_my_dog.tt: "Tuez mon chien, [actor.Custom('DogStoryName')], en drainant toute sa vie [actor.Custom('DogStoryHerHis')].\n[AddTextIf( PlayerHasBeast, '#R Monsters like us, they got no family. Not us, because I got you.#!\n' )]" #NT!
+ POD_drain_animal_interaction_rats: "Les rats" #NT!
+ POD_drain_animal_interaction_rats.tt: "Trouvez et égouttez quelques rats. [AddTextIf( PlayerHasBeast, '#R Heheheh! You rat sucker! HAHAHAHA!#!' )]" #NT!
+ POD_drain_animal_interaction_stray: "Animal errant" #NT!
+ POD_drain_animal_interaction_stray.tt: "Égoutter un animal errant de taille moyenne. Au moins, ce n'est pas mon animal de compagnie." #NT!
+ POD_drain_animal_interaction_deer: "Chasser en pleine nature" #NT!
+ POD_drain_animal_interaction_deer.tt: "Drainez une proie dans la nature.\n[AddTextIf( PlayerHasBeast, '#R Easier prey in the towns.#!\n' )]" #NT!
+ POD_drain_animal_interaction_cow: "Bétail" #NT!
+ POD_drain_animal_interaction_cow.tt: "Achetez du bétail pour l’abattage et égouttez-le. [AddTextIf( PlayerHasBeast, '#R Why buy a cow when we could get human blood for free?!?#!' )]" #NT!
+ POD_drain_animal_interaction_toast: "Se nourrir d'animaux" #NT!
+ POD_drain_animal_interaction_toast_rats: "Pas très glamour..." #NT!
+  
+ POD_bind_famulus: "Lier Famulus" #NT!
+ POD_bind_famulus_interaction: "Lier Famulus" #NT!
+ POD_bind_famulus_interaction_desc: "Trouvez un animal et le sang le lie à votre volonté." #NT!
+ POD_bind_famulus_interaction_options_heading: "Quel animal dois-je attacher en tant que famulus" #NT!
+ POD_bind_famulus_interaction_horse: "Cheval" #NT!
+ POD_bind_famulus_interaction_horse.tt: "Je vais acheter et lier le sang d'un cheval de guerre." #NT!
+ POD_bind_famulus_interaction_cat: "Chat" #NT!
+ POD_bind_famulus_interaction_cat.tt: "Je vais invoquer un chat errant et le lier par le sang." #NT!
+ POD_bind_famulus_interaction_dog: "Chien" #NT!
+ POD_bind_famulus_interaction_dog.tt: "Je vais invoquer un chien errant et le lier par le sang." #NT!
+ POD_tame_animal: "Animal apprivoisé" #NT!
+ POD_tame_animal_interaction: "Animal apprivoisé" #NT!
+ POD_tame_animal_interaction_desc: "Trouvez un animal et apprivoisez-le." #NT!
+ POD_tame_animal_interaction_options_heading: "Quel animal dois-je apprivoiser" #NT!
+ POD_tame_animal_interaction_cat: "Chat" #NT!
+ POD_tame_animal_interaction_cat.tt: "Je vais appeler un chat errant et l'apprivoiser." #NT!
+ POD_tame_animal_interaction_dog: "Chien" #NT!
+ POD_tame_animal_interaction_dog.tt: "J'appellerai un chien errant et je l'apprivoiserai." #NT!
+  
+ POD_bond_prisoner_interaction: "Prisonnier lié par le sang" #NT!
+ POD_bond_prisoner_interaction_desc: "Nourrissez de force [recipient.GetFirstName] votre vitae vampirique, créant ainsi une connexion mythique entre vous. Le lien de sang leur fera ressentir un amour artificiel et réagira positivement à votre égard. S’ils avaient déjà un lien de sang partiel avec vous, celui-ci sera remplacé par une obsession. #R Faites-en votre esclave !#!" #NT!
+ POD_bond_prisoner_interaction_growingbloodbond: "Le lien existant doit être remplacé par une version plus puissante – un crochet solide et permanent." #NT!
+  
+ POD_telepathy_interaction: "Espionnage télépathique" #NT!
+ POD_telepathy_interaction_desc: "Parcourez l'esprit de votre cible pour découvrir l'un des [recipient.GetHerHis] secrets bien gardés." #NT!
+  
+ POD_cover_masquerade_interaction: "Couvrir la mascarade" #NT!
+ POD_cover_masquerade_interaction_desc: "Voilez toute erreur ou preuve de votre nature vampirique en utilisant votre [disciplines|E], vos ressources ou vos compétences." #NT!
+ POD_cover_masquerade_interaction_cap: "Vous ne pouvez plus réduire votre [masquerade_exposure_with_icon|E]" #NT!
+ POD_cover_masquerade_interaction_options_heading: "Comment dois-je traiter avec les mortels savants ?" #NT!
+ POD_cover_masquerade_dominate: "Je leur ferai oublier." #NT!
+ POD_cover_masquerade_presence: "Je serai leur dieu, ils ne dévoileront pas mes secrets !" #NT!
+ POD_cover_masquerade_bribe: "L'argent fera taire un homme pendant un certain temps." #NT!
+ POD_cover_masquerade_murderspree: "Tuez-les tous." #NT!
+ POD_cover_masquerade_bloodsorcery: "Par la puissance de ma magie, je scellerai leur esprit." #NT!
+ POD_cover_masquerade_layinglow: "Je devrais faire profil bas pendant un moment." #NT!
+  
+ masquerade_increased_1: "[masquerade_exposure_with_icon|E] va #N augmenter#!." #NT!
+ masquerade_increased_2: "[masquerade_exposure_with_icon|E] augmentera #N#! de #V;bold 2#!." #NT!
+ masquerade_increased_3: "[masquerade_exposure_with_icon|E] augmentera #N#! de #V;bold 3#!." #NT!
+ masquerade_increased_4: "[masquerade_exposure_with_icon|E] va augmenter #N#! de #V;bold 4#!." #NT!
+ masquerade_increased_5: "[masquerade_exposure_with_icon|E] augmentera #N#! de #V;bold 5#!." #NT!
+  
+ masquerade_reduced_1: "[masquerade_exposure_with_icon|E] sera #P réduit#!." #NT!
+ masquerade_reduced_2: "[masquerade_exposure_with_icon|E] sera #P réduit#! de #V;bold 2#!." #NT!
+ masquerade_reduced_3: "[masquerade_exposure_with_icon|E] sera #P réduit#! de #V;bold 3#!." #NT!
+ masquerade_reduced_4: "[masquerade_exposure_with_icon|E] sera #P réduit#! de #V;bold 4#!." #NT!
+ masquerade_reduced_5: "[masquerade_exposure_with_icon|E] sera #P réduit#! de #V;bold 5#!." #NT!
+  
+ POD_cover_masquerade_interaction_bribe_beast: "#R Mais tuer un homme scelle sa bouche pour toujours.....#!" #NT!
+ POD_cover_masquerade_interaction_murderspree_beast: "#R Faibles, comment osent-ils nous menacer ?#!" #NT!
+ POD_cover_masquerade_interaction_presence_beast: "#R Oui ! imprégnez-vous de notre gloire !#!" #NT!
+ POD_cover_masquerade_interaction_dominate_beast: "#R Leur faire oublier nos magnifiques actions ?#!" #NT!
+ POD_cover_masquerade_interaction_bloodsorcery_beast: "#R Le sang liera [recipient.GetHerHis] les langues !#!" #NT!
+ POD_cover_masquerade_interaction_layinglow_beast: "#R Maintenant, où est le plaisir là-dedans ?#!" #NT!
+  
+ POD_drink_herd_choose: "Manipuler le troupeau" #NT!
+ recipient_secondary_POD_drink_herd_choose: "Navire" #NT!
+ POD_drink_herd_choose_desc: "Choisissez la quantité de sang à boire et dans quel récipient. Soyez prudent, car tout mortel n'a qu'une quantité limitée de sang et la suralimentation peut blesser ou tuer votre troupeau." #NT!
+ POD_drink_herd: "Manipuler le vaisseau" #NT!
+ POD_drink_herd_desc: "Choisissez la quantité de sang à boire dans votre vaisseau. Soyez prudent, car tout mortel n'a qu'une quantité limitée de sang et une suralimentation peut blesser ou tuer votre vaisseau." #NT!
+ POD_drink_herd_pause_warning: "L'alimentation automatique des troupeaux s'arrêtera pendant que le membre du troupeau subit une perte de sang accrue" #NT!
+ POD_drink_herd_sip_option: "Prenez seulement une gorgée du sang de votre vaisseau." #NT!
+ POD_drink_herd_drink_option: "Buvez du sang de votre vaisseau." #NT!
+ POD_drink_herd_alot_option: "Prélevez une quantité importante de sang de votre vaisseau !" #NT!
+ POD_drink_herd_drain_option: "Prenez tout le sang de votre vaisseau !" #NT!
+ POD_drink_herd_automate_option: "Se nourrit automatiquement chaque fois que le mortel récupère." #NT!
+ POD_drink_herd_stop_automate_option: "Arrêtez l'alimentation automatique." #NT!
+ POD_drink_herd_release_option: "Libérez votre navire de votre troupeau." #NT!
+ POD_drink_herd_modify_option: "Changez la résonance de votre vaisseau." #NT!
+ POD_drink_herd_choleric_option: "Encourager la résonance colérique." #NT!
+ POD_drink_herd_melancholic_option: "Encouragez la résonance mélancolique." #NT!
+ POD_drink_herd_phlegmatic_option: "Favoriser la résonance flegmatique." #NT!
+ POD_drink_herd_sanguine_option: "Favoriser la résonance sanguine." #NT!
+ POD_drink_herd_increase_intensity_option: "Augmentez l’intensité de la résonance." #NT!
+ POD_drink_herd_change_to_melancholic.tt: "La résonance [victim.GetFirstNamePossessive] se transforme en mélancolie." #NT!
+ POD_drink_herd_change_to_choleric.tt: "[victim.GetFirstNamePossessive] la résonance devient colérique." #NT!
+ POD_drink_herd_change_to_phlegmatic.tt: "La résonance [victim.GetFirstNamePossessive] passe à flegmatique." #NT!
+ POD_drink_herd_change_to_sanguine.tt: "La résonance [victim.GetFirstNamePossessive] passe à sanguine." #NT!
+ POD_drink_herd_increase_intensity_to_accute.tt: "La résonance [victim.GetFirstNamePossessive] passe à l'aigu." #NT!
+ POD_drink_herd_increase_intensity_to_intense.tt: "La résonance [victim.GetFirstNamePossessive] augmente jusqu'à devenir intense." #NT!
+ POD_drink_herd_increase_intensity_to_fleeting.tt: "La résonance [victim.GetFirstNamePossessive] devient éphémère." #NT!
+ POD_drink_herd_increase_intensity_to_negligible.tt: "La résonance [victim.GetFirstNamePossessive] diminue jusqu'à devenir négligeable." #NT!
+ POD_drink_herd_release.tt: "[victim.GetFirstName] est libéré du troupeau." #NT!
+  
+ POD_drink_herd_summary: "Résumé de l'alimentation du troupeau" #NT!
+ POD_drink_herd_summary.tt: "Cette année, vous avez gagné [ROOT.Var('resonance_earned').GetValue|0] XP de résonance grâce à l'alimentation automatique." #NT!
+ POD_drink_herd_over_capacity: "Trop de membres du troupeau" #NT!
+ POD_drink_herd_over_capacity.tt: "Vous avez dépassé la limite de votre troupeau et avez reçu moins d'XP de chaque membre du troupeau en guise de compensation." #NT!
+  
+ POD_resonance_tt: "Le sang [TARGET_CHARACTER.GetFirstNamePossessive] a [TARGET_CHARACTER.Custom('PODResonanceIntensity')] [TARGET_CHARACTER.Custom('PODResonanceIcon')] [TARGET_CHARACTER.Custom('PODResonanceFlavor')]." #NT!
+ POD_resonance_hungerless.tt: "Parce que vous êtes [hungerless|E], [TARGET_CHARACTER.GetFirstNamePossessive], le sang ne vous nourrira pas du tout." #NT!
+ POD_resonance_hungerless_victim.tt: "Parce que [TARGET_CHARACTER.GetFirstName] est [hungerless|E], le sang [TARGET_CHARACTER.GetHerHis] ne vous donnera aucun aperçu du [resonance|E]." #NT!
+  
+ POD_disciplines_interaction: "Demandez du mentorat" #NT!
+ POD_disciplines_interaction_desc: "Vous pouvez demander à un ami, un amoureux ou une âme sœur de vous apprendre un [discipline|E] que vous ne connaissez pas déjà." #NT!
+ POD_disciplines_interaction_accept: "Si votre mentor a quelque chose à vous apprendre, vous aurez le choix entre [disciplines|E] à apprendre." #NT!
+ POD_mentoring_disciplines_custom: "Si votre ami n'a pas de [discipline|E] que vous puissiez apprendre, vous ne pouvez rien faire pour le moment." #NT!
+ POD_mentoring_disciplines.0001.t: "Mentorat" #NT!
+ POD_mentoring_disciplines.0001.desc: "Si votre mentor potentiel connaît un [discipline|E] que vous ne connaissez pas, vous pouvez lui demander de partager ses connaissances [recipient.GetHerHis] avec vous.\nCependant, ce n'est pas un processus gratuit, il devra partager du sang [recipient.GetHerHis] avec vous, ce qui entraînera un faible lien de sang. . Il est également quelque peu humiliant de demander de l’aide dans la politique des vampires. En tant que tel, votre prestige en souffrira." #NT!
+ POD_mentoring_disciplines.0001.option.a: "Dominer. Je veux apprendre à contrôler les autres" #NT!
+ POD_mentoring_disciplines.0001.option.b: "Je veux apprendre à contrôler les animaux" #NT!
+ POD_mentoring_disciplines.0001.option.c: "Je dois voir au-delà de la vue !" #NT!
+ POD_mentoring_disciplines.0001.option.d: "J'éviterai les flèches !" #NT!
+ POD_mentoring_disciplines.0001.option.e: "L'invisibilité est une belle astuce à apprendre" #NT!
+ POD_mentoring_disciplines.0001.option.f: "Frapper les choses plus fort est toujours utile" #NT!
+ POD_mentoring_disciplines.0001.option.g: "Mon esprit est ma meilleure arme" #NT!
+ POD_mentoring_disciplines.0001.option.h: "Les griffes sont toujours à la mode" #NT!
+ POD_mentoring_disciplines.0001.option.i: "L'art de la fabrication de la chair est une perspective séduisante" #NT!
+ POD_mentoring_disciplines.0001.option.j: "Les secrets du sang doivent être les miens !" #NT!
+ POD_mentoring_disciplines.0001.option.k: "Je serai indestructible !" #NT!
+ POD_mentoring_disciplines.0001.option.m: "Rien n'est vrai" #NT!
+ POD_mentoring_disciplines.0001.option.n: "Les ombres appellent..." #NT!
+ POD_mentoring_disciplines.0001.option.l: "Le pouvoir sur la mort elle-même !" #NT!
+ POD_mentoring_disciplines.0001.option.o: "Les dons de l'Infernal" #NT!
+ POD_mentoring_disciplines.0001.option.p: "Une fascination pour les serpents" #NT!
+ POD_mentoring_disciplines.0001.option.q: "Je serai le prédateur ultime" #NT!
+ POD_mentoring_disciplines.0001.option.r.giovanni: "J'apprendrai les voies des Giovanni" #NT!
+ POD_mentoring_disciplines.0001.option.r.giovanni.tt: "Vous aurez accès aux chemins de Giovanni Necromancy" #NT!
+ POD_mentoring_disciplines.0001.option.r.cappadocian: "J'apprendrai les voies des Cappadociens" #NT!
+ POD_mentoring_disciplines.0001.option.r.cappadocian.tt: "Vous aurez accès aux sentiers de nécromancie cappadocienne" #NT!
+ POD_mentoring_disciplines.0001.option.r.harbinger: "J'apprendrai les voies des Harbingers" #NT!
+ POD_mentoring_disciplines.0001.option.r.harbinger.tt: "Vous aurez accès aux chemins de Nécromancie Harbinger" #NT!
+ POD_mentoring_disciplines.0001.option.r.lamia: "J'apprendrai les voies des Lamia" #NT!
+ POD_mentoring_disciplines.0001.option.r.lamia.tt: "Vous aurez accès aux chemins de Nécromancie de Lamia" #NT!
+ POD_mentoring_disciplines.0001.option.r.nagaraja: "J'apprendrai les voies des Nagaraja" #NT!
+ POD_mentoring_disciplines.0001.option.r.nagaraja.tt: "Vous aurez accès aux chemins de nécromancie de Nagaraja" #NT!
+ POD_mentoring_disciplines.0001.option.r.impundulu: "J'apprendrai les voies des Impundulu" #NT!
+ POD_mentoring_disciplines.0001.option.r.impundulu.tt: "Vous aurez accès aux chemins de nécromancie d'Impundulu" #NT!
+ POD_mentoring_disciplines.0001.option.s: "Commandez la Terre" #NT!
+ POD_mentoring_disciplines.0001.option.t: "je serai le maître du temps" #NT!
+ POD_mentoring_disciplines.0001.option.u: "Seigneur de la folie" #NT!
+ POD_mentoring_disciplines.0001.option.v: "Le pouvoir de la voix" #NT!
+ POD_mentoring_disciplines.0001.option.w: "Interagissez avec les esprits des animaux" #NT!
+ POD_mentoring_disciplines.0001.option.x: "Pouvoir du troisième œil" #NT!
+ POD_mentoring_disciplines.0001.option.y: "Influence sur le sang" #NT!
+ POD_mentoring_disciplines.0001.option.z: "Pouvoirs attribués aux faes" #NT!
+ POD_mentoring_disciplines.0001.option.bardo: "Nier la bête" #NT!
+ POD_mentoring_disciplines.0001.option.end: "Pas cette fois" #NT!
+  
+ confused_populace_modifier: "Population confuse" #NT!
+ confused_populace_modifier_desc: "La population d'ici a été désorientée par l'utilisation amateur d'une discipline vampirique." #NT!
+  
+ POD_mentoring_disciplines.10.t: "Le pouvoir de l'esprit" #NT!
+ POD_mentoring_disciplines.10.desc: "Dominer consiste à utiliser votre volonté contre les autres pour les forcer à exécuter vos ordres. Au fur et à mesure que vous apprenez, vous devrez commencer à vous entraîner sur des sujets réels pour tester vos progrès. Les mortels seraient un choix facile et relativement sans conséquence, mais vous auriez besoin d'en dominer beaucoup pour réellement apprendre quelque chose, car leur volonté est du côté le plus faible. Vous pouvez également essayer vos nouveaux pouvoirs sur l'un de vos vassaux, même s'il n'appréciera peut-être pas d'être utilisé comme sujet de test de tels pouvoirs invasifs." #NT!
+ POD_mentoring_disciplines.10.a: "Je connais la bonne personne !" #NT!
+ POD_mentoring_disciplines.10.b: "Beaucoup de mortels à contourner." #NT!
+  
+ POD_mentoring_disciplines.11.t: "Astuces mentales" #NT!
+ POD_mentoring_disciplines.11.desc: "Vous êtes tout à fait sûr de comprendre suffisamment Dominate pour l'utiliser maintenant, mais votre mentor insiste sur le contraire. Ils disent que vous devez toujours être ciblé par Dominate vous-même pour vraiment comprendre ses effets.\nVous êtes assez sceptique quant à cette affirmation car elle semble être une manière sournoise de jouer avec votre esprit. Vous pourriez simplement refuser leurs demandes et profiter de vos nouveaux pouvoirs, mais cela susciterait leurs soupçons ou leur colère." #NT!
+ POD_mentoring_disciplines.11.a: "Si vous dites que c'est sûr..." #NT!
+ POD_mentoring_disciplines.11.b: "Merci mais, non merci." #NT!
+  
+ POD_mentoring_disciplines.20.t: "Amis et ennemis à fourrure" #NT!
+ POD_mentoring_disciplines.20.desc: "Pour apprendre l'animalisme, vous devez interagir avec les animaux. Ce n’est pas vraiment une nouvelle révolutionnaire, mais vous devez encore faire un choix sur la manière de procéder. Vous pourriez répondre à l’appel de la nature et essayer vos nouveaux pouvoirs sur des cibles potentiellement menaçantes. Ou vous pouvez simplement inonder votre cour d'une multitude d'animaux domestiques pour vous faciliter la tâche.\nCe deuxième choix est susceptible d'être controversé, car tout le monde n'aime pas se frayer un chemin sur une horde de chats et de chiens avant de venir à l'Elysée. ." #NT!
+ POD_mentoring_disciplines.20.a: "Serpents? Vraiment?" #NT!
+ POD_mentoring_disciplines.20.b: "Bien plus accommodant que mes courtisans." #NT!
+  
+ POD_mentoring_disciplines.21.t: "Côté sauvage" #NT!
+ POD_mentoring_disciplines.21.desc: "Votre mentor en Animalisme insiste pour que vous preniez contact avec votre bête intérieure en adoptant vous-même les attributs d'un animal pendant un certain temps en utilisant vos nouveaux pouvoirs. Cette idée ne vous plaît pas particulièrement car, en tant que souverain de la nuit, vous êtes tenu à certaines normes d'étiquette. L'alternative serait de vous isoler pendant un certain temps pour conclure votre formation, ce qui risque moins de vous laisser au moins complètement exposé." #NT!
+ POD_mentoring_disciplines.21.a: "Je n'ai rien à cacher!" #NT!
+ POD_mentoring_disciplines.21.b: "J'ai juste besoin d'un moment seul." #NT!
+  
+ court_tutor_mentoring_disc_tt: "Avoir un tuteur de cour doté de grandes aptitudes réduit le coût de prestige du mentorat." #NT!
+  
+ POD_mentoring_disciplines.30.t: "Appel mystérieux" #NT!
+ POD_mentoring_disciplines.30.desc: "Apprendre Auspex signifie que vous devez jongler avec un « sixième sens » auquel vous n’aviez pas vraiment pensé auparavant. Les petites actions prennent un sens plus profond, et même les pots-de-vin de la conversation peuvent révéler une grande perspicacité.\nEn tant que tel, vous avez pris l'habitude de vous ralentir et de réfléchir davantage à chacune de vos actions et de vos paroles. D’une manière détournée, cela vous a fait paraître quelque peu distant à votre cour, ce que vous souhaiterez peut-être rectifier. Mais le mystère a son propre attrait." #NT!
+ POD_mentoring_disciplines.30.a: "Je vois tellement plus." #NT!
+ POD_mentoring_disciplines.30.b: "J'ai besoin de me concentrer." #NT!
+  
+ POD_mentoring_disciplines.31.t: "Voir trop de choses" #NT!
+ POD_mentoring_disciplines.31.desc: "Auspex est une discipline complexe, ouvrant les portes à une myriade de possibilités allant du simple espionnage à l'exploration de mondes invisibles. De telles possibilités merveilleuses et effrayantes peuvent mettre à rude épreuve les esprits les plus forts.\nMême si le plus dur est derrière vous maintenant, vous souffrez toujours de maux de tête et de crises induits par des "éclairs" soudains. Heureusement, votre mentor est toujours là et vous aide à contrôler vos nouveaux pouvoirs au fil du temps." #NT!
+ POD_mentoring_disciplines.31.a: "Je suis heureux que tu sois à mes côtés." #NT!
+  
+ POD_mentoring_disciplines.40.t: "Esquiver!" #NT!
+ POD_mentoring_disciplines.40.desc: "La célérité est la discipline pour aller vite et être rapide. Il existe différentes manières d'entraîner une telle compétence et vous pensiez principalement à une course et à d'autres exercices physiques, mais il semble que votre mentor ait d'autres projets. Ils vous lancent désormais des objets avec une joie à peine dissimulée tout en vous disant d'esquiver.\nÀ votre honneur, vous en évitez au moins une partie." #NT!
+ POD_mentoring_disciplines.40.a: "Ce n'est pas drôle!" #NT!
+  
+ POD_mentoring_disciplines.41.t: "Courez Vampire, courez !" #NT!
+ POD_mentoring_disciplines.41.desc: "La célérité est une puissance exaltante à entraîner la plupart du temps, car le simple fait de courir très rapidement autour de votre ville donne une grande poussée de puissance. Cela vous laisse également quelque peu étourdi et désorienté pendant un certain temps, car vous devez ensuite vous adapter à la lenteur de la vie normale. Votre mentor vous conseille de suivre votre rythme, mais ce n'est pas aussi facile qu'il y paraît." #NT!
+ POD_mentoring_disciplines.41.a: "Dois aller vite!" #NT!
+ POD_mentoring_disciplines.41.b: "Il faut aller plus vite !" #NT!
+  
+ POD_mentoring_disciplines.50.t: "Se cacher" #NT!
+ POD_mentoring_disciplines.50.desc: "L'obscurcissement est le pouvoir de vous cacher, vous et les autres, de la vue. Il est alors évident que, pour l'entraîner correctement, vous devez le mettre à l'épreuve contre d'autres vampires essayant réellement de vous voir. De toute façon, les mortels ne feront pas cela car ils sont trop myopes pour voir quoi que ce soit, vous devrez donc prendre des risques.\nCela aura probablement pour effet involontaire de propager de vilaines rumeurs au tribunal sur le "pourquoi" exact que vous apprenez un tel outil sournois cependant..." #NT!
+ POD_mentoring_disciplines.50.a: "Je ne vous espionne pas tous, promis." #NT!
+  
+ POD_mentoring_disciplines.51.t: "Des menaces partout" #NT!
+ POD_mentoring_disciplines.51.desc: "Vos nouvelles connaissances sur Obfuscate vous permettent d'en apprendre beaucoup plus sur vos courtisans puisque vous pouvez désormais les espionner sans être vu. Malheureusement, ce que vous apprenez à leur sujet, c'est principalement que vous ne pouvez faire confiance à personne car la plupart d'entre eux préparent des projets mesquins ou autres. Vous vous retrouvez à regarder dans votre dos encore plus que d'habitude, maintenant préoccupé par le fait qu'ils sont tous là pour vous attraper.\nEn réalité, ils le sont probablement." #NT!
+ POD_mentoring_disciplines.51.a: "Des traîtres, partout !" #NT!
+ POD_mentoring_disciplines.51.b: "Je dois rester calme." #NT!
+ POD_mentoring_disciplines.51.c: "Non, ce sont des gens dignes de confiance." #NT!
+ POD_mentoring_disciplines.51.d: "Je le savais!" #NT!
+  
+ POD_mentoring_disciplines.60.t: "Sacs de frappe" #NT!
+ POD_mentoring_disciplines.60.desc: "La puissance, en tant que pouvoir de frapper très fort, pourrait être la discipline la plus facile à entraîner. Frappez simplement les choses.\nCela pourrait aussi être le plus exaltant, car se laisser aller de temps en temps peut s'avérer être une véritable aubaine pour l'esprit souvent frustré d'un dirigeant de la nuit. Vous frappez donc des choses de plus en plus grandes à votre guise sans vous soucier de demain soir." #NT!
+ POD_mentoring_disciplines.60.a: "Nous n'avons pas besoin de ce mur ! Coup de poing!" #NT!
+  
+ POD_mentoring_disciplines.61.t: "Diplomatie percutante" #NT!
+ POD_mentoring_disciplines.61.desc: "Votre nouvelle force, grâce à Potence, vous a donné une perspective biaisée sur la façon dont les problèmes peuvent être résolus, c'est-à-dire en les frappant très fort. Malheureusement, il existe une limite quant à la force brute qui peut répondre à tous vos problèmes et vous commencez à l’atteindre. Vous devrez bientôt retourner à la routine quotidienne des complots, des intrigues judiciaires et de la diplomatie ennuyeuse au lieu de vous comporter comme une équipe de démolition." #NT!
+ POD_mentoring_disciplines.61.a: "Juste un petit peu plus!" #NT!
+ POD_mentoring_disciplines.61.b: "Il est temps de retourner dans le monde réel." #NT!
+  
+ POD_mentoring_disciplines.70.t: "Aimé de tous" #NT!
+ POD_mentoring_disciplines.70.desc: "La présence est un pouvoir enivrant d’apprendre. Qui n’aimerait pas pouvoir faire en sorte que tout le monde vous aime ou même vous vénère carrément ? Votre mentor vous met en garde, vous parle des séquelles après la perte du contact direct avec les victimes, mais vous ne vous en souciez pas. Enfin, tous vos sujets font preuve du dévouement qu'ils auraient dû avoir il y a longtemps !" #NT!
+ POD_mentoring_disciplines.70.a: "Ma grandeur est enfin reconnue." #NT!
+  
+ POD_mentoring_disciplines.71.t: "Les conséquences de l'amour" #NT!
+ POD_mentoring_disciplines.71.desc: "Vous avez maintenant terminé votre apprentissage de la discipline Présence, ce qui implique d'être plus attentif à ses inconvénients. Même si la capacité d'être respecté et aimé est certainement très puissante, elle ne dure pas longtemps après la perte de contact avec la victime, ce qui finit par laisser derrière elle une personne très ennuyée. Personne n'aime que ses sentiments soient manipulés par des pouvoirs surnaturels.\nCes dernières nuits, vous avez utilisé vos nouveaux pouvoirs peut-être un peu trop souvent et vous avez gagné de nouveaux ennemis au passage. Il est peut-être temps de réparer votre enthousiasme pour l'apprentissage qui a envahi l'esprit des autres." #NT!
+ POD_mentoring_disciplines.71.a: "Je voulais juste que vous m'aimiez tous !" #NT!
+ POD_mentoring_disciplines.71.b: "Ils s’en remettront." #NT!
+  
+ POD_mentoring_disciplines.80.t: "Se trouver soi-même" #NT!
+ POD_mentoring_disciplines.80.desc: "Protéen est la capacité de vous changer de diverses manières et de façonner votre apparence extérieure avec peu de limites. Bien que puissante, cela en fait une discipline délicate à apprendre car vous vous êtes habitué à votre forme physique. Un immortel comme vous ne change jamais vraiment et être capable de déplacer soudainement certaines parties de votre corps vous a rendu plus troublé émotionnellement que vous ne l'auriez cru au départ." #NT!
+ POD_mentoring_disciplines.80.a: "Qu’est-ce que cela signifie réellement ?" #NT!
+  
+ POD_mentoring_disciplines.81.t: "Avantage injuste" #NT!
+ POD_mentoring_disciplines.81.desc: "Au fur et à mesure que vous maîtrisez la discipline protéenne, vous découvrez qu’elle recèle un grand potentiel martial. Des griffes qui sortent soudainement de vos mains peuvent certainement renverser le cours d'une bataille perdue et vous vous retrouvez de plus en plus à compter sur de telles tactiques. Votre mentor vous conseille d'être prudent, car ce sentiment de supériorité peut entraîner votre chute si vous ne pouvez pas utiliser Protean dans un combat ou si votre adversaire y est préparé.\nMais peut-être qu'il est simplement jaloux que vous appreniez si bien ?" #NT!
+ POD_mentoring_disciplines.81.a: "Je suis génial! C'est tout!" #NT!
+ POD_mentoring_disciplines.81.b: "Un sage conseil." #NT!
+  
+ POD_mentoring_disciplines.90.t: "L'horreur ci-dessus" #NT!
+ POD_mentoring_disciplines.90.desc: "La vicissitude est l'un des pouvoirs les plus horribles des Caïnites, principalement parce que ses applications entraînent souvent la mort des « sujets de test » participants. Les mortels sont nombreux de toute façon, vous pensez donc que vous pouvez facilement en expérimenter certains pendant que vous apprenez ces pouvoirs pour acquérir une expérience pratique. D'un autre côté, un prince sage sait que le bien-être de la communauté des mortels dans sa région peut être un atout en soi, donc s'assurer de ne pas en prendre trop à la fois a également des mérites." #NT!
+ POD_mentoring_disciplines.90.a: "Je vais prendre tout ce dont j'ai besoin maintenant." #NT!
+ POD_mentoring_disciplines.90.b: "Je vais expérimenter sur une période plus longue." #NT!
+  
+ POD_mentoring_disciplines.91.t: "L'horreur intérieure" #NT!
+ POD_mentoring_disciplines.91.desc: "Vous êtes désormais suffisamment compétent en Vicissitude pour vous sentir plus à l'aise dans son utilisation sans l'aide de votre mentor. Pourtant, vous ne pouvez pas vous débarrasser du sentiment que quelque chose ne va pas chez vous depuis que vous avez appris ce nouveau pouvoir. C'est difficile à décrire, mais c'est presque comme si quelqu'un d'autre portait votre propre peau et essayait parfois de vous contrôler.\nC'est probablement juste votre imagination qui vous joue des tours, mais vous êtes quand même suffisamment inquiet pour envisager d'enquêter davantage sur la question par vous-même." #NT!
+ POD_mentoring_disciplines.91.a: "Pas d'inquiétudes à avoir. Sûrement." #NT!
+ POD_mentoring_disciplines.91.b: "Pourquoi est-ce que je me sens si... étranger ?" #NT!
+  
+ POD_mentoring_disciplines.100.t: "Frapper les livres" #NT!
+ POD_mentoring_disciplines.100.desc: "La Sorcellerie du Sang est une discipline particulière à apprendre pour les vampires car elle n'est pas "innée" comme toutes les autres. Il s’agit plutôt d’une pratique très ritualisée avec de nombreux ingrédients à acheter et des recettes à suivre. Ce sera une entreprise coûteuse, car les essais et les erreurs sont une réalité lorsque l'on essaie de comprendre une discipline aussi complexe.\nIl est temps de lire des livres et de se préparer du mieux que vous pouvez pour véritablement maîtriser le pouvoir de votre sang impie." #NT!
+ POD_mentoring_disciplines.100.a: "Livre 1. Chapitre 1. Page 1..." #NT!
+ learning_mentoring_tt: "Plus votre apprentissage est élevé, moins cela coûtera cher." #NT!
+  
+ POD_mentoring_disciplines.101.t: "Lectures nocturnes" #NT!
+ POD_mentoring_disciplines.101.desc: "Vous avez suffisamment saisi le concept de base de la sorcellerie sanguine pour vraiment comprendre les profondeurs de cette discipline. Il n’y a pas de limites à ce qu’il peut accomplir puisque de nouvelles façons d’exploiter le pouvoir du sang sont découvertes partout dans le monde à une vitesse surprenante. Un être ne pourra jamais vraiment espérer maîtriser un éventail de pouvoirs aussi large... mais cela n'empêchera certainement pas beaucoup d'essayer.\nFasciné par ces nouvelles découvertes, vous vous retrouvez de plus en plus isolé de votre cour et vos conseillers s'inquiètent. que cela pourrait entraver votre capacité à gouverner efficacement." #NT!
+ POD_mentoring_disciplines.101.a: "Retour à l'habituel, je suppose..." #NT!
+ POD_mentoring_disciplines.101.b: "Il y a tellement plus à apprendre !" #NT!
+  
+ POD_mentoring_disciplines.110.t: "Simplement une blessure de chair" #NT!
+ POD_mentoring_disciplines.110.desc: "Le courage est la discipline qui permet aux vampires de subir des blessures qui auraient normalement facilement tué des mortels. Pour apprendre à bien le comprendre, le meilleur moyen est simplement de se faire frapper fort jusqu'à pouvoir ignorer les coups. Vous doutez quelque peu des intentions de votre mentor, mais il a déjà commencé à vous frapper avec une joie à peine dissimulée.\nDe toute évidence, tout est fait pour votre bénéfice en fin de compte." #NT!
+ POD_mentoring_disciplines.110.a: "Je peux en prendre plus !" #NT!
+  
+ POD_mentoring_disciplines.111.t: "Invincible?" #NT!
+ POD_mentoring_disciplines.111.desc: "Après quelques jours d’entraînement intense, vous maîtrisez désormais suffisamment la Fortitude pour avoir confiance en votre capacité à la maîtriser avec le temps. Peut-être trop confiant en fait, puisque Fortitude est connu pour donner un sentiment (pour la plupart faux) d'invulnérabilité à son utilisateur. De nombreuses histoires racontent que des utilisateurs trop confiants de Fortitude atteignent leurs limites et n'ont pas le temps de le regretter par la suite. C’est la dernière chose contre laquelle votre mentor vous met en garde, l’excès de confiance est après tout un tueur lent et insidieux." #NT!
+ POD_mentoring_disciplines.111.a: "Je dois rester humble." #NT!
+ POD_mentoring_disciplines.111.b: "La véritable immortalité, enfin !" #NT!
+  
+ POD_mentoring_disciplines.120.t: "Entouré de mensonges" #NT!
+ POD_mentoring_disciplines.120.desc: "Vous comprenez assez facilement la discipline de la Chimie. Faire de petites illusions n'est pas une affaire très difficile et votre mentor vous aide à coordonner votre entraînement.\nQuelque chose vous ronge cependant l'esprit. Si comprendre cela est si simple, qui peut dire que vos ennemis ne l’utilisent pas déjà largement ? Qu'est-ce qui est réel et qu'est-ce qui est faux ?\nDans les premières nuits qui suivent la découverte de ce nouveau pouvoir, vous êtes frappé par la frénésie de tout faire vous-même puisque vos propres observations sont vraiment les seules auxquelles vous pouvez faire confiance." #NT!
+ POD_mentoring_disciplines.120.a: "Moi seul connais la vérité !" #NT!
+  
+ POD_mentoring_disciplines.121.t: "Vérités et illusions" #NT!
+ POD_mentoring_disciplines.121.desc: "Bien que votre entraînement à Chimerstry se déroule suffisamment bien pour que vous puissiez le faire vous-même maintenant, votre mentor s'inquiète de votre paranoïa croissante quant à la possibilité que vos ennemis utilisent de telles tactiques contre vous. Ils essaient de vous enseigner les limites de la Chimerstry, en s'assurant que vous compreniez qu'une duplicité d'une telle ampleur n'est guère réaliste.\nVous entendez leurs paroles et envisagez de ralentir vos efforts de microgestion, mais vous n'êtes toujours pas entièrement convaincu." #NT!
+ POD_mentoring_disciplines.121.a: "Peut-être que ce conseil a des mérites." #NT!
+ POD_mentoring_disciplines.121.b: "Un autre mensonge!" #NT!
+  
+ POD_mentoring_disciplines.130.t: "Pas seul dans le noir" #NT!
+ POD_mentoring_disciplines.130.desc: "L’obténébration, à première vue, semble être une discipline relativement simple, utilisant simplement les ombres comme outils ou armes. Cependant, votre mentor démystifie rapidement cette idée et vous comprenez qu'elle utilise en réalité l'énergie d'un royaume mystérieux appelé « l'Abîme ». Et parfois, l'abîme se défend contre votre intrusion.\nVos premiers pas dans ce nouveau monde effrayant sont difficiles, car il est clair que cet abîme est peuplé de toutes sortes de créatures dangereuses très mécontentes de votre intrusion dans leurs maisons. C'est comme si les ténèbres elles-mêmes voulaient que vous périssiez... ou que vous les rejoigniez." #NT!
+ POD_mentoring_disciplines.130.a: "Je n'ai pas peur du noir!" #NT!
+ POD_mentoring_disciplines.130.b: "J'ai besoin d'une bougie..." #NT!
+ mentoring_slowed_tt: "Votre mentorat progressera plus lentement que d’habitude." #NT!
+  
+ POD_mentoring_disciplines.131.t: "Embrasser l'obscurité" #NT!
+ POD_mentoring_disciplines.131.desc: "Vous avez fait vos premiers pas dans les Abysses et avez réussi à trouver le courage de l'utiliser à vos propres fins, complétant ainsi vos premières incursions dans la discipline de l'Obténébration. Maintenant que vous en êtes plus familier, vous ne pouvez pas nier que cet étrange royaume des ténèbres vous attire d'une manière ou d'une autre, quelque chose que de nombreux Lasombra ressentent.\nMême maintenant que votre entraînement est terminé, vous avez hâte d'y aller. revenez-y et apprenez-en davantage, même avec tous les dangers qui s'y cachent." #NT!
+ POD_mentoring_disciplines.131.a: "Après tout, nous sommes des enfants des ténèbres." #NT!
+ POD_mentoring_disciplines.131.b: "J'ai un peu peur pour être honnête." #NT!
+  
+ POD_mentoring_disciplines.140.t: "Nature sombre" #NT!
+ POD_mentoring_disciplines.140.desc: "Daimonion est une discipline très liée à l'infernal. Même s'il ne vous demande pas directement de conclure un pacte avec des démons, c'est comme si vous vous teniez très près du bord du précipice. Le simple fait d’essayer de le comprendre a commencé à changer votre nature même. Vous vous retrouvez à devenir plus insensible, à lancer facilement des commentaires sarcastiques ou carrément cruels plus que d'habitude.\nVous pourriez faire un effort conscient pour modifier ce changement ou simplement adopter ce nouveau vous." #NT!
+ POD_mentoring_disciplines.140.a: "Je suis meilleur que ça." #NT!
+ POD_mentoring_disciplines.140.b: "Des imbéciles, tous !" #NT!
+  
+ POD_mentoring_disciplines.141.t: "Pensées sombres" #NT!
+ POD_mentoring_disciplines.141.desc: "Vous avez terminé votre première formation de Daimonion et vous en voulez déjà plus. Le pouvoir auquel cette discipline fait allusion crée une dépendance et vous incite à embrasser votre nature la plus sombre pour percer tous ses secrets. Accepter un tel changement entraînerait probablement des complications dans la manière dont vous gérez votre domaine, mais parfois, la réponse rapide et simple est la plus séduisante." #NT!
+ POD_mentoring_disciplines.141.a: "Ces imbéciles ne me ralentiront pas !" #NT!
+ POD_mentoring_disciplines.141.b: "J'ai besoin de rester seul pendant un moment." #NT!
+  
+ POD_mentoring_disciplines.150.t: "L'attrait du serpent" #NT!
+ POD_mentoring_disciplines.150.desc: "Serpentis est la discipline qui consiste à tenter les autres avec l'interdit, le mal, la pomme du jardin d'Eden. Il s'agit certes d'un outil puissant, mais son apprentissage nécessite des instructions approfondies de la part de votre mentor qui prend un plaisir coupable à vous montrer la force de Serpentis, vous faisant douter de tout ce que vous teniez autrefois pour vrai. Tout cela fait bien sûr partie du processus, sans aucune intention inconvenante derrière cela..." #NT!
+ POD_mentoring_disciplines.150.a: "En regardant dans les yeux du serpent..." #NT!
+ POD_mentoring_disciplines.150.b: "C'est tentant..." #NT!
+ POD_mentoring_disciplines.150.c: "Ma foi est forte !" #NT!
+  
+ POD_mentoring_disciplines.151.t: "Serpent se livrant" #NT!
+ POD_mentoring_disciplines.151.desc: "L'un des principaux attraits de Serpentis en tant que discipline est sa capacité à changer de forme, principalement vers l'espèce serpentine. Vous avez assez bien entraîné cette partie récemment, appréciant réellement le soulagement de vos difficultés nocturnes alors que vous vous glissez sous forme de serpent.\nCe n'est cependant pas la manière la plus prestigieuse de gouverner votre domaine et vos vassaux pourraient bientôt commencer à le faire. ricanez de leur étrange règle si vous n'arrêtez pas ce programme d'entraînement." #NT!
+ POD_mentoring_disciplines.151.a: "Glissant, glissant..." #NT!
+ POD_mentoring_disciplines.151.b: "Des courtisans agaçants comme d'habitude." #NT!
+  
+ POD_mentoring_disciplines.160.t: "La bête à l'intérieur" #NT!
+ POD_mentoring_disciplines.160.desc: "Abombwe utilise la connexion étroite du vampire et son contrôle sur ses propres bêtes (et celles des autres), ainsi que pour canaliser le pouvoir de la bête à diverses fins. Cela en faisait une discipline éprouvante à apprendre, car la Bête n'est pas facilement contrôlée ou intimidée, résistant de toutes ses forces à vos tentatives de la rassembler. Malgré l'aide de votre mentor, vos premiers essais se résument essentiellement à des tirs dans le noir." #NT!
+ POD_mentoring_disciplines.160.a: "Prise! Prise!" #NT!
+  
+ POD_mentoring_disciplines.161.t: "Colère bouillante" #NT!
+ POD_mentoring_disciplines.161.desc: "Vous maîtrisez mieux la discipline Abombwe mais cela vous a demandé plusieurs nuits d'expérimentations et d'essais. Cela a donné lieu à quelques... incidents lorsque vous avez un peu trop joué avec la Bête de certains de vos courtisans. En tant que tel, vous vous retrouvez à court de quelques gardes, ce qui a rendu votre domaine moins sécurisé que d'habitude. Le temps résoudra le problème à lui seul, mais vous pourriez souhaiter accélérer le processus." #NT!
+ POD_mentoring_disciplines.161.a: "Un peu plus ou un peu moins..." #NT!
+ POD_mentoring_disciplines.161.b: "Embauchez-en de nouveaux." #NT!
+  
+ POD_mentoring_disciplines.170.t: "Voir des morts" #NT!
+ POD_mentoring_disciplines.170.desc: "La nécromancie est la discipline qui tente de comprendre, et parfois de contrôler, la mort, qu'elle soit physique ou spirituelle. Pour l'apprendre, certaines pratiques horribles sont nécessaires, comme traquer des cimetières effrayants ou essayer de communier avec les spectres du monde souterrain. Vous savez déjà que vos cauchemars des prochains jours seront remplis de formes fantomatiques et autres hallucinations spectrales." #NT!
+ POD_mentoring_disciplines.170.a: "Fantômes et vampires ?" #NT!
+ POD_mentoring_disciplines.170.b: "Je n'aurai pas peur !" #NT!
+  
+ POD_mentoring_disciplines.171.t: "Coeur mort" #NT!
+ POD_mentoring_disciplines.171.desc: "Apprendre la nécromancie a été une affaire éprouvante ces dernières nuits. Vous avez l'air plus pâle que d'habitude et la compagnie d'êtres (non) vivants vous a suffisamment énervé pour que vous ayez envie de les critiquer plusieurs fois récemment. Ils ont finalement compris le message et vous ont laissé tranquille pour parfaire votre compréhension des secrets des morts mais vous vous retrouvez à errer si vous êtes allé trop loin. Un souverain de la nuit comme vous n'est pas censé parcourir éternellement son château seul, n'est-ce pas ?" #NT!
+ POD_mentoring_disciplines.171.a: "Les morts marchent avec moi, ça suffit." #NT!
+ POD_mentoring_disciplines.171.b: "Je vais inviter tout le monde à revenir." #NT!
+  
+ POD_mentoring_disciplines.180.t: "Perdue dans le temps" #NT!
+ POD_mentoring_disciplines.180.desc: "On pense que Temporis est la véritable discipline du premier clan Brujah avant qu'il ne « se transforme » en Celerity. Alors que Celerity se préoccupe uniquement d'être physiquement rapide, Temporis tente de manipuler le temps lui-même dans des proportions effrayantes. Votre mentor vous recommande de faire preuve de prudence et de patience, car il est très facile de se retrouver coincé dans les brumes de l'histoire ou de perdre la notion du temps si vous agissez avec négligence." #NT!
+ POD_mentoring_disciplines.180.a: "Je n'ai pas peur." #NT!
+ POD_mentoring_disciplines.180.b: "Lente et régulière." #NT!
+ temporis_celerity_tt: "Célérité et Temporis agissent comme deux forces opposées. Il est particulièrement difficile d’apprendre l’un si vous connaissiez déjà l’autre auparavant, ce qui rend le processus plus difficile." #NT!
+  
+ POD_mentoring_disciplines.181.t: "Juste à temps" #NT!
+ POD_mentoring_disciplines.181.desc: "Votre dernière incursion dans les arcanes de la discipline Temporis a été un succès, vous permettant désormais d'être suffisamment en confiance pour vous qualifier de praticien de cet art. Les tests précédents étaient cependant plus rudes et votre esprit est confus sur ce qui s'est exactement passé lors de ces événements. Après tout, jouer avec l'écoulement du temps est l'un des pouvoirs les plus désorientants qu'un vampire puisse invoquer." #NT!
+ POD_mentoring_disciplines.181.a: "Je me souviens d'une boîte bleue plus grande à l'intérieur ?" #NT!
+  
+ POD_mentoring_disciplines.190.t: "Maison de fous" #NT!
+ POD_mentoring_disciplines.190.desc: "La démence est la discipline emblématique du clan Malkavian et lui est intrinsèquement liée. Certains pensent même que la Démentation est la cause de l'instabilité mentale de ce clan et peut en être la cause chez quiconque tente d'en maîtriser les effets. Alors que le sang contenant cet étrange pouvoir commence à pénétrer dans votre cadavre de mort-vivant, vous êtes parfaitement conscient de la possibilité que cela ait pu être une terrible erreur..." #NT!
+ POD_mentoring_disciplines.190.a: "Des rumeurs sans fondement." #NT!
+ POD_mentoring_disciplines.190.b: "Soyons très prudents..." #NT!
+ POD_mentoring_disciplines.190.c: "Blagues sur eux, je suis déjà en colère !" #NT!
+  
+ POD_mentoring_disciplines.191.t: "Dedans et dehors" #NT!
+ POD_mentoring_disciplines.191.desc: "Vous avez maîtrisé le nouveau pouvoir de votre sang et êtes désormais capable d'utiliser la Démentation à votre guise.\nMais parfois vous avez le sentiment que c'est la Démentation qui vous utilise et non l'inverse.\nDepuis que vous l'avez appris, vous êtes en proie à des visions. et divers autres accès instables de frénésie prophétique. Cela a réduit votre capacité à gouverner réellement votre domaine et vous aurez probablement besoin d’un certain temps avant de contrôler pleinement ces nouvelles capacités." #NT!
+ POD_mentoring_disciplines.191.a: "Tant de choses à partager..." #NT!
+ POD_mentoring_disciplines.191.b: "Vous ne savez rien !" #NT!
+  
+ POD_mentoring_disciplines.200.t: "La voix" #NT!
+ POD_mentoring_disciplines.200.desc: "Nommé d'après la muse grecque de la tragédie, Melpominee explore le pouvoir de la voix, secouant l'âme même de ceux qui se trouvent à proximité et permettant au vampire d'accomplir des exploits sonores autrement impossibles.\nCette particularité rend Melpominee beaucoup plus facile à travailler pour quelqu'un de réellement compétent en chant. . Vous devrez rechercher des formateurs compétents capables de vous aider à maîtriser votre voix avant que le potentiel de Melpominee puisse être le vôtre." #NT!
+ POD_mentoring_disciplines.200.a: "Mais je ne cherche pas de jury..." #NT!
+ diplomacy_mentoring_tt: "plus votre diplomatie est élevée, moins elle coûtera cher." #NT!
+  
+ POD_mentoring_disciplines.201.t: "La finale" #NT!
+ POD_mentoring_disciplines.201.desc: "Vous avez étudié les subtilités de Melpominee ces dernières nuits et tout s'est bien passé. Pourtant, votre cour a pris connaissance de votre nouveau passe-temps et réclame maintenant un récital. Ce serait un bon moyen d'impressionner tout le monde car les performances renforcées de Melpominee sont étonnantes, mais cela serait probablement aussi assez stressant. Vous ne vous attendiez pas vraiment à jouer devant un public au début de tout ce processus." #NT!
+ POD_mentoring_disciplines.201.a: "Profonde respiration..." #NT!
+ POD_mentoring_disciplines.201.b: "Je n'en ai pas envie." #NT!
+ POD_mentoring_disciplines.201.c: "La prochaine fois que quelqu’un me demandera une chanson, je le ferai chanter." #NT!
+  
+ POD_mentoring_disciplines.210.t: "Totem animalier" #NT!
+ POD_mentoring_disciplines.210.desc: "Spiritus est une discipline qui permet à l'utilisateur d'interagir avec des esprits animaux. À ses niveaux les plus élémentaires, il permet au vampire de parler et d'invoquer des esprits, mais à des niveaux plus élevés, le pouvoir peut être canalisé à partir d'eux pour se renforcer.\nL'apprentissage commence souvent par un éveil spirituel, pour finalement remarquer tous les résidents spirituels vivant autour du monde et être capable d’apprendre de leur perspicacité et de leur expérience." #NT!
+ POD_mentoring_disciplines.210.a: "Un éveil spirituel." #NT!
+  
+ POD_mentoring_disciplines.211.t: "Force spirituelle" #NT!
+ POD_mentoring_disciplines.211.desc: "Alors que la première pratique du Spiritus consistait à remarquer et à apprendre des esprits qui vous entourent, les exercices ultérieurs sont davantage axés sur la meilleure façon d'exploiter ces nouvelles connaissances. En dévorant un esprit animal ou en invoquant des morts, l'utilisateur du Spiritus peut obtenir de grands avantages, bien que temporaires. Cela peut cependant constituer une expérience troublante après avoir appris à trouver et à respecter ces mêmes esprits animaux." #NT!
+ POD_mentoring_disciplines.211.a: "L’énergie n’a jamais un coût trop élevé." #NT!
+ POD_mentoring_disciplines.211.b: "Je peux y aller doucement." #NT!
+  
+ POD_mentoring_disciplines.220.t: "Entraînement de guerrier" #NT!
+ POD_mentoring_disciplines.220.desc: "À la base, Valeren permet de contrôler la douleur et d'augmenter les capacités martiales, permettant apparemment aux guerriers de faire appel au pouvoir du ciel pour vaincre leurs ennemis.\nSpirituellement cependant, il est profondément associé à la Caste des Guerriers des Salubris et attire bon nombre de ses leurs rituels et leurs pratiques. En tant que tel, tout encadrement de Valeren nécessite une discipline et un régime strict qui peuvent réellement interférer avec vos fonctions de souverain de la nuit." #NT!
+ POD_mentoring_disciplines.220.a: "Je peux faire les deux!" #NT!
+  
+ POD_mentoring_disciplines.221.t: "Guerrier ou souverain ?" #NT!
+ POD_mentoring_disciplines.221.desc: "Vous avez terminé votre première formation de Valeren et il est peut-être temps pour vous de reprendre votre routine nocturne. Votre mentor insiste cependant pour que vous poursuiviez votre nouvel emploi du temps, voire le doublez. Il y a certes certains avantages à présenter à l’extérieur l’image d’un dirigeant discipliné, mais cela signifierait aussi se surmener encore plus qu’avant." #NT!
+ POD_mentoring_disciplines.221.a: "Retour à l'habituel." #NT!
+ POD_mentoring_disciplines.221.b: "Je peux faire encore plus !" #NT!
+  
+ POD_mentoring_disciplines.230.t: "À la chasse" #NT!
+ POD_mentoring_disciplines.230.desc: "Principalement connu pour être un outil d'assassin entre les mains de la caste des guerriers Banu Haqim, Quietus est le pouvoir sur le sang dans sa forme la plus pure. Dans sa forme la plus simple (ce que vous essayez d'apprendre en ce moment), il s'agit d'un outil de chasseur, permettant de transformer votre sang en poison ou de faire taire une zone avant de vous approcher. Votre mentor vous encourage à perfectionner ces nouvelles compétences grâce à la chasse aux animaux, en organisant peut-être une chasse à grande échelle dans le cadre d'un exercice." #NT!
+ POD_mentoring_disciplines.230.a: "Une idée solide." #NT!
+ POD_mentoring_disciplines.230.b: "Ce ne serait pas bon marché..." #NT!
+  
+ POD_mentoring_disciplines.231.t: "Souverain redouté" #NT!
+ POD_mentoring_disciplines.231.desc: "Vous avez terminé les premières étapes de la maîtrise de Quietus, en ajoutant un nouvel outil à votre arsenal. Il s’agit cependant d’un outil redouté, car cette discipline est liée aux assassins et à d’autres transactions obscures dans l’obscurité. En tant que tel, votre cour murmure avec inquiétude pourquoi vous auriez besoin d’ajouter des pouvoirs aussi terribles à votre répertoire. Il est temps de les rassurer... ou pas." #NT!
+ POD_mentoring_disciplines.231.a: "Vous verrez... peut-être." #NT!
+ POD_mentoring_disciplines.231.b: "Pas besoin de paniquer tout le monde." #NT!
+  
+ POD_mentoring_disciplines.240.t: "Rêves de folie" #NT!
+ POD_mentoring_disciplines.240.desc: "Ensemble de pouvoirs attribués aux fées et enclins à révéler de nouvelles connaissances, Mytherceria a conduit nombre de ses victimes à la folie bavarde, ou du moins à la frustration.\nEn tant que tel, votre mentor encourage la prudence à vouloir en apprendre trop et trop rapidement. Mais avez-vous vraiment du temps à perdre ?" #NT!
+  
+ POD_mentoring_disciplines.241.t: "Allure féerique" #NT!
+ POD_mentoring_disciplines.241.desc: "Mytherceria s'inspire profondément des pouvoirs des Fae (réels ou non) et des mythes qui les entourent. Discipline très rare, elle fait également l'objet de nombreux débats au sein de votre cour, maintenant que vous avez terminé votre formation. Certains remarquent que vous semblez plus pâle, presque translucide, tandis que d'autres parlent de vous devenant vous-même un reclus, peut-être attiré par les nouveaux pouvoirs dans votre sang." #NT!
+ POD_mentoring_disciplines.241.a: "Je vois beaucoup plus maintenant." #NT!
+ POD_mentoring_disciplines.241.b: "Je n'ai pas besoin de leurs bêtises !" #NT!
+  
+ POD_mentoring_disciplines.242.t: "La magie, c'est apprendre" #NT!
+ POD_mentoring_disciplines.242.desc: "La sorcellerie, connue des mages sous le nom de magie linéaire ou, de manière plus dédaigneuse, sous le nom de magie des haies ou de sorcellerie des haies, est la forme de magie utilisée par les non-mages. Contrairement à la vraie magie, il n’est pas nécessaire d’être éveillé (ou éclairé) pour utiliser la sorcellerie. Ainsi, toute personne possédant suffisamment de traits peut devenir sorcier et utiliser les chemins linéaires de la magie des haies. En conséquence, la sorcellerie est la forme de magie la plus répandue dans le monde. Contrairement aux capacités psychiques, la sorcellerie n'est pas une capacité innée et doit être apprise.\nLentement, douloureusement lentement, apprise.\nVotre professeur vous a enterré dans des recommandations de livres que vous devrez acheter, apparemment tous nécessaires pour progresser dans maîtriser cet art arcanique. Pas vraiment d’autre choix que de creuser." #NT!
+  
+ POD_mentoring_disciplines.243.t: "Apprendre est magique" #NT!
+ POD_mentoring_disciplines.243.desc: "Vous avez acquis les livres nécessaires pour progresser dans votre aventure de sorcellerie et vous êtes convaincu qu'aucun véritable obstacle ne subsiste sur votre chemin pour maîtriser les bases. Un nouveau pouvoir est à votre portée ! ...et beaucoup de livres à lire également.\nVous avez vite remarqué que certains d'entre eux font référence à d'autres textes, plus anciens, sur la sorcellerie. Ce que vous avez actuellement est probablement suffisant pour votre apprentissage, mais vous pouvez faire un effort supplémentaire et les acquérir également. Cela pourrait être un bon moyen d’acquérir des connaissances anciennes et probablement pour la plupart oubliées." #NT!
+ POD_mentoring_disciplines.243.a: "Trouvez-moi ces textes !" #NT!
+ POD_mentoring_disciplines.243.b: "Pas plus. Livres." #NT!
+  
+ POD_mentoring_disciplines.244.t: "La magie de la foi" #NT!
+ POD_mentoring_disciplines.244.desc: "La théurgie est similaire à la magie des haies (également connue sous le nom de sorcellerie), mais les superstitions et les sacrifices qui alimentent cette Numina suivent les idiomes de l'Église chrétienne. Les théurges invoquent souvent le nom de l'Archange Raziel, « Le Gardien des Secrets », « L'Ange des Mystères », qui, est-il écrit, se tient près du trône de Dieu et consigne dans un livre tous les secrets de l'univers. .\nEn tant que pratique hautement codifiée, seul un apprentissage assidu est nécessaire pour maîtriser ses bases. Vous constaterez rapidement que les pièges chrétiens sont cependant assez forts et rendent la progression plus difficile si vous ne comprenez pas bien cette religion." #NT!
+ POD_mentoring_disciplines.244.a: "La Bible doit avoir des indices à ce sujet." #NT!
+ theurgy_mentoring_tt: "Plus vous êtes pécheur (pour un état d’esprit chrétien), plus il vous coûtera cher de progresser." #NT!
+  
+ POD_mentoring_disciplines.245.t: "Évangile partagé" #NT!
+ POD_mentoring_disciplines.245.desc: "Vous maîtrisez les bases de la Théurgie grâce à votre travail acharné et vous avez remarqué que la Théurgie est en réalité bien plus ancienne que le Christianisme. Ses racines remontent plus loin dans le mysticisme juif et les enseignements du christianisme ésotérique – pour rehausser sa nature spirituelle, pour parler à son Soi supérieur, son Dieu intérieur, afin de mieux comprendre la sagesse de Dieu – pour entendre, voir et parler. les mystères que l'oreille charnue, l'œil en gelée et la langue d'argile ne pouvaient pas résoudre.\nCela vous a donné une nouvelle perspective sur l'interconnexion entre les religions et les nombreux concepts qu'elles ont en commun." #NT!
+ POD_mentoring_disciplines.245.a: "Le Divin a de multiples facettes." #NT!
+ POD_mentoring_disciplines.245.b: "Cela ne change rien à la vérité !" #NT!
+  
+ POD_mentoring_disciplines.246.t: "Voir des fantômes" #NT!
+ POD_mentoring_disciplines.246.desc: "Une lamentation est la méthode qu'une personne utilise pour projeter son esprit dans le royaume des morts. Les lamentations ne sont pas autant liées à la personnalité d'un personnage qu'à son état d'esprit. Ceux qui ont vécu de multiples expériences de mort imminente ou qui ont un sentiment de bravade ou de but sont plus susceptibles de projeter que ceux qui ne croient pas aux fantômes ou qui n'ont jamais frôlé la mort.\nComme cela est si étroitement lié aux attributs fondamentaux d'une personne, il est un concept difficile à enseigner. De nombreuses tentatives doivent souvent être faites, et celles-ci peuvent être des expériences douloureuses en elles-mêmes." #NT!
+ POD_mentoring_disciplines.246.a: "Allons-y..." #NT!
+ POD_mentoring_disciplines.246.b: "J'abandonne!" #NT!
+ lament_mentoring_tt: "Vous réussissez à projeter votre esprit." #NT!
+ lament_mentoring_tt2: "Pas de chance. Il vous sera proposé de réessayer bientôt." #NT!
+  
+ POD_mentoring_disciplines.247.t: "Hanter les morts" #NT!
+ POD_mentoring_disciplines.247.desc: "Vous avez réussi à voyager spirituellement vers le royaume des morts, faisant de vous officiellement une Lamentation. Il existe de nombreuses façons de réaliser un tel exploit, depuis les écumeurs, ou ceux capables de forcer leur esprit à quitter leur corps via la méditation ou des drogues telles que des pigments, jusqu'aux dormeurs, ou ceux qui sont gelés au point de mourir, sur lesquels ils reçoivent des coups de pied. hors de leur corps jusqu'à ce qu'ils soient réanimés, et tout le reste.\nSi vous faites plus d'efforts pour identifier exactement votre méthode de projection préférée, cela pourrait vous donner une longueur d'avance dans la progression de ce nouveau talent." #NT!
+ POD_mentoring_disciplines.247.a: "Plus d'essais..." #NT!
+ POD_mentoring_disciplines.247.b: "C'était déjà assez effrayant, merci." #NT!
+  
+ POD_mentoring_disciplines.248.t: "Il n'y a pas de cuillère" #NT!
+ POD_mentoring_disciplines.248.desc: "Les médiums sont des personnes capables de percevoir des forces cachées aux sens ordinaires grâce à une perception extrasensorielle, qui peuvent ensuite utiliser leur esprit pour manipuler ces éléments surnaturels. Certains pensent qu’ils manipulent les mêmes pouvoirs que les sorciers, mais s’appuient sur leur esprit plutôt que sur des rituels élaborés. Les pouvoirs psychiques ont tendance à être peu fiables et inconstants et leurs praticiens sont boudés par beaucoup.\nCertaines personnes viennent de naître avec des dons inhabituels ou un talent brut qui mènent à la découverte de ces capacités paranormales, comme la télépathie, la télékinésie et la clairvoyance. La première étape consiste donc à tester si vous possédez ce pouvoir latent ou si des mesures plus complexes doivent être prises." #NT!
+ POD_mentoring_disciplines.248.a: "Ouvrir mon esprit..." #NT!
+ psychic_mentoring_tt: "Vous avez du talent !" #NT!
+ psychic_mentoring_tt2: "Pas de chance. Une autre option doit être envisagée." #NT!
+  
+ POD_mentoring_disciplines.249.t: "Ouvrir la voie de l'esprit" #NT!
+ POD_mentoring_disciplines.249.desc: "Malheureusement, il semble que vous n’ayez aucun talent latent pour les pouvoirs psychiques. Tout n’est cependant pas perdu car il existe des méthodes pour éveiller votre esprit avec force… des méthodes horribles et douloureuses. Si vous suivez cette voie, vous devrez endurer plusieurs séances d'invasion mentale douloureuse.\nL'alternative serait de "choquer" votre cerveau pour qu'il s'éveille d'un seul coup. Une solution séduisante et moins compliquée, mais certains effets secondaires pourraient survenir après un tel processus..." #NT!
+ POD_mentoring_disciplines.249.a: "Lente et régulière..." #NT!
+ POD_mentoring_disciplines.249.b: "...Je gagne la course maintenant !" #NT!
+  
+ POD_mentoring_disciplines.250.t: "Connaissance interdite" #NT!
+ POD_mentoring_disciplines.250.desc: "La démonologie est la science qui permet d'en apprendre davantage sur les démons, depuis leur origine jusqu'à l'étendue de leurs pouvoirs et la longueur de leur vrai nom. En tant que tel, il ne s’agit pas techniquement d’infernalisme, qui est l’acte d’invoquer, de lier ou de s’associer d’une autre manière avec des démons. Mais soyons honnêtes, la frontière entre les deux est très mince, et la plupart des gens ne feront pas la différence.\nVous pouvez adopter une approche lente en achetant de vieux livres et artefacts de partout pour apprendre à votre rythme. Ou vous pouvez emprunter la voie la plus simple en essayant simplement de poser des questions sur la démonologie à partir de sa source..." #NT!
+ POD_mentoring_disciplines.250.a: "Tout se trouve dans les livres." #NT!
+ POD_mentoring_disciplines.250.b: "Juste une petite invocation inoffensive..." #NT!
+  
+ POD_mentoring_disciplines.251.t: "L'horrible vérité" #NT!
+ POD_mentoring_disciplines.251.desc: "Votre incursion dans la démonologie vous a appris beaucoup de choses sur les démons et l'origine du monde. Cela vous a également ouvert les yeux sur ce qui semble être des vérités inquiétantes, comme si Dieu détournait son regard de la Terre, la laissant sombrer lentement dans la folie et le désespoir. Le tableau qui se présente à vous est pour le moins sombre et remet en question la façon dont vous voyiez le monde jusqu'à présent.\nIl faudra un cœur endurci pour continuer sur cette voie." #NT!
+ POD_mentoring_disciplines.251.a: "De simples rumeurs... non ?" #NT!
+ POD_mentoring_disciplines.251.b: "La fin est proche!" #NT!
+  
+ POD_mentoring_disciplines.252.t: "Toujours comme de la pierre" #NT!
+ POD_mentoring_disciplines.252.desc: "Bardo est un [discipline|E] étrange. Il est basé sur le déni de l’emprise de la Bête sur un vampire. Enseigné à l'origine par la divinité égyptienne Osiris à ses disciples, il nécessite une profonde méditation personnelle pour comprendre son concept.\nVotre professeur ne peut pas vous aider beaucoup plus que simplement vous donner l'idée de base et vous proposer plusieurs façons d'atteindre cet état de paix intérieure. . Le reste est entre vos mains et j'espère que votre personnalité n'est pas trop hostile à l'idée de rester assis en silence pendant des heures..." #NT!
+ POD_mentoring_disciplines.252.a: "Profonde respiration..." #NT!
+  
+ POD_mentoring_disciplines.253.t: "Couler comme de l'eau" #NT!
+ POD_mentoring_disciplines.253.desc: "Votre méditation s’est avérée suffisamment efficace pour « centrer votre esprit intérieur », du moins c’est ce que prétend votre professeur. Dans les temps à venir cependant, vous n'aurez pas toujours le luxe de trouver votre concentration et vous devrez donc apprendre à pratiquer le Bardo même lors d'événements plus difficiles.\nEt c'est pourquoi vous pratiquez maintenant certains arts martiaux anciens au sommet d'une montagne. , quelque peu incertain de l'utilité réelle de cet exercice, mais ne voulant pas contrarier votre professeur soudain très strict qui commente votre forme et chacun de vos mouvements." #NT!
+ POD_mentoring_disciplines.253.a: "Tout le monde aime le kung..." #NT!
+  
+ POD_mentoring_disciplines.254.t: "Foyer et pierre" #NT!
+ POD_mentoring_disciplines.254.desc: "Visceratika, à bien des égards, est une forme spécialisée de Protéen axée sur la pierre. De l’interaction avec lui jusqu’à devenir aussi résilient que lui, tout commence et se termine par des roches solides. Votre mentor est assez critique quant au manque de constructions en pierre dans votre région et vous invite à examiner comment ce matériau important est utilisé pour réaliser les plus grandes merveilles architecturales.\nBien qu'il s'agisse d'un concept étranger à la plupart des vampires, pour vraiment comprendre Visceratika, vous devez comprenez d’abord le processus de transformation d’un humble rocher en le plus puissant des châteaux." #NT!
+ POD_mentoring_disciplines.254.a: "J'ai toujours voulu être maçon. Probablement." #NT!
+ POD_mentoring_disciplines.254.b: "Il est temps d'ouvrir une nouvelle carrière, je suppose." #NT!
+  
+ POD_mentoring_disciplines.255.t: "Ne cligne pas des yeux" #NT!
+ POD_mentoring_disciplines.255.desc: "Les gargouilles maîtrisent souvent Visceratika de manière assez naturelle, utilisant ses puissants effets pour rester parfaitement immobiles pendant des semaines, voire des mois. Cela n'est pas aussi facile pour la plupart des autres vampires et votre mentor veut maintenant juger de votre capacité à réaliser cet exploit... ce qui semble terriblement ennuyeux.\nRemarquant votre réticence à vous engager dans cette idée, votre mentor a menacé de prendre la pierre. vous aviez l'habitude jusqu'ici de réaliser vos expériences Visceratika que vous emportez partout avec vous. Ce n’est pas la menace la plus horrible que vous ayez jamais entendue, mais vous aimez bien ce rocher !" #NT!
+ POD_mentoring_disciplines.255.a: "Vous êtes une personne horrible, mais vous avez gagné." #NT!
+ POD_mentoring_disciplines.255.b: "Je peux vivre sans ma pierre de compagnie." #NT!
+  
+ POD_demon_tainted_modifier: "Souillure infernale" #NT!
+ POD_demon_tainted_modifier_desc: "Ce personnage pue l'infernal et le impie. Le pur recul face à leur présence, la compétition de peur impure." #NT!
+  
+ POD_herdify_interaction_limit: "La taille du troupeau est plafonnée ! (3 plus 1 par [diplomacy_i]#V 8#! [diplomacy|E] plus tous les bonus provenant d'autres sources)" #NT!
+ POD_herdify_mortal_interaction: "Herdify #weak (Schéma)#!" #NT!
+ POD_herdify_mortal_interaction_desc: "Complotez pour vous procurer ce mortel comme vaisseau à partir duquel vous pourrez vous nourrir à volonté en toute sécurité." #NT!
+ POD_herdify_vampire_interaction: "Herdify #weak (Schéma)#!" #NT!
+ POD_herdify_vampire_interaction_desc: "Complotez pour vous procurer cette espèce comme un vaisseau à partir duquel vous pourrez vous nourrir à volonté en toute sécurité." #NT!
+  
+ POD_ghoul_choose: "Manipuler [Ghoul|E]" #NT!
+ POD_ghoul: "Manipuler [Ghoul|E]" #NT!
+ recipient_secondary_POD_ghoul_choose: "[Ghoul|E] Thrall" #NT!
+ POD_ghoul_choose_desc: "Choisissez quoi faire avec vos esclaves [ghoul|E]." #NT!
+ POD_ghoulthrall_heal_option: "Guérir Thrall" #NT!
+ POD_ghoulthrall_goldreward_option: "Récompense Thrall" #NT!
+ POD_ghoulthrall_demandgold_option: "Exiger de l’or" #NT!
+ POD_ghoulthrall_giveblood_option: "Donner du sang" #NT!
+ POD_ghoulthrall_traindiscipline_option: "Entraîner [discipline|E]" #NT!
+ POD_ghoulthrall_transmogrify_option: "Transmogrification" #NT!
+ POD_ghoulthrall_transmogrify_option.tt: "Utiliser les vicissitudes pour transmogrifier un [ghoul|E] peut susciter la faim, mettre votre volonté à rude épreuve et risquer d'être exposé." #NT!
+ POD_ghoulthrall_release_option: "Libérer l'esclave" #NT!
+  
+ POD_ghoulify_mortal_interaction_limit: "Le montant de [Ghoul|E] est plafonné ! (3 plus 1 par [stewardship_i]#V 8#! [stewardship|E] plus tous les bonus provenant d'autres sources)" #NT!
+ POD_ghoulify_mortal_interaction_bp_one: "Les vampires doivent avoir une puissance sanguine d'au moins un pour créer un [ghoul|E]." #NT!
+ POD_ghoulify_mortal_interaction: "Ghoulify #weak (Schéma)#!" #NT!
+ POD_ghoulify_mortal_interaction_desc: "Complot visant à transformer ce mortel en un esclave [ghoul|E], un fidèle serviteur.\nNotez que les goules ont une résonance considérablement réduite et font de pauvres membres du troupeau." #NT!
+ POD_ghoul_ghoulify_interaction: "Accordez le don de Vitae #weak (Schéma)#!" #NT!
+ POD_ghoul_ghoulify_interaction_desc: "Offrez à cette personne le CV d'un prisonnier de votre choix [recipient.GetHerHis]." #NT!
+ I_have_no_bloodbag: "Aucun vampire dans le donjon pour drainer son sang." #NT!
+ recipient_secondary_POD_ghoul_ghoulify_interaction: "\n \n \n Utilisez ce prisonnier comme source de vitae." #NT!
+  
+ POD_ghoul_ghoulify_prisoner_interaction: "Accordez le cadeau de Vitae au prisonnier" #NT!
+ POD_ghoul_ghoulify_prisoner_interaction_desc: "Faire de [recipient.GetFirstName] une goule de force." #NT!
+ POD_ghoul_ghoulify_prisoner_interaction.tt: "[recipient.GetFirstName] devient une goule." #NT!
+ recipient_secondary_POD_ghoul_ghoulify_prisoner_interaction: "Prisonnier" #NT!
+  
+ POD_awaketorpor_interaction: "Trouver une cachette #weak (Schéma)#!" #NT!
+ POD_awaketorpor_interaction_desc: "Vous tenterez de connaître la localisation exacte de ce vampire engourdi. Ensuite, vous pourriez l'inviter à votre cour, ou l'attaquer..." #NT!
+ I_CAN_ONLY_PLOT_ONE_AWAKETORPOR_AT_A_TIME_TRIGGER: "Une seule recherche de cachette peut être planifiée à la fois" #NT!
+ scheme_interaction_tt_awaketorpor_approved: "Vous tenterez de connaître la localisation exacte de ce vampire engourdi. La chasse est alors ouverte. Il y a évidemment de sérieux risques à encourir..." #NT!
+ awaketorpor: "Trouver une cachette" #NT!
+ awaketorpor_action: "Trouver une cachette" #NT!
+ awaketorpor_interaction: "Trouver une cachette #weak (Schéma)#!" #NT!
+ awaketorpor_desc: "Je localiserai [SCHEME.GetTarget.GetShortUINameNoTooltip], puis je m'occuperai de lui si je le juge opportun." #NT!
+ awaketorpor_desc_general: "Essayez de localiser la cachette de ce vampire engourdi" #NT!
+ AWAKETORPOR_SUCCESS_DESC: "Vous commencerez l'exploration finale de la cachette [TARGET_CHARACTER.GetShortUINamePossessive]" #NT!
+ #AWAKEtorpor_DISCOVERY_DESC: "@warning_icon ! Vous êtes exposé pour le [crime|E] de la chasse aux sorcières" #NT!
+ awaketorpor_my_learning: "Votre apprentissage : $VALUE|=+0$" #NT!
+ awaketorpor_my_rival: "Votre victime : $VALUE|=+0$" #NT!
+ POD_awaketorpor.667.t: "J'ai perdu la piste" #NT!
+ POD_awaketorpor.667.desc: "Peut-être que votre proie s'est déjà réveillée ou que vos pistes étaient fausses depuis le début. Quoi qu'il en soit, vous avez perdu la trace du vampire engourdi et devez repartir de zéro si vous souhaitez toujours le retrouver." #NT!
+ POD_awaketorpor.667.option.a: "Il semble que j'étais attendu" #NT!
+ POD_awaketorpor.1.t: "Questions et réponses" #NT!
+ POD_awaketorpor.1.desc: "Vous avez trouvé un indice sérieux sur l'emplacement du vampire endormi que vous recherchez. Malheureusement, cet indice ne va pas plus loin et vous mène en fait à un petit village où personne ne veut vous parler.\nPeut-être sont-ils sous l'emprise de votre proie ? C'est difficile à dire, mais de manière réaliste, vous ne pouvez pas vous promener trop longtemps dans la région, vous devrez donc les convaincre de répondre à vos questions." #NT!
+ POD_awaketorpor.1.option.a: "Toi là! Réponds-moi!" #NT!
+ POD_awaketorpor.1.option.aa.effect.success.desc: "Un succès critique fera avancer votre plan sans problème" #NT!
+ POD_awaketorpor.1.option.ab.effect.success.desc: "Vous pourriez perdre quelque chose en cours de route..." #NT!
+ POD_awaketorpor.1.option.ac.effect.success.desc: "Vous perdez la trace..." #NT!
+ POD_awaketorpor.1.option.b: "Ça n'en vaut pas la peine" #NT!
+ POD_awaketorpor.1.option.b.custom: "Vous terminez votre voyage ici, laissant le vampire endormi dans son sommeil." #NT!
+ POD_awaketorpor.1.success: "L'or ouvre de nombreuses portes" #NT!
+ POD_awaketorpor.2.t: "Le labyrinthe" #NT!
+ POD_awaketorpor.2.desc: "Évidemment, ce devait être un labyrinthe. Votre cible a construit ou emprunté un certain nombre de grottes souterraines et s'y trouve désormais enfermée. Et, vous l'aurez deviné, il y a des pièges partout.\nVous pouvez essayer de naviguer dans ce labyrinthe pour atteindre votre proie, mais vous risquez de vous blesser au cours du processus." #NT!
+ POD_awaketorpor.2.option.a: "Un pas après l'autre..." #NT!
+ POD_awaketorpor.2.success: "Aie! Pas la tête !" #NT!
+ POD_awaketorpor.3.t: "Les Serviteurs" #NT!
+ POD_awaketorpor.3.desc: "Vous avez trouvé où se trouve votre cible... mais vous avez également trouvé toute une armée de mercenaires protégeant les lieux, apparemment payés par un stratagème complexe dirigé par certains serviteurs du vampire. Vous avez votre propre armée pas très loin, évidemment, mais les mercenaires sont retranchés et s'attendent à des ennuis.\nLe choix vous appartient, si vous continuez, vous devrez gagner rapidement avant qu'ils ne déplacent le vampire engourdi ailleurs. Vous pouvez également annuler l’opération si vous ne voulez pas prendre de risques." #NT!
+ POD_awaketorpor.3.option.a: "Charge!" #NT!
+ POD_awaketorpor.3.option.b: "Ça n'en vaut pas la peine" #NT!
+ POD_awaketorpor.3.success: "Une victoire compliquée" #NT!
+ POD_awaketorpor.10.t: "Le choix" #NT!
+ POD_awaketorpor.10.desc: "Tout obstacle sur le chemin de votre cible engourdie a été supprimé. Maintenant, vous devez vous préparer à la confrontation avec votre proie, car les vampires récemment réveillés ne sont pas les gens les plus amicaux.\nVous devez choisir quel est votre objectif avec le monstre endormi qui vous attend." #NT!
+ POD_awaketorpor.10.option.a: "Je veux les réveiller et les recruter" #NT!
+ POD_awaketorpor.10.option.b: "Une autre âme à manger !" #NT!
+ POD_awaketorpor.11.t: "Retourner à la maison" #NT!
+ POD_awaketorpor.11.desc: "Vous avez perdu la trace de votre cible et vous retournez à votre terrain sans grand chose, voire rien, à montrer de votre voyage. Évidemment, c'est une période difficile, car vos rivaux ricanent déjà dans votre dos.\nComment allez-vous gérer cette situation ?" #NT!
+ POD_awaketorpor.11.option.a: "Financer une démonstration de force pour apaiser les troubles" #NT!
+ POD_awaketorpor.11.option.b: "Ils se taiseront avec le temps" #NT!
+ POD_awaketorpor.12.t: "Discussion endormie" #NT!
+ POD_awaketorpor.12.desc: "Vous avez trouvé votre proie et avez fait appel à un donneur de sang « volontaire » pour vous aider à vous débarrasser du sommeil éternel. Sans trop de difficultés, même si vous êtes visiblement resté à distance pendant tout le processus.\nMaintenant, votre cible est parfaitement réveillée et écoute attentivement ce que vous lui proposez. C'est maintenant ou jamais que vous assurerez leur participation et votre retour à votre cour. Mieux vaut être sûr de ce que vous direz ensuite..." #NT!
+ POD_awaketorpor.12.option.a: "Tu ne refuseras pas mon offre" #NT!
+ POD_awaketorpor.12.option.aa.effect.success.desc: "Votre cible rejoint votre terrain !" #NT!
+ POD_awaketorpor.12.option.ab.effect.success.desc: "Tu devais mendier, mais ça a marché" #NT!
+ POD_awaketorpor.12.option.ac.effect.success.desc: "Un refus catégorique, tu pars tranquille" #NT!
+ POD_awaketorpor.12.option.b.custom: "Vous terminez votre voyage ici, laissant le vampire endormi dans son sommeil." #NT!
+ POD_awaketorpor.12.success: "Accueillir!" #NT!
+ POD_awaketorpor.12.successb: "...Accueillir!" #NT!
+ POD_awaketorpor.12.successc: "Tout ça pour rien..." #NT!
+ POD_awaketorpor.13.t: "Le gardien" #NT!
+ POD_awaketorpor.13.desc: "Il ne reste qu'un seul obstacle sur le chemin de votre proie, un guerrier à l'air coriace qui protège le vampire endormi. Il s'agit peut-être d'un [ghoul|E], mais ils semblent très bien entraînés, et vous soupçonnez que d'autres sont en embuscade à proximité.\nL'espace est trop proche pour lancer un assaut avec une armée, et vous ne pouvez pas revenir en arrière maintenant, sinon ils déplaceront le corps de leur maître. C'est donc un combat où vous êtes clairement désavantagé, mais vous pouvez sentir le sang palpitant de votre proie se rapprocher en vous appelant..." #NT!
+ POD_awaketorpor.13.option.a: "Je vais te tuer, puis consumer ton maître !" #NT!
+ POD_awaketorpor.13.option.aa.effect.success.desc: "Une victoire totale !" #NT!
+ POD_awaketorpor.13.option.ab.effect.success.desc: "C'était dur..." #NT!
+ POD_awaketorpor.13.option.ac.effect.success.desc: "Attendez! Utiliser des flèches de feu, c'est de la triche !" #NT!
+ POD_awaketorpor.13.success: "...si proche" #NT!
+ POD_awaketorpor.14.t: "Le prix" #NT!
+ POD_awaketorpor.14.desc: "Finalement, votre cible endormie est sans défense devant vous. Vous frissonnez presque d’impatience, ce qui n’est évidemment pas possible dans votre état. Le temps semble s'être arrêté tandis que vous montrez vos crocs, prêt à consumer l'âme pour laquelle vous vous êtes battu.\nVotre bête est ravie et vous quitterez cet endroit plus fort que vous n'y êtes venu... mais peut-être moins humain." #NT!
+ POD_awaketorpor.14.option.a: "Une victoire sanglante." #NT!
+ POD_awaketorpor.14.option.b: "Finissez-les simplement." #NT!
+ POD_awaketorpor.14.desc.b: "Finalement, votre cible endormie est sans défense devant vous. Il ne vous reste plus qu’à achever la sombre tâche pour laquelle vous êtes venu ici. Ce n’est peut-être pas une manière très climatique de mettre fin à cette aventure, mais faire en sorte que cet ennemi ne se réveille jamais pour vous gêner à l’avenir est une réussite en soi." #NT!
+ POD_awaketorpor_prisoner_interaction: "Prisonnier éveillé" #NT!
+ POD_awaketorpor_prisoner_interaction_desc: "Réveiller de force [recipient.GetFirstName] du [GetTrait('wraith').GetName( recipient )]." #NT!
+  
+  
+ POD_infiltrate_interaction: "Infiltrer" #NT!
+ POD_infiltrate_interaction_desc: "Vous infiltrerez cette cour en vous faisant passer pour un nouveau-né, leur donnant ainsi un important malus de résistance." #NT!
+ infiltrate_modifier: "Infiltré" #NT!
+ infiltrate_modifier_desc: "D'une manière ou d'une autre, tout le monde semble en savoir beaucoup sur votre cour..." #NT!
+  
+ absalon_svantevit_weakest: "Compréhension la plus faible du rituel" #NT!
+ absalon_svantevit_weakest_desc: "Vous n'avez qu'une infime idée de ce que faisaient ces païens dans ce temple." #NT!
+ absalon_svantevit_weak: "Faible compréhension du rituel" #NT!
+ absalon_svantevit_weak_desc: "C'est encore surtout un tas de runes charabia et autres, mais vous faites des progrès" #NT!
+ absalon_svantevit_medium: "Compréhension moyenne du rituel" #NT!
+ absalon_svantevit_medium_desc: "Voilà donc ce que signifiait cette partie !" #NT!
+ absalon_svantevit_strong: "Forte compréhension du rituel" #NT!
+ absalon_svantevit_strong_desc: "Tu es si proche maintenant, si proche..." #NT!
+ absalon_svantevit_reborn: "Svantevit renaît" #NT!
+ absalon_svantevit_reborn_desc: "Le Dieu de la guerre marche à nouveau dans la nuit !... même si cela est assez stressant pour son pitoyable hôte" #NT!
+  
+ POD_trial_by_war_interaction: "L'épreuve par la guerre" #NT!
+ POD_trial_by_war_interaction_desc: "Il est temps d'enseigner à celui qui est le vrai voïvode ici" #NT!
+  
+ POD_etrius_abuse_interaction: "Politique Tremere" #NT!
+ POD_etrius_abuse_interaction_desc: "En tant que bras droit de Tremere lui-même, il est temps d'utiliser votre pouvoir à l'intérieur du [Clan|E]" #NT!
+  
+ POD_maatkare_interaction: "Attirer" #NT!
+ POD_maatkare_interaction_desc: "Aidez ce [cainite|E] égaré à découvrir la vérité sur la gloire de Set." #NT!
+  
+ POD_ventrue_succor_interaction: "Éthique du secours" #NT!
+ POD_ventrue_succor_interaction_desc: "[Clan|E] Ventrue se tient au droit du secours - lorsqu'un Ventrue est en détresse, les autres Ventrue sont obligés de l'aider. Mais rien n’est sans coût." #NT!
+  
+ #POD_toreador_rumor_mill_interaction: "Machine à rumeurs" #NT!
+ #POD_toreador_rumor_mill_interaction_desc: "Les Toréador [Clan|E] sont des experts dans la manipulation de la machine sociale. En utilisant cette compétence, vous pouvez fabriquer une affirmation scandaleuse – et la rendre vraie. Ou du moins, pour tout le monde." #NT!
+ #POD_toreador_rumor_mill_interaction_succ: "Succès" #NT!
+ #POD_toreador_rumor_mill_interaction_succ_ct: "Vous préparerez un faux [secret|E] sur la cible et vous assurerez qu'il y a juste assez de personnes qui rassemblent la rumeur pour la soutenir, mais pas assez pour révéler le secret." #NT!
+ #POD_toreador_rumor_mill_interaction_succ_toast: "Triomphe!" #NT!
+ #POD_toreador_rumor_mill_interaction_fail: "Échec" #NT!
+ #POD_toreador_rumor_mill_interaction_fail_toast: "Échec!" #NT!
+ #POD_toreador_rumor_mill_interaction_fail_ct: "Vous serez découvert et méprisé." #NT!
+  
+ POD_malkavian_madness_network_divine: "Réseau de folie : Divin" #NT!
+ POD_malkavian_madness_network_divine_desc: "Utilisez les informations de vos frères Malkaviens et écoutez les sombres murmures.... Ouvrez la cible à vos petits projets." #NT!
+ POD_malkavian_madness_network_divine_ct: "Pour chaque Malkavien dans la cour [recipient.GetFirstNamePossessive], l'intrigue [recipient.GetHerHis] sera réduite." #NT!
+ POD_malkavian_madness_network_backlash: "Exploiter le réseau de la folie peut avoir des effets secondaires « intéressants »." #NT!
+ NO_MALKAVIANS: "Il doit y avoir au moins un Malkavien dans le camp de la cible." #NT!
+ NOT_NO_MALKAVIANS: "Il doit y avoir au moins un Malkavien dans le camp de la cible." #NT!
+  
+ POD_malkavian_madness_network_borrow_skill: "Madness Network - Emprunter une compétence" #NT!
+ POD_malkavian_madness_network_borrow_skill_desc: "Extrayez des brins de pensées apparemment aléatoires du réseau de la folie pour améliorer l'une de vos compétences." #NT!
+ POD_malkavian_madness_network_borrow_skill_ct: "La compétence choisie sera renforcée par les étranges connaissances du Madness Network... D'où peuvent-elles venir ?" #NT!
+ POD_malkavian_madness_network_diplomacy: "Diplomatie" #NT!
+ POD_malkavian_madness_network_stewardship: "Intendance" #NT!
+ POD_malkavian_madness_network_martial: "Martial" #NT!
+ POD_malkavian_madness_network_intrigue: "Intrigue" #NT!
+ POD_malkavian_madness_network_learning: "Apprentissage" #NT!
+  
+ POD_cappadocian_send_advisor_interaction: "Envoyer un conseiller" #NT!
+ POD_cappadocian_send_advisor_interaction_desc: "Au-delà de leurs activités érudites, les Cappadociens sont connus pour servir de conseillers aux rois et aux princes. Sachant cela, vous pouvez envoyer votre enfant servir dans la cour d’un autre dirigeant, récoltant ainsi plusieurs avantages." #NT!
+ POD_cappadocian_send_advisor_interaction_ct: "Votre enfant sera envoyé au tribunal [recipient.GetFirstNamePossessive] pour servir de conseiller ou de conseiller. S'ils s'avèrent efficaces, vous gagnerez la gratitude du dirigeant étranger et votre enfant pourrait même apprendre quelque chose. Cependant, si votre enfant échoue, vous pouvez vous attendre à des conséquences." #NT!
+ POD_cappadocian_send_advisor_interaction_chancellor_option: "Envoyer en tant que chancelier" #NT!
+ POD_cappadocian_send_advisor_interaction_steward_option: "Envoyer en tant qu'intendant" #NT!
+ POD_cappadocian_send_advisor_interaction_spymaster_option: "Envoyer en tant que Spymaster" #NT!
+ POD_cappadocian_send_advisor_interaction_marshal_option: "Envoyer en tant que maréchal" #NT!
+ POD_cappadocian_send_advisor_interaction_court_chaplain_option: "Envoyer en tant qu'aumônier de la cour" #NT!
+ recipient_secondary_POD_cappadocian_send_advisor_interaction: "Enfant" #NT!
+ BETTER_CHANC: "Mieux que le conseiller actuel" #NT!
+  
+ #NOT_NO_BRUJAH: "Vous avez besoin d'au moins un chevalier Brujah pour exercer ce pouvoir ! Un cadre nécessite plus d'un membre...." #NT!
+ #POD_brujah_cadre_interaction: "Brujah : assembler le cadre" #NT!
+ #POD_brujah_cadre_interaction_desc: "Il est difficile pour un brujah de travailler avec d'autres de son [Clan|E] - les colères éclatent trop fréquemment et le désastre s'ensuit. Mais lorsqu’ils défendent une cause commune, un groupe de Brujahs (ou Cadres) constitue une force avec laquelle il faut compter." #NT!
+ #POD_brujah_cadre_interaction_ct: "Pour chaque chevalier brujah servant dans vos armées, vous recevrez un bonus à l’efficacité des chevaliers. Vous et votre Cadre deviendrez également plus proches, gagnant en influence l'un sur l'autre. Lorsqu'il est utilisé à nouveau, renvoie le Cadre précédent." #NT!
+  
+ POD_gangrel_challenge_interaction: "Rite de statut" #NT!
+ POD_gangrel_challenge_interaction_desc: "Lorsque deux Gangrels se rencontrent pour la première fois, ou après une absence prolongée, ils accomplissent le Rite du Statut, s'entraînant ou se vantant de leurs exploits pour apprendre à se connaître." #NT!
+ gangrel_challenge_tt: "Vous vous présenterez officiellement à ce personnage, gagnant peut-être son amitié ou gagnant du prestige dans le processus." #NT!
+  
+ HAS_HIGH_MASQUERADE_EXPOSURE: "La cible est fortement exposée à la mascarade" #NT!
+ POD_enforce_masquerade_interaction: "Appliquer la mascarade" #NT!
+ POD_enforce_masquerade_interaction_desc: "Essayez d'appliquer [masquerade|E] sur [recipient.GetFirstName]" #NT!
+  
+ POD_wisdom_of_hazimel_interaction: "Sagesse d'Hazimel" #NT!
+ POD_wisdom_of_hazimel_interaction_desc: "Essayez d'effectuer un rituel de sagesse, au détriment de votre corps" #NT!
+  
+ POD_employ_lamia_bodyguard_interaction: "Employer le garde du corps Lamia" #NT!
+ POD_employ_lamia_bodyguard_interaction_desc: "Vous emploierez un redoutable membre de la lignée de Lamia comme garde du corps." #NT!
+ POD_create_bounty_interaction: "Créer un contrat" #NT!
+ POD_create_bounty_interaction_ct: "Le contrat sera affiché dans la liste Web Of Knives, ce qui signifie que les Assassins pourraient le poursuivre. Plus la récompense que vous offrez est élevée, plus les tueurs potentiels sont susceptibles de choisir [recipient.GetName] comme prochaine note." #NT!
+ POD_create_bounty_interaction_desc: "Mettez à prix la tête [recipient.GetFirstNamePossessive], encourageant les assassins de la Toile des Couteaux à... S'en débarrasser pour vous." #NT!
+ reward_gold_50_loc: "Offre [gold_i|e]50" #NT!
+ reward_gold_100_loc: "Offre [gold_i|e]100" #NT!
+ reward_gold_250_loc: "Offre [gold_i|e]250" #NT!
+ reward_gold_500_loc: "Offre [gold_i|e]500" #NT!
+ reward_gold_1000_loc: "Offre [gold_i|e]1000" #NT!
+ reward_gold_5000_loc: "Offre [gold_i|e]5000" #NT!
+  
+ POD_chase_bounty_interaction: "Poursuivre le contrat #weak (Schéma)#!" #NT!
+ POD_hase_bounty_interaction_desc: "Poursuivez [recipient.GetFirstName] et isolez-les dans un combat à mort. Si vous réussissez, une récompense vous attend de la part de l'entrepreneur." #NT!
+  
+ POD_project_negative_psychic_energy_interaction: "Projet Énergie Négative" #NT!
+ POD_project_negative_psychic_energy_interaction_desc: "Canalisez toute votre culpabilité, votre frustration, votre colère et votre faim dans votre âme Hun, puis projetez cette énergie psychique négative comme un couteau dans l'âme [recipient.GetFirstNamePossessive]." #NT!
+ POD_project_negative_psychic_energy.tt: "La victime subira le même niveau de stress que vous, ou quelque chose de pire." #NT!
+  
+ POD_choose_parent_interaction: "Choisir un parent" #NT!
+ POD_choose_parent_interaction_desc: "Vous souhaitez que [recipient.GetFirstName] devienne votre parent." #NT!
+ POD_choose_parent_interaction.tt: "Êtes-vous sûr de vouloir être apparenté à [recipient.GetFirstName] ?\nEn raison des limitations de CK3, si [recipient.GetFirstName] est plus jeune que vous, faire de [recipient.GetHerHim] votre parent pourrait ne pas fonctionner correctement." #NT!
+  
+ TOOMANYFRIENDS: "Vous ne pouvez plus vous lier d'amitié si vous avez déjà 5 amis, ou 7 si Setite avec l'avantage Héritage de Maatkare." #NT!
+ FIFTHY_GHOULS: "Les prédateurs ne se marient pas avec le bétail ! : $VALUE|+0$" #NT!
+ BOTH_REVENANTS_REASON: "Nous sommes tous les deux des revenants : $VALUE|+0$" #NT!
+ SAME_PATH_REASON: "Nous sommes sur le même chemin : $VALUE|+0$" #NT!
+ RECIPIENT_CRIMINAL_REASON: "[secondary_recipient.GetShortUIName] est criminel : $VALUE|+0$" #NT!
+ ACTOR_CRIMINAL_REASON: "[secondary_actor.GetShortUIName] est criminel : $VALUE|+0$" #NT!
+  
+ POD_charjoin_choose_mentor_interaction: "Choisissez un mentor" #NT!
+ POD_charjoin_choose_mentor_interaction_desc: "Vous souhaitez que [recipient.GetFirstName] devienne votre mentor." #NT!
+ POD_charjoin_choose_sifu_interaction: "Choisissez Sifu" #NT!
+ POD_charjoin_choose_sifu_interaction_desc: "Vous voulez que [recipient.GetFirstName] devienne votre Sifu." #NT!
+ POD_charjoin_choose_ghoulbrosmentor_interaction: "Choisissez un mentor" #NT!
+ POD_charjoin_choose_ghoulbrosmentor_interaction_desc: "Vous souhaitez que [recipient.GetFirstName] devienne votre mentor." #NT!
+  
+ POD_charjoin_become_vampire_interaction: "Demandez à Embrace" #NT!
+ POD_charjoin_become_vampire_interaction_desc: "Vous voulez que [recipient.GetFirstName] devienne votre [Sire|E]." #NT!
+  
+ grant_title_to_ghouls_warning: "En tant que vampire, accorder autre chose qu'une baronnie à un [ghoul|E] est considéré comme très inapproprié. Ils sont vos moindres après tout." #NT!
+  
+ TOO_OLD_FOR_THIS: "Bien trop vieux pour ces bêtises : $VALUE|+0$" #NT!
+  
+ POD_blood_heal_one_eyed: "Un oeil" #NT!
+  
+ NOT_POD_ARMY_SIZE_LESS_THEN_THOUSAND: "La taille de l'armée commandante est #bold et non#! inférieure à mille." #NT!
+  
+ POD_vampshapeshift_interaction_copy_face: "Imiter le visage" #NT!
+ POD_vampshapeshift_interaction_paste_face: "Donner le visage" #NT!
+ POD_vampshapeshift_interaction_restore_face: "Restaurez votre visage" #NT!
+ POD_vampshapeshift_interaction_restore_face_recipient: "Restaurer le visage de la cible" #NT!
+  
+ POD_ghoulify_prisoner_interaction: "Prisonnier goule" #NT!
+ POD_ghoulify_prisoner_interaction_desc: "Faites de [recipient.GetFirstName] votre esclave éternel." #NT!
+ POD_ghoulify_prisoner_interaction.tt: "[recipient.GetFirstName] devient votre [ghoul|E]." #NT!
+  
+ POD_herdify_prisoner_interaction: "Prisonnier du troupeau" #NT!
+ POD_herdify_prisoner_interaction_desc: "Faites de [recipient.GetFirstName] votre troupeau de force." #NT!
+ POD_herdify_prisoner_interaction.tt: "[recipient.GetFirstName] devient votre troupeau." #NT!
+  
+ POD_blink_modifier: "Clignoter" #NT!
+ POD_blink_modifier_desc: "En vous déplaçant à une vitesse fulgurante, vous trouvez les itinéraires les plus rapides à suivre pour votre armée." #NT!
+  
+ POD_drained_modifier: "Drainé" #NT!
+ POD_drained_modifier_desc: "Bouger trop vite donne le vertige et la situation globale est plus difficile à suivre." #NT!
+  
+ POD_blink_interaction: "Clignoter" #NT!
+ POD_blink_interaction_desc: "En utilisant vos pouvoirs de Célérité, vous ferez en sorte que les choses aillent plus vite ! Surtout votre armée." #NT!
+  
+ POD_vanish_interaction: "Disparaître" #NT!
+ POD_vanish_interaction_desc: "En utilisant vos pouvoirs d'obscurcissement, vous pouvez disparaître de la vue du public pendant un certain temps, mettant ainsi fin à tout complot vous visant." #NT!
+ POD_vanish_tt: "Tout stratagème vous visant, qu'il soit personnel ou hostile, est stoppé." #NT!
+  
+ POD_silence_death_modifier: "Silence de mort" #NT!
+ POD_silence_death_modifier_desc: "Il est difficile de communiquer quand un silence étrange vous suit partout." #NT!
+  
+ POD_silence_of_death_interaction: "Silence de mort" #NT!
+ POD_silence_of_death_interaction_desc: "En utilisant vos pouvoirs d'obscurcissement, vous pouvez sérieusement entraver les tentatives de communication de votre victime." #NT!
+  
+ POD_send_the_eighth_plague_interaction: "Envoyez la huitième peste" #NT!
+ POD_send_the_eighth_plague_interaction_desc: "En utilisant vos pouvoirs d'animalisme, vous lancez la peste sur le royaume [recipient.GetFirstNamePossessive]." #NT!
+  
+  
+ POD_create_gargoyle_interaction: "Créer une gargouille" #NT!
+ POD_create_gargoyle_interaction_desc: "Menez une expérience thaumaturgique pour fusionner deux créatures surnaturelles en une gargouille." #NT!
+ POD_create_gargoyle_interaction.tt: "[recipient.GetFirstName] et [secondary_recipient.GetFirstName] seront détruits – créant potentiellement une gargouille." #NT!
+ recipient_secondary_POD_create_gargoyle_interaction: "Sujet expérimental" #NT!
+ POD_create_gargoyle_interaction.gargoyle_experiment_chance.tt: "Une expérience pour créer une gargouille est menée." #NT!
+ POD_create_gargoyle_interaction.gargoyle_experiment_failure.tt: "L'expérience échoue !" #NT!
+ POD_create_gargoyle_interaction.gargoyle_experiment_failure.toast.t: "Échec de l'expérience" #NT!
+ POD_create_gargoyle_interaction.gargoyle_experiment_success.toast.t: "Succès de l'expérience" #NT!
+ POD_create_gargoyle_interaction.gargoyle_experiment_success_stonewolf.tt: "Création d'une gargouille de caste de chien de pierre" #NT!
+ POD_create_gargoyle_interaction.gargoyle_experiment_success_bingmayong.tt: "Création d'une gargouille de la caste Bingmayong" #NT!
+ POD_create_gargoyle_interaction.gargoyle_experiment_success_shade.tt: "Gargouille de caste d'ombre créée" #NT!
+ POD_create_gargoyle_interaction.gargoyle_experiment_success_blood.tt: "Création d'une gargouille de la caste des Gardiens du Sang" #NT!
+ POD_create_gargoyle_interaction.gargoyle_experiment_success_boyar.tt: "Création d'une gargouille de caste de boyards" #NT!
+ POD_create_gargoyle_interaction.gargoyle_experiment_success_caryatid.tt: "Création d'une gargouille de caste cariatide" #NT!
+ POD_create_gargoyle_interaction.gargoyle_experiment_success_scout.tt: "Création d'une gargouille de caste scoute" #NT!
+ POD_create_gargoyle_interaction.gargoyle_experiment_success_warrior.tt: "Gargouille de caste de guerriers créée" #NT!
+ POD_create_gargoyle_interaction.gargoyle_experiment_success_sentinel.tt: "Création d'une gargouille de caste sentinelle" #NT!
+  
+ POD_kiss_of_lachesis_perk_interaction: "Baiser de Lachesis" #NT!
+ POD_kiss_of_lachesis_perk_interaction_desc: "Modifiez l'âge physique de [recipient.GetFirstName]." #NT!
+  
+ POD_clios_kiss_perk_interaction: "Le baiser de Clio" #NT!
+ POD_clios_kiss_perk_interaction_desc: "Faites revenir le terrain ciblé du [recipient.GetFirstName] à son ancien détenteur." #NT!
+ POD_clios_kiss_perk_interaction_sucess: "[target.GetNameNoTier] a été restitué à son ancien détenteur." #NT!
+ POD_clios_kiss_perk_interaction_fail: "Vous ne parvenez pas à manipuler le temps." #NT!
+  
+ POD_dementation_interaction: "Démence" #NT!
+ POD_dementation_interaction_desc: "Utilisez la démence sur [recipient.GetFirstName]." #NT!
+ POD_dementation_interaction_options_heading: "Quel effet supplémentaire dois-je lancer ?" #NT!
+ POD_dementation_interaction_sucess: "Vous avez réussi à dessiner la folie sur [recipient.GetFirstName]." #NT!
+ POD_dementation_interaction_fail: "Vous ne parvenez pas à dessiner la folie." #NT!
+  
+ POD_lunatic_eruption_interaction: "Éruption lunatique" #NT!
+ POD_lunatic_eruption_interaction_desc: "Invoquez une frénésie folle chez toutes les créatures sensibles dans un rayon de plusieurs kilomètres pour faire des enchères [recipient.GetFirstName]." #NT!
+ POD_lunatic_summon.duel.success: "Vous avez réussi à maîtriser le pouvoir d’invoquer la folie." #NT!
+ POD_lunatic_summon.duel.failure: "Vous ne parvenez pas à utiliser le pouvoir." #NT!
+ lunatic_summon_modifier: "Invocation lunatique" #NT!
+ lunatic_summon_modifier_desc: "Apparition automatique [GetMaA('maniacs').GetName] [men_at_arms|E] après avoir occupé une province en tant que commandant." #NT!
+  
+ POD_touch_of_the_saints_interaction: "Toucher des Saints" #NT!
+ POD_touch_of_the_saints_interaction_desc: "Guérissez [recipient.GetFirstName] du dérangement et de tout ce qui affecte l'esprit [recipient.GetHerHis]." #NT!
+  
+ POD_melpominee_interaction: "Melpominee" #NT!
+ POD_melpominee_interaction_desc: "Utilisez melpominee sur [recipient.GetFirstName]." #NT!
+ POD_melpominee_interaction_sucess: "Vous avez utilisé avec succès le pouvoir de la voix sur [recipient.GetFirstName]." #NT!
+ POD_melpominee_interaction_fail: "Vous ne parvenez pas à chanter la musique." #NT!
+ stress_threshold_level_1_event_tooltip: "Bénéficiez d'une pause anti-stress aléatoire de niveau 1." #NT!
+ stress_threshold_level_2_event_tooltip: "Bénéficiez d'une pause anti-stress aléatoire de niveau 2." #NT!
+ stress_threshold_level_3_event_tooltip: "Obtenez une pause anti-stress aléatoire de niveau 3." #NT!
+  
+ POD_calling_song_interaction: "Chanson d'appel" #NT!
+ POD_calling_song_interaction_desc: "Invoquez [recipient.GetFirstNamePossessive] courtisans et invités à votre emplacement." #NT!
+ POD_calling_song_interaction_sucess: "Vous avez utilisé avec succès le pouvoir de la voix sur [recipient.GetFirstNamePossessive] courtisans et invités." #NT!
+ POD_calling_song_interaction_fail: "Vous ne parvenez pas à chanter la musique." #NT!
+  
+ POD_madrigal_interaction: "Madrigal" #NT!
+  
+ POD_aid_from_spirits_perk_interaction: "Réveiller l’esprit d’artefact" #NT!
+ POD_aid_from_spirits_perk_interaction_desc: "Réveillez l’esprit d’un artefact que vous possédez." #NT!
+ POD_interaction_artifact_prowess_modifier: "Modificateur de prouesse d'amélioration" #NT!
+ POD_interaction_artifact_diplomacy_modifier: "Améliorer le modificateur de diplomatie" #NT!
+ POD_interaction_artifact_martial_modifier: "Améliorer le modificateur martial" #NT!
+ POD_interaction_artifact_stewardship_modifier: "Modificateur d'intendance de mise à niveau" #NT!
+ POD_interaction_artifact_intrigue_modifier: "Améliorer le modificateur d'intrigue" #NT!
+ POD_interaction_artifact_learning_modifier: "Modificateur d'apprentissage de mise à niveau" #NT!
+ POD_interaction_add_artifact_modifier: "Ajouter un modificateur aléatoire" #NT!
+  
+ POD_hunt_spirit_interaction: "Esprit de chasse" #NT!
+ POD_hunt_spirit_interaction_desc: "Chassez un esprit animal dans votre région et consommez-le." #NT!
+  
+ POD_pariahs_caress_perk_interaction: "La caresse du paria" #NT!
+ POD_pariahs_caress_perk_interaction_desc: "Faites en sorte que [recipient.GetFirstName] ne soit pas apprécié par tout le monde, ce qui rend toutes leurs interactions sociales plus difficiles." #NT!
+  
+ POD_king_davids_blessing_perk_interaction: "La bénédiction du roi David" #NT!
+ POD_king_davids_blessing_perk_interaction_desc: "Guérison [recipient.GetFirstNamePossessive] trait de stress." #NT!
+  
+ POD_unburden_the_bestial_soul_perk_interaction: "Déchargez l'âme bestiale" #NT!
+ POD_unburden_the_bestial_soul_perk_interaction_desc: "Augmentez [recipient.GetFirstNamePossessive] Vertus ou guérissez les Dérangements." #NT!
+ POD_interaction_cure_derangements: "Guérir les dérangements" #NT!
+  
+ POD_souls_breath_perk_interaction: "Souffle de subsistance" #NT!
+ POD_souls_breath_perk_interaction_desc: "Consommez [recipient.GetFirstNamePossessive] souffle pour nourrir la faim." #NT!
+  
+ POD_rayzeels_song_interaction: "La chanson de Rayzeel" #NT!
+ POD_rayzeels_song_interaction_desc: "Guérissez toutes les blessures et maladies de tous les courtisans et invités [recipient.GetFirstNamePossessive]." #NT!
+  
+ POD_sword_of_the_righteous_perk_interaction: "Épée des Justes" #NT!
+ POD_sword_of_the_righteous_perk_interaction_desc: "Utilisez la vitae pour augmenter les prouesses de l'artefact d'arme ciblé." #NT!
+  
+ POD_dagons_call_perk_interaction: "L'appel de Dagon" #NT!
+ POD_dagons_call_perk_interaction_desc: "Causer du mal de loin à [recipient.GetFirstName]." #NT!
+  
+ POD_cleansed_in_blood_perk_interaction: "Purifié dans le sang" #NT!
+ POD_cleansed_in_blood_perk_interaction_desc: "Nettoyer le changement de forme [recipient.GetFirstNamePossessive]." #NT!
+ POD_cleansed_in_blood_perk_interaction_sucess: "Succès" #NT!
+ POD_cleansed_in_blood_perk_interaction_fail: "Échouer" #NT!
+  
+ POD_purification_perk_interaction: "Purification" #NT!
+ POD_purification_perk_interaction_desc: "Purifier [recipient.GetFirstNamePossessive] [battle_modifier|E]." #NT!
+ POD_thin_blood_perk_interaction: "Sang mince" #NT!
+ POD_thin_blood_perk_interaction_desc: "Donnez un modificateur qui rend [recipient.GetFirstName] incapable de guérir [recipient.GetHerHis] blessure." #NT!
+ POD_erosion_perk_interaction: "Érosion" #NT!
+ POD_erosion_perk_interaction_desc: "Donnez un modificateur qui fait perdre à [recipient.GetFirstName] tout [prowess|E]." #NT!
+  
+ POD_aura_absorption_perk_interaction: "Absorption d'aura" #NT!
+ POD_aura_absorption_perk_interaction_desc: "Réinitialiser [recipient.GetFirstNamePossessive] Résonance." #NT!
+  
+ POD_steal_the_mind_perk_interaction: "Voler l'esprit" #NT!
+ POD_steal_the_mind_perk_interaction_desc: "Supprimez temporairement les souvenirs et les connaissances du [recipient.GetFirstName]." #NT!
+  
+ POD_absorb_the_mind.100.t: "Absorber l'esprit" #NT!
+ POD_absorb_the_mind.100.desc: "Vous mangez l'esprit de [recipient.GetFirstNamePossessive] et accédez aux souvenirs et aux capacités de connaissances de [recipient.GetHerHis]." #NT!
+  
+ POD_basilisks_touch_perk_interaction: "Toucher du basilic" #NT!
+ POD_basilisks_touch_perk_interaction_desc: "Transformez [recipient.GetFirstName] en pierre." #NT!
+  
+ POD_stone_travel_perk_interaction: "Voyage en pierre" #NT!
+ POD_stone_travel_perk_interaction_desc: "Tunnel sous terre et déplacement vers l'emplacement [recipient.GetFirstNamePossessive]." #NT!
+  
+ POD_transmogrify_interaction: "Transmogrification" #NT!
+ POD_transmogrify_interaction_desc: "Avec l'utilisation du [discipline|E] de vicissitude, vous pouvez transmogrifier [recipient.GetFirstName] en une beauté ou une bête." #NT!
+  
+ POD_masquerade_risk_decrease_necromancy_ashes_to_ashes_tt: "Ma Nécromancie [discipline|E] de Cendres en Cendres diminue mon risque de [masquerade_exposure|E]." #NT!
+ POD_masquerade_risk_decrease_necromancy_tend_the_body_garden_tt: "Ma Nécromancie [discipline|E] de Tend the Body Garden diminue mon risque de [masquerade_exposure|E]." #NT!
+  
+ POD_find_wraith_interaction: "Trouver Spectre" #NT!
+ POD_find_wraith_interaction_desc: "Recherchez sur votre territoire un [GetTrait('wraith').GetName( GetPlayer )] vulnérable à vos actions." #NT!
+  
+ POD_curse_of_the_maelstrom_interaction: "Malédiction du Maelström" #NT!
+ POD_curse_of_the_maelstrom_interaction_desc: "Invoquez des Spectres pour semer le chaos et la destruction sur la capitale ennemie" #NT!
+ POD_curse_of_the_maelstrom_interaction.tt: "Invoquez des Spectres pour semer le chaos et la destruction sur la capitale ennemie, réduisant la vitesse de construction, les revenus fiscaux et le contrôle." #NT!
+ POD_capital_county_maelstrom_cursed_toast: "[attacker.GetFirstName] a invoqué des Spectres pour faire des ravages dans votre capitale !" #NT!
+ POD_maelstrom_cursed_enemy_realm_toast: "Les spectres sévissent dans la capitale [target.GetFirstNamePossessive]" #NT!
+  
+ POD_wails_and_whispers_interaction: "Lamentations et murmures" #NT!
+ POD_wails_and_whispers_interaction_desc: "Réduire la résistance des cibles aux projets de meurtre" #NT!
+ POD_wails_and_whispers_interaction.tt: "En utilisant vos pouvoirs de nécromancie, vous pouvez rendre la cible plus vulnérable aux projets de meurtre pendant 5 ans." #NT!
+ POD_wails_and_whispers_actor_toast: "Succès!" #NT!
+ POD_wails_and_whispers_actor_toast.desc: "[recipient.GetFirstName] est plus vulnérable aux stratagèmes hostiles" #NT!
+ POD_wails_and_whispers_enemy_toast: "Désespoir!" #NT!
+ POD_wails_and_whispers_enemy_toast.desc: "[actor.GetFirstName] vous a maudit en utilisant Wails and Whispers !" #NT!
+ POD_wails_and_whispers_failure_toast: "Échec!" #NT!
+ POD_wails_and_whispers_failure_toast.desc: "Vous ne parvenez pas à utiliser Wails and Whispers sur [recipient.GetFirstName] !" #NT!
+  
+ POD_cthonic_womb_perk_effect.tt: "[victim.GetFirstName] reviendra de la mort en tant que [GetTrait('wraith').GetName( GetPlayer )]" #NT!
+  
+ POD_intimations_of_mortality_perk_interaction: "Indications de mortalité" #NT!
+ POD_intimations_of_mortality_interaction_desc: "Maudit le vampire cible avec les aspects les plus désagréables et irritants de la mortalité." #NT!
+ POD_intimations_of_mortality_interaction.tt: "En utilisant vos pouvoirs de nécromancie, vous pouvez rendre la cible moins capable de gérer le stress et l'empêcher d'utiliser Blood Surge pendant 1 an." #NT!
+ POD_intimations_of_mortality_actor_toast: "Succès!" #NT!
+ POD_intimations_of_mortality_actor_toast.desc: "[recipient.GetFirstName] est plus vulnérable au stress" #NT!
+ POD_intimations_of_mortality_enemy_toast: "Faiblesse!" #NT!
+ POD_intimations_of_mortality_enemy_toast.desc: "[actor.GetFirstName] vous a maudit en utilisant Intimations of Mortality !" #NT!
+ POD_intimations_of_mortality_failure_toast: "Échec!" #NT!
+ POD_intimations_of_mortality_failure_toast.desc: "Vous ne parvenez pas à utiliser les indications de mortalité sur [recipient.GetFirstName] !" #NT!
+  
+ POD_gift_of_melancholia_perk_interaction: "Don de mélancolie" #NT!
+ POD_gift_of_melancholia_interaction_desc: "Infligez une maladie débilitante virulente au royaume ennemi. La maladie est très contagieuse parmi les mortels, qui peuvent la transmettre entre eux par simple proximité." #NT!
+ POD_gift_of_melancholia_interaction.tt: "Infligez une maladie débilitante virulente au royaume ennemi. La maladie est très contagieuse parmi les mortels, qui peuvent la transmettre entre eux par simple proximité." #NT!
+ POD_gift_of_melancholia_actor_toast: "La maladie sévit dans le royaume [recipient.GetFirstNamePossessive]" #NT!
+ POD_gift_of_melancholia_actor_toast.desc: "J'espère que tu ne regretteras pas ça" #NT!
+ POD_gift_of_melancholia_enemy_toast: "La maladie sévit dans votre royaume" #NT!
+ POD_gift_of_melancholia_enemy_toast.desc: "Il semble impossible de s'arrêter à ce stade" #NT!
+ POD_gift_of_melancholia_failure_toast: "Vous ne parvenez pas à propager la maladie dans le royaume [recipient.GetFirstNamePossessive]" #NT!
+ POD_gift_of_melancholia_failure_toast.desc: "Mais il y aura d'autres opportunités à l'avenir..." #NT!
+ POD_gift_of_melancholia_interaction_success: "La maladie éclatera dans le comté de la capitale [target.GetFirstNamePossessive] et se propagera à partir de là au fil du temps." #NT!
+ POD_gift_of_melancholia_interaction_failure: "La maladie ne parvient pas à s’installer" #NT!
+  
+ POD_witchs_fruit_interaction: "Fruit de la sorcière" #NT!
+ POD_witchs_fruit_interaction_desc: "Utilisez l'intrigue pour tromper un mortel et lui faire consommer de la matière végétale comestible exposée aux énergies nécrotiques." #NT!
+ POD_witchs_fruit_interaction.tt: "Utilisez l'intrigue pour tromper un mortel et lui faire consommer de la matière végétale comestible exposée aux énergies nécrotiques." #NT!
+ POD_witchs_fruit_actor_toast: "Succès!" #NT!
+ POD_witchs_fruit_actor_toast.desc: "Comment aimez-vous ces pommes [recipient.GetFirstName] ?" #NT!
+ POD_witchs_fruit_enemy_toast: "Confusion!" #NT!
+ POD_witchs_fruit_enemy_toast.desc: "Quelque chose que tu as mangé ne te convient vraiment pas" #NT!
+ POD_witchs_fruit_failure_toast: "Échec!" #NT!
+ POD_witchs_fruit_failure_toast.desc: "[recipient.GetFirstName] n'a pas consommé le Fruit de la Sorcière" #NT!
+  
+ POD_raise_the_green_one_interaction: "Élevons le vert" #NT!
+ POD_raise_the_green_one_interaction_desc: "Relevez un cadavre lié et renforcé par de la matière végétale." #NT!
+ POD_raise_the_green_one_interaction.tt: "Relevez un cadavre lié et renforcé par de la matière végétale. Les feuilles qui recouvrent sa peau et ses vignes solides complètent ses tendons pourris. La coquille vivante confère une vitesse et un instinct de conservation que l'on ne voit pas chez les autres morts animés." #NT!
+  
+ POD_song_of_the_dead_interaction: "Chanson des morts" #NT!
+ POD_song_of_the_dead_interaction_desc: "Faire en sorte que la cible gagne du stress au fil du temps" #NT!
+ POD_song_of_the_dead_interaction.tt: "Faire en sorte que la cible gagne du stress au fil du temps" #NT!
+ POD_song_of_the_dead_disable_interaction: "Arrête de chanter" #NT!
+ POD_song_of_the_dead_disable_interaction_desc: "Tu arrêtes de chanter le chant des morts" #NT!
+ POD_song_of_the_dead_disable_interaction.tt: "Vous arrêtez de chanter le Chant des Morts et laissez enfin la cible se détendre." #NT!
+ POD_song_of_the_dead_actor_toast: "Succès!" #NT!
+ POD_song_of_the_dead_actor_toast.desc: "[target.GetFirstName] est affecté par votre Chant des Morts" #NT!
+ POD_song_of_the_dead_enemy_toast: "Désespoir!" #NT!
+ POD_song_of_the_dead_enemy_toast.desc: "[attacker.GetFirstName] vous a infligé son Chant des Morts" #NT!
+ POD_song_of_the_dead_failure_toast: "Échec!" #NT!
+ POD_song_of_the_dead_failure_toast.desc: "[target.GetFirstName] n'est pas affecté par votre Chant des Morts" #NT!
+ POD_song_of_the_dead_disaster_toast: "Catastrophe!" #NT!
+ POD_song_of_the_dead_disaster_toast.desc: "Vous êtes affecté par le sort que vous avez cherché à infliger au [recipient.GetFirstName]." #NT!
+ POD_song_of_the_dead_continues_toast: "Le chant des morts continue" #NT!
+ POD_song_of_the_dead_continues_toast.desc: "C'est la chanson qui ne finit jamais..." #NT!
+ POD_song_of_the_dead_continues_target_toast.desc: "[attacker.GetFirstName] chante toujours le Chant des Morts" #NT!
+ POD_song_of_the_dead_ends_toast: "Le chant des morts se termine" #NT!
+ POD_song_of_the_dead_ends_attacker_toast.desc: "Vous arrêtez de chanter le Chant des Morts au [target.GetFirstName]" #NT!
+ POD_song_of_the_dead_ends_target_toast.desc: "[attacker.GetFirstName] ne vous chante plus le Chant des Morts" #NT!
+  
+ POD_soul_feasting_character_interaction: "Festin d'âme" #NT!
+ POD_soul_feasting_character_interaction_desc: "Consommez l'énergie du [recipient.GetFirstName] en remplacement du sang." #NT!
+  
+ POD_degulo_interaction: "Activer/Désactiver Dégulo" #NT!
+ POD_degulo_interaction_desc: "Activez ou désactivez l'alimentation Degulo." #NT!
+  
+ POD_exchange_stat_interaction: "Attribut d'échange" #NT!
+ POD_exchange_stat_interaction_desc: "Échangez un attribut de base avec ceux de quelqu'un dont vous avez le crâne bouilli." #NT!
+ stat_diff_is_too_high: "La différence [skill|E] est trop élevée !" #NT!
+  
+ POD_exchange_discipline_interaction: "Discipline d'échange" #NT!
+ POD_exchange_discipline_interaction_desc: "Échangez une discipline avec celles de quelqu'un dont vous avez le crâne bouilli." #NT!
+  
+ POD_taming_the_beast_interaction: "Apprivoiser la bête" #NT!
+ POD_taming_the_beast_interaction_desc: "Utilisez les parties sauvages de votre personnalité pour améliorer vos prouesses physiques de plusieurs manières." #NT!
+ POD_taming_the_beast_interaction_options_heading: "Qu'utiliserez-vous votre bête pour améliorer ?" #NT!
+ POD_taming_the_beast_prowess: "Prouesse" #NT!
+ POD_taming_the_beast_health: "Santé" #NT!
+ POD_taming_the_beast_martial: "Compétence martiale" #NT!
+  
+ taming_the_beast_prowess_modifier: "Apprivoiser la bête : prouesse" #NT!
+ taming_the_beast_health_modifier: "Apprivoiser la bête : santé" #NT!
+ taming_the_beast_martial_modifier: "Apprivoiser la bête : Martial" #NT!
+  
+ POD_predators_mastery_interaction: "Maîtrise du prédateur" #NT!
+ POD_predators_mastery_interaction_desc: "Utilisez votre bête pour dominer l'un de vos invités ou courtisans en obtenant une forte adhérence sur eux." #NT!
+ POD_predators_mastery_interaction_accept: "Vous utiliserez votre synthèse mystique avec votre propre Bête pour acquérir une forte accroche sur [recipient.GetFirstNameNoTooltip]" #NT!
+ POD_predators_mastery_interaction_success_toast: "Succès!" #NT!
+ POD_predators_mastery_interaction_success_toast_tt: "Vous avez acquis une solide accroche sur [recipient.GetFirstNameNoTooltip]" #NT!
+ POD_predators_mastery_interaction_failure_toast: "Échec!" #NT!
+ POD_predators_mastery_interaction_failure_toast_tt: "Vous ne parvenez pas à obtenir une accroche solide sur [recipient.GetFirstNameNoTooltip]" #NT!
+  
+ POD_vampshapeshift_interaction_incarnate_darkness: "Ténèbres incarnées" #NT!
+ POD_shapeshift_form_incarnate_darkness_modifier: "Forme des Ténèbres Incarnées" #NT!
+  
+ POD_train_disciplines_interaction: "Entraîner [discipline|E]" #NT!
+ POD_train_disciplines_interaction_desc: "Apprenez à [recipient.GetFirstName] l'un de vos [disciplines|E]" #NT!
+  
+ POD_mass_train_disciplines_knight_interaction: "Train de masse [discipline|E] #Weak (Chevalier)#!" #NT!
+ POD_mass_train_disciplines_knight_interaction_desc: "Apprenez à votre chevalier un de vos [disciplines|E]" #NT!
+ POD_train_knight_celerity: "Un chevalier aléatoire gagnera [GetTrait('celerity').GetName(GetNullCharacter)] s'il ne l'a pas déjà." #NT!
+ POD_train_knight_potence: "Un chevalier aléatoire gagnera [GetTrait('potence').GetName(GetNullCharacter)] s'il ne l'a pas déjà." #NT!
+ POD_train_knight_vicissitude: "Un chevalier aléatoire gagnera [GetTrait('vicissitude').GetName(GetNullCharacter)] s'il ne l'a pas déjà." #NT!
+ POD_train_knight_valeren: "Un chevalier aléatoire gagnera [GetTrait('valeren').GetName(GetNullCharacter)] s'il ne l'a pas déjà." #NT!
+ POD_train_knight_auspex: "Un chevalier aléatoire gagnera [GetTrait('auspex').GetName(GetNullCharacter)] s'il ne l'a pas déjà." #NT!
+ POD_train_knight_dominate: "Un chevalier aléatoire gagnera [GetTrait('dominate').GetName(GetNullCharacter)] s'il ne l'a pas déjà." #NT!
+ POD_train_knight_temporis: "Un chevalier aléatoire gagnera [GetTrait('temporis').GetName(GetNullCharacter)] s'il ne l'a pas déjà." #NT!
+ POD_train_knight_dementation: "Un chevalier aléatoire gagnera [GetTrait('dementation').GetName(GetNullCharacter)] s'il ne l'a pas déjà." #NT!
+ POD_train_knight_melpominee: "Un chevalier aléatoire gagnera [GetTrait('melpominee').GetName(GetNullCharacter)] s'il ne l'a pas déjà." #NT!
+ POD_train_knight_mytherceria: "Un chevalier aléatoire gagnera [GetTrait('mytherceria').GetName(GetNullCharacter)] s'il ne l'a pas déjà." #NT!
+ POD_train_knight_bloodsorcery: "Un chevalier aléatoire gagnera [GetTrait('bloodsorcery').GetName(GetNullCharacter)] s'il ne l'a pas déjà." #NT!
+ POD_train_knight_presence: "Un chevalier aléatoire gagnera [GetTrait('presence').GetName(GetNullCharacter)] s'il ne l'a pas déjà." #NT!
+ POD_train_knight_daimonion: "Un chevalier aléatoire gagnera [GetTrait('daimonion').GetName(GetNullCharacter)] s'il ne l'a pas déjà." #NT!
+ POD_train_knight_quietus: "Un chevalier aléatoire gagnera [GetTrait('quietus').GetName(GetNullCharacter)] s'il ne l'a pas déjà." #NT!
+ POD_train_knight_fortitude: "Un chevalier aléatoire gagnera [GetTrait('fortitude').GetName(GetNullCharacter)] s'il ne l'a pas déjà." #NT!
+ POD_train_knight_obfuscate: "Un chevalier aléatoire gagnera [GetTrait('obfuscate').GetName(GetNullCharacter)] s'il ne l'a pas déjà." #NT!
+ POD_train_knight_obtenebration: "Un chevalier aléatoire gagnera [GetTrait('obtenebration').GetName(GetNullCharacter)] s'il ne l'a pas déjà." #NT!
+ POD_train_knight_necromancy: "Un chevalier aléatoire gagnera [GetTrait('necromancy').GetName(GetNullCharacter)] s'il ne l'a pas déjà." #NT!
+ POD_train_knight_chimerstry: "Un chevalier aléatoire gagnera [GetTrait('chimerstry').GetName(GetNullCharacter)] s'il ne l'a pas déjà." #NT!
+ POD_train_knight_visceratika: "Un chevalier aléatoire gagnera [GetTrait('visceratika').GetName(GetNullCharacter)] s'il ne l'a pas déjà." #NT!
+ POD_train_knight_bardo: "Un chevalier aléatoire gagnera [GetTrait('bardo').GetName(GetNullCharacter)] s'il ne l'a pas déjà." #NT!
+ POD_train_knight_animalism: "Un chevalier aléatoire gagnera [GetTrait('animalism').GetName(GetNullCharacter)] s'il ne l'a pas déjà." #NT!
+ POD_train_knight_protean: "Un chevalier aléatoire gagnera [GetTrait('protean').GetName(GetNullCharacter)] s'il ne l'a pas déjà." #NT!
+ POD_train_knight_serpentis: "Un chevalier aléatoire gagnera [GetTrait('serpentis').GetName(GetNullCharacter)] s'il ne l'a pas déjà." #NT!
+ POD_train_knight_abombwe: "Un chevalier aléatoire gagnera [GetTrait('abombwe').GetName(GetNullCharacter)] s'il ne l'a pas déjà." #NT!
+ POD_train_knight_spiritus: "Un chevalier aléatoire gagnera [GetTrait('spiritus').GetName(GetNullCharacter)] s'il ne l'a pas déjà." #NT!
+ POD_train_knight_thinbloodalchemy: "Un chevalier aléatoire gagnera [GetTrait('thinbloodalchemy').GetName(GetNullCharacter)] s'il ne l'a pas déjà." #NT!
+ POD_mass_train_disciplines_vassal_interaction: "Train de masse [discipline|E] #Weak (Vassal)#!" #NT!
+ POD_mass_train_disciplines_vassal_interaction_desc: "Apprenez à votre vassal un de vos [disciplines|E]" #NT!
+ POD_train_vassal_celerity: "Un vassal aléatoire gagnera [GetTrait('celerity').GetName(GetNullCharacter)] s'il ne l'a pas déjà." #NT!
+ POD_train_vassal_potence: "Un vassal aléatoire gagnera [GetTrait('potence').GetName(GetNullCharacter)] s'il ne l'a pas déjà." #NT!
+ POD_train_vassal_vicissitude: "Un vassal aléatoire gagnera [GetTrait('vicissitude').GetName(GetNullCharacter)] s'il ne l'a pas déjà." #NT!
+ POD_train_vassal_valeren: "Un vassal aléatoire gagnera [GetTrait('valeren').GetName(GetNullCharacter)] s'il ne l'a pas déjà." #NT!
+ POD_train_vassal_auspex: "Un vassal aléatoire gagnera [GetTrait('auspex').GetName(GetNullCharacter)] s'il ne l'a pas déjà." #NT!
+ POD_train_vassal_dominate: "Un vassal aléatoire gagnera [GetTrait('dominate').GetName(GetNullCharacter)] s'il ne l'a pas déjà." #NT!
+ POD_train_vassal_temporis: "Un vassal aléatoire gagnera [GetTrait('temporis').GetName(GetNullCharacter)] s'il ne l'a pas déjà." #NT!
+ POD_train_vassal_dementation: "Un vassal aléatoire gagnera [GetTrait('dementation').GetName(GetNullCharacter)] s'il ne l'a pas déjà." #NT!
+ POD_train_vassal_melpominee: "Un vassal aléatoire gagnera [GetTrait('melpominee').GetName(GetNullCharacter)] s'il ne l'a pas déjà." #NT!
+ POD_train_vassal_mytherceria: "Un vassal aléatoire gagnera [GetTrait('mytherceria').GetName(GetNullCharacter)] s'il ne l'a pas déjà." #NT!
+ POD_train_vassal_bloodsorcery: "Un vassal aléatoire gagnera [GetTrait('bloodsorcery').GetName(GetNullCharacter)] s'il ne l'a pas déjà." #NT!
+ POD_train_vassal_presence: "Un vassal aléatoire gagnera [GetTrait('presence').GetName(GetNullCharacter)] s'il ne l'a pas déjà." #NT!
+ POD_train_vassal_daimonion: "Un vassal aléatoire gagnera [GetTrait('daimonion').GetName(GetNullCharacter)] s'il ne l'a pas déjà." #NT!
+ POD_train_vassal_quietus: "Un vassal aléatoire gagnera [GetTrait('quietus').GetName(GetNullCharacter)] s'il ne l'a pas déjà." #NT!
+ POD_train_vassal_fortitude: "Un vassal aléatoire gagnera [GetTrait('fortitude').GetName(GetNullCharacter)] s'il ne l'a pas déjà." #NT!
+ POD_train_vassal_obfuscate: "Un vassal aléatoire gagnera [GetTrait('obfuscate').GetName(GetNullCharacter)] s'il ne l'a pas déjà." #NT!
+ POD_train_vassal_obtenebration: "Un vassal aléatoire gagnera [GetTrait('obtenebration').GetName(GetNullCharacter)] s'il ne l'a pas déjà." #NT!
+ POD_train_vassal_necromancy: "Un vassal aléatoire gagnera [GetTrait('necromancy').GetName(GetNullCharacter)] s'il ne l'a pas déjà." #NT!
+ POD_train_vassal_chimerstry: "Un vassal aléatoire gagnera [GetTrait('chimerstry').GetName(GetNullCharacter)] s'il ne l'a pas déjà." #NT!
+ POD_train_vassal_visceratika: "Un vassal aléatoire gagnera [GetTrait('visceratika').GetName(GetNullCharacter)] s'il ne l'a pas déjà." #NT!
+ POD_train_vassal_bardo: "Un vassal aléatoire gagnera [GetTrait('bardo').GetName(GetNullCharacter)] s'il ne l'a pas déjà." #NT!
+ POD_train_vassal_animalism: "Un vassal aléatoire gagnera [GetTrait('animalism').GetName(GetNullCharacter)] s'il ne l'a pas déjà." #NT!
+ POD_train_vassal_protean: "Un vassal aléatoire gagnera [GetTrait('protean').GetName(GetNullCharacter)] s'il ne l'a pas déjà." #NT!
+ POD_train_vassal_serpentis: "Un vassal aléatoire gagnera [GetTrait('serpentis').GetName(GetNullCharacter)] s'il ne l'a pas déjà." #NT!
+ POD_train_vassal_abombwe: "Un vassal aléatoire gagnera [GetTrait('abombwe').GetName(GetNullCharacter)] s'il ne l'a pas déjà." #NT!
+ POD_train_vassal_spiritus: "Un vassal aléatoire gagnera [GetTrait('spiritus').GetName(GetNullCharacter)] s'il ne l'a pas déjà." #NT!
+ POD_train_vassal_thinbloodalchemy: "Un vassal aléatoire gagnera [GetTrait('thinbloodalchemy').GetName(GetNullCharacter)] s'il ne l'a pas déjà." #NT!
+  
+  
+ POD_embrace_prisoner_interaction: "[Embrace|E] Prisonnier" #NT!
+ POD_embrace_prisoner_interaction_desc: "Faites de [recipient.GetFirstName] votre enfant de force." #NT!
+ POD_embrace_prisoner_interaction.tt: "[recipient.GetFirstName] peut devenir votre enfant, ou non..." #NT!
+  
+ embracerecommendation_interaction: "Recommander [Embrace|E]" #NT!
+ embracerecommendation_interaction_desc: "Recommandez [recipient.GetFirstName] [Embrace|E] à un mortel de votre cour ou [recipient.GetHerHis]." #NT!
+ recipient_secondary_embracerecommendation_interaction: "Mortel recommandé" #NT!
+ liege_vassal_contract_forbids_progeny: "[recipient.GetFirstNamePossessive|U] [feudal_contract|E] interdit [Embrace|E]" #NT!
+  
+ POD_create_homunculus_interaction: "Créer un homoncule" #NT!
+ POD_create_homunculus_interaction_desc: "Créez un clone mortel de vous-même." #NT!
+  
+ POD_mask_of_a_thousand_faces_interaction: "Masque" #NT!
+ POD_mask_of_a_thousand_faces_interaction_desc: "Copiez ou échangez l'apparence de [recipient.GetFirstName]." #NT!
+ POD_old_friend_interaction: "Vieil ami" #NT!
+ POD_old_friend_interaction_desc: "Devenez un ami [recipient.GetFirstNamePossessive]." #NT!
+ POD_create_name_interaction: "Créer un nom" #NT!
+ POD_create_name_interaction_desc: "Supprimez tous les [hook|E], revendications, trêves, connaissances secrètes et relations du [recipient.GetFirstName]." #NT!
+  
+ POD_horrid_blade_of_the_demons_interaction: "Horrible lame des démons" #NT!
+ POD_horrid_blade_of_the_demons_interaction_desc: "Créez une arme dangereuse à partir de rien." #NT!
+ POD_mirror_duplicate_interaction: "Visage du miroir" #NT!
+ POD_mirror_duplicate_interaction_desc: "Créez des doublons de vous-même." #NT!
+ POD_sensory_deprivation_interaction: "Privation sensorielle" #NT!
+ POD_sensory_deprivation_interaction_desc: "Rendre un [recipient.GetFirstName] incapable d'utiliser les sens [recipient.GetHerHis]." #NT!
+  
+ POD_discern_the_aura_interaction: "Discerner l'Aura" #NT!
+ POD_discern_the_aura_interaction_desc: "Trouvez un mortel avec des attributs spécifiques." #NT!
+ POD_discern_the_aura_interaction_effect: "Vous pourrez choisir le [skills|E] du mortel que vous recherchez." #NT!
+ POD_the_mind_revealed_interaction: "Révéler le schéma" #NT!
+ POD_the_mind_revealed_interaction_desc: "Découvrez chaque schéma du [recipient.GetFirstName]." #NT!
+ POD_personality_metamorph_interaction: "Métamorphose de la personnalité" #NT!
+ POD_personality_metamorph_interaction_desc: "Cela ouvrira un menu qui vous permettra de modifier votre personnalité." #NT!
+ POD_omniscience_interaction: "Révéler le secret" #NT!
+ POD_omniscience_interaction_desc: "Découvrez tous les secrets du [recipient.GetFirstName]." #NT!
+ POD_sexuality_metamorph_interaction: "Métamorphose de la sexualité" #NT!
+ POD_sexuality_metamorph_interaction_desc: "Changez votre sexualité." #NT!
+  
+ POD_fleshcrafting_character_interaction: "Fabrication de chair" #NT!
+ POD_fleshcrafting_character_interaction_desc: "Transformez [recipient.GetFirstName] en un artefact vivant." #NT!
+ POD_fleshcrafting_character_interaction_mount: "Monter" #NT!
+ artifact_fleshcrafted_artifact_name: "[killed.GetFirstNameNoTooltip]" #NT!
+ artifact_fleshcrafted_artifact_description: "Un artefact de chair qui était [killed.GetTitledFirstNameNoTooltip], tué par [owner.GetTitledFirstNameNoTooltip]." #NT!
+  
+ POD_liquefy_the_mortal_coil_interaction: "Liquéfier la bobine mortelle" #NT!
+ POD_liquefy_the_mortal_coil_interaction_desc: "Transformez [recipient.GetFirstName] parties du corps en sang." #NT!
+  
+ POD_will_over_form_interaction: "La volonté sur la forme" #NT!
+ POD_will_over_form_interaction_desc: "Utilisez Vicissitude sur [recipient.GetFirstName] à distance." #NT!
+  
+ POD_fist_of_the_titans_interaction: "Poing des Titans" #NT!
+ POD_fist_of_the_titans_interaction_desc: "Attaquez tous les chevaliers [recipient.GetFirstNamePossessive] par télékinésie." #NT!
+ POD_the_forgers_hammer_interaction: "Le marteau du faussaire" #NT!
+ POD_the_forgers_hammer_interaction_desc: "Augmente la prouesse de l'artefact d'arme ciblé." #NT!
+ POD_lend_the_supernatural_vigor_interaction: "Donnez la vigueur surnaturelle" #NT!
+ POD_lend_the_supernatural_vigor_interaction_desc: "Accorde vos prouesses à [recipient.GetFirstName]." #NT!
+  
+ POD_quickness_decision_interaction: "Rapidité #Weak (Décision)#!" #NT!
+ POD_quickness_decision_interaction_desc: "Supprimez le temps de recharge de la décision." #NT!
+ POD_quickness_scheme_interaction: "Rapidité #Weak (Schéma)#!" #NT!
+ POD_quickness_scheme_interaction_desc: "Supprimer le temps de recharge du schéma." #NT!
+ POD_time_out_of_time_interaction: "Temps hors du temps" #NT!
+ POD_time_out_of_time_interaction_desc: "Accélérer l’avancement du projet." #NT!
+ POD_between_the_ticks_interaction: "Entre les tiques" #NT!
+ POD_between_the_ticks_interaction_desc: "Gagnez le modificateur [GetModifier('POD_between_the_ticks_modifier').GetNameWithTooltip]." #NT!
+  
+ ventrue_bane_warning: "Ce personnage n'est pas conforme à votre Ventrue [feeding_restrictions|E] !" #NT!
+ POD_drink_herd_ventrue_weakness.t: "Faiblesse des Ventrues" #NT!
+ POD_drink_herd_ventrue_weakness_desc: "Ce membre du troupeau est désormais incompatible avec votre Ventrue [feeding_restrictions|E] et a été automatiquement supprimé de votre troupeau." #NT!
+ ghoul_herd_warning: "Faire d’un mortel votre goule réduira considérablement la quantité de résonance que son sang peut fournir." #NT!
+  
+ POD_paradox_perk_interaction: "Paradoxe" #NT!
+ POD_paradox_perk_interaction_desc: "Prononcez un mot qui empêchera un chef de faction d'essayer de s'insurger contre vous." #NT!
+ POD_boon_of_anubis_perk_interaction: "Bénédiction d'Anubis" #NT!
+ POD_boon_of_anubis_perk_interaction_desc: "Donnez [recipient.GetFirstName] [GetModifier('boon_of_anubis_perk_modifier').GetNameWithTooltip]." #NT!
+ POD_mummification_ritual_perk_interaction: "Rituel de momification" #NT!
+ POD_mummification_ritual_perk_interaction_desc: "Faites entrer [recipient.GetFirstName] [torpor|E]." #NT!
+  
+ POD_thorns_caucus_interaction: "Négocier le vote #weak (Caucus)#!" #NT!
+ POD_thorns_caucus_interaction_desc: "Faites en sorte que [recipient.GetFirstName] choisisse la même option de vote que vous." #NT!
+ POD_thorns_caucus_interaction.tt: "[recipient.GetFirstName] choisira la même option de vote que la vôtre." #NT!
+ POD_thorns_abstention_interaction: "Négocier le vote #weak (Abstention)#!" #NT!
+ POD_thorns_abstention_interaction_desc: "Faites en sorte que [recipient.GetFirstName] renonce à chaque vote." #NT!
+ POD_thorns_abstention_interaction.tt: "[recipient.GetFirstName] renoncera à chaque vote." #NT!
+ POD_thorns_negotiate_doctrine_vote_interaction: "Négocier le vote" #NT!
+ POD_thorns_negotiate_doctrine_vote_interaction_desc: "Faites en sorte que [recipient.GetFirstName] choisisse la même option de vote que vous." #NT!
+ POD_thorns_negotiate_doctrine_vote_interaction.tt: "[recipient.GetFirstName] choisissez la même option de vote que vous." #NT!
+  
+ blood_hunt_call_interaction: "Appelez une chasse au sang" #NT!
+ blood_hunt_call_interaction_desc: "Appelez [recipient.GetShortUINameNoTooltip] pour servir la Camarilla dans une guerre de chasse au sang" #NT!
+  
+ POD_justicar_request_gold_interaction: "Saisir l’or" #NT!
+ POD_justicar_request_gold_interaction_desc: "Abusez de votre pouvoir en tant que [actor.Custom('CamarillaStatus')] et récupérez l'or [recipient.GetFirstNamePossessive]." #NT!
+ POD_justicar_request_artifact_interaction: "Saisir un artefact" #NT!
+ POD_justicar_request_artifact_interaction_desc: "Abusez de votre pouvoir en tant que [actor.Custom('CamarillaStatus')] et saisissez l'artefact [recipient.GetFirstNamePossessive]." #NT!
+ POD_justicar_claim_title_interaction: "Titre de revendication" #NT!
+ POD_justicar_claim_title_interaction_desc: "Abusez de votre pouvoir en tant que [actor.Custom('CamarillaStatus')] et revendiquez le titre [recipient.GetFirstNamePossessive]." #NT!
+ POD_justicar_request_guest_interaction: "Saisir le courtisan" #NT!
+ POD_justicar_request_guest_interaction_desc: "Abusez de votre pouvoir en tant que [actor.Custom('CamarillaStatus')] et saisissez [recipient.GetFirstNamePossessive] courtisan ou invité." #NT!
+ recipient_secondary_POD_justicar_request_guest_interaction: "Courtisan" #NT!
+ POD_justicar_request_prisoner_interaction: "Saisir un prisonnier" #NT!
+ POD_justicar_request_prisoner_interaction_desc: "Abusez de votre pouvoir en tant que [actor.Custom('CamarillaStatus')] et capturez [recipient.GetFirstNamePossessive] prisonnier." #NT!
+ recipient_secondary_POD_justicar_request_prisoner_interaction: "Prisonnier" #NT!
+ POD_justicar_depose_interaction: "Déposer" #NT!
+ POD_justicar_depose_interaction_desc: "Abusez de votre pouvoir en tant que [actor.Custom('CamarillaStatus')] et déposez [recipient.GetFirstName]." #NT!
+ JUSTICAR_DEMAND_DEPOSE_PROPOSAL: "Votre règne a été jugé inadapté par la Camarilla, démissionnez ou faites face aux conséquences !" #NT!
+  
+ POD_send_alastor_interaction: "Envoyer Alastor" #NT!
+ POD_send_alastor_interaction_desc: "Envoyez un Alastor chasser un Anathema." #NT!
+ POD_alastor_hunting_interaction: "Chasser" #NT!
+ POD_alastor_hunting_interaction_desc: "En tant qu'Alastor, chassez [recipient.GetFirstName]." #NT!
+ POD_camarilla_add_bounty_interaction: "Ajouter une prime" #NT!
+ POD_camarilla_add_bounty_interaction_desc: "Ajoutez une prime à [recipient.GetFirstName]." #NT!
+ POD_camarilla_add_bounty_interaction_option_trophy: "Trophée" #NT!
+ POD_camarilla_add_bounty_interaction_option_trophy_tt: "Définir un trophée sur la tête [recipient.GetHerHis]" #NT!
+ GAINS_BOUNTY: "Ajouter une prime [gold_i] $VALUE|-0$" #NT!
+ GAINED_BOUNTY: "Ajout de la prime [gold_i] $VALUE|-0$" #NT!
+ I_GAIN_BOUNTY: "Vous ajoutez [gold_i] $VALUE|-0$ Bounty" #NT!
+ I_GAINED_BOUNTY: "Vous avez ajouté [gold_i] $VALUE|-0$ Bounty" #NT!
+  
+ POD_request_anathema_interaction: "Pétition au conclave" #NT!
+ POD_request_anathema_interaction_desc: "Demandez à un conclave de Justicars de déclarer [recipient.GetFirstName] Anathème en raison du [recipient.GetHerHis] crime." #NT!
+ actor_secondary_POD_request_anathema_interaction: "Justicier" #NT!
+ conclave_debate.t: "Conclave improvisé" #NT!
+ conclave_debate.desc: "[actor.GetFirstName] vous a demandé d'examiner un cas potentiel d'Anathema. Le [recipient.GetFirstName] devrait-il être reconnu comme Anathème ?" #NT!
+ POD_request_anathema_interaction.tt_success: "Le Justicar déclare que [recipient.GetFirstName] ne vaut pas son temps." #NT!
+ POD_request_anathema_interaction.tt_failure: "Le Justicar déclare que [recipient.GetFirstName] est une menace qui devrait faire l'objet d'une chasse au sang." #NT!
+ POD_set_anathema_interaction: "Déclarer l'anathème" #NT!
+ POD_set_anathema_interaction_desc: "Déclarez que [recipient.GetFirstName] est un anathème en raison du crime [recipient.GetHerHis]." #NT!
+ POD_remove_anathema_interaction: "Soulever l'anathème" #NT!
+ POD_remove_anathema_interaction_desc: "Déclarez que [recipient.GetFirstName] n'est plus un anathème." #NT!
+ POD_lift_anathema_interaction: "Demander la levée de l’anathème" #NT!
+ POD_lift_anathema_interaction_desc: "Demandez au [recipient.GetFirstName] de lever l'Anathème sur vous." #NT!
+  
+ wild_hunt_call_interaction: "Appelez une chasse sauvage" #NT!
+ wild_hunt_call_interaction_desc: "Appelez [recipient.GetShortUINameNoTooltip] pour servir le Sabbat dans une guerre de chasse sauvage." #NT!
+  
+ POD_cardinal_depose_interaction: "Abus de pouvoir : Déposer" #NT!
+ POD_cardinal_depose_interaction_desc: "Abusez de votre pouvoir en tant que [actor.Custom('SabbatStatus')] et déposez [recipient.GetFirstName]." #NT!
+ CARDINAL_DEMAND_DEPOSE_PROPOSAL: "Votre règle a été jugée inadaptée par le Sabbat, démissionnez ou faites face aux conséquences !" #NT!
+ POD_cardinal_claim_title_interaction: "Titre de revendication" #NT!
+ POD_cardinal_claim_title_interaction_desc: "[claim|EU] un [title|E] dans votre Région Cardinale détenu par [recipient.GetShortUINameNoTooltip] pour vous-même" #NT!
+  
+ POD_sabbat_excommunicate_interaction: "Excommunication du sabbat" #NT!
+ POD_sabbat_excommunicate_interaction_desc: "[recipient.GetFirstNamePossessive] les méfaits vils sont un poison pour le [actor.GetFaith.GetAdjective] [faith|E]. [recipient.GetSheHe|U] sera [excommunicated|E] jusqu'à ce que [recipient.GetSheHe] se repente de [recipient.GetHerHis] mauvaises voies." #NT!
+ POD_sabbat_excommunicate_interaction_desc.tt: "[recipient.GetShortUIName] : Excommunié !" #NT!
+ POD_sabbat_excommunicated_by_cardinal_message: "[target_character.GetShortUIName] a été [excommunicated|E] par [requesting_character.GetShortUIName]" #NT!
+ POD_sabbat_excommunicated_by_regent_message: "[target_character.GetShortUIName] a été [excommunicated|E] par [religious_head.GetShortUIName]" #NT!
+  
+ POD_sabbat_lift_excommunication_interaction: "Lever l’excommunication du sabbat" #NT!
+ POD_sabbat_lift_excommunication_interaction_desc: "[recipient.GetFirstName] s'est suffisamment repenti des méfaits du [recipient.GetHerHis] et sera de nouveau le bienvenu dans le [actor.GetFaith.GetAdjective] [faith|E]." #NT!
+ POD_sabbat_lift_excommunication_interaction_desc.tt: "[recipient.GetFirstName] est de retour dans [actor.GetFaithGetName]" #NT!
+ POD_sabbat_lift_excommunicate_interaction_desc.tt: "Excommunication levée" #NT!
+  
+ POD_sabbat_request_excommunication_interaction: "Demander l'excommunication du sabbat" #NT!
+ recipient_secondary_POD_sabbat_request_excommunication_interaction: "Cible" #NT!
+ POD_sabbat_request_excommunication_interaction_extra_icon: "$hook_extra_icon$" #NT!
+ POD_sabbat_request_excommunication_interaction_desc: "Les vils méfaits du [secondary_recipient.GetTitledFirstName] sont restés impunis depuis trop longtemps. Je présenterai une pétition [recipient.GetTitledFirstName] à [excommunicate|E] [secondary_recipient.GetHerHim] du [actor.GetFaith.GetAdjective] [faith|E] et j'espère que [recipient.GetTitledFirstName] verra raison." #NT!
+  
+ POD_black_hand_hunting_interaction: "Chasser" #NT!
+ POD_black_hand_hunting_interaction_desc: "En tant que membre de la Main Noire, traquez [recipient.GetFirstName] pour leurs crimes contre le Sabbat." #NT!
+  
+ mesmerized_or_conditioned: "La cible est hypnotisée ou conditionnée" #NT!
+ POD_hunger_risk_increase_tenet_continued_life_tt: "Mon principe de vie continue augmente mon appétit." #NT!
+  
+ POD_piety_for_perk_interaction: "Méditez sur les humeurs" #NT!
+ POD_piety_for_perk_interaction_desc: "Vous contemplerez la métaphysique du [humorism|E]." #NT!
+ POD_piety_for_perk_interaction_options_heading: "Sur quel [humors|E] souhaitez-vous méditer ?" #NT!
+ POD_piety_for_perk_interaction_animal: "[animal_lifestyle|E]" #NT!
+ POD_piety_for_perk_interaction_choleric: "[choleric_lifestyle|E]" #NT!
+ POD_piety_for_perk_interaction_melancholic: "[melancholy_lifestyle|E]" #NT!
+ POD_piety_for_perk_interaction_phlegmatic: "[phlegmatic_lifestyle|E]" #NT!
+ POD_piety_for_perk_interaction_sanguine: "[sanguine_lifestyle|E]" #NT!
+  
+ POD_golconda_mentoring_interaction: "Mentorat Golconde" #NT!
+ POD_golconda_mentoring_interaction_desc: "Vous guiderez [recipient.GetShortUIName] sur le chemin vers [golconda|E]." #NT!
+ POD_golconda_mentoring_interaction_only_once: "Juste une fois" #NT!
+ POD_golconda_mentoring_interaction_repeating: "Commencez le mentorat chaque année" #NT!
+ POD_golconda_mentoring_interaction_repeating_effect: "Dans un an, vous encadrerez à nouveau [recipient.GetShortUIName]" #NT!
+ POD_golconda_mentoring_interaction_requirements: "Vous pouvez encadrer d'autres personnes une fois que vous avez atteint #V 20#! [trait_level_track_xp|E] en tant que [GetTrait('golconda_seeker').GetName(GetNullCharacter)]" #NT!
+ POD_golconda_mentoring_interaction_requirements_2: "Vous ne pouvez encadrer que ceux qui ont moins de [trait_level_track_xp|E] que vous en tant que [GetTrait('golconda_seeker').GetName(GetNullCharacter)]." #NT!
+ POD_golconda_mentoring_interaction_requirements_mentee: "Vous êtes déjà un mentor [GetPlayer.MakeScope.Var('golconda_mentee').Char.GetShortUIName]" #NT!
+ POD_golconda_mentoring_interaction_toast: "Partager des informations" #NT!
+  
+ POD_guide_through_suspire_interaction: "Guide à travers le Suspire" #NT!
+ POD_guide_through_suspire_interaction_desc: "Vous allez essayer d'aider [recipient.GetShortUIName] à atteindre [enlightenment|E]." #NT!
+ POD_guide_through_suspire_interaction_toast: "[recipient.GetShortUINamePossessive] Suspirer" #NT!
+  
+ POD_nocturne_on_personal_interaction: "Nocturne" #NT!
+ POD_nocturne_on_personal_interaction_desc: "Commencez à rayonner des ombres qui drainent près des ennemis de la vie" #NT!
+ POD_nocturne_on_personal_interaction.tt: "Vous aurez une chance de nuire aux prouesses de l'ennemi [knights|E] au combat, si vous êtes un commandant. Mais tu feras preuve de piété pour chaque chevalier affecté" #NT!
+  
+ POD_nocturne_off_personal_interaction: "Désactiver Nocturne" #NT!
+ POD_nocturne_off_personal_interaction_desc: "Arrêtez d'utiliser Nocturne dans les batailles" #NT!
+ POD_nocturne_off_personal_interaction.tt: "Vous arrêterez d'utiliser Nocturne" #NT!
+  
+ POD_drain_the_life_interaction: "Vider la vie" #NT!
+ POD_drain_the_life_interaction_desc: "Jette des ténèbres terribles qui dévorent tout ce qu'elles touchent" #NT!
+ POD_drain_the_life_interaction.tt: "Vous jetterez de terribles ténèbres sur le royaume [recipient.GetFirstNamePossessive]" #NT!
+  
+ POD_shadow_twin_interaction: "Jumeau de l'Ombre" #NT!
+ POD_shadow_twin_interaction_desc: "Créer un jumeau fantôme" #NT!
+ POD_shadow_twin_interaction.tt: "Vous allez essayer d'utiliser un Shadow Twin" #NT!
+ already_has_shadow_twin: "J'ai déjà un Shadow Twin" #NT!
+  
+ POD_sense_the_sin_interaction: "Ressentez le péché" #NT!
+ sense_the_sin_interaction_desc: "Plongez dans l'esprit du [recipient.GetFirstNamePossessive], en extrayant les pires parties de la personnalité du [recipient.GetHerHis] et en les rendant bien pires qu'avant." #NT!
+ sense_the_sin.ct: "#R Que la fête commence !#!" #NT!
+ sense_the_sin.ct.sin: "Plongez dans l'esprit du [recipient.GetFirstNamePossessive], en extrayant les pires parties de la personnalité du [recipient.GetHerHis] et en les rendant bien pires qu'avant." #NT!
+ sense_the_sin.ct.virtue: "Plongez dans l'esprit du [recipient.GetFirstNamePossessive], transformant les meilleures qualités du [recipient.GetHerHis] en handicaps moqueurs et écrasants." #NT!
+ sense_the_sin_interaction_option_sin: "Concentrez-vous sur #R Péchés#!" #NT!
+ sense_the_sin_interaction_option_virtue: "Concentrez-vous sur #G Vertus#!" #NT!
+ global_not_need_sins_or_virtues: "La cible doit avoir un péché inexploité. Si vous possédez l'avantage Vertu empoisonnée, une vertu intacte fera également l'affaire." #NT!
+ POD_psychomachia_interaction: "Psychomachie" #NT!
+ POD_psychomachia_interaction_desc: "Initiez une bataille entre [recipient.GetFirstName] et une manifestation de la pire nature [recipient.GetHerHis], préalablement amplifiée par le pouvoir Sense the Sin. Si la victime l'emporte, [recipient.GetSheHe] maîtrisera [recipient.GetHerHis] les traits sombres et les exploitera au bénéfice du [recipient.GetHerHis]. Mais s'ils perdent, les ténèbres l'emporteront - soit ils descendront vers une dépravation toujours plus grande, soit la psyché [recipient.GetHerHis] fuira vers le [torpor|E] bienheureux." #NT!
+ POD_psychomachia_interaction_ct: "Si le pouvoir réussit, [recipient.GetName] mènera un duel contre une manifestation des péchés amplifiée par le Sens du Péché. Plus les péchés sont amplifiés, plus la manifestation sera forte, mais le gain potentiel augmentera également. Ce pouvoir ne peut être utilisé qu’une seule fois sur chaque personne." #NT!
+ POD_psychomachia_interaction_morepower: "Renforcez la manifestation" #NT!
+ POD_psychomachia_interaction_lesspower: "Affaiblir la manifestation" #NT!
+ POD_psychomachia_interaction_normal: "Normale" #NT!
+  
+ POD_non_infernalists_pay: "Les pouvoirs infernaux de Daimonion font des ravages sur l'âme. Seuls les serviteurs des puissances obscures (ceux possédant le secret/trait infernaliste) sont libérés du prix terrible." #NT!
+ POD_infernalists_dont_pay: "En tant qu'infernaliste, les seigneurs de l'enfer vous protègent du prix de Daimonion." #NT!
+  
+ POD_blood_of_a_demon_interaction: "Sang d'un démon" #NT!
+ POD_blood_of_a_demon_interaction_desc: "Utilisez le [discipline|E] de Daimonion pour céder au pouvoir obscur" #NT!
+ POD_blood_of_a_demon_interaction_option_infernalist: "Devenez un infernaliste" #NT!
+ POD_blood_of_a_demon_interaction_option_infernalist_ct: "Prêtez allégeance à des êtres infernaux, vous permettant ainsi de bénéficier des pouvoirs de Daimonion sans le prix de la piété." #NT!
+ POD_blood_of_a_demon_interaction_option_lustful: "Harnais Sin : lubrique" #NT!
+ POD_blood_of_a_demon_interaction_option_gluttonous: "Harnais Sin : glouton" #NT!
+ POD_blood_of_a_demon_interaction_option_greedy: "Harnais Sin : gourmand" #NT!
+ POD_blood_of_a_demon_interaction_option_lazy: "Harnais Sin : paresseux" #NT!
+ POD_blood_of_a_demon_interaction_option_wrathful: "Harnais Sin : courroucé" #NT!
+ POD_blood_of_a_demon_interaction_option_arrogant: "Harnais Sin : arrogant" #NT!
+ POD_blood_of_a_demon_interaction_option_deceitful: "Harnais du péché : trompeur" #NT!
+ POD_blood_of_a_demon_interaction_option_craven: "Harnais Sin : poulet" #NT!
+ POD_blood_of_a_demon_interaction_option_arbitrary: "Harnais Sin : arbitraire" #NT!
+ POD_blood_of_a_demon_interaction_sin_ct: "Amplifiez votre péché pour vous améliorer. Sans avantages pour les aînés, cela ne peut être fait qu’une seule fois. Choisissez bien votre vice....." #NT!
+  
+ POD_blood_of_a_demon_other_interaction: "Sang d'un démon #weak (Schéma)#!" #NT!
+ POD_blood_of_a_demon_other_interaction_desc: "Faites appel à votre sang contaminé par les démons pour manipuler les autres - imposez votre volonté aux infernalistes, planifiez d'amener les autres au culte des démons ou même, au plus haut niveau, accordez de terribles dons des ténèbres." #NT!
+ POD_blood_of_a_demon_other_interaction_option_infernalist_service: "Service à la demande" #NT!
+ POD_blood_of_a_demon_other_interaction_option_infernalist_scheme: "Tenter l'infernalisme" #NT!
+ POD_blood_of_a_demon_other_interaction_option_lustful: "Accorder un cadeau sombre : lubrique" #NT!
+ POD_blood_of_a_demon_other_interaction_option_gluttonous: "Accorder un cadeau sombre : glouton" #NT!
+ POD_blood_of_a_demon_other_interaction_option_greedy: "Accorder un cadeau sombre : gourmand" #NT!
+ POD_blood_of_a_demon_other_interaction_option_lazy: "Accorder un cadeau sombre : paresseux" #NT!
+ POD_blood_of_a_demon_other_interaction_option_wrathful: "Accorder un cadeau sombre : courroucé" #NT!
+ POD_blood_of_a_demon_other_interaction_option_arrogant: "Accorder un cadeau sombre : arrogant" #NT!
+ POD_blood_of_a_demon_other_interaction_option_deceitful: "Accorder un cadeau sombre : trompeur" #NT!
+ POD_blood_of_a_demon_other_interaction_option_craven: "Offrir un cadeau sombre : le poulet" #NT!
+ POD_blood_of_a_demon_other_interaction_option_arbitrary: "Accorder un cadeau sombre : arbitraire" #NT!
+  
+ POD_bring_the_plague_interaction: "Apportez la peste" #NT!
+ POD_bring_the_plague_interaction_desc: "Déchaînez un fléau magique et terrible sur le monde, susceptible de détruire la société vampire telle que nous la connaissons." #NT!
+ demonic_plague_normal_option: "Pleine puissance, pas de pitié" #NT!
+ demonic_plague_non_lethal_option: "Rendre la peste non mortelle pour les vampires" #NT!
+ demonic_plague_non_infectious_option: "Rendre la peste non contagieuse" #NT!
+ demonic_plague_non_lethal_and_infectious_option: "Rendre la peste non contagieuse et non mortelle" #NT!
+ POD_bring_the_plague_interaction_success: "La graine de la peste s'installe" #NT!
+ POD_bring_the_plague_interaction_success.desc: "Ainsi commence l'histoire." #NT!
+ POD_bring_the_plague_interaction_failure.desc: "C'est peut-être pour le mieux..." #NT!
+ POD_bring_the_plague_interaction_failure: "Votre cible ne sera pas infectée" #NT!
+  
+  
+ POD_heart_of_darkness_interaction: "Cœur des ténèbres" #NT!
+ POD_heart_of_darkness_interaction_desc: "Retirez votre cœur, invoquant les dons sombres de Seth" #NT!
+ POD_heart_of_darkness_interaction.tt: "Vous retirerez votre cœur, devenant immunisé contre la diablerie et moins sujet à la frénésie." #NT!
+  
+ target_removed_their_heart: "Ce personnage a enlevé son propre cœur !" #NT!
+  
+ POD_heart_of_darkness_steal_interaction: "Voler le cœur #weak (Schéma)#!" #NT!
+ POD_heart_of_darkness_interaction_steal_heart_desc: "Volez le cœur de la cible, vous permettant de la tuer quand vous le souhaitez." #NT!
+ POD_steal_heart_action: "Voler le cœur de" #NT!
+ POD_steal_heart_desc_general: "Voler le cœur de la cible" #NT!
+ POD_steal_heart_SUCCESS_DESC: "Vous faites face à la cible et essayez de lui voler son cœur avec un sombre rituel" #NT!
+ POD_steal_heart_my_intrigue: "Votre intrigue : $VALUE|=+0$" #NT!
+ POD_steal_heart: "Plan de vol de cœur" #NT!
+ POD_steal_heart_desc: "Il est temps pour moi d'ajouter un nouveau cœur à ma collection !" #NT!
+  
+ set_relation_heart_of_darkenss_owner: "Devenez propriétaire de leur cœur" #NT!
+ remove_relation_heart_of_darkenss_owner: "Je ne suis plus propriétaire de leur cœur" #NT!
+  
+ POD_heart_of_darkness_steal_prison_interaction: "Voler le cœur" #NT!
+ POD_heart_of_darkness_steal_prison_interaction_desc: "Volez le cœur des prisonniers, vous permettant ainsi de les tuer quand vous le souhaitez." #NT!
+ POD_heart_of_darkness_personal_return_interaction: "Retourner le cœur" #NT!
+ POD_heart_of_darkness_personal_interaction_return_desc: "Rends ton cœur" #NT!
+  
+ POD_heart_of_darkness_manage_hearts_interaction: "Gérer les cœurs" #NT!
+ POD_heart_of_darkness_interaction_manage_hearts_desc: "Gérez votre collection de coeurs" #NT!
+ recipient_secondary_POD_heart_of_darkness_manage_hearts_interaction: "Victime" #NT!
+ POD_heart_of_darkness_kill_option: "Détruire le cœur" #NT!
+ POD_heart_of_darkness_forcetorpor_option: "Forcer dans [torpor|E]" #NT!
+ POD_heart_of_darkness_release_option: "Retourner le cœur" #NT!
+ POD_heart_of_darkness_kill_option.tt: "Vous détruisez [secondary_recipient.GetFirstNamePossessive] cœur, tuant [secondary_recipient.GetHerHim]." #NT!
+ POD_heart_of_darkness_forcetorpor_option.tt: "En invoquant vos pouvoirs Serpentis, vous forcez [secondary_recipient.GetFirstName] à entrer en torpeur." #NT!
+ POD_heart_of_darkness_release_option.tt: "Vous renvoyez [secondary_recipient.GetFirstNamePossessive] cœur, laissant [secondary_recipient.GetHerHim] libre de votre influence." #NT!
+  
+ POD_fortitude_interaction: "Courage" #NT!
+ POD_fortitude_interaction_desc: "Gérez les pouvoirs qui vous sont accordés par le Fortitude [discipline|E]." #NT!
+ activate_toughness_loc: "Activer l'endurance" #NT!
+ deactivate_toughness_loc: "Désactiver l'endurance" #NT!
+ activate_prowess_from_pain_loc: "Prouesse face à la douleur" #NT!
+ activate_toughness_ct: "Pendant que cette fonction est active, votre personnage est protégé par le pouvoir surnaturel de Fortitude. Chaque fois qu'ils subissent des dégâts, ils ont une chance de « absorber » les dégâts. S’ils réussissent, ils ne subiront pas la blessure. Réussissez ou échouez, un test d'éveil (faim) sera effectué pour alimenter la tentative." #NT!
+ deactivate_toughness_ct: "Désactivez l'endurance. Vous ne serez plus protégé des blessures, mais vous ne perdrez plus non plus de sang pour alimenter la discipline." #NT!
+ activate_prowess_from_pain_ct: "Activez Prowess from Pain, puisant la force de vos blessures. Plus la blessure est grave, plus la force est grande." #NT!
+ fortitude_failed_soaked_damage: "Impossible d'absorber les dégâts" #NT!
+ fortitude_soaked_damage: "Dommages trempés" #NT!
+ fortitude_soaked_damage_ct: "Votre maîtrise de Fortitude vous a protégé des blessures." #NT!
+ armoured_flesh_ct: "Ta chair blindée t'empêchera de mourir" #NT!
+ resilient_mind_loc: "Esprit résilient" #NT!
+ resilient_mind_ct: "Votre Force agit comme un tampon entre votre esprit et votre folie, vous purgeant des dérangements d’origine à la fois naturelle et magique." #NT!
+ prowess_from_pain_valid: "Vous devez être blessé pour utiliser Prowess from Pain." #NT!
+ resilient_mind_valid: "Vous devez avoir un trait mental négatif pour utiliser Resilient Mind." #NT!
+  
+ no_valid_relations: "Ce personnage n'a aucune relation valide" #NT!
+ POD_mask_of_empathy_interaction: "Masque d'empathie" #NT!
+ POD_mask_of_empathy_interaction_desc: "En utilisant vos dons contre nature de Présence, vous tenterez de rompre les liens entre vos cibles, faisant s'effondrer les relations [recipient.GetHerHis]." #NT!
+ POD_mask_of_empathy_friend: "#D Ils ne seront plus amis !#!" #NT!
+ POD_mask_of_empathy_rival: "#D Ils ne seront plus rivaux !#!" #NT!
+ POD_mask_of_empathy_lover: "#D Ils ne seront plus amants !#!" #NT!
+ POD_mask_of_empathy_nothing: "#D Je n'utiliserai pas mes pouvoirs#!" #NT!
+ POD_mask_of_empathy_interaction.tt: "Vous tenterez de réduire les liens [recipient.GetHerHis]" #NT!
+ recipient_secondary_POD_mask_of_empathy_interaction: "Relation cible" #NT!
+  
+ POD_perfect_world_interaction: "Monde parfait" #NT!
+ POD_perfect_world_interaction_desc: "Vous influencerez votre capitale pour qu'elle devienne votre ville parfaite" #NT!
+ POD_perfect_world_interaction.tt: "Vous étendrez votre charme surnaturel à toute la ville, en la faisant travailler selon vos désirs" #NT!
+  
+ POD_store_blood_interaction: "Conserver le sang" #NT!
+ POD_store_blood_interaction_desc: "Stockez le sang dans votre vaisseau sanguin." #NT!
+ POD_store_blood_interaction_options_heading: "Combien souhaitez-vous stocker ?" #NT!
+ POD_extract_blood_interaction: "Extraire le sang stocké" #NT!
+ POD_extract_blood_interaction_desc: "Extrayez le sang stocké du vaisseau sanguin pour vous ravitailler." #NT!
+ POD_extract_blood_interaction_options_heading: "Combien voulez-vous extraire ?" #NT!
+ POD_extract_blood: "Dépenser $VALUE|0V$ Sang stocké" #NT!
+ POD_extracted_blood: "Dépensé $VALUE|0V$ Sang stocké" #NT!
+ POD_you_extract_blood: "Vous dépensez $VALUE|0V$ Sang stocké" #NT!
+ POD_you_extracted_blood: "Vous avez dépensé $VALUE|0V$ Sang stocké" #NT!
+ POD_they_extract_blood: "[CHARACTER.GetShortUIName] dépense $VALUE|0V$ Sang stocké" #NT!
+ POD_they_extracted_blood: "[CHARACTER.GetShortUIName] dépensé $VALUE|0V$ sang stocké" #NT!
+ POD_store_blood: "Le magasin $VALUE|0V$ a gagné du sang" #NT!
+ POD_stored_blood: "Stocké $VALUE|0V$ gagné du sang" #NT!
+ POD_you_store_blood: "Vous stockez $VALUE|0V$ de sang gagné" #NT!
+ POD_you_stored_blood: "Vous avez stocké $VALUE|0V$ gagné du Sang" #NT!
+ POD_they_store_blood: "[CHARACTER.GetShortUIName] magasin $VALUE|0V$ a gagné du sang" #NT!
+ POD_they_stored_blood: "[CHARACTER.GetShortUIName] stocké $VALUE|0V$ gagné du sang" #NT!
+ blood_vessel_damaged: "Vaisseau sanguin endommagé" #NT!

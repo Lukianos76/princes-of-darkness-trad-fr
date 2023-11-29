@@ -1,0 +1,20 @@
+﻿l_french:
+  
+ POD_journey_maintenance.1.t: "[Localize(Concatenate(GetPlayer.MakeScope.Var('current_journey').Var('journey_type').GetFlagName,'_planning_title'))]" #NT!
+ POD_journey_maintenance.1.desc: "[Localize(Concatenate(GetPlayer.MakeScope.Var('current_journey').Var('journey_type').GetFlagName,'_planning_desc'))]" #NT!
+ POD_journey_maintenance.1.option.a: "[Localize(Concatenate(GetPlayer.MakeScope.Var('current_journey').Var('journey_type').GetFlagName,'_planning_confirm'))]" #NT!
+ POD_journey_maintenance.1.option.a.tt: "[SelectLocalization( GetScriptedGui('POD_can_start_travel_phase_sgui').IsValid(GuiScope.SetRoot(GetPlayer.MakeScope).End), 'POD_journey_maintenance.1.option.a.tt.default', 'POD_coterietravel_gui_earthbound' )]" #NT!
+ POD_journey_maintenance.1.option.a.tt.default: "$EFFECT_LIST_BULLET$Vous commencerez immédiatement le [travel_phase|E] de ce [journey|E].\n[GetPlayer.Custom('PODCoterieTravelStatus')]" #NT!
+ POD_journey_maintenance.1.option.b: "[Localize(Concatenate(GetPlayer.MakeScope.Var('current_journey').Var('journey_type').GetFlagName,'_planning_decline'))]" #NT!
+ POD_journey_maintenance.1.option.b.tt: "Le [planning_phase|E] de ce [journey|E] sera conclu." #NT!
+ POD_journey_maintenance.1.option.b.tt.2: "Les [journey|E] à $POD_current_journey$ seront mis en pause. Vous pourrez le reprendre ultérieurement tout en conservant toute votre progression." #NT!
+  
+ POD_journey_maintenance.20.t: "Une disparition prématurée" #NT!
+ POD_journey_maintenance.20.desc: "Je viens d'apprendre que [journey_target.GetName] est mort.\n\nNaturellement, cela signifie que je ne pourrai pas continuer aucun [journeys|E] qui ciblait [journey_target.GetHerHim]." #NT!
+ POD_journey_maintenance.20.option.a: "Malheureux." #NT!
+ POD_journey_maintenance.20.tt: "Tous vos [journeys|E] ciblant [journey_target.GetName] sont terminés." #NT!
+  
+ POD_journey_maintenance.100.t: "[Localize(Concatenate(GetPlayer.MakeScope.Var('current_journey').Var('journey_type').GetFlagName,'_travel_title'))]" #NT!
+ POD_journey_maintenance.100.desc: "[GetPlayer.Custom('PODCoterieTravelStatusFlavor')]\n\n[Localize(Concatenate(GetPlayer.MakeScope.Var('current_journey').Var('journey_type').GetFlagName,'_travel_desc'))]" #NT!
+ POD_journey_maintenance.100.desc.companion: "\n\n[companion.Custom('PODCoterieIntroFlavor')]" #NT!
+ POD_journey_maintenance.100.option.a: "[Localize(Concatenate(GetPlayer.MakeScope.Var('current_journey').Var('journey_type').GetFlagName,'_travel_confirm'))]" #NT!

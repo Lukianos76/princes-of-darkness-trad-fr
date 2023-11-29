@@ -1,0 +1,50 @@
+﻿l_french:
+  
+ weak_bloodoath_hook: "Serment de sang faible" #NT!
+ strong_bloodoath_hook: "Serment de sang fort" #NT!
+ minorboon_hook: "Aubaine mineure" #NT!
+ majorboon_hook: "Aubaine majeure" #NT!
+ bloodboon_hook: "Bénédiction du sang" #NT!
+ lifeboon_hook: "Bénédiction de la vie" #NT!
+ ghoul_hook: "[Ghoul|E] Thrall" #NT!
+ rationalize_hook: "Faveur rationalisée" #NT!
+ weak_presenceloyalty_hook: "Faible fidélité à la présence" #NT!
+ strong_presenceloyalty_hook: "Forte fidélité à la présence" #NT!
+ tremerecouncilbloodoath_hook: "Conseil Tremere des Sept Serments de Sang" #NT!
+ herd_hook: "Troupeau" #NT!
+ dreamer_hook: "Rêveur" #NT!
+ possessed_hook: "Possédé" #NT!
+ possessed_weak_hook: "Partiellement possédé" #NT!
+ necromancy_bind_hook: "Faible liaison" #NT!
+ necromancy_bind_strong_hook: "Reliure puissante" #NT!
+ necromancy_bind_permanent_hook: "Reliure éternelle" #NT!
+ cadre_hook: "Membre du cadre" #NT!
+ proven_beta: "Bêta" #NT!
+ shadow_twin_bind_hook: "Jumeau de l'Ombre" #NT!
+ mirror_duplicate_bind_hook: "Dupliquer miroir" #NT!
+ darkling_mirror_hook: "Split P'o" #NT!
+ shadowy_duplicate_hook: "Duplicata ténébreux" #NT!
+ phantom_shadow_hook: "Ombre fantôme" #NT!
+ separated_khaibit_hook: "Khaibit séparé" #NT!
+ separated_shadow_hook: "Ombre" #NT!
+ separated_psyche_hook: "Psyché" #NT!
+ unspeakable_servitor_hook: "Serviteur indescriptible" #NT!
+ infernal_hierarchy_hook: "Hiérarchie infernale" #NT!
+ weak_soul_shackles_hook: "Chaînes d'âme faibles" #NT!
+ strong_soul_shackles_hook: "Chaînes d'âme fortes" #NT!
+ soul_bond_hook: "Lien d'âme" #NT!
+ weak_dominate_hook: "Dominé" #NT!
+ conditioning_hook: "Conditionné" #NT!
+ partial_true_name_hook: "Vrai nom partiellement connu" #NT!
+ half_true_name_hook: "La moitié du vrai nom connu" #NT!
+ true_name_hook: "Vrai nom connu" #NT!
+ effigy_hook: "Effigie" #NT!
+ animantis_hook: "Animantis" #NT!
+ predatory_mastery_hook: "Intimidé" #NT!
+ enthrall_hook: "Passionné" #NT!
+ whistle_hook: "Siffler" #NT!
+ telepathy_hook: "La télépathie" #NT!
+ usurpation_of_flesh_perk_hook: "Usurpation" #NT!
+ thrall_hook: "Pacte démoniaque" #NT!
+ enslave_hook: "Esclave" #NT!
+ geas_hook: "Geas" #NT!

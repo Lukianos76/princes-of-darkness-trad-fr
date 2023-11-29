@@ -1,0 +1,181 @@
+﻿l_french:
+ difference_engine_modifier: "Moteur de différence" #NT!
+ difference_engine_modifier_desc: "Une calculatrice mécanique automatique conçue pour compiler des fonctions polynomiales." #NT!
+ aeolipile_modifier: "Aéolipile" #NT!
+ aeolipile_modifier_desc: "Une simple turbine à vapeur radiale sans pales qui tourne lorsque le réservoir d'eau central est chauffé." #NT!
+ antikythera_mechanism_modifier: "Mécanisme d'Anticythère" #NT!
+ antikythera_mechanism_modifier_desc: "Un planétaire à commande manuelle de la Grèce antique, utilisé pour prédire les positions astronomiques et les éclipses des décennies à l'avance." #NT!
+ flexible_glass_modifier: "Bol en verre flexible" #NT!
+ flexible_glass_modifier_desc: "Le bol a été soumis à un test pour le briser, mais il s'est simplement cabossé au lieu de se briser." #NT!
+ archimedes_death_ray_modifier: "Rayon mortel d'Archimède" #NT!
+ archimedes_death_ray_modifier_desc: "Un grand nombre de miroirs paraboliques et de boucliers polis pour briller." #NT!
+ wodden_hawk_modifier: "Faucon en bois" #NT!
+ wodden_hawk_modifier_desc: "Un cerf-volant en bois fabriqué par Mo-tse, capable de voler dans le ciel." #NT!
+ wodden_ox_modifier: "Bœuf en bois" #NT!
+ wodden_ox_modifier_desc: "Un chariot à une roue avec deux poignées créé par Zhuge Liang." #NT!
+ lingjen_modifier: "Ling Jen" #NT!
+ lingjen_modifier_desc: "Une marionnette fabriquée par Tanshi, peut chanter et danser, comme une personne vivante." #NT!
+ south_pointing_chariot_modifier: "Char pointant vers le sud" #NT!
+ south_pointing_chariot_modifier_desc: "Un ancien véhicule chinois à deux roues qui portait un pointeur mobile pour indiquer le sud, quelle que soit la direction dans laquelle le char tournait." #NT!
+ seismoscope_modifier: "Girouette tremblement de terre" #NT!
+ seismoscope_modifier_desc: "Le sismoscope de Zhang, capable de déterminer approximativement la direction d'où vient le tremblement de terre." #NT!
+ bhaskaras_wheel_modifier: "La roue de Bhaskara" #NT!
+ bhaskaras_wheel_modifier_desc: "Une hypothétique machine à mouvement perpétuel créée par le mathématicien indien Bhāskara II." #NT!
+  
+ recruit_bygone_cockatrices_modifier: "[GetMaA('cockatrices').GetName] Nid" #NT!
+ recruit_bygone_cockatrices_modifier_desc: "Peut recruter [GetMaA('cockatrices').GetName] en tant que [men_at_arms|E]" #NT!
+ recruit_bygone_feng_huang_modifier: "[GetMaA('feng_huang').GetName] Nid" #NT!
+ recruit_bygone_feng_huang_modifier_desc: "Peut recruter [GetMaA('feng_huang').GetName] en tant que [men_at_arms|E]" #NT!
+ recruit_bygone_harpy_modifier: "[GetMaA('harpy').GetName] Nid" #NT!
+ recruit_bygone_harpy_modifier_desc: "Peut recruter [GetMaA('harpy').GetName] en tant que [men_at_arms|E]" #NT!
+ recruit_bygone_homunculus_modifier: "[GetMaA('homunculus').GetName] Nid" #NT!
+ recruit_bygone_homunculus_modifier_desc: "Peut recruter [GetMaA('homunculus').GetName] en tant que [men_at_arms|E]" #NT!
+ recruit_bygone_pegasus_modifier: "[GetMaA('pegasus').GetName] Nid" #NT!
+ recruit_bygone_pegasus_modifier_desc: "Peut recruter [GetMaA('pegasus').GetName] en tant que [men_at_arms|E]" #NT!
+ recruit_bygone_peryton_modifier: "[GetMaA('peryton').GetName] Nid" #NT!
+ recruit_bygone_peryton_modifier_desc: "Peut recruter [GetMaA('peryton').GetName] en tant que [men_at_arms|E]" #NT!
+ recruit_bygone_seabishop_modifier: "[GetMaA('seabishop').GetName] Nid" #NT!
+ recruit_bygone_seabishop_modifier_desc: "Peut recruter [GetMaA('seabishop').GetName] en tant que [men_at_arms|E]" #NT!
+ recruit_bygone_shadhavar_modifier: "[GetMaA('shadhavar').GetName] Nid" #NT!
+ recruit_bygone_shadhavar_modifier_desc: "Peut recruter [GetMaA('shadhavar').GetName] en tant que [men_at_arms|E]" #NT!
+ recruit_bygone_umkovu_modifier: "[GetMaA('umkovu').GetName] Nid" #NT!
+ recruit_bygone_umkovu_modifier_desc: "Peut recruter [GetMaA('umkovu').GetName] en tant que [men_at_arms|E]" #NT!
+ recruit_bygone_vodayany_modifier: "[GetMaA('vodayany').GetName] Nid" #NT!
+ recruit_bygone_vodayany_modifier_desc: "Peut recruter [GetMaA('vodayany').GetName] en tant que [men_at_arms|E]" #NT!
+ recruit_bygone_wilde_beast_modifier: "[GetMaA('wilde_beast').GetName] Nid" #NT!
+ recruit_bygone_wilde_beast_modifier_desc: "Peut recruter [GetMaA('wilde_beast').GetName] en tant que [men_at_arms|E]" #NT!
+ recruit_bygone_sphinx_modifier: "[GetMaA('sphinx').GetName] Nid" #NT!
+ recruit_bygone_sphinx_modifier_desc: "Peut recruter [GetMaA('sphinx').GetName] en tant que [men_at_arms|E]" #NT!
+ recruit_bygone_simurgh_modifier: "[GetMaA('simurgh').GetName] Nid" #NT!
+ recruit_bygone_simurgh_modifier_desc: "Peut recruter [GetMaA('simurgh').GetName] en tant que [men_at_arms|E]" #NT!
+ recruit_bygone_lindworm_modifier: "[GetMaA('lindworm').GetName] Nid" #NT!
+ recruit_bygone_lindworm_modifier_desc: "Peut recruter [GetMaA('lindworm').GetName] en tant que [men_at_arms|E]" #NT!
+ recruit_bygone_amphiptere_modifier: "[GetMaA('amphiptere').GetName] Nid" #NT!
+ recruit_bygone_amphiptere_modifier_desc: "Peut recruter [GetMaA('amphiptere').GetName] en tant que [men_at_arms|E]" #NT!
+ recruit_bygone_fu_guardian_modifier: "[GetMaA('fu_guardian').GetName] Nid" #NT!
+ recruit_bygone_fu_guardian_modifier_desc: "Peut recruter [GetMaA('fu_guardian').GetName] en tant que [men_at_arms|E]" #NT!
+ recruit_bygone_ghul_modifier: "[GetMaA('ghul').GetName] Nid" #NT!
+ recruit_bygone_ghul_modifier_desc: "Peut recruter [GetMaA('ghul').GetName] en tant que [men_at_arms|E]" #NT!
+ recruit_bygone_gryphon_modifier: "[GetMaA('gryphon').GetName] Nid" #NT!
+ recruit_bygone_gryphon_modifier_desc: "Peut recruter [GetMaA('gryphon').GetName] en tant que [men_at_arms|E]" #NT!
+ recruit_bygone_hippocampi_modifier: "[GetMaA('hippocampi').GetName] Nid" #NT!
+ recruit_bygone_hippocampi_modifier_desc: "Peut recruter [GetMaA('hippocampi').GetName] en tant que [men_at_arms|E]" #NT!
+ recruit_bygone_hippogryph_modifier: "[GetMaA('hippogryph').GetName] Nid" #NT!
+ recruit_bygone_hippogryph_modifier_desc: "Peut recruter [GetMaA('hippogryph').GetName] en tant que [men_at_arms|E]" #NT!
+ recruit_bygone_phoboros_modifier: "[GetMaA('phoboros').GetName] Nid" #NT!
+ recruit_bygone_phoboros_modifier_desc: "Peut recruter [GetMaA('phoboros').GetName] en tant que [men_at_arms|E]" #NT!
+ recruit_bygone_unicorn_modifier: "[GetMaA('unicorn').GetName] Nid" #NT!
+ recruit_bygone_unicorn_modifier_desc: "Peut recruter [GetMaA('unicorn').GetName] en tant que [men_at_arms|E]" #NT!
+ recruit_bygone_wyverns_modifier: "[GetMaA('wyverns').GetName] Nid" #NT!
+ recruit_bygone_wyverns_modifier_desc: "Peut recruter [GetMaA('wyverns').GetName] en tant que [men_at_arms|E]" #NT!
+ recruit_bygone_manticore_modifier: "[GetMaA('manticore').GetName] Nid" #NT!
+ recruit_bygone_manticore_modifier_desc: "Peut recruter [GetMaA('manticore').GetName] en tant que [men_at_arms|E]" #NT!
+ recruit_bygone_drake_modifier: "[GetMaA('drake').GetName] Nid" #NT!
+ recruit_bygone_drake_modifier_desc: "Peut recruter [GetMaA('drake').GetName] en tant que [men_at_arms|E]" #NT!
+ recruit_bygone_orm_modifier: "[GetMaA('orm').GetName] Nid" #NT!
+ recruit_bygone_orm_modifier_desc: "Peut recruter [GetMaA('orm').GetName] en tant que [men_at_arms|E]" #NT!
+ recruit_bygone_roc_modifier: "[GetMaA('roc').GetName] Nid" #NT!
+ recruit_bygone_roc_modifier_desc: "Peut recruter [GetMaA('roc').GetName] en tant que [men_at_arms|E]" #NT!
+ recruit_bygone_sea_serpent_modifier: "[GetMaA('sea_serpent').GetName] Nid" #NT!
+ recruit_bygone_sea_serpent_modifier_desc: "Peut recruter [GetMaA('sea_serpent').GetName] en tant que [men_at_arms|E]" #NT!
+ blessed_by_great_celestial_dragons_modifier: "Béni par les grands dragons célestes" #NT!
+ blessed_by_great_celestial_dragons_modifier_desc: "Ces entités sont plus des forces de la nature que des bêtes." #NT!
+  
+ traveling_astral_reaches_modifier: "Voyage dans le [astral_reaches|E]" #NT!
+ traveling_spirit_wilds_modifier: "Voyage dans le [spirit_wilds|E]" #NT!
+ traveling_underworld_modifier: "Voyage dans le [underworld|E]" #NT!
+ traveling_dreaming_modifier: "Voyage dans le [dreaming|E]" #NT!
+ traveling_deep_umbra_modifier: "Voyage dans le [deep_umbra|E]" #NT!
+ trapped_in_paradox_realm_modifier: "Piégé dans le royaume du paradoxe" #NT!
+  
+ recruit_plesiosaurs_modifier: "Nid de plésiosaures" #NT!
+ recruit_plesiosaurs_modifier_desc: "Peut recruter [GetMaA('plesiosaurs').GetName] en tant que [men_at_arms|E]" #NT!
+ recruit_pterosaurs_modifier: "Nid de ptérosaures" #NT!
+ recruit_pterosaurs_modifier_desc: "Peut recruter [GetMaA('pterosaurs').GetName] en tant que [men_at_arms|E]" #NT!
+ recruit_carnosaurs_modifier: "Nid de carnosaures" #NT!
+ recruit_carnosaurs_modifier_desc: "Peut recruter [GetMaA('carnosaurs').GetName] en tant que [men_at_arms|E]" #NT!
+ recruit_herbosaurs_modifier: "Nid d'herbosaures" #NT!
+ recruit_herbosaurs_modifier_desc: "Peut recruter [GetMaA('herbosaurs').GetName] en tant que [men_at_arms|E]" #NT!
+ paleontologist_modifier: "Paléontologiste" #NT!
+ paleontologist_modifier_desc: "Ce personnage est un maître des créatures de la préhistoire." #NT!
+  
+ recruit_giants_modifier: "Camp des Géants" #NT!
+ recruit_giants_modifier_desc: "Peut recruter [GetMaA('giants').GetName] en tant que [men_at_arms|E]" #NT!
+  
+ umbra_diplomacy_train_modifier: "Enseignement de la Diplomatie" #NT!
+ umbra_diplomacy_train_modifier_desc: "Ce personnage reçoit un enseignement de diplomatie pour les mentors spirituels." #NT!
+ umbra_diplomacy_train_name: "[GetModifier('umbra_diplomacy_train_modifier').GetNameWithTooltip]" #NT!
+ umbra_martial_train_modifier: "Enseignement martial" #NT!
+ umbra_martial_train_modifier_desc: "Ce personnage reçoit un enseignement martial pour les mentors spirituels." #NT!
+ umbra_martial_train_name: "[GetModifier('umbra_martial_train_modifier').GetNameWithTooltip]" #NT!
+ umbra_stewardship_train_modifier: "Enseignement de l’intendance" #NT!
+ umbra_stewardship_train_modifier_desc: "Ce personnage reçoit un enseignement d'intendance pour les mentors spirituels." #NT!
+ umbra_stewardship_train_name: "[GetModifier('umbra_stewardship_train_modifier').GetNameWithTooltip]" #NT!
+ umbra_intrigue_train_modifier: "Enseignement de l'intrigue" #NT!
+ umbra_intrigue_train_modifier_desc: "Ce personnage reçoit un enseignement d'intrigues pour les mentors spirituels." #NT!
+ umbra_intrigue_train_name: "[GetModifier('umbra_intrigue_train_modifier').GetNameWithTooltip]" #NT!
+ umbra_learning_train_modifier: "Apprentissage Enseignement" #NT!
+ umbra_learning_train_modifier_desc: "Ce personnage reçoit un enseignement d'apprentissage pour les mentors spirituels." #NT!
+ umbra_learning_train_name: "[GetModifier('umbra_learning_train_modifier').GetNameWithTooltip]" #NT!
+  
+ umbra_recruit_bygone_cockatrices_name: "[GetModifier('recruit_bygone_cockatrices_modifier').GetNameWithTooltip]" #NT!
+ umbra_recruit_bygone_feng_huang_name: "[GetModifier('recruit_bygone_feng_huang_modifier').GetNameWithTooltip]" #NT!
+ umbra_recruit_bygone_harpy_name: "[GetModifier('recruit_bygone_harpy_modifier').GetNameWithTooltip]" #NT!
+ umbra_recruit_bygone_homunculus_name: "[GetModifier('recruit_bygone_homunculus_modifier').GetNameWithTooltip]" #NT!
+ umbra_recruit_bygone_pegasus_name: "[GetModifier('recruit_bygone_pegasus_modifier').GetNameWithTooltip]" #NT!
+ umbra_recruit_bygone_peryton_name: "[GetModifier('recruit_bygone_peryton_modifier').GetNameWithTooltip]" #NT!
+ umbra_recruit_bygone_seabishop_name: "[GetModifier('recruit_bygone_seabishop_modifier').GetNameWithTooltip]" #NT!
+ umbra_recruit_bygone_shadhavar_name: "[GetModifier('recruit_bygone_shadhavar_modifier').GetNameWithTooltip]" #NT!
+ umbra_recruit_bygone_umkovu_name: "[GetModifier('recruit_bygone_umkovu_modifier').GetNameWithTooltip]" #NT!
+ umbra_recruit_bygone_vodayany_name: "[GetModifier('recruit_bygone_vodayany_modifier').GetNameWithTooltip]" #NT!
+ umbra_recruit_bygone_wilde_beast_name: "[GetModifier('recruit_bygone_wilde_beast_modifier').GetNameWithTooltip]" #NT!
+ umbra_recruit_bygone_sphinx_name: "[GetModifier('recruit_bygone_sphinx_modifier').GetNameWithTooltip]" #NT!
+ umbra_recruit_bygone_simurgh_name: "[GetModifier('recruit_bygone_simurgh_modifier').GetNameWithTooltip]" #NT!
+ umbra_recruit_bygone_lindworm_name: "[GetModifier('recruit_bygone_lindworm_modifier').GetNameWithTooltip]" #NT!
+ umbra_recruit_bygone_amphiptere_name: "[GetModifier('recruit_bygone_amphiptere_modifier').GetNameWithTooltip]" #NT!
+ umbra_recruit_bygone_fu_guardian_name: "[GetModifier('recruit_bygone_fu_guardian_modifier').GetNameWithTooltip]" #NT!
+ umbra_recruit_bygone_ghul_name: "[GetModifier('recruit_bygone_ghul_modifier').GetNameWithTooltip]" #NT!
+ umbra_recruit_bygone_gryphon_name: "[GetModifier('recruit_bygone_gryphon_modifier').GetNameWithTooltip]" #NT!
+ umbra_recruit_bygone_hippocampi_name: "[GetModifier('recruit_bygone_hippocampi_modifier').GetNameWithTooltip]" #NT!
+ umbra_recruit_bygone_hippogryph_name: "[GetModifier('recruit_bygone_hippogryph_modifier').GetNameWithTooltip]" #NT!
+ umbra_recruit_bygone_phoboros_name: "[GetModifier('recruit_bygone_phoboros_modifier').GetNameWithTooltip]" #NT!
+ umbra_recruit_bygone_unicorn_name: "[GetModifier('recruit_bygone_unicorn_modifier').GetNameWithTooltip]" #NT!
+ umbra_recruit_bygone_wyverns_name: "[GetModifier('recruit_bygone_wyverns_modifier').GetNameWithTooltip]" #NT!
+ umbra_recruit_bygone_manticore_name: "[GetModifier('recruit_bygone_manticore_modifier').GetNameWithTooltip]" #NT!
+ umbra_recruit_bygone_drake_name: "[GetModifier('recruit_bygone_drake_modifier').GetNameWithTooltip]" #NT!
+ umbra_recruit_bygone_orm_name: "[GetModifier('recruit_bygone_orm_modifier').GetNameWithTooltip]" #NT!
+ umbra_recruit_bygone_roc_name: "[GetModifier('recruit_bygone_roc_modifier').GetNameWithTooltip]" #NT!
+ umbra_recruit_bygone_sea_serpent_name: "[GetModifier('recruit_bygone_sea_serpent_modifier').GetNameWithTooltip]" #NT!
+  
+ umbra_recruit_plesiosaurs_name: "[GetModifier('recruit_plesiosaurs_modifier').GetNameWithTooltip]" #NT!
+ umbra_recruit_pterosaurs_name: "[GetModifier('recruit_pterosaurs_modifier').GetNameWithTooltip]" #NT!
+ umbra_recruit_carnosaurs_name: "[GetModifier('recruit_carnosaurs_modifier').GetNameWithTooltip]" #NT!
+ umbra_recruit_herbosaurs_name: "[GetModifier('recruit_herbosaurs_modifier').GetNameWithTooltip]" #NT!
+  
+ umbra_recruit_giants_name: "[GetModifier('recruit_giants_modifier').GetNameWithTooltip]" #NT!
+  
+ umbra_link_enoch_name: "[GetModifier('link_enoch_modifier').GetNameWithTooltip]" #NT!
+ yin_portal_modifier: "Portail vers le monde Yin" #NT!
+ umbra_yin_portal_name: "None" #NT!
+ yang_portal_modifier: "None" #NT!
+ umbra_yang_portal_name: "[GetModifier('yang_portal_modifier').GetNameWithTooltip]" #NT!
+  
+ umbra_scheme_resistance_modifier: "Conseils spirituels" #NT!
+ umbra_scheme_resistance_modifier_desc: "Ce personnage est conseillé par les esprits qui l'entourent contre les actions hostiles." #NT!
+ umbra_scheme_resistance_name: "[GetModifier('umbra_scheme_resistance_modifier').GetNameWithTooltip]" #NT!
+ umbra_levy_maintenance_modifier: "Vantardise spirituelle" #NT!
+ umbra_levy_maintenance_modifier_desc: "Ce personnage est guidé par l'esprit sur la manière de gagner l'amitié des gens." #NT!
+ umbra_levy_maintenance_name: "[GetModifier('umbra_levy_maintenance_modifier').GetNameWithTooltip]" #NT!
+ umbra_fort_level_modifier: "Bouclier spirituel" #NT!
+ umbra_fort_level_modifier_desc: "Ce comté est protégé par les esprits." #NT!
+ umbra_fort_level_name: "[GetModifier('umbra_fort_level_modifier').GetNameWithTooltip]" #NT!
+  
+ umbra_tax_contribution_reduction_modifier: "Perturbé" #NT!
+ umbra_tax_contribution_reduction_modifier_desc: "Ce personnage est dérangé par un fantôme envoyé par son vassal." #NT!
+ umbra_tax_contribution_reduction_name: "[GetModifier('umbra_tax_contribution_reduction_modifier').GetNameWithTooltip]" #NT!
+ umbra_mercenary_hire_cost_modifier: "Menace spectrale" #NT!
+ umbra_mercenary_hire_cost_modifier_desc: "Ce personnage a une aura sombre qui lui permet de conclure de meilleures affaires avec les mercenaires." #NT!
+ umbra_mercenary_hire_cost_name: "[GetModifier('umbra_mercenary_hire_cost_modifier').GetNameWithTooltip]" #NT!
+ umbra_county_control_change_modifier: "Veillée des spectres" #NT!
+ umbra_county_control_change_modifier_desc: "Ce comté est surveillé par des spectres." #NT!
+ umbra_county_control_change_name: "[GetModifier('umbra_county_control_change_modifier').GetNameWithTooltip]" #NT!

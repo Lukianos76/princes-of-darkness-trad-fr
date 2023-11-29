@@ -1,0 +1,46 @@
+﻿l_french:
+  
+ POD_blackdeath.0002.t: "Rumeurs de peste" #NT!
+ POD_blackdeath.0002.desc: "Les maladies sont monnaie courante de nos jours, mais une rumeur naissante vous a fait réfléchir. Il parle d’un fléau plus terrible que tous les autres, venant d’Extrême-Orient. Cette terrible infection semble se propager à un rythme alarmant et le nombre de morts augmente chaque jour.\nVotre règne, bien que quelque peu détaché des préoccupations des mortels, est toujours très lié au bien-être des êtres fragiles de votre royaume. Que se passerait-il si vous étiez soudainement le maître de rien d’autre que des cadavres et des puces ? Il s'agit d'une sombre perspective, suffisamment pour donner matière à réflexion, même au seigneur le plus cruel.\nLe temps presse cependant et vous devez prendre une décision : allez-vous essayer de préparer subtilement les mortels de votre région aux temps troublés à venir ? ?" #NT!
+ POD_blackdeath.0002.a: "Prions pour le salut !" #NT!
+ POD_blackdeath.0002.b: "J'ai besoin que mes mortels soient en bonne santé !" #NT!
+ POD_blackdeath.0002.c: "C'est bien en deçà de mes préoccupations" #NT!
+ POD_blackdeath_preparations: "Vous serez mieux préparé lorsque le cavalier pâle arrivera." #NT!
+ small_blackdeath_devastation_modifier: "Petite dévastation de la peste noire" #NT!
+ small_blackdeath_devastation_modifier_desc: "Le Pale Rider est là, son toucher est froid et mortel, mais quelque peu doux comparé au reste du monde." #NT!
+ medium_blackdeath_devastation_modifier: "Dévastation moyenne de la peste noire" #NT!
+ medium_blackdeath_devastation_modifier_desc: "Le Cavalier Pâle est là. Heureusement, mais rares sont ceux qui ont réussi à échapper à son étreinte mortelle." #NT!
+ high_blackdeath_devastation_modifier: "Dévastation élevée de la peste noire" #NT!
+ high_blackdeath_devastation_modifier_desc: "Le Cavalier Pâle est là. C’est son royaume, et aucune âme vivante ne peut plus y entrer." #NT!
+ POD_blackdeath.0004.t: "La mort noire" #NT!
+ POD_blackdeath.0004.desc: "Le monde a connu son lot de fléaux et de maladies, mais a-t-il déjà connu quelque chose d'aussi mortel que cette peste noire ? Même avec vos grandes connaissances, vous ne vous souvenez pas d'un événement aussi terrible que celui-ci.\nLes mortels meurent en masse, revendiqués par le Cavalier Pâle qui se déplace de ville en ville, ne laissant que cadavres et puces dans son sillage. Prières, feu, reproches... rien ne semble pouvoir l'arrêter, ni même le ralentir. Des communautés entières ont été réduites en cendres et le silence étrange qui imprègne l'air jour et nuit est révélateur...\nEst-ce la fin ?" #NT!
+ POD_blackdeath.0004.a: "Une fin lente et épuisante pour l’humanité ?" #NT!
+ POD_blackdeath_happening: "La peste noire est arrivée. Des royaumes ont été dévastés, perdant leur développement et leurs bâtiments en fonction de l'ampleur de l'infection. Vous verrez un modificateur de comté indiquant le montant des dégâts causés à chaque comté." #NT!
+ POD_blackdeath.0005.t: "Le fléau" #NT!
+ POD_blackdeath.0005.desc: "La situation empire.\nD'une manière ou d'une autre, la souche de la peste noire semble avoir muté. Jusqu'à présent, cela n'affectait que les mortels et n'avait que peu de conséquences directes pour les vampires, mais ce n'est plus le cas aujourd'hui. Cette variante, surnommée « le Fléau » par les érudits, attaque directement la vitae du vampire. Cela rend le sang moins puissant qu’il ne l’est autrement et, en tant que tel, nécessite des dépenses plus importantes pour fonctionner réellement. Combiné avec l'approvisionnement en sang limité dû au fait que les mortels continuent de mourir à cause de la peste noire...\nLa seule bonne nouvelle est que le Fléau ne semble pas mortel pour les vampires, mais tout au plus débilitant. Malgré des enquêtes frénétiques, personne n'a la moindre idée de la façon dont cela a pu se produire ou si quelqu'un en est responsable..." #NT!
+ POD_blackdeath.0005.a: "Y a-t-il une fin à ce cauchemar ?" #NT!
+ POD_blackdeath.0005.b: "Les Tremere sont certainement à blâmer !" #NT!
+ POD_blackdeath.0005.c: "Les Cappadociens se sont mêlés des cadavres des mortels !" #NT!
+ POD_blackdeath.0005.d: "C'est évidemment la faute des Séthites." #NT!
+ POD_scourge_tremere: "Les Tremere de votre royaume n'apprécieront pas ça." #NT!
+ POD_scourge_cappadocian: "Les Cappadociens de votre royaume n'apprécieront pas ça." #NT!
+ POD_scourge_setite: "Les Séthites de votre royaume n’apprécieront pas ça." #NT!
+ POD_scourge_warning: "Certains vampires ont commencé à être infectés par le Fléau et à le propager." #NT!
+ weak_scourge_modifier: "Symptômes du petit fléau" #NT!
+ weak_scourge_modifier_desc: "Vous avez été infecté par le Fléau. Heureusement, vous ne ressentez jusqu’à présent qu’une légère faiblesse." #NT!
+ medium_scourge_modifier: "Symptômes moyens du fléau" #NT!
+ medium_scourge_modifier_desc: "Vous avez été infecté par le Fléau. Vous êtes gravement affaibli et avez du mal à conserver l’apparence d’un dirigeant fort." #NT!
+ high_scourge_modifier: "Symptômes graves du fléau" #NT!
+ high_scourge_modifier_desc: "Vous avez été infecté par le Fléau. Vous vous sentez très faible et, pire encore, vous semblez très faible aux yeux du reste du monde Caïnite." #NT!
+ POD_blackdeath.0007.t: "Le Fléau : Infecté !" #NT!
+ POD_blackdeath.0007.desc: "Le Fléau n'épargne personne... du moins pas vous. C'est vraiment une sensation étrange, la maladie n'est plus qu'un vague souvenir de vos jours de respiration depuis longtemps et maintenant elle revient vous hanter.\nVous vous sentez faible, votre sang a du mal à évoquer le pouvoir qu'il avait autrefois et vous pouvez voir aux yeux de votre entourage la peur d'être exposé à vous... et l'éclat avide d'opportunités méditées alors que vous êtes ainsi affaibli.\nDes temps troubles à venir." #NT!
+ POD_blackdeath.0007.a: "J'ai juste besoin de m'allonger un peu..." #NT!
+ POD_scourge_happening: "Vous avez été infecté par le Fléau. Avec la nature contagieuse de la maladie, votre entourage est ou sera probablement aussi bientôt.\nVous pouvez vérifier la gravité de votre état actuel en tant que modificateur de caractère." #NT!
+ POD_blackdeath.0008.t: "La fin d'un cauchemar ?" #NT!
+ POD_blackdeath.0008.desc: "La peste noire perd lentement du terrain dans le royaume des mortels. Et bien qu’il s’agisse d’un événement totalement dévastateur, il n’a pas anéanti l’humanité comme certains le craignaient. Il faudra beaucoup de temps pour que la civilisation revienne là où elle était avant, mais les efforts de reconstruction ont commencé.\nLe Fléau, cette maladie vampirique qui les a touchés, ralentit également, probablement en raison de son lien parasitaire avec la Peste noire. lui-même. Il semble que la race condamnée de Caine ait gagné un peu plus de temps sous le ciel nocturne." #NT!
+ POD_blackdeath.0008.a: "Le Cavalier Pâle a fait preuve de miséricorde." #NT!
+  
+  
+  
+  
+  

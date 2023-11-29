@@ -1,0 +1,92 @@
+﻿l_french:
+  
+  # Unique Vampire Pool (too cool to skip, but no good to randomize) 
+ unique_vampire_pool: "$1$" #NT!
+ motto_sic_gorgiamus_allos_sujectatos_nuc: "Sic Gorgiamus Allos Subjectatos Nunc" #NT!
+ motto_children_of_the_night: "Enfants de la nuit" #NT!
+ motto_through_the_shadows_we_persevered: "À travers les ombres, nous avons persévéré" #NT!
+ motto_carpe_jugulum: "Carpe Jugulum" #NT!
+ motto_carpe_noctum: "Carpe Noctum" #NT!
+  
+  # Various specific vampire things 
+ motto_various_vampire_things: "$1$" #NT!
+ #motto_christ_protects_us: "Christ nous protège" #NT!
+  
+  
+  # Vampire Nouns 
+ #motto_goodness: "Bonté" #NT!
+ motto_blood: "Sang" #NT!
+ motto_caine: "Caïn" #NT!
+ motto_nod: "Hocher la tête" #NT!
+ motto_shadow: "Ombre" #NT!
+ motto_night: "Nuit" #NT!
+ motto_traditions: "Traditions" #NT!
+ motto_domain: "Domaine" #NT!
+ motto_haven: "Havre" #NT!
+ motto_amaranth: "Amarante" #NT!
+ motto_eternal: "Éternel" #NT!
+ motto_immortal: "Immortel" #NT!
+ motto_destruction: "Destruction" #NT!
+ motto_darkness: "Obscurité" #NT!
+ motto_bone: "Os" #NT!
+ motto_skull: "Crâne" #NT!
+  
+  # Immaterial Adjectives 
+ #motto_honorable: "Honorable" #NT!
+  
+  # the Vampire Adjectives 
+ #motto_the_honorable: "l'honorable" #NT!
+ motto_the_grave: "la tombe" #NT!
+ motto_the_hunger: "la faim" #NT!
+ motto_the_beast: "la bête" #NT!
+ motto_the_blood: "le sang" #NT!
+ motto_the_night: "la nuit" #NT!
+ motto_the_shadows: "les ombres" #NT!
+ motto_the_hunt: "la chasse" #NT!
+ motto_the_traditions: "les traditions" #NT!
+ motto_the_haven: "le Havre" #NT!
+ motto_the_domain: "le domaine" #NT!
+ motto_the_darkness: "l'obscurité" #NT!
+  
+  # Immaterial Adjectives + a or an 
+ #motto_an_honorable: "un honorable" #NT!
+  
+  # Noble Act 
+ #motto_defend: "Défendre" #NT!
+  
+  # Vampire Weapon 
+ #motto_sword_word: "Épée" #NT!
+ motto_stake: "Miser" #NT!
+ motto_fang: "Croc" #NT!
+ motto_fangs: "Crocs" #NT!
+ motto_claw: "Griffe" #NT!
+  
+  # Vampire the Weapon 
+ motto_the_stake: "L'enjeu" #NT!
+ motto_the_fangs: "les crocs" #NT!
+ motto_the_claw: "la griffe" #NT!
+  
+  # Appropriate Godname 
+ #motto_god: "Dieu" #NT!
+  
+  # Vampire Creature 
+ motto_bat: "Chauve souris" #NT!
+ motto_serpent: "Serpent" #NT!
+ motto_rat: "Rat" #NT!
+  
+  # Vampire the Creature 
+ motto_the_bat: "la chauve-souris" #NT!
+ motto_the_serpent: "le serpent" #NT!
+ motto_the_rat: "le rat" #NT!
+  
+  # Annoying Action Verb 
+ #motto_irritate: "Irriter" #NT!
+  
+  # Negative Nouns 
+ #motto_envy: "Envie" #NT!
+  
+  # Negative Adjectives 
+ #motto_envious: "Envieux" #NT!
+  
+  
+  

@@ -1,0 +1,33 @@
+﻿l_french:
+  
+ POD_gargoyle.100.t: "Succès!" #NT!
+ POD_gargoyle.100.desc: "Votre nouvelle construction est créée. Comment l'appelleras-tu ?" #NT!
+ POD_gargoyle.100.option.a: "Servez-moi bien." #NT!
+ event_window_widget_name_gargoyle_random_faith_name: "Un bon nom de gargouille" #NT!
+ event_window_widget_name_gargoyle_random_cultural_name: "Un bon nom [Character.GetCulture.GetNameNoTooltip]" #NT!
+ POD_gargoyle.200.t: "Un envol" #NT!
+ POD_gargoyle.200.desc.start: "Un nouveau demandeur apparaît devant votre tribunal. Une gargouille du nom de [new_gargoyle_aspirant.GetFirstName] prétend avoir fui les Tremere. [new_gargoyle_aspirant.GetSheHe|U] a pu s'échapper lorsque le maître [new_gargoyle_aspirant.GetHerHis], [destroyed_tremere_master.GetFullName], a été détruit" #NT!
+ POD_gargoyle.200.desc.hunters: "par des chasseurs mortels." #NT!
+ POD_gargoyle.200.desc.tzimisce: "par les Tzimisces." #NT!
+ POD_gargoyle.200.desc.lupines: "par une meute de lupins." #NT!
+ POD_gargoyle.200.desc.gangrel: "par un Gangrel vengeur." #NT!
+ POD_gargoyle.200.desc.nosferatu: "par un plan du Nosferatu." #NT!
+ POD_gargoyle.200.desc.banuhaqim: "par un assassin des Banu Haqim." #NT!
+ POD_gargoyle.200.desc.ritual: "par un rituel magique bâclé." #NT!
+ POD_gargoyle.200.desc.hermetic: "par un mage hermétique." #NT!
+ POD_gargoyle.200.desc.certamen: "par un rival Tremere dans un duel Certamen." #NT!
+ POD_gargoyle.200.desc.demon: "par un démon invoqué." #NT!
+ POD_gargoyle.200.desc.dragon: "par un dragon." #NT!
+ POD_gargoyle.200.desc.earthquake: "par un tremblement de terre." #NT!
+ POD_gargoyle.200.desc.fire: "par un feu." #NT!
+ POD_gargoyle.200.desc.gargoyle: "[new_gargoyle_aspirant.GetFirstName], [new_gargoyle_aspirant.GetHerselfHimself]." #NT!
+ POD_gargoyle.200.desc.peasants: "par une foule de paysans armés de fourches et de torches." #NT!
+ POD_gargoyle.200.desc.umbra: "lorsque vous voyagez dans l'ombre." #NT!
+ POD_gargoyle.200.desc.join: "[new_gargoyle_aspirant.GetFirstName] souhaite rejoindre votre cour." #NT!
+ POD_gargoyle.200.desc.gold: "[new_gargoyle_aspirant.GetSheHe|U] offre un cadeau en or." #NT!
+  
+  
+ POD_gargoyle.200.option.a: "Bienvenue dans mon royaume, [new_gargoyle_aspirant.GetFirstName]" #NT!
+ POD_gargoyle.200.option.b: "Fini [new_gargoyle_aspirant.GetFirstName] ! Vous n'êtes pas le bienvenu ici !" #NT!
+ POD_gargoyle.200.option.c: "Saisissez [new_gargoyle_aspirant.GetHerHim] et jetez [new_gargoyle_aspirant.GetHerHim] dans le donjon !" #NT!
+  

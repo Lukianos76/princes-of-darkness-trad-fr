@@ -1,0 +1,60 @@
+﻿l_french:
+ tab_camarilla: "#T Camarilla#!" #NT!
+  
+ CAMARILLA_WINDOW_MEETING_REMAIN_TIME: "Années restantes jusqu'à la prochaine réunion : #V [EmptyScope.ScriptValue('inner_circle_meeting_remaining_year')]#!" #NT!
+ CAMARILLA_WINDOW_MEETING_TOOLTIP: "Cliquez pour lire l'aide sur les réunions" #NT!
+  
+ CAMARILLA_WINDOW_TAB_INNER_CIRCLE: "Cercle intérieur" #NT!
+ CAMARILLA_WINDOW_TAB_JUSTICARS: "Justiciers" #NT!
+ CAMARILLA_WINDOW_TAB_RED_LIST: "liste rouge" #NT!
+  
+ CAMARILLA_WINDOW_MY_STATUS: "Mon statut : #V [GetPlayer.Custom('CamarillaStatus')]#!" #NT!
+ CAMARILLA_WINDOW_CLAN_STATUS: "Statut du clan : #V [GetPlayer.Custom('CamarillaClanStatus')]#!" #NT!
+ CAMARILLA_WINDOW_MEMBER_CLAN: "Membres" #NT!
+  
+ CAMARILLA_WINDOW_JUSTICARS_CLAN: "[Trait.GetName( Character.Self )] [Character.Custom('CamarillaStatus')]" #NT!
+  
+ CAMARILLA_WINDOW_RED_LIST_TROPHY_CLAN: "Clan du trophée : [Trait.GetName( Character.Self )]" #NT!
+ CAMARILLA_WINDOW_RED_LIST_MEMBER_BOUNTY: "Prime : #V [Character.MakeScope.ScriptValue('anathema_bounty_value')|0]#!, [Character.Custom('RedListTrophyModifier')]" #NT!
+ CAMARILLA_WINDOW_ANATHEMA_MEMBER_BOUNTY: "Prime : #V [Character.MakeScope.ScriptValue('anathema_bounty_value')|0]#!\n[SelectLocalization( Character.MakeScope.GetVariable('trophy_clan').IsSet , 'ANATHEMA_WITH_TROPHY', 'ANATHEMA_NO_TROPHY')]" #NT!
+ ANATHEMA_WITH_TROPHY: "Trophée : #TOOLTIP:ANATHEMA_TROPHY_TOOLTIP #L #V Oui#!#!#!" #NT!
+ ANATHEMA_NO_TROPHY: "Trophée : #V Non#!" #NT!
+ ANATHEMA_TROPHY_TOOLTIP: "[Character.Custom('AnathemaTrophyModifier')]" #NT!
+  
+ HAS_HIGHER_CAMARILLA_STATUS_TRIGGER: "A un statut supérieur à [TARGET_CHARACTER.GetFirstName] ([TARGET_CHARACTER.Custom('CamarillaStatus')])." #NT!
+ I_HAVE_HIGHER_CAMARILLA_STATUS_TRIGGER: "Vous avez un statut supérieur à [TARGET_CHARACTER.GetFirstName] ([TARGET_CHARACTER.Custom('CamarillaStatus')])." #NT!
+ NOT_HAS_HIGHER_CAMARILLA_STATUS_TRIGGER: "Est-ce que #bold n'a pas#! un statut supérieur à [TARGET_CHARACTER.GetFirstName] ([TARGET_CHARACTER.Custom('CamarillaStatus')])." #NT!
+ NOT_I_HAVE_HIGHER_CAMARILLA_STATUS_TRIGGER: "Vous n'avez pas #bold#! un statut supérieur à [TARGET_CHARACTER.GetFirstName] ([TARGET_CHARACTER.Custom('CamarillaStatus')])." #NT!
+ IS_IN_RED_LIST_TRIGGER: "Vous êtes sur la liste rouge." #NT!
+ IS_NOT_IN_RED_LIST_TRIGGER: "Vous êtes #bold et non#! sur la Liste Rouge." #NT!
+ IS_IN_INNER_CIRCLE_TRIGGER: "Vous êtes membre [inner_circle|E]." #NT!
+ IS_NOT_IN_INNER_CIRCLE_TRIGGER: "Vous êtes #bold et non#! membre [inner_circle|E]." #NT!
+ IS_JUSTICAR_TRIGGER: "Vous êtes un [justicar|E]." #NT!
+ IS_NOT_JUSTICAR_TRIGGER: "Vous êtes #bold et non #! et [justicar|E]." #NT!
+  
+ custom_camarilla_status_inner_circle: "[inner_circle|E]" #NT!
+ custom_camarilla_status_justicar: "[justicar|E]" #NT!
+ custom_camarilla_status_archon: "[archon|E]" #NT!
+ custom_camarilla_status_prince: "[prince|E]" #NT!
+ custom_camarilla_status_primogen: "[primogen|E]" #NT!
+ custom_camarilla_status_seneschal: "Sénéchal" #NT!
+ custom_camarilla_status_position_holders: "Titulaires de postes" #NT!
+ custom_camarilla_status_acknowledged: "Parent reconnu" #NT!
+ custom_camarilla_status_unreleased: "Kindred inédit" #NT!
+ custom_camarilla_status_recognized: "#TOOLTIP:GAME_TRAIT,ghoul,[GetNullCharacter] #L Reconnu#!#!" #NT!
+ custom_camarilla_status_sabbat: "Sabbat" #NT!
+  
+ custom_camarilla_clan_status_justicar: "Respecté" #NT!
+ custom_camarilla_clan_status_member: "Adhésion" #NT!
+ custom_camarilla_clan_status_accepted: "Accepté" #NT!
+ custom_camarilla_clan_status_shunned: "Boudé" #NT!
+ custom_camarilla_clan_status_crime: "Crime" #NT!
+  
+ hold_justicar_notification: "Toujours Justicier" #NT!
+ hold_justicar_notification_tooltip: "[old_justicar.GetShortUIName|U] conservé dans le statut [old_justicar.GetHerHis] de [justicar|E]." #NT!
+ remove_justicar_notification: "Justicier désavoué" #NT!
+ remove_justicar_notification_tooltip: "[old_justicar.GetShortUIName|U] a perdu le statut [old_justicar.GetHerHis] de [justicar|E]." #NT!
+ set_justicar_notification: "Nouveau justicier" #NT!
+ set_justicar_notification_tooltip: "[new_justicar.GetShortUIName|U] a obtenu le statut de [justicar|E]." #NT!
+ set_inner_circle_notification: "Nouveau cercle intérieur" #NT!
+ set_inner_circle_notification_tooltip: "[new_inner_circle.GetShortUIName|U] a obtenu le statut de membre [inner_circle|E]." #NT!

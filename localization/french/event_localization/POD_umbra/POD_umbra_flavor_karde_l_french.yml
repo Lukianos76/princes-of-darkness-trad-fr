@@ -1,0 +1,783 @@
+﻿l_french:
+  
+ POD_spirit_travel.1300.t: "Le rêve est ma réalité" #NT!
+ POD_spirit_travel.1300.desc: "La périphérie peut parfois être un endroit magnifique. Lorsque l'humanité rêve et espère, le reflet du monde matériel sur la périphérie est aussi beau que possible, apaisant tous les visiteurs avec une chaleureuse sensation de paix et de sécurité.\nLes rêves ne durent cependant jamais, et il est préférable de savourer ces moments éphémères chaque fois que vous le pouvez. ." #NT!
+ POD_spirit_travel.1300.a: "Tellement calme..." #NT!
+ POD_spirit_travel.1300.b: "Ce n'est pas apaisant. C'est ennuyant!" #NT!
+  
+ POD_spirit_travel.1301.t: "Passerelles vers les rêves" #NT!
+ POD_spirit_travel.1301.desc: "Zone la plus onirique de l'Umbra, la Périphérie représente cet état étrange de conscience incomplète entre le sommeil et l'éveil complet.\nEn tant que tel, c'est un endroit très étrange, similaire au monde matériel mais pas tout à fait. C'est là que les gens espèrent, prient ou craignent pour demain. C'est à la fois du bonheur et de la douleur, et il serait facile de se perdre dans ces sensations extrêmes." #NT!
+ POD_spirit_travel.1301.a: "Mieux vaut passer à autre chose..." #NT!
+ POD_spirit_travel.1301.b: "La vie est laborieuse." #NT!
+  
+ POD_spirit_travel.1302.t: "S'immiscer dans les rêves" #NT!
+ POD_spirit_travel.1302.desc: "Presque tout le monde a accès à la Périphérie d'une manière ou d'une autre, puisque c'est là que les rêves se forment et se concrétisent. Pour un voyageur expérimenté de l'Umbra (comme vous), il n'est pas très difficile de s'immiscer dans les rêves des autres. Il n'y a aucun moyen de savoir exactement avec qui vous jouez, donc c'est vraiment une photo dans le noir." #NT!
+ POD_spirit_travel.1302.a: "Mauvais sommeil entrant !" #NT!
+ POD_spirit_travel.1302.b: "Ne soyons pas méchants." #NT!
+  
+ POD_spirit_travel.1400.t: "Vous voyez des morts" #NT!
+ POD_spirit_travel.1400.desc: "Les [shadowlands|E] sont un endroit aride et sans espoir, même pour les spectres. Tous les êtres ici sont condamnés à une lente agonie jusqu'à leur inévitable descente dans l'Oblivion. Il est difficile de ne pas se sentir hanté par le désespoir ambiant et rester longtemps aura des conséquences néfastes, même sur les âmes les plus résistantes." #NT!
+ POD_spirit_travel.1400.a: "Je dois avancer." #NT!
+ POD_spirit_travel.1400.b: "Bonjour ténèbres, vieil ami!" #NT!
+  
+ POD_spirit_travel.1401.t: "Cimetière des civilisations" #NT!
+ POD_spirit_travel.1401.desc: "La mort n'attend personne et les [shadowlands|E] regorgent de spectres de civilisations étrangères (ou même disparues depuis longtemps). Certains d’entre eux peuvent être très bavards sur leur culture passée et accueillir un interlocuteur disposé à en apprendre davantage. La nostalgie est un fort sentiment pour les perdus et les damnés.\nLorsque vous écoutez l'un de ces spectres, votre esprit vagabonde et vous pouvez presque vous sentir vivre à cette époque et dans ce lieu à leurs côtés..." #NT!
+ POD_spirit_travel.1401.a: "Le temps de changer!" #NT!
+ POD_spirit_travel.1401.b: "Je suis bien avec qui je suis." #NT!
+  
+ dead_insight_modifier: "Aperçu de la tombe" #NT!
+ dead_insight_modifier_desc: "Vous connaissez la sagesse d’érudits disparus depuis longtemps. Mais vous empestez aussi la mort et repoussez instinctivement quiconque s’approche de vous." #NT!
+  
+ POD_spirit_travel.1402.t: "Connaissance d'au-delà" #NT!
+ POD_spirit_travel.1402.desc: "Les âmes perdues confinées au [shadowlands|E] viennent de tous les coins de la Terre et vous pouvez trouver parmi elles une quantité surprenante d’informations. Cependant, les spectres sont notoirement méfiants et apprendre d'eux demande un effort non négligeable. Si vous souhaitez rester un peu plus longtemps au Royaume des Morts, vous pourriez convaincre certains d'entre eux de vous enseigner quelques connaissances utiles." #NT!
+ POD_spirit_travel.1402.a: "J'ai du temps." #NT!
+ POD_spirit_travel.1402.b: "Je ne prolongerai pas mon accueil." #NT!
+  
+ back_to_nature_modifier: "Retour à la nature" #NT!
+ back_to_nature_modifier_desc: "Votre voyage dans le [spirit_wilds|E] vous a fait prendre conscience de la beauté de la nature et de l'horreur que lui apporte l'humanité." #NT!
+  
+ POD_spirit_travel.1500.t: "Retour à la nature" #NT!
+ POD_spirit_travel.1500.desc: "Les [spirit_wilds|E] sont une représentation spirituelle de la Terre dans sa forme la plus pure et la plus naturelle. À bien des égards, c’est un paradis indompté et sauvage, mais il n’est pas non plus complètement isolé du monde matériel. La corruption apportée par l’humanité peut être vue s’installer là où les civilisations sont particulièrement puissantes." #NT!
+ POD_spirit_travel.1500.a: "Civilisation? Une peste!" #NT!
+ POD_spirit_travel.1500.b: "Le progrès ne peut pas être arrêté." #NT!
+  
+ POD_spirit_travel.1501.t: "La tortue noire" #NT!
+ POD_spirit_travel.1501.desc: "Vous êtes tombé par hasard sur l'insaisissable Genbu, un vieil esprit de tortue ratatiné. Genbu est un penseur lent mais puissant, souvent confondu avec un totem de sagesse en raison de sa dépendance à la pensée pour résoudre les problèmes, mais il aime également utiliser la pensée pour déjouer ses ennemis. C'est un ennemi rusé, généralement sous-estimé, et ses plans élaborés sont souvent bizarres et imprévisibles.\nCette rencontre fortuite pourrait être une occasion unique d'obtenir son aide, si vous parvenez à lui montrer que vous en êtes digne, bien sûr." #NT!
+ POD_spirit_travel.1501.a: "Tromper un filou." #NT!
+ POD_spirit_travel.1501.effect.success.desc: "Genbu est impressionné !" #NT!
+ POD_spirit_travel.1501.success: "Genbu est impressionné !" #NT!
+ POD_spirit_travel.1501.failure.effect.desc: "Genbu n'est pas impressionné..." #NT!
+ POD_spirit_travel.1501.failure: "Genbu n'est pas impressionné..." #NT!
+  
+ POD_spirit_travel.1502.t: "Le monde sauvage" #NT!
+ POD_spirit_travel.1502.desc: "En tant que représentation spirituelle de l'état naturel du monde, les [spirit_wilds|E] sont un lieu sauvage habité par toutes sortes de créatures éteintes dans le monde matériel (ou qui n'y ont jamais existé en premier lieu). La plupart d'entre eux ne sont pas vraiment du genre amical et un groupe d'entre eux vous a repéré et a décidé que vous prépareriez un repas parfaitement acceptable. Vous voudrez peut-être éviter ce sort." #NT!
+ POD_spirit_travel.1502.a: "L'homme contre le sauvage !" #NT!
+ POD_spirit_travel.1502.b: "Fuyez!" #NT!
+  
+ POD_spirit_travel.1600.t: "Surcharge" #NT!
+ POD_spirit_travel.1600.desc: "Le plan Astral est le royaume des idées, des pensées et des inventions. De toute évidence, c'est un endroit idéal pour apprendre beaucoup... mais peut-être trop, en fait. Il y a tellement de choses à découvrir ici, des possibilités inexplorées, un potentiel fou... le cerveau humain n'est tout simplement pas fait pour ce genre d'exploration sans limites. On se sent dériver, se perdre peu à peu dans cet infini..." #NT!
+ POD_spirit_travel.1600.a: "Tant de possibilités !" #NT!
+ POD_spirit_travel.1600.b: "Je dois me concentrer..." #NT!
+  
+ mind_blown_modifier: "L'esprit soufflé" #NT!
+ mind_blown_modifier_desc: "Vous voyez tout !" #NT!
+  
+ POD_spirit_travel.1601.t: "Rationalité" #NT!
+ POD_spirit_travel.1601.desc: "Le plan Astral est une représentation complète du potentiel illimité des idées et des pensées. Tout est possible au visiteur érudit s’il a la volonté de rester et d’écouter. Cet amalgame d'idées éthéré et sans forme a peu de patience pour des concepts idiots tels que la « sociabilité », mais chaque fois que vous apprenez quelque chose, vous pouvez vous sentir de plus en plus ennuyé à l'idée de devoir à nouveau parler à d'autres êtres à un moment donné." #NT!
+ POD_spirit_travel.1601.a: "Qui a besoin d'amis ?" #NT!
+ POD_spirit_travel.1601.b: "Je sais assez." #NT!
+  
+ POD_spirit_travel.1602.t: "Redirection" #NT!
+ POD_spirit_travel.1602.desc: "Il y a trop d’idées flottant dans le plan Astral pour que vous puissiez les explorer, mais il pourrait y avoir une autre option à considérer afin d’exploiter le potentiel de cet endroit. Les idées adorent trouver une nouvelle « maison » dans le monde matériel et, avec la volonté appropriée, vous pourrez peut-être en pousser doucement une dans les rêves et les pensées d’une personne proche de vous. Alors, qui sait ce que pourrait résulter cette inspiration « soudaine » ?" #NT!
+ POD_spirit_travel.1602.a: "Je vous guiderai vers votre nouvel hôte." #NT!
+ POD_spirit_travel.1602.b: "Je ne suis pas une muse." #NT!
+  
+ POD_spirit_travel.1700.t: "La rivière du langage" #NT!
+ POD_spirit_travel.1700.desc: "À l’intérieur de la Vulgate se trouve la rivière du langage. Comme son nom l’indique, cette rivière est une représentation spirituelle des nombreuses langues de l’humanité. Un esprit de passage vous a dit que plus vous remontez la rivière, plus les langues qui s'y trouvent sont anciennes.\nVous pouvez essayer d'en boire à ces endroits précis pour acquérir des connaissances perdues, mais apprendre instantanément une langue ancienne peut être assez coûteux pour l'esprit." #NT!
+ POD_spirit_travel.1700.a: "Ici peut-être ?" #NT!
+ POD_spirit_travel.1700.b: "Cet endroit ressemble au Nil." #NT!
+ POD_spirit_travel.1700.c: "Petit effluent intéressant ici." #NT!
+ POD_spirit_travel.1700.d: "Rien d'interessant." #NT!
+  
+ POD_spirit_travel.1701.t: "Abrutissement" #NT!
+ POD_spirit_travel.1701.desc: "La Vulgate est l’endroit où prennent forme les impressions et les idées les plus fondamentales. Des choses comme une chaise, le ciel au-dessus des gens et d'autres concepts simples auxquels l'humanité ne pense pas trop et qu'elle tient pour acquis. À ce titre, ce lieu est assez paisible et apaisant mais peu stimulant intellectuellement. Vous pourriez facilement vous perdre en vous éloignant, en pensant à des pensées simples, si vous ne faites pas attention." #NT!
+ POD_spirit_travel.1701.a: "Le feu est chaud." #NT!
+ POD_spirit_travel.1701.b: "Il est temps de réfléchir à la politique dans mon royaume." #NT!
+  
+ vulgate_confused_modifier: "Confus" #NT!
+ vulgate_confused_modifier_desc: "Cela n'a aucun sens... n'est-ce pas ?" #NT!
+  
+ vulgate_understanding_modifier: "Étrange compréhension" #NT!
+ vulgate_understanding_modifier_desc: "C'est logique, je suppose ?" #NT!
+  
+ POD_spirit_travel.1702.t: "Faible philosophie" #NT!
+ POD_spirit_travel.1702.desc: "En tant que lieu où prennent forme les idées et les concepts les plus fondamentaux de l'humanité, la Vulgate abrite des esprits... particuliers. Ces "philosophes" ont eu une éternité pour réfléchir aux vérités les plus simples de l'univers et ont ensuite trouvé des solutions "intéressantes".\nVous avez fait l'erreur de vous laisser prendre dans l'un de leurs arguments et êtes complètement déconcerté par la façon dont ils le font. rendre les idées simples si complexes. Les philosophes sont les mêmes partout, semble-t-il." #NT!
+ POD_spirit_travel.1702.a: "J'avais tort depuis le début !" #NT!
+ POD_spirit_travel.1702.b: "Cela n'a aucun sens !" #NT!
+ POD_spirit_travel.1702.c: "Je suppose que cela a du sens..." #NT!
+  
+ POD_spirit_travel.1800.t: "Paix et calme" #NT!
+ POD_spirit_travel.1800.desc: "Ressemblant à l'Himalaya qu'ils appellent leur foyer, les terres tribales des Stargazers sont un lieu d'auto-réflexion couvert de paysages majestueux et paisibles à perte de vue. Pour un membre de cette tribu, c'est bel et bien le chez-soi, l'endroit où il peut se retrouver et enfin comprendre sa vérité intérieure." #NT!
+ POD_spirit_travel.1800.a: "La vérité est ici." #NT!
+  
+ POD_spirit_travel.1801.t: "Les cinq épreuves" #NT!
+ POD_spirit_travel.1801.desc: "Les Terres Tribales des Stargazers sont un lieu de contemplation, mais aussi un lieu conçu pour tester les Garous tant physiquement que mentalement. En tant qu'observateur d'étoiles, vous êtes invité à essayer l'une des cinq formations. Vous savez très bien que l’on s’attend à de nombreux échecs en cours de route, ce qui n’est peut-être pas la chose la plus prestigieuse à voir pour vos frères." #NT!
+ POD_spirit_travel.1801.a: "Mes connaissances sont grandes." #NT!
+ POD_spirit_travel.1801.b: "Je peux déjouer le Wyrm." #NT!
+ POD_spirit_travel.1801.c: "Mon caern est en ordre." #NT!
+ POD_spirit_travel.1801.d: "Quand je parle, ils écoutent." #NT!
+ POD_spirit_travel.1801.e: "Je peux nous conduire à la victoire." #NT!
+ POD_spirit_travel.1801.f: "Je ne suis pas encore prêt." #NT!
+  
+ POD_spirit_travel.1802.t: "Visiteur indésirable" #NT!
+ POD_spirit_travel.1802.desc: "Les Terres Tribales des Stargazers ne sont pas un endroit convivial pour les étrangers à la tribu comme vous. Même si ses habitants ne sont pas franchement hostiles, ils mettent un point d'honneur à vous induire en erreur et à vous éloigner des lieux vraiment importants du royaume. Même de simples discussions avec eux finissent par vous sentir plus confus après leurs réponses qu'avant de poser vos questions." #NT!
+ POD_spirit_travel.1802.a: "Je ne devrais pas rester ici longtemps." #NT!
+  
+ POD_spirit_travel.1900.t: "L'amour est une montagne" #NT!
+ POD_spirit_travel.1900.desc: "Les flèches servent de passage entre la Vulgate et les Épiphamies. Il s’agit d’une chaîne de très hautes montagnes représentant chacune l’un des concepts fondamentaux vécus par l’humanité depuis la nuit des temps. Pour naviguer dans les Spires, vous devez escalader métaphoriquement l'une de ces montagnes, en vous appuyant sur votre propre vision et interprétation du concept qui y est associé.\nLa chance a que vous ayez commencé votre voyage près de la représentation spirituelle de l'amour, qui met désormais à l'épreuve votre connaissance de ce sujet difficile." #NT!
+ POD_spirit_travel.1900.a: "Je connais une chose ou deux sur l'amour..." #NT!
+ POD_spirit_travel.1900.b: "L'amour est un mensonge!" #NT!
+ love_spires_tt: "Comme vous avez au moins un amant ou une âme sœur, vous pouvez rester indemne à Spire." #NT!
+ unlove_spires_tt: "Comme vous n'avez pas au moins un amant ou une âme sœur, vous êtes mentalement épuisé par votre séjour dans les Spires." #NT!
+  
+ POD_spirit_travel.1901.t: "Montagne de guerre" #NT!
+ POD_spirit_travel.1901.desc: "Les flèches servent de passage entre la Vulgate et les Épiphamies. Il s’agit d’une chaîne de très hautes montagnes représentant chacune l’un des concepts fondamentaux vécus par l’humanité depuis la nuit des temps. Pour naviguer dans les Spires, vous devez escalader métaphoriquement l'une de ces montagnes, en vous appuyant sur votre propre vision et interprétation du concept qui y est associé.\nLa chance a été que vous ayez commencé votre voyage près de la représentation spirituelle de la guerre, qui met désormais à l'épreuve votre connaissance de ce sujet difficile." #NT!
+ POD_spirit_travel.1901.a: "Je connais une chose ou deux sur la guerre..." #NT!
+ POD_spirit_travel.1901.b: "J'emploie d'autres personnes pour faire la guerre." #NT!
+ war_spires_tt: "Comme vous avez au moins de bonnes connaissances en matière martiale, vous pouvez rester indemne à Spire." #NT!
+ unwar_spires_tt: "Comme vous n'avez pas au moins une bonne connaissance des questions martiales, vous êtes mentalement épuisé par votre séjour dans les Spires." #NT!
+  
+ POD_spirit_travel.1902.t: "Escalader votre destin" #NT!
+ POD_spirit_travel.1902.desc: "Les flèches servent de passage entre la Vulgate et les Épiphamies. Il s’agit d’une chaîne de très hautes montagnes représentant chacune l’un des concepts fondamentaux vécus par l’humanité depuis la nuit des temps. Pour naviguer dans les Spires, vous devez escalader métaphoriquement l'une de ces montagnes, en vous appuyant sur votre propre vision et interprétation du concept qui y est associé.\nLa chance a été que vous ayez commencé votre voyage près de la représentation spirituelle du destin, qui met désormais à l'épreuve votre connaissance de ce sujet difficile." #NT!
+ POD_spirit_travel.1902.a: "Je connais une chose ou deux sur le destin..." #NT!
+ POD_spirit_travel.1902.b: "Pouvez vous répéter la question?" #NT!
+ destiny_spires_tt: "Comme vous avez au moins de bonnes connaissances en matière scientifique, vous pouvez rester indemne à Spire." #NT!
+ undestiny_spires_tt: "Comme vous n'avez pas au moins une bonne connaissance des matières scientifiques, vous êtes mentalement épuisé par votre séjour aux Spires." #NT!
+  
+ POD_spirit_travel.2000.t: "Videurs célestes" #NT!
+ POD_spirit_travel.2000.desc: "Autrefois terrain ouvert aux aventuriers et aux philosophes spirituels, le Grand Hall a été envahi au cours du premier siècle de notre ère par une race de mystérieuses sentinelles. Leur objectif principal semble être de garantir que les gens ne traînent plus dans le Grand Hall comme avant. Fondamentalement, faites vos affaires ici et ensuite passez à autre chose, telle est leur devise.\nLeur présence et leurs regards méfiants constants sur vous font de ce royaume par ailleurs agréable un séjour plus stressant que prévu." #NT!
+ POD_spirit_travel.2000.a: "Je ne resterai pas longtemps, promis" #NT!
+  
+ POD_spirit_travel.2001.t: "Errant autour" #NT!
+ POD_spirit_travel.2001.desc: "Le Grand Hall est en fait un terme plutôt inapproprié. Il s'agit surtout d'un très grand dédale de couloirs de style méditerranéen classique. Comme pour la plupart des choses dans l’Umbra, elle est également en constante évolution, ce qui signifie que vous pouvez vous y promener presque indéfiniment tout en découvrant de nouvelles choses. Certaines des découvertes potentielles ne sont cependant pas aussi bénignes que d’autres, donc on ne sait jamais quel sera le résultat final d’une telle errance à la fin." #NT!
+ POD_spirit_travel.2001.a: "Je me sens chanceux." #NT!
+ POD_spirit_travel.2001.b: "Je vais rester sur place pour l'instant, merci." #NT!
+  
+ POD_spirit_travel.2002.t: "La fontaine" #NT!
+ POD_spirit_travel.2002.desc: "Dans une grande salle de connexion, une douzaine de couloirs se rejoignent. Au centre de cet espace, une fontaine est entourée de personnages très réalistes encastrés dans la pierre. L'une des sentinelles, gardiennes autoproclamées de ce royaume, vous explique que ces statues étaient autrefois des visiteurs qui pensaient être au-dessus des lois des sentinelles de ce lieu. Evidemment, ils avaient tort.\nLa sentinelle conclut son histoire en vous conseillant de ne pas faire preuve de la même arrogance." #NT!
+ POD_spirit_travel.2002.a: "Une petite histoire pittoresque." #NT!
+ POD_spirit_travel.2002.b: "Je les aurais écrasés !" #NT!
+  
+ mirror_zone_modifier: "J'ai expérimenté la zone miroir" #NT!
+ mirror_zone_modifier_desc: "Vous avez vu trop de choses inquiétantes dans la Zone Miroir pour être encore dérangé par des problèmes banals." #NT!
+  
+ POD_spirit_travel.2100.t: "Face au miroir" #NT!
+ POD_spirit_travel.2100.desc: "Se déplaçant toujours entre les royaumes, la Zone Miroir est une présence inquiétante dans l'Umbra. Cela provoque des hallucinations localisées à la fois impossibles et très personnelles. Des amants passés, des ennemis morts et d'autres relations personnelles vous attendent tous à l'intérieur.\nHeureusement, ces hallucinations ne sont que temporaires et peuvent en fait être un bon moyen de renforcer votre psychisme pour les épreuves à venir. Pourtant, ici et maintenant, cela aurait des conséquences néfastes sur votre santé mentale." #NT!
+ POD_spirit_travel.2100.a: "Je braverai les fantômes de mon passé." #NT!
+ POD_spirit_travel.2100.b: "Les éviter semble plus sûr." #NT!
+  
+ POD_spirit_travel.2101.t: "Possibilités de mise en miroir" #NT!
+ POD_spirit_travel.2101.desc: "La mystérieuse Mirror Zone aime montrer à ses « invités » ce qui aurait pu être. La tapisserie infinie de possibilités qui émergeraient d’un simple choix différent quelque part dans votre vie. De manière alarmante, il est également connu qu'il tente d'imposer ces réalités alternatives aux visiteurs pour une sorte d'amusement astral pervers.\nFace à l'un des miroirs, vous vous voyez comme un grand général, même à vos débuts, qui n'a jamais connu la défaite. et restera toujours dans les mémoires de l'Histoire." #NT!
+ POD_spirit_travel.2101.a: "...c'est vrai, n'est-ce pas ?" #NT!
+ POD_spirit_travel.2101.b: "Attends, ce n'est pas moi !" #NT!
+  
+ POD_spirit_travel.2102.desc: "La mystérieuse Mirror Zone aime montrer à ses « invités » ce qui aurait pu être. La tapisserie infinie de possibilités qui émergeraient d’un simple choix différent quelque part dans votre vie. De manière alarmante, il est également connu qu'il essaie d'imposer ces réalités alternatives aux visiteurs pour une sorte d'amusement astral pervers.\nFace à l'un des miroirs, vous vous voyez comme un grand diplomate, même à vos débuts, qui pouvait toujours obtenir son manière et restera toujours dans les mémoires de l’Histoire." #NT!
+  
+ POD_spirit_travel.2200.t: "Chemins du Wyck" #NT!
+ POD_spirit_travel.2200.desc: "À la base, les Chemins du Wyck ne sont qu’un immense labyrinthe de petites routes menant à presque tous les endroits de l’Umbra et au-delà. Il est assez difficile de s'orienter dans un tel endroit mais les Voies sont également connues pour être en dehors de la notion matérielle du temps, ce qui signifie que vous avez, littéralement, tout le temps du monde pour le faire. Le seul problème que vous pouvez rencontrer ici est de mourir d’ennui, car rien de réellement intéressant ne se produit jamais." #NT!
+ POD_spirit_travel.2200.a: "Au moins, ce n'est pas dangereux." #NT!
+  
+ POD_spirit_travel.2201.t: "Marcher seul" #NT!
+ POD_spirit_travel.2201.desc: "À la base, les Chemins du Wyck ne sont qu’un immense labyrinthe de petites routes menant à presque tous les endroits de l’Umbra et au-delà. Il est assez difficile de s'orienter dans un tel endroit mais les Voies sont également connues pour être en dehors de la notion matérielle du temps, ce qui signifie que vous avez, littéralement, tout le temps du monde pour le faire. Le seul problème que vous pouvez rencontrer ici est de mourir d'ennui, car rien de vraiment intéressant ne se produit.\nC'est comme si vous étiez ici depuis des jours maintenant et qu'il n'y avait rien d'autre à faire que de marcher, de marcher et de marcher..." #NT!
+ POD_spirit_travel.2201.a: "Je trouve ça plutôt rafraîchissant en fait." #NT!
+ POD_spirit_travel.2201.b: "Bouillant" #NT!
+  
+ POD_spirit_travel.2202.t: "Entraînement astral" #NT!
+ POD_spirit_travel.2202.desc: "À la base, les Chemins du Wyck ne sont qu’un immense labyrinthe de petites routes menant à presque tous les endroits de l’Umbra et au-delà. Il est assez difficile de s'orienter dans un tel endroit mais les Voies sont également connues pour être en dehors de la notion matérielle du temps, ce qui signifie que vous avez, littéralement, tout le temps du monde pour le faire. Le seul problème que vous pouvez rencontrer ici est de mourir d'ennui, car rien de vraiment intéressant ne se produit.\nC'est comme si vous étiez ici depuis des jours maintenant et qu'il n'y avait rien d'autre à faire que de marcher, de marcher et de marcher... Au moins, c'est un bon entraînement, à tout le moins." #NT!
+ POD_spirit_travel.2202.a: "Un, deux, un, deux..." #NT!
+  
+ POD_spirit_travel.2300.t: "Jours heureux" #NT!
+ POD_spirit_travel.2300.desc: "Les épiphamies incarnent des concepts d'abstraction complète et se matérialisent souvent sous la forme de nuages ​​colorés dans le ciel sombre de la Vulgate.\nPar un coup de chance, vous avez atteint l'épiphamie du bonheur. En vous éloignant dans un nuage agréablement dodu, vous vous sentez plus revigoré et, enfin, heureux que vous ne l'ayez jamais été de toute votre vie." #NT!
+ POD_spirit_travel.2300.a: "Pas de souci au monde !" #NT!
+ POD_spirit_travel.2300.b: "Le bonheur est surfait. Retour au travail." #NT!
+  
+ epiphamie_love_modifier: "Jours heureux" #NT!
+ epiphamie_love_modifier_desc: "Pourquoi devriez-vous vous soucier de quoi que ce soit ? Tu es heureux!" #NT!
+  
+ POD_spirit_travel.2301.t: "Ex nihilo" #NT!
+ POD_spirit_travel.2301.desc: "Les épiphamies incarnent des concepts d'abstraction complète et se matérialisent souvent sous la forme de nuages ​​colorés dans le ciel sombre de la Vulgate.\nPar un coup de malheur, vous avez atteint l'épiphamie de l'oubli. Vous vous retrouvez dans une tempête de nuages ​​noirs et inquiétants, vous pouvez à peine vous extraire avant d'être entraîné pour faire partie de cette Épiphamie toujours affamée." #NT!
+ POD_spirit_travel.2301.a: "J'ai perdu une partie de moi." #NT!
+ POD_spirit_travel.2301.b: "C'était trop proche..." #NT!
+ POD_spirit_travel.2301.c: "Bonjour ténèbres, vieil ami!" #NT!
+  
+ POD_spirit_travel.2302.t: "Gloire astrale" #NT!
+ POD_spirit_travel.2302.desc: "Les épiphamies incarnent des concepts d'abstraction complète et se matérialisent souvent sous la forme de nuages ​​colorés dans le ciel sombre de la Vulgate.\nPar un coup de chance, vous avez atteint l'épiphamie de gloire. Entouré de nuages ​​à l’apparence quelque peu royale, vous pouvez vous retrouver plus grand qu’avant, votre regard puissant forçant le respect de ceux qui vous entourent." #NT!
+ POD_spirit_travel.2302.a: "J'ai perdu une partie de moi." #NT!
+  
+ POD_spirit_travel.2400.t: "Technobabble" #NT!
+ POD_spirit_travel.2400.desc: "L'Inventium est un royaume rempli de toutes les inventions dont l'humanité a jamais rêvé. Un groupe de mages, héritiers de ceux qui ont fondé cet endroit, contrôlent ce royaume en partie dans l'espoir de faire progresser la connaissance humaine, en partie pour en tirer profit.\nAujourd'hui, vous êtes coincé par l'un de leurs membres excentriques qui divague. à propos de leur dernière fantaisie. Bien que pas très bien structuré, on peut presque voir le génie derrière ses théories... ou la pure folie." #NT!
+ POD_spirit_travel.2400.a: "C’est parfaitement logique !" #NT!
+ POD_spirit_travel.2400.b: "Si vous m'excusez, s'il vous plaît..." #NT!
+ POD_spirit_travel.2400.c: "Cher collègue, vous commettez des erreurs majeures..." #NT!
+  
+ POD_spirit_travel.2401.t: "Outils du métier" #NT!
+ POD_spirit_travel.2401.desc: "L'Inventium est un royaume rempli de toutes les inventions dont l'humanité a jamais rêvé. Un groupe de mages, héritiers de ceux qui ont trouvé cet endroit, contrôlent ce royaume en partie dans l'espoir de faire progresser les connaissances humaines, et en partie pour en tirer profit.\nAujourd'hui, vous avez découvert un étrange ensemble d'outils apparemment assez avancés. Même si vous n’êtes pas d’humeur à créer de nouvelles choses, vous pouvez toujours les utiliser pour peaufiner votre inventaire existant." #NT!
+ POD_spirit_travel.2401.a: "Aussi bon que neuf!" #NT!
+  
+ POD_spirit_travel.2402.t: "Chercheurs de voleurs" #NT!
+ POD_spirit_travel.2402.desc: "L'Inventium est un royaume rempli de toutes les inventions dont l'humanité a jamais rêvé. Un groupe de Mages, héritiers de ceux qui ont trouvé cet endroit, contrôlent ce royaume en partie dans l'espoir de faire progresser la connaissance humaine, et en partie pour en tirer profit.\nCes soi-disant « Scavengers » sont souvent aveuglés par la cupidité et ont longtemps oublié leurs idéaux autrefois nobles. Ce qui est ennuyeux, c'est qu'ils sont désormais très doués pour braquer les visiteurs de l'Inventium sans se faire remarquer. Vous avez malheureusement été l'une de leurs victimes aujourd'hui et vous ne pouvez pas, de manière réaliste, accuser chaque mage ici de petit vol sans créer une situation difficile." #NT!
+ POD_spirit_travel.2402.a: "Vol à la tire astral ? Sérieusement?" #NT!
+  
+ POD_spirit_travel.2500.t: "Clio, muse de l'Histoire" #NT!
+ POD_spirit_travel.2500.desc: "La Cour des Muses a beaucoup souffert de l’extinction presque complète de la croyance hellénique classique. Pourtant, alors que leur royaume rétrécit chaque jour, les neuf filles de Zeus pratiquent toujours leur art, espérant que leur passion conjurera Oblivion un peu plus longtemps.\nClio est la Muse de l'Histoire et elle est plus que disposée à vous l'enseigner. sujet favori. Pourtant, en tant qu’entités spirituelles, il est probable qu’un tel enseignement aura un impact profond sur la façon dont vous percevez le monde qui vous entoure." #NT!
+ POD_spirit_travel.2500.a: "Apprends-moi, ô Muse." #NT!
+ POD_spirit_travel.2500.b: "Je dois poliment refuser." #NT!
+  
+ POD_spirit_travel.2501.t: "Melpomène, muse de la tragédie" #NT!
+ POD_spirit_travel.2501.desc: "La Cour des Muses a beaucoup souffert de l’extinction presque complète de la croyance hellénique classique. Pourtant, même si leur royaume rétrécit chaque jour, les neuf filles de Zeus pratiquent toujours leur art, espérant que leur passion conjurera Oblivion un peu plus longtemps.\nMelpomène est la muse de la tragédie et elle est plus que disposée à vous l'enseigner. sujet favori. Pourtant, en tant qu’entités spirituelles, il est probable qu’un tel enseignement aura un impact profond sur la façon dont vous percevez le monde qui vous entoure." #NT!
+  
+ POD_spirit_travel.2502.t: "Thalia, muse de la comédie" #NT!
+ POD_spirit_travel.2502.desc: "La Cour des Muses a beaucoup souffert de l’extinction presque complète de la croyance hellénique classique. Pourtant, même si leur royaume rétrécit chaque jour, les neuf filles de Zeus continuent de pratiquer leur art, espérant que leur passion conjurera Oblivion un peu plus longtemps.\nThalia est la muse de la comédie et elle est plus que disposée à vous l'enseigner. sujet favori. Pourtant, en tant qu’entités spirituelles, il est probable qu’un tel enseignement aura un impact profond sur la façon dont vous percevez le monde qui vous entoure." #NT!
+  
+ POD_spirit_travel.2600.t: "Hôtes hostiles" #NT!
+ POD_spirit_travel.2600.desc: "La Cité d'Airain est la demeure des Djinns et de leurs citadelles les plus puissantes. Ces esprits sont notoirement hostiles aux visiteurs suite à de mauvaises relations avec les mages dans le passé. Pour aggraver les choses, ils sont connus pour être des menteurs compulsifs.\nLes Djinns ont senti votre approche et vous ont coincé, vous demandant pourquoi ils devraient errer librement dans leur fabuleuse demeure. De toute évidence, vous pourriez épargner une « marque d’appréciation » pour vos hôtes…" #NT!
+ POD_spirit_travel.2600.a: "Esprits gourmands..." #NT!
+ POD_spirit_travel.2600.effect.success.desc: "Les Djinns vous laissent continuer" #NT!
+ POD_spirit_travel.2600.success: "Les Djinns vous laissent continuer" #NT!
+ POD_spirit_travel.2600.failure.effect.desc: "Une taxe aux frontières..." #NT!
+ POD_spirit_travel.2600.failure: "Il faut payer le prix" #NT!
+  
+ POD_spirit_travel.2601.t: "Djnns menteurs" #NT!
+ POD_spirit_travel.2601.desc: "La Cité d'Airain est la demeure des Djinns et de leurs citadelles les plus puissantes. Ces esprits sont notoirement hostiles aux visiteurs suite à de mauvaises relations avec les mages dans le passé. Pour aggraver les choses, ils sont connus pour être des menteurs compulsifs.\nLes Djinns se sont intéressés à vous et vous ont contraint à participer à l'un de leurs fameux jeux d'énigmes. Si vous ne voulez pas paraître mauvais aux yeux de vos hôtes pas si sympathiques, vous devrez deviner la bonne réponse. Ce qui est d’autant plus difficile que même les règles mentent…" #NT!
+ POD_spirit_travel.2601.a: "Esprits menteurs..." #NT!
+ POD_spirit_travel.2601.effect.success.desc: "Vous avez bien deviné !" #NT!
+ POD_spirit_travel.2601.success: "Vous avez bien deviné !" #NT!
+ POD_spirit_travel.2601.failure.effect.desc: "Vous avez mal deviné..." #NT!
+ POD_spirit_travel.2601.failure: "Vous avez mal deviné..." #NT!
+  
+ POD_spirit_travel.2602.t: "Djinnis du jeu" #NT!
+ POD_spirit_travel.2602.desc: "La Cité d'Airain est la demeure des Djinnis et de leurs citadelles les plus puissantes. Ces esprits sont notoirement hostiles aux visiteurs suite à de mauvaises relations avec les mages dans le passé. Pour aggraver les choses, ils sont connus comme des menteurs compulsifs.\nLe calife du Djinn, al-Dimiryat, vous a invité à un jeu de chance aux enjeux élevés ; si vous gagnez, vous obtenez une partie du trésor du légendaire Djinn. Il y a évidemment un hic, le jeu est contre vous et le calife invente les règles à la volée. Mais s’il y a une infime possibilité que vous puissiez réellement gagner… peut-être que cela en vaudrait la peine ?" #NT!
+ POD_spirit_travel.2602.a: "Je me sens chanceux" #NT!
+ POD_spirit_travel.2602.b: "Dame Chance est trop inconstante" #NT!
+  
+ POD_spirit_travel.2700.t: "Rester dehors" #NT!
+ POD_spirit_travel.2700.desc: "Le Royaume Éthéré est accessible depuis les nuages ​​du [spirit_wilds|E]. Son point le plus bas est constitué de montagnes fantastiques faites de nuages ​​et habitées par des esprits aériens. Ils ont une couche supérieure spongieuse mais sont solides et faciles à marcher. Les nuages ​​se déplacent et coulent à leur propre rythme et forment de merveilleux paysages de plaines, de collines, de vallées et de montagnes qui ont tous la même solidité spongieuse.\nC'est un royaume entièrement contrôlé par la nation Garou et ses alliés et, en tant que tel, est très peu accueillant pour les étrangers. Dès votre arrivée, vous êtes en fuite, pourchassé par les nombreux et puissants gardiens du royaume." #NT!
+ POD_spirit_travel.2700.a: "Je devrais déménager rapidement" #NT!
+  
+ POD_spirit_travel.2701.t: "Escalade astrale" #NT!
+ POD_spirit_travel.2701.desc: "Le Royaume Éthéré est accessible depuis les nuages ​​du [spirit_wilds|E]. Son point le plus bas est constitué de montagnes fantastiques faites de nuages ​​et habitées par des esprits aériens. Ils ont une couche supérieure spongieuse mais sont solides et faciles à marcher. Les nuages ​​se déplacent et coulent à leur propre rythme et forment de merveilleux paysages de plaines, de collines, de vallées et de montagnes qui ont tous la même solidité spongieuse.\nBien qu'il soit possible d'utiliser les nuages ​​comme moyen de voyager à travers les royaumes, certains préfèrent grimper. les nombreuses montagnes qui parsèment l'endroit. C'est certainement une activité plus stressante, mais cela pourrait être un bon entraînement." #NT!
+ POD_spirit_travel.2701.a: "Au sommet du monde !" #NT!
+ POD_spirit_travel.2701.b: "Le saut dans les nuages ​​est plus amusant." #NT!
+  
+ POD_spirit_travel.2702.t: "Observation des étoiles de près" #NT!
+ POD_spirit_travel.2702.desc: "Le Royaume Éthéré est accessible depuis les nuages ​​du [spirit_wilds|E]. Son point le plus bas est constitué de montagnes fantastiques faites de nuages ​​et habitées par des esprits aériens. Ils ont une couche supérieure spongieuse mais sont solides et faciles à marcher. Les nuages ​​se déplacent et coulent à leur propre rythme et forment de merveilleux paysages de plaines, de collines, de vallées et de montagnes qui ont tous la même solidité spongieuse.\nL'Aetheria est peut-être l'endroit le plus proche des étoiles accessible à la plupart des voyageurs de l'Umbra. Cela se reflète dans le monde physique alors que le ciel au-dessus traverse constamment la nuit et le jour. En tant que tel, il offre une vision vraiment unique de ce qui se trouve au-delà." #NT!
+ POD_spirit_travel.2702.a: "Qu'est-ce qu'il y a là-haut ?" #NT!
+  
+ POD_spirit_travel.2800.t: "Souffrance éternelle" #NT!
+ POD_spirit_travel.2800.desc: "Élevé de la douleur humaine. Des millénaires de souffrance de toutes les victimes du monde ont créé ce Royaume, un lieu où les pires cruautés et tortures ont été immortalisées.\nCe n'est pas un endroit pour les âmes sensibles, ni même un endroit pour ceux qui ont du cœur." #NT!
+ POD_spirit_travel.2800.a: "Tant de gaspillage..." #NT!
+ POD_spirit_travel.2800.b: "Hé, pas si mal." #NT!
+  
+ POD_spirit_travel.2801.t: "Souffrance blasée" #NT!
+ POD_spirit_travel.2801.desc: "Élevé de la douleur humaine. Des millénaires de souffrance de toutes les victimes du monde ont créé ce Royaume, un endroit où les pires cruautés et tortures ont été immortalisées.\nIl est difficile de ne pas être souillé par l'aura de souffrance qui imprègne l'air de ce royaume. Que vous le souhaitiez ou non, vous apparaissez bientôt plus imposant qu'auparavant, intimidant ceux qui vous entourent avec la menace implicite d'un tourment éternel." #NT!
+ POD_spirit_travel.2801.a: "La peur est pour les autres." #NT!
+  
+ full_intimidation_tooltip: "Vous obtiendrez l’arbre complet du style de vie Intimidation." #NT!
+  
+ POD_spirit_travel.2802.t: "Marchand de douleur" #NT!
+ POD_spirit_travel.2802.desc: "Élevé de la douleur humaine. Des millénaires de souffrance de la part de toutes les victimes du monde ont créé ce Royaume, un lieu où les pires cruautés et tortures ont été immortalisées.\nPour l'âme véritablement blasée, il y a ici beaucoup à apprendre sur les subtilités de la souffrance mentale et physique. Mais même cette âme blasée pourrait être submergée par la pure agonie ressentie sur ce terrain vague. Après tout, personne n’est vraiment à l’abri de la douleur." #NT!
+ POD_spirit_travel.2802.a: "Une forme d’art en soi." #NT!
+ POD_spirit_travel.2802.b: "Je dois avancer." #NT!
+  
+ POD_spirit_travel.2900.t: "Fauteuil Général" #NT!
+ POD_spirit_travel.2900.desc: "Le champ de bataille est un royaume dédié à la violence et à la rage, et le chaos y règne alors que les armées se mélangent et que les soldats Qin finissent par se battre contre les légions romaines et que les croisés s'allient aux barbares vikings contre les troupes mayas. Tant qu'on n'entre pas dans l'un des conflits, le visiteur chemine sur une « piste » appropriée à la bataille dont il est témoin (un bateau pour une bataille navale, une voie romaine pour un conflit lors des guerres puniques etc.). Tant qu'ils ne quittent pas la piste, ils ne seront pas attaqués directement.\nCette particularité vous permet d'assister très facilement à l'une de ces batailles et de critiquer les généraux manifestement incompétents depuis votre siège confortable. Vous feriez évidemment tellement mieux à leur place !" #NT!
+ POD_spirit_travel.2900.a: "C'est si simple que je pourrais augmenter la difficulté !" #NT!
+  
+ POD_spirit_travel.2901.t: "Changements de guerre" #NT!
+ POD_spirit_travel.2901.desc: "Le champ de bataille est un royaume dédié à la violence et à la rage, et le chaos y règne alors que les armées se mélangent et que les soldats Qin finissent par se battre contre les légions romaines et que les croisés s'allient aux barbares vikings contre les troupes mayas. Tant qu'on n'entre pas dans l'un des conflits, le visiteur chemine sur une « piste » appropriée à la bataille dont il est témoin (un bateau pour une bataille navale, une voie romaine pour un conflit lors des guerres puniques etc.). Tant qu'ils ne quittent pas la piste, ils ne seront pas attaqués directement.\nAvec autant d'époques et de cultures représentées, il est facile de voir que la guerre change effectivement. Il y a toujours une raison derrière chacun de ces changements, aussi insignifiants soient-ils. Les étudier pourrait être une bonne opportunité d’apprentissage." #NT!
+ POD_spirit_travel.2901.a: "Où sont passés les chars ?" #NT!
+ POD_spirit_travel.2901.b: "La guerre est un moyen et non une fin." #NT!
+  
+ POD_spirit_travel.2902.t: "Une vie de guerre" #NT!
+ POD_spirit_travel.2902.desc: "Le champ de bataille est un royaume dédié à la violence et à la rage, et le chaos y règne alors que les armées se mélangent et que les soldats Qin finissent par se battre contre les légions romaines et que les croisés s'allient aux barbares vikings contre les troupes mayas. Tant qu'on n'entre pas dans l'un des conflits, le visiteur chemine sur une « piste » appropriée à la bataille dont il est témoin (un bateau pour une bataille navale, une voie romaine pour un conflit lors des guerres puniques etc.). Tant qu'ils ne quittent pas la piste, ils ne seront pas attaqués directement.\nPendant que vous traversez la zone, un groupe de guerriers vous hèle et, même si vous ne les comprenez pas complètement, ils semblent se moquer de vous. le fait que vous ne participez pas à l’une de ces batailles. Ils pensent clairement que vous êtes faible." #NT!
+ POD_spirit_travel.2902.a: "Je ne fais que passer." #NT!
+ POD_spirit_travel.2902.b: "Je vais te montrer si je suis faible !" #NT!
+  
+ POD_spirit_travel.3000.t: "Conversation canine classique" #NT!
+ POD_spirit_travel.3000.desc: "Erebus est un lieu de purification spirituelle, rempli de rivières d'argent en fusion qui brûlent et guérissent en même temps, prolongeant le tourment des détenus pendant des mois, des années, voire des siècles.\nLes portes d'Erebus sont gardées par le redoutable Cerbère. , un grand chien monstre à trois têtes. Cerbère peut être lié au chien classique de la mythologie grecque et romaine, ou il peut avoir pris le nom et l'apparence de ces mythes. Il n'a jamais confirmé l'un ou l'autre, mais trouve les contes de cette période intéressants et aime en discuter.\nIl est considéré par son ton et un interlocuteur agréable malgré son apparence. Vous vous imaginez bientôt dans l’un de ces contes épiques de héros et de monstres d’antan." #NT!
+ POD_spirit_travel.3000.a: "La culture grecque est en effet fascinante." #NT!
+ POD_spirit_travel.3000.b: "Une conversation intéressante, rien de plus." #NT!
+  
+ charyss_umbra_modifier: "Évaluation de Charyss" #NT!
+ charyss_umbra_modifier_desc: "Charyss a regardé dans votre âme et a trouvé que vous aviez envie." #NT!
+  
+ POD_spirit_travel.3001.t: "La Dame du Salut" #NT!
+ POD_spirit_travel.3001.desc: "Erebus est un lieu de purification spirituelle, rempli de rivières d'argent en fusion qui brûlent et guérissent en même temps, prolongeant le tourment des détenus pendant des mois, des années, voire des siècles.\nLa maîtresse du royaume est l'énigmatique Charyss. Sa forteresse se dresse au centre d'un lac et accueille tout suppliant. L'imposante Dame d'Erebus scrute alors l'âme du pétitionnaire et, la grande majorité du temps, la trouve déficiente. Ce n'est qu'avec l'approbation de Charyss que l'on peut vraiment être considéré comme purifié." #NT!
+ POD_spirit_travel.3001.a: "Je demanderai l'approbation de la Dame." #NT!
+ POD_spirit_travel.3001.b: "Tout ira bien tout seul." #NT!
+  
+ POD_spirit_travel.3002.t: "Le salut par la douleur" #NT!
+ POD_spirit_travel.3002.desc: "Erebus est un lieu de purification spirituelle, rempli de rivières d'argent en fusion qui brûlent et guérissent en même temps, prolongeant le tourment des détenus pendant des mois, des années, voire des siècles.\nTrahi par votre propre culpabilité, vous vous retrouvez submergé. dans les eaux d'argent fondu d'Erebus. Vous découvrez rapidement que la seule issue est de passer par les miroirs de l’âme. Les gardiens de ce royaume travaillent par paires pour traverser les miroirs et pénétrer dans l’esprit de chaque victime. Ici, ils s'efforcent de rechercher les sources de culpabilité, vous obligeant à les affronter et à reconnaître vos échecs. Et tant que ce ne sera pas fait, vous continuerez à nager dans cette rivière bien douloureuse..." #NT!
+ POD_spirit_travel.3002.a: "Je me repens ! Je me repens !" #NT!
+  
+ POD_spirit_travel.3100.t: "Qu'aimez-vous?" #NT!
+ POD_spirit_travel.3100.desc: "En tant que l'un des points d'ancrage du Wyld dans le monde, le Flux est un lieu de chaos, de changement constant et de possibilités infinies. Chaque être dans le royaume Flux commence à changer de nombreuses manières, car les lois mêmes de la réalité sont malléables et changeantes.\nVous trouvez difficile de rester ici et de conserver votre identité fondamentale. À chaque instant qui passe, de nouvelles pensées et idées envahissent votre esprit, essayant de vous faire croire qu'elles ont toujours été les vôtres..." #NT!
+ POD_spirit_travel.3100.a: "La vérité est relative." #NT!
+ POD_spirit_travel.3100.b: "Je vais résister !" #NT!
+  
+ umbra_random_dna_tt: "Votre apparence changera de manière aléatoire." #NT!
+  
+ POD_spirit_travel.3101.t: "À quoi ressemblez-vous?" #NT!
+ POD_spirit_travel.3101.desc: "En tant que l'un des points d'ancrage du Wyld dans le monde, le Flux est un lieu de chaos, de changement constant et de possibilités infinies. Chaque être dans le royaume Flux commence à changer de nombreuses manières, car les lois mêmes de la réalité sont malléables et changeantes.\nVous trouvez difficile de rester ici et de conserver votre identité fondamentale. À chaque instant qui passe, votre apparence même change, s'éloignant rapidement de ce qu'elle était pour adopter une forme nouvelle et imprévisible..." #NT!
+ POD_spirit_travel.3101.a: "J'ai toujours ressemblé à ça." #NT!
+ POD_spirit_travel.3101.b: "Je vais résister !" #NT!
+  
+ POD_spirit_travel.3102.t: "À quoi ressemblez-vous?" #NT!
+ POD_spirit_travel.3102.desc: "En tant que l'un des points d'ancrage du Wyld dans le monde, le Flux est un lieu de chaos, de changement constant et de possibilités infinies. Chaque être dans le royaume Flux commence à changer de nombreuses manières, car les lois mêmes de la réalité sont malléables et changeantes.\nVous trouvez difficile de rester ici et de conserver votre identité fondamentale. À chaque instant qui passe, votre physique lui-même change, s'éloignant rapidement de ce qu'il était pour adopter une forme nouvelle et imprévisible..." #NT!
+ POD_spirit_travel.3102.a: "J'ai toujours ressemblé à ça." #NT!
+ POD_spirit_travel.3102.b: "Je vais résister !" #NT!
+  
+ devoted_mariana_modifier: "Dédié à Mariana" #NT!
+ devoted_mariana_modifier_desc: "Vous vous êtes consacré à la reine des fées Mariana. Elle consomme chacune de vos pensées." #NT!
+  
+ sorcery_gain_tt: "Le trait de sorcellerie ouvre un nouveau style de vie." #NT!
+  
+ POD_spirit_travel.3200.t: "La princesse des fées noires" #NT!
+ POD_spirit_travel.3200.desc: "Hy-Brasil apparaît comme une terre d’histoires fantastiques sans fin. Ici, les saisons ne changent jamais et le jour reste éternellement enfermé dans le crépuscule.\nLa princesse Mariana dirige ici la cour des fées Unseelie et est enfermée dans une guerre éternelle contre le prince Lysander des Seelie. La beauté sombre et à l'esprit vif est jeune mais étrangement talentueuse dans les plus grandes magies des faes. Elle vous a proposé de partager certains de ses secrets, si seulement vous vous engageiez à sa cause..." #NT!
+ POD_spirit_travel.3200.a: "Salut à la future reine !" #NT!
+ POD_spirit_travel.3200.b: "Ce n’est pas la base d’un système de gouvernement !" #NT!
+  
+ POD_spirit_travel.3201.t: "Champ de bataille des fées" #NT!
+ POD_spirit_travel.3201.desc: "Hy-Brasil apparaît comme une terre d’histoires fantastiques sans fin. Ici, les saisons ne changent jamais et le jour reste éternellement verrouillé dans le crépuscule.\nCe royaume est un champ de bataille disputé entre deux factions fae, les Seelies et les Unseelies. Même si la plupart de leurs compétitions prennent la forme d'intrigues courtoises, elles aboutissent parfois également sur le champ de bataille. Malheur à l’étranger, comme vous, coincé entre les lignes de bataille magiques." #NT!
+ POD_spirit_travel.3201.a: "Est-ce une boule de feu ?" #NT!
+ POD_spirit_travel.3201.b: "Fuyez!" #NT!
+  
+ POD_spirit_travel.3202.t: "Le courageux prince des fées" #NT!
+ POD_spirit_travel.3202.desc: "Hy-Brasil apparaît comme une terre d’histoires fantastiques sans fin. Ici, les saisons ne changent jamais et le jour reste éternellement plongé dans le crépuscule.\nLe prince Lysander dirige ici la cour des fées Seelie et est engagé dans une guerre éternelle contre la princesse Mariana des Unseelie. La beauté sombre et à l'esprit vif est jeune mais étrangement talentueuse dans les plus grandes magies des faes. L'honorable chevalier est un combattant redoutable, et il est toujours prêt à prendre de nouveaux apprentis à condition que cela ne les dérange pas de subir quelques contusions au cours du processus." #NT!
+ POD_spirit_travel.3202.a: "Un match d'entraînement, Prince ?" #NT!
+ POD_spirit_travel.3202.b: "Je peux m'en passer, merci." #NT!
+  
+ POD_spirit_travel.3300.t: "Affichage honteux" #NT!
+ POD_spirit_travel.3300.desc: "Le Royaume Légendaire peut recréer les souvenirs de la lignée d'une personne, lui permettant ainsi de revivre la vie de ses ancêtres légendaires.\nIl est cependant préférable de laisser certaines légendes oubliées, et vous venez de raviver un douloureux moment de lâcheté de la part d'un de vos ancêtres. Le souvenir reste vif juste assez longtemps pour vous faire douter de vous-même pendant un instant." #NT!
+ POD_spirit_travel.3300.a: "Je suis meilleur que lui, j'espère." #NT!
+  
+ POD_spirit_travel.3301.t: "Grandes actions" #NT!
+ POD_spirit_travel.3301.desc: "Le Royaume Légendaire peut recréer les souvenirs de la lignée d'une personne, lui permettant ainsi de revivre la vie de ses ancêtres légendaires.\nCertaines légendes constituent un récit puissant à vivre personnellement, et vous venez de revivre un moment de bravoure inspirant de l'un de vos ancêtres. Le souvenir reste vif juste assez longtemps pour vous faire ressentir un élan de fierté." #NT!
+ POD_spirit_travel.3301.a: "Une longue lignée de héros sans doute !" #NT!
+  
+ POD_spirit_travel.3302.t: "Une lignée héroïque ?" #NT!
+ POD_spirit_travel.3302.desc: "Le Royaume légendaire peut recréer les souvenirs de la lignée d'une personne, lui permettant ainsi de revivre la vie de ses ancêtres légendaires.\nC'est le royaume idéal pour glorifier votre lignée... s'il y a quelque chose pour la glorifier. Vous ne contrôlez pas quels souvenirs apparaîtront et les histoires de lâcheté sont aussi susceptibles de se produire que les histoires de bravoure. Il vaut peut-être mieux laisser le passé au passé." #NT!
+ POD_spirit_travel.3302.a: "Clairement, nous avons toujours été des héros !" #NT!
+ POD_spirit_travel.3302.b: "Tournons-nous plutôt vers l’avenir." #NT!
+  
+ POD_spirit_travel.3400.t: "La sagesse pour les nuls" #NT!
+ POD_spirit_travel.3400.desc: "Une grande chaîne de montagnes, éclipsant même le puissant Himalaya, culmine au-dessus d'une mer de nuages. Certains voyageurs avisés pensent que les pagodes et les villes cachées se trouvent dans la chaîne de montagnes, hors de portée de la plupart des esprits.\nHabitées par de grands esprits dragons, les montagnes sont une source de sagesse pour ceux qui le demandent gentiment. L'un de ces dragons a pris goût à vous et vous offre de judicieux conseils." #NT!
+ POD_spirit_travel.3400.a: "Merci, puissant Dragon" #NT!
+  
+ POD_spirit_travel.3401.t: "Sagesse impénétrable" #NT!
+ POD_spirit_travel.3401.desc: "Une grande chaîne de montagnes, éclipsant même le puissant Himalaya, culmine au-dessus d'une mer de nuages. Certains voyageurs avisés pensent que les pagodes et les villes cachées se trouvent dans la chaîne de montagnes, hors de portée de la plupart des esprits.\nHabitées par de grands esprits dragons, les montagnes sont une source de sagesse pour ceux qui le demandent gentiment. L'un de ces dragons a pris goût à vous et vous offre de judicieux conseils. Malheureusement, c’est à peine compréhensible et vous vous retrouvez plus confus qu’autre chose." #NT!
+ POD_spirit_travel.3401.a: "Merci?" #NT!
+  
+ POD_spirit_travel.3402.t: "Trésors de dragons" #NT!
+ POD_spirit_travel.3402.desc: "Une grande chaîne de montagnes, éclipsant même le puissant Himalaya, culmine au-dessus d'une mer de nuages. Certains voyageurs avisés croient que les pagodes et les villes cachées se trouvent dans la chaîne de montagnes, hors de portée de la plupart des esprits.\nLes montagnes sont habitées par de grands esprits dragons et lorsque les dragons sont là, les trésors le sont également. Vous pouvez essayer de vous faufiler devant l’un d’eux pour récupérer une partie de l’or qu’ils accumulent ici. Évidemment, cette démarche comporte certains risques..." #NT!
+ POD_spirit_travel.3402.a: "Ne te réveille pas, ne te réveille pas..." #NT!
+ POD_spirit_travel.3402.b: "Je ne fais que passer !" #NT!
+  
+ POD_spirit_travel.3500.t: "Fureur Primaire" #NT!
+ POD_spirit_travel.3500.desc: "La Pangée est le reflet de la Terre primitive, montrant le monde tel qu'il était avant la civilisation, l'histoire humaine et même l'Impergium. C'est une époque où les continents de la Terre ne faisaient qu'un, une recréation tempérée d'anachronisme et d'horreurs ataviques oubliées depuis longtemps.\nDe grandes bêtes oubliées vous barrent le chemin. Il est temps de leur montrer qui est réellement le prédateur suprême." #NT!
+ POD_spirit_travel.3500.a: "Viens en chercher!" #NT!
+ POD_spirit_travel.3500.effect.success.desc: "Vous vous frayez un chemin." #NT!
+ POD_spirit_travel.3500.success: "Vous gagnez!" #NT!
+ POD_spirit_travel.3500.failure.effect.desc: "Vous vous enfuyez battu." #NT!
+ POD_spirit_travel.3500.failure: "Tu as perdu!" #NT!
+  
+ POD_spirit_travel.3501.t: "Royaume jurassique" #NT!
+ POD_spirit_travel.3501.desc: "La Pangée est le reflet de la Terre primitive, montrant le monde tel qu'il était avant la civilisation, l'histoire humaine et même l'Impergium. C'est une époque où les continents de la Terre ne faisaient qu'un, une recréation tempérée d'anachronisme et d'horreurs ataviques oubliées depuis longtemps.\nDe puissants rois dinosaures revendiquent de vastes étendues de ce territoire et n'apprécient pas les étrangers. Vous devez vous battre pour chaque centimètre parcouru dans ces terres sauvages." #NT!
+ POD_spirit_travel.3501.a: "Je n'ai pas demandé plus de dents !" #NT!
+  
+ POD_spirit_travel.3502.t: "Horreurs de la création" #NT!
+ POD_spirit_travel.3502.desc: "La Pangée est le reflet de la Terre primitive, montrant le monde tel qu'il était avant la civilisation, l'histoire humaine et même l'Impergium. C'est une époque où les continents de la Terre ne faisaient qu'un, une recréation tempérée d'anachronisme et d'horreurs ataviques oubliées depuis longtemps.\nUne de ces horreurs oubliées vous poursuit maintenant, mécontente de votre intrusion imprévue sur son territoire. Il est temps de se battre ou de courir, ou très probablement les deux en même temps." #NT!
+ POD_spirit_travel.3502.a: "Combien d'yeux cette chose a-t-elle ?!" #NT!
+  
+ POD_spirit_travel.3600.t: "Ciel primordial" #NT!
+ POD_spirit_travel.3600.desc: "Le pays de l’été est le reflet de l’amour pur et sans limites de Gaïa pour ses enfants. Dans les contes anciens, les héros accomplis et les aspirants errants étaient destinés à le trouver à des moments cruciaux de leur vie, des tournants choisis par Gaia où ils pouvaient recevoir la guérison, la paix, la sagesse et même les dons de puissance spirituelle ou de perspicacité.\nSi un esprit blessé peut être guéri n’importe où, c’est ici. Pour la plupart, il suffit de s'asseoir et de regarder cette terre d'un calme et d'une beauté infinis." #NT!
+ POD_spirit_travel.3600.a: "Enfin la paix et la tranquillité." #NT!
+  
+ POD_spirit_travel.3601.t: "Enseignements primordiaux" #NT!
+ POD_spirit_travel.3601.desc: "Le pays de l’été est le reflet de l’amour pur et sans limites de Gaïa pour ses enfants. Dans les contes anciens, les héros accomplis et les aspirants errants étaient destinés à le trouver à des moments cruciaux de leur vie, des tournants choisis par Gaia où ils pouvaient recevoir la guérison, la paix, la sagesse et même les dons de puissance spirituelle ou de perspicacité.\nUne telle perspicacité soudaine vous arrive, vous rapprochant de l'illumination spirituelle grâce à la puissante magie du royaume." #NT!
+ POD_spirit_travel.3601.a: "Merci mère." #NT!
+  
+ POD_spirit_travel.3602.t: "La fin du paradis" #NT!
+ POD_spirit_travel.3602.desc: "Le pays de l’été est le reflet de l’amour pur et sans limites de Gaïa pour ses enfants. Dans les contes anciens, les héros accomplis et les aspirants errants étaient destinés à le trouver à des moments cruciaux de leur vie, des tournants choisis par Gaia où ils pouvaient recevoir la guérison, la paix, la sagesse et même les dons de puissance ou de perspicacité spirituelle.\nMalheureusement, c'est le cas. il est clair que le pays d'été vit ses derniers jours. Le royaume s'effondre lentement, remplaçant ses magnifiques paysages par un vide affamé. Bientôt, il ne restera plus rien." #NT!
+ POD_spirit_travel.3602.a: "Quelle tragédie." #NT!
+  
+ POD_spirit_travel.3700.t: "Palais du Roi Singe" #NT!
+ POD_spirit_travel.3700.desc: "Les Terres du Tigre sont un royaume Yang au sein de l'Ombra orientale qui sert de refuge aux esprits des animaux menacés et aux esprits qui ont perdu leur maison à la suite des coupes à blanc humaines. Chacune des espèces animales possède un palais et une cour des esprits dans les Terres du Tigre.\nLe Roi Singe est un être intelligent qui aime les individus rusés. Lorsque vous vous tenez devant lui, il évalue rapidement votre valeur." #NT!
+ POD_spirit_travel.3700.a: "Il prend goût à vous." #NT!
+ POD_spirit_travel.3700.b: "Vous avez ennuyé le roi." #NT!
+  
+ POD_spirit_travel.3701.t: "Palais du Roi Tigre" #NT!
+ POD_spirit_travel.3701.desc: "Les Terres du Tigre sont un royaume Yang au sein de l'Ombra orientale qui sert de refuge aux esprits des animaux menacés et aux esprits qui ont perdu leur maison à la suite des coupes à blanc humaines. Chacune des espèces animales possède un palais et une cour des esprits dans les Terres du Tigre.\nLe Roi Tigre est un être fort qui aime les individus courageux. Lorsque vous vous tenez devant lui, il évalue rapidement votre valeur." #NT!
+  
+ POD_spirit_travel.3702.t: "Palais du Roi Panda" #NT!
+ POD_spirit_travel.3702.desc: "Les Terres du Tigre sont un royaume Yang au sein de l'Ombra orientale qui sert de refuge aux esprits des animaux menacés et aux esprits qui ont perdu leur maison à la suite des coupes à blanc humaines. Chacune des espèces animales possède un palais et une cour des esprits dans les Terres du Tigre.\nLe Roi Panda est un patient friand d'individus paresseux. Lorsque vous vous tenez devant lui, il évalue rapidement votre valeur." #NT!
+  
+ POD_spirit_travel.3800.t: "Une audience avec le Roi Dragon" #NT!
+ POD_spirit_travel.3800.desc: "L'un des royaumes ombraux les plus puissants de l'Empire du Milieu, le domaine d'Umi revendique l'ensemble du Pacifique.\nDepuis son palais au fond du royaume, le Roi Dragon d'Umi supervise les innombrables responsabilités de son domaine : envoyer du calme et tempêtes, guidant les navires vers le port ou envoyant des requins attaquer les marins naufragés. Être très puissant, il peut accorder des audiences à des visiteurs prestigieux, les comblant souvent à la fois de cadeaux et de commentaires condescendants." #NT!
+ POD_spirit_travel.3800.a: "Vous êtes digne de sa présence." #NT!
+ POD_spirit_travel.3800.b: "Vous êtes jugé indigne." #NT!
+  
+ POD_spirit_travel.3801.t: "Une audience avec la princesse dragon" #NT!
+ POD_spirit_travel.3801.desc: "L'un des royaumes ombraux les plus puissants de l'Empire du Milieu, le domaine d'Umi revendique l'ensemble du Pacifique.\nConsort du Roi Dragon, la Princesse Dragon est une personne curieuse, toujours intéressée par les croyances des autres. Cependant, sa vaste connaissance du sujet donne souvent à ses invités le sentiment d'être inadéquats." #NT!
+ POD_spirit_travel.3801.a: "Une discussion révélatrice." #NT!
+ POD_spirit_travel.3801.b: "La princesse n'est pas impressionnée par votre piété." #NT!
+  
+ POD_spirit_travel.3802.t: "Une audience avec le Sénéchal" #NT!
+ POD_spirit_travel.3802.desc: "L'un des royaumes ombraux les plus puissants de l'Empire du Milieu, le domaine d'Umi revendique l'ensemble du Pacifique.\nGajyra, un esprit dragon brutal et imposant, est le sénéchal du Roi Dragon. Ne respectant que la force, il n'est pas accueillant envers les visiteurs et les défiera souvent dans un match d'entraînement pour affirmer sa domination." #NT!
+ POD_spirit_travel.3802.a: "Un combat difficile à venir." #NT!
+ POD_spirit_travel.3802.b: "Vous êtes jugé trop faible pour être défié." #NT!
+  
+ POD_spirit_travel.3900.t: "Pratique de la chasse" #NT!
+ POD_spirit_travel.3900.desc: "Royaume rude et impitoyable où les loups peuvent devenir des proies aussi facilement qu'ils assument leur rôle de prédateurs, Wolfhome est une vaste étendue de nature sauvage vierge.\nChasser, ou être chassé, est la véritable attente de quiconque met les pieds dans cet endroit. Il n'y a pas de juste milieu." #NT!
+ POD_spirit_travel.3900.a: "Je dois apprendre la voie du chasseur." #NT!
+ POD_spirit_travel.3900.b: "Je suis le chasseur !" #NT!
+  
+ POD_spirit_travel.3901.t: "Le frisson de la chasse" #NT!
+ POD_spirit_travel.3901.desc: "Royaume rude et impitoyable où les loups peuvent devenir des proies aussi facilement qu'ils assument leur rôle de prédateurs, Wolfhome est une vaste étendue de nature sauvage vierge.\nLa chasse peut être libératrice, en particulier pour les prédateurs nés comme votre espèce. Le simple frisson du combat et de la mise à mort ultime peut libérer du stress du pouvoir." #NT!
+ POD_spirit_travel.3901.a: "Une bonne opportunité d'acquérir cette compétence." #NT!
+ POD_spirit_travel.3901.b: "Trouvez, courez, tuez." #NT!
+  
+ POD_spirit_travel.3902.t: "Repousser vos limites" #NT!
+ POD_spirit_travel.3902.desc: "Royaume rude et impitoyable où les loups peuvent devenir des proies aussi facilement qu'ils assument leur rôle de prédateurs, Wolfhome est une vaste étendue de nature sauvage et vierge.\nEn tant que chasseur expérimenté, Wolfhome lui-même essaie de vous pousser à vos limites, vous opposant aux les ennemis les plus rusés et les plus dangereux, alternant entre faire de vous le chasseur ou le chassé." #NT!
+ POD_spirit_travel.3902.a: "Est-ce tout?!" #NT!
+  
+ POD_spirit_travel.4000.t: "Peur et folie" #NT!
+ POD_spirit_travel.4000.desc: "Une calomnie est un domaine qui se développe lorsqu'une émotion négative particulièrement forte est exprimée à un endroit du monde physique et laisse une empreinte dans l'Umbra. C'est un aimant pour les Banes et les Esprits qui vivent à proximité d'une Calumn montrent des signes de leurs émotions respectives et même les objets inanimés sont souillés par la proximité.\nCe n'est vraiment pas un endroit pour ceux qui ne sont pas encore corrompus. Vous devriez avancer rapidement." #NT!
+ POD_spirit_travel.4000.a: "Où est la sortie ?" #NT!
+  
+ POD_spirit_travel.4001.t: "Peur et horreur" #NT!
+ POD_spirit_travel.4001.desc: "Une calomnie est un domaine qui se développe lorsqu'une émotion négative particulièrement forte est exprimée à un endroit du monde physique et laisse une empreinte dans l'Umbra. C'est un aimant pour les Banes et les Esprits qui vivent à proximité d'une Calumn montrent des signes de leurs émotions respectives et même les objets inanimés sont souillés par la proximité.\nCe n'est vraiment pas un endroit pour ceux qui ne sont pas encore corrompus. Vous devriez avancer rapidement." #NT!
+ POD_spirit_travel.4001.a: "Où est la sortie ?" #NT!
+  
+ POD_spirit_travel.4002.t: "Se baigner dans la peur" #NT!
+ POD_spirit_travel.4002.desc: "Une calomnie est un domaine qui se développe lorsqu'une émotion négative particulièrement forte est exprimée à un endroit du monde physique et laisse une empreinte dans l'Umbra. C'est un aimant pour les Banes et les esprits qui vivent à proximité d'une Calumn montrent des signes de leurs émotions respectives et même les objets inanimés sont entachés par la proximité.\nLe Wyrm est fort ici, et c'est un endroit parfait pour s'imprégner des horreurs que votre maître apporteront au monde et seront rajeunis par eux." #NT!
+ POD_spirit_travel.4002.a: "Douce corruption." #NT!
+  
+ POD_spirit_travel.4100.t: "La Grèce perfectionnée" #NT!
+ POD_spirit_travel.4100.desc: "La patrie des Furies noires ressemble aux paysages de la Grèce mythique : les montagnes Rocheuses dominent de nombreuses petites îles et péninsules qui s'étendent dans une mer turquoise. Des forêts luxuriantes de pins et d'oliviers, portant toujours des fruits, s'étendent sur l'île, ainsi que des bâtiments construits dans des styles grecs.\nPour toute Black Fury qui se respecte, c'est aussi proche du paradis que l'on peut trouver dans l'Umbra." #NT!
+ POD_spirit_travel.4100.a: "La perfection." #NT!
+  
+ POD_spirit_travel.4101.t: "Guerriers et Sages" #NT!
+ POD_spirit_travel.4101.desc: "La patrie des Furies noires ressemble aux paysages de la Grèce mythique : les montagnes Rocheuses dominent de nombreuses petites îles et péninsules qui s'étendent dans une mer turquoise. Des forêts luxuriantes de pins et d'oliviers, portant toujours des fruits, s'étendent sur l'île, ainsi que des bâtiments construits dans des styles grecs.\nDe nombreuses Furies noires puissantes et sages peuvent être trouvées ici, toujours prêtes à prêter leur sagesse à tout petit qui fait preuve de déférence." #NT!
+ POD_spirit_travel.4101.a: "Guerre..." #NT!
+ POD_spirit_travel.4101.b: "...ou la sagesse ?" #NT!
+  
+ POD_spirit_travel.4102.t: "Invité indésirable" #NT!
+ POD_spirit_travel.4102.desc: "La patrie des Furies noires ressemble aux paysages de la Grèce mythique : les montagnes Rocheuses dominent de nombreuses petites îles et péninsules qui s'étendent dans une mer turquoise. Des forêts luxuriantes de pins et d'oliviers, qui portent toujours des fruits, s'étendent sur l'île, ainsi que des bâtiments construits dans des styles grecs.\nLes Furies noires sont très protectrices envers leur patrie et traquent quiconque est assez stupide pour y entrer. Vous devriez avancer rapidement." #NT!
+ POD_spirit_travel.4102.a: "Rapidement et tranquillement..." #NT!
+  
+ POD_spirit_travel.4200.t: "Paradis ombragé" #NT!
+ POD_spirit_travel.4200.desc: "La patrie des Bone Gnawers ressemble à un bidonville d’une ville. Les tavernes sont ouvertes 24 heures sur 24 et servent toutes de la bière bon marché au pichet. Les restaurants Joyhouse sont présents dans chaque pâté de maisons, mais le rusé Gnawer sait que les meilleurs se trouvent dans les ruelles, en frappant aux bonnes portes.\nQue peut vraiment demander de plus un Bone Gnawer ?" #NT!
+ POD_spirit_travel.4200.a: "Ça sent la merde. Et à la maison." #NT!
+  
+ POD_spirit_travel.4201.t: "Mentors de l'arrière-rue" #NT!
+ POD_spirit_travel.4201.desc: "La patrie des Bone Gnawers ressemble à un bidonville d’une ville. Les tavernes sont ouvertes 24 heures sur 24 et servent toutes de la bière bon marché au pichet. Les joints de Joyhouse sont présents dans chaque pâté de maisons, mais les rongeurs rusés savent que les meilleurs se trouvent dans les ruelles, en frappant aux bonnes portes.\nDe nombreux rongeurs d'os ratatinés et respectés peuvent être trouvés ici, prêts à partager leurs astuces avec le petit qui est tout à fait déférent." #NT!
+ POD_spirit_travel.4201.a: "Un côté de la médaille..." #NT!
+ POD_spirit_travel.4201.b: "...et l'autre" #NT!
+  
+ POD_spirit_travel.4202.desc: "La patrie des Bone Gnawers ressemble à un bidonville d’une ville. Les tavernes sont ouvertes 24 heures sur 24 et servent toutes de la bière bon marché au pichet. Les joints de Joyhouse sont présents dans chaque pâté de maisons, mais les rusés Gnawer savent que les meilleurs se trouvent dans les ruelles, en frappant aux bonnes portes.\nC'est le territoire des Bone Gnawers, et comme tout le monde le sait, les rats d'égout peuvent être farouchement territoriaux sur leur territoire. Propre terre. En tant que tel, vous n’êtes plus que malvenu ici et vous devez vous déplacer rapidement avant qu’ils ne vous repèrent." #NT!
+  
+ POD_spirit_travel.4300.t: "Harmonie céleste" #NT!
+ POD_spirit_travel.4300.desc: "La patrie des Enfants de Gaia est une vaste étendue de forêts luxuriantes, de collines et de ruisseaux bouillonnants serpentant à travers les vallées. Les humains libérés du Délire errent nomades à travers la patrie, avec des métropoles centrales qui reflètent des versions plus propres des villes de l'ancienne Sumer.\nCela représente le but ultime des Enfants de Gaia et ce pour quoi ils se battent. Un rappel utile en période de difficulté." #NT!
+ POD_spirit_travel.4300.a: "Un jour, ce ne sera plus qu'un rêve." #NT!
+  
+ POD_spirit_travel.4301.t: "Mentors spirituels" #NT!
+ POD_spirit_travel.4301.desc: "La patrie des Enfants de Gaia est une vaste étendue de forêts luxuriantes, de collines et de ruisseaux bouillonnants serpentant à travers les vallées. Les humains libérés du Délire errent nomades à travers leur patrie, avec des métropoles centrales qui reflètent des versions plus propres des villes de l'ancienne Sumer.\nCertains enfants respectés de Gaia sont ici, prêts à enseigner aux petits respectueux leur sagesse durement gagnée." #NT!
+ POD_spirit_travel.4301.a: "Je vais rester et écouter." #NT!
+  
+ POD_spirit_travel.4302.desc: "La patrie des Enfants de Gaia est une vaste étendue de forêts luxuriantes, de collines et de ruisseaux bouillonnants serpentant à travers les vallées. Les humains libérés du Délire errent nomades à travers leur patrie, avec des métropoles centrales qui reflètent des versions plus propres des villes de l'ancienne Sumer.\nLes enfants de Gaia sont connus pour se plier aux loups-garous, mais ils restent des loups-garous. C'est leur lieu le plus sacré et ils le défendent farouchement. Vous ne devriez pas rester ici longtemps, sinon vous vous ferez prendre." #NT!
+  
+ POD_spirit_travel.4400.t: "Paradis tapageur" #NT!
+ POD_spirit_travel.4400.desc: "La patrie des Fianna est un paysage verdoyant de collines, de vallons et de vallées qui semblent tirés des traditions des romans fantastiques historiques. Les fées jouent dans les bois et les esprits des cerfs parcourent les terres sous la direction du cerf en tant que "Chasse sauvage", protégeant la patrie contre les intrus.\nPour toute Fianna qui se respecte, c'est ainsi que la vie devrait toujours être." #NT!
+ POD_spirit_travel.4400.a: "Maison, maison bruyante." #NT!
+  
+ POD_spirit_travel.4401.t: "Des mentors vantards" #NT!
+ POD_spirit_travel.4401.desc: "La patrie des Fianna est un paysage verdoyant de collines, de vallons et de vallées qui semblent tirés des traditions des romans fantastiques historiques. Les fées jouent dans les bois et les esprits des cerfs parcourent les terres sous la direction du cerf dans le cadre de la "Chasse sauvage", protégeant la patrie contre les intrus.\nDe nombreuses Fianna puissantes sont ici, prêtes à enseigner leur sagesse aux nouveaux arrivants... s'ils le souhaitent. pour écouter de longues histoires d'exploits grandioses." #NT!
+ POD_spirit_travel.4401.a: "Vous avez critiqué toute une meute de Fenris ?" #NT!
+ POD_spirit_travel.4401.b: "Tant d'or ?" #NT!
+  
+ POD_spirit_travel.4402.desc: "La patrie des Fianna est un paysage verdoyant de collines, de vallons et de vallons qui semblent tirés des traditions des romans fantastiques historiques. Les fées jouent dans les bois et les esprits des cerfs parcourent les terres sous la direction du cerf dans le cadre de la "Chasse sauvage", protégeant la patrie contre les intrus.\nEn tant que non-Fianna, vous êtes l'un de ces intrus. Échapper à la chasse sauvage pendant votre séjour ici sera difficile, et vous feriez mieux d'avancer aussi vite que possible." #NT!
+ POD_spirit_travel.4402.a: "Je devrais courir. Plus rapide." #NT!
+  
+ POD_spirit_travel.4500.t: "Paradis gelé" #NT!
+ POD_spirit_travel.4500.desc: "Les fjords, vastes étendues de toundra et de taïga froide et sombre, tous enveloppés par un hiver perpétuel, constituent la patrie des Fenrir. Des meutes de mégafaune de la période glaciaire, comme des loups terribles et des mammouths, parcourent les terres et attaquent n'importe quel loup-garou solitaire. Les Fenrir se rassemblent dans des villages-loges où ils boivent, se battent, font la fête et transmettent les sagas de leurs actes.\nPour un Get de Fenris, c'est la meilleure vie et la seule qui vaut vraiment la peine d'être vécue." #NT!
+ POD_spirit_travel.4500.a: "Festin et combat !" #NT!
+  
+ POD_spirit_travel.4501.t: "Maîtres de guerre" #NT!
+ POD_spirit_travel.4501.desc: "Les fjords, vastes étendues de toundra et de taïga froide et sombre, tous enveloppés par un hiver perpétuel, constituent la patrie des Fenrir. Des meutes de mégafaune de la période glaciaire, comme des loups terribles et des mammouths, parcourent les terres et attaquent n'importe quel loup-garou solitaire. Les Fenrir se rassemblent dans des villages-loges où ils boivent, combattent, font la fête et transmettent les sagas de leurs actes.\nLes guerriers expérimentés sont nombreux ici et prêts à partager leurs enseignements avec ceux qui sont assez humbles pour les écouter." #NT!
+ POD_spirit_travel.4501.a: "Maîtriser la guerre." #NT!
+ POD_spirit_travel.4501.b: "Maîtriser les combats." #NT!
+  
+ POD_spirit_travel.4502.desc: "Les fjords, vastes étendues de toundra et de taïga froide et sombre, tous enveloppés par un hiver perpétuel, constituent la patrie des Fenrir. Des meutes de mégafaune de la période glaciaire, comme des loups terribles et des mammouths, parcourent les terres et attaquent n'importe quel loup-garou solitaire. Les Fenrir se rassemblent dans des villages-logements où ils boivent, se battent, font la fête et transmettent les sagas de leurs actes.\nLà-bas, soit vous êtes un Get de Fenris, soit vous êtes un ennemi qui doit être vaincu. Malheureusement, vous faites partie de la deuxième catégorie, vous ne devriez donc pas tarder." #NT!
+  
+ POD_spirit_travel.4600.t: "Paradis vitreux" #NT!
+ POD_spirit_travel.4600.desc: "La patrie du [GetPlayer.Custom( 'glasswalker_custom_name' )] est une métropole construite conformément aux conceptions gaïennes. Les hautes tours comportent des dizaines de niveaux de jardins en plein air regorgeant de végétation et d'oiseaux et d'animaux naturellement attirés par ces plantes. Chaque jardin répond à une écologie différente. De nombreux humains passent leur vie avec bonheur dans seulement quelques tours.\nCette vie parfaitement structurée est tout à fait un spectacle pour tout Gardien des Hommes fatigué, rappelant à son âme son plus grand objectif." #NT!
+ POD_spirit_travel.4600.a: "Tout est en ordre." #NT!
+  
+ POD_spirit_travel.4601.t: "Chefs des hommes et des loups" #NT!
+ POD_spirit_travel.4601.desc: "La patrie du [GetPlayer.Custom( 'glasswalker_custom_name' )] est une métropole construite conformément aux conceptions gaïennes. Les hautes tours comportent des dizaines de niveaux de jardins en plein air regorgeant de végétation et d'oiseaux et d'animaux naturellement attirés par ces plantes. Chaque jardin répond à une écologie différente. De nombreux humains passent leur vie dans quelques tours.\nDe nombreux anciens respectés de la tribu sont rassemblés ici, prêts à transmettre leur sagesse à l'auditeur déférent." #NT!
+ POD_spirit_travel.4601.a: "Créer de l'ordre à partir du chaos." #NT!
+  
+ POD_spirit_travel.4602.desc: "La patrie du [GetPlayer.Custom( 'glasswalker_custom_name' )] est une métropole construite conformément aux conceptions gaïennes. Les hautes tours comportent des dizaines de niveaux de jardins en plein air regorgeant de végétation et d'oiseaux et d'animaux naturellement attirés par ces plantes. Chaque jardin répond à une écologie différente. De nombreux humains passent volontiers leur vie dans quelques tours seulement.\nLes Gardiens sont vigilants contre quiconque tenterait de perturber leur ordre bien-aimé. En tant que tel, vous devez vous déplacer rapidement avant qu’ils ne vous trouvent." #NT!
+  
+ POD_spirit_travel.4700.t: "Paradis sauvage" #NT!
+ POD_spirit_travel.4700.desc: "La patrie de Red Talon est une vaste étendue sauvage préservée. Les prédateurs chassent sans restriction et se font concurrence. Au premier rang se trouvent de grandes meutes de loups qui en sont venues à dominer la patrie.\nLes Talons Rouges se sentent chez eux ici, enfin libres de laisser libre cours à leurs instincts primaires." #NT!
+ POD_spirit_travel.4700.a: "Comme cela devrait être." #NT!
+  
+ POD_spirit_travel.4701.t: "Chefs de meute" #NT!
+ POD_spirit_travel.4701.desc: "La patrie de Red Talon est une vaste étendue sauvage préservée. Les prédateurs chassent sans restriction et se font concurrence. Au premier rang se trouvent de grandes meutes de loups qui en sont venues à dominer la patrie.\nDe puissants chefs de meute peuvent être trouvés ici, prêts à enseigner aux dignes louveteaux leur expérience dans la nature." #NT!
+ POD_spirit_travel.4701.a: "Apprendre des meilleurs." #NT!
+  
+ POD_spirit_travel.4702.desc: "La patrie de Red Talon est une vaste étendue sauvage préservée. Les prédateurs chassent sans restriction et se font concurrence. Au premier rang se trouvent de grandes meutes de loups qui dominent la patrie.\nSi vous n'êtes pas un Serre Rouge dans cet endroit, vous êtes une proie. Et vous affrontez certains des meilleurs chasseurs qui aient jamais existé..." #NT!
+  
+ POD_spirit_travel.4800.t: "Paradis ténébreux" #NT!
+ POD_spirit_travel.4800.desc: "Les Seigneurs des Ombres vivent dans une zone dominée par une Grande Montagne, le ciel étant perpétuellement enveloppé de nuages ​​​​sombres et d'orages. Les sommets et les forêts en contrebas se trouvent dans une ombre éternelle, où les Seigneurs des Ombres se rassemblent dans des châteaux pour conspirer les uns contre les autres afin de trouver un moyen de gravir la montagne.\nAussi étrange que cela puisse paraître pour un étranger, cela ressemble à un paradis pour l'Ombre rusé. Seigneurs." #NT!
+ POD_spirit_travel.4800.a: "Je veux mon propre château ici !" #NT!
+  
+ POD_spirit_travel.4801.t: "Maîtres conspirateurs" #NT!
+ POD_spirit_travel.4801.desc: "Les Seigneurs des Ombres vivent dans une zone dominée par une Grande Montagne, le ciel étant perpétuellement enveloppé de nuages ​​​​sombres et d'orages. Les sommets et les forêts en contrebas se trouvent dans une ombre éternelle, où les Seigneurs des Ombres se rassemblent dans des châteaux pour conspirer les uns contre les autres afin de trouver un moyen d'escalader la montagne.\nLes Seigneurs des Ombres les plus rusés peuvent être trouvés ici et même s'ils ne dévoileront pas facilement leurs secrets. , ils peuvent être persuadés de le faire avec la déférence appropriée." #NT!
+ POD_spirit_travel.4801.a: "J'écoute, subtile." #NT!
+  
+ POD_spirit_travel.4802.desc: "Les Seigneurs des Ombres vivent dans une zone dominée par une Grande Montagne, le ciel étant perpétuellement enveloppé de nuages ​​​​sombres et d'orages. Les sommets et les forêts en contrebas se trouvent dans une ombre éternelle, où les Seigneurs des Ombres se rassemblent dans des châteaux pour conspirer les uns contre les autres afin de trouver un moyen de gravir la montagne.\nLes étrangers comme vous sont considérés comme des distractions divertissantes dans ce royaume. Les Resident Shadow Lords imaginent déjà des moyens sournois de vous capturer et de « jouer » avec vous..." #NT!
+  
+ POD_spirit_travel.4900.t: "Paradis seigneurial" #NT!
+ POD_spirit_travel.4900.desc: "La patrie du Silver Fang est une vaste étendue de territoire qui ressemble aux steppes russes. Au centre du royaume se trouve le Château des Héros, un monument aux exploits des Crocs d'Argent au service de la Nation Garou.\nEn réalité, c'est un royaume où tout le monde peut voir que les Crocs d'Argent sont en effet censés être des rois et Reines." #NT!
+ POD_spirit_travel.4900.a: "Nous sommes grands." #NT!
+  
+ POD_spirit_travel.4901.t: "Rois des loups" #NT!
+ POD_spirit_travel.4901.desc: "La patrie du Silver Fang est une vaste étendue de territoire qui ressemble aux steppes russes. Au centre du royaume se dresse le Château des Héros, un monument aux exploits des Crocs d'Argent au service de la Nation Garou.\nDe nombreux dirigeants sages habitent ici, à juste titre fiers de leur rang et prêts à en parler à n'importe quel petit curieux. ." #NT!
+ POD_spirit_travel.4901.a: "Fiers dirigeants des Garous." #NT!
+ POD_spirit_travel.4901.b: "De vaillants chefs de guerre de la nation." #NT!
+  
+ POD_spirit_travel.4902.desc: "La patrie du Silver Fang est une vaste étendue de territoire qui ressemble aux steppes russes. Au centre du royaume se dresse le Château des Héros, un monument aux exploits des Crocs d'Argent au service de la Nation Garou.\nC'est une terre digne uniquement des Crocs d'Argent, du puissant Faucon et de ses enfants, alliés des tribu, prévenez-les de tout intrus. La chasse est lancée." #NT!
+  
+ POD_spirit_travel.5000.t: "Paradis infernal" #NT!
+ POD_spirit_travel.5000.desc: "L'ancienne patrie des Hurleurs Blancs a été transformée de manière méconnaissable par le Wyrm. L’air est épais de fumée et ondule de chaleur. Un soleil vert maladif frappe la surface, non bloqué par toute sorte de couche d’ozone. La nuit n'apporte aucun soulagement car les polluants refroidissent et descendent à la surface, faisant apparaître la lune jaune fluorescent à travers les vapeurs.\nSeuls les Danseurs de la Spirale Noire peuvent vraiment apprécier un tel paysage infernal, rappelant le but ultime de leur maître Wyrmish." #NT!
+ POD_spirit_travel.5000.a: "Douce corruption !" #NT!
+  
+ POD_spirit_travel.5001.t: "Patrons infernaux" #NT!
+ POD_spirit_travel.5001.desc: "L'ancienne patrie des Hurleurs Blancs a été transformée de manière méconnaissable par le Wyrm. L’air est épais de fumée et ondule de chaleur. Un soleil vert maladif frappe la surface, non bloqué par toute sorte de couche d’ozone. La nuit n'apporte aucun soulagement car les polluants refroidissent et descendent à la surface, faisant apparaître la lune jaune fluorescent à travers les vapeurs.\nDe puissants esprits du Bane peuvent être trouvés ici, prêts à enseigner leurs méthodes corruptrices aux enthousiastes danseurs de la spirale noire." #NT!
+ POD_spirit_travel.5001.a: "Corrompre le monde !" #NT!
+ POD_spirit_travel.5001.b: "Combattez le monde !" #NT!
+  
+ POD_spirit_travel.5002.desc: "L'ancienne patrie des Hurleurs Blancs a été transformée de manière méconnaissable par le Wyrm. L’air est épais de fumée et ondule de chaleur. Un soleil vert maladif frappe la surface, non bloqué par toute sorte de couche d’ozone. La nuit n'apporte aucun soulagement car les polluants refroidissent et coulent à la surface, faisant apparaître la lune jaune fluorescent à travers les vapeurs.\nC'est l'un des royaumes les plus corrompus du Wyrm et tout intrus sera rapidement pourchassé et (au mieux) rapidement tué. Vous n'êtes pas d'ici." #NT!
+  
+ POD_spirit_travel.5100.t: "Paradis chaleureux" #NT!
+ POD_spirit_travel.5100.desc: "La patrie des Silent Striders est dominée par une gigantesque rivière appelée la Rivière de la Vie. Enveloppé d'une nuit éternelle, il est par ailleurs constitué de grands déserts argentés et dominé par des obélisques et des bâtiments monumentaux similaires inscrits de hiéroglyphes. soigneusement alignés pour mettre en valeur les constellations commémorant les anciens héros des Silent Striders.\nLa malédiction de Set a séparé les Silent Striders de leur patrie pendant longtemps et un profond sentiment de soulagement envahit tout membre de cette tribu assez chanceux pour trouver un moyen de revenir ici." #NT!
+ POD_spirit_travel.5100.a: "Enfin à la maison." #NT!
+  
+ POD_spirit_travel.5101.t: "Leçons des exilés" #NT!
+ POD_spirit_travel.5101.desc: "La patrie des Silent Striders est dominée par une gigantesque rivière appelée la Rivière de la Vie. Enveloppé d'une nuit éternelle, il est par ailleurs constitué de grands déserts argentés et dominé par des obélisques et des bâtiments monumentaux similaires inscrits de hiéroglyphes. soigneusement alignés pour mettre en valeur les constellations commémorant les anciens héros de Silent Strider.\nIl y a beaucoup à apprendre ici, les contes d'avant l'exil en particulier fournissent au curieux Strider un aperçu unique de l'histoire troublée de leur tribu." #NT!
+ POD_spirit_travel.5101.a: "Nous faisions autrefois partie d’une grande alliance." #NT!
+ POD_spirit_travel.5101.b: "Owl fonctionne de manière mystérieuse." #NT!
+  
+ POD_spirit_travel.5102.desc: "La patrie des Silent Striders est dominée par une gigantesque rivière appelée la Rivière de la Vie. Enveloppé d'une nuit éternelle, il est par ailleurs constitué de grands déserts argentés et dominé par des obélisques et des bâtiments monumentaux similaires inscrits de hiéroglyphes. soigneusement alignés pour mettre en valeur les constellations commémorant les anciens héros des Silent Striders.\nBien que pour la plupart vide, le royaume attend toujours ses occupants des Silent Striders. Tout intrus aura la mauvaise surprise d’être en proie à des malédictions et de tomber dans des pièges tant qu’il restera ici." #NT!
+  
+ POD_spirit_travel.5200.t: "Prisonniers fiers" #NT!
+ POD_spirit_travel.5200.desc: "L'Abysse, également connu sous le nom d'Enfer ou de Fosse, est la dimension trouble des ténèbres créée par Dieu comme prison éternelle pour les Déchus.\nPour ceux qui sont piégés ici, il n'y a pas d'échappatoire au tourment constant sauf par le repentir et l'expiation. Dans ce vide sans fin, cela pourrait être le seul moyen de garder votre santé mentale sous contrôle pendant un certain temps encore." #NT!
+ POD_spirit_travel.5200.a: "J'ai fait des erreurs..." #NT!
+  
+ POD_spirit_travel.5201.t: "Prisonniers zélés" #NT!
+  
+ POD_spirit_travel.5202.t: "Châtiment divin" #NT!
+ POD_spirit_travel.5202.desc: "L'Abîme, également connu sous le nom d'Enfer ou de Fosse, est la dimension trouble des ténèbres créée par Dieu comme une prison éternelle pour les Déchus.\nLes démons à l'intérieur sont laissés pourrir dans leurs propres regrets, désespoir et fureur impuissante et les machinations et Les manipulations des dirigeants infernaux ne sont rien d'autre que des jeux d'esprit insensés, puisque les Déchus ne peuvent ni se blesser ni se détruire. Être piégé dans l’une de ces machinations est un moyen sûr de se perdre rapidement." #NT!
+ POD_spirit_travel.5202.a: "Que puis-je faire d'autre?" #NT!
+  
+ POD_spirit_travel.5300.t: "Ordre têtu" #NT!
+ POD_spirit_travel.5300.desc: "Les Weaver Reaches sont des brins de réalité calcifiée, semblables à une carte informatisée d’un astronome. Les nœuds qui se croisent sur la toile enferment les étoiles froides et les planètes gelées dans une symétrie surnaturelle.\nPour prospérer et comprendre cet endroit, vous devez avoir le bon état d'esprit, quelqu'un qui valorise avant tout l'ordre et la précision." #NT!
+ POD_spirit_travel.5300.a: "Cela ressemble à mon genre d'endroit !" #NT!
+ POD_spirit_travel.5300.b: "Je n'aime pas cet endroit..." #NT!
+  
+ POD_spirit_travel.5301.t: "Solitude Astrale" #NT!
+ POD_spirit_travel.5301.desc: "Les Weaver Reaches sont des brins de réalité calcifiée, semblables à une carte informatisée d’un astronome. Les nœuds qui se croisent sur la toile enferment les étoiles froides et les planètes gelées dans une symétrie non naturelle.\nAucun signe de vie n'existe ici, ce qui en fait l'endroit idéal pour les personnages timides... mais pas exactement le même pour les personnes qui aiment réellement avoir de la compagnie." #NT!
+  
+ POD_spirit_travel.5302.t: "Diligence astrale" #NT!
+ POD_spirit_travel.5302.desc: "Les Weaver Reaches sont des brins de réalité calcifiée, semblables à une carte informatisée d’un astronome. Les nœuds qui se croisent dans la toile enferment les étoiles froides et les planètes gelées dans une symétrie non naturelle.\nDes esprits tisserands colossaux tels que les « araignées étoilées » patrouillent, entretiennent la toile et s'assurent que tout reste à sa place ordonnée. Il n’y a pas de place pour la paresse ici et tout suit son cours avec le plus de diligence possible." #NT!
+  
+ POD_spirit_travel.5400.t: "Nature inconstante" #NT!
+ POD_spirit_travel.5400.desc: "Les Wild Reaches sont un lieu de chaos. Ici, la nature règne sans retenue et le royaume tout entier est en constante évolution. Seules les personnes dotées d’un esprit particulièrement adaptatif peuvent prospérer ici." #NT!
+  
+ POD_spirit_travel.5401.t: "Amis naturels" #NT!
+ POD_spirit_travel.5401.desc: "Les Wild Reaches sont peuplées de toutes sortes de créatures spirituelles. Même si certains sont hostiles, vous pouvez trouver ici des interlocuteurs assez intrigants et amicaux si vous le souhaitez." #NT!
+  
+ POD_spirit_travel.5402.t: "Ruée naturelle" #NT!
+ POD_spirit_travel.5402.desc: "Les Wild Reaches sont un lieu de chaos.\nLa nature n'attend aucun homme ici. Alors que le paysage change autour de vous tout le temps, vous devez adapter votre état d’esprit à cette vérité si vous voulez survivre dans ce domaine. Cela n’est peut-être pas possible pour tout le monde." #NT!
+  
+ POD_spirit_travel.5500.t: "Royaume de la douleur" #NT!
+ POD_spirit_travel.5500.desc: "Les étoiles dans les Wyrm Reaches ont brûlé jusqu'à devenir des enveloppes sans vie ou se sont effondrées en trous noirs qui mènent généralement au [malfeas|E]. Des nébuleuses de pollution et des incendies tourbillonnent autour d'eux, masquant leurs constellations à quiconque les regarde, les transformant en taches sombres dans le ciel d'Umbral.\nUn lieu de douleur et de folie, seules les âmes les plus blasées peuvent prospérer ici." #NT!
+  
+ POD_spirit_travel.5501.t: "Royaume de la haine" #NT!
+ POD_spirit_travel.5501.desc: "Les étoiles dans les Wyrm Reaches ont brûlé jusqu'à devenir des enveloppes sans vie ou se sont effondrées en trous noirs qui mènent généralement au [malfeas|E]. Des nébuleuses de pollution et des incendies tourbillonnent autour d'eux, masquant leurs constellations à quiconque les regarde, les transformant en taches sombres dans le ciel de l'Umbral.\nLes pires émotions sont libres et prospères ici. La haine nourrira la haine." #NT!
+  
+ POD_spirit_travel.5502.t: "Royaume de la tromperie" #NT!
+ POD_spirit_travel.5502.desc: "Les étoiles dans les Wyrm Reaches ont brûlé jusqu'à devenir des enveloppes sans vie ou se sont effondrées en trous noirs qui mènent généralement au [malfeas|E]. Des nébuleuses de pollution et des incendies tourbillonnent autour d'eux, masquant leurs constellations à quiconque les regarde, les transformant en taches sombres dans le ciel de l'Umbral.\nDes pensées de trahison vous traversent constamment l'esprit, vous rappelant les nombreuses personnes qui ont essayé de vous contrarier. ... ou ceux que vous avez vous-même croisés." #NT!
+  
+ POD_spirit_travel.5600.t: "Marcher dans la spirale" #NT!
+ POD_spirit_travel.5600.desc: "Le [black_spiral_labyrinth|E], également appelé le Labyrinthe d'Ébène dans l'Empire du Milieu, est un labyrinthe en spirale dans le royaume du [malfeas|E] contenant les horreurs inimaginables du Wyrm.\nC'est l'un des bastions du Wyrm où se trouvent ses plus fidèles serviteurs, la Spirale Noire. Les danseurs sont nés. Pour quelqu’un qui adore cette entité, c’est très proche d’un lieu saint d’une manière tordue." #NT!
+ POD_spirit_travel.5600.a: "Un pèlerinage de folie." #NT!
+  
+ POD_spirit_travel.5601.t: "Danser la spirale" #NT!
+ POD_spirit_travel.5601.desc: "Le [black_spiral_labyrinth|E], également appelé le Labyrinthe d'Ébène dans l'Empire du Milieu, est un labyrinthe en spirale dans le royaume du [malfeas|E] contenant les horreurs inimaginables du Wyrm.\nLe Labyrinthe regorge de cadeaux pour les serviteurs zélés du Wyrm. Mais danser la spirale est une perspective exaspérante, qui peut briser même les esprits déjà brisés." #NT!
+ POD_spirit_travel.5601.a: "Dansons !" #NT!
+ POD_spirit_travel.5601.b: "Je n'en ai pas envie." #NT!
+  
+ POD_spirit_travel.5602.desc: "Le [black_spiral_labyrinth|E], également appelé le Labyrinthe d'Ébène dans l'Empire du Milieu, est un labyrinthe en spirale dans le royaume du [malfeas|E] contenant les horreurs inimaginables du Ver.\nLe Labyrinthe a brisé l'esprit de tribus entières et d'un nombre incalculable de soi-disant héros, maintenant des serviteurs zélés du Wyrm. Tant que vous resterez ici, vous serez soumis au Wyrm Profanateur dans sa forme la plus puissante. Vous devriez courir, vite." #NT!
+ POD_spirit_travel.5602.a: "Danser ma santé mentale..." #NT!
+  
+ POD_spirit_travel.5700.t: "Gloire éternelle" #NT!
+ POD_spirit_travel.5700.desc: "On peut y voir des échos des terres vivantes formées par les passions et les désirs placés dans les grandes villes, les tombeaux et les temples de l'Égypte ancienne. C'est là que les Immortels, ou Momies, construisent leur vaste royaume pour se protéger lorsqu'ils traversent la perfide Duat, le pays des Morts.\nL'ancienne Égypte ayant disparu depuis longtemps de l'esprit des mortels, c'est peut-être le dernier reste de la gloire qui était autrefois. Toute momie venant ici peut ressentir la fierté de sa civilisation, mais aussi la tristesse de sa perte." #NT!
+ POD_spirit_travel.5700.a: "Je dois rester fidèle à Khem." #NT!
+ POD_spirit_travel.5700.b: "Fierté douloureuse." #NT!
+ POD_spirit_travel.5700.c: "La vieille Egypte est morte et enterrée." #NT!
+  
+ POD_spirit_travel.5701.t: "Les secrets de Khem" #NT!
+ POD_spirit_travel.5701.desc: "On peut y voir des échos des terres vivantes formées par les passions et les désirs placés dans les grandes villes, les tombeaux et les temples de l'Égypte ancienne. C'est ici que les Immortels, ou Momies, construisent leur vaste royaume pour se protéger lorsqu'ils traversent la perfide Duat, le pays des Morts.\nBeaucoup des secrets les plus profonds de l'Égypte ancienne peuvent être découverts ici, préservés par les Momies de passage lors de leur propre voyage. processus de résurrection. Pour celui qui prend le temps de lire les hiéroglyphes, il y a beaucoup à apprendre." #NT!
+ POD_spirit_travel.5701.a: "Secrets des morts." #NT!
+ POD_spirit_travel.5701.b: "Secrets de l'âme." #NT!
+ POD_spirit_travel.5701.c: "Secrets du ciel." #NT!
+ POD_spirit_travel.5701.d: "Je ne fais que passer." #NT!
+  
+ POD_spirit_travel.5702.t: "La malédiction de la momie" #NT!
+ POD_spirit_travel.5702.desc: "On peut y voir des échos des terres vivantes formées par les passions et les désirs placés dans les grandes villes, les tombeaux et les temples de l'Égypte ancienne. C'est là que les Immortels, ou Momies, construisent leur vaste royaume pour se protéger lorsqu'ils traversent le perfide Duat, le pays des Morts.\nCet endroit est destiné uniquement aux immortels d'Égypte et vous n'en faites pas partie. Ainsi, des pièges ingénieux surgissent partout alors que vous essayez de piller les secrets du passé. Chaque fois que vous essayez de vous en rapprocher, il recule encore plus." #NT!
+ POD_spirit_travel.5702.a: "C'est une cause perdue..." #NT!
+  
+ POD_spirit_travel.5800.t: "Secrets du premier" #NT!
+ POD_spirit_travel.5800.desc: "La Première Ville est le lieu de naissance mythique des vampires Caïnites. Longtemps inondée par la colère de Dieu, elle est toujours préservée comme un écho dans le [underworld|E].\nEn tant que refuge pour certaines des entités les plus puissantes ayant jamais marché sur Terre, la Première Cité est un dépositaire de souvenirs et de connaissances pas comme les autres. Il est cependant préférable de laisser certaines vérités enfouies, et il y a ici des choses qui pourraient briser la foi de l'individu le plus zélé." #NT!
+ POD_spirit_travel.5800.a: "Le chemin des géants..." #NT!
+ POD_spirit_travel.5800.b: "C'est trop dangereux." #NT!
+  
+ POD_spirit_travel.5801.t: "Guerre pour Enoch" #NT!
+ POD_spirit_travel.5801.desc: "La Première Ville est le lieu de naissance mythique des vampires Caïnites. Longtemps inondé par la colère de Dieu, il est toujours préservé comme écho dans le [underworld|E].\nEnoch est un champ de bataille entre les forces de l'empire fantomatique de Stygia et le vampirique secret Tal'mahe'Ra. Chaque nuit, des batailles ont lieu dans les quartiers contestés de l'ancienne grande ville." #NT!
+ POD_spirit_travel.5801.a: "Un effort qui en vaut la peine !" #NT!
+ POD_spirit_travel.5801.effect.success.desc: "Vous combattez courageusement et découvrez les questions martiales." #NT!
+ POD_spirit_travel.5801.success: "Une bonne bataille !" #NT!
+ POD_spirit_travel.5801.failure.effect.desc: "Vous vous enfuyez battu." #NT!
+ POD_spirit_travel.5801.failure: "Ça n'en vaut pas la peine..." #NT!
+  
+ POD_spirit_travel.5802.t: "Le Palais de l'Effroi Ghemal" #NT!
+ POD_spirit_travel.5802.desc: "La Première Ville est le lieu de naissance mythique des vampires Caïnites. Longtemps inondé par la colère de Dieu, il est toujours préservé comme un écho dans le [underworld|E].\nLa Haute Maison de Caine, connue sous le nom de Palais de l'Effroi Ghemal, se dresse en plein centre de la ville. Juste un écho du lieu réel évidemment mais toujours un spectacle très impressionnant. Et terrible, car on peut presque sentir la présence du Père Ténébreux dans cet endroit il y a si longtemps..." #NT!
+ POD_spirit_travel.5802.a: "Il n'est pas là, n'est-ce pas ?" #NT!
+  
+ POD_spirit_travel.5403.t: "Chaos amical" #NT!
+ POD_spirit_travel.5403.desc: "Les étendues du Wyld sont peuplées de toutes sortes d’esprits. En mouvement constant, ils créent, évoluent et meurent à une vitesse vertigineuse. Certaines de ces créations pourraient être utiles si vous parveniez à forcer ces esprits à ralentir un peu. Il faudra peut-être un peu de travail pour les convaincre, mais le résultat en vaudra probablement la peine, même si vous ne pouvez pas en être sûr." #NT!
+ POD_spirit_travel.5403.a: "Un Klaive est toujours utile !" #NT!
+ POD_spirit_travel.5403.b: "Quelle étrange pochette." #NT!
+ POD_spirit_travel.5403.c: "A quoi sert cette aiguille ?" #NT!
+ POD_spirit_travel.5403.d: "Un engin si étrange !" #NT!
+ POD_spirit_travel.5403.e: "Je n'ai pas besoin de ces babioles." #NT!
+  
+ POD_spirit_travel.3903.t: "Récompenses de la chasse" #NT!
+ POD_spirit_travel.3903.desc: "Royaume rude et impitoyable où les loups peuvent devenir des proies aussi facilement qu'ils assument leur rôle de prédateurs, Wolfhome est une vaste étendue de nature sauvage vierge.\nEn tant que chasseur accompli, vous avez participé à l'une des nombreuses chasses organisées dans tout le royaume. . Chacun d’eux sera un effort épuisant, mais ils offriront également des babioles spirituelles en récompense." #NT!
+ POD_spirit_travel.3903.a: "Boucle d'oreille intéressante." #NT!
+ POD_spirit_travel.3903.b: "Une couverture? Vraiment?" #NT!
+ POD_spirit_travel.3903.c: "Masque effrayant..." #NT!
+ POD_spirit_travel.3903.d: "Une bassine comme fétiche ?" #NT!
+  
+ POD_spirit_travel.4003.t: "Combattez à votre façon" #NT!
+ POD_spirit_travel.4003.desc: "Une calomnie est un domaine qui se développe lorsqu'une émotion négative particulièrement forte est exprimée à un endroit du monde physique et laisse une empreinte dans l'Umbra. C'est un aimant pour les Banes et les esprits qui vivent à proximité d'un Calumn montrent des signes de leurs émotions respectives et même les objets inanimés sont altérés par la proximité.\nDe nombreux artefacts spirituels ont été perdus dans cet endroit et pourraient être récupérés par un aventurier entreprenant. Les gardiens Banes ne les laisseront cependant pas partir facilement." #NT!
+ POD_spirit_travel.4003.a: "Une poupée à cet endroit ?" #NT!
+ POD_spirit_travel.4003.b: "Un crâne. Raccord." #NT!
+ POD_spirit_travel.4003.c: "De ce caillou émane de l’énergie." #NT!
+ POD_spirit_travel.4003.d: "Des grèves ? Bon." #NT!
+ POD_spirit_travel.4003.e: "Une hache puissante." #NT!
+ POD_spirit_travel.4003.f: "Cet os est magique, sans aucun doute." #NT!
+  
+ POD_spirit_travel.2603.t: "Négocier avec les Djinnis" #NT!
+ POD_spirit_travel.2603.desc: "La Cité d'Airain est la demeure des Djinnis et de leurs citadelles les plus puissantes. Ces esprits sont notoirement hostiles aux visiteurs suite à de mauvaises relations avec les mages dans le passé. Pour aggraver les choses, ils sont connus comme des menteurs compulsifs.\nCes esprits intelligents accumulent des artefacts depuis longtemps maintenant et aiment les montrer à leurs invités. Ils sont également friands de bon marchandage et pourraient se laisser convaincre de se séparer de certains d'entre eux moyennant un certain prix." #NT!
+ POD_spirit_travel.2603.a: "Livre intéressant." #NT!
+ POD_spirit_travel.2603.b: "Une cape ? Comme c'est royal." #NT!
+ POD_spirit_travel.2603.c: "Cette lance semble bien équilibrée." #NT!
+ POD_spirit_travel.2603.d: "None" #NT!
+  
+ POD_spirit_travel.2503.t: "Réflexion avec les muses" #NT!
+ POD_spirit_travel.2503.desc: "La Cour des Muses a beaucoup souffert de l’extinction presque complète de la croyance hellénique classique. Pourtant, même si leur royaume rétrécit chaque jour, les neuf filles de Zeus pratiquent toujours leur art, espérant que leur passion conjurera Oblivion un peu plus longtemps.\nLes Muses sont amicales et souvent solitaires. En tant que tels, ils vous demandent de passer un peu de temps avec eux pendant qu'ils vous racontent de grands contes de la Grèce classique, vous offrant une récompense si vous le faites. Leurs contes sont peut-être un peu trop enchanteurs mais on se retrouve de temps en temps à dériver hors de soi en les écoutant." #NT!
+ POD_spirit_travel.2503.a: "Une amulette ? Tu n'aurais pas dû." #NT!
+ POD_spirit_travel.2503.b: "Ce marteau appartenait à de grands héros ?" #NT!
+ POD_spirit_travel.2503.c: "Cela peut contrôler la météo ?" #NT!
+ POD_spirit_travel.2503.d: "Quel masque intéressant. Merci, mes dames." #NT!
+  
+ POD_spirit_travel.4403.effect.success.desc: "Vous avez trouvé l'artefact !" #NT!
+ POD_spirit_travel.4403.success: "Un nouveau trésor" #NT!
+ POD_spirit_travel.4403.failure.effect.desc: "La quête est un échec." #NT!
+ POD_spirit_travel.4403.failure: "Un échec" #NT!
+  
+ POD_spirit_travel.4403.t: "Les Trois de Tara" #NT!
+ POD_spirit_travel.4403.desc: "La patrie des Fianna est un paysage verdoyant de collines, de vallons et de vallons qui semblent tirés des traditions des romans fantastiques historiques. Les fées jouent dans les bois et les esprits des cerfs parcourent les terres sous la direction du cerf en tant que "Chasse sauvage", protégeant la patrie contre les intrus.\nIl y a longtemps, les Fianna ont perdu trois puissantes reliques lors de la difficile bataille de la colline de Tara. Depuis lors, c'est un rite de passage courant pour les dignes dirigeants Fianna de se lancer dans une quête pour récupérer ces artefacts. Une telle entreprise sera toutefois coûteuse et sans garantie de succès." #NT!
+ POD_spirit_travel.4403.a: "Il faut retrouver la corne du cerf blanc !" #NT!
+ POD_spirit_travel.4403.b: "Le couple d'or peut être récupéré !" #NT!
+ POD_spirit_travel.4403.c: "La langue de la vieille m'appelle." #NT!
+  
+ POD_spirit_travel.3503.t: "Un trésor de dragon" #NT!
+ POD_spirit_travel.3503.desc: "La Pangée est le reflet de la Terre primitive, montrant le monde tel qu'il était avant la civilisation, l'histoire humaine et même l'Impergium. C'est une époque où les continents de la Terre ne faisaient qu'un, une recréation tempérée d'anachronisme et d'horreurs ataviques oubliées depuis longtemps.\nDes créatures féroces semblables à des dragons vivent sur cette terre et, comme le racontent les histoires, elles ont amassé tout un trésor de trésor primordial qu'ils gardent jalousement pour eux. Vous pouvez essayer de monter un braquage audacieux, mais ces créatures sont évidemment très dangereuses lorsqu'elles sont piquées." #NT!
+ POD_spirit_travel.3503.a: "Brillant!" #NT!
+ POD_spirit_travel.3503.b: "Cela semble être une très mauvaise idée." #NT!
+  
+ POD_spirit_travel.2303.t: "Jour de chance" #NT!
+ POD_spirit_travel.2303.desc: "Les épiphamies incarnent des concepts d'abstraction complète et se matérialisent souvent sous forme de nuages ​​colorés dans le ciel sombre de la Vulgate.\nUn endroit étrange, beaucoup de choses finissent ici. Mais ce qui est perdu peut être retrouvé et aujourd’hui, la chance est de votre côté. Un objet rare rayonnant de magie tombe littéralement d’un des nuages ​​jusqu’à vos pieds." #NT!
+ POD_spirit_travel.2303.a: "Une couronne! Des plumes, semble-t-il." #NT!
+ POD_spirit_travel.2303.b: "Une couronne! Du fer je pense." #NT!
+ POD_spirit_travel.2303.c: "C'est un sacré gros rocher." #NT!
+  
+ POD_spirit_travel.4103.t: "Le Croc de Lion" #NT!
+ POD_spirit_travel.4103.desc: "La patrie des Furies noires ressemble aux paysages de la Grèce mythique : les montagnes Rocheuses dominent de nombreuses petites îles et péninsules qui s'étendent dans une mer turquoise. Des forêts luxuriantes de pins et d'oliviers, portant toujours des fruits, s'étendent sur l'île, ainsi que des bâtiments construits dans des styles grecs.\nUn puissant artefact, qui proviendrait d'une terre très éloignée de la Grèce, fut autrefois amené dans ce royaume par une étrange fille. de Pégase. Elle et son arme ont disparu un jour et, depuis lors, les Furies noires, jeunes et moins jeunes, les recherchent. Vous pourriez tenter votre chance pour trouver cette relique légendaire." #NT!
+ POD_spirit_travel.4103.a: "Pégase! Me guide!" #NT!
+  
+ POD_spirit_travel.4603.t: "L'appelant aux rêves" #NT!
+ POD_spirit_travel.4603.desc: "La patrie du [GetPlayer.Custom( 'glasswalker_custom_name' )] est une métropole construite conformément aux conceptions gaïennes. Les hautes tours comportent des dizaines de niveaux de jardins en plein air regorgeant de végétation et d'oiseaux et d'animaux naturellement attirés par ces plantes. Chaque jardin répond à une écologie différente. De nombreux humains passent leur vie avec bonheur dans quelques tours seulement.\nUn artefact précieux du Gardien, le Dreamcaller, réside là dans la cale de l'un des gardiens du royaume. Ils sont connus pour confier ce puissant artefact à des gardiens qui ont prouvé leur capacité à diriger l'humanité. En tant que tel, vous pourriez essayer de les convaincre que vous faites partie de ces dignes." #NT!
+ POD_spirit_travel.4603.a: "L'humanité m'aime !" #NT!
+  
+ POD_spirit_travel.4303.t: "La harpe de l'enchantement" #NT!
+ POD_spirit_travel.4303.desc: "La patrie des Enfants de Gaia est une vaste étendue de forêts luxuriantes, de collines et de ruisseaux bouillonnants serpentant à travers les vallées. Les humains libérés du Délire errent nomades à travers la patrie, avec des métropoles centrales qui reflètent des versions plus propres des villes de l'ancienne Sumer.\nL'un des artefacts les plus précieux de la tribu, la Harpe de l'Enchantement, réside ici. Il ne peut être retiré du royaume qu’en cas de besoin par un champion digne de ce nom. Peut-être pourriez-vous essayer de convaincre vos pairs que c’est effectivement le bon moment et que vous en êtes digne ?" #NT!
+ POD_spirit_travel.4303.a: "Mon premier point est..." #NT!
+  
+ POD_spirit_travel.4903.t: "La lame de glace" #NT!
+ POD_spirit_travel.4903.desc: "La patrie du Silver Fang est une vaste étendue de territoire qui ressemble aux steppes russes. Au centre du royaume se trouve le Château des Héros, un monument aux exploits des Crocs d'Argent au service de la Nation Garou.\nVous êtes amené devant Iceblade, la relique légendaire de la tribu et vous racontez son histoire d'un passé glorieux et digne. les propriétaires. On vous dit également que n'importe quel Silver Fang peut défier son propriétaire actuel dans un "wargame en direct" pour sa possession. Votre hôte sourit et vous demande si vous êtes intéressé." #NT!
+ POD_spirit_travel.4903.a: "Je suis le meilleur général de fauteuil !" #NT!
+  
+ POD_spirit_travel.4203.t: "L'anneau des éléments" #NT!
+ POD_spirit_travel.4203.desc: "La patrie des Bone Gnawers ressemble à un bidonville d’une ville. Les tavernes sont ouvertes 24 heures sur 24 et servent toutes de la bière bon marché au pichet. Les restaurants Joyhouse sont présents dans chaque pâté de maisons, mais le rusé Gnawer sait que les meilleurs se trouvent dans les ruelles, en frappant aux bonnes portes.\nDans l'une de ces ruelles, vous tombez sur ce qui semble être un jeu de hasard aux enjeux élevés. Les joueurs vous invitent à les rejoindre, vous attirant avec la promesse du prix ultime de cet événement, ce qui ressemble à un anneau puissant débordant de magie." #NT!
+ POD_spirit_travel.4203.a: "Jouons alors." #NT!
+  
+ POD_spirit_travel.4803.t: "Le Grand Klaive" #NT!
+ POD_spirit_travel.4803.desc: "Les Seigneurs des Ombres vivent dans une zone dominée par une Grande Montagne, le ciel étant perpétuellement enveloppé de nuages ​​​​sombres et d'orages. Les sommets et les forêts en contrebas se trouvent dans une ombre éternelle, où les Seigneurs des Ombres se rassemblent dans des châteaux pour conspirer les uns contre les autres afin de trouver un moyen de gravir la montagne.\nVous avez récemment appris que l'un des habitants du château possède l'un des rares et puissants Grand Klaive en sa possession. Peut-être pourriez-vous organiser une expédition pour le soulager de ce fardeau ?" #NT!
+ POD_spirit_travel.4803.a: "Rapidement et tranquillement." #NT!
+  
+ POD_spirit_travel.4503.t: "Les marteaux du Jarl" #NT!
+ POD_spirit_travel.4503.desc: "Les fjords, vastes étendues de toundra et de taïga froide et sombre, tous enveloppés par un hiver perpétuel, constituent la patrie des Fenrir. Des meutes de mégafaune de la période glaciaire, comme des loups terribles et des mammouths, parcourent les terres et attaquent n'importe quel loup-garou solitaire. Les Fenrir se rassemblent dans des villages-auberges où ils boivent, se battent, font la fête et racontent les sagas de leurs actes.\nLes sept puissants marteaux du Jarl étaient les armes précieuses des héros qui ont donné leur vie pour arrêter le maudit Wotan. Certains ont été récupérés après la bataille tandis que d'autres ont été perdus. Mais tous seraient une belle récompense pour l’ambitieux Fenrir prêt à les rechercher." #NT!
+ POD_spirit_travel.4503.a: "Forge-Concasseur ?" #NT!
+ POD_spirit_travel.4503.b: "Grincement de dents ?" #NT!
+ POD_spirit_travel.4503.c: "Chasseur de lance ?" #NT!
+ POD_spirit_travel.4503.d: "Mangeur de trolls ?" #NT!
+ POD_spirit_travel.4503.e: "Bras Lumineux ?" #NT!
+ POD_spirit_travel.4503.f: "La Vieille Serre ?" #NT!
+ POD_spirit_travel.4503.g: "Pain-Eagle ?" #NT!
+  
+ POD_spirit_travel.4703.t: "Les pierres runiques" #NT!
+ POD_spirit_travel.4703.desc: "La patrie de Red Talon est une vaste étendue sauvage préservée. Les prédateurs chassent sans restriction et se font concurrence. Au premier rang se trouvent de grandes meutes de loups qui en sont venues à dominer la patrie.\nIl est dit que, dans ce royaume, on peut trouver les pierres runiques laissées par les anciens loups qui habitaient ici il y a longtemps. Mais seuls les Serres Rouges les plus courageux et les plus sages peuvent espérer trouver une de ces reliques légendaires." #NT!
+ POD_spirit_travel.4703.a: "Je vais chercher la pierre runique de Gab." #NT!
+ POD_spirit_travel.4703.b: "La pierre runique de guerre m'appelle." #NT!
+ POD_spirit_travel.4703.c: "J'ai besoin de la pierre runique de contrôle." #NT!
+ POD_spirit_travel.4703.d: "La pierre runique de la ruse se trouve à proximité." #NT!
+ POD_spirit_travel.4703.e: "La Pierre runique de la sagesse peut m'apprendre beaucoup de choses." #NT!
+  
+ POD_spirit_travel.5900.t: "Morts en guerre" #NT!
+ POD_spirit_travel.5900.desc: "Avant la fondation du Royaume des Ténèbres du Sable, les morts égyptiens habitaient Neter-Khertet, le « lieu souterrain divin ». Le premier à marcher sur Neter-khertet fut Anubis. C’est ici qu’Osiris commença à régner sur les morts et rassembla autour de lui ses subordonnés les plus fidèles. Le Royaume des Ténèbres de Fer a lancé une invasion pour revendiquer Neter-Khertet comme sien au plus fort de l'Empire romain. Depuis, la guerre continue.\nCe conflit se déroule mal pour les morts égyptiens, car le Royaume des Ténèbres de Fer les dépasse largement en nombre et continue de croître nuit après nuit. Pourtant, les fils et les filles d’Égypte continuent de se battre, en utilisant des tactiques considérées depuis longtemps comme obsolètes dans le monde des mortels, comme la guerre des chars." #NT!
+ POD_spirit_travel.5900.a: "Les chars sont un spectacle impressionnant à voir." #NT!
+ POD_spirit_travel.5900.b: "Ils sont obsolètes pour une raison." #NT!
+  
+ POD_spirit_travel.5901.t: "Seigneur de la Terre Sacrée" #NT!
+ POD_spirit_travel.5901.desc: "Avant la fondation du Royaume des Ténèbres du Sable, les morts égyptiens habitaient Neter-Khertet, le « lieu souterrain divin ». Le premier à marcher sur Neter-khertet fut Anubis. C’est ici qu’Osiris commença à régner sur les morts et rassembla autour de lui ses subordonnés les plus fidèles. Le Royaume des Ténèbres de Fer a lancé une invasion pour revendiquer Neter-Khertet comme sien au plus fort de l'Empire romain. Depuis, la guerre continue.\nAnubis règne ici et le Dieu chacal s'est révélé un diplomate astucieux. Ses accords avec le reclus Charon de Stygie ont permis à Neter-Khertet de recevoir des renforts indispensables sans perdre son indépendance. Diriger un royaume plongé dans une guerre apparemment éternelle est certainement un talent que vous pouvez apprécier." #NT!
+ POD_spirit_travel.5901.a: "Beaucoup à apprendre du fils d'Osiris." #NT!
+ POD_spirit_travel.5901.b: "La guerre d’abord, les discussions ensuite." #NT!
+  
+ POD_spirit_travel.5902.t: "Costume du Pharaon" #NT!
+ POD_spirit_travel.5902.desc: "Avant la fondation du Royaume des Ténèbres du Sable, les morts égyptiens habitaient Neter-Khertet, le « lieu souterrain divin ». Le premier à marcher sur Neter-khertet fut Anubis. C’est ici qu’Osiris commença à régner sur les morts et rassembla autour de lui ses subordonnés les plus fidèles. Le Royaume des Ténèbres de Fer a lancé une invasion pour revendiquer Neter-Khertet comme sien au plus fort de l'Empire romain. Depuis, la guerre continue.\nMalgré la guerre meurtrière qui se déroule, les âmes des morts égyptiens tentent toujours de s'adapter du mieux qu'elles peuvent, ayant forgé ce royaume dans une version idéaliste de l'Égypte ancienne. Vous rencontrez de nombreux artisans qualifiés, dont certains vous proposent leur savoir-faire si vous deviez vous séparer de quelques pièces. Une chose étrangement normale à faire dans un royaume aussi assiégé." #NT!
+ POD_spirit_travel.5902.a: "Ces vêtements sont dignes de la royauté !" #NT!
+ POD_spirit_travel.5902.b: "J'aime mon propre style, merci." #NT!
+  
+ POD_spirit_travel.6000.t: "Édulcoré" #NT!
+ POD_spirit_travel.6000.desc: "Les cours élémentaires sont le reflet des systèmes élémentaires de la Haute Umbra. L'entrée des tribunaux se fait par les Cinq Portes, qui se trouvent à mi-chemin sur une flèche. Bien qu'il existe de nombreux élémentaux et bien d'autres formes avec les changements rapides apportés par la société humaine, seuls cinq sont suffisamment stables pour être considérés comme des Cours.\nAssociés à l'état liquide de la matière, à l'émotion, à l'Occident et à l'Essence Primordiale, les habitants de l' Le royaume se préoccupe souvent de la situation générale des visiteurs, en s'impliquant dans leurs ressentis et leurs points de vue. Cela peut être une expérience très relaxante, ou un cruel reste qu'une telle tranquillité n'existe vraiment nulle part ailleurs." #NT!
+ POD_spirit_travel.6000.a: "Tellement calme..." #NT!
+ POD_spirit_travel.6000.b: "Je dois passer à autre chose." #NT!
+  
+ POD_spirit_travel.6001.t: "Rafraîchissement par l'air" #NT!
+ POD_spirit_travel.6001.desc: "Les cours élémentaires sont le reflet des systèmes élémentaires de la Haute Umbra. L'entrée des tribunaux se fait par les Cinq Portes, qui se trouvent à mi-chemin sur une flèche. Bien qu'il existe de nombreux élémentaux et bien d'autres formes avec les changements rapides apportés par la société humaine, seuls cinq sont suffisamment stables pour être considérés comme des Cours.\nAssociés à l'état gazeux de la matière, de la pensée, de l'Est et de l'Essence dynamique, les seigneurs de l'Air font partie des élémentaux les plus réceptifs et confrontent souvent l'intellect d'un visiteur à des énigmes et à des techniques similaires." #NT!
+ POD_spirit_travel.6001.a: "Je suis le maître des énigmes !" #NT!
+ POD_spirit_travel.6001.b: "Les énigmes sont stupides." #NT!
+  
+ POD_spirit_travel.6002.t: "La colère mène à..." #NT!
+ POD_spirit_travel.6002.desc: "Les cours élémentaires sont le reflet des systèmes élémentaires de la Haute Umbra. L'entrée des tribunaux se fait par les Cinq Portes, qui se trouvent à mi-chemin sur une flèche. Bien qu'il existe de nombreux élémentaux et bien d'autres formes avec les changements rapides apportés par la société humaine, seuls cinq sont suffisamment stables pour être considérés comme des Cours.\nAssociés à l'état plasmique de la matière, à l'intuition, au Sud et à l'Essence en quête, les habitants de cette sont impétueux et directs, attendant que les visiteurs exposent leurs affaires et s'y mettent. Les combats sont monnaie courante ici et les habitants du royaume sont heureux de donner à tout nouveau venu une ou deux leçons sur la brutalité imprudente." #NT!
+ POD_spirit_travel.6002.a: "Je suis assez excité pour ça !" #NT!
+ POD_spirit_travel.6002.b: "La violence n'est pas la réponse." #NT!
+  
+  

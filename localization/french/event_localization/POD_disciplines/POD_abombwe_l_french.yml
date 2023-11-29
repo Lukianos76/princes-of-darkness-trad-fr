@@ -1,0 +1,14 @@
+﻿l_french:
+  
+ POD_predators_mastery.100.t: "Maîtrise du prédateur" #NT!
+ POD_predators_mastery.100.desc: "Vous vous préparez à utiliser votre Bête pour que [recipient.GetFirstNameNoTooltip] tienne compte de votre commande." #NT!
+ POD_predators_mastery.100.option.a: "Réveillez le sang pour dominer [recipient.GetHerHim]." #NT!
+ POD_predators_mastery.100.option.a.tt: ""
+ POD_predators_mastery.100.option.a.success.desc: "[recipient.GetFirstNameNoTooltip] se recroqueville devant vous." #NT!
+ POD_predators_mastery.100.option.a.failure.desc: "[recipient.GetFirstNameNoTooltip] n'est pas impressionné." #NT!
+ POD_predators_mastery.100.option.b: "Réveillez le sang et exercez ma volonté. [recipient.GetSheHe|U] obéira !" #NT!
+ POD_predators_mastery.100.option.b.tt: ""
+ POD_predators_mastery.100.option.b.success.desc: "[recipient.GetFirstNameNoTooltip] se recroqueville devant vous." #NT!
+ POD_predators_mastery.100.option.b.failure.desc: "[recipient.GetFirstNameNoTooltip] n'est pas impressionné." #NT!
+ POD_predators_mastery.100.option.c: "Peu importe, abandonnez cette entreprise." #NT!
+ POD_predators_mastery.100.option.c.tt: "Vous abandonnez votre tentative de domination [recipient.GetFirstNameNoTooltip]" #NT!

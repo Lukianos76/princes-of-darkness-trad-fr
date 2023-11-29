@@ -1,0 +1,82 @@
+﻿l_french:
+ naktanchara_religion: "Vétaladharma" #NT!
+ naktanchara_religion_adj: "Vétaladharma" #NT!
+ naktanchara_religion_adherent: "Vétaladharma" #NT!
+ naktanchara_religion_adherent_plural: "Vétaladharma" #NT!
+ naktanchara_religion_desc: "La route du Vetala, succube mort-vivante tantrique." #NT!
+ naktanchara_high_god_name: "Siddharta" #NT!
+ naktanchara_high_god_name_possessive: "Siddhartha" #NT!
+ naktanchara_high_god_name_alternate: "L'illuminé" #NT!
+ naktanchara_high_god_name_alternate_possessive: "Les Illuminés" #NT!
+ naktanchara_samsara: "le samsara" #NT!
+ naktanchara_good_god_buddha: "Bouddha" #NT!
+ naktanchara_good_god_arhat: "L'Arhat" #NT!
+ naktanchara_good_god_perfected_ones: "Les perfectionnés" #NT!
+  
+ naktanchara_creator_god_name: "Tathagatagarbha" #NT!
+ naktanchara_creator_god_name_possessive: "Tathagatagarbha" #NT!
+ naktanchara_health_god_name: "Virūḍhaka" #NT!
+ naktanchara_health_god_name_possessive: "Virūḍhaka" #NT!
+ naktanchara_fertility_god_name: "$naktanchara_health_god_name$" #NT!
+ naktanchara_fertility_god_name_possessive: "$naktanchara_health_god_name_possessive$" #NT!
+ naktanchara_wealth_god_name: "Vaiśravaṇa" #NT!
+ naktanchara_wealth_god_name_possessive: "Vaiśravaṇa" #NT!
+ naktanchara_household_god_name: "Dhṛtarāṣtra" #NT!
+ naktanchara_household_god_name_possessive: "Dhṛtarāṣtra" #NT!
+ naktanchara_fate_god_name: "kamma" #NT!
+ naktanchara_fate_god_name_possessive: "le kamma" #NT!
+ naktanchara_knowledge_god_name: "Virūpākṣa" #NT!
+ naktanchara_knowledge_god_name_possessive: "Virūpākṣa" #NT!
+ naktanchara_war_god_name: "$naktanchara_household_god_name$" #NT!
+ naktanchara_war_god_name_possessive: "$naktanchara_household_god_name_possessive$" #NT!
+ naktanchara_trickster_god_name: "$naktanchara_devil_name$" #NT!
+ naktanchara_trickster_god_name_possessive: "$naktanchara_devil_name_possessive$" #NT!
+ naktanchara_night_god_name: "$naktanchara_knowledge_god_name$" #NT!
+ naktanchara_night_god_name_possessive: "$naktanchara_knowledge_god_name_possessive$" #NT!
+ naktanchara_water_god_name: "$naktanchara_wealth_god_name$" #NT!
+ naktanchara_water_god_name_possessive: "$naktanchara_wealth_god_name_possessive$" #NT!
+  
+ naktanchara_devil_name: "Mara" #NT!
+ naktanchara_devil_name_possessive: "chez Mara" #NT!
+ naktanchara_evil_god_tanha: "Tanha" #NT!
+ naktanchara_evil_god_arati: "Arati" #NT!
+ naktanchara_evil_god_raga: "Raga" #NT!
+ naktanchara_death_deity_name: "Yama" #NT!
+ naktanchara_death_deity_name_possessive: "chez Yama" #NT!
+ naktanchara_house_of_worship: "temple" #NT!
+ naktanchara_house_of_worship_plural: "temples" #NT!
+ naktanchara_religious_symbol: "dharmachakra" #NT!
+ naktanchara_religious_text: "Bouddhavacana" #NT!
+ naktanchara_religious_head_title: "lama" #NT!
+ naktanchara_religious_head_title_name: "Incarnation du Lama" #NT!
+ naktanchara_devotee_male: "bhikkhu" #NT!
+ naktanchara_devotee_male_plural: "bhikkhus" #NT!
+ naktanchara_devotee_female: "bhikkhuni" #NT!
+ naktanchara_devotee_female_plural: "bhikkhunis" #NT!
+ naktanchara_devotee_neuter: "bhikkhu" #NT!
+ naktanchara_devotee_neuter_plural: "bhikkhus" #NT!
+ naktanchara_priest_alternate_plural: "sangha" #NT!
+ naktanchara_divine_realm: "Nirvana" #NT!
+ naktanchara_positive_afterlife: "Nirvana" #NT!
+ naktanchara_negative_afterlife: "Naraka" #NT!
+ naktanchara_death_god_name: "Yami" #NT!
+ naktanchara_death_god_name_possessive: "Yami" #NT!
+ naktanchara_witchgodname_the_horned_god: "$naktanchara_trickster_god_name$" #NT!
+ naktanchara_witchgodname_the_horned_god_possessive: "$naktanchara_trickster_god_name_possessive$" #NT!
+  
+  #Naktanchara Faith 
+ naktanchara: "Naktanchara" #NT!
+ naktanchara_adj: "Naktanchara" #NT!
+ naktanchara_adherent: "Naktanchara" #NT!
+ naktanchara_adherent_plural: "Naktanchara" #NT!
+ naktanchara_desc: "La foi Naktanchara combine des éléments du bouddhisme tantrique, du culte des esprits, du culte traditionnel Nāga ainsi que de l'hindouisme. Les fidèles de Naktanchara sont considérés comme bouddhistes, même si leurs pratiques sont perçues comme quelque peu peu orthodoxes." #NT!
+  
+  #Via Fvria Imperiosa, Patron Content 
+ viafvriaimperiosa: "Via Fvria Impériosa" #NT!
+ viafvriaimperiosa_adj: "Fvrian" #NT!
+ viafvriaimperiosa_adherent: "Abonné de Fvria" #NT!
+ viafvriaimperiosa_adherent_plural: "Abonnés de Fvria" #NT!
+ viafvriaimperiosa_desc: "Cette religion non canonique a été commandée par un patron.\nVia Fvria Imperiosa" #NT!
+ viafvriaimperiosa_religious_head_title: "Deus et Dominus" #NT!
+ viafvriaimperiosa_religious_head_title_name: "Deus et Dominus" #NT!
+  

@@ -1,0 +1,660 @@
+﻿l_french:
+  
+ POD_anteshuntabsi.1.t: "Dieux de la chasse" #NT!
+ POD_anteshuntabsi.1.desc: "La révolte Anarch est une période de crise sans précédent... et d'opportunités. Avec la plupart des clans en désarroi et l'Inquisition empêchant les anciens de communiquer à longue distance, les anciens [cainites|E] sont vulnérables comme jamais auparavant.\nCertains des Anarchs les plus vindicatifs planifient des attaques audacieuses contre les [antediluvians|E], les ancêtres des clans, dans l'espoir de reconstituant le [diablerie|E] de Tremere de Saulot. Allez-vous vous essayer à cette entreprise ? Les récompenses potentielles sont attrayantes mais les risques... les risques dépassent l'imagination. Ces entités sont plus proches des dieux que des simples humains." #NT!
+ POD_anteshuntabsi.1.a: "Je chasserai le chasseur, Absimilliard des Nosferatu." #NT!
+ POD_anteshuntabsi.1.b: "...Je n'ai pas de désir de mourir." #NT!
+ POD_anteshuntabsi.1.c: "Je chasserai l'ombre, Lasombra." #NT!
+ big_freaking_warning: "#R Vos chances de succès dans cette quête sont absurdement faibles. N'essayez pas si vous vous souciez du bien-être de votre personnage.\nMême sauvegarder et recharger votre partie pour tenter votre chance ne vous sauvera pas.\nVous avez été prévenu.#!" #NT!
+ POD_anteshuntabsi.2.t: "La chasse : trouver la sorcière" #NT!
+ POD_anteshuntabsi.2.desc: "L'emplacement d'Absimilliard est inconnu, ce qui est le premier obstacle à surmonter dans votre quête. La seule personne à en avoir la moindre idée est peut-être Baba Yaga, son enfant capricieux et la cible de sa colère depuis si longtemps. Le problème est... qu'elle se cache aussi.\nPour la retrouver, vous pouvez, péniblement, chercher vous-même des informations sur elle ou interroger son commandant en second, Viktor du Rideau d'Ombre, sur une alliance potentielle contre Absimilliard. S'il est toujours vivant et actif, évidemment." #NT!
+ POD_anteshuntabsi.2.a: "Je la trouverai moi-même !" #NT!
+ POD_anteshuntabsi.2.effect.success.desc: "Vous progressez encore un peu dans votre quête." #NT!
+ POD_anteshuntabsi.2.critical.failure.effect.desc: "Un revers, mais pas la fin des choses." #NT!
+ POD_anteshuntabsi.2.b: "Je trouverai un terrain d'entente avec Viktor." #NT!
+ POD_anteshuntabsi.2.c: "Chère grand-mère, il est temps de riposter !" #NT!
+ skip_viktor: "En tant que Viktor, vous pouvez simplement sauter cette phase. Vous savez où est Baba Yaga." #NT!
+ POD_anteshuntabsi.2.d: "Je suis sa championne choisie, je sais où elle est !" #NT!
+ skip_objectivedone: "L’objectif de Grand-mère bienveillante ayant été atteint, Baba Yaga s’est révélée. Vous pouvez ignorer cette phase en toute sécurité." #NT!
+ POD_anteshuntabsi.4.t: "La chasse : forcer le chemin" #NT!
+ POD_anteshuntabsi.4.desc: "Jusqu'à présent, vous n'avez pas réussi à localiser Baba Yaga, première étape vers votre quête pour tuer Absimilliard.\nVous devez intensifier vos recherches, ce qui signifie plus d'or, de temps et de ressources globales consacrées à ce qui est probablement une errance idiote. meilleur. Il est peut-être temps de reconsidérer cette ligne de conduite… ou de continuer malgré tout." #NT!
+ POD_anteshuntabsi.4.a: "Je ne me laisserai pas contrarier si facilement !" #NT!
+ anteabsi_continue: "Votre quête continue." #NT!
+ POD_anteshuntabsi.4.b: "Il vaut mieux arrêter maintenant." #NT!
+ anteabsi_end: "Votre quête se termine ici." #NT!
+ POD_anteshuntabsi.3.t: "La Chasse : Des poignards dans la nuit" #NT!
+ POD_anteshuntabsi.3.desc: "Vous vous préparez à voyager vers la maison de Baba Yaga lorsque des informations faisant état d'un meurtre mystérieux vous parviennent. Un membre de votre entourage a été assassiné, ce qui n'est pas vraiment surprenant, mais les détails de l'attaque sont plus préoccupants.\nLe meurtrier a laissé un mot, écrit avec du sang, sur un mur près de la victime : 'Nictuku'.\ nVous en avez entendu parler pendant vos recherches sur Absimilliard, il semble que ce soit ses enfants liés par le sang, toutes des machines à tuer sans âme déterminées à détruire tout ce qui menace leur géniteur.\nIl semble que vous soyez maintenant sur leur courte liste, et vous êtes jolie. je suis sûr que vous devez vous occuper d'eux avant qu'ils ne s'occupent de vous..." #NT!
+ POD_anteshuntabsi.3.a: "Je dois les arrêter rapidement." #NT!
+ anteabsi_nictuku: "Vous avez désormais accès à cinq décisions pour éliminer les Nictuku de votre piste. Si cela est fait, cela vous aidera dans les étapes ultérieures de votre quête." #NT!
+ abraxes_decision: "Faire face aux Abrax" #NT!
+ abraxes_decision_tooltip: "Mystifier le Seigneur des Brumes" #NT!
+ abraxes_decision_desc: "Le Nictuku Abraxes est un maître de la tromperie. Vous devez fabriquer une piste de mauvaise direction pour l'éloigner de votre dos." #NT!
+ abraxes_decision_effect_tooltip: "Abraxes n'interviendra pas dans les dernières étapes de votre quête." #NT!
+ abraxes_decision_confirm: "Faites-le." #NT!
+ echidna_decision: "Faire face à l’échidné" #NT!
+ echidna_decision_tooltip: "Tromper la Mère de la Saleté" #NT!
+ echidna_decision_desc: "La Nictuku Echidna est la mère des horreurs. Vous devez fabriquer une piste de mauvaise direction pour la garder à l'écart." #NT!
+ echidna_decision_effect_tooltip: "Echidna n'interviendra pas dans les dernières étapes de votre quête." #NT!
+ echidna_decision_confirm: "Faites-le." #NT!
+ gorgo_decision: "Faire face à Gorgo" #NT!
+ gorgo_decision_tooltip: "Faire taire celle qui crie dans les ténèbres" #NT!
+ gorgo_decision_desc: "La Nictuku Gorgo est la maîtresse des cauchemars. Vous devez fabriquer une piste de mauvaise direction pour la garder à l'écart." #NT!
+ gorgo_decision_effect_tooltip: "Gorgo n'interviendra pas dans les dernières étapes de votre quête." #NT!
+ gorgo_decision_confirm: "Faites-le." #NT!
+ nuckalavee_decision: "Faire face à Nuckalavee" #NT!
+ nuckalavee_decision_tooltip: "Apprivoiser les sans peau" #NT!
+ nuckalavee_decision_desc: "Le Nictuku Nuckalavee est le coursier de l'enfer. Vous devez fabriquer une piste de mauvaise direction pour l'éloigner de votre dos." #NT!
+ nuckalavee_decision_effect_tooltip: "Nuckalavee n'interviendra pas dans les dernières étapes de votre quête." #NT!
+ nuckalavee_decision_confirm: "Faites-le." #NT!
+ gayomart_decision: "Faire affaire avec Gayomart" #NT!
+ gayomart_decision_tooltip: "Déplacer l'immeuble" #NT!
+ gayomart_decision_desc: "Le Nictuku Gayomart est un guerrier inébranlable. Vous devez fabriquer une piste de mauvaise direction pour l'éloigner de votre dos." #NT!
+ gayomart_decision_effect_tooltip: "Gayomart n'interviendra pas dans les étapes ultérieures de votre quête." #NT!
+ gayomart_decision_confirm: "Faites-le." #NT!
+ babayaga_bound_modifier: "Lié à la sorcière" #NT!
+ babayaga_bound_modifier_desc: "Vous appartenez à Baba Yaga. Même garder votre santé mentale intacte s’avère être un obstacle." #NT!
+ POD_anteshuntabsi.5.t: "La chasse : l'aide de grand-mère" #NT!
+ POD_anteshuntabsi.5.desc: "Vous avez trouvé Baba Yaga. L'insaisissable Nosferatu est aussi terrifiante que vous l'imaginiez, mais elle n'est pas non plus idiote. Elle connaît les possibilités offertes par la révolte des Anarchs et écoute votre offre d'alliance pour frapper son redoutable [Sire|E].\nLe silence après que vous ayez fini de parler est long et grinçant, et n'est brisé que lorsqu'elle vous présente son bras. Le message est clair, elle veut que vous preniez une gorgée de son sang, ce qui vous rendrait fidèle à elle.\nC'est un lourd tribut à payer, mais vous n'avez aucune chance de vaincre Absimilliard, ni même de le retrouver, sans son aide. ." #NT!
+ POD_anteshuntabsi.5.a: "Si c'est le seul moyen..." #NT!
+ POD_anteshuntabsi.5.b: "Courir comme un diable!" #NT!
+ POD_anteshuntabsi.5.effect.success.desc: "Vous parvenez à fuir !" #NT!
+ POD_anteshuntabsi.5.critical.failure.effect.desc: "Vous êtes pris...." #NT!
+ POD_anteshuntabsi.5.critical.failure: "Dans la marmite !" #NT!
+ anteabsi_end_baba: "Ce choix mettra fin à votre quête... et peut-être à votre non-vie." #NT!
+ POD_anteshuntabsi.6.t: "La chasse : dans la forêt" #NT!
+ POD_anteshuntabsi.6.desc: "Votre proie se trouve quelque part au cœur de la nature russe. Vous avez rassemblé vos compagnons les plus dignes de confiance et Baba Yaga a fait de même. Dans l'ensemble, c'est une force formidable qui marche désormais à vos côtés mais... vous êtes encore loin d'être confiant.\nAbsimilliard est sûr d'avoir plusieurs garde-fous mortels pour protéger son lieu de repos et même la sorcière elle-même se méfie des les redoutables Nictuku qui vous attendent probablement.\nC'est la dernière étape de votre quête, mais elle pourrait être la plus difficile." #NT!
+ POD_anteshuntabsi.6.a: "Pas de retour en arrière maintenant" #NT!
+ POD_anteshuntabsi.7.t: "La chasse : la fureur de Darvag" #NT!
+ POD_anteshuntabsi.7.desc: "Alors que vous marchez dans la forêt dense, votre groupe est soudainement pris en embuscade par une meute de redoutables bêtes ressemblant à des lupins. Ces créatures sont rapides et se retirent dans la forêt après chaque meurtre.\nC'est-à-dire jusqu'à ce que Darvag Grozny, l'un des lieutenants de Baba Yaga, se lance soudainement à leur poursuite. Les bêtes furent prises au dépourvu et ne purent fuir assez vite. Bientôt, les Tzimisces sauvages étaient sur eux et ont réussi à les maintenir en place assez longtemps pour que votre groupe puisse les couper en morceaux.\nVous continuez votre quête avec votre expédition pratiquement intacte." #NT!
+ POD_anteshuntabsi.7.a: "La sorcière a des alliés utiles." #NT!
+ darvaghelped: "Darvag Grozny étant en vie vous a permis de sauter cette partie du voyage." #NT!
+ POD_anteshuntabsi.8.t: "La Chasse : Fureur Bestiale" #NT!
+ POD_anteshuntabsi.8.desc: "Alors que vous marchez dans la forêt dense, votre groupe est soudainement pris en embuscade par une meute de redoutables bêtes ressemblant à des lupins. Ces créatures sont rapides et se retirent dans la forêt après chaque élimination.\nCes attaques incessantes doivent être neutralisées, sinon votre entourage sera détruit une par une. Vous pouvez leur tendre un piège, ou préparer une défense solide.\nDans tous les cas, il faut faire quelque chose, et vite, car vous entendez à nouveau les loups hurler près de votre position..." #NT!
+ POD_anteshuntabsi.8.a: "Formez un cercle !" #NT!
+ POD_anteshuntabsi.8.effect.success.desc: "Vous repoussez les monstres ; votre quête continue." #NT!
+ POD_anteshuntabsi.8.critical.failure.effect.desc: "Encore un qui mord la poussière..." #NT!
+ POD_anteshuntabsi.8.critical.failure: "Tu as été mangé" #NT!
+ POD_anteshuntabsi.9.t: "La Chasse : le sacrifice de Gutka" #NT!
+ POD_anteshuntabsi.9.desc: "Une créature géante vous barre le chemin. Ce travail écailleux, gras et tout à fait désagréable ne ressemble à rien de ce que vous avez rencontré auparavant. Baba Yaga le décrit comme "l'animal préféré" de son [Sire|E], et il se trouve sur votre chemin.\nHeureusement, la sorcière a une solution : lui lancer la pitoyable créature connue sous le nom de "Gutka". Cette carapace de vampire vous suit depuis votre départ et a apparemment trouvé un but en vous faisant gagner du temps pour contourner "l'animal de compagnie" d'Absimilliard.\nQui sait ? Le monstre pourrait même avoir pitié d'un autre monstre." #NT!
+ POD_anteshuntabsi.9.a: "La sorcière a des alliés utiles." #NT!
+ gutkahelped: "Le fait que Gutka soit en vie vous a permis de sauter cette partie du voyage." #NT!
+ POD_anteshuntabsi.10.t: "La chasse : l'animal de compagnie d'Absimilliard" #NT!
+ POD_anteshuntabsi.10.desc: "Une créature géante vous barre le chemin. Ce travail écailleux, gras et tout à fait désagréable ne ressemble à rien de ce que vous avez rencontré auparavant. Baba Yaga le décrit comme "l'animal préféré" de son [Sire|E], et il se trouve sur votre chemin.\nIl n'y a aucun moyen de le contourner et vous devrez vous battre. Cette chose pourrait vous fendre en deux d'un simple coup de main... de griffes... peu importe, mais vous avez dépassé le point de non-retour." #NT!
+ POD_anteshuntabsi.10.a: "Je devrais repenser mes choix de vie." #NT!
+ POD_anteshuntabsi.10.effect.success.desc: "Vous tuez le monstre, votre quête continue." #NT!
+ POD_anteshuntabsi.10.critical.failure.effect.desc: "Encore un qui mord la poussière..." #NT!
+ POD_anteshuntabsi.10.critical.failure: "Tu as été clivé" #NT!
+ POD_anteshuntabsi.11.t: "La chasse : l'intelligence de Siamko" #NT!
+ POD_anteshuntabsi.11.desc: "Vous êtes perdu. On ne peut plus le nier. La forêt vous joue des tours, brouille vos traces ou modifie brusquement les chemins devant vous. Vous ne disposez pas d'une réserve infinie de sang, vous devez donc agir rapidement.\nHeureusement, vous avez dans votre groupe l'un des meilleurs traqueurs de Russie, Siamko. L'inquiétant « petit-fils » de la Vieille sorcière vous fera bientôt sortir de ce labyrinthe surnaturel, vous rappelant à quel point vous aviez besoin de l'aide de Baba Yaga dans cette quête." #NT!
+ POD_anteshuntabsi.11.a: "La sorcière a des alliés utiles." #NT!
+ siamkohelped: "Siamko étant en vie vous a permis de sauter cette partie du voyage." #NT!
+ POD_anteshuntabsi.12.t: "La chasse : perdue" #NT!
+ POD_anteshuntabsi.12.desc: "Vous êtes perdu. On ne peut plus le nier. La forêt vous joue des tours, brouille vos traces ou modifie brusquement les chemins devant vous. Vous ne disposez pas d'une réserve infinie de sang, vous devez donc agir rapidement.\nAvec des vampires aussi anciens et puissants dans votre entourage, vous pensez qu'un manque de nourriture pourrait bientôt se transformer en bain de sang. Il doit y avoir un indice ou un schéma dans ce labyrinthe que vous pouvez exploiter pour en sortir avant qu'il ne soit trop tard." #NT!
+ POD_anteshuntabsi.12.a: "Par ici... ou par là ?" #NT!
+ POD_anteshuntabsi.12.effect.success.desc: "Vous trouvez une sortie, votre quête continue." #NT!
+ POD_anteshuntabsi.12.critical.failure.effect.desc: "Perdu dans la forêt..." #NT!
+ POD_anteshuntabsi.12.critical.failure: "Sans issue" #NT!
+ POD_anteshuntabsi.13.t: "La chasse : Abraxes" #NT!
+ POD_anteshuntabsi.13.desc: "Alors que vous continuez votre voyage dans la forêt, une brume dense s'abat soudainement sur votre groupe. Clairement d'origine surnaturelle, cela gêne vraiment votre champ de vision et vous êtes rapidement coupé de vos compagnons.\nC'est à ce moment-là que les cris commencent à retentir.\nVous êtes pris en embuscade un par un, votre ennemi utilisant la couverture de ce brouillard pour vous isoler. . Si vous ne trouvez pas rapidement une issue à cette situation, tout sera bientôt terminé." #NT!
+ POD_anteshuntabsi.13.a: "Rassemblez-vous autour de moi !" #NT!
+ POD_anteshuntabsi.13.effect.success.desc: "L'ennemi n'ose plus attaquer. Votre quête continue." #NT!
+ POD_anteshuntabsi.13.critical.failure.effect.desc: "Encore un qui mord la poussière..." #NT!
+ POD_anteshuntabsi.13.critical.failure: "Une fin brumeuse" #NT!
+ POD_anteshuntabsi.14.t: "La Chasse : Échidné" #NT!
+ POD_anteshuntabsi.14.desc: "Les vampires ne peuvent pas tomber malades. C’est l’une des premières choses que vous avez apprises sur votre état il y a longtemps. Alors... pourquoi te sens-tu si mal en ce moment ? Vous n'êtes pas le seul non plus, car tout votre groupe semble soudainement affecté par la saleté émanant de la forêt.\nBaba Yaga pense que c'est l'œuvre d'Echidna, l'un des Nictuku. La sorcière prépare une potion pour vous aider à survivre, mais elle a besoin d'ingrédients bien précis et vous manquez de temps. Il faudra être rapide et impeccable." #NT!
+ POD_anteshuntabsi.14.a: "Cueillir des champignons pour me sauver la vie..." #NT!
+ POD_anteshuntabsi.14.effect.success.desc: "Je me sens mieux!" #NT!
+ POD_anteshuntabsi.14.critical.failure.effect.desc: "Cette couleur n'a pas l'air correcte..." #NT!
+ POD_anteshuntabsi.14.critical.failure: "Une fin maladive" #NT!
+ POD_anteshuntabsi.15.t: "La Chasse : Gorgo" #NT!
+ POD_anteshuntabsi.15.desc: "Cette forêt maudite vous énerve depuis le début de votre voyage, mais la situation empire. Un cri assourdissant a commencé il n'y a pas si longtemps et semble venir de partout autour de vous.\nCe n'est pas non plus un simple cri de mortel ou d'animal, comme vous vous en rendez vite compte lorsque le sang commence à couler de vos oreilles. Vous devez en trouver la source et l’enlever rapidement, sinon vous serez simplement exsangue. Un destin ironique pour une sangsue immortelle." #NT!
+ POD_anteshuntabsi.15.a: "Veux-tu juste te taire ?!" #NT!
+ POD_anteshuntabsi.15.effect.success.desc: "Enfin la paix et la tranquillité." #NT!
+ POD_anteshuntabsi.15.critical.failure.effect.desc: "On ne trouve pas la source assez vite..." #NT!
+ POD_anteshuntabsi.15.critical.failure: "Une fin hurlante" #NT!
+ POD_anteshuntabsi.16.t: "La chasse : Nuckalavee" #NT!
+ POD_anteshuntabsi.16.desc: "Votre groupe est attaqué par... quelque chose. Une horde de monstres ressemblant à des chevaux a surgi des bois et a piétiné plusieurs de vos partisans. Vous vous êtes écarté assez rapidement mais, à en juger par le bruit de leurs sabots, ils attaqueront bientôt de l'autre côté.\nSi votre entourage reste complètement désorganisé comme c'est le cas actuellement, il est probable que cette horde vous piétinera chacun. dès qu'ils frappent, jusqu'à ce que personne ne reste debout. Vous devez réagir rapidement pour inverser la tendance." #NT!
+ POD_anteshuntabsi.16.a: "Préparez-vous à leur charge !" #NT!
+ POD_anteshuntabsi.16.effect.success.desc: "Vous les repoussez !" #NT!
+ POD_anteshuntabsi.16.critical.failure.effect.desc: "Ils vous piétinent à mort." #NT!
+ POD_anteshuntabsi.16.critical.failure: "Piétiné à mort" #NT!
+ POD_anteshuntabsi.17.t: "La chasse : Gayomart" #NT!
+ POD_anteshuntabsi.17.desc: "Vous approchez de la fin de votre voyage, vous le sentez. Mais il y a un nouvel obstacle sur votre chemin, les routes changeantes de la forêt avancent plus vite, ont de moins en moins de sens. De toute évidence, l'un des Nictuku joue avec vous, essayant probablement de vous isoler ou de vous conduire à la folie.\nIl y a des limites à ce que votre volonté peut endurer après un voyage aussi ardu, et vous voulez y mettre fin. Vous devez trouver un modèle, un indice ou même simplement forcer brutalement pour sortir rapidement de cette illusion." #NT!
+ POD_anteshuntabsi.17.a: "J'en ai marre de ces jeux !" #NT!
+ POD_anteshuntabsi.17.effect.success.desc: "Vous dissipez l'illusion." #NT!
+ POD_anteshuntabsi.17.critical.failure.effect.desc: "Je suis si fatigué..." #NT!
+ POD_anteshuntabsi.17.critical.failure: "Perdu dans un labyrinthe" #NT!
+ POD_anteshuntabsi.18.t: "La chasse : Vasilisa" #NT!
+ POD_anteshuntabsi.18.desc: "Vous êtes au terme de votre voyage car vous ressentez la présence d'Absimilliard à proximité. Le dernier obstacle semble être une... petite fille.\nElle a l'air assez innocente, mais le regard de pure terreur dans les yeux de Baba Yaga vous dit le contraire. « Tu as été méchante, grand-mère. » dit-elle.\nLa sorcière ne répond pas, mais lance à la place une malédiction à la petite fille, dont le sourire effrayant semble ne faire que s'élargir.\nVous êtes partant pour le dernier combat, et même avec Baba Yaga à vos côtés, vous ne le faites pas. Je n'aime pas vraiment vos chances..." #NT!
+ POD_anteshuntabsi.18.a: "Une dernière bataille !" #NT!
+ POD_anteshuntabsi.18.effect.success.desc: "Tu l'as fait!" #NT!
+ POD_anteshuntabsi.18.critical.failure.effect.desc: "Si proche de la victoire..." #NT!
+ POD_anteshuntabsi.18.critical.failure: "Vilain et puni" #NT!
+ POD_anteshuntabsi.19.t: "La Chasse : Victoire ?" #NT!
+ POD_anteshuntabsi.19.desc: "Vous avez vaincu le dernier obstacle sur votre chemin vers Absimilliard et les grands mensonges anciens devant vous, au [torpor|E], heureusement. Baba Yaga a déjà commencé à sucer son sang, réalisant une vengeance complotée depuis des millénaires.\nComme vous avez été utile et loyal, elle vous a promis une part du sang du puissant [antediluvian|E]. Pas assez pour faire de vous une menace pour elle, mais quand même suffisant pour augmenter considérablement votre propre pouvoir.\nLa sorcière est cependant distraite en ce moment, dévorant avidement l'âme de son [Sire|E]. Vous pourrez peut-être la poignarder dans le dos et réclamer l'intégralité du prix pour vous-même... mais que se passera-t-il si elle s'y attend ?" #NT!
+ POD_anteshuntabsi.19.a: "Une récompense plus que suffisante" #NT!
+ POD_anteshuntabsi.19.b: "Son âme est à moi !" #NT!
+ POD_anteshuntabsi.19.effect.success.desc: "Vous surprenez Baba Yaga." #NT!
+ POD_anteshuntabsi.19.critical.failure.effect.desc: "La cupidité n'est pas bonne" #NT!
+ POD_anteshuntabsi.19.critical.failure: "La cupidité vous a tué" #NT!
+ young_third_modifier: "Jeune troisième" #NT!
+ young_third_modifier_desc: "Vous êtes trop jeune pour être la menace apocalyptique que représentent les autres de la 3ème génération. Pourtant, vous êtes probablement le vampire actif le plus redouté et le plus puissant au monde." #NT!
+ POD_anteshuntabsi.20.t: "La chasse : victoire" #NT!
+ POD_anteshuntabsi.20.desc: "Vous avez surpris Baba Yaga et l'avez proprement tuée avant qu'elle ne puisse réagir. Elle n'eut pas le temps de consumer l'âme d'Absimilliard. En tant que tel, le prix ultime est juste devant vous.\nRien ne vous arrêtera maintenant, le pouvoir ultime vous attend et vous deviendrez l'être actif le plus puissant sur Terre... avec le temps.\nMéfiez-vous, car beaucoup l'envieront. votre pouvoir et essayez de le voler, et le Grand dont vous mangez l'âme tentera probablement de prendre le contrôle de votre corps.\nSi vous parvenez à survivre à ces épreuves alors... le monde sera véritablement votre terrain de jeu." #NT!
+ POD_anteshuntabsi.20.a: "Je l'ai fait!" #NT!
+ POD_anteshuntlasomb.1.t: "La chasse : les préparatifs" #NT!
+ POD_anteshuntlasomb.1.desc: "La bonne nouvelle concernant Lasombra est qu'il est facile à trouver, car il dort principalement au Castel del Ombro depuis la chute de Rome. La mauvaise nouvelle est que le Château est peut-être la forteresse [cainite|E] la plus puissante après Alamut, et Lasombra lui-même est défendu à tout moment par sa progéniture.\nVous aurez besoin d'aide si vous voulez percer les défenses du château, et encore moins réussir à la fin. . Il est temps pour vous de ratisser large et de rassembler une force véritablement formidable." #NT!
+ POD_anteshuntlasomb.1.a: "Envoyez des messagers partout." #NT!
+ lasombra_support_warning: "Plus vous rassemblez de soutien, plus l'assaut sera facile" #NT!
+ POD_anteshuntlasomb.2.t: "La chasse : les Assamites" #NT!
+ POD_anteshuntlasomb.2.desc: "La première à répondre à votre appel est une cellule d’assassins Assamites entraînés. Ces redoutables guerriers, maudits pour avoir soif du sang des autres [cainites|E], savourent l'opportunité de se battre contre des ennemis au sang aussi puissant.\nIls seraient un grand atout pour votre projet, mais leurs services ne sont pas vraiment bon marché..." #NT!
+ POD_anteshuntlasomb.2.a: "L'argent n'est pas un problème." #NT!
+ POD_anteshuntlasomb.2.b: "C'est de l'extorsion !" #NT!
+ POD_anteshuntlasomb.3.t: "La Chasse : Les Anarchs" #NT!
+ POD_anteshuntlasomb.3.desc: "La horde apparemment sans fin de la canaille Anarch qui déferle sur l’Europe a visiblement montré un vif intérêt pour votre projet. Tuer un [antediluvian|E] serait très proche d'une victoire ultime pour eux et vous êtes l'un des rares à sembler prêt à tenter une telle entreprise.\nIls pourraient être utiles, comme boucliers de viande pendant l'assaut, ne serait-ce que pour vous aligner sur une bande de nouveau-nés non lavés coûterait très cher à votre prestige." #NT!
+ POD_anteshuntlasomb.3.a: "Mort aux anciens ! Sauf moi bien sûr." #NT!
+ POD_anteshuntlasomb.3.b: "Retournez à votre terrain de jeu." #NT!
+ POD_anteshuntlasomb.4.t: "La chasse : contacts et alliés" #NT!
+ POD_anteshuntlasomb.4.desc: "En tant que éminent seigneur de la nuit, vous avez noué de nombreux contacts, voire des alliés formels, au fil des années. Il est peut-être temps de faire appel à leurs faveurs si vous voulez avoir une chance de percer Castel del Ombro.\nCela va au-delà de dire que rien n'est gratuit dans le monde vampirique, même lorsqu'il s'agit d'"amis"..." #NT!
+ POD_anteshuntlasomb.4.a: "J'ai besoin de toute l'aide possible." #NT!
+ POD_anteshuntlasomb.4.b: "Des bouffons gourmands !" #NT!
+ POD_anteshuntlasomb.5.t: "La chasse : dissensions" #NT!
+ POD_anteshuntlasomb.5.desc: "Vous avez rassemblé une force, espérons-le, suffisamment forte pour prendre Castel del Ombro. Alors que vous révisez votre plan d'action une nouvelle fois, vous êtes dérangé par des cris venant du camp.\nIl semble qu'avec autant de vampires aux objectifs différents rassemblés au même endroit, les tensions sont vives et l'alliance fragile que vous avez créée est déjà menacé. Si vous ne l'arrêtez pas maintenant, cela pourrait dégénérer. Même une seule frénésie dans un espace aussi encombré pourrait être désastreuse..." #NT!
+ POD_anteshuntlasomb.5.a: "Tout le monde reste calme !" #NT!
+ POD_anteshuntlasomb.5.effect.success.desc: "Les têtes plus froides ont prévalu." #NT!
+ POD_anteshuntlasomb.5.critical.failure.effect.desc: "Temps de frénésie..." #NT!
+ POD_anteshuntlasomb.5.critical.failure: "Fin inattendue" #NT!
+ POD_anteshuntlasomb.8.t: "La chasse : assaut raté" #NT!
+ POD_anteshuntlasomb.8.desc: "Malgré tous vos efforts, vous n'étiez pas préparé aux défenses de Castel del Ombro. Sa garnison était une chose, mais les ombres tourbillonnant autour des lieux en étaient une autre. Ils se sont animés lorsque votre assaut a commencé, et c'est à ce moment-là que vous avez compris que vous n'aviez aucune chance.\nEngloutissant votre entourage, les laissant parfois tomber ailleurs, ou simplement les dévorant, ils n'ont fait qu'une bouchée de toute coordination de votre armée. Avec si peu d’entre vous capables de se battre, vous n’avez pu que retarder l’inévitable. Quelques petites victoires, ou démonstrations de prouesses, ici et là, n'ont pas changé le résultat final.\nAlors que les ombres vous consument, vous pensez que vous avez été idiot d'espérer une victoire mais au moins..." #NT!
+ POD_anteshuntlasomb.8.a: "...J'ai essayé." #NT!
+ POD_anteshuntlasomb.7.t: "La chasse : assaut réussi" #NT!
+ POD_anteshuntlasomb.7.desc: "Les défenses de Castel del Ombro étaient aussi terribles que vous le craigniez. Des constructions d'ombre pure, de puissants vampires de Lasombra, une armée de goules bien entraînées... Vous n'y êtes presque pas parvenu.\nMais vous étiez bien préparé, et vous avez également remarqué que les enfants les plus puissants de Lasombra lui-même n'étaient pas là, peut-être vous attend-il à l'intérieur... Vous avez le sentiment angoissant que c'est loin d'être fini. Castel del Ombro est ouvert devant vous... mais loin d'être sans défense." #NT!
+ POD_anteshuntlasomb.7.a: "Je ne serai pas arrêté !" #NT!
+ POD_anteshuntlasomb.9.t: "La chasse : le mystique" #NT!
+ POD_anteshuntlasomb.9.desc: "Il fait sombre là-dedans. Non pas que vous vous y attendiez autrement, mais même les vampires ont du mal à voir dans une telle obscurité totale. C'est à ce moment-là que les attaques ont commencé.\nVenant apparemment de partout, les ténèbres se sont animées et ont frappé votre groupe. Vous vous y attendiez autant, mais... comment combattre les ténèbres elles-mêmes ? Aucune quantité d'épées, de poings ou de sorts ne suffira...\nLe premier test de l'intérieur de Castel del Ombro pourrait déjà être le dernier." #NT!
+ POD_anteshuntlasomb.9.a: "Feu! Torches, magie, tout !" #NT!
+ POD_anteshuntlasomb.9.effect.success.desc: "La lumière triomphe pour l’instant." #NT!
+ POD_anteshuntlasomb.9.critical.failure.effect.desc: "Si sombre..." #NT!
+ POD_anteshuntlasomb.9.critical.failure: "Bonjour, Ténèbres..." #NT!
+ POD_anteshuntlasomb.10.t: "La chasse : la fille évitée" #NT!
+ POD_anteshuntlasomb.10.desc: "Un autre couloir sombre, un autre obstacle sur votre chemin. Cette femme, évidemment aussi une enfant de Lasombra, ne semble cependant pas vous vouloir du mal.\nCette 'Sybil' parle de son propre [Sire|E] de manière assez haineuse et propose en fait de vous aider dans votre quête pour le tuer. Elle dit que sans son soutien, vous n'avez aucune chance, même si vous parvenez au cœur du château.\nCela pourrait être un piège, mais cela pourrait aussi être le seul moyen pour vous de réussir..." #NT!
+ POD_anteshuntlasomb.10.a: "J'accepte votre offre, dame noire." #NT!
+ POD_anteshuntlasomb.10.b: "Je n'ai pas besoin d'aide !" #NT!
+ sybil_help_tooltip: "Sybil vous aidera plus tard... probablement." #NT!
+ POD_anteshuntlasomb.11.t: "La chasse : le parvenu" #NT!
+ POD_anteshuntlasomb.11.desc: "'LASOMBRA EST À MOI !'\nVous vous retournez pour voir un noble italien apparemment simple qui vous regarde avec un air meurtrier dans les yeux. Gratiano, le dernier enfant de Lasombra, a clairement fait part de son intention de tuer son propre père... et vous êtes sur son chemin.\nIl n'y a pas d'autre choix que de se battre. C'est votre destin contre le sien. Un seul d'entre vous goûtera le sang de Lasombra." #NT!
+ POD_anteshuntlasomb.11.a: "C’est un duel des destins." #NT!
+ POD_anteshuntlasomb.11.effect.success.desc: "J'ai les hauteurs !" #NT!
+ POD_anteshuntlasomb.11.critical.failure.effect.desc: "Il a les hauteurs !" #NT!
+ POD_anteshuntlasomb.11.critical.failure: "Ceci a été écrit..." #NT!
+ POD_anteshuntlasomb.12.t: "La chasse : le défenseur" #NT!
+ POD_anteshuntlasomb.12.desc: "Un autre couloir, un autre obstacle. Une enfant de Lasombra, Khanom Mehr, a commencé un petit combat avec votre groupe mais vous avez réussi à la maîtriser.\nVaucie, elle demande maintenant grâce, ce qui faciliterait certainement votre quête. Pourriez-vous vous permettre de la laisser en vie ?\nAlors que vous réfléchissez à votre prochain mouvement, vous apercevez soudain un petit mouvement à l'intérieur de sa robe..." #NT!
+ POD_anteshuntlasomb.12.a: "Tuez-la maintenant !" #NT!
+ POD_anteshuntlasomb.12.effect.success.desc: "Vous avez évité sa dernière attaque." #NT!
+ POD_anteshuntlasomb.12.critical.failure.effect.desc: "Vous n'avez pas évité son attaque finale." #NT!
+ POD_anteshuntlasomb.12.critical.failure: "Pas juste..." #NT!
+ POD_anteshuntlasomb.13.t: "La Chasse : Le Pirate" #NT!
+ POD_anteshuntlasomb.13.desc: "Votre groupe a atteint une grande salle, ornée de statues anciennes apparemment d’origine dorienne ancienne. Vous ne tardez pas à désigner plusieurs personnages sombres utilisant ce qui ressemble à des épées et des boucliers en bronze.\nSi les histoires sont vraies, Lasombra était important dans la civilisation des Peuples de la Mer et il semble donc que les derniers vampires de cette ère enveloppée se dressent sur votre chemin. ." #NT!
+ POD_anteshuntlasomb.13.a: "Leur place est dans un musée !" #NT!
+ POD_anteshuntlasomb.13.effect.success.desc: "Vous faites justice de ces pirates." #NT!
+ POD_anteshuntlasomb.13.critical.failure.effect.desc: "Vous marchez sur la planche..." #NT!
+ POD_anteshuntlasomb.13.critical.failure: "Maudits Pirates..." #NT!
+ POD_anteshuntlasomb.14.t: "La chasse : le marionnettiste" #NT!
+ POD_anteshuntlasomb.14.desc: "Votre groupe est harcelé par une horde de vampires apparemment de basse génération mais jeunes. Ce n’est pas vraiment une grande menace en soi, mais ils continuent à arriver. Chaque fois qu'ils frappent, vous perdez un ou deux membres de votre entourage, ce qui pourrait vous conduire à la mort par attrition.\nIl doit y avoir quelqu'un, quelque part dans ce château, qui prépare cette lâche tactique. Il faut s'occuper de ce « marionnettiste »." #NT!
+ POD_anteshuntlasomb.14.a: "Montre toi!" #NT!
+ POD_anteshuntlasomb.14.effect.success.desc: "Vous l'avez trouvé !" #NT!
+ POD_anteshuntlasomb.14.critical.failure.effect.desc: "Trop tard..." #NT!
+ POD_anteshuntlasomb.14.critical.failure: "Essaimé à mort" #NT!
+ POD_anteshuntlasomb.15.t: "La chasse : le gardien" #NT!
+ POD_anteshuntlasomb.15.desc: "Une porte vous barre le passage. Ce n'est pas n'importe quel type de porte cependant, on dirait qu'elle est entièrement faite d'ombres, ce qui signifie que vous ne savez pas comment l'ouvrir.\nHeureusement, un vampire se tient devant elle, apparemment pas menaçant. En expliquant qu'il n'aime pas son [Sire|E], il pourrait être persuadé de l'ouvrir. Ou il pourrait laisser la porte vous dévorer, si vous ne présentez pas suffisamment bien votre cas.\nIl est temps de mettre à l'épreuve vos compétences moins martiales." #NT!
+ POD_anteshuntlasomb.15.a: "Mon premier point est..." #NT!
+ POD_anteshuntlasomb.15.effect.success.desc: "La porte est ouverte." #NT!
+ POD_anteshuntlasomb.15.critical.failure.effect.desc: "Les portes vous ouvrent." #NT!
+ POD_anteshuntlasomb.15.critical.failure: "Tué par une porte" #NT!
+ POD_anteshuntlasomb.16.t: "La chasse : le loyaliste" #NT!
+ POD_anteshuntlasomb.16.desc: "Évidemment, il devait être là. Montano, le bras droit de Lasombra et le plus fervent loyaliste, se tient devant vous, une résolution profondément ancrée dans les yeux. Le vieux guerrier ne renoncera pas à son devoir et vous non plus.\nIl n'y a pas besoin de mots. Un seul d’entre vous sortira vivant du château." #NT!
+ POD_anteshuntlasomb.16.a: "Le dernier combat?" #NT!
+ POD_anteshuntlasomb.16.effect.success.desc: "Montano est vaincu." #NT!
+ POD_anteshuntlasomb.16.critical.failure.effect.desc: "Vous êtes vaincu." #NT!
+ POD_anteshuntlasomb.16.critical.failure: "Une fin honorable" #NT!
+ POD_anteshuntlasomb.17.t: "La chasse : le coffre-fort" #NT!
+ POD_anteshuntlasomb.17.desc: "Vous avez atteint le sous-sol du Castel del Ombro, où se trouve probablement Lasombra lui-même. Dans une tournure intéressante des événements, vous êtes le seul survivant de votre entourage... ce qui signifie que vous n'aurez pas à partager le sang du [antediluvian|E]... si vous le trouvez.\nEn effet, vous remarquez rapidement que cette zone du coffre-fort est un labyrinthe, et un labyrinthe noir en plus. Les murs sont faits d’ombres et la disposition change constamment. Vous pourriez vous perdre pour l'éternité ici si vous ne faites pas attention..." #NT!
+ POD_anteshuntlasomb.17.a: "Je vais trouver un moyen..." #NT!
+ POD_anteshuntlasomb.17.effect.success.desc: "La dernière chambre est devant." #NT!
+ POD_anteshuntlasomb.17.critical.failure.effect.desc: "Je suis de retour à l'entrée, encore une fois..." #NT!
+ POD_anteshuntlasomb.17.critical.failure: "Perdu dans les ténèbres" #NT!
+ POD_anteshuntlasomb.18.t: "La chasse : victoire" #NT!
+ POD_anteshuntlasomb.18.desc: "Vous êtes au cœur de Castel del Ombro et vous sentez la présence de Lasombra... mais vous ne pouvez pas le voir. Le [antediluvian|E] semble s'être fondu dans les ombres avant d'entrer dans le [torpor|E], rendant son [diablerie|E] encore plus difficile.\nHeureusement, Sybil ne vous a pas oublié ; la fille capricieuse est apparue et a commencé un rituel pour ramener l'essence de Lasombra dans son corps. Vous attendez et attendez, jusqu'à ce qu'enfin le corps du [antediluvian|E] soit reconstruit devant vous.\nSybil vous fait ses adieux, toujours aussi mystérieuse, et vous vous retrouvez tout seul face à votre destin, celui d'une puissance indicible.\nPuis vous frappez." #NT!
+ POD_anteshuntlasomb.18.a: "La victoire a un goût doux et sanglant" #NT!
+ POD_anteshuntlasomb.19.t: "La Chasse : Victoire ?" #NT!
+ POD_anteshuntlasomb.19.desc: "Vous êtes au cœur de Castel del Ombro et vous sentez la présence de Lasombra... mais vous ne pouvez pas le voir. Le [antediluvian|E] semble s'être fusionné avec les ombres avant d'entrer dans le [torpor|E], ce qui rend son [diablerie|E] encore plus difficile.\nVous n'avez aucun moyen de trouver où se trouve réellement son âme et exécuter le [diablerie|E] sur les ombres n'est pas exactement quelque chose que vous vous savez comment faire... Vous essayez quand même, en fouettant l'obscurité, en suivant vos instincts bestiaux et en parcourant cette pièce comme une fureur vengeresse.\nC'est un processus épuisant et non la sensation exaltante que vous aviez anticipée et pourtant, vous ressentez une montée d'énergie. pouvoir en vous-même.\nVous avez réalisé... quelque chose. Ce n'est peut-être pas la force ultime que vous recherchiez, mais vous êtes définitivement victorieux et, pour le reste du monde, vous avez vaincu un [antediluvian|E]." #NT!
+ POD_anteshuntlasomb.19.a: "Une victoire incomplète." #NT!
+ POD_anteshuntset.1.t: "La chasse : trouver une piste" #NT!
+ POD_anteshuntset.1.desc: "Vous avez jeté votre dévolu sur Set, le « Dieu » en l'honneur duquel [Clan|E] Setite a été nommé. Il va de soi qu’il réside quelque part en Égypte, bien gardé par sa progéniture fanatique. L'Égypte est cependant un grand pays et vous ne pouvez pas vraiment interroger les habitants sur un sujet aussi sensible.\nVotre première tâche est d'obtenir une piste sur l'emplacement actuel du [antediluvian|E]. En tant que tel, vous devrez envoyer vos agents partout, avec une grosse quantité d’or pour inciter des informateurs utiles à se manifester." #NT!
+ POD_anteshuntset.1.a: "Aucun prix n'est trop élevé." #NT!
+ POD_anteshuntset.1.b: "...Repensons cela." #NT!
+ set_end_warning: "Vous abandonnez cette quête insensée." #NT!
+ POD_anteshuntset.2.t: "La chasse : les préparatifs" #NT!
+ POD_anteshuntset.2.desc: "Une piste crédible vous est revenue. Le Fire Court, l'un des principaux temples séthites, pourrait en savoir plus sur l'emplacement de Set. Vous vous préparez pour le voyage vers le temple lorsqu'un sentiment d'effroi vous envahit.\nVous n'avez pas fait très attention en demandant des informations sur Set, et son [Clan|E] est peut-être déjà sur vos traces. Vous devrez préparer soigneusement le chemin qui vous attend, sinon votre quête sera courte." #NT!
+ POD_anteshuntset.2.a: "Déjouer les serpents..." #NT!
+ POD_anteshuntset.2.effect.success.desc: "Un voyage sans incident." #NT!
+ POD_anteshuntset.2.critical.failure.effect.desc: "Eh bien, ça a vite dégénéré..." #NT!
+ POD_anteshuntset.2.critical.failure: "Embusqué!" #NT!
+ POD_anteshuntset.3.t: "La chasse : entrée enflammée" #NT!
+ POD_anteshuntset.3.desc: "Vous êtes arrivé au tribunal des pompiers et vous devez maintenant trouver un moyen de divulguer l'emplacement de Set. La coercition ne fonctionnera pas, car ce sont de toute façon des fanatiques et des maîtres tortionnaires.\nVous choisissez donc la diplomatie. La maîtresse du temple, une charmante Setite nommée Scyla, vous a très bien accueilli, impressionnée par votre courage à entrer dans la tanière du serpent.\nMais maintenant, elle vous demande gentiment pourquoi elle ne devrait pas vous tuer ici et maintenant. Vous menacez leur Dieu après tout..." #NT!
+ POD_anteshuntset.3.a: "Où serait le plaisir là-dedans ?" #NT!
+ POD_anteshuntset.3.effect.success.desc: "Un argument convaincant." #NT!
+ POD_anteshuntset.3.critical.failure.effect.desc: "Ils n'aiment pas s'amuser..." #NT!
+ POD_anteshuntset.3.critical.failure: "Décapité" #NT!
+ POD_anteshuntset.4.t: "La Chasse : premier test" #NT!
+ POD_anteshuntset.4.desc: "Scyla a été accommodante jusqu'à présent, mais elle ne renoncera pas si facilement aux informations dont vous avez besoin. Vous devrez endurer quelques « tests amicaux » pour voir si vous méritez d'être en présence de Set.\nLe premier est assez simple. Scyla vous présente des mortels exquis, habiles à faire plaisir à votre espèce de toutes les manières que votre foutu esprit peut imaginer. C'est un piège évident, car on pourrait facilement se perdre longtemps dans le plaisir affiché ici, mais il faut quand même goûter un peu sinon votre hôtesse s'offusquera..." #NT!
+ POD_anteshuntset.4.a: "Modération, modération..." #NT!
+ POD_anteshuntset.5.t: "La Chasse : Deuxième Test" #NT!
+ POD_anteshuntset.5.desc: "Votre prochain procès devant la Fire Court sera un bon vieux combat en arène. Les Séthites adorent leurs divertissements sanglants, et vous n'êtes pas surpris de voir que les chances sont contre vous.\nVous êtes opposé à une meute de loups-garous. Pour être honnête, ce sont des créatures désolées, car elles étaient constamment maltraitées par les Séthites. Poussés à une rage insensée, ils ne vous montreront aucune pitié dans ce combat à mort." #NT!
+ POD_anteshuntset.5.a: "L'homme contre la bête." #NT!
+ POD_anteshuntset.5.effect.success.desc: "Ils sont sortis de leur misère." #NT!
+ POD_anteshuntset.5.critical.failure.effect.desc: "Vous êtes sorti de votre misère." #NT!
+ POD_anteshuntset.5.critical.failure: "A la mort..." #NT!
+ POD_anteshuntset.6.t: "La Chasse : Troisième Test" #NT!
+ POD_anteshuntset.6.desc: "Vous êtes maintenant « invité » à une partie d'échecs... avec des pièces vivantes et vous êtes l'un des rois. Inutile de dire que toute pièce perdue est éliminée sommairement, ce qui signifie que les enjeux de ce jeu amical sont aussi élevés que vous pouvez l'imaginer.\nLes lamentations et les cris des pauvres âmes choisies comme pions dans ce jeu horrible ne vous aident pas. concentrez-vous soit..." #NT!
+ POD_anteshuntset.6.a: "Concentrez-vous sur le centre du tableau..." #NT!
+ POD_anteshuntset.6.effect.success.desc: "Échec et mat!" #NT!
+ POD_anteshuntset.6.critical.failure.effect.desc: "Ça n'a pas l'air bien..." #NT!
+ POD_anteshuntset.6.critical.failure: "Échec et mat!" #NT!
+ POD_anteshuntset.7.t: "La Chasse : Quatrième Test" #NT!
+ POD_anteshuntset.7.desc: "Vous avez été escorté jusqu'à l'entrée du sous-sol du Fire Court. Scyla, votre hôtesse, vous a simplement dit que vous devez trouver la sortie pour terminer ce test.\nVous vous attendiez à un labyrinthe, mais la première salle souterraine est en réalité une chambre de torture, où un Setite [ghoul|E] à l'air maigre exerce son 'art'. sur un prêtre impuissant. Le bourreau est assez sympathique, parle de son travail et ne fait rien pour vous empêcher de continuer. Que ferez-vous dans cette situation déroutante ?" #NT!
+ POD_anteshuntset.7.a: "Sauver le prêtre ?" #NT!
+ POD_anteshuntset.7.b: "Continuer votre chemin ?" #NT!
+ POD_anteshuntset.8.t: "La Chasse : Quatrième Test II" #NT!
+ POD_anteshuntset.8.desc: "Le métro continue et un type nerveux vous attend plus loin. Il se présente comme un « invité » Tzimisce au tribunal des pompiers et dit que votre test est simple : vous devez endurer ses « expériences » sur votre corps pendant un certain temps. Alors, et alors seulement, il ouvrira la porte suivante.\nIl vous assure qu'il vous laissera à peu près dans le même état que celui dans lequel vous avez commencé. Ce n’est pas vraiment réconfortant, mais il semble que vous n’ayez pas le choix à ce sujet…" #NT!
+ POD_anteshuntset.8.a: "Eh bien, c'est parti..." #NT!
+ POD_anteshuntset.9.t: "La Chasse : Quatrième Test III" #NT!
+ POD_anteshuntset.9.desc: "Vous en avez presque fini avec ce foutu underground. Une goule séthite vous attend devant deux portes : « La bonne vous mènera au terme de l'épreuve sans nouvel obstacle. Celui de gauche sera beaucoup plus long et beaucoup plus difficile, mais vous mènera également jusqu'au bout. Choisissez.'\nLa goule n'en sait pas plus et ne fait que répéter cette phrase encore et encore, vous laissant seul face à ce choix déroutant." #NT!
+ POD_anteshuntset.9.b: "Le bon? Est-ce même un choix ?" #NT!
+ POD_anteshuntset.9.a: "Celui de gauche ! J'aime la douleur et la souffrance !" #NT!
+ POD_anteshuntset.12.t: "La chasse : l'attrait de Set" #NT!
+ POD_anteshuntset.12.desc: "Vous avez terminé les épreuves et Scyla vous accueille à bras ouverts. Vous avez droit à un somptueux festin et tout le temple chante vos louanges. Scyla est généreusement allongée à côté de vous, vous parlant tout le temps de la grandeur de Set et de la folie de votre quête pour chasser un Dieu bienveillant comme lui.\n... Et vous ne pouvez qu'être d'accord, cette affaire de procès a révélé la vraie nature de votre âme. Peut-être avez-vous fait les mauvais choix en cours de route, ou peut-être avez-vous déjà été corrompu depuis le début, mais vous êtes impuissant à résister à l'attrait des Séthites. Ils sont désormais vos frères et sœurs dans la foi." #NT!
+ antesetcorrupted: "Votre quête se termine ici." #NT!
+ POD_anteshuntset.12.a: "Ensemble de louanges !" #NT!
+ POD_anteshuntset.11.t: "La Chasse : Forte de Volonté" #NT!
+ POD_anteshuntset.11.desc: "Vous avez terminé les épreuves et Scyla vous accueille à bras ouverts. Vous avez droit à un somptueux festin et tout le temple chante vos louanges. Scyla est généreusement allongée à côté de vous, vous parlant tout le temps de la grandeur de Set et de la folie de votre quête pour chasser un Dieu bienveillant comme lui.\nMais vous êtes fort et vous parvenez à détourner sa tentative de vous séduire à sa cause. . N'ayant pas d'autre choix, Scyla révèle enfin une information qui pourrait vous aider. Le corps de Set est protégé par une cabale nommée la Bobine du Lion. Si vous les trouvez, vous serez d’autant plus proche de votre cible." #NT!
+ POD_anteshuntset.11.a: "Presque là..." #NT!
+ POD_anteshuntset.13.t: "La chasse : trouver la bobine" #NT!
+ POD_anteshuntset.13.desc: "Localiser la bobine du lion n’est pas vraiment un processus facile. Maintenant que vous avez au moins un nom, vous pouvez commencer à travailler sur cette piste.\nVous avez deux options : embaucher des personnes pour effectuer des recherches lointaines ou le faire vous-même. Les deux seront coûteux d’une manière ou d’une autre, mais il faut le faire. Vous êtes trop proche de Seth pour abandonner maintenant." #NT!
+ POD_anteshuntset.13.a: "Les trouver!" #NT!
+ POD_anteshuntset.13.b: "Si vous voulez un travail bien fait..." #NT!
+ POD_anteshuntset.14.t: "La chasse : apprivoiser les lions" #NT!
+ POD_anteshuntset.14.desc: "Vous avez trouvé la Bobine du Lion. Ils se déplacent constamment à travers l'Egypte, le sarcophage de Seth en pointe. Vous avez réussi à connaître leur itinéraire et avez planifié une embuscade.\nCe sera certainement une bataille féroce, car il est peu probable que les propres protecteurs de Set soient des jeux d'enfant. Vous donnez l'ordre de lancer l'assaut, le regard dérivant vers le centre de la caravane où se trouve votre récompense si proche..." #NT!
+ POD_anteshuntset.14.a: "Je viens pour toi..." #NT!
+ POD_anteshuntset.14.effect.success.desc: "Ils sont finis !" #NT!
+ POD_anteshuntset.14.critical.failure.effect.desc: "J'en ai fini pour..." #NT!
+ POD_anteshuntset.14.critical.failure: "Si proche..." #NT!
+ POD_anteshuntset.16.t: "La chasse : le champion" #NT!
+ POD_anteshuntset.16.desc: "L'Anneau du Lion est vaincu, avec un seul survivant entre vous et le sarcophage de Set... mais pas « juste » un survivant. Vous avez entendu des histoires sur ce soi-disant Champion de Set. Qufur am-Heru, choisi de génération en génération pour servir de garde du corps de Set lui-même, est probablement le Setite le plus fort à avoir encore marché sur Terre.\nLe but de sa vie entière est d'empêcher les gens comme vous de menacer son Dieu et il semble plus que impatient de l'accomplir... Le dernier obstacle sur votre chemin pourrait être le plus difficile." #NT!
+ POD_anteshuntset.16.a: "Laissez-nous danser..." #NT!
+ POD_anteshuntset.16.effect.success.desc: "Le champion tombe !" #NT!
+ POD_anteshuntset.16.critical.failure.effect.desc: "Allez au diable!" #NT!
+ POD_anteshuntset.16.critical.failure: "Si proche..." #NT!
+ POD_anteshuntset.17.t: "La Chasse : Horreur Primordiale" #NT!
+ POD_anteshuntset.17.desc: "Devant vous repose le corps d'un homme avec la tête d'une bête indescriptible, nu mais pour un simple pagne. Vous êtes assailli par une peur qui rendait même la Peur Rouge insignifiante.\nVous ne pouvez pas bouger et êtes sûr que vous allez rencontrer la Mort Finale, sûr que c'est Set et que le [antediluvian|E] étanchera sa soif de votre sang. .\nDe toutes vos forces, vous bondissez en avant et commencez à boire la vitae de la créature engourdie.\nVotre esprit explose." #NT!
+ POD_anteshuntset.17.a: "Je dois résister !" #NT!
+ POD_anteshuntset.17.effect.success.desc: "Juste encore un peu..." #NT!
+ POD_anteshuntset.17.critical.failure.effect.desc: "...Où suis-je?" #NT!
+ POD_anteshuntset.18.t: "La chasse : victoire" #NT!
+ POD_anteshuntset.18.desc: "Vous vous souvenez d’un lointain souvenir de puissance, d’une puissance inimaginable, déferlant en vous, et d’un formidable rugissement qui a noyé toute autre sensation. Vous savez aussi qu'il y avait de la douleur, comme si le soleil lui-même vous avait englouti. Votre corps tremble inconsciemment d'une terreur si vaste que jusqu'à cette nuit, toutes vos autres peurs ont perdu leur emprise sur vous.\nMais vous l'avez fait. Vous êtes désormais l’un des vampires actifs, sinon le plus puissant. Votre jeu est désormais le jeu des Dieux." #NT!
+ POD_anteshuntset.18.a: "La victoire a un goût doux" #NT!
+ POD_anteshuntset.19.t: "La Chasse : Victoire ?" #NT!
+ POD_anteshuntset.19.desc: "Vous vous souvenez d’un lointain souvenir de puissance, d’une puissance inimaginable, déferlant en vous, et d’un formidable rugissement qui a noyé toute autre sensation. Vous savez aussi qu'il y avait de la douleur, comme si le soleil lui-même vous avait englouti. Votre corps tremble inconsciemment d'une terreur si vaste que jusqu'à cette nuit, toutes les autres peurs ont perdu leur emprise sur vous.\nPour tout le monde, vous l'avez fait ; vous avez tué un [antediluvian|E], mais vous ne pouvez pas vous débarrasser du sentiment tenace que quelque chose ne va toujours pas..." #NT!
+ POD_anteshuntset.19.a: "Une victoire néanmoins." #NT!
+ POD_anteshuntabsi.1.d: "Je chasserai le Dieu d'Egypte, Seth" #NT!
+ POD_anteshunttzimisce.1.t: "La chasse : traquer l'aîné" #NT!
+ POD_anteshunttzimisce.1.desc: "L'Aîné, ou Tzimisce comme on l'appelle plus communément, a de nombreux contes à son actif. Cela devrait aider votre quête, mais cela enveloppe également son emplacement actuel de beaucoup de mystère. En tant que tel, une première étape importante consistera à étudier ces rumeurs et ces demi-vérités pour former une histoire cohérente. Peut-être parviendrez-vous alors à le retrouver." #NT!
+ POD_anteshunttzimisce.1.a: "Payez des Noddistes pour le faire." #NT!
+ POD_anteshunttzimisce.1.b: "Je le ferai moi-même." #NT!
+ POD_anteshunttzimisce.1.effect.success.desc: "Ça a du sens." #NT!
+ POD_anteshunttzimisce.1.critical.failure.effect.desc: "Cela n'a aucun sens !" #NT!
+ POD_anteshunttzimisce.3.t: "La chasse : des résultats contradictoires" #NT!
+ POD_anteshunttzimisce.3.desc: "C'est très difficile de comprendre toutes les rumeurs autour de Tzimisce et on est coincé. Vous aurez besoin d’une aide compétente et expérimentée si vous souhaitez continuer. C'est un coup dur pour votre ego puisque vous vouliez au départ le faire vous-même, mais qu'est-ce qu'un petit coup porté à votre fierté lorsque le pouvoir ultime se trouve au bout de ce voyage ?" #NT!
+ POD_anteshunttzimisce.3.a: "Trouvez-moi les meilleurs Noddistes !" #NT!
+ POD_anteshunttzimisce.3.b: "Abandonnons toute cette folie." #NT!
+ antetzimisce_continue: "Votre quête continuera." #NT!
+ antetzimisce_end: "Votre quête se terminera ici." #NT!
+ POD_anteshunttzimisce.2.t: "La chasse : l'histoire de Samiel" #NT!
+ POD_anteshunttzimisce.2.desc: "D'après vos sources, vous vous trouvez à l'endroit où le grand guerrier salubrien Samiel combattit il y a bien longtemps contre Tzimisce. On ne sait pas si Samiel a été induit en erreur et pensait qu'il combattait des infernalistes Baali, ou si l'Aîné était effectivement sa cible.\nEn tout cas, Samiel n'est jamais sorti d'ici, et Tzimisce lui-même a à peine survécu. Vous devez maintenant approfondir ce sinistre réseau de tunnels si vous voulez trouver la prochaine pièce du puzzle." #NT!
+ POD_anteshunttzimisce.2.a: "Je n'ai pas peur du noir." #NT!
+ POD_anteshunttzimisce.2.effect.success.desc: "Je l'ai trouvé !" #NT!
+ POD_anteshunttzimisce.2.critical.failure.effect.desc: "Je suis perdu..." #NT!
+ POD_anteshunttzimisce.2.critical.failure: "Toujours à la recherche..." #NT!
+ POD_anteshunttzimisce.4.t: "La chasse : l'histoire de Damek" #NT!
+ POD_anteshunttzimisce.4.desc: "Vous êtes désormais dans les ruines de Sarmizegetusa, l'ancienne capitale de la Dacie. Plus précisément, vous êtes dans ce qui reste du château de Damek Ruthven, que vous soupçonnez d'avoir été le gardien du corps de Tzimisce en convalescence après sa bataille avec Samiel.\nIl ne reste plus grand chose ici, mais vous constatez que le sous-sol est toujours accessible. . Après une longue recherche, vous tombez sur les restes séchés de ce qui aurait pu être un arbre il y a longtemps. C'est un indice intéressant qu'il vous faudra déchiffrer, mais vos yeux se noient devant ce qui ressemble à une pomme encore juteuse tombée de l'arbre..." #NT!
+ POD_anteshunttzimisce.4.a: "Qu'est-ce que ça fait ici ?" #NT!
+ POD_anteshunttzimisce.4.effect.success.desc: "Trop dangereux." #NT!
+ POD_anteshunttzimisce.4.critical.failure.effect.desc: "Appétissant!" #NT!
+ POD_anteshunttzimisce.4.critical.failure: "Avalé entier" #NT!
+ POD_anteshunttzimisce.5.t: "La chasse : l'histoire d'Ilias" #NT!
+ POD_anteshunttzimisce.5.desc: "Après sa guérison dans le château de Damek, il semble que l'Aîné ait repris forme, envahissant cette fois le corps d'un jeune Tzimisce. Grâce à ces informations, vous avez retrouvé la trace de cette pauvre âme et un nom est apparu : le monastère de Sernog.\nAvant de vous y rendre cependant, vous devrez faire de sérieux préparatifs, comme recruter une équipe capable de gérer les horreurs qui sont probablement gardant votre proie." #NT!
+ POD_anteshunttzimisce.5.a: "L'argent n'est pas un problème." #NT!
+ POD_anteshunttzimisce.5.b: "Cela devient trop cher !" #NT!
+ POD_anteshunttzimisce.6.t: "La Chasse : Un pacte avec le diable" #NT!
+ POD_anteshunttzimisce.6.desc: "Lors de vos recherches sur Tzimisce, un nom est souvent revenu : Kupala. Ce « démon », apparemment fusionné avec la terre même de Transylvanie, est depuis longtemps un ennemi de l'Aîné. Il n'est donc pas surprenant qu'une nuit, une silhouette enveloppée vienne à vous et vous offre la bénédiction de son maître si vous le souhaitez.\nLe démon vous surveille et vous aidera si vous avez besoin de lui dans les épreuves à venir. Vous disposez désormais d'un allié puissant... mais attention à ne pas abuser de sa générosité." #NT!
+ POD_anteshunttzimisce.6.a: "L'aide est toujours la bienvenue... je suppose." #NT!
+ antetzimisce_kupala: "Vous pourrez faire appel à l'aide de Kupala pour la suite de cette quête." #NT!
+ POD_anteshunttzimisce.7.t: "La chasse : l'histoire de Lambach" #NT!
+ POD_anteshunttzimisce.7.desc: "Un étrange type vous suit depuis que vous avez commencé à préparer votre attaque sur Sernog. Ce Lambach Ruthven ne semble pas menaçant, bien au contraire, puisqu'il apparaît comme une carapace pathétique de vampire en proie à des divagations insensées.\nBien qu'il ne soit pas un Malkavien prophétique, certains membres de votre entourage pensent qu'il pourrait être connecté d'une manière ou d'une autre à Tzimisce et , en tant que tel, constitue une menace pour votre plan. Vous avez du mal à imaginer que cette pauvre épave puisse poser problème à qui que ce soit, mais les apparences peuvent être trompeuses..." #NT!
+ POD_anteshunttzimisce.7.a: "Il peut suivre." #NT!
+ POD_anteshunttzimisce.7.b: "Chassez ce misérable hors de ma vue !" #NT!
+ POD_anteshunttzimisce.8.t: "La chasse : les préparatifs" #NT!
+ POD_anteshunttzimisce.8.desc: "Pour prendre Sernog, vous aurez besoin d'une armée. Ou du moins suffisamment de corps à jeter sur les horreurs qui défendaient probablement les lieux. Heureusement, les Anarchs sont la solution parfaite. Ils sont nombreux, impatients d'éliminer un [antediluvian|E], et personne ne les manquera vraiment.\nEn tant que tel, vous négociez avec leur plus grand groupe local pour les convaincre de vous rejoindre. Mais cela ne se passe pas très bien, car ils veulent des « concessions » et l'assurance de ne pas être utilisés dans le complot d'un Aîné. Vous n’avez ni l’un ni l’autre, vous devrez donc les convaincre à vos dépens avant que la situation ne dégénère davantage." #NT!
+ POD_anteshunttzimisce.8.a: "Arrêtez de crier et écoutez !" #NT!
+ POD_anteshunttzimisce.8.effect.success.desc: "Ils sont d'accord!" #NT!
+ POD_anteshunttzimisce.8.critical.failure.effect.desc: "Ça dégénère..." #NT!
+ POD_anteshunttzimisce.8.critical.failure: "Bagarré à mort" #NT!
+ POD_anteshunttzimisce.9.t: "La chasse : à l'extérieur de Sernog" #NT!
+ POD_anteshunttzimisce.9.desc: "Vous êtes finalement arrivé au monastère de Sernog. La structure se trouve au sommet d’une crête au-dessus de la limite des arbres. La forteresse abandonnée se dresse de manière menaçante, ses murs noircis formant un squelette sombre sur le ciel, une coque de bâtiment ouverte sur les étoiles. Attachée à la forteresse se trouve une ancienne cathédrale, apparemment en meilleur état mais non moins sinistre que le bâtiment qui l'accompagne.\nEt vous étiez attendu. Une petite armée de cavaliers noirs vous attend juste devant les escaliers. Vous ne pouvez pas vraiment distinguer leurs caractéristiques d'aussi loin, mais il s'agit probablement d'une race spéciale de [Revenants|E] défendant la forteresse. Le conflit est inévitable." #NT!
+ POD_anteshunttzimisce.9.a: "Charge!" #NT!
+ POD_anteshunttzimisce.9.effect.success.desc: "La victoire!" #NT!
+ POD_anteshunttzimisce.9.critical.failure.effect.desc: "Accablé..." #NT!
+ POD_anteshunttzimisce.9.critical.failure: "Piétiné à mort" #NT!
+ POD_anteshunttzimisce.10.t: "La chasse : les escaliers" #NT!
+ POD_anteshunttzimisce.10.desc: "Selon vos recherches, il devrait y avoir 1 236 marches brisées et sinueuses menant au monastère. Alors pourquoi avez-vous l’impression d’avoir déjà grimpé le double de ce chiffre ? Vous n'avez pas tout le temps du monde et vous commencez à soupçonner un acte criminel, peut-être une illusion magique ou quelque chose de plus sinistre.\nVous devez trouver une solution, ou vous grimperez simplement jusqu'à ce que le Soleil se lève, et ce serait une mauvaise nouvelle." #NT!
+ POD_anteshunttzimisce.10.a: "Il doit y avoir un modèle..." #NT!
+ POD_anteshunttzimisce.10.b: "Koupala ! Dissipez cette magie !" #NT!
+ rely_on_kupala: "Vous comptez sur Kupala pour surmonter cet obstacle" #NT!
+ POD_anteshunttzimisce.10.effect.success.desc: "L'illusion est dissipée" #NT!
+ POD_anteshunttzimisce.10.critical.failure.effect.desc: "Pas de fin en vue..." #NT!
+ POD_anteshunttzimisce.10.critical.failure: "Toujours en escalade...." #NT!
+ POD_anteshunttzimisce.11.t: "La Chasse : l'entrée de Sernog" #NT!
+ POD_anteshunttzimisce.11.desc: "L'intérieur de la cathédrale reflète une atmosphère de sombre pressentiment. L'architecture semble taillée dans l'imagination enfiévrée d'un designer fou. Des sculptures grotesques d'êtres qui pourraient être des anges mais qui ressemblent à des diables jettent un regard noir sur ceux qui traversent l'arche à l'entrée de l'ancien sanctuaire. L'air à l'intérieur de la cathédrale dégage une odeur de moisi et nauséabonde, comme si quelque chose de mourant éternellement s'était incrusté dans les pierres et suintait maintenant son essence dans un miasme de décomposition perpétuelle.\nD'une manière ou d'une autre, cette puanteur nauséabonde est également dangereuse pour [cainites|E], car vous commencez à tousser violemment. Il vaut mieux trouver la source rapidement avant de se laisser submerger." #NT!
+ POD_anteshunttzimisce.11.a: "Suivez la puanteur..." #NT!
+ POD_anteshunttzimisce.11.b: "Koupala ! Où dois-je aller?" #NT!
+ POD_anteshunttzimisce.11.effect.success.desc: "Tu brûles le tas de corps à cause de ça" #NT!
+ POD_anteshunttzimisce.11.critical.failure.effect.desc: "Vous êtes perdu dans les couloirs..." #NT!
+ POD_anteshunttzimisce.11.critical.failure: "Perdu et malodorant" #NT!
+ POD_anteshunttzimisce.12.t: "La Chasse : La Chambre Centrale" #NT!
+ POD_anteshunttzimisce.12.desc: "Des gémissements étranges remplissent la salle centrale caverneuse, se répercutant sur les hautes poutres voûtées et se répercutant dans une cacophonie de cris aigus qui imitent les cris des victimes subissant les agonies d'une torture prolongée et exquise.\nIl y a une trappe cachée sous l'autel de l'église. . Taillée dans le plancher en bois, la porte s'ouvre en tirant sur son anneau de fer. Un escalier étroit et sombre mène à la crypte de la cathédrale et, espérons-le, la fin de votre quête." #NT!
+ POD_anteshunttzimisce.12.a: "Je n'ai pas peur... je pense." #NT!
+ POD_anteshunttzimisce.13.t: "La Chasse : la crypte de Sernog" #NT!
+ POD_anteshunttzimisce.13.desc: "Tu es proche. Vous pouvez le sentir. Là, au centre de cette crypte, on peut apercevoir un sarcophage, espérons-le celui de Tzimisce. Malheureusement, il y a une petite armée de créatures servantes sur votre chemin. Vous pouvez y reconnaître du Vozhd et du Szlachta, mais aussi d'autres horreurs de formes et de tailles diverses.\nVous n'avez pas peur des monstres, mais ce sera quand même une bataille terrible. Ce sont des constructions de guerre insensées, déterminées à protéger cet endroit." #NT!
+ POD_anteshunttzimisce.13.a: "Aux armes!" #NT!
+ POD_anteshunttzimisce.13.b: "Koupala ! Prête-moi ton pouvoir !" #NT!
+ POD_anteshunttzimisce.13.effect.success.desc: "Si proche !" #NT!
+ POD_anteshunttzimisce.13.critical.failure.effect.desc: "...pour l'instant." #NT!
+ POD_anteshunttzimisce.13.critical.failure: "Piraté en morceaux" #NT!
+ POD_anteshunttzimisce.15.t: "La Chasse : Victoire..." #NT!
+ POD_anteshunttzimisce.15.desc: "Alors que vous vous approchez du sarcophage pour réclamer votre prix, Lambach, qui vous suit depuis le début, pousse un cri de panique. Surpris, vous vous arrêtez dans votre mouvement... juste à temps pour éviter d'être empalé par un pilier de chair provenant du cadavre malformé à l'intérieur.\nNe laissant pas le [antediluvian|E] pas si engourdi récupérer, vous plongez vos crocs dans ce qui devrait être son cou , se demandant paresseusement si Lambach vous a sauvé volontairement ou par pure chance. En tout cas, vous l'avez fait, le pouvoir de la 3ème Génération vous traverse désormais.\nVous êtes plus fort que jamais mais... pourquoi ressentez-vous encore un réel sentiment de terreur alors ?" #NT!
+ POD_anteshunttzimisce.15.a: "Quelque chose ne va pas..." #NT!
+ POD_anteshunttzimisce.16.t: "La Chasse : Victoire ?..." #NT!
+ POD_anteshunttzimisce.16.desc: "Alors que vous vous approchez du sarcophage pour réclamer votre prix, un pilier de chair provenant du cadavre pas si torpide à l'intérieur vous empale à travers la poitrine. A peine conscient et majoritairement mû par votre Bête, vous vous précipitez pour enfoncer vos crocs dans ce qui devrait être le cou de cette créature malformée. Le reste des événements se déroule dans une avalanche d'images et de sons à peine lisibles.\nEn fin de compte, vous êtes toujours en vie et plus puissant qu'avant. Il ne reste rien non plus dans le sarcophage. Pourtant... vous sentez que quelque chose ne va pas, comme si quelqu'un vous surveillait depuis le début et était sur le point de bouger..." #NT!
+ POD_anteshunttzimisce.16.a: "Quelque chose ne va pas..." #NT!
+ POD_anteshunttzimisce.18.t: "La Chasse : Le Démon" #NT!
+ POD_anteshunttzimisce.18.desc: "Alors que vous quittez Sernog vainqueur, vous êtes arrêté par une silhouette solitaire qui vous attend au pied de la longue cage d'escalier du monastère. Ses traits sont indistincts, vous le reconnaissez néanmoins pour ce qu'il est : Kupala, le Démon de Transylvanie et l'ennemi juré de Tzimisce.\nVous avez bien fait votre part en l'aidant, mais il reste encore un reste de l'Aîné en vous, et Kupala peut' Je n'ai pas ça. Il est temps de tester vos nouveaux pouvoirs." #NT!
+ POD_anteshunttzimisce.18.a: "La bataille finale..." #NT!
+ POD_anteshunttzimisce.18.effect.success.desc: "Un Démon vaincu" #NT!
+ POD_anteshunttzimisce.18.victory: "Une victoire finale !" #NT!
+ POD_anteshunttzimisce.18.critical.failure.effect.desc: "Surpuissant" #NT!
+ POD_anteshunttzimisce.18.critical.failure: "Envoyé en enfer" #NT!
+ POD_anteshunttzimisce.19.t: "La Chasse : Le Démon" #NT!
+ POD_anteshunttzimisce.19.desc: "Alors que vous quittez Sernog vainqueur, vous êtes arrêté par une silhouette solitaire qui vous attend au pied de la longue cage d'escalier du monastère. Ses traits sont indistincts, vous le reconnaissez néanmoins pour ce qu'il est : Kupala, le Démon de Transylvanie et l'ennemi juré de Tzimisce.\nVous avez bien fait votre part en l'aidant, mais il reste encore un reste de l'Aîné en vous, et Kupala peut' Je n'ai pas ça. Vous pouvez sentir l’attraction que le Démon exerce sur votre âme à chaque fois que vous demandez de l’aide qui revient vous hanter car cela le rend plus fort. Il est temps de tester vos nouveaux pouvoirs et d’espérer qu’ils suffiront." #NT!
+ POD_anteshunttzimisce.19.a: "La bataille finale..." #NT!
+ endofthequest: "Victoire ou mort, c'est la fin de cette quête." #NT!
+ POD_anteshunttzimisce.19.effect.success.desc: "Un Démon vaincu" #NT!
+ POD_anteshunttzimisce.19.victory: "Une victoire finale !" #NT!
+ POD_anteshunttzimisce.19.critical.failure.effect.desc: "Surpuissant" #NT!
+ POD_anteshunttzimisce.19.critical.failure: "Envoyé en enfer" #NT!
+ POD_anteshunttzimisce.20.t: "La Chasse : Le Démon" #NT!
+ POD_anteshunttzimisce.20.desc: "Alors que vous quittez Sernog vainqueur, vous êtes arrêté par une silhouette solitaire qui vous attend au pied de la longue cage d'escalier du monastère. Ses traits sont indistincts, vous le reconnaissez néanmoins pour ce qu'il est : Kupala, le Démon de Transylvanie et l'ennemi juré de Tzimisce.\nVous avez bien fait votre part en l'aidant, mais il reste encore un reste de l'Aîné en vous, et Kupala peut' Je n'ai pas ça. Vous avez tellement compté sur lui pour arriver jusqu'ici que vous n'avez pas réalisé le coût d'une telle aide. Alors que le Démon prononce des noms obscurs de pouvoir et commence à démêler votre âme, vous comprenez maintenant. Et il est bien trop tard." #NT!
+ POD_anteshunttzimisce.20.a: "Le diable obtient son dû." #NT!
+ instakillkupala: "Vous avez trop compté sur Kupala et vous en avez payé le prix." #NT!
+ POD_anteshuntabsi.1.e: "Je chasserai l'Aîné, Tzimisce." #NT!
+  
+ POD_anteshunttremere.1.t: "La chasse : localiser Tremere" #NT!
+ POD_anteshunttremere.1.desc: "En tant que [Clan|E] assiégés depuis leur création, les Tremere possèdent un certain nombre de bastions à travers l'Europe qui servent de quartiers généraux, ou parfois de refuges de repli. Il va de soi que Tremere lui-même pourrait se trouver à l'intérieur d'une de ces forteresses ou, à tout le moins, qu'elles pourraient contenir des indices sur son endroit caché actuel.\nCeoris, la redoutable chantrie de Transylvanie, sera votre première enquête." #NT!
+ POD_anteshunttremere.1.a: "Je ne m'attends pas à un accueil chaleureux." #NT!
+ POD_anteshunttremere.2.t: "La chasse : Ceoris" #NT!
+ POD_anteshunttremere.2.desc: "Malgré le nombre absurde de sièges qu'elle a endurés, Ceoris est toujours aux mains de Tremere. Cette tour impressionnante, entachée de brumes magiques, est en réalité une forteresse impénétrable... du moins pour une armée. Même les Tremere ont besoin de boire du sang et de reconstituer leurs diverses réserves de temps en temps, ce qui signifie qu'il y a des mouvements d'entrée et de sortie vers les villages voisins.\nC'est peut-être votre seule opportunité de faire entrer quelqu'un à l'intérieur mais, évidemment, les Tremere ont un processus de sélection sérieux qui sera difficile à surmonter. Cela pourrait être votre premier pas vers la localisation de Tremere lui-même." #NT!
+ POD_anteshunttremere.2.effect.success.desc: "Vous en retirez quelque chose." #NT!
+ cluetremere_tt: "Un indice pour trouver Tremere." #NT!
+ POD_anteshunttremere.2.critical.failure: "Maudit!" #NT!
+ POD_anteshunttremere.2.critical.failure.effect.desc: "Contre-attaque magique !" #NT!
+ POD_anteshunttremere.6.critical.failure.effect.desc: "Contre-attaque magique !" #NT!
+ POD_anteshunttremere.9.critical.failure.effect.desc: "Contre-attaque magique !" #NT!
+ POD_anteshunttremere.2.a: "Planifions cela minutieusement." #NT!
+ POD_anteshunttremere.2.b: "Offrez une récompense pour toute information !" #NT!
+ POD_anteshunttremere.2.c: "Cela ne fonctionnera pas." #NT!
+ POD_anteshunttremere.3.t: "La chasse : Ceoris" #NT!
+ POD_anteshunttremere.3.desc: "Ceoris était autrefois la plus grande forteresse des Tremere, mais elle est depuis tombée aux mains de forces extérieures. Pourtant, la tour elle-même est désormais un monument légendaire dans la région, rempli de pièges magiques et d'autres horreurs qui sont restés sur place lorsque le Mage s'est retiré.\nDe nombreux aventuriers pleins d'espoir ont tenté leur chance, mais la plupart d'entre eux ne sont jamais revenus, un avertissement auquel vous devez prêter attention. . Vous avez du temps et beaucoup de serviteurs à revendre, mais Ceoris ne doit pas être sous-estimé." #NT!
+ POD_anteshunttremere.3.a: "Planifions cela minutieusement." #NT!
+ POD_anteshunttremere.3.b: "Jetez simplement les aventuriers cupides sur le problème." #NT!
+ POD_anteshunttremere.3.c: "Cela ne fonctionnera pas." #NT!
+ POD_anteshunttremere.6.t: "La chasse : le vert du lion" #NT!
+ POD_anteshunttremere.6.desc: "Lion's Green, une petite tour sans prétention, est le lieu de résidence de Meerlinda depuis son arrivée dans les îles britanniques. Sa nature diplomatique transparaît même chez vous, car vous serez reçu avec tous les honneurs dus à quelqu'un de votre rang.\nLa puissante conseillère a sûrement des indices sur l'emplacement de Tremere, mais elle est connue comme une négociatrice acharnée et extrayant tout ce type d'informations de sa part (ou de ses apprentis) sera une tâche ardue. Surtout si vous ne voulez pas révéler votre objectif ultime au cours de la conversation, ce qui pourrait rendre les choses… gênantes." #NT!
+ POD_anteshunttremere.6.effect.success.desc: "Vous retirez quelque chose de la conversation." #NT!
+ POD_anteshunttremere.6.critical.failure: "Maudit!" #NT!
+ POD_anteshunttremere.6.a: "Parlons-en." #NT!
+ POD_anteshunttremere.6.b: "Offrez de nombreuses concessions pour toute information." #NT!
+ POD_anteshunttremere.6.c: "C'est une perte de temps." #NT!
+ POD_anteshunttremere.7.t: "La chasse : le vert du lion" #NT!
+ POD_anteshunttremere.7.desc: "Autrefois siège du pouvoir de l'influent Meerlinda, Lion's Green a été un bastion important pour les Tremere. Aujourd'hui abandonné, il est dépourvu de toute information utile. Mais la présence de Meerlinda peut encore être ressentie dans les environs, de nombreux habitants ayant des souvenirs (ou des histoires) sur la belle érudite solitaire, apparemment au bon cœur, dans sa tour.\nCela peut s'avérer utile, car ces histoires pourraient contenir un indice pour progresser dans votre quête. ... mais ces villageois ne parleront pas facilement, car ils ne voudraient pas trahir leur bien-aimée « Lady Fae »." #NT!
+ POD_anteshunttremere.7.a: "Je peux les convaincre." #NT!
+ POD_anteshunttremere.7.b: "Couvrez-les de promesses creuses jusqu'à ce qu'ils parlent." #NT!
+ POD_anteshunttremere.7.c: "C'est une perte de temps." #NT!
+ drained_troops_modifier: "Militaires épuisés" #NT!
+ drained_troops_modifier_desc: "Toutes vos forces militaires sont actuellement épuisées." #NT!
+ POD_anteshunttremere.9.t: "La chasse : Vienne" #NT!
+ POD_anteshunttremere.9.desc: "Si Ceoris était la forteresse avancée des Tremere, Vienne était leur véritable centre politique. Fortifiée pendant des siècles en prévision de la chute de Ceoris, la Chantrie de Vienne pourrait être l'un des refuges les mieux défendus qui existent. Il y a de fortes chances que Tremere lui-même soit ici, mais... vous devez en être sûr.\nPersonne n'est autorisé à entrer ici sans une enquête approfondie, et les Tremere ne négocieront pas. Vous devez diriger (ou au moins envoyer) une force militaire puissante pour une frappe éclair, en espérant distraire les usurpateurs suffisamment longtemps pour que vous puissiez apprendre les secrets de la Chantrie et de l'emplacement de Tremere." #NT!
+ POD_anteshunttremere.9.effect.success.desc: "Un franc succès !" #NT!
+ POD_anteshunttremere.9.critical.failure: "Maudit!" #NT!
+ POD_anteshunttremere.9.a: "Revoyons le plan une fois de plus." #NT!
+ POD_anteshunttremere.9.b: "Jetez tout à cet endroit !" #NT!
+ POD_anteshunttremere.9.c: "Ce sera trop coûteux." #NT!
+ POD_anteshunttremere.10.t: "La chasse : Vienne" #NT!
+ POD_anteshunttremere.10.desc: "La Chantrie de Vienne était le plan de secours des Tremere en cas de chute de Ceoris. En tant que tel, il a été fortifié et piégé avec des rituels magiques au bord du gouffre. Les Tremere ont quitté la zone maintenant, mais leurs homologues mortels, l'Ordre d'Hermès, ont emménagé et ont pris possession de la chantrie de la forteresse.\nSi vous voulez prendre d'assaut les lieux et mettre la main sur tout ce que les Tremere ont laissé derrière eux, vous il faudra mettre une force d'assaut très solide pour surprendre les mages. Une fois qu'ils seront distraits par votre assaut, vous pourrez peut-être recueillir de l'intérieur des indices importants sur l'emplacement de Tremere." #NT!
+ POD_anteshunttremere.10.a: "Revoyons le plan une fois de plus." #NT!
+ POD_anteshunttremere.10.b: "Jetez tout à cet endroit !" #NT!
+ POD_anteshunttremere.10.c: "Ce sera trop coûteux." #NT!
+ POD_anteshunttremere.11.t: "La chasse : emplacement de Tremere" #NT!
+ POD_anteshunttremere.11.desc: "Vous avez maintenant rassemblé tout ce que vous pouviez sur l’emplacement actuel de Tremere. Il est temps d'analyser tout ce que vous avez obtenu et de conclure si cela est suffisant ou non.\nVous pourriez opter pour un tout dernier effort (et coûteux) si vous êtes proche du prix ultime mais pas tout à fait. Dans tous les cas, il sera alors temps de passer à la partie la plus dangereuse de votre quête..." #NT!
+ POD_anteshunttremere.11.a: "J’en ai plus qu’assez, on passe à autre chose !" #NT!
+ POD_anteshunttremere.11.b: "Juste un petit peu plus..." #NT!
+ POD_anteshunttremere.11.c: "Tremere m'échappe..." #NT!
+ POD_anteshunttremere.11.d: "Arrêtons cette errance idiote avant qu'il ne soit trop tard." #NT!
+ POD_anteshunttremere.12.t: "La chasse : l'assaut" #NT!
+ POD_anteshunttremere.12.desc: "Il n’y a plus de retour en arrière possible. Vous savez où se cache le corps engourdi de Tremere et vous avez rassemblé tout ce que vous pouviez pour lancer un assaut à grande échelle contre les redoutables défenses. La Pyramide n'abandonnera pas son vénéré fondateur sans un sacré combat et vous êtes déterminé à le lui donner.\nVous pouvez sentir votre récompense vous attendre au plus profond de la forteresse, juste après tous ces satanés mages et leurs pièges... Alors fermer!" #NT!
+ POD_anteshunttremere.12.a: "Charge!" #NT!
+ POD_anteshunttremere.12.effect.success.desc: "La victoire! On emménage à l'intérieur !" #NT!
+ POD_anteshunttremere.12.critical.failure.effect.desc: "Si proche..." #NT!
+ POD_anteshunttremere.15.t: "La Chantry : la favorite" #NT!
+ POD_anteshunttremere.15.desc: "Il était impossible qu'Etrius, le favori de Tremere, n'essaye pas d'interférer avec vos plans. Vous vous attendiez à ce que le puissant Mage vous affronte avec des sorts et du feu, mais à la place... vous êtes surpris lorsqu'une partie de votre hôte retourne soudainement ses épées contre vous !\nÉtait-ce une trahison planifiée de leur part ? Ou le résultat d'une des ruses des Tremere ? Vous n’avez pas le temps d’y réfléchir car votre vie est en jeu." #NT!
+ POD_anteshunttremere.15.a: "Aucune pitié pour les traîtres !" #NT!
+ POD_anteshunttremere.15.effect.success.desc: "Les traîtres sont punis. Nous continuons." #NT!
+ POD_anteshunttremere.15.critical.failure.effect.desc: "C'était trop inattendu..." #NT!
+ POD_anteshunttremere.15.critical.failure: "Trahi..." #NT!
+ POD_anteshunttremere.14.t: "La Chantrie : Le Conseil des Sept" #NT!
+ POD_anteshunttremere.14.desc: "Dès que votre groupe entre dans la Chantrie, la moitié d’entre eux s’enflamment. Des chants rituels dans une douzaine de langues différentes peuvent être entendus et l'assaut magique commence.\nVous êtes confronté à toute la puissance du Conseil des Sept. Le corps dirigeant des Tremeres [Clan|E] vous attendait et ils se sont tous préparés à vous affronter et à protéger leur fondateur.\nUn tel rassemblement de puissants sorciers du sang est inconnu depuis le propre rituel de création des Tremeres. Les surmonter sera pour le moins une épreuve difficile." #NT!
+ POD_anteshunttremere.14.a: "Maudits sorciers !" #NT!
+ POD_anteshunttremere.14.effect.success.desc: "Sept à terre, un à jouer." #NT!
+ POD_anteshunttremere.14.critical.failure.effect.desc: "Des archimages partout !" #NT!
+ POD_anteshunttremere.14.critical.failure: "Cendres aux cendres..." #NT!
+ POD_anteshunttremere.16.t: "La Chantry : Le Prodige" #NT!
+ POD_anteshunttremere.16.desc: "Goratrix est beaucoup de choses, mais on ne peut pas l'accuser d'être un lâche. Le puissant apprenti de Tremere lui-même se présente seul devant votre groupe pour mettre fin à votre quête.\nIl attendait votre arrivée, et vous pouvez apercevoir de nombreuses runes de pouvoir (ou pièges ?) dans la pièce. Doté de pouvoirs en tant que tel et totalement déterminé à vous arrêter, le « Porteur de Lumière » sera un ennemi redoutable." #NT!
+ POD_anteshunttremere.16.a: "Votre ambition contre la mienne." #NT!
+ POD_anteshunttremere.16.effect.success.desc: "Un digne ennemi est tombé." #NT!
+ POD_anteshunttremere.16.critical.failure.effect.desc: "C'est quoi cette rune ? Oh" #NT!
+ POD_anteshunttremere.16.critical.failure: "Cendres aux cendres..." #NT!
+ POD_anteshunttremere.17.t: "La Chantrie : Le Pilier" #NT!
+ POD_anteshunttremere.17.desc: "Soudain, une voix impérieuse vous dit d’arrêter et vous n’avez d’autre choix que d’obéir. Meerlinda, le cœur diplomatique du Conseil des Sept, apparaît et commence à utiliser ses formidables pouvoirs de persuasion pour vous contrôler.\nDe toute évidence, elle utilise sa magie pour vous garder en paix, mais même en sachant ce fait, il est difficile de surmontez sa voix apaisante renforcée par le pouvoir de la Chantrie elle-même. Un à un, elle convainc vos alliés de se suicider et elle se tourne désormais vers vous..." #NT!
+ POD_anteshunttremere.17.a: "Je dois résister !" #NT!
+ POD_anteshunttremere.17.effect.success.desc: "Va-t'en sorcière !" #NT!
+ POD_anteshunttremere.17.critical.failure.effect.desc: "Une si jolie voix..." #NT!
+ POD_anteshunttremere.17.critical.failure: "Comme tu dis..." #NT!
+ POD_anteshunttremere.18.t: "La Chantry : L'Explorateur" #NT!
+ POD_anteshunttremere.18.desc: "Vous étiez bien préparé contre les formes conventionnelles de magie du sang lorsque vous êtes entré dans la Chantrie. Mais en entrant dans cette nouvelle salle, vous ne vous attendiez pas à voir cet homme imposant couvert d'étranges tatouages ​​psalmodier dans une étrange langue étrangère.\nXavier de Cincao, le plus jeune membre du Conseil des Sept, a toujours été friand d'étranges et des formes ésotériques de magie, qui pourraient s'avérer être votre chute. Il faut s'adapter rapidement dans ce combat, sinon il n'y aura pas de combat du tout." #NT!
+ POD_anteshunttremere.18.a: "Il doit y avoir un modèle !" #NT!
+ POD_anteshunttremere.18.effect.success.desc: "Je vois ta faiblesse !" #NT!
+ POD_anteshunttremere.18.critical.failure.effect.desc: "C'est quoi ce truc?" #NT!
+ POD_anteshunttremere.18.critical.failure: "Feu! Feu!" #NT!
+ POD_anteshunttremere.19.t: "La Chantrie : La colère" #NT!
+ POD_anteshunttremere.19.desc: "« Combattez-moi, lâches ! », Calderon, le guerrier Mage du Conseil des Sept, apparaît. Visiblement doté d'une aura magique, probablement provenant de la Chantrie elle-même, il dégaine ses deux épées et semble attendre votre premier mouvement.\nBien que vous soyez plus nombreux que lui, il a la préparation de son côté et sa réputation de combattant puissant renforcée par son combat. la magie est bien méritée. Vous avez un combat frontal difficile entre vos mains." #NT!
+ POD_anteshunttremere.19.a: "Un mage de combat, hein ? Fantaisie." #NT!
+ POD_anteshunttremere.19.effect.success.desc: "Fort, mais pas assez." #NT!
+ POD_anteshunttremere.19.critical.failure.effect.desc: "Des boules de feu et des épées ? C'est de la triche!" #NT!
+ POD_anteshunttremere.19.critical.failure: "Une mort honorable..." #NT!
+ POD_anteshunttremere.20.t: "La Chantry : la diligence" #NT!
+ POD_anteshunttremere.20.desc: "Cela fait maintenant des heures que vous tournez en rond. Il vous a fallu beaucoup de temps pour le comprendre, mais un sort doit être actif et cacher le véritable chemin vers Tremere. À ce rythme-là, vous perdrez votre précieux sang et manquerez de temps avant de le retrouver.\nCela pourrait être le plan de LeDuc, un conseiller célèbre pour ses expériences sur les illusions et autres. Ces connaissances pourraient vous aider à trouver une issue, mais il ne vous reste plus beaucoup de temps." #NT!
+ POD_anteshunttremere.20.a: "Nous devons trouver un moyen." #NT!
+ POD_anteshunttremere.20.effect.success.desc: "Une sortie! Enfin." #NT!
+ POD_anteshunttremere.20.critical.failure.effect.desc: "Je déteste les labyrinthes..." #NT!
+ POD_anteshunttremere.20.critical.failure: "Sans issue..." #NT!
+ POD_anteshunttremere.21.t: "La Chantrie : le mentor" #NT!
+ POD_anteshunttremere.21.desc: "Vous devez être proche car les Tremere semblent de plus en plus désespérés. Ils vous jettent maintenant tout ce qu'ils ont encore, des apprentis aux gargouilles à moitié formées. Cette armée délabrée ne devrait pas poser vraiment de problème, mais son nombre pourrait vous causer des ennuis.\nAu fond de la bibliothèque transformée en champ de bataille, vous pouvez apercevoir un homme, probablement un conseiller, menant de plus en plus de « recrues » au combat. . Si vous pouviez vous débarrasser de lui, cela pourrait endiguer la marée..." #NT!
+ POD_anteshunttremere.21.a: "Concentrez-vous sur celui-ci !" #NT!
+ POD_anteshunttremere.21.effect.success.desc: "Tous morts. Nous continuons." #NT!
+ POD_anteshunttremere.21.critical.failure.effect.desc: "Ils continuent à venir !" #NT!
+ POD_anteshunttremere.21.critical.failure: "Trop..." #NT!
+ POD_anteshunttremere.22.t: "La Chantry : la fin ?" #NT!
+ POD_anteshunttremere.22.desc: "Les défenses intérieures de la Chantrie sont enfin brisées et, dans un sous-sol quelque peu quelconque, repose Tremere lui-même. Le grand sorcier se démène dans son lit en chêne richement sculpté comme s'il faisait un cauchemar. De temps en temps, ses bras reculent dans son torse ou de nouveaux yeux bouillonnent comme des bubons sur son front, pour ensuite éclater en une éruption de pus et de vapeurs caustiques.\nMalgré cet état inquiétant, il n'offre aucune résistance à votre [diablerie|E]. et est bientôt réduit en cendres entre vos mains.\nVous venez de devenir un [antediluvian|E] ? D'une certaine manière, cela semble un peu décevant..." #NT!
+ POD_anteshunttremere.22.a: "Quelque chose ne va pas..." #NT!
+ tremere_reborn_modifier: "Tremere renaît" #NT!
+ tremere_reborn_modifier_desc: "L'âme de Tremere a pris possession de ce corps, permettant au puissant mage de parcourir à nouveau ce monde." #NT!
+ POD_anteshunttremere.23.t: "The Chantry : la prise de contrôle de Tremere" #NT!
+ POD_anteshunttremere.23.desc: "Des visions de grandeur apparaissent dans votre esprit, d'un passé qui n'est pas le vôtre. Vous n’avez jamais été un jeune mage ambitieux à la recherche d’un remède à votre immortalité déclinante. Vous n'avez jamais créé votre propre [Clan|E] vampirique avant de chasser les [antediluvians|E] eux-mêmes.\nUne voix résonne soudain dans votre tête : "J'ai combattu les dieux qui essayaient de prendre le contrôle de mon corps." Vous contrôler sera facile ! »" #NT!
+ POD_anteshunttremere.23.a: "Je peux résister !" #NT!
+ POD_anteshunttremere.23.b: "Ce qui se passe?!" #NT!
+ tremerewins_tt: "...et le rire de Tremere peut être entendu venant de votre... son corps." #NT!
+ POD_anteshunttremere.24.t: "The Chantry : le plan de sauvegarde de Tremere" #NT!
+ POD_anteshunttremere.24.desc: "Vous avez réussi à vaincre l'âme de Tremere mais, trop engagé dans cette bataille mentale, vous n'avez pas remarqué qu'Etrius se faufilait derrière vous. Il porte apparemment un petit miroir et, avant que vous puissiez vraiment vous en rendre compte, vous voyez l'âme de Tremere plonger dans Etrius volontaire.\nQuelque chose d'autre est arrivé au miroir, mais vous n'avez pas de temps à perdre à réfléchir à cette question, Etrius/Tremere se lance à vous soudainement habilité par les capacités extraordinaires du fondateur [Clan|E] de Tremere lui-même. Ce ne sera pas un combat facile." #NT!
+ POD_anteshunttremere.24.a: "Tremere meurt maintenant !" #NT!
+ POD_anteshunttremere.24.effect.success.desc: "Et le dernier mord la poussière." #NT!
+ POD_anteshunttremere.24.critical.failure.effect.desc: "Quoi? Non!" #NT!
+ POD_anteshunttremere.24.critical.failure: "Au diable vous tous..." #NT!
+ saulot_reborn_modifier: "Saulot renaît" #NT!
+ saulot_reborn_modifier_desc: "L'âme de Saulot a pris possession de ce corps, laissant la figure énigmatique libre de parcourir à nouveau ce monde." #NT!
+ POD_anteshunttremere.25.t: "La Chantry : la prise de contrôle de Saulot" #NT!
+ POD_anteshunttremere.25.desc: "Une fois Tremere réglé, vous pensiez que vous étiez prêt à partir et enfin libre de profiter des récompenses de votre quête.\nVous aviez tort.\nDès que l'âme de Tremere est détruite, vous ressentez soudainement une autre attirance, votre corps commence à bouger, des yeux malades apparaissent partout sur vous. Votre esprit est rempli de visions d'un grand projet, d'un destin à accomplir et du salut potentiel pour tous [cainites|E]... mais vous devez abandonner et vous sacrifier. Que vous le vouliez ou non." #NT!
+ POD_anteshunttremere.25.a: "Sors de ma tête!" #NT!
+ POD_anteshunttremere.25.b: "Encore?!" #NT!
+ saulotwins_tt: "...et Saulot s'éloigne, calculant déjà son prochain coup dans le Grand Jeu." #NT!
+ tzimisce_reborn_modifier: "Tzimisce renaît" #NT!
+ tzimisce_reborn_modifier_desc: "L'âme de Tzimisce a pris possession de ce corps, permettant au monstre terrifiant de parcourir à nouveau ce monde." #NT!
+ POD_anteshunttremere.26.t: "La Chantrie : la prise de contrôle de Tzimisce" #NT!
+ POD_anteshunttremere.26.desc: "Combien d’âmes y avait-il dans le corps de Tremere ? Saulot n'était clairement pas le dernier à essayer de prendre le relais puisque votre corps a commencé à muter de manière incontrôlable, fusionnant les membres et vous faisant tomber alors que vous êtes obligé de ramper. À ce rythme-là, vous n'aurez pas l'air humain, même de loin, d'ici peu.\nVous pouvez également sentir votre esprit être attaqué, les pensées d'appartenance à un « tout plus grand » prenant soudainement le dessus. Même au-delà des tentatives de prise de contrôle de Tremere et Saulot, cette attaque est encore plus terrible et même carrément étrangère dans sa forme..." #NT!
+ POD_anteshunttremere.26.a: "Je n'abandonnerai pas !" #NT!
+ POD_anteshunttremere.26.b: "...sommes-nous tous un ?" #NT!
+ tzimiscewins_tt: "... et Tzimisce s'éloigne, impatient déjà de retrouver lui-même." #NT!
+ POD_anteshunttremere.27.t: "La Chasse : Victoire" #NT!
+ POD_anteshunttremere.27.desc: "Enfin, après une quête effroyable, vous pourrez revendiquer la victoire. Vous avez apprivoisé (pour l'instant) les âmes de Tremere, Saulot et Tzimisce pour finaliser votre prise de pouvoir. Vous pouvez sentir la puissance du [antediluvian|E] parcourir votre sang, prêt à exécuter vos ordres. Pourtant, cet immense potentiel est difficile à maîtriser et vous ne pourrez pas le faire complètement avant longtemps, une faiblesse qui pourrait être exploitée par vos ennemis ou d'autres opportunistes.\nQuoi qu'il arrive, vous risquez désormais d'être le meilleur. créature la plus puissante active dans ce monde et contrôle le respect et la crainte dus à un tel exploit." #NT!
+ POD_anteshunttremere.27.a: "Pouvoir ultime!" #NT!
+ POD_anteshuntabsi.1.f: "Je vais chasser l'usurpateur, Tremere." #NT!
+  
+ POD_anteshunttroile.1.t: "La chasse : creuser le passé" #NT!
+ POD_anteshunttroile.1.desc: "Troile n'est pas un [antediluvian|E] difficile à trouver. Il est de notoriété publique qu’elle est enterrée sous Carthage, laissée pourrir ici après sa fatidique défaite contre la coalition romaine. Cette histoire est la prémisse de la rivalité toujours en cours entre Brujah et Ventrue, mais il lui manque certains détails cruciaux.\nQu'y a-t-il exactement sous Carthage ce soir ? Quels types de défenses protègent le lieu ? Moloch, l'amant infernal de Troile, est-il toujours là également ? Vous avez besoin de réponses et d’autres personnes les chercheront à votre place. Trébucher dans les ruines de Carthage serait insensé, et vous êtes assez vieux pour payer d'autres personnes pour qu'elles soient stupides." #NT!
+ POD_anteshunttroile.1.a: "Mettez à prix les informations liées à Carthage." #NT!
+ POD_anteshunttroile.1.b: "Je peux utiliser de vieilles faveurs à la place." #NT!
+ POD_anteshunttroile.1.c: "J'ai déjà une idée de ce qui m'attend là-bas..." #NT!
+  
+ POD_anteshunttroile.2.t: "La Chasse : Plan d'évasion" #NT!
+ POD_anteshunttroile.2.desc: "Des (quelques) aventuriers revenus des ruines de Carthage, vous avez compris que toute la zone est enveloppée dans une sorte de « boucle temporelle » de la nuit où la ville est tombée. Il sert de forme de punition, garantissant que les défenseurs de Carthage encore en vie seront tourmentés à jamais par leur défaite, et de mécanisme de protection, car quiconque tentera d'entrer dans les ruines sera lui-même piégé dans la boucle.\nEn tant que tel, il est crucial. Il est important que vous réfléchissiez à un plan d'évacuation. Troile est probablement à l'intérieur de cette zone, vous devrez donc entrer dans la boucle temporelle, la trouver, la diaboliser puis vous échapper d'une manière ou d'une autre. Une certaine connaissance de la magie du sang ou du temps semble être une condition préalable pour avoir une chance de contrecarrer un rituel aussi puissant." #NT!
+ POD_anteshunttroile.2.a: "Je connais bien la magie. J'irai bien." #NT!
+ POD_anteshunttroile.2.b: "Je connais des sources fiables pour trouver une solution." #NT!
+ POD_anteshunttroile.2.c: "C'est de la folie, je devrais abandonner." #NT!
+ given_up_troile_hunt_tt: "Il vous manque les compétences minimales pour échapper à la boucle temporelle. Troile est hors de votre portée mais vous serez ramené au choix d'autres [antediluvians|E] à potentiellement consommer." #NT!
+  
+ POD_anteshunttroile.3.t: "La chasse : histoires de vétérans" #NT!
+ POD_anteshunttroile.3.desc: "Maintenant que vous avez mis en place un plan d'évasion, vous devez comprendre ce qui s'est réellement passé la nuit où Carthage est tombée pour trouver un moyen de manipuler la boucle temporelle à votre avantage. De toute évidence, il s’agissait d’un événement capital, mais même les participants réels à la bataille n’avaient pas une vue d’ensemble complète à ce moment-là. En tant que tel, vous devrez demander à tous ceux qui étaient réellement présents quelle est leur version de l'histoire.\nVous espérez simplement qu'un nombre suffisant d'entre eux sont encore actifs et disposés à parler pour que vous puissiez vraiment comprendre dans quoi vous allez vous lancer." #NT!
+ POD_anteshunttroile.3.a: "Donner du sens à un mythe." #NT!
+ camilla_insights_tt: "Camilla, le prince de Rome, a partagé avec vous son histoire." #NT!
+ lysander_insights_tt: "Lysandre, le général de Rome, vous a raconté son histoire." #NT!
+ alchias_insights_tt: "Alchias, le prince de Syracuse, a partagé avec vous son histoire." #NT!
+ eshmunazar_insights_tt: "Eshmunazar, le rebelle haqimite, vous a partagé son histoire." #NT!
+ dominic_insights_tt: "Dominique, le général de Carthage, vous a partagé son histoire." #NT!
+ cybele_insights_tt: "Cybèle, le Fléau de Moloch, a partagé son histoire avec vous." #NT!
+ menele_insights_tt: "Ménélé, le diplomate de Carthage, vous a partagé son histoire." #NT!
+ helena_insights_tt: "Hélène, la traîtresse de Carthage, vous a raconté son histoire." #NT!
+ tryphosa_insights_tt: "Tryphosa, la voyante de Rome, a partagé avec vous son histoire." #NT!
+ zamra_insights_tt: "Zamra, descendante de Carthage, a partagé son histoire avec vous." #NT!
+ ecaterina_insights_tt: "Ecaterina, survivante présumée, a partagé son histoire avec vous." #NT!
+  
+ POD_anteshunttroile.4.t: "La Chute : la dernière nuit de Carthage" #NT!
+ POD_anteshunttroile.4.desc: "Une fois tous les préparatifs terminés, vous avez voyagé jusqu'aux ruines de Carthage et vous êtes hardiment avancé vers la boucle temporelle. Sans même vous avertir, vous voyez la grande ville à l’horizon, les flammes brûlantes du siège en cours. Il semble que vous soyez apparu à l'intérieur du camp principal romain, ce qui vous offre une première opportunité de manipuler le temps à votre avantage.\nVous voulez que Troile soit aussi faible que possible pour pouvoir la consumer et, en tant que tel, vous devez aider les Romains à gagner. de manière plus décisive qu’ils ne l’ont fait historiquement. Les généraux romains revoient leur plan mais vous savez ce qui va se passer : Camilla, le prince de Rome, restera sur place pour arriver plus tard avec des renforts. Une attaque surprise des Banu Haqim d'Eshmunazar sur le camp principal le retardera cependant, et les renforts n'arriveront jamais avant la fin de la bataille.\nSi vous parvenez à persuader Camilla du danger imminent, il pourrait mieux s'y préparer et, avec un peu de chance, s'en sortir. à temps pour aider contre Troile plus tard dans la nuit." #NT!
+ POD_anteshunttroile.4.a: "J'ai une nouvelle importante pour le Consul éternel !" #NT!
+ POD_anteshunttroile.4.effect.success.desc: "Camilla tient compte de votre avertissement." #NT!
+ POD_anteshunttroile.4.critical.failure: "Le temps suit son cours fatidique." #NT!
+  
+ POD_anteshunttroile.5.t: "La Chute : la dernière charge de la déesse de la guerre" #NT!
+ POD_anteshunttroile.5.desc: "L'assaut contre les murs de Carthage a commencé et vous pouvez voir Artemis Orthia, l'intrépide enfant de Ventrue lui-même, mener la charge. Vous savez comment cela se termine, avec les murs brisés et un chemin dégagé, mais Artémis elle-même déchirée par le grand nombre de défenseurs et les Romains laissés sans leur meilleur guerrier.\nC'est une opportunité de la sauver, mais cela signifierait charger tête baissée à ses côtés. son. Si la Déesse des Spartiates, la guerrière la plus talentueuse des Ventrues, ne pouvait pas survivre... quelles sont vos chances ? En revanche, avoir la lance d'Artémis couvrant votre dos lors de l'assaut final contre Troile serait un formidable atout." #NT!
+ POD_anteshunttroile.5.a: "Pour Rome !" #NT!
+ POD_anteshunttroile.5.effect.success.desc: "Artémis est ensanglantée, mais vivante !" #NT!
+ POD_anteshunttroile.5.critical.failure: "Carthage reste forte..." #NT!
+ POD_anteshunttroile.5.b: "C'est trop risqué, laissez-la mourir." #NT!
+  
+ POD_anteshunttroile.6.t: "La Chute : l'affrontement des Maîtres de Guerre" #NT!
+ POD_anteshunttroile.6.desc: "L'armée romaine est désormais à l'intérieur de Carthage. Vous les suivez attentivement, en essayant d’éviter d’être emporté par la vague de frénésie et d’effusion de sang. Se battre dans les rues de la ville est une affaire épouvantable, qui favorise largement le défenseur. Vous savez que Lysandre, le général de Rome, finira par triompher de Dominique, son homologue carthaginois, dans cette lutte, mais cela prendra trop de temps, obligeant Camilla et les autres à utiliser leur plan de secours pour éviter Troile, ce que vous ne pouvez pas vous permettre. cela se produira.\nVous pourriez offrir votre aide à Lysander, en l'aidant à coordonner le vaste champ de bataille au mieux de vos capacités. Cependant, cela mettrait certainement une cible dans votre dos, et Dominic ferait de son mieux pour vous arrêter. Rester à l’écart de cette mêlée serait-il un choix plus sage ?" #NT!
+ POD_anteshunttroile.6.a: "Legatus, je peux aider à la coordination de l'armée." #NT!
+ POD_anteshunttroile.6.effect.success.desc: "Victoire romaine décisive !" #NT!
+ POD_anteshunttroile.6.critical.failure: "Déjoué..." #NT!
+ POD_anteshunttroile.6.b: "C'est trop risqué, laissez-les s'affronter seuls." #NT!
+  
+ POD_anteshunttroile.7.t: "La Chute : les calculs d'Alchias" #NT!
+ POD_anteshunttroile.7.desc: "Alors que vous étiez occupé à attaquer la ville elle-même, vous savez qu'une partie critique de la nuit se déroule actuellement juste à l'extérieur des murs. Alchias, le prince malkavien de Syracuse, joue un rôle important dans l'effort de guerre car ses puissants pouvoirs mentaux aident à coordonner les différents groupes romains mieux que n'importe quel système de messagerie. Il est cependant pris en embuscade par des agents Baali et vous savez que son destin ultime est une longue torpeur et un soudain désarroi dans les lignes romaines.\nVous êtes trop tard pour sauver Alchias lui-même mais vous pouvez toujours essayer de sauver l'organisation de l'armée puisque vous savez qu'il va bientôt commencer à s'effondrer. Cela améliorerait certainement les chances des Romains." #NT!
+ POD_anteshunttroile.7.a: "Je veux des rapports sur le front, maintenant !" #NT!
+ POD_anteshunttroile.7.effect.success.desc: "Les Romains restent unis." #NT!
+  
+ POD_anteshunttroile.8.t: "La Chute : Le Diable Romain" #NT!
+ POD_anteshunttroile.8.desc: "Cybèle est l'atout des Romains. Cette puissante Nergalite Baali est là pour tuer Moloch, l'amant de Troile, et ce sera finalement elle qui les piégera tous les deux sous Carthage lorsque la bataille tournera mal pour ses alliés. Ce n’est pas quelque chose que vous voulez. Heureusement, ce n'est pas quelque chose que Cybèle elle-même souhaite, car elle préférerait de loin brûler Moloch elle-même plutôt que de simplement le piéger.\nLa Nergalite a préparé de nombreux rituels pour affaiblir Moloch, mais peu contre Troile elle-même, car elle s'en fiche. à son sujet. Si vous êtes assez subtil, vous pourriez essayer de la convaincre de rediriger certains de ses sorts contre votre véritable cible. C'est cependant risqué, car la puissante sorcière Baali est connue pour avoir un mauvais caractère envers les intrus..." #NT!
+ POD_anteshunttroile.8.a: "Cela aiderait nos deux causes." #NT!
+ POD_anteshunttroile.8.effect.success.desc: "Cybèle est d'accord." #NT!
+ POD_anteshunttroile.8.critical.failure: "Sujet de test réticent pendant un moment..." #NT!
+ POD_anteshunttroile.8.b: "C'est trop risqué, laisse-la faire son truc." #NT!
+  
+ POD_anteshunttroile.10.t: "La chute : un temps immuable" #NT!
+ POD_anteshunttroile.10.desc: "Malgré vos efforts, la boucle temporelle se déroule comme elle l’a fait historiquement. Les Romains sont trop affaiblis par l'assaut pour oser défier Troile et Moloch et, en tant que telle, Cybèle prépare son plan de secours consistant à les piéger sous la ville avec un rituel puissant.\nÀ ce stade, charger seul vers Troile serait C'est une folie totale et vous devez plutôt préparer rapidement votre plan d'évasion. La boucle temporelle se réinitialisera bientôt et remarquera la présence d’un intrus. Vous ne voulez vraiment pas être là quand cela arrive.\nMême si ce n'est pas une victoire, vous avez quand même réussi à survivre à toute cette aventure. Ce n’est pas un mince exploit tout bien considéré." #NT!
+ POD_anteshunttroile.10.a: "Cela aurait pu mieux se terminer. Ou bien pire." #NT!
+  
+ POD_anteshunttroile.11.t: "La Fin des Temps : Troile et Moloch" #NT!
+ POD_anteshunttroile.11.desc: "Tu l'as fait. Vos efforts ont réussi à aider suffisamment l’armée romaine pour qu’elle s’en tienne à son plan principal : tuer Troile et Moloch. Cependant, alors que vous les suivez jusqu'au centre de la ville, vous pouvez voir la réalité elle-même crépiter tout autour de vous alors que la boucle temporelle a commencé à remarquer votre interférence. Le temps presse.\nTroile et Moloch vous attendent devant leur palais, déjà baignés de sang romain et apparemment indifférents au cours de la bataille qui se retourne contre eux. Avant même que vous puissiez lever le petit doigt, Troile a effectué un mouvement imperceptible de son poignet, ce qui a permis à sa légendaire épée de cristal de fendre une grande partie de votre armée sans même que vous vous en rendiez compte.\nVous faites face à une véritable [antediluvian|E], la plus grande maîtresse de Célérité, et vous réalisez soudain à quel point vos chances sont pitoyables malgré tous vos efforts jusqu'à présent..." #NT!
+ POD_anteshunttroile.11.a: "Tout cela était une très mauvaise idée..." #NT!
+ POD_anteshunttroile.11.effect.success.desc: "Vous tenez bon pour l'instant..." #NT!
+ POD_anteshunttroile.11.critical.failure: "Clignoter. Tu es mort." #NT!
+  
+ POD_anteshunttroile.12.t: "La Fin des Temps : La Bataille" #NT!
+ POD_anteshunttroile.12.desc: "Troile joue avec toi. Même sans l'aide de Moloch, elle semble être à la hauteur de toutes vos forces combinées. Vous avez jusqu’à présent réussi à garder la tête sur les épaules mais ce n’est pas le cas de tout le monde autour de vous. Vous devez arrêter d'être sur la défensive et la repousser d'une manière ou d'une autre si vous voulez sortir d'ici vivant." #NT!
+ POD_anteshunttroile.12.desc.b: "\nAlors que vous prépariez votre prochain mouvement, un puissant cri de guerre se fait entendre et Artemis Orthia saute en premier vers la tête de Troile. Surpris, l'Antédiluvien doit en fait se défendre pour une fois alors que le choc de la lance sur l'épée se fait soudainement entendre alors que les deux puissants guerriers s'affrontent à une vitesse floue. Même si Artemis ne durera certainement pas longtemps, cela pourrait être votre ouverture." #NT!
+ POD_anteshunttroile.12.a: "Je peux le faire..." #NT!
+ POD_anteshunttroile.12.effect.success.desc: "Un coup d'œil sur Troile." #NT!
+  
+ POD_anteshunttroile.13.t: "La Fin des Temps : Les Renforts de Carthage" #NT!
+ POD_anteshunttroile.13.desc: "Alors que vous tenez déjà à peine face à Troile et Moloch, vous remarquez soudain que vous êtes encadré par les derniers défenseurs de Carthage. Ils ne constitueraient pas une menace individuellement, mais dans les circonstances actuelles, ils pourraient être plus que suffisants pour vous tuer définitivement. Vous devez rallier vos troupes contre eux." #NT!
+ POD_anteshunttroile.13.desc.b: "\nHeureusement, le fidèle Lysandre a également remarqué ce problème et a déjà commencé à organiser une défense précipitée. En travaillant tous les deux ensemble, vous pourriez vous sortir de cette situation difficile." #NT!
+ POD_anteshunttroile.13.a: "Se rallier! Se rallier!" #NT!
+ POD_anteshunttroile.13.effect.success.desc: "Ils sont traités." #NT!
+  
+ POD_anteshunttroile.14.t: "La Fin des Temps : Moloch" #NT!
+ POD_anteshunttroile.14.desc: "Troile est un adversaire terrifiant, mais son amant Moloch est également loin d'être un ennemi faible. Le puissant Baali Methuselah de 4e génération est un maître de la magie, souvent du genre assez sombre, et n'hésite pas à l'utiliser brutalement contre vos compagnons. Si vous voulez vraiment vous concentrer sur Troile, vous devrez arrêter Moloch pour de bon, ce qui implique de survivre à son assaut magique..." #NT!
+ POD_anteshunttroile.14.desc.b: "\nCybèle s'avère une alliée utile dans cette entreprise. La Nergalite Baali se bat sans retenue contre sa rivale et, même si elle n'est pas à la hauteur de lui seule, elle est plus que suffisante pour le distraire et, espérons-le, vous donner une ouverture pour votre propre attaque." #NT!
+ POD_anteshunttroile.14.a: "Meurs, infernaliste !" #NT!
+ POD_anteshunttroile.14.effect.success.desc: "Un vers le bas. Un à emporter." #NT!
+  
+ POD_anteshunttroile.15.t: "La Fin des Temps : Affichage honteux" #NT!
+ POD_anteshunttroile.15.desc: "Vos hommes hésitent. Même le soldat romain le plus robuste serait profondément secoué en voyant la terrifiante démonstration de puissance montrée par Troile. Alors que la bataille s'éternise, certains ont commencé à s'enfuir, ouvrant des brèches dans votre ligne défensive que Troile n'hésite pas à exploiter. Vous devez rallier vos compagnons assiégés avant qu’il ne reste plus rien à rallier." #NT!
+ POD_anteshunttroile.15.desc.b: "\nVotre expérience dans la gestion des ordres des troupes après la chute d'Alchias vous a donné une bonne longueur d'avance pour savoir comment renforcer ces soldats. Cela sera utile." #NT!
+ POD_anteshunttroile.15.effect.success.desc: "Nous restons fermes !" #NT!
+ POD_anteshunttroile.15.b: "Concentre-toi juste sur mon propre combat." #NT!
+  
+ POD_anteshunttroile.16.t: "La fin des temps : rapprochement" #NT!
+ POD_anteshunttroile.16.desc: "Troile commence à montrer quelques petits signes de faiblesse. Votre assaut incessant, aidé par vos compagnons, a entamé ses réserves de sang et elle est plus conservatrice dans ses mouvements, bien que toujours aussi mortels. Si vous pouviez organiser vos forces restantes en une dernière frappe coordonnée, cela pourrait faire l'affaire..." #NT!
+ POD_anteshunttroile.16.desc.b: "\nDes cris se font entendre derrière votre ligne arrière lorsque vous apercevez le consul éternel Camilla arriver enfin avec ses renforts. Le Ventrue ensanglanté et meurtri est toujours un spectacle pour les yeux endoloris, et ses troupes disciplinées vous rejoignent bientôt pour se rapprocher de Troile." #NT!
+ POD_anteshunttroile.16.effect.success.desc: "Nous allons gagner!" #NT!
+ POD_anteshunttroile.16.a: "Rome Invicta!" #NT!
+ POD_anteshunttroile.16.b: "J'ai besoin d'une petite pause. Laissez les autres s'en occuper pour le moment." #NT!
+  
+ POD_anteshunttroile.17.t: "La Fin des Temps : La Chute de Troile ?" #NT!
+ POD_anteshunttroile.17.desc: "C'est maintenant ou jamais. Troile est seul, affaibli par le combat prolongé. Vous et vos compagnons n’êtes pas en meilleure forme, mais vous êtes toujours debout. Vous pouvez sentir la boucle temporelle commencer à riposter plus fort, essayant de corriger le paradoxe que vous avez créé, ce qui signifie que vous n'avez pas beaucoup de temps avant que l'enfer ne vous tombe dessus.\nTroile prépare une fois de plus son épée mortelle et vous pouvez je vois un sourire mortel apparaître derrière son visage ensanglanté. Ici et maintenant, entouré de Carthage en feu, c'est là que réside votre destin." #NT!
+ POD_anteshunttroile.17.effect.success.desc: "La victoire?" #NT!
+ POD_anteshunttroile.17.a: "Je peux le faire..." #NT!
+  
+ POD_anteshunttroile.18.t: "La Fin des Temps : Victoire" #NT!
+ POD_anteshunttroile.18.desc: "Le combat se termine dans le flou. Troile à genoux, enfin suffisamment affaiblie par la bataille pour que vous puissiez l'approcher. La réalité elle-même se brise alors que le sort défensif tente de vous empêcher d'intervenir. Vos compagnons romains se rapprochent pour le tuer mais ralentis par le maelström déclenché par la boucle temporelle qui se brise.\nVos crocs sur le cou de Troile.\nLa sensation d'une puissance indescriptible vous parcourant et d'un bonheur complet jusqu'à ce qu'une rapide étincelle de lucidité vous rappelle d'utiliser votre plan d'évasion pour fuir les lieux avant qu'il ne soit trop tard.\nVous émergez dans les véritables ruines actuelles de Carthage. La boucle temporelle a disparu, car il n’y a plus rien à protéger ici. Carthage est à nouveau silencieuse.\nEt alors que vous vous éloignez, les fantômes du passé tourbillonnent en vous, vous rendant plus puissant que vous n'auriez jamais imaginé." #NT!
+ POD_anteshunttroile.18.a: "J'ai vaincu le temps lui-même." #NT!
+ POD_anteshuntabsi.1.g: "Il existe d'autres possibilités..." #NT!
+ POD_anteshuntabsi.100.a: "Je chasserai Troile, la reine de Carthage." #NT!
+  

@@ -1,0 +1,610 @@
+﻿l_french:
+  
+ pod1230objectives.1.t: "Coucher du soleil" #NT!
+ pod1230objectives.1.desc: "La plupart d'entre vous ont entendu depuis longtemps la fausse histoire du « Dieu » perse, Mithra, sur ses exploits sans fin et ses ambitions pour les îles. Ce soir, vous entendrez toute la triste vérité. Mithra voulait nous faire croire qu'il était venu dans les îles britanniques en sauveur, mais la vérité est qu'il fuyait ses échecs dans la Rome antique, considérant notre patrie comme un marigot à peine assez apte à reconstruire sa base de pouvoir. Aujourd’hui, il a échoué une fois de plus, car Britannia est sous une nouvelle direction unie. Son culte se disperse, chassé par le feu et l'épée et destiné à devenir une simple note de bas de page de l'histoire des îles. Tout en vous annonçant la chute du « Soleil Invaincu », je proclame également que Britannia est enfin prête à devenir sa propre force motrice dans la société [cainite|E]." #NT!
+ pod1230objectives.1.a: "Très bon discours, si je le dis moi-même" #NT!
+ pod1230objectives.2.a: "Mithra a subi sa dernière défaite... probablement" #NT!
+ pod1230objectives.2.b: "Le Soleil Invaincu se lèvera à nouveau, comme c’est toujours le cas." #NT!
+ pod1230objectives.3.t: "Le sceptre et le soleil" #NT!
+ pod1230objectives.3.desc: "La frontière entre un ancien vampire et un Dieu est mince. Mais dans le cas de Mithra, c'est encore plus flou. Le charisme et la puissance de l'entité connue comme un Dieu par les Perses et les Romains de l'Antiquité sont encore stupéfiants et, même si les mortels ont évolué, un changement de paradigme s'est récemment produit. En l'absence de rivaux crédibles à la tête des Ventrues, le culte de Mithra a réussi à rassembler suffisamment d'influence pour, d'une certaine manière, devenir [Clan|E] Ventrue lui-même. N'étant plus confinés à Britannia, les fidèles du Soleil Invaincu sont plus puissants que jamais et leur foi indéniable ébranle les principes de Vampire. L'histoire d'origine biblique commence à disparaître des souvenirs des jeunes vampires, remplacée par des histoires inspirantes de champions éternels fidèles au Dieu-Soleil Guerrier. La société apparentée ne sera plus jamais la même." #NT!
+ pod1230objectives.3.a: "Louer le soleil!" #NT!
+ pod1230objectives.3.b: "Parfois, je m'étonne" #NT!
+ pod1230objectives.3.custom: "Tous les dirigeants Ventrue auront une chance de se convertir au Culte de Mithra." #NT!
+ pod1230objectives.4.a: "Mithra a remporté cette manche. Acceptons-le." #NT!
+ pod1230objectives.4.b: "Louer le Soleil ? Comme un mortel ? Ha!" #NT!
+ pod1230objectives.5.a: "Vont-ils ajouter un soleil à leurs armoiries ?" #NT!
+ pod1230objectives.6.t: "Vous rêvez encore ?" #NT!
+ pod1230objectives.6.desc: "Ils viennent avec des cadeaux. [cainites|E] puissant de toute l'Europe, impatient de voir le nouveau dirigeant de Constantinople. En entrant dans votre salle du trône richement décorée, vous vous demandez combien auront des propositions, des menaces ou des poignards à vous attendre avant la fin de la nuit. Vous vous demandez aussi en passant : était-ce le plan de Michael depuis le début ? Savait-il que son rêve nécessitait un changement de leadership, une nouvelle vision ? Vous ne le saurez probablement jamais. Ce que vous savez, c'est que vos illustres invités veulent tous apprendre quelque chose ce soir et leurs cadeaux font partie de ce projet. Michel, archange autoproclamé, aurait refusé de telles offrandes mondaines ou même en aurait été offensé. Si vous refusez également, vous serez véritablement considéré comme l’héritier de Michael. Mais peut-être que le Rêve a besoin de prendre une nouvelle voie sous votre direction, et vous pouvez faire le premier pas dès maintenant. Veux-tu…?" #NT!
+ pod1230objectives.6.a: "Refuser les cadeaux ?" #NT!
+ pod1230objectives.6.custom: "Vous emprunterez un long chemin pour faire revivre la foi morte du Codex des Legs. La plupart de vos vassaux s'y convertiront." #NT!
+ pod1230objectives.6.b: "Accepter les cadeaux ?" #NT!
+ pod1230objectives.7.a: "1204 n’était qu’un revers, semble-t-il." #NT!
+ pod1230objectives.8.t: "Terminer la Reconquista" #NT!
+ pod1230objectives.8.desc: "La guerre civile sanglante des Lasombra espagnols est terminée. Vous êtes désormais le seul vainqueur, le seigneur des ruines. Ce fut une bataille acharnée, mais ce n’était qu’un tremplin sur votre chemin vers un plus grand pouvoir. Une victoire décisive vous a apporté beaucoup de magnanimité et vous a ouvert de nombreuses portes. En effet, le poste convoité de maître de la Mer des Ombres, et donc de tout le [Clan|E] Lasombra, vous a été offert. C’est évidemment un piège, et ils s’attendent tous à ce que vous échouiez lamentablement. Pour que votre règne se termine aussi vite qu'il a commencé afin qu'ils puissent retourner à leurs petites querelles sans que vous ne leur mettiez en travers leur chemin. Mais cela n'arrivera pas. Vous avez l’intention de leur faire regretter leurs intrigues futiles. Après tout, vous avez apprivoisé l'Ibérie, plier la Méditerranée et quelques anciens décrépits à votre volonté ne peut pas être plus difficile... N'est-ce pas ?" #NT!
+ pod1230objectives.8.a: "Grimper les échelons, un échelon à la fois" #NT!
+ pod1230objectives.8.custom: "Vous emprunterez un long chemin pour faire revivre la foi morte du Codex des Legs. La plupart de vos vassaux s'y convertiront." #NT!
+ pod1230objectives.9.a: "La direction de Lasombra n'est pas l'endroit le plus sûr où être" #NT!
+ pod1230objectives.9.b: "La mer emportera les petites ambitions" #NT!
+ pod1230objectives.10.t: "Vaincre Ragnarök" #NT!
+ pod1230objectives.10.desc: "Depuis des siècles, les Enfants de Canarl disparaissent lentement. L'assaut constant des serviteurs de la Croix, mortels et morts-vivants, avait converti leur troupeau autrefois pieux en un petit peuple faible. Mais pas plus. Alors que l'invasion des Ventrues allemands s'effondre et que le fier [einherjar|E] sème à nouveau la terreur dans le cœur des enfants de Caïn, la foi renaît à nouveau. Sous un nouveau chef, avec de nouvelles doctrines et un nouveau leadership, les [einherjar|E] sont désormais quelque chose de plus grand que même Odin aurait pu l'imaginer, le Vagabond les choisit bien, et ils sont désormais sa famille, les Ases de demain. Ils entrent avec audace dans cette ère en tant que dieux vikings qu’ils sont véritablement. Alors qu'ils se rassemblent, terrifiés dans leurs châteaux sombres, les faibles vampires du Sud n'ont rien d'autre à espérer qu'une mort miséricordieuse lorsque leur propre Ragnarok arrivera. Et ça viendra." #NT!
+ pod1230objectives.10.a: "Tant de gloire vous attend !" #NT!
+ pod1230objectives.11.a: "N'ont-ils pas compris que leur âge est révolu ?" #NT!
+ pod1230objectives.11.b: "L’ère des Dieux est à nos portes !" #NT!
+ pod1230objectives.12.t: "Iberia après minuit" #NT!
+ pod1230objectives.12.desc: "La guerre civile des Lasombra en Ibérie fut une affaire sanglante, née de la mortelle Reconquista espagnole et des troubles croissants entre les chrétiens et les [ashirra|E] [cainites|E]. Au début, ce fut une période sordide pour les Fidèles, avec des trahisons, des villes tombées et des secrets plus sombres conspirant pour faire tomber le Croissant de Minuit. En tant que telle, votre victoire était des plus inattendues. Alors que les Taifas ibériques mortels tombent les uns après les autres, les fidèles du [ashirra|E] parviennent néanmoins à vaincre leurs voisins chrétiens du nord. C’est en effet une étrange tournure des événements. Alors que la Mer des Ombres s'effondre à cause de leur alliance malavisée avec les Chrétiens, vous dirigez désormais une nouvelle terre et un nouveau peuple à peine reconnaissable. D’une certaine manière, votre victoire a sauvé la dernière relique de l’âge d’or musulman en Ibérie. Vous êtes autant les vainqueurs que les gardiens d’une riche histoire. Une perspective intimidante, mais à laquelle vous êtes fier d’assister." #NT!
+ pod1230objectives.12.a: "Nous sommes le passé et l'avenir de cette terre" #NT!
+ pod1230objectives.12.custom: "Alors que les derniers non [ashirra|E] [cainites|E] fuiront votre royaume, certaines provinces seront converties à votre foi." #NT!
+ every_non_root_faith_county_world_europe_west_iberia: "Tous les comtés du royaume qui ne sont pas de votre foi en Ibérie." #NT!
+ pod1230objectives.13.a: "Les Magisters sont ébranlés" #NT!
+ pod1230objectives.13.b: "Ils condamnent notre [Clan|E] !" #NT!
+ pod1230objectives.13.c: "Nous sommes les gardiens de sa parole" #NT!
+ pod1230objectives.14.t: "La petite farce" #NT!
+ pod1230objectives.14.desc: "Enfin tu es la! A Jérusalem !… ou était-ce la Bohême ? Eh bien, peu importe, votre voyage est terminé. Depuis si longtemps, vous avez le sentiment que vous êtes destiné à être ici avec vos frères et sœurs du [Clan|E] Malkavian à vos côtés. Ce n’était pas facile, il fallait demander gentiment, et parfois pas si gentiment, aux princes en cours de route. Vous avez même dû expulser certains d’entre eux de leurs trônes confortables. Vous entendez des tribunaux chuchoter que vous êtes sur le point de créer un [Clan|E] Malkavian unifié. C’est drôle parce que tu n’en as jamais eu l’intention, mais tu l’as quand même fait. Ce qui est important, c'est que vous soyez là maintenant, et que les voix deviennent plus fortes, vous disant de faire... des trucs ! Le temps de l’illumination est arrivé ! Ou était-ce le salut ? Vous n'êtes pas vraiment sûr. Bref, comment se passent les « trucs » ?" #NT!
+ pod1230objectives.14.a: "Les choses vont un peu mal !" #NT!
+ pod1230objectives.14.customa: "Vous obtiendrez les traits Génie et Astucieux le cas échéant au détriment du reste du [Clan|E] Malkav qui aura des niveaux de stress élevés." #NT!
+ pod1230objectives.14.b: "Les choses tournent mal !" #NT!
+ pod1230objectives.14.customb: "Tous les [Clan|E] Malkav obtiennent le trait Génie mais deviennent d'une manière ou d'une autre encore plus instables mentalement." #NT!
+ pod1230objectives.14.c: "Les choses vont très mal !" #NT!
+ pod1230objectives.14.customc: "[Clan|E] Malkav acquiert le trait Astucieux, mais les dirigeants des autres clans bénéficient d'un énorme gain de stress." #NT!
+ pod1230objectives.14.d: "La merde frappe le truc du toit qui tourne !" #NT!
+ pod1230objectives.14.customd: "[Clan|E] Malkav acquiert le trait Génie, mais les dirigeants des autres clans deviennent fous. Ce sont eux les fous maintenant." #NT!
+ pod1230objectives.15.a: "Je ne me sens pas si bien..." #NT!
+ pod1230objectives.15.b: "Je vois de nouvelles portes s'ouvrir ! Oh attends, non. Fermeture. Certainement en train de fermer..." #NT!
+ pod1230objectives.16.t: "La République éternelle" #NT!
+ pod1230objectives.16.desc: "« Chers amis, soyons honnêtes... Combien d'entre vous s'attendaient à ce que nous allions aussi loin si tôt ? Après la chute de notre fier Sénat aux mains de dirigeants corrompus et parasites, nos idéaux républicains semblaient perdus face aux envahisseurs tyranniques allemands, mortels et morts-vivants. Mais la lumière de Rome ne pourra jamais vraiment s’éteindre et elle continuera à nous guider alors que le soleil nous fuit toujours. Soyez fiers de notre héritage mais attentifs à nos ennemis. Nous ne devons plus jamais sombrer dans la complaisance ou la décadence, car nous avons vu quels temps sombres attendent notre espèce sans notre main directrice. Chers sénateurs de Rome, je suis heureux de déclarer ouverte la première session du Sénat éternel renouvelé ! »" #NT!
+ pod1230objectives.16.a: "Ça fait du bien de dépoussiérer enfin la toge." #NT!
+ pod1230objectives.17.a: "La non-vie est un cercle plat" #NT!
+ pod1230objectives.17.b: "Eh bien, nous sommes toujours au top de toute façon." #NT!
+ pod1230objectives.18.t: "Un lourd fardeau" #NT!
+ pod1230objectives.18.desc: "L’épée semble lourde dans votre main. Vous l'avez trouvé en explorant les ruines de l'utopie pour laquelle vous vous êtes tant battu, Carthage. Mais vous n’êtes pas un jeune, vous savez très bien que chaque mythe est un amalgame complexe de mensonges et de vérités. Un [Clan|E] entier vous regarde avec émerveillement. Allez-vous revendiquer le rôle de Troile et inaugurer un nouvel âge d'or pour les vampires ? Ce choix vous fera de nombreux nouveaux ennemis, et vous savez que même Troile n'avait pas réussi à protéger Carthage contre l'influence infernale. Ou revendiquerez-vous Carthage comme un outil politique, refusant son héritage mitigé ? Cette démarche vous fera gagner le respect de nombreux autres clans, mais vous ne serez alors pas meilleur que les Ventrue. L’épée de Troile à laquelle vous vous accrochez est un puissant symbole de ce choix difficile. Veux-tu… ?" #NT!
+ pod1230objectives.18.a: "Garder l'épée ?" #NT!
+ pod1230objectives.18.b: "Lâcher l'épée ?" #NT!
+ pod1230objectives.19.a: "Un ancien joueur revient au jeu." #NT!
+ pod1230objectives.19.b: "Il est temps de le brûler, encore une fois." #NT!
+ pod1230objectives.20.t: "Votre grand-mère attentionnée" #NT!
+ pod1230objectives.20.desc: "Baba Yaga est connue sous plusieurs noms : La Vieille, la Vieille, la Grand-Mère... Mais vous connaissez la vérité. C'est elle qui s'est enfuie, la seule survivante de la folle chasse d'Absimilliard contre son propre infant. L'ancêtre du [Clan|E] Nosferatu chasse toujours cette nuit et aurait déjà tué son propre [Clan|E] sans son défi continu. Elle dort maintenant, mais vous ressentez son plaisir alors que votre loyauté et vos efforts continus ont réussi à convaincre [Clan|E] Nosferatu de son côté dans la lutte en cours. La guerre finale pour le sort des Cachés commence et, en tant que champion de la grand-mère, vous n'avez pas l'intention de la laisser tomber." #NT!
+ pod1230objectives.20.a: "Nous te rendrons fière, grand-mère" #NT!
+ pod1230objectives.20.custom: "Tous les Nosferatu obéissent désormais aux ordres de Baba Yaga, et donc aux vôtres." #NT!
+ pod1230objectives.21.a: "Quelque chose mauvaise cette manière vient..." #NT!
+ pod1230objectives.21.b: "Bénis-nous, grand-mère !" #NT!
+ pod1230objectives.22.t: "Horreurs dans le noir" #NT!
+ pod1230objectives.22.desc: "Même les vampires ont peur des ombres. Mais votre [Clan|E] est bien plus que simplement effrayé, ils savent que quelque chose se cache là, attendant le moment de frapper. Ils se font appeler « Nictuku », descendants du fondateur, Absimilliard, qui ont juré de détruire ses enfants rebelles. Depuis la nuit des temps, vos frères et sœurs ont choisi de fuir, de se cacher dans l'ombre et de prier pour leur non-vie. Vous en avez marre de ça. Si le Fondateur veut une guerre, il la fera selon vos conditions. Au début, votre [Clan|E] se méfiait de votre initiative, la qualifiant d'imprudente, mais maintenant ils voient la vérité. Vous ne triompherez qu’unis, avec des terres et des peuples sous votre direction et des alliés dans la nuit. Ils se tournent désormais vers vous, se préparant à l’assaut et confiants dans vos compétences en leadership. Les Nictuku doivent siffler dans leurs trous, maudissant votre nom et complotant votre disparition. Laissez-les venir." #NT!
+ pod1230objectives.22.a: "Nous sommes plus forts que tu ne le penses, 'Père'" #NT!
+ pod1230objectives.23.a: "Les rats se blottissent les uns contre les autres ?" #NT!
+ pod1230objectives.23.b: "Il est temps d'affronter les horreurs." #NT!
+ pod1230objectives.24.t: "Un Dieu rêve" #NT!
+ pod1230objectives.24.desc: "Vous vous trouvez dans la crypte d'Ur-Shulgi, où dort le fils préféré de Haqim. Vous apportez de bonnes nouvelles, car [Clan|E] Assamite a enfin assumé son devoir de juge du sang. Il a fallu pas mal de... conviction de votre part pour nettoyer le [Clan|E] des anciens faibles d'esprit et des fanatiques des religions indignes. Le jugement final a commencé et, comme les enfants de Khayyin ont tous été jugés déficients, la réclamation a commencé. Sous votre direction, les Enfants de Haqim laveront bientôt le monde dans le sang, jusqu'à ce que seuls les purs restent debout. Vous voyez un frisson parcourir le corps d'Ur-Shulgi, avant d'être aveuglé par un soudain éclair de sang noir. Et, d'une manière ou d'une autre, vous comprenez que votre maître vient de vous donner une bonne longueur d'avance pour la purge à venir..." #NT!
+ pod1230objectives.24.a: "Le flot rouge a commencé." #NT!
+ pod1230objectives.24.custom: "La plupart des personnages Assamites [Clan|E] se convertiront sur le chemin de la justice." #NT!
+ pod1230objectives.24.customa: "L'attaque mentale d'Ur-Shulgi tuera la plupart des utilisateurs de sorcellerie sanguine non assamites." #NT!
+ pod1230objectives.25.a: "La Toile de Couteaux avait raison depuis le début." #NT!
+ pod1230objectives.25.b: "Je ne suivrai jamais ces cultistes trompés." #NT!
+ pod1230objectives.26.a: "Les étranges assassins orientaux sont en fait fous. Qui savait?" #NT!
+ pod1230objectives.27.t: "Une maison unie" #NT!
+ pod1230objectives.27.desc: "Le Trône Noir de Haqim se dresse fièrement au centre d'Alamut, votre forteresse. En vous asseyant dessus, vous regardez l'auguste assemblée qui attend vos paroles. Les représentants des trois castes, le Calife, Amr et Vizir, sont ici. Le Conseil des Parchemins est également présent, à proximité d'émissaires venus de tout le vaste réseau d'espions Haqimite. Tant de progrès en si peu de temps ! Tous ces enfants éminents de Haqim se seraient tranchés la gorge avant même d'entrer dans la même pièce, il n'y a pas si longtemps. Mais c'était avant votre ascension au rang d'Ancien du [Clan|E]. Par la force des armes, de l'intrigue et de la diplomatie, vous avez mis fin aux conflits internes, assuré la position [Clan|E] et rétabli la discipline comme valeur première des Assamites. Désormais, ils attendent tous votre vision de l’avenir. Vous savez qu'ils obéiront, car les enfants de Haqim ne sont rien sinon respectueux." #NT!
+ pod1230objectives.27.a: "L'héritage de Jamal, la Voie du Zélote." #NT!
+ pod1230objectives.27.custom: "Les personnages Haqimite recevront un modificateur de prouesse." #NT!
+ pod1230objectives.27.b: "L'héritage de Nakurtum, la Voie du Diplomate." #NT!
+ pod1230objectives.27.customb: "Les personnages haqimites recevront un modificateur de diplomatie." #NT!
+ pod1230objectives.27.c: "L'héritage d'Al-Ashrad, la Voie du Sorcier." #NT!
+ pod1230objectives.27.customc: "Les personnages haqimites recevront un modificateur d'apprentissage." #NT!
+ pod1230objectives.28.a: "L'Aîné est vraiment sage." #NT!
+ pod1230objectives.28.b: "Attendez, ils n'étaient pas unis avant ?" #NT!
+ pod1230objectives.29.t: "Le péché politique" #NT!
+ pod1230objectives.29.desc: "« La plupart des étrangers considèrent à tort la Via Peccati comme une route de simple satisfaction personnelle. À vrai dire, il s’agit d’une partie importante de la doctrine, mais la situation dans son ensemble est différente. Via Peccati est une question de contrôle et de sensibilisation politiques. Lorsque les [cainites|E] sont gâtés, leurs bêtes rassasiées, ce sont des créatures indolentes et faciles à contrôler. Le vrai pécheur connaît tous les désirs et tous les secrets de sa cour et les utilise à son avantage. En tant que telle, Rome étant contrôlée pendant si longtemps par une Via Peccati Ventrue ne doit pas nécessairement être une bizarrerie ou une exception, cela pourrait être la règle. Si je veux laisser un héritage à mes compatriotes pécheurs, c'est celui-ci : contrôlez le monde avec tous les excès auxquels vous pouvez penser et amusez-vous à le faire. » Camilla, première consule éternelle" #NT!
+ pod1230objectives.29.a: "La Via Peccati est le véritable chemin vers le pouvoir." #NT!
+ pod1230objectives.29.b: "Je l'ai toujours." #NT!
+ pod1230objectives.29.custom: "Votre foi se répandra, convertissant certains des [cainites|E] les plus... amicaux du monde." #NT!
+ pod1230objectives.30.a: "Je ne comprends pas pourquoi ils ne se sont pas encore cannibalisés." #NT!
+ pod1230objectives.30.b: "Satisfaire la Bête ET le pouvoir temporel ? La route parfaite." #NT!
+ pod1230objectives.31.t: "roi des rois" #NT!
+ pod1230objectives.31.desc: "Il y a des vérités claires dans la société [cainite|E]. Les Gangrels parcourent les étendues sauvages comme des sauvages, les Toréadors adorent les petites babioles, les Malkaviens sont perdus entre prophéties et folie... et, avec seulement les Lasombra les plus arrogants pour le nier, les Ventrues sont destinés à régner sur les Vampires. C’est un simple fait de non-vie, vrai depuis les nuits de la Seconde Ville, de la Perse et de Rome. Quelle que soit la religion ou la structure politique, chaque construction [cainite|E] est vouée à l'échec sans Ventrue à la barre. Cette vérité a souvent suscité une question parmi vos frères : qui dirige les dirigeants ? Très peu ont osé revendiquer le rôle de Ventrue lui-même en tant que seigneur du premier [cainite|E] [Clan|E]. Maintenant, vous faites partie de ces rares. La guerre des princes est peut-être toujours en cours, mais personne ne nierait que les Ventrue ne sont plus de simples rois des morts-vivants. Ce sont des empereurs." #NT!
+ pod1230objectives.31.a: "D'abord [Clan|E] Ventrue, maintenant le monde." #NT!
+ pod1230objectives.32.a: "Des salauds arrogants." #NT!
+ pod1230objectives.32.b: "L'ordre naturel des choses est respecté." #NT!
+ pod1230objectives.33.t: "La foi dans l'ombre" #NT!
+ pod1230objectives.33.desc: "« Notre [Clan|E] est un [Clan|E] de dirigeants. Oui, les Ventrues revendiquent également ce titre, mais ils ne comprennent pas la véritable gouvernance. La véritable gouvernance n’est pas une question de pouvoir, ni même d’influence. Il s’agit d’une action décisive. Prenons comme exemple la crise du [ashirra|E]. Au moment où cela a attiré mon attention, beaucoup ont proposé des conseils, prônant la prudence et la patience. Ils affirmaient que nos frères perdus pouvaient être pardonnés et que les [Clan|E] s'unissaient à nouveau dans le temps. Je n'étais pas d'accord. Et, comme le lecteur érudit le sait, les [ashirra|E] ne sont désormais qu'une simple note de bas de page dans l'histoire du [cainite|E], en raison de l'utilisation décisive de tous les atouts du [Clan|E] dont je dispose en ce moment. La miséricorde et la compassion auraient semé la désunion au sein du [Clan|E] et le mouvement [ashirra|E] pourrait encore exister à ce jour ! Prenez ce conseil à cœur, cher frère ou sœur, fixez-vous un objectif et ne vous relâchez pas tant que vous ne l'avez pas atteint. Alors, et alors seulement, vous maîtriserez l’art de diriger les Lasombra.’ [Clan|E] Chroniques de Lasombra p45" #NT!
+ pod1230objectives.33.a: ""Et maintenant, parlons de l'art de la manipulation des ombres..."" #NT!
+ pod1230objectives.33.custom: "Les dirigeants indépendants [ashirra|E] verront leur autorité s’effondrer." #NT!
+ pod1230objectives.34.a: "La politique des Lasombra est une affaire sanglante." #NT!
+ pod1230objectives.34.b: "Une page de notre histoire [Clan|E] se tourne." #NT!
+ pod1230objectives.35.t: "Croissant sur les ombres" #NT!
+ pod1230objectives.35.desc: "Des murs de Médine au Castel d’Ombro, le Faqih surveille son empire et se demande : « Mon peuple est-il en sécurité ? Alors que la dernière bataille se termine par une victoire, le Faqih se demande : « Comment puis-je éviter davantage d’effusion de sang ? Lorsque tous les [ashirra|E] se tournent vers lui pour obtenir des conseils, une protection et des conseils, le Faqih n'est pas fier, il est humilié. En revêtant ses nouveaux insignes, dignes d'un Calife éternel, le Faqih pense à l'avenir, aux meilleurs moyens de s'assurer que les fidèles [cainites|E] seront en sécurité, pour toujours. Et lorsque le dernier des kuffar Lasombra est remis sur pied, le Faqih demande : « Choisirez-vous le Croissant… ou le Soleil ?" #NT!
+ pod1230objectives.35.a: "Une fin et un début" #NT!
+ pod1230objectives.35.custom: "Les personnages Lasombra survivants recevront une dernière chance de se convertir." #NT!
+ pod1230objectives.36.a: "...Le Croissant." #NT!
+ pod1230objectives.36.b: "Jamais! Cette guerre n'est pas finie, [ashirra|E] !" #NT!
+ pod1230objectives.37.a: "Est-ce la fin du [Clan|E] Lasombra ?" #NT!
+ pod1230objectives.38.t: "La vérité jusqu'à Caïn" #NT!
+ pod1230objectives.38.desc: "« Ils ont dit que la mort de Narsès, notre premier archevêque, serait notre fin. Nous avons enduré. Ils disaient que le meurtre du pieux évêque de Saint-Lys par le païen Anatole était juste. Nous n’avons pas oublié. Ils disaient que notre religion était une abomination, une parodie des traditions de Caïn. Nous croyions fermement au Troisième Caïn et à la cruauté du Démiurge. Ils disaient que nous serions bientôt un mauvais souvenir, un vestige d’une époque oubliée. Nous sommes plus forts que jamais. Ils ont dit que l'Église mortelle et son Inquisition nous achèveraient. Nous nous tenons fièrement dans la Ville sainte et les agents de l’Église détestée de Pilate se recroquevillent devant nous. Maintenant? Ils ne disent rien et prient avec nous." #NT!
+ pod1230objectives.38.a: "Bientôt, le Troisième Caïn nous bénira" #NT!
+ pod1230objectives.38.custom: "La résurgence de l’Église convertira certains opportunistes à notre cause." #NT!
+ pod1230objectives.39.a: "Il est temps de rejoindre le camp des gagnants." #NT!
+ pod1230objectives.39.b: "Ils finiront quand même par échouer." #NT!
+ pod1230objectives.40.a: "Un retour improbable." #NT!
+ pod1230objectives.41.t: "L'œil du cyclone" #NT!
+ pod1230objectives.41.desc: "Nous sommes les fils et les filles de Gengis et de Dobrul. Comme eux, nous sommes des conquérants, comme l’a prouvé notre rapide conquête des steppes occidentales. Mais désormais, nous devons aussi être des diplomates et des hommes d’État. Les Wan Kuei préparent leur vengeance, et notre solide bastion à l'ouest sera un point crucial dans la protection de l'héritage de Dobrul. A ce titre, nous devons encore conquérir, oui, mais nous devons aussi nous faire des alliés, comme nos cousins ​​occidentaux des Gangrel [Clan|E]. Soyez miséricordieux lorsque vous gagnez, gracieux lorsque vous perdez et impitoyable lorsque vous êtes contrarié. Soyez fier de vos ancêtres, de votre famille et de votre [Clan|E], mais soyez assez sage pour savoir quand même leur aide ne suffit pas. Ne laissez pas l’orgueil vous aveugler sur les avantages des alliances temporaires avec les Occidentaux. En combinant les anciennes et les nouvelles méthodes, nous écraserons la contre-attaque de Wan Kuei et alors... alors le monde sera à nous." #NT!
+ pod1230objectives.41.a: "Venez, Démons de Xia, nous sommes prêts" #NT!
+ pod1230objectives.41.custom: "Le Gangrel occidental, impressionné par votre conquête rapide, sera réceptif à votre diplomatie pendant un certain temps." #NT!
+ pod1230objectives.41.customb: "Vous avez retardé l'invasion des Wan Kuei pendant un moment." #NT!
+ pod1230objectives.42.a: "Y a-t-il encore plus de menaces venant de l’Est ?" #NT!
+ pod1230objectives.42.b: "Nos cousins ​​sont très impressionnants." #NT!
+ pod1230objectives.43.t: "Des loups à la porte" #NT!
+ pod1230objectives.43.desc: "« La chute de la civilisation médiévale [cainite|E] remonte à peu de temps après la première chute de la mortelle Constantinople. L’incendie du Rêve de Michael, par trahison, était un signe avant-coureur ironique des années à venir. Les soi-disant Hauts Clans pensaient que leur position et leurs empires étaient sûrs et, dans leur arrogance, complotaient les uns contre les autres et ne voyaient pas la véritable menace. Lorsque la horde Gangrel a déferlé sur l’Europe et a mis à terre les puissants, cela n’a guère été une surprise pour l’observateur érudit. Matasuntha avec les Huns, et le [einherjar|E] avec les Vikings ; tous deux étaient des précurseurs du puissant seigneur de guerre qui a uni les Gangrel [Clan|E] disparates en une force imparable. Avec la chute des châteaux et la mort des princes, une nouvelle ère de l'histoire [cainite|E] commença. L'ère des Gangrels.''Ascension et chute, sur la civilisation [cainite|E]' par Cuthbert Beckett." #NT!
+ pod1230objectives.43.a: "Pas si haut et puissant maintenant" #NT!
+ pod1230objectives.43.custom: "Les dirigeants civilisés subiront une lourde pénalité en matière de contrôle et de guerre alors que leur autorité s'effondrera sous l'assaut des loups." #NT!
+ pod1230objectives.44.a: "Nous avons trop longtemps ignoré la nature sauvage" #NT!
+ pod1230objectives.44.b: "Il est temps de démolir quelques châteaux !" #NT!
+ pod1230objectives.45.t: "La Volonté de Tremere" #NT!
+ pod1230objectives.45.desc: "En vous agenouillant devant lui, vous pouvez ressentir l'envie de tous les [Clan|E]. Tremere ne se réveille pas pour n'importe qui. Mais vous n'êtes pas n'importe qui. Avant votre ascension, le [Clan|E] était menacé, sa place dans la nuit pour le moins ténue. Maintenant? Les démons sont une triste plaisanterie, seuls dans leurs châteaux en ruine. Ces infernalistes sournois, les voleurs d’âmes, sont détruits. Tous les frères européens vous remercient d’avoir écrasé leurs derniers résistants. Le Tremere [Clan|E] est en bonne voie vers sa juste destinée, devenant maître de la nuit. Alors que vous vous tenez devant lui, Tremere dit simplement "Vous avez bien fait". Pour la première fois, Tremere aura une voix pour exprimer sa volonté, quelqu'un en qui il a suffisamment confiance pour être le seigneur du Cercle Intérieur. Toi." #NT!
+ pod1230objectives.45.a: "Je suis au sommet de la Pyramide" #NT!
+ pod1230objectives.45.custom: "Vous déclencherez une malédiction paralysante sur Tzimisce, Salubri et les thaumaturges voyous." #NT!
+ pod1230objectives.46.a: "Ils sont toujours les [Clan|E] des usurpateurs" #NT!
+ pod1230objectives.46.b: "L'immortalité et le pouvoir sont enfin nôtres" #NT!
+ pod1230objectives.47.t: "Changement éternel" #NT!
+ pod1230objectives.47.desc: "Lorsqu’ils entrent dans la pièce, vous savez que la plupart d’entre eux ne la quitteront pas. Ils ont répondu à votre convocation parce qu'ils n'avaient pas le choix. Car vous êtes le Marteau des Tremere, le Destructeur des Ventrue et aucun Tzimisce ne peut plus vous ignorer. Cela ne veut pas dire pour autant qu’ils vous respectent. Vous reculez sur votre trône, alors que vos gardes entrent et commencent à massacrer les inutiles. Ils plaident pour leur vie, maudissent votre nom ou tentent de vous joindre mais vous êtes concentré sur une question bien plus importante : quel groupe épargner ? Vous devez vous emparer une fois pour toutes du Tzimisce [Clan|E] pour vous-même, mais vous ne pouvez pas le faire seul. Alors que vous écrasez la tête d'un homme audacieux qui vous a sauté à la gorge, vous savez que vous devez prendre votre décision maintenant, sinon vous régnerez sur un tas de cendres." #NT!
+ pod1230objectives.47.a: "Gardes, épargnez les descendants des dynasties dirigeantes." #NT!
+ pod1230objectives.47.custom: "Vous renforcez [Clan|E] Tzimisce dans son ensemble, assurant son héritage de dirigeants intimidants." #NT!
+ pod1230objectives.47.b: "Estimés prêtres Koldun, j'espère que vous n'êtes pas trop gênés." #NT!
+ pod1230objectives.47.customb: "Les personnages Tzimisces seront convertis en Via Mutationis." #NT!
+ pod1230objectives.47.c: "Toi là! Celui à capuche ! Avancez…" #NT!
+ pod1230objectives.47.customc: "D'autres personnages Tzimisces seront drainés pour alimenter votre ascension vers le pouvoir démoniaque." #NT!
+ pod1230objectives.48.a: "Un [Clan|E] Tzimisce uni est une perspective effrayante..." #NT!
+ pod1230objectives.48.b: "La volonté de l'Aîné en jeu, sans doute" #NT!
+ pod1230objectives.49.t: "Connaissance interdite" #NT!
+ pod1230objectives.49.desc: "Toute la connaissance du monde… à portée de main. Est-ce ce que ressentaient Adam et Ève avant la Pomme ? Il a fallu beaucoup de temps et un investissement massif pour récupérer les fragments brisés du Codex, perdus après que Constancia l'ait brisé lors de son combat avec Lazarus. Mais c'est désormais chose faite, et le Codex brille devant vous, vous incitant à vous rapprocher, à ne lire qu'une petite phrase. Vous connaissez les rumeurs, ce texte sans prétention a été écrit par Cappadocius lui-même, alors nommé Sargon, et contient tous les rituels, connaissances et prophéties d'Enoch. Apparemment, un moyen de devenir l'égal de Dieu se trouve également quelque part ici, presque terminé par Sargon avant son [Embrace|E]. Mais vous savez au plus profond de votre âme que ce Codex n’est pas destiné aux mortels, ni même aux vampires, et que votre santé mentale pourrait être détruite de manière irréparable. À mesure que votre main se rapproche, vous faites un dernier choix…" #NT!
+ pod1230objectives.49.a: "Je soumettrai le Codex à ma volonté !" #NT!
+ pod1230objectives.49.b: "… Brisons encore cette chose et oublions-la." #NT!
+ pod1230objectives.49.custom: "Vos frères Cappadociens vous seront reconnaissants de votre prudence." #NT!
+ pod1230objectives.50.a: "Il vaut mieux laisser certains secrets enfouis…" #NT!
+ pod1230objectives.50.b: "Touche ça! Ça va être amusant!" #NT!
+ pod1230objectives.51.t: "La Conspiration" #NT!
+ pod1230objectives.51.desc: "Tandis que vous enfoncez vos crocs dans son cou, le temps semble ralentir autour de vous. Des images commencent à apparaître aux limites de la conscience, alors que vous dérivez vers une extase bienheureuse. Vous vous voyez, oint Chef de l'illustre famille Giovanni, dans votre fief italien. Vous voyez votre petit conseil composé de membres de confiance de votre famille, vous aidant à planifier votre grande conspiration. Vous voyez la nuit de l'Europe redéfinie par votre empire marchand grandissant, tous les clans acceptant à contrecœur votre nouvelle présence, vos sages conseils et votre nouvelle importance, bien loin de l'inutilité de vos frères cappadociens. Vous voyez la Conspiration se mettre en branle, en utilisant tous vos atouts pour en faire le succès retentissant qu’elle mérite. Alors que vous reprenez vos esprits, et que le fou est réduit en cendres, vous voyez votre famille… non, votre [Clan|E]… autour de vous. La nuit ne fait que commencer. Et ce sera celui de Giovanni." #NT!
+ pod1230objectives.51.a: "Frères et sœurs, il est temps que la Purge commence" #NT!
+ pod1230objectives.51.custom: "[Clan|E] Giovanni se séparera du [Clan|E] Cappadocien et mettra la conspiration en mouvement. Giovanni sera très efficace pour intriguer pendant un certain temps, et le Cappadocien y sera très sensible." #NT!
+ pod1230objectives.52.a: "Cette apparition soudaine de Clans Usurpateurs commence à devenir inquiétante..." #NT!
+ pod1230objectives.52.b: "La Purge commence, mieux vaut être préparé." #NT!
+ pod1230objectives.53.t: "Nouveaux commencements" #NT!
+ pod1230objectives.53.desc: "Dans une tournure surprenante des événements, le règne corrompu des Aînés qui existait depuis la nuit des temps a été remis en question. Vous ne savez pas exactement quel a été le catalyseur ni si cet état de choses durera aussi longtemps que vos ennemis complotent pour écraser votre rébellion naissante. Mais, à la suite de votre combat contre les princes de la nuit, nombreux sont ceux qui se sont rassemblés pour rejoindre votre cause. Certains suivent votre exemple, tandis que d’autres ont commencé à expérimenter de nouvelles constructions politiques. C'est en effet une nouvelle nuit étrange, alors que vous vous retrouvez dans la position d'un gardien de la paix respecté entre les différentes factions qui prennent vie. Vous n’êtes pas un dirigeant à l’ancienne, mais le roc solide qui défend les États libres des contre-attaques et des interférences mortelles. Il s’agit d’une position précaire, d’un honneur douteux, encadrée de dangers et de menaces à tous les niveaux. Mais en réalité, il n’y a aucun autre endroit où vous préféreriez être en ce moment." #NT!
+ pod1230objectives.53.a: "Nous entrons avec audace dans une nouvelle ère." #NT!
+ pod1230objectives.54.a: "Nous devons enseigner à ces jeunes leur place." #NT!
+ pod1230objectives.54.b: "La révolution est en marche." #NT!
+ pod1230objectives.55.t: "L'étreinte du serpent" #NT!
+ pod1230objectives.55.desc: "« Autrefois, tu étais aveugle à la beauté de Seth. Vous vous êtes appelés [cainites|E], car un faux ancêtre vous a trompé pour que vous l'adoriez. Maintenant, vous le savez mieux, seul un Dieu devrait être adoré. Un Dieu miséricordieux, car il pardonnera vos transgressions passées à son encontre, mais aussi un Dieu vengeur car à partir de cette nuit, les derniers [cainites|E] seront qualifiés d'ennemis de Set et convertis, ou amenés devant l'œil inébranlable de Ra. Il n’y aura pas de répit jusqu’à ce que toute l’Europe loue Son nom glorieux, alors, et alors seulement, Il nous bénira avec Son retour ! … Venez, les enfants, prions dans le temple pour l'arrivée de ce temps glorieux. Ensuite, profitez des récompenses de votre choix judicieux, car la nuit est encore jeune… »" #NT!
+ pod1230objectives.55.a: "Il n'y a pas de [cainites|E], seulement des Setites." #NT!
+ pod1230objectives.55.custom: "Certains des [cainites|E] les plus... avant-gardistes d'Europe et au-delà se convertiront à la glorieuse vérité." #NT!
+ pod1230objectives.55.customb: "Vous obtiendrez des revendications sur vos ennemis ancestraux, les Assamites [Clan|E]." #NT!
+ pod1230objectives.56.a: "Ces fous égyptiens ont peut-être raison..." #NT!
+ pod1230objectives.56.b: "Louez Set et saluez son retour imminent !" #NT!
+ pod1230objectives.57.t: "Le bilan" #NT!
+ pod1230objectives.57.desc: "Cela devrait être le moment de votre plus grand triomphe… Alors pourquoi cela semble-t-il si creux ? Contre toute attente, vous avez éloigné votre [Clan|E] du bord de l'extinction, vous êtes vengé contre les Tremere et avez pacifié une fois de plus les Baali, puisque c'est votre devoir. Mais en chemin, vous avez perdu bien plus encore. Saulot était un gardien, une âme bienveillante, qui aurait versé tant de larmes pour les sacrifices, le sang et la douleur que vous avez apportés sur votre chemin. Ils vous appellent « l’Ange vengeur », car vous avez été sans pitié et, peut-être, avez-vous été fidèle aux rumeurs que les Tremere ont racontées à propos de votre [Clan|E]. Vous êtes l'épée des Salubriens, la lumière du [Clan|E]. Mais vous êtes également perdu, sans âme et constituez la plus grande menace pour votre propre peuple maintenant que vos ennemis ont été vaincus. Maintenant, comme bien d’autres fois, vous sentez l’œil vigilant de Saulot sur vous, vous offrant une dernière chance de vous arrêter avant qu’il ne soit trop tard…" #NT!
+ pod1230objectives.57.a: "Saulot avait tort, ils paieront tous." #NT!
+ pod1230objectives.57.b: "Ce que j'ai fait? Père, pardonne-moi..." #NT!
+ pod1230objectives.57.custom: "Les mensonges Tremere sur votre [Clan|E] sont révélés et ils subissent un revers politique majeur." #NT!
+ pod1230objectives.58.a: "[Clan|E] Salubri est de retour sur le plateau." #NT!
+ pod1230objectives.58.b: "Démons ! Voleurs d'âmes !" #NT!
+ pod1230objectives.59.t: "La fin des âges" #NT!
+ pod1230objectives.59.desc: "« Vous construisez des empires au-delà de l'imagination, le summum de la réussite humaine et [cainite|E], l'envie du monde… Pensiez-vous que cela durerait ? Vos villes prestigieuses, monuments de pouvoir, de sagesse et de gloire, sont debout, mais elles gisent blessées par des chacals, encerclées par des vautours, transpercées à mort par mille petites coupures, abattues par votre propre arrogance. C’est l’agonie des Enfants de Caïn, la lumière de la civilisation s’éteint. Prenez le peu de temps précieux qu'il vous reste pour faire la paix avec vos péchés car même au moment de votre défaite finale, vous ne trouverez aucun réconfort dans l'oubli… Je viens pour vous. J'arrive avec des millions. J'apporte la fin des âges ! Je suis le Fléau des Dieux ! C’est la troisième guerre Baali… et il n’y en aura pas de quatrième." #NT!
+ pod1230objectives.59.a: "Je regarderai votre monde brûler." #NT!
+ pod1230objectives.60.a: "Nous devons les vaincre à tout prix !" #NT!
+ pod1230objectives.60.b: "Ainsi commence l'histoire..." #NT!
+ pod1230objectives.61.t: "Protéger le mal" #NT!
+ pod1230objectives.61.desc: "Il y a des horreurs qui se cachent en dessous que même le [cainite|E] le plus fidèle n'oserait imaginer. Vous les appelez « Enfants », car ce sont les Enfants des premières nuits, avant le début de l'humanité. Ces créatures sont endormies et personne ne les connaît plus, sauf votre ordre. Vous comprenez qu'ils ne peuvent pas être détruits, mais seulement nourris pour les maintenir en sommeil. Et, alors qu’ils se nourrissent d’innocents, votre peuple suscite la méfiance, le qualifiant d’infernaliste et pire encore. Mais quelqu’un doit le faire, et seul votre peuple en a le courage. Maintenant que vous avez purgé vos frères fous de l'Ordre d'Azaneal, les enfants peuvent continuer leur sommeil et le monde peut continuer à tourner. Votre commande le conservera, quel qu'en soit le prix." #NT!
+ pod1230objectives.61.a: "Et ainsi, notre surveillance continue." #NT!
+ pod1230objectives.62.a: "Déambulation insensée d'adorateurs malfaisants." #NT!
+ pod1230objectives.62.b: "Nous ne pouvons qu'espérer un sommeil sans rêves." #NT!
+ pod1230objectives.63.t: "Ouest et Est" #NT!
+ pod1230objectives.63.desc: "[Clan|E] Ravnos a des racines profondes en Inde, où il est respecté en tant que [Clan|E] de dirigeants dotés d'une sage autorité. Cependant, dans le monde occidental, les Ravnos étaient un mélange incohérent de confessions religieuses contradictoires, souvent mal comprises et rejetées par les pouvoirs locaux. Cette longue oppression a pris fin avec votre ascension vers la notoriété. Pour la première fois, un Ravnos détient un pouvoir considérable à l’ouest et peut défier même sa classe dirigeante [cainite|E] bien implantée. Mieux encore, cela a attiré l'attention des membres de votre clan en Inde, qui ont envoyé des ambassadeurs pour féliciter leurs parents rebelles et appeler à une alliance. Certains se demanderont cependant... Où étaient-ils pendant les nuits les plus sombres de vos frères en Europe ? Mais c'est peut-être le moment du pardon..." #NT!
+ pod1230objectives.63.a: "Nous avons un nouveau pays, mais nous n'oublierons pas l'Inde." #NT!
+ pod1230objectives.63.b: "Le nouveau [Clan|E] Ravnos ne s'oublie pas si facilement." #NT!
+ pod1230objectives.63.custom: "L'autorité des clans traditionnels occidentaux, Ventrue, Lasombra et Tzimisce, sera remise en question par votre ascension pendant un certain temps." #NT!
+ pod1230objectives.63.customb: "Les Ravnos de l'Est enverront un candidat fort pour le [Embrace|E] en cadeau. Ce personnage deviendra votre courtisan." #NT!
+ pod1230objectives.64.a: "Nous avons déjà assez de « Ruling [Clan|E] »." #NT!
+ pod1230objectives.64.b: "Une nouvelle ère lumineuse pour nos proches." #NT!
+ pod1230objectives.65.t: "Mettre fin à l'éternel" #NT!
+ pod1230objectives.65.desc: "L'Inde n'a jamais été en paix. Les Asuratizayya, ou Wan Kuei dans leur langue, ont constamment empiété sur nos terres, utilisant nos divisions internes pour nous monter les uns contre les autres. Ces soi-disant démons affamés ne se soucient pas de nos traditions et n'hésitent pas à utiliser les tactiques les plus sournoises pour accroître leur avantage, dans leur soi-disant « guerre basse ». Parfois, nous avons été poussés au bord de l’extinction à cause des pactes démoniaques qu’ils concluent si facilement. Mais maintenant, l’Inde se réveille. Qu'ils soient Ravnos, Nagaraja ou Danava, les autochtones [cainites|E] retrouvent la force et l'unité de but. Ne vous y trompez pas, la guerre éternelle ne sera pas terminée tant qu'aucun Wan Kuei n'osera parcourir nos terres. En tant que nouveau Chakravarti de l'Inde, ceci est mon premier commandement : tuez-les tous." #NT!
+ pod1230objectives.65.custom: "Wan Kuei survivant sera traqué sans relâche." #NT!
+ pod1230objectives.65.customb: "Vous unifierez l’Inde en un nouvel empire." #NT!
+ pod1230objectives.65.a: "L'Inde contre-attaque." #NT!
+ pod1230objectives.66.a: "L’Inde avance enfin." #NT!
+ pod1230objectives.66.b: "Ce n'est qu'un revers." #NT!
+ pod1230objectives.67.t: "L'Ascension du Soleil Écarlate" #NT!
+ pod1230objectives.67.desc: ""... À vrai dire, vous auriez dû vaincre ces barbares il y a des siècles." Vous pouvez à peine empêcher votre démon intérieur de déchirer la gorge de l'ambassadeur du Home Courts venu vous « féliciter » pour votre victoire. Des milliers de Wan Kuei ont échoué lors de l'invasion de l'Inde avant que vous ne preniez les commandes, mais vous êtes à peine reconnu par vos pairs, et leur mépris pour votre nouvelle cour se manifeste à chaque instant. Ils n'ont aucune idée de la réalité de la situation ici, les Wan Kuei auraient même pu perdre si vous n'étiez pas intervenu pour sauver la nuit. Néanmoins, vous en avez besoin si vous voulez poursuivre de plus grandes ambitions et devenir un ancêtre à part entière... n'est-ce pas ? Il n'y aura pas de meilleure occasion de devenir un voyou que sur le dos de votre plus grand triomphe..." #NT!
+ pod1230objectives.67.custom: "Vous unifierez l’Inde en un nouvel empire." #NT!
+ pod1230objectives.67.a: "Envoyez mes plus sincères remerciements aux ancêtres vénérés." #NT!
+ pod1230objectives.67.b: "J'annoncerai mon indépendance à vos maîtres. Avec ta tête." #NT!
+ pod1230objectives.68.a: "Les Démons Asiatiques ont remporté cette manche." #NT!
+ pod1230objectives.68.b: "Une nouvelle Cour s'élève. Avec toutes ses opportunités." #NT!
+ pod1230objectives.69.t: "Le royaume d'ébène" #NT!
+ pod1230objectives.69.desc: "Les morts-vivants en Afrique proviennent de diverses sources, depuis les enfants de Caïn jusqu'à la sorcière auto-créée des Ramanga, mais ils partagent tous un sentiment d'affinité culturelle, les amenant à se présenter comme des « Laibon ». Jusqu'à présent, cela n'a pas été plus que cela, la façade de l'unité se fissurant facilement sous la pression de personnes extérieures, qu'elles soient [ashirra|E] [cainites|E] ou même des ennemis plus âgés. Les temps changent cependant, car les morts-vivants africains ont trouvé un chef commun, celui qu'ils appellent le « Premier Magaji ». Ce ne sera pas une tâche facile, car vos frères ne sont pas habitués à l’unité et les esprits sont déjà vifs. Mais, jusqu’à présent au moins, vous bénéficiez du doute et du respect à contrecœur de vos pairs. C’est plus que n’importe qui avant vous." #NT!
+ pod1230objectives.69.a: "Un leader partagé pour une unité partagée." #NT!
+ pod1230objectives.70.a: "Pour le meilleur ou pour le pire, l’Afrique s’élève." #NT!
+ pod1230objectives.70.b: "Nous suivrons ces récits avec un vif intérêt." #NT!
+ pod1230objectives.71.t: "L'épée de Dieu brille" #NT!
+ pod1230objectives.71.desc: "Ordre le plus militant de l'Inquisition de l'Ombre, les Chevaliers d'Acre ont toujours été les plus désireux de centraliser la jeune organisation. Peut-être trop enthousiaste, diraient certains, car le fanatisme des Chevaliers confine parfois à une frénésie rampante, ne distinguant pas vraiment les amis des ennemis.\nLes temps ont changé cependant, et la destruction finale de certains de leurs plus anciens ennemis et la purge de Constantinople ont forgé le L'épée de Dieu en une nouvelle arme plus mortelle. Mais aussi un plus précis et plus subtil si nécessaire, garantissant que l'Inquisition n'aura plus jamais à faire face à des troubles internes de leur part.\nGauthier, alors qu'il nous regarde depuis le Ciel, doit enfin sourire." #NT!
+ pod1230objectives.71.custom: "Vous faites un pas de plus vers l’unification de l’Inquisition de l’Ombre." #NT!
+ pod1230objectives.71.customb: "La recrue la plus élite des Chevaliers d'Acre a rejoint votre cour" #NT!
+ pod1230objectives.71.a: "L'enfer n'a pas la fureur d'un chevalier méprisé." #NT!
+ pod1230objectives.72.a: "L'Inquisition de l'Ombre illumine..." #NT!
+ pod1230objectives.72.b: "Une victoire pour la Sainte Église." #NT!
+ pod1230objectives.73.t: "La main attentionnée de Dieu" #NT!
+ pod1230objectives.73.desc: "Les Sœurs de Saint-Jean constituent peut-être l'ordre le moins visible de l'Inquisition, mais elles accomplissent le devoir le plus dur. En proie à des visions qui rendent beaucoup de gens fous, les sœurs supportent un fardeau auquel peu d'entre elles pourraient espérer survivre.\nLeur engagement envers la cause a parfois diminué, et certaines ont pensé qu'elles choisiraient de se retirer dans la vie monastique, dans le l'espoir de conjurer ces visions traumatisantes. Mais les sœurs n'ont pas encore fini : au cours d'une cérémonie calme et digne, elles ont renouvelé leur participation à la grande cause. Leurs souffrances ne prendront fin que lorsque la dernière âme damnée sera purgée de la Terre de Dieu." #NT!
+ pod1230objectives.73.custom: "Vous faites un pas de plus vers l’unification de l’Inquisition de l’Ombre." #NT!
+ pod1230objectives.73.customb: "La recrue la plus élite des Sœurs de Saint-Jean a rejoint votre cour" #NT!
+ pod1230objectives.73.a: "Les Bienheureuses ne reculeront pas devant leur devoir" #NT!
+ pod1230objectives.75.t: "Les yeux ouverts" #NT!
+ pod1230objectives.75.desc: "L'Oculi Dei est un mal nécessaire, la police secrète de l'Inquisition s'étant vu confier la tâche ingrate de surveiller les chasseurs. Composés de fous complètement paranoïaques si l'on en croit les autres Inquisiteurs, ils ont encore découvert de nombreux nids de corruption à l'intérieur de la Sainte Église.\nMalgré la pression constante de la simple dissolution de l'ordre, l'Oculi Dei est toujours là et a discrètement purgé son plus de membres extrémistes. Récemment, ils ont gagné le respect à contrecœur des autres ordres, qui les considèrent désormais comme un outil utile, quoique dangereux.\nLes yeux sont désormais entièrement tournés vers les serviteurs du Mal, qu'ils soient à l'intérieur ou à l'extérieur de l'Église." #NT!
+ pod1230objectives.75.custom: "Vous faites un pas de plus vers l’unification de l’Inquisition de l’Ombre." #NT!
+ pod1230objectives.75.customb: "La recrue la plus élite de l'Oculi Dei a rejoint votre cour" #NT!
+ pod1230objectives.75.a: "Le mal ne pourra plus se cacher" #NT!
+ pod1230objectives.77.t: "Gardiens des secrets" #NT!
+ pod1230objectives.77.desc: "L'Ordre Rouge a eu une histoire compliquée avec l'Inquisition. Sa quête de connaissances est inestimable, car elle contrecarre la nature secrète des serviteurs de l’Enfer. Mais cela a également placé les membres de l'Ordre dans une position dangereuse, où la corruption et les livres interdits se cachent à chaque coin de rue.\nAprès la destruction de certaines des influences vampiriques les plus insidieuses d'Italie, l'Ordre Rouge est mieux équipé pour juger ce qui mérite d'être poursuivi, et ce qui doit être détruit.\nAvec cette nouvelle orientation, l'Ordre Rouge est un atout plus puissant pour l'Inquisition qu'il ne l'a jamais été." #NT!
+ pod1230objectives.77.custom: "Vous faites un pas de plus vers l’unification de l’Inquisition de l’Ombre." #NT!
+ pod1230objectives.77.customb: "La recrue la plus élite de l'Ordre Rouge a rejoint votre cour" #NT!
+ pod1230objectives.77.a: "Connaissance sans tentation" #NT!
+ pod1230objectives.79.t: "Travailler avec des profanes" #NT!
+ pod1230objectives.79.desc: "La Maison von Murnau est un étrange allié des autres ordres de l'Inquisition. Maison noble allemande, sans réel lien avec le clergé, ils sont bénis (ou certains disent maudits) par Dieu pour pouvoir littéralement sentir le Mal. Ce pouvoir, et le leadership fort de personnalités comme Otto et Leopold von Murnau, en ont fait de fidèles alliés du Saint-Siège.\nMalgré cela, il a fallu un certain temps pour que toute la famille prolifique von Murnau adhère aux côtés du Saint-Siège. Projet Inquisition. Désormais en sécurité dans leurs possessions allemandes, ils sont prêts à jouer leur rôle dans la guerre de l’ombre avec encore plus de zèle." #NT!
+ pod1230objectives.79.custom: "Vous faites un pas de plus vers l’unification de l’Inquisition de l’Ombre." #NT!
+ pod1230objectives.79.customb: "Le descendant le plus élitiste des Von Murnau a rejoint votre cour" #NT!
+ pod1230objectives.79.a: "La noblesse pour une pieuse cause" #NT!
+ pod1230objectives.81.t: "De l'ombre à la lumière" #NT!
+ pod1230objectives.81.desc: "Bien qu'elle ait été fondée par des individus extraordinaires, la Shadow Inquisition a toujours été fragile. En plus des ennemis féroces, mais évidents que sont les sangsues, les conflits internes entre les ordres disparates étaient un problème toujours présent. Il semblait presque que l'Inquisition était destinée à tomber plusieurs fois.\nPas plus. Après avoir remporté une série de victoires clés contre les vampires, l'Inquisition de l'Ombre émerge plus forte que jamais et plus unie dans ses objectifs qu'auparavant. Aucun serviteur des ténèbres ne peut plus percer le bouclier de l'humanité.\nL'Inquisition a gagné et promulguera bientôt le jugement final de Dieu sur le [cainites|E]." #NT!
+ pod1230objectives.81.a: "La bataille finale commence" #NT!
+ pod1230objectives.83.t: "Le début de la fin" #NT!
+ pod1230objectives.83.desc: "La secte la plus ancienne du monde, la Tal'mahe'Ra travaille sans relâche pour détruire la race [cainite|E], hâtant la Géhenne d'atteindre cet objectif.\nLe contact perdu entre les parties orientale et occidentale de la secte, coupées par la Perse Assamite, a a été un obstacle majeur pendant des siècles, un obstacle que vous venez de réparer. Avec à nouveau la True Black Hand, des succès majeurs ont été obtenus vers l'objectif ultime. Avec le réseau massif d'agents à la disposition de la secte, une sombre guerre de manipulation et de tromperie a commencé, dans l'espoir de déstabiliser les institutions [cainite|E].\nDans le chaos qui s'ensuivra, vous prévoyez que les mortels seront capables de détruire la plupart des la civilisation [cainite|E] en ruine. Alors, enfin, la malédiction de Caïn sera purgée de ce monde misérable." #NT!
+ talmahera_objective_custom: "Vous planterez la graine de la rébellion chez les vassaux des royaumes [cainite|E]" #NT!
+ pod1230objectives.83.a: "Un pas de plus..." #NT!
+ pod1230objectives.84.b: "Le Del'Roh est sage" #NT!
+ pod1230objectives.84.a: "Quelle folie insensée est-ce ?!" #NT!
+ pod1230objectives.85.t: "Sous la Croix Noire" #NT!
+ pod1230objectives.85.desc: "La montée en puissance du Ventrue allemand a été rapide comme l'éclair par rapport aux normes [cainite|E]. Simple refuge pour les exilés durant l'Antiquité, elle est devenue le centre du [Clan|E] peu de temps après la chute de Rome.\nLeur premier revers fut la paix blanche imposée à Jürgen von Verden après son invasion ratée de la Voïvodate de Tzimisce. Mais les Ventrue n'ont jamais cessé de regarder vers l'est, et leurs efforts ont finalement porté leurs fruits.\nLa défaite de Jürgen étant vengée et les Ferals de Livonie pacifiés, les Ventrue ont sécurisé leur flanc est.\nMaintenant, l'ouest leur fait signe, alors que l'ascension de la Croix Noire est loin d’être terminé maintenant. Et un nouvel humain prometteur a été présenté à l’avant-garde des Ventrue comme récompense de son succès et comme arme pour de futures conquêtes à venir." #NT!
+ pod1230objectives.85.a: "Nous ne faisons que commencer" #NT!
+ pod1230objectives.86.a: "Nous devons arrêter ces Ventrues arrogants !" #NT!
+ pod1230objectives.86.b: "Comme cela devrait être" #NT!
+  
+ pod1230objectives.87.t: "Un nouveau Mathusalem" #NT!
+ pod1230objectives.87.desc: "Les Tremere et les Nagaraja ont tous deux prouvé que le vampirisme peut être acquis au moyen de la sorcellerie magique, quelque chose que vous étudiez depuis un certain temps. Ce processus complexe est loin d’être certain et nécessite du sang puissant. Vous n'avez pas accès au référentiel de magie que possédaient les Tremere, alors vous vous êtes concentré sur l'acquisition du sang le plus fort possible, avec les prisonniers actuellement assis dans votre donjon.\nIl est maintenant temps de mettre en œuvre le rituel et, espérons-le, devenez un puissant vampire du clan sur lequel vous expérimentez. Si tout se passe bien, vous serez un immortel qui ne sera redevable à aucun père et avec plus de pouvoir qu'aucun nouveau-né ne peut en rêver. Votre esclavage envers des maîtres vampiriques insensibles prend fin maintenant !" #NT!
+ pod1230objectives.87.sucess: "L'immortalité vous attend !" #NT!
+ pod1230objectives.87.fail: "Non non Non!" #NT!
+ pod1230objectives.87.fail.tt: "Vous échouez, mais vous obtenez une partie de la puissance du sang, vous donnant accès au [elder_perk|E] et vous pouvez réessayer le rituel lorsque l'effet se dissipe." #NT!
+  
+ pod1230objectives.88.t: "Un nouveau Mathusalem" #NT!
+ pod1230objectives.88.desc: "Les Tremere et les Nagaraja ont tous deux prouvé une fois que le vampirisme peut être acquis au moyen de la sorcellerie magique, et cet exploit a été réalisé une fois de plus. Un nouveau Mathusalem surgit, qui était autrefois un simple revenant, déterminé à laisser sa propre marque sur la société nocturne qu'il connaît si bien." #NT!
+ pod1230objectives.88.a: "Nous ne faisons que commencer" #NT!
+  
+ pod1230objectives.89.a: "Des voleurs encore plus arrogants !" #NT!
+ pod1230objectives.89.b: "Notre exemple." #NT!
+  
+ # pod1230objectives.87.t: "Rassasié de pouvoir" #NT!
+ # pod1230objectives.87.desc: "Les sacrifices se sont transformés en enveloppes flétries, leur sang coule désormais dans vos veines, saturant votre esprit et votre corps d'une vigueur divine. Contrairement à vos sujets d'expérience, vous restez bien vivant, la malédiction de la non-vie a été distillée loin de la vitae, ne laissant que du pouvoir. La seule malédiction lancée aujourd'hui s'est abattue sur ceux qui sont assez stupides pour se mettre en travers de votre chemin.\nVous avez surpassé même les mages Tremere qui ont volé le sang divin pour devenir des vampires, et vos exploits resteront dans les mémoires et seront craints pour les générations à venir." #NT!
+ # pod1230objectives.87.a: "Ce qui appartenait à mes maîtres est désormais à moi." #NT!
+ # pod1230objectives.88.t: "Un rituel des plus impies" #NT!
+ # pod1230objectives.88.desc: "Des nouvelles parlant d'un parvenu arrogant [ghoul|E] pratiquant une vile sorcellerie pour usurper le pouvoir de Kindred vitae parviennent à votre cour. Les rumeurs sur le degré de transgression du caractère sacré du sang sont pour le moins inquiétantes." #NT!
+ # pod1230objectives.88.a: "Qu'est-ce que cela signifie pour les vampires ?" #NT!
+ # pod1230objectives.88.b: "Le Kindred punira cet imbécile." #NT!
+ # pod1230objectives.89.t: "Le prix de l’orgueil" #NT!
+ # pod1230objectives.89.desc: "Vous êtes peut-être le seul à voir l’horrible vérité. Cette guerre ne sera pas gagnée uniquement par la force des armes. Vous avez besoin d'une nouvelle approche, plus terrible.\nIls pensent que vous êtes fou. Ils pensent que vous êtes perdu face à la lumière chaude de Dieu. Mais la vérité est que vous n’avez jamais été aussi proche. Vous seul savez que pour gagner de manière décisive, toutes les tactiques doivent être employées. Et vous ne reculerez pas devant ce devoir, aussi douloureux que cela puisse être pour votre âme.\nAprès tout, Dieu reconnaîtra le sien." #NT!
+ # pod1230objectives.89.a: "...Huiler la grille" #NT!
+  
+ # pod1230objectives.890.t: "Cher [ROOT.Char.GetFirstNameNoTooltip]," #NT!
+ # pod1230objectives.890.desc: "Vous êtes par la présente cordialement invité au grand festin du [host.GetTitledFirstNamePossessive] organisé pour célébrer l'entrée du [host.GetHouse.GetBaseNameNoTooltip] dans une nouvelle ère de grandeur." #NT!
+ # pod1230objectives.890.a: "J'ai hâte !" #NT!
+ # pod1230objectives.890.b: "Nouvelle ère? Je n'aime pas ce son." #NT!
+ # pod1230objectives.891.t: "La fête de la nouvelle génération" #NT!
+ # pod1230objectives.891.desc: "À la tombée de la nuit, la grande salle se remplit peu à peu d’invités. L'excitation refoulée caractéristique de ces derniers instants avant le début d'une fête est palpable dans l'air, mais vous pouvez supposer sans risque qu'aucune des personnes présentes ne la ressent aussi fortement que vous. Certainement pas ceux qui ignorent parfaitement leur rôle dans les festivités. Votre majordome signale que tous les invités qui ont répondu aux invitations sont présents et comptabilisés et vous faites signe aux gardes de barrer silencieusement les portes. Alors que vous vous dirigez vers le bout de table, votre [blood_father.Custom2('RelationToMeShort', SCOPE.sC('obsolete_child'))] [obsolete_child.GetFirstNameNoTooltip] vous intercepte et vous demande : \n - Mon [obsolete_child.Custom2('RelationToMeShort', SCOPE.sC('blood_father'))], le festin commence, hélas je ne vois ni ne sens aucune nourriture. Envisagez-vous de nous faire vite ?" #NT!
+ # pod1230objectives.891.a: "Ne vous inquiétez pas, [obsolete_child.GetFirstNameNoTooltip], [ROOT.Char.GetFaith.HighGodName] nous enverrons la nourriture." #NT!
+ # pod1230objectives.892.t: "Pour la santé! Au pouvoir !" #NT!
+ # pod1230objectives.892.desc: "Parents! - vous étant - Vous tous réunis ici ce soir aurez l'honneur de prêter la force de votre noble sang à la cause visant à élever le nom de la Maison [blood_father.GetHouse.GetBaseNameNoTooltip] vers de nouveaux sommets de gloire. Beaucoup d'entre vous le feront avec l'aide de vos jeunes frères et sœurs dont le corps et l'esprit sont mieux adaptés à cette tâche, mais ne désespérez pas car votre service restera dans les mémoires et votre sacrifice sera honoré. Maintenant, mes enfants de la vraie vitae, saisissez hardiment votre héritage et faites-en votre force, prenez le sang de vos prédécesseurs et débarrassez-les du fardeau de son pouvoir. Gorgez-vous du passé et devenez le futur !" #NT!
+ # pod1230objectives.892.a: "Prenez-les et régalez-vous !" #NT!
+ # pod1230objectives.893.t: "Un pouvoir consolidé" #NT!
+ # pod1230objectives.893.desc: "La frénésie alimentaire s’apaise. Aussi horrible que soit cette épreuve, il n'y a pas la moindre trace de honte ou de culpabilité, même chez vos enfants au cœur relativement tendre. Il y a un profond sentiment de satisfaction, de gratitude et de contentement qui imprègne la salle éclaboussée de sang. Ce qui est fait est fait." #NT!
+ # pod1230objectives.893.a: "Une nouvelle ère commence !" #NT!
+  
+ pod1230objectives.255.title: "Nouveau sang" #NT!
+ pod1230objectives.255.desc: "Enfin, vous êtes prêt à faire partie de la société [cainite|E]. Ils vous rejetteront probablement, craignant les petites prophéties, mais vous êtes maintenant trop puissant pour l'ignorer.\nN'êtes plus un simple caitiff, vous êtes dans une position unique pour façonner votre nouvelle lignée à votre image, et ils ne peuvent pas t'arrêter, plus maintenant. Maintenant, quelle voie allez-vous choisir ?" #NT!
+ pod1230objectives.255.option.diplomacy: "La diplomatie est toujours la réponse" #NT!
+ pod1230objectives.255.option.war: "C'est l'heure de la guerre !" #NT!
+ pod1230objectives.255.option.prowess: "Nous ne leur montrerons aucune pitié" #NT!
+ pod1230objectives.255.option.stewardship: "Nous les dirigerons, parce que nous savons comment" #NT!
+ pod1230objectives.255.option.intrigue: "Ils ne nous verront même pas arriver" #NT!
+ pod1230objectives.255.option.learning: "Nous n'avons pas le temps pour ça, la connaissance attend" #NT!
+ pod1230objectives.255.option.secret: "Nous sommes les véritables héritiers de Caïn et bientôt ils apprendront à obéir" #NT!
+ pod1230objectives.256.title: "Pouvoir du sang" #NT!
+ pod1230objectives.256.desc: "Vous devez maintenant choisir trois signatures [disciplines|E] de votre lignée. Vous ne pouvez choisir que ceux [disciplines|E] que vous possédez vous-même" #NT!
+ pod1230objectives.256.potence: "Puissance. Pour frapper nos ennemis" #NT!
+ pod1230objectives.256.celerity: "Célérité. Pour aller vite comme l'éclair" #NT!
+ pod1230objectives.256.fortitude: "Courage. Devenir invincible" #NT!
+ pod1230objectives.256.auspex: "Auspex. Pour voir à travers l'obscurité" #NT!
+ pod1230objectives.256.dominate: "Dominer. Pour les gouverner" #NT!
+ pod1230objectives.256.presence: "Présence. Être craint et aimé" #NT!
+ pod1230objectives.256.oblivion: "Oubli. Pour commander aux morts" #NT!
+ pod1230objectives.256.bloodsorcery: "Sorcellerie du sang. Pour commander le sang" #NT!
+ pod1230objectives.256.animalism: "Animalisme. Pour régner sur les animaux" #NT!
+ pod1230objectives.256.protean: "Protéen. Avoir plusieurs formes" #NT!
+ pod1230objectives.256.vicissitude: "Vicissitudes. Pour façonner les os et la chair" #NT!
+ pod1230objectives.256.obfuscate: "Brouiller. Être invisible" #NT!
+ pod1230objectives.256.obtenebration: "Obténébration. Pour commander les ombres" #NT!
+ pod1230objectives.256.serpentis: "Serpentis. Pour commander aux serpents et aux monstres" #NT!
+ pod1230objectives.256.daimonion: "Démonion. Corrompre et contrôler" #NT!
+ pod1230objectives.256.necromancy: "Nécromancie. Pour commander aux morts" #NT!
+ pod1230objectives.256.abombwe: "Abombwe. Pour traquer la nuit" #NT!
+ pod1230objectives.256.visceratika: "Viscératika. Pour commander la terre" #NT!
+ pod1230objectives.256.temporis: "Temporis. Pour commander l'heure" #NT!
+ pod1230objectives.256.dementation: "Démence. Pour utiliser la folie" #NT!
+ pod1230objectives.256.melpominee: "Melpominee. La musique est le pouvoir" #NT!
+ pod1230objectives.256.spiritus: "Spiritus. Pour interagir avec les esprits animaux" #NT!
+ pod1230objectives.256.valeren: "Valérène. Pour utiliser le troisième œil" #NT!
+ pod1230objectives.256.quietus: "Coup de grâce. Pour influencer le sang" #NT!
+ pod1230objectives.256.mytherceria: "Mythercérie. Pouvoirs attribués aux faes" #NT!
+ pod1230objectives.256.chimerstry: "Chimère. Pour évoquer des illusions" #NT!
+ pod1230objectives.256.thinbloodalchemy: "Alchimie du sang mince. Pour distiller une décoction de sang" #NT!
+ pod1230objectives.256.bardo: "Bardo. Pour nier la Bête" #NT!
+ pod1230objectives.257.title: "Un signe des choses à venir" #NT!
+ pod1230objectives.257.desc: "Quelles couleurs choisirez-vous pour le symbole de votre sang ?" #NT!
+ pod1230objectives.257.option.1a: "Goutte de sable de gueules" #NT!
+ pod1230objectives.257.option.1b: "Goutte d'argent de gueules" #NT!
+ pod1230objectives.257.option.1c: "D'or goutte de gueules" #NT!
+ pod1230objectives.257.option.1d: "De gueules goutte d'argent" #NT!
+ pod1230objectives.257.option.2a: "Ankh de sable barbelé d'argent reposant sur une goutte de gueules" #NT!
+ pod1230objectives.257.option.2b: "Ankh d'argent barbelé de sable repose sur une goutte de gueules" #NT!
+ pod1230objectives.257.option.2c: "Ankh de sable barbelé d'or repose sur une goutte de gueules" #NT!
+ pod1230objectives.257.option.2d: "D'or ankh de sable barbelé repose sur une goutte de gueules" #NT!
+ pod1230objectives.257.option.2e: "De gueules ankh d'argent repose sur une goutte d'argent" #NT!
+ pod1230objectives.257.option.2f: "Ankh d'argent d'or reposant sur une goutte de gueules" #NT!
+ pod1230objectives.257.option.2g: "D'or ankh d'argent repose sur une goutte de gueules" #NT!
+ pod1230objectives.257.option.3a: "Chef goutte de sable de gueules à base de hache d'argent" #NT!
+ pod1230objectives.257.option.3b: "Chef goutte de sable de gueules à base de hache d'or" #NT!
+ pod1230objectives.257.option.3c: "Goutte d'argent chef de gueules à base de hache de sable" #NT!
+ pod1230objectives.257.option.3d: "Goutte d'argent chef de gueules à base de hache d'or" #NT!
+ pod1230objectives.257.option.3e: "D'or goutte chef de gueules à pointe de hache d'argent" #NT!
+ pod1230objectives.257.option.3f: "D'or goutte en chef de gueules à pied de hache de sable" #NT!
+ pod1230objectives.257.option.3g: "De gueules goutte en chef d'argent à pointe de hache d'argent" #NT!
+ pod1230objectives.257.option.4a: "De sable à deux gouttes de gueules repose sur un crâne d'argent" #NT!
+ pod1230objectives.257.option.4b: "D'or à deux gouttes de gueules reposant sur un crâne d'argent" #NT!
+ pod1230objectives.257.option.4c: "De gueules à deux gouttes de sable repose sur un crâne d'argent" #NT!
+ pod1230objectives.257.option.4d: "De gueules à deux gouttes de gueules repose sur un crâne d'argent" #NT!
+ pod1230objectives.257.option.5a: "Goutte de sable de gueules et gemme de gueules repose sur une couronne à pointes d'argent" #NT!
+ pod1230objectives.257.option.5b: "La goutte de sable de gueules et la gemme de gueules reposent sur une couronne à pointes d'or." #NT!
+ pod1230objectives.257.option.5c: "Goutte d'argent de gueules et gemme de gueules repose sur une couronne à pointes de sable." #NT!
+ pod1230objectives.257.option.5d: "La goutte d'argent de gueules et la gemme de gueules repose sur une couronne à pointes d'or." #NT!
+ pod1230objectives.257.option.5e: "D'or, une goutte de gueules et une gemme de gueules repose sur une couronne à pointes de sable." #NT!
+ pod1230objectives.257.option.5f: "D'or, une goutte de gueules et une gemme de gueules repose sur une couronne à pointes d'argent." #NT!
+ pod1230objectives.257.option.5g: "De gueules, goutte de gueules et gemme d'argent repose sur une couronne à pointes d'argent." #NT!
+ pod1230objectives.257.option.6a: "Goutte de sable de gueules reposant sur une araignée d'argent" #NT!
+ pod1230objectives.257.option.6b: "Goutte de sable de gueules repose sur une araignée d'or" #NT!
+ pod1230objectives.257.option.6c: "Goutte d'argent de gueules reposant sur une araignée de sable" #NT!
+ pod1230objectives.257.option.6d: "Goutte d'argent de gueules reposant sur une araignée d'or" #NT!
+ pod1230objectives.257.option.6e: "D'or goutte de gueules repose sur une araignée de sable" #NT!
+ pod1230objectives.257.option.6f: "D'or goutte de gueules repose sur une araignée d'argent" #NT!
+ pod1230objectives.257.option.6g: "De gueules, goutte d'argent repose sur une araignée d'argent." #NT!
+ pod1230objectives.257.option.7a: "De sable à quatre gouttes de gueules en croix à quatre pétales d'argent en sautoir" #NT!
+ pod1230objectives.257.option.7b: "De sable à quatre gouttes de gueules en croix à quatre pétales d'or en sautoir" #NT!
+ pod1230objectives.257.option.7c: "D'argent à quatre gouttes de gueules en croix à quatre pétales de sable en sautoir" #NT!
+ pod1230objectives.257.option.7d: "D'argent à quatre gouttes de gueules en croix à quatre pétales d'or en sautoir" #NT!
+ pod1230objectives.257.option.7e: "D'or à quatre gouttes de gueules en croix à quatre pétales de sable en sautoir" #NT!
+ pod1230objectives.257.option.7f: "D'or à quatre gouttes de gueules en croix à quatre pétales d'argent en sautoir" #NT!
+ pod1230objectives.257.option.7g: "De gueules à quatre gouttes d'argent en croix à quatre pétales d'argent en sautoir" #NT!
+ pod1230objectives.257.option.8a: "Goutte de sable de gueules reposant sur un scorpion à deux queues en arrière d'argent" #NT!
+ pod1230objectives.257.option.8b: "Goutte de sable de gueules repose sur un scorpion à deux queues en arrière d'or." #NT!
+ pod1230objectives.257.option.8c: "Goutte d'argent de gueules repose sur un scorpion à deux queues en arrière de sable." #NT!
+ pod1230objectives.257.option.8d: "Goutte d'argent de gueules repose sur un scorpion à deux queues en arrière d'or." #NT!
+ pod1230objectives.257.option.8e: "D'or goutte de gueules repose sur un scorpion à deux queues en arrière d'argent" #NT!
+ pod1230objectives.257.option.8f: "D'or goutte de gueules repose sur un scorpion à deux queues en arrière de sable" #NT!
+ pod1230objectives.257.option.8g: "De gueules, goutte d'argent repose sur un scorpion à deux queues en arrière d'argent." #NT!
+ pod1230objectives.258.title: "À la réflexion" #NT!
+ pod1230objectives.258.desc: "Êtes-vous vraiment satisfait des couleurs des armoiries de votre lignée, ou devez-vous reconsidérer votre décision ?" #NT!
+ pod1230objectives.258.option.a: "Reconsidérer." #NT!
+ pod1230objectives.258.option.b: "Gardez celui-ci." #NT!
+ pod1230objectives.258.option.c: "Faites-en le symbole de mon royaume !" #NT!
+ pod1230objectives.91.t: "Le feu brûle à nouveau." #NT!
+ pod1230objectives.91.desc: "Votre recherche est terminée. Que la formule que vous avez assemblée à partir de bribes d’informations au moyen d’expérimentations inlassables soit ou non le feu grec authentique, la substance brûle bien. Le premier test a déjà donné des résultats spectaculaires, le liquide est aussi collant que du miel et quasiment impossible à éteindre, tout ce qu'il recouvre lorsqu'il est enflammé cesse d'exister avant de cesser de brûler. Bien que la méthode de livraison optimale reste un domaine d'amélioration potentielle, les artisans de votre service ont déjà préparé des conceptions suffisamment efficaces.\nAlors que vous regardez le feu consumer les mannequins de test, vous pouvez avoir l'impression qu'un lourd fardeau a été retiré de vos épaules, au plus profond de vous. sachez que c'est le fardeau de la culpabilité que vous avez enduré en envoyant vos frères et sœurs contre les forces de l'Enfer qui n'étaient pas suffisamment armées." #NT!
+ pod1230objectives.91.a: "Que le feu brûle aussi fort que notre foi." #NT!
+ pod1230objectives.92.t: "Feu à l'horizon." #NT!
+ pod1230objectives.92.desc: "Dernièrement, vous avez entendu d'étranges rumeurs selon lesquelles des refuges seraient consumés par les flammes en quelques minutes, des parents réduits en cendres dans leurs propres chambres de repos, des anciens disparaissant sans laisser de trace. Aujourd'hui, un de vos espions a confirmé qu'elles étaient vraies et qu'elles provenaient toutes d'une nouvelle invention de l'une des organisations de chasseurs. Ils auraient recréé la formule du feu grégeois et l'auraient adaptée pour l'utiliser sur terre avec des effets dévastateurs." #NT!
+ pod1230objectives.92.a: "Ces foutus mortels et leurs jouets stupides." #NT!
+ pod1230objectives.92.b: "J'espère qu'ils partageront cette invention." #NT!
+ pod1230objectives.93.t: "Le retour fidèle" #NT!
+ pod1230objectives.93.desc: "De nombreuses années se sont écoulées depuis que les frères Gantenbein, trompés par leurs maîtres maudits, ont été contraints de fuir la grande ville de Constantinople, mais bien que la ville ait été ravagée et avec elle la foi des frères dans la doctrine nourrie par leurs manipulateurs, une nouvelle foi est né de ses cendres. Les Réprouvés de Calomena ont compris la folie de ceux qui se disent ses élus : la sainteté ne peut provenir de ce qui est impie. Les Gantenbein ont longtemps lutté contre tous ceux qui se prétendaient pieux et relégués aux marges de la société civilisée, mais la vraie foi a prévalu. La piété des frères les a portés, ainsi que tous ceux prêts à les rejoindre, vers un retour triomphal dans la Ville où d'innombrables oreilles aspirent à entendre leur évangile." #NT!
+ pod1230objectives.93.a: "Debout, damné de la Terre !" #NT!
+ pod1230objectives.94.t: "La ferveur religieuse gagne Constantinople." #NT!
+ pod1230objectives.94.desc: "Les nouvelles de Constantinople parlent d'une secte arrivant dans la ville pour empoisonner les oreilles de la plèbe avec toutes sortes d'absurdités diffamatoires dirigées contre leurs supérieurs. Leurs paroles grossières se sont répandues à travers la ville comme un incendie et la foule qui s'est développée autour d'eux est déjà devenue trop nombreuse et agitée pour que quiconque puisse les faire taire. Que deviendra une ville vaincue par un zèle aussi insensé ?" #NT!
+ pod1230objectives.94.a: "Sale hérétique." #NT!
+ pod1230objectives.95.t: "Un nouveau siège du pouvoir" #NT!
+ pod1230objectives.95.desc: "Le vent froid de minuit souffle dans vos cheveux, sous vos pieds, la Vistule scintille de la lumière des étoiles. Chaque créature que cette rivière abrite est à vous pour commander et vous nourrir, le mur du château sur lequel vous vous tenez protège son monarque uniquement contre son remplacement par quelqu'un de plus utile. Vous êtes le véritable dirigeant de cette terre et vos machinations en ont fait un domaine plus prospère et enviable que n'importe lequel des fiefs stériles et désolés de vos parents égocentriques des Carpates.\nBientôt, ils se rendront compte que leurs précieux pedigrees ne signifient rien lorsqu'ils sont confrontés à des conditions brutes. compétence. Le cœur froid de l’hégémonie tzimisce se trouve désormais ici, sur la colline du Wawel." #NT!
+ pod1230objectives.95.a: "Ma puissance fera trembler les montagnes !" #NT!
+ pod1230objectives.96.t: "Le parvenu du Nord" #NT!
+ pod1230objectives.96.desc: "Le dernier élément du briefing sur les développements récents dans les affaires des Kindred attire votre attention. [victorious_poltzimi.GetUIName], que vous surveillez depuis un certain temps, n'est apparemment plus satisfait de l'emprise étroite du [victorious_poltzimi.GetHerHim] sur le royaume de Pologne. [poltzimi.GetSheHe] a lancé un défi ouvert aux Démons aînés et revendique la domination sur le Voïvodate par le droit au pouvoir et au mérite. Même un enfant saurait que cela ne peut signifier que la guerre." #NT!
+ pod1230objectives.96.a: "Comme si ces imbéciles n’avaient pas déjà assez d’ennemis." #NT!
+ pod1230objectives.96.b: "Laissez [victorious_poltzimi.GetHerHim] venir, nous verrons de quoi est fait [poltzimi.GetSheHe]." #NT!
+ blood_curse_objective_decision: "Mettre fin à la malédiction" #NT!
+ blood_curse_objective_decision_tooltip: "Cette Malédiction du Sang déchire le clan, nous devons agir." #NT!
+ blood_curse_objective_decision_desc: "La malédiction du sang Tremere a de lourdes conséquences sur l'esprit de nos camarades du clan. Nous devons faire tout notre possible pour trouver une solution." #NT!
+ blood_curse_objective_decision_confirm: "Nous l'avons fait!" #NT!
+ blood_curse_objective_decision_effect_tooltip: "Vous supprimerez la malédiction du sang sur votre clan, humiliant ainsi les Tremere." #NT!
+ pod1230objectives.97.t: "Une malédiction défait" #NT!
+ pod1230objectives.97.desc: "Cela a nécessité les efforts des membres les plus érudits de votre [Clan|E] et un rassemblement peut-être sans précédent de connaissances arcaniques, mais c'est finalement fait : la soi-disant malédiction du sang Tremere a été annulée, vous libérant enfin, vous et les vôtres, de ses terribles effets.\nEn outre Malgré les avantages évidents d'un tel exploit, cela a également été une grande victoire politique car vos frères ont enduré cette période difficile et en sont sortis plus forts. [Clan|E] Tremere lui-même commence également à ressentir le revers, étant ouvertement moqué alors que sa malédiction "parfaite" est si publiquement brisée.\nLa victoire a rarement été aussi douce." #NT!
+ pod1230objectives.97.a: "Qui sont les meilleurs sorciers du sang actuellement ?" #NT!
+ tremere_blood_curse_removed_tt: "La malédiction du sang Tremere est supprimée de l'ensemble de votre [Clan|E]." #NT!
+ pod1230objectives.98.a: "Cela enseignera aux Tremere une leçon d’humilité." #NT!
+ pod1230objectives.98.b: "Quoi? Comment? Ça ne peut pas être!" #NT!
+ tremere_blood_curse_decision_custom: "Alamut, le Grand Œuvre situé dans le comté de [GetTitleByKey('b_qazvin').GetNameNoTier], doit être entièrement construit" #NT!
+ pod1230objectives.99.t: "Patronage immortel" #NT!
+ pod1230objectives.99.desc: "En tant que fier Toréador, vous nourrissez depuis longtemps les artistes, mortels ou non, de votre région. Votre cour est devenue un centre de poésie, d’écriture, de sport et de toutes les autres activités que vous jugez dignes. Mieux encore, vous avez également réussi à vous entourer d'un conseil talentueux composé des différents [Clans|E], en veillant à ce que votre renommée s'étende encore plus loin que celle de vos propres frères Toréador.\nIl ne se passe pratiquement pas une nuit sans une nouvelle découverte, une nouvelle théorie. ou un nouveau chef-d'œuvre créé grâce à vos soins subtils mais toujours présents. D'une certaine manière, vous avez réalisé le rêve de tout Toréador : ne jamais être à court de nouvelles merveilles pour divertir la lenteur angoissante de l'immortalité." #NT!
+ pod1230objectives.99.a: "Chaque nuit semble enfin nouvelle" #NT!
+ toreador_grandeur_event_tooltip: "Un personnage particulièrement inspiré a rejoint votre cour." #NT!
+ pod1230objectives.100.a: "Posture fantaisie du Toréador !" #NT!
+ pod1230objectives.100.b: "Je dois voir ces merveilles par moi-même !" #NT!
+ toreador_grandeur_modifier: "Patron immortel" #NT!
+ toreador_grandeur_modifier_desc: "Le plus grand mécène des Toréadors, toujours à la pointe des innovations mortelles et largement respecté pour cela." #NT!
+  
+ pod1230objectives.101.t: "Bibliothèque des morts" #NT!
+ pod1230objectives.101.desc: "Avec les écrits les plus importants de l'histoire caïnite désormais en votre possession, et avec les aménagements appropriés pour les héberger, il ne fait aucun doute que vous avez créé le plus grand référentiel de connaissances éternelles dans l'histoire de votre espèce.\nL'immortalité elle-même pourrait ne pas être assez longue pour à vous de tout lire et de déchiffrer tous ces secrets. Mais vous essaierez et alors, peut-être, vous comprendrez enfin le but de cette foutue existence. La réponse doit être là quelque part. Vous n'osez pas envisager l'alternative..." #NT!
+ pod1230objectives.101.a: "Un à la fois..." #NT!
+ custodian_library_undead_modifier: "Gardien de la bibliothèque" #NT!
+ custodian_library_undead_modifier_desc: "La plus grande bibliothèque Caïnite vous est confiée. Et tout a une réponse, si vous savez où chercher." #NT!
+ pod1230objectives.102.a: "Puis-je emprunter des livres ?" #NT!
+  
+ pod1230objectives.103.t: "L'élu d'Arikel" #NT!
+ pod1230objectives.103.desc: "Il y a bien longtemps, le [antediluvian|E] du [Clan|E] Toréador, Arikel, régnait à Sumer en tant que Déesse bienveillante et bien-aimée. Puis Ennoia est arrivée.\nLa mère furieuse du Gangrel, avec ses enfants, a ravagé le paradis d'Arikel et a volé la Tablette du Destin après une longue bataille au cours de laquelle de nombreux fiers Toréadors ont perdu la vie. Ce crime a enfin été vengé.\nLa Tablette est maintenant de retour entre les mains des Toréadors, Enkidu et Gilgamesh sont morts et le clan Gangrel ne peut que se précipiter dans leurs masures, honteux de cette défaite.\nEt, pendant que vous regardez autour de votre salle du trône. après cette annonce capitale, vous remarquez soudain la sculpture la plus magnifique que vous ayez jamais vue, apparemment sortie de nulle part. Alors que vous contemplez ce chef-d'œuvre, vous entendez la plus belle des voix vous murmurer "Merci" à l'oreille.\nAlors que vous vous retournez pour voir, elle est déjà partie." #NT!
+ pod1230objectives.103.a: "Est-ce que ça pourrait être...?" #NT!
+ #pod1230objectives.103.a.tt: ""
+ shamed_gangrel_modifier: "Gangrel honteux" #NT!
+ shamed_gangrel_modifier_desc: "Les Toréadors ont récupéré la Tablette du Destin et tué Gilgamesh et Enkidu. C'est vraiment dommage pour tous les Gangrels." #NT!
+  
+ pod1230objectives.104.a: "Les roses fleurissent" #NT!
+ pod1230objectives.104.b: "Mensonges et tromperies !" #NT!
+  
+ pod1230objectives.105.t: "Une nouvelle ère" #NT!
+ pod1230objectives.105.desc: "Le destin du [Clan|E] Toréador est lié à Constantinople et à son Rêve depuis des siècles maintenant, mais la mort de Michel lors de la 4ème Croisade a marqué le début d'un changement de cap.\nLaissant derrière eux les ruines de l'Empire Romain, les Toréadors se sont attaqués à la France et à ses habitants. nation et culture en plein essor, pleine de poètes, d’artistes et d’autres esprits créatifs. Il a fallu du temps pour sécuriser la zone hors des mains des Ventrues, et il a fallu encore plus de temps pour que les Toréadors s'unissent derrière un chef unique, mais c'est désormais chose faite.\nPour le meilleur ou pour le pire, la France et le [Clan|E] Toréador sont ils ne font plus qu'un, et leurs destins seront partagés dans un avenir prévisible." #NT!
+ pod1230objectives.105.a: "Une nouvelle maison" #NT!
+ #pod1230objectives.105.a.tt: ""
+ french_toreador_modifier: "La France est Toréador. Le Toréador, c'est la France." #NT!
+ french_toreador_modifier_desc: "Les destins de la France et du Clan Toréador sont désormais intrinsèquement liés." #NT!
+ breton_opinion: "Opinion Bretonne" #NT!
+  
+ pod1230objectives.106.a: "Ha, les artistes unis !" #NT!
+ pod1230objectives.106.b: "Une nouvelle maison ?" #NT!
+  
+ pod1230objectives.107.t: "Voie divisée" #NT!
+ pod1230objectives.107.desc: "Une fois de plus, l'Armée Céleste est restaurée, désormais tous les [GetTrait('shih').GetName( GetPlayer )] vous suivront. Autrefois l'armée de chasseurs la plus puissante que ce monde ait jamais connue, l'Armée Céleste est tombée dans la décadence et la corruption intérieure, conduisant les plus vertueux d'entre vous à la détruire pour le bien commun.\nBeaucoup craignent que les mêmes erreurs ne soient commises à nouveau. , mais vous les rassurez en leur disant que vous savez mieux.\nLe temps nous le dira." #NT!
+ pod1230objectives.107.a: "Pas de paix, juste la guerre." #NT!
+ pod1230objectives.107.a.tt: "Vous n'avez plus accès à la décision « Action réfléchie »." #NT!
+ pod1230objectives.107.a.tt2: "Vous pourrez utiliser le [GetPlayer.GetFaith.Custom('GHWName')] pour le [empire|E] [casus_belli|E] le moment venu." #NT!
+ pod1230objectives.107.b: "Gardons l'ancienne méthode." #NT!
+  
+ pod1230objectives.108.t: "Mettre fin à la diaspora" #NT!
+ pod1230objectives.108.desc: "Face aux nombreuses occupations de l'Égypte, et à l'afflux de surnaturels étrangers à la suite d'Alexandre le Grand, Horus créa la Diaspora en 132, libéra ses fidèles partisans pour combattre Apophis à leur manière. Mais c'est désormais terminé, l'Egypte appartient à nouveau à Shemsu-Heru et la croisade contre Seth va reprendre !" #NT!
+ pod1230objectives.108.a: "Frères, venez avec moi !" #NT!
+  
+ pod1230objectives.109.t: "Au nom d'Horus" #NT!
+ pod1230objectives.109.desc: "La longue et sanglante guerre d'Horus contre son oncle Set dure depuis des siècles. Malgré de nombreux revers et quelques victoires précieuses, les véritables fidèles du Vengeur n'ont jamais renoncé à rétablir l'équilibre dans ce monde.\nHorus lui-même était parfois éloigné de ses disciples, ayant ses propres tâches à accomplir. C'est à ce moment-là que vous avez relevé le grand défi qui se présentait à vous.\nEn dirigeant le Shemsu-Heru comme une force disciplinée et efficace, vous avez remporté des victoires dont même Horus lui-même ne faisait que rêver. Le fils d'Osiris n'est cependant pas idiot et a reconnu vos réalisations en vous nommant son divin vizir et en vous faisant de grands éloges et de plus grandes attentes pour l'avenir. Vous êtes désormais le précieux lieutenant des Élus de Maât et les serviteurs du Serpent apprendront à craindre votre nom." #NT!
+ pod1230objectives.109.t_horus: "Horus le vengeur de son père" #NT!
+ pod1230objectives.109.desc_horus: "Vous avez agi pour maintenir l'organisation du Shemsu-Heru, en luttant contre les vampires et en déjouant les plans des Séthites. Et le jour arrive enfin... Les enfants corrompus du serpent sont morts ou se cachent de votre colère divine, craignant l'inévitable nuit où vous vous vengerez d'eux. Vous êtes Horus, le Fils Vengeur, et vous êtes victorieux !" #NT!
+ pod1230objectives.109.a: "Les Séthites sont vaincus !" #NT!
+ horus_chosen_modifier: "Divin Vizir d'Horus" #NT!
+ horus_chosen_modifier_desc: "Autorisez à demander au [neteru|E] surnaturel de se convertir en [faith|E] avec la Ligue Osiris [doctrine|E], si elle existe." #NT!
+ unlock_osiris_league_conversion: "Vous pouvez désormais demander à votre [neteru|E] surnaturel de se convertir en [faith|E] auprès de la Ligue Osiris [doctrine|E], si elle existe." #NT!
+  
+ pod1230objectives.110.t: "L'éclair au pays de la foi" #NT!
+ pod1230objectives.110.desc: "Vous avez accompli l'impossible, la terre et la toile de la foi sont sous votre contrôle et vous veillerez à ce qu'elles ne tombent plus jamais dans les ténèbres." #NT!
+ pod1230objectives.110.a: "Un et pour toujours." #NT!
+ living_pharaoh_modifier: "Le Pharaon vivant" #NT!
+  
+ pod1230objectives.111.t: "Homme bon errant" #NT!
+ pod1230objectives.111.desc: "Vous avez répandu la bonté à travers le monde et semé la lumière dans le cœur des gens, ils se sont unis pour combattre les ténèbres afin de vous imiter." #NT!
+ pod1230objectives.111.a: "Est-ce que tu vois? Horus." #NT!
+ wandering_good_man_modifier: "Un homme bon errant" #NT!
+  
+ pod1230objectives.112.t: "Mal absolu" #NT!
+ pod1230objectives.112.desc: "Vous avez accompli la volonté du Serpent, vous avez semé le mal dans le monde, et par cela Apophis se lèvera sûrement plus tôt qu'avant, et il vous en a récompensé." #NT!
+ pod1230objectives.112.a: "La fin viendra bientôt." #NT!
+ pure_evil_modifier: "Mal absolu" #NT!
+ pure_evil_modifier_desc: "Permettez à la demande surnaturelle [neteru|E] de se convertir en [faith|E] auprès du Serviteur d'Apophis [doctrine|E], si elle existe." #NT!
+ unlock_apophis_conversion: "Vous pouvez désormais exiger que votre [neteru|E] surnaturel se convertisse en [faith|E] auprès du Serviteur d'Apophis [doctrine|E], s'il existe." #NT!
+  
+ pod1230objectives.115.t: "Voler la sagesse" #NT!
+ pod1230objectives.115.desc: "Les ancêtres Kuei-jin racontent que le barbare Zao-lat a été formé par Xue dans l'utilisation de ce pouvoir, mais que ses propres défauts l'ont empêché de le maîtriser et que son P'o l'a corrompu. Lorsque Xue a vu que son disciple avait des défauts et l'a chassé, le traître est parti vers l'ouest, partageant sa forme bâtarde avec ses partisans.\nIl a depuis quitté l'Inde mais vous a laissé la mission de maîtriser enfin les secrets les mieux gardés de le Wan Kuei. Une tâche que vous avez enfin accomplie, rendant Zao-Lat fier... et tous les « Kindred of the East » encore plus hostiles à partir de maintenant." #NT!
+ pod1230objectives.115.a: "Le vol comme activité scientifique." #NT!
+ wisdom_stealer_modifier: "Voleur de sagesse" #NT!
+ wisdom_stealer_modifier_desc: "Vous pouvez accéder à Ch'iuh Muh." #NT!
+ unlock_chiiumuh_tooltip: "Vous pouvez accéder à Ch'iuh Muh.\nDéverrouiller $awake_hun_and_po_objective_decision$ [decision|E]" #NT!
+  
+ pod1230objectives.116.t: "Réorganiser le Tigre Blanc" #NT!
+ pod1230objectives.116.desc: "La puissante « Cour de l’Occident » a toujours été entravée par le factionnalisme. Les Wu concurrents gouvernent comme des seigneurs de guerre dans leurs propres fiefs et la division pure et simple n'a été évitée pendant longtemps que grâce au profond respect que chacun avait envers l'impératrice Fan. Puis, soudainement, elle a disparu.\nLa Cour du Tigre Blanc s'est alors officiellement divisée en factions concurrentes malgré les tentatives maladroites du successeur de Fan pour maintenir l'unité. Depuis lors, beaucoup ont tenté de ramener la paix à la Cour de l'Ouest, mais ils ont tous échoué.\nCe temps est cependant révolu, et votre arrivée au poste d'Empereur a une fois de plus solidifié la Cour Blanche, qui se présente enfin comme un égal. partenaire des cours d'août de l'Est." #NT!
+ pod1230objectives.116.a: "Le tigre hurle à nouveau." #NT!
+  
+ pod1230objectives.117.t: "La fin du Dictum Mortuum" #NT!
+ pod1230objectives.117.desc: "Charon s'est rendu et le Dictum Mortuum n'existe plus, vous pouvez désormais interagir avec n'importe quel Quick à votre guise." #NT!
+ pod1230objectives.117.a: "Que chaque jour soit Halloween." #NT!
+ the_gravedigger_of_dictum_mortuum: "Le fossoyeur de Dictum Mortuum" #NT!
+  
+ pod1230objectives.118.t: "Empire de la corruption" #NT!
+ pod1230objectives.118.desc: "Les démons sont alimentés par la foi et, chaque démon étant l'incarnation de l'un des péchés fondamentaux, le meilleur moyen pour eux d'acquérir plus de pouvoir est de corrompre davantage de mortels. Les petites sectes sont assez faciles à créer, mais vous avez réalisé quelque chose de bien plus impressionnant en corrompant une zone importante pour le péché de votre choix.\nBien que beaucoup ignorent la situation réelle, la plupart des habitants de cette région alimentent désormais votre ascension vers la religion. pouvoir à chaque fois qu'ils se livrent à leurs désirs. Le chaos s'étend et votre renommée grandit chaque jour.\nUn début idéal pour votre inévitable ascension en tant que plus grand ennemi de Dieu." #NT!
+ pod1230objectives.118.a: "Péché éternel" #NT!
+ eternal_avarice_modifier: "Avarice éternelle" #NT!
+ eternal_envy_modifier: "Envie éternelle" #NT!
+ eternal_gluttony_modifier: "Gourmandise éternelle" #NT!
+ eternal_lust_modifier: "Luxure éternelle" #NT!
+ eternal_pride_modifier: "Fierté éternelle" #NT!
+ eternal_sloth_modifier: "Paresseux éternel" #NT!
+ eternal_wrath_modifier: "Colère éternelle" #NT!
+  
+ pod1230objectives.119.t: "Évasion de la prison abyssale" #NT!
+ pod1230objectives.119.desc: "La rébellion de Lucifer a finalement été perdue par ses partisans et les vaincus ont été jetés dans une prison abyssale conçue par Dieu pour se repentir de leurs crimes pour toute l'éternité. Depuis, cependant, de nombreux Démons (comme vous) se sont échappés des fissures de la prison, ou en étant invoqués par des Infernalistes trop ambitieux. Pourtant, ce n'est qu'un filet d'eau comparé à l'Armée de l'Enfer qui y est encore emprisonnée.\nOuvrir en grand une forteresse aussi imprenable n'est pas une tâche facile, mais votre récente accession au pouvoir vous a offert de nouvelles opportunités. Vous n'êtes peut-être pas encore le Tout-Puissant, mais vous êtes maintenant assez fort pour constituer une menace pour les Abysses.\nEt chaque fois que vous ouvrez un nouveau trou dans la prison, de plus en plus de vos frères s'échappent pour rejoindre votre cause sur Terre. ." #NT!
+ pod1230objectives.119.a: "Une nouvelle rébellion divine arrive." #NT!
+  
+ pod1230objectives.120.t: "Apocalypse biblique" #NT!
+ pod1230objectives.120.desc: "Dieu a abandonné ce monde il y a longtemps, découragé par les échecs de l'humanité et la rébellion de ses anges fidèles. Vous et les autres Déchus avez été chassés du Ciel pour pourrir en Enfer pour toujours. Mais tu as enduré, mieux encore, tu as triomphé. Malgré tous les efforts des agents de Dieu et les mesquines intrigues d'autres créatures surnaturelles, le monde chante désormais vos louanges impies, vous présentant comme un rival du Tout-Puissant lui-même.\nIl est temps de subir l'affront ultime, prédit il y a si longtemps l'Apocalypse. . Arrachez les étoiles du ciel, renversez toute la Création et jetez les cendres à la face de Dieu. Alors, et alors seulement, vous aurez suffisamment de pouvoir pour diriger votre armée infernale vers la bataille divine finale." #NT!
+ pod1230objectives.120.a: "La Fin est venue." #NT!
+ pod1230objectives.120.b: "Je peux encore m'amuser ici..." #NT!
+ the_end_of_the_world_tooltip: "Avec la fin de la Création et votre combat contre le Grand Traître, votre partie sera terminée." #NT!
+  
+ pod1230objectives.121.t: "La vie apporte la vie" #NT!
+ pod1230objectives.121.desc: "Pendant qu'ils se battent pour des bibelots de jade, les rois Yama empoisonnent les cœurs de tous les côtés, jouant chaque extrémité contre le milieu pour que seul l'enfer gagne.\nAu lieu d'interrompre quelques combats, cependant, les émissaires du Wu Feng recrutent d'autres nobles. shen à leur cause, des féroces métamorphes hengeyokai aux divinités cachées des hsien. La vie est précieuse, trop précieuse pour être gaspillée dans des luttes intestines inutiles. La paix apporte l'espoir, l'espoir apporte la guérison, la guérison apporte la vie. Dans toutes ces choses, l’enfer est vaincu." #NT!
+ pod1230objectives.121.a: "L'enfer tombera." #NT!
+  
+ pod1230objectives.122.t: "Enfants des morts" #NT!
+ pod1230objectives.122.desc: "Durant les périodes les plus violentes de la Guerre du Ciel, Abaddon et Asmodeus (deux des lieutenants de Lucifer) firent des expérimentations odieuses qui aboutirent à la naissance des Nephilim : la progéniture d'un démon avec une armée humaine et une femme mortelle. Même si certains d'entre eux étaient bienveillants, la plupart étaient tordus et corrompus par leurs « pères » immortels voulant utiliser leur potentiel illimité dans leur propre rébellion contre Lucifer.\nCes premiers Nephilim commettèrent des crimes odieux contre l'humanité, jusqu'à ce que Lucifer et ceux qui lui sont encore fidèles parviennent à le faire. pour les arrêter.\nComme vous avez enfin réussi à découvrir les secrets de leur création, vous êtes en mesure de faire naître une nouvelle race de Nephilim. Seront-ils utilisés pour le bien ou le mal ? Ce sera à toi de choisir." #NT!
+ pod1230objectives.122.a: "Les enfants des Dieux parcourent à nouveau la Terre." #NT!
+  
+ pod1230objectives.123.t: "La tortue endure" #NT!
+ pod1230objectives.123.desc: "La Cour des Tortues Noires, également appelée Cour Errante, est l'une des Cours des Cinq Août du [fourth_age|E]. Il englobe le nord de l'Asie de l'Est et représente ainsi la direction du Nord.\nAvec la montée des Mongols, la Cour des Tortues Noires les suivit en Chine, où ils entraient en conflit avec les autres Cours d'Août. Leur contact avec le sud montra également plusieurs akuma dans leurs rangs. Alors que de plus en plus d'akuma étaient détectés, la Cour des Tortues Noires envoya le gros de ses forces contre eux. Beaucoup de ces wu ont été vaincus, leurs membres torturés et finalement transformés en akuma eux-mêmes.\nTout espoir semblait perdu, jusqu'à ce que vous parveniez à unir les Wan Kuei purs restants et à éliminer l'infestation d'Anda et d'Akuma dans les steppes. La Tortue se redresse à nouveau et la Roue des Âges a été ralentie." #NT!
+ pod1230objectives.123.a: "Nous ne tomberons plus." #NT!
+  
+ pod1230objectives.124.t: "La vérité sur Brujah" #NT!
+ pod1230objectives.124.desc: "Il y a bien longtemps, [Clan|E] Brujah était un phare pour les érudits et les philosophes. Puis Troile est arrivée, son acte odieux envers notre fondateur ouvrant la voie à la chute de notre lignée autrefois noble. Depuis lors, le groupe de Troile a prospéré et seule notre intervention opportune a sauvé le monde de leurs rituels abominables à Carthage.\nNous ne nous sommes cependant pas arrêtés là. Répandre la vérité nous a demandé du temps et beaucoup de travail pour convaincre les partisans les plus dévoués de Troile, mais c'est désormais chose faite. Alors que nous veillons sur le lieu de repos des traîtres dans les ruines de Carthage, nous proclamons ceci : Surnommés « Brujah », enfants de Troile, il est temps de rejoindre le Vrai Clan et d'abandonner votre lignée maudite. Nous, les Vrais, sommes prêts à vous accueillir à bras ouverts... ou à lame dégainée si vous essayez de vous accrocher à vos perfides ancêtres. Fais ton choix." #NT!
+ pod1230objectives.124.a: "Ouvre les bras..." #NT!
+ pod1230objectives.124.b: "...ou dégainez votre lame ?" #NT!
+ pod1230objectives.125.a: "Les rebelles ne sont plus ?" #NT!
+ pod1230objectives.125.b: "Cela ne peut pas être vrai !" #NT!
+  
+ pod1230objectives.126.t: "Aidez les porteurs de lumière" #NT!
+ pod1230objectives.126.desc: "Les Momies sont un mystère pour votre espèce. Ces entités sont clairement de souche païenne et ont peu de respect pour les plus grands, mais leurs contributions pour le plus grand bien de la Terre de Foi ne peuvent être surestimées.\nLes temps difficiles appellent des solutions pragmatiques, et vous avez choisi d'ignorer leurs absurdités mystiques à propos de ces entités. les anciens dieux égyptiens et se concentrent plutôt sur des questions plus stratégiques. Malgré tous leurs défauts, ils sont certainement puissants et en savent beaucoup sur la façon de chasser les sangsues maudites. Cette étrange alliance a porté ses fruits et vos deux organisations en ont bénéficié. Une situation acceptable.\nPour l'instant du moins." #NT!
+ pod1230objectives.126.a: "D’étranges compagnons de lit." #NT!
+  
+ pod1230objectives.127.t: "Libérez le désir" #NT!
+ pod1230objectives.127.desc: "Le Keening a commencé après que le prophète Mohammad ait conquis la Mecque et est généralement considéré comme une manifestation de la puissance d'Allah, émanant de la pierre noire à l'intérieur de la Kaaba. Tout être contaminé peut ressentir le pouvoir de la Vraie Foi canalisé via la Pierre Noire. Le Keening ne s'est arrêté qu'une seule fois dans son histoire, lorsque des Qarmates, membres d'une secte islamique, ont volé la pierre noire de la Kaaba en 950. Cela a permis à Tarique, un Nosferatu, d'ériger des barrières de sorcellerie pouvant contenir une partie du Keening, bien que ils ne peuvent pas le faire taire complètement.\nGrâce à vos nouvelles connaissances et au nettoyage de la zone, vous avez pu supprimer le rituel de Tarique et libérer à nouveau le pouvoir de la foi. Les surnaturels corrompus, comme les vampires, ressentent à nouveau le Keening comme une cacophonie de gémissements et de cris." #NT!
+ pod1230objectives.127.a: "Allah a parlé !" #NT!
+  
+ pod1230objectives.128.t: "Tasawwuf" #NT!
+ pod1230objectives.128.desc: "Le soufisme, également connu sous le nom de Tasawwuf, est un ensemble mystique de pratique religieuse, que l'on retrouve principalement dans l'islam sunnite mais également dans l'islam chiite, caractérisé par une concentration sur la spiritualité islamique, le ritualisme, l'ascétisme et l'ésotérisme. Cet ésotérisme a souvent donné crédit à l'existence de sorciers soufis, dotés de pouvoirs incroyables.\nVotre longue étude à la Maison de la Sagesse vous a permis de percer les secrets des anciens maîtres soufis, vous donnant ainsi un avantage dans le combat éternel." #NT!
+ pod1230objectives.128.a: "Allah regarde !" #NT!
+  
+ pod1230objectives.129.t: "Le pardon divin" #NT!
+ pod1230objectives.129.desc: "Vos souvenirs sont enfin revenus et vous vous souvenez de tout. La Création, la lumière de Dieu sur le monde, les premiers pas maladroits de l'humanité, les appels de Lucifer à protéger les mortels malgré les plans de Dieu... tout vous est revenu. Et avec cela, un profond sentiment de perte. Perte de votre objectif originel, du regard aimant de Dieu sur vous, du potentiel indompté que vous avez autrefois encouragé chez les mortels.\nDepuis lors, vous avez fait des choses horribles et avez été puni pour cela. Ensuite, vous vous êtes évadé de la prison abyssale, peut-être pour tester Dieu pour vous. Visiblement, vous ne allez pas beaucoup mieux depuis votre retour sur Terre mais, au final, cela n'a pas d'importance. Vous voyez la vérité maintenant. Peu importe à quel point un être est méchant, quels que soient les crimes odieux qu'il commet, il y a toujours une chance d'être pardonné.\nVous n'avez qu'à faire le premier pas vers cet objectif et la dernière étape de votre voyage." #NT!
+ pod1230objectives.129.a: "Une lumière aveuglante..." #NT!
+ demonic_redemption_tooltip: "Et ainsi votre histoire se termine comme elle a commencé, en montant vers la porte du Ciel." #NT!
+ pod1230objectives.129.b: "Ce n’est pas encore le moment." #NT!
+  
+ pod1230objectives.130.t: "Réveillez-vous Hun et P'o" #NT!
+ pod1230objectives.130.desc: "Pour déchiffrer le secret de Hun et P'o, vous avez rencontré le juif Kaifeng Wan-Kuei, étudié le Kànbujiàn et le Yomi, et vous êtes allé au mont Meru, trouvant le complexe de temples qui servait de siège aux Wan Xian. nMaintenant, vous avez compris le deuxième souffle, éveillé votre Hun et votre P'o et êtes devenu un Wan Kuei à part entière !\nPeut-être que c'était ce que Saulot recherchait il y a toutes ces années et peut-être que vous avez même fait mieux que jamais. Vous êtes désormais unique en votre genre, un trait d’union entre deux mondes bien différents." #NT!
+ pod1230objectives.130.a: "J'ai réalisé l'impossible." #NT!
+  
+ pod1230objectives.131.t: "Le grand schisme réparé" #NT!
+ pod1230objectives.131.desc: "Bien que l'Inquisition et l'Akritai poursuivent le même objectif, à savoir purger le monde du surnaturel, les frictions entre les deux sont fréquentes. 1204 est encore frais dans la mémoire des chasseurs d'Akritai et ses blessures ne sont pas encore guéries. La méfiance se transforme souvent en hostilité pure et simple et les serviteurs du Diable rient pendant que les chasseurs se chassent.\nPas plus cependant, car les Akritai ont atteint une position dominante dans les sièges traditionnels de la chrétienté. Avec cette nouvelle primauté, les chasseurs orthodoxes ont placé leurs frères catholiques sous leur domination, unifiant les guerriers de la chrétienté sous une force plus puissante que jamais." #NT!
+ pod1230objectives.131.a: "L'Inquisition de l'Ombre a été ramenée au bercail !" #NT!
+  
+ pod1230objectives.132.t: "Émanations" #NT!
+ pod1230objectives.132.desc: "Toutes choses sont liées à Dieu à travers ces émanations, faisant de tous les niveaux de la création une partie d'une grande chaîne d'êtres qui descend progressivement.\nEt maintenant que le secret de la magie est clair, vous êtes prêt à enseigner." #NT!
+ pod1230objectives.132.a: "L'Infini Ein Sof." #NT!
+  
+ pod1230objectives.133.t: "Théurgie" #NT!
+ pod1230objectives.133.desc: "Après avoir étudié les textes sacrés, vous avez enfin trouvé le secret pour invoquer la puissance de Dieu. Maintenant, vous allez enseigner cela à vos frères et sœurs, alors que vous êtes unis dans votre position contre les ténèbres." #NT!
+ pod1230objectives.133.a: "Dieu regarde !" #NT!
+  
+ pod1230objectives.134.t: "Babylone" #NT!
+ pod1230objectives.134.desc: "Dans les anciens royaumes tels que la Babylonie et la Sumérie, le cercle d'adorateurs de chaque démon est devenu un culte, puis une religion à part entière, avec des temples et des idoles sculptés à l'effigie de l'esprit apparaissant dans les villes, les villages et les maisons à travers le pays.\nAu fur et à mesure du ruissellement. de foi s'est gonflé jusqu'à devenir un ruisseau constant, puis une rivière déferlante, les Terriens ont utilisé leur savoir pour assouvir leur rage et punir les incroyants avec des malédictions, la peste et la famine.\nÀ aucune autre époque depuis la Création les Anges Déchus n'ont régné aussi ouvertement sur le monde. une humanité faible. La chute de ces civilisations et la montée du monothéisme ont considérablement affaibli les démons, obligeant beaucoup d'entre eux à s'endormir ou à être bannis dans les Abysses.\nReprendre le manteau de ces temps peu glorieux envoie un message très fort à vos frères et sœurs dans le péché." #NT!
+ pod1230objectives.134.a: "Tout simplement glorieux" #NT!
+  
+ pod1230objectives.135.t: "Création de Visceratika" #NT!
+ pod1230objectives.135.desc: "Extension de leur affinité naturelle pour la pierre, la terre et les objets qui en sont faits, Visceratika est pour les Gargouilles une version codifiée de ces pouvoirs qui leur sont venus naturellement. Longtemps fascinés par les Tremere, ils n'avaient jusqu'à présent pas été incapables de réellement comprendre cette affinité pour ces pouvoirs mais cela a changé récemment. Créées par un individu innovant, ces étranges capacités se propagent finalement comme une traînée de poudre parmi les gargouilles très communes, sous le nom de Visceratika. Une nouvelle discipline rejoint les rangs du pouvoir du sang." #NT!
+ pod1230objectives.135.a: "Maîtres de la Terre et de la Pierre." #NT!
+  
+ pod1230objectives.136.t: "Création de Visceratika" #NT!
+ pod1230objectives.136.desc: "Extension de leur affinité naturelle pour la pierre, la terre et les objets qui en sont faits, Visceratika est pour les Gargouilles une version codifiée de ces pouvoirs qui leur sont venus naturellement. Longtemps fascinés par les Tremere, ils n'avaient jusqu'à présent pas été incapables de réellement comprendre cette affinité pour ces pouvoirs mais cela a changé récemment. Créées par un individu innovant, ces étranges capacités se propagent finalement comme une traînée de poudre parmi les gargouilles très communes, sous le nom de Visceratika. Une nouvelle discipline rejoint les rangs du pouvoir du sang." #NT!
+ pod1230objectives.136.a: "Maîtres de la Terre et de la Pierre." #NT!
+  
+ pod1230objectives.137.t: "Création de Visceratika" #NT!
+ pod1230objectives.137.desc: "Les rapports indiquent que [visceratika_creator.GetFirstNameNoTooltip] a créé une nouvelle discipline nommée [GetTrait('visceratika').GetName(GetNullCharacter)].\nExtension de leur affinité naturelle pour la pierre, la terre et les objets qui en sont faits, Visceratika est pour les Gargouilles une version codifiée de ces pouvoirs qui leur sont venus naturellement. Longtemps fascinés par les Tremere, ils n'avaient jusqu'à présent pas été incapables de réellement comprendre cette affinité pour ces pouvoirs mais cela a changé récemment. Créées par un individu innovant, ces étranges capacités se propagent finalement comme une traînée de poudre parmi les gargouilles très communes, sous le nom de Visceratika. Une nouvelle discipline rejoint les rangs du pouvoir du sang." #NT!
+ pod1230objectives.137.a: "Plus de pouvoirs à apprendre ?" #NT!
+ pod1230objectives.137.b: "Tant mieux pour notre lignée." #NT!

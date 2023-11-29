@@ -1,0 +1,42 @@
+﻿l_french:
+  
+ POD_rationalize.100.t: "Vous êtes dominé" #NT!
+ POD_rationalize.100.desc: "[schemer.GetTitledFirstName] vous domine pour exiger une faveur." #NT!
+ POD_rationalize.100.option.a: "Exercer ma volonté pour résister à la domination." #NT!
+ POD_rationalize.100.option.b: "Refusez la domination." #NT!
+ POD_rationalize.100.option.c: "Acceptez la domination." #NT!
+  
+ POD_rationalize.200.t: "Dominant [target.GetFirstNameNoTooltip]" #NT!
+ POD_rationalize.200.desc: "Ma volonté commande [target.GetTitledFirstName]. [target.GetSheHe|U] résiste à ma domination" #NT!
+ POD_rationalize.200.option.a: "Réveillez le sang pour dominer [target.GetHerHim]." #NT!
+ POD_rationalize.200.a.tt_fortitude: "[target.GetFirstNameNoTooltip] maîtrise le [discipline|E] de courage et résiste à vos pouvoirs." #NT!
+ POD_rationalize.200.a.tt_willpower: "[target.GetFirstNameNoTooltip] a exercé la volonté de [target.GetHerHis] pour résister à vos pouvoirs." #NT!
+ POD_rationalize.200.a.success.desc: "La victoire" #NT!
+ POD_rationalize.200.a.tt_success: "[target.GetTitledFirstName] rationalisera en vous accordant une faveur." #NT!
+ POD_rationalize.200.a.failure.desc: "Défaite" #NT!
+ POD_rationalize.200.a.tt_failure: "[target.GetTitledFirstName] résistera à votre domination." #NT!
+ POD_rationalize.200.option.b: "Réveillez le sang et exercez ma volonté. Je suis le maître!" #NT!
+ POD_rationalize.200.option.b.tt.beast: "#R Je suis le maître !#!" #NT!
+ POD_rationalize.200.option.c: "C'est une perte de temps, je ne souhaite plus dominer le [target.GetHerHim]." #NT!
+ POD_rationalize.200.option.c.tt: "La domination échouera." #NT!
+  
+ POD_rationalize.300.t: "[target.GetFirstNameNoTooltip] Rationalisé" #NT!
+ POD_rationalize.300.desc: "Grâce à l'utilisation de ma domination [discipline|E], [target.GetTitledFirstName] rationalisera et me devra une faveur." #NT!
+ POD_rationalize.300.option.a: "Maintenant, qu'est-ce que je veux que [target.GetHerHim] fasse ?" #NT!
+ POD_rationalize.300.option.a.tt.beast: "#R Du sang ! Nous voulons du sang !#!" #NT!
+  
+ POD_rationalize.400.t: "Une dette que je ne peux pas refuser" #NT!
+ POD_rationalize.400.desc: "Je dois [schemer.GetTitledFirstName]." #NT!
+ POD_rationalize.400.option.a: "Comment vais-je pouvoir atteindre le [schemer.GetHerHim] ?" #NT!
+  
+ POD_rationalize.500.t: "A résisté à la domination" #NT!
+ POD_rationalize.500.desc: "[target.GetTitledFirstName] a résisté à ma domination." #NT!
+ POD_rationalize.500.option.a: "Ça ne peut pas être!" #NT!
+ POD_rationalize.500.option.a.tt.beast: "#R Battez-les jusqu'à ce qu'ils obéissent !#!" #NT!
+  
+ POD_rationalize.600.t: "Domination résistée" #NT!
+ POD_rationalize.600.desc: "J'ai libéré les chaînes mentales de la domination du [schemer.GetTitledFirstNamePossessive]." #NT!
+ POD_rationalize.600.option.a: "J'ai une volonté de fer !" #NT!
+  
+  
+  

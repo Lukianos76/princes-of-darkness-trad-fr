@@ -1,0 +1,170 @@
+﻿l_french:
+ trait_breed: "Race" #NT!
+ trait_homid_born: "Homid" #NT!
+ trait_homid_born_desc: "Les Homid sont une race de métamorphes nés et élevés par les humains, ce qui est leur forme naturelle." #NT!
+ trait_metis: "Métis" #NT!
+ trait_metis_desc: "Les Métis sont une race rare de Shapeshifter. Ils sont les descendants de deux Shapeshifters qui ont brisé la Litanie par amour ou par désir. Ils naissent sous la forme Crinos et c'est leur forme naturelle - cependant, ils sont déformés et stériles." #NT!
+ trait_lupus_born: "Lupus" #NT!
+ trait_lupus_born_desc: "Les lupus sont une race de Garous nés et élevés comme des loups, ce qui est leur forme naturelle." #NT!
+  
+ trait_kojin: "Kojin" #NT!
+ trait_kojin_desc: "Les Kojin sont une race de Kitsune née et élevée par des humains, ce qui est leur forme naturelle." #NT!
+ trait_balaram: "Balaram" #NT!
+ trait_balaram_desc: "Les Balaram sont une race de Nagah née et élevée par les humains, ce qui est leur forme naturelle." #NT!
+  
+ trait_shinju: "Shinju" #NT!
+ trait_shinju_desc: "Les Shinju ne sont ni déformés ni stériles. Cependant, seulement 10 % de tous les descendants de Kitsune à Kitsune sont des shinju plutôt que des Kinfolk humains ou renards normaux. De plus, l'un des parents Kitsune risque de mourir si un shinju naît. Shinju grandit dans les tribunaux et devient généralement insupportablement arrogant et perfectionniste." #NT!
+ trait_ahi: "Ahi" #NT!
+ trait_ahi_desc: "Les épluchures de Nagah, dans des conditions très spécifiques, produisent une seule progéniture fertile et non déformée appelée ahi. Une mère ne peut donner naissance qu’à un seul ahi au cours de sa vie ; tous les autres couples avec un Nagah mâle produisent du Kinfolk, bien qu'elle puisse choisir leur race. Leur peau se boursoufle lorsqu'ils sont exposés à une forte pollution puisqu'ils sont élevés dans les eaux pures de l'Ananta de leur mère." #NT!
+  
+ trait_beast_born: "Bête-née" #NT!
+ trait_beast_born_desc: "Beastborn est une race de métamorphes nés et élevés par des animaux, ce qui est leur forme naturelle." #NT!
+ trait_feline_born: "Félin" #NT!
+ trait_feline_born_desc: "Les félins sont une race de Bastet qui est né et a grandi comme un grand chat, ce qui est leur forme naturelle." #NT!
+ trait_hyaena_born: "Hyène" #NT!
+ trait_hyaena_born_desc: "Les hyènes sont une race d'Ajaba née et élevée comme une hyène, ce qui est leur forme naturelle." #NT!
+ trait_corvid_born: "Corvidé" #NT!
+ trait_corvid_born_desc: "Les corvidés sont une race de Corax qui est née et a grandi comme un corbeau, ce qui est leur forme naturelle." #NT!
+ trait_ursine_born: "Ourse" #NT!
+ trait_ursine_born_desc: "Les Ursines sont une race de Gurahl qui est née et a grandi comme un ours, ce qui est leur forme naturelle." #NT!
+ trait_roko_born: "Roko" #NT!
+ trait_roko_born_desc: "Les Roko sont une race de Kitsune qui est née et a grandi comme un renard, ce qui est leur forme naturelle." #NT!
+ trait_suchid_born: "Suchide" #NT!
+ trait_suchid_born_desc: "Les Suchidés sont une race de Mokolé né et élevé comme un reptile, ce qui est leur forme naturelle." #NT!
+ trait_vasuki_born: "Vasuki" #NT!
+ trait_vasuki_born_desc: "Les Vasuki sont une race de Nagah qui est née et a grandi comme un serpent, ce qui est leur forme naturelle." #NT!
+ trait_latrani_born: "Latrani" #NT!
+ trait_latrani_born_desc: "Les Latrani sont une race de Nuwisha qui est née et a grandi comme un coyote, ce qui est leur forme naturelle." #NT!
+ trait_rodens_born: "Rodens" #NT!
+ trait_rodens_born_desc: "Les Rodens sont une race de Ratkin né et élevé comme un rat, ce qui est leur forme naturelle." #NT!
+ trait_squamus_born: "Squamus" #NT!
+ trait_squamus_born_desc: "Les Squamus sont une race de Rokea qui est née et a grandi comme un requin, ce qui est leur forme naturelle." #NT!
+ trait_bos_born: "Bos" #NT!
+ trait_bos_born_desc: "Les Bos sont une race d'Apis qui est née et élevée comme un taureau, ce qui est leur forme naturelle." #NT!
+ trait_chiroptera_born: "Chiroptères" #NT!
+ trait_chiroptera_born_desc: "Les chiroptères sont une race de Camazotz qui est née et a grandi comme une chauve-souris, ce qui est leur forme naturelle." #NT!
+ trait_scrofa_born: "Scrofa" #NT!
+ trait_scrofa_born_desc: "Les Scrofa sont une race de Grondr née et élevée comme un sanglier, ce qui est leur forme naturelle." #NT!
+ trait_arachnid_born: "Arachnide" #NT!
+ trait_arachnid_born_desc: "Les arachnides sont une race d'Ananasi qui est née et a grandi comme une araignée, ce qui est leur forme naturelle." #NT!
+  
+ trait_auspice: "Auspice" #NT!
+ trait_ahroun: "Ahroun" #NT!
+ trait_ahroun_desc: "L'un des cinq Auspices sous lesquels un Garou peut naître. La Pleine Lune fait de l'Ahroun l'arme vivante de Gaia. Ils sont le guerrier parmi une race de guerriers, le champion d’un peuple guerrier. Toujours prêt à tuer, et à mourir s'il le faut." #NT!
+ trait_galliard: "gaillarde" #NT!
+ trait_galliard_desc: "L'un des cinq Auspices sous lesquels un Garou peut naître. Représentée par la Lune Gibbeuse, la Galliard chante l'âme du Garou. Ils sont la voix du peuple, l’appelant au combat et l’inspirant à la grandeur dans la vie et dans la mort. Ils sont également les gardiens des traditions, transmettant les traditions des tribus depuis le début." #NT!
+ trait_philodox: "Philodoxe" #NT!
+ trait_philodox_desc: "L'un des cinq Auspices sous lesquels un Garou peut naître. La demi-lune signifie équilibre et dualité, un Garou né sous son influence agit fréquemment comme conseiller, médiateur et gardien de la loi auprès de sa meute." #NT!
+ trait_theurge: "L'envie" #NT!
+ trait_theurge_desc: "L'un des cinq Auspices sous lesquels un Garou peut naître. Le croissant de lune en forme de faucille confère le don de perspicacité. Les Théurges sont les mystiques des Garous, plus proches que quiconque de l'Umbra et de ses habitants." #NT!
+ trait_ragabash: "Ragabash" #NT!
+ trait_ragabash_desc: "L'un des cinq Auspices sous lesquels un Garou peut naître. Celui qui est né pendant la Nouvelle Lune agit comme le filou mythique, l'imbécile qui est tour à tour insensé et sage. Il joue le rôle du contraire, remettant en question la tradition pour trouver la voie la plus sage." #NT!
+  
+ trait_dawn: "Aube" #NT!
+ trait_dawn_female_desc: "L'un des deux Aspects sous lesquels un Ajaba peut naître. Semblables à Garou Ahroun, les femmes Dawn sont des guerrières." #NT!
+ trait_dawn_male_desc: "L'un des deux Aspects sous lesquels un Ajaba peut naître. Semblables aux Garou Galliards, les hommes Dawn sont des conteurs." #NT!
+ trait_dusk: "Crépuscule" #NT!
+ trait_dusk_female_desc: "L'un des deux Aspects sous lesquels un Ajaba peut naître. Une version plus violente de Ragabash, les femmes Dusk sont des assassins." #NT!
+ trait_dusk_male_desc: "L'un des deux Aspects sous lesquels un Ajaba peut naître. Comme les Théurges très talentueux, les hommes de Dusk sont des mystiques." #NT!
+  
+ trait_uzmati: "Ouzmati" #NT!
+ trait_uzmati_desc: "L'un des cinq auspices sous lesquels un Gurahl peut progresser au cours de sa vie. La Pleine Lune fait de l’Uzmati l’arme vivante de Gaia. Ils sont le guerrier parmi une race de guerriers, le champion d’un peuple guerrier. Toujours prêt à tuer, et à mourir s'il le faut." #NT!
+ trait_kojubat: "Kojubat" #NT!
+ trait_kojubat_desc: "L'un des cinq auspices sous lesquels un Gurahl peut progresser au cours de sa vie. Représenté par la Lune Gibbeuse, le Kojubat chante l'âme du Gurahl. Ils sont la voix du peuple, l’appelant au combat et l’inspirant à la grandeur dans la vie et dans la mort. Ils sont également les gardiens des traditions, transmettant les traditions des tribus depuis le début." #NT!
+ trait_rishi: "Rishi" #NT!
+ trait_rishi_desc: "L'un des cinq auspices sous lesquels un Gurahl peut progresser au cours de sa vie. La demi-lune signifie équilibre et dualité, un Gurahl sous son influence agit fréquemment en tant que conseiller, médiateur et gardien de la loi auprès de sa meute." #NT!
+ trait_kieh: "Kieh" #NT!
+ trait_kieh_desc: "L'un des cinq auspices sous lesquels un Gurahl peut progresser au cours de sa vie. Le croissant de lune en forme de faucille confère le don de perspicacité. Les Théurges sont les mystiques des Gurahl, plus proches que quiconque de l'Umbra et de ses habitants." #NT!
+ trait_arcas: "Arcas" #NT!
+ trait_arcas_desc: "L'un des cinq auspices sous lesquels un Gurahl peut progresser au cours de sa vie. Celui qui est né pendant la Nouvelle Lune agit comme le filou mythique, l'imbécile qui est tour à tour insensé et sage. Il joue le rôle du contraire, remettant en question la tradition pour trouver la voie la plus sage." #NT!
+  
+ trait_warriors: "Guerriers" #NT!
+ trait_warriors_desc: "Comme son nom l'indique, combattants et tueurs, la première ligne du combat, un peu comme l'Ahroun des Garou. Également connu sous le nom de « esclaves de lame »." #NT!
+ trait_bards: "Bardes" #NT!
+ trait_bards_desc: "Les bardes sont un aspect perdu de la société des rats-garous. Connus familièrement sous le nom de « Parleurs », ils ont agi en tant qu'artisans de paix de la race : intermédiaires entre les Ratkin et les autres races, rassemblant des légendes à ajouter à leur mémoire de sang collective. Emissaires de Garou Sept aux premiers jours du monde, ils furent les premiers à mourir lorsque leur race fut trahie." #NT!
+ trait_knife_skulkers: "Couteaux Skulkers" #NT!
+ trait_knife_skulkers_desc: "Assassins honorés des Ratkin qui travaillent uniquement sous contrat. Ils agissent également comme juges et médiateurs, un peu comme un Philodoxe." #NT!
+ trait_shadow_seers: "Voyants de l'Ombre" #NT!
+ trait_shadow_seers_desc: "Chamans et guides spirituels, un peu comme un Théurge." #NT!
+ trait_tunnel_runners: "Coureurs de tunnels" #NT!
+ trait_tunnel_runners_desc: "Des éclaireurs et des espions errants, qui relient les Ratkin Warrens à travers le monde. Semblable à Ragabash." #NT!
+  
+ trait_pryio: "Pryio" #NT!
+ trait_pryio_twilight: "Crépuscule" #NT!
+ trait_pryio_twilight_desc: "Également connu sous le nom de « Moon-Favor », Bastet détermine sa place et la manière dont le chat aborde la vie et gère les défis qui lui sont lancés à travers Pryio. Bien que cela soit souvent déterminé par l'heure de la journée à laquelle le Bastet a réalisé son premier changement, Pryio peut changer si le Bastet subit un changement de vie important. Twilight Bastet sont des questionneurs et des chercheurs, ils ont tendance à être des détectives, des avocats, des espions ou des mystiques." #NT!
+ trait_pryio_daylight: "Lumière du jour" #NT!
+ trait_pryio_daylight_desc: "Également connu sous le nom de « Moon-Favor », Bastet détermine sa place et la manière dont le chat aborde la vie et gère les défis qui lui sont lancés à travers Pryio. Bien que cela soit souvent déterminé par l'heure de la journée à laquelle le Bastet a réalisé son premier changement, Pryio peut changer si le Bastet subit un changement de vie important. Les Daylight Bastet sont ouverts et directs, ils ont tendance à être des diplomates, des guerriers, des législateurs et des protecteurs." #NT!
+ trait_pryio_night: "Nuit" #NT!
+ trait_pryio_night_desc: "Également connu sous le nom de « Moon-Favor », Bastet détermine sa place et la manière dont le chat aborde la vie et gère les défis qui lui sont lancés à travers Pryio. Bien que cela soit souvent déterminé par l'heure de la journée à laquelle le Bastet a réalisé son premier changement, Pryio peut changer si le Bastet subit un changement de vie important. Les Night Bastet sont souvent renfermés et solitaires. Ils ont tendance à être des assassins, des érudits, des scientifiques et des praticiens de la magie noire." #NT!
+  
+ trait_path: "Chemin" #NT!
+ trait_eji: "Éji" #NT!
+ trait_eji_desc: "Le chemin du Guerrier, aligné sur la Lave, en passant par la Terre et le Feu." #NT!
+ trait_doshi: "Doshi" #NT!
+ trait_doshi_desc: "Le chemin du Sorcier, aligné sur la Foudre, en passant par l'Air et le Feu." #NT!
+ trait_gukutsushi: "Gukutsushi" #NT!
+ trait_gukutsushi_desc: "Le chemin de l'Illusionniste, aligné sur le Brouillard, en passant par l'Eau et l'Air." #NT!
+ trait_kataribe: "Kataribe" #NT!
+ trait_kataribe_desc: "Le chemin du Conteur, aligné sur Clay, en passant par la Terre et l'Eau." #NT!
+  
+ trait_sun_auspice: "Auspice du soleil" #NT!
+ trait_striking: "Le soleil levant" #NT!
+ trait_striking_desc: "Appelés « Frappants », ces Mokolé sont des guerriers contre les forces du Wyrm et des ténèbres (comme Kindred)." #NT!
+ trait_unshading: "Le soleil de midi" #NT!
+ trait_unshading_desc: "Appelés « Unshading », ces Mokolé sont les juges et les gardiens de la loi du peuple dragon et naissent lorsque le soleil est à son plus haut point." #NT!
+ trait_warding: "Le soleil couchant" #NT!
+ trait_warding_desc: "Appelés « Warding », ces Mokolé défendent souvent des sites importants pour les Mokolé et naissent au crépuscule." #NT!
+ trait_concealing: "Le soleil enveloppé" #NT!
+ trait_concealing_desc: "Appelés « Dissimulateurs », ces Mokolé sont des chamanes rusés, et naissent sous un ciel nuageux." #NT!
+ trait_shining: "Le soleil de minuit" #NT!
+ trait_shining_desc: "Appelés « Shining », ces Mokolé sont des escrocs semblables aux Garou Ragabash, et naissent la nuit." #NT!
+ trait_gathering: "Le soleil décoré" #NT!
+ trait_gathering_desc: "Appelés « Rassemblement », ces Mokolé sont des chefs chargés de diriger les marais et de maintenir l'organisation de leur peuple, et naissent ou éclosent sous des halos solaires ou « chiens du soleil »." #NT!
+ trait_crowning: "L'éclipse solaire" #NT!
+ trait_crowning_desc: "Appelés « Couronnement », ces très rares Mokolé sont les leaders incontestés de leur peuple. Ils sont nés lors d’une éclipse solaire et sont considérés comme des membres de la royauté par leur peuple. Souvent, la mère Mokolé essaie d'avoir ses enfants à temps pour un événement comme celui-ci." #NT!
+  
+ trait_seasonal_auspice: "Auspice saisonnier" #NT!
+ trait_kamakshi: "Kamakshi" #NT!
+ trait_kamakshi_desc: "Printemps – béni par les forces de vie et de renouveau, leur élément est la terre." #NT!
+ trait_kartikeya: "Kartikeya" #NT!
+ trait_kartikeya_desc: "Été - vigoureux et vrai, leur énergie favorise les plus grandes passions que l'on puisse trouver parmi le peuple serpent. Leur élément est le feu." #NT!
+ trait_kamsa: "Kamsa" #NT!
+ trait_kamsa_desc: "Automne - l'esprit de la cible est sa passion et son point fort. Leur élément est l'air." #NT!
+ trait_kali: "Kali" #NT!
+ trait_kali_desc: "Hiver : leur sang est le plus frais, leur vision la plus vraie et leur dévouement à leur cause ne connaît aucune limite. Leur élément est l'eau." #NT!
+  
+ trait_freak: "Monstre" #NT!
+ trait_engineers: "Ingénieurs" #NT!
+ trait_engineers_desc: "Scientifiques, inventeurs et bricoleurs, qui aiment s'occuper de la technologie." #NT!
+ trait_munchmausen: "Münchmausen" #NT!
+ trait_munchmausen_desc: "Swashbuckler Ratkin, grandement trompé, tout le monde." #NT!
+ trait_plague_lords: "Seigneurs de la Peste" #NT!
+ trait_plague_lords_desc: "Maîtres de la maladie et de la corruption." #NT!
+ trait_twitchers: "Twitcheurs" #NT!
+ trait_twitchers_desc: "Anarchistes parmi les anarchistes, les Twitchers sont des démolisseurs fous et imprévisibles." #NT!
+  
+ trait_water_auspice: "Auspice de l'eau" #NT!
+ trait_brightwater: "Eau vive" #NT!
+ trait_brightwater_desc: "Rokea né pendant les jours clairs ou les pleines lunes. Les Brightwaters sont semblables à Garou Ahroun ; ce sont des guerriers et des héros. Cependant, ils souhaitent souvent être proches de la surface de la mer." #NT!
+ trait_dimwater: "Eau tamisée" #NT!
+ trait_dimwater_desc: "Les Dimwaters naissent pendant les jours nuageux ou la nuit sous n'importe quelle phase de lune, sauf pleine ou nouvelle. La plupart des Rokea relèvent de cette catégorie. Ils sont les juges et les dirigeants de la race Rokea et créent les quelques fétiches utilisés par les Rokea." #NT!
+ trait_darkwater: "Eau sombre" #NT!
+ trait_darkwater_desc: "Appelés les « fous » par leurs pairs, les Darkwaters naissent sous les éclipses ou la Nouvelle Lune. Ils sont curieux, innovants, brillants et audacieux. Ils aiment plonger dans les profondeurs glaciales de la mer ou marcher sur terre pour découvrir de nouveaux secrets." #NT!
+  
+ trait_lunisolar_auspice: "Auspice luni-solaire" #NT!
+ trait_lunar: "Lunaire" #NT!
+ trait_lunar_desc: "Nés la nuit, ces Apis agissaient comme les guerriers de la race, protégeant leurs protégés des menaces extérieures." #NT!
+ trait_twilight: "Crépuscule" #NT!
+ trait_twilight_desc: "Nés au lever ou au coucher du soleil, ces Apis étaient les plus proches des royaumes spirituels." #NT!
+ trait_solar: "Solaire" #NT!
+ trait_solar_desc: "Nés de jour, ces Apis travaillaient en étroite collaboration avec les humains et les autres espèces." #NT!
+  
+ trait_gnosis: "Gnose" #NT!
+ trait_gnosis_desc: "La Gnose est une énergie spirituelle et magique. Certains mortels talentueux peuvent l’utiliser. La Gnose est une ressource renouvelable, mais en diminution. Il peut être récupéré sur des sites sacrés, en méditant ou en négociant avec les esprits. Les sites sacrés fournissent la Gnose, mais s'ils sont souillés, cela peut corrompre leur porteur, ou il se peut qu'il n'y en ait tout simplement plus." #NT!
+ trait_gnosis_kinfolk: "Gnose familiale" #NT!
+ trait_gnosis_kinfolk_desc: "La Gnose est une énergie spirituelle et magique. Certains Kinfolk talentueux peuvent l’utiliser. La Gnose est une ressource renouvelable, mais en diminution. Il peut être récupéré sur des sites sacrés, en méditant ou en négociant avec les esprits. Les sites sacrés fournissent la Gnose, mais s'ils sont souillés, cela peut corrompre leur porteur, ou il se peut qu'il n'y en ait tout simplement plus." #NT!
+ trait_abomination: "Abomination" #NT!
+ trait_abomination_desc: "L'abomination est un terme utilisé pour décrire un métamorphe transformé en vampire. Inutile de dire que ces créatures sont exceptionnellement rares, compte tenu du fait que presque tous les Fera sont violemment allergiques à la vitae vampirique. Les abominations sont redoutées aussi bien par les Garous que par les Vampires. Ils sont extrêmement puissants et la plupart deviennent rapidement fous, devenant bestiaux et incapables d'agir, même à distance, comme des êtres humains." #NT!
+ trait_werewolf_abomination: "Garou Abomination" #NT!
+ trait_gurahl_abomination: "Umfalla" #NT!
+ trait_mokole_abomination: "Mokolé Abomination" #NT!

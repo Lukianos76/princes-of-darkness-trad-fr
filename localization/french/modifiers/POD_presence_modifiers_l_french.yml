@@ -1,0 +1,30 @@
+﻿l_french:
+  
+ phobia_1_modifier: "[battle_modifier|E] : Phobie" #NT!
+ phobia_1_modifier_desc: "Avec le pouvoir de [GetTrait('presence').GetName(GetNullCharacter)], ce personnage terrifie les ennemis." #NT!
+ phobia_2_modifier: "[battle_modifier|E] : Phobie" #NT!
+ phobia_2_modifier_desc: "Avec le pouvoir de [GetTrait('presence').GetName(GetNullCharacter)], ce personnage terrifie les ennemis." #NT!
+ phobia_3_modifier: "[battle_modifier|E] : Phobie" #NT!
+ phobia_3_modifier_desc: "Avec le pouvoir de [GetTrait('presence').GetName(GetNullCharacter)], ce personnage terrifie les ennemis." #NT!
+ phobia_4_modifier: "[battle_modifier|E] : Phobie" #NT!
+ phobia_4_modifier_desc: "Avec le pouvoir de [GetTrait('presence').GetName(GetNullCharacter)], ce personnage terrifie les ennemis." #NT!
+ phobia_5_modifier: "[battle_modifier|E] : Phobie" #NT!
+ phobia_5_modifier_desc: "Avec le pouvoir de [GetTrait('presence').GetName(GetNullCharacter)], ce personnage terrifie les ennemis." #NT!
+  
+ bloodlust_1_modifier: "[battle_modifier|E] : Soif de sang" #NT!
+ bloodlust_1_modifier_desc: "Doté du grand pouvoir du [GetTrait('presence').GetName(GetNullCharacter)], ce personnage terrifie les ennemis et inspire les adeptes." #NT!
+ bloodlust_2_modifier: "[battle_modifier|E] : Soif de sang" #NT!
+ bloodlust_2_modifier_desc: "Doté du grand pouvoir du [GetTrait('presence').GetName(GetNullCharacter)], ce personnage terrifie les ennemis et inspire les adeptes." #NT!
+ bloodlust_3_modifier: "[battle_modifier|E] : Soif de sang" #NT!
+ bloodlust_3_modifier_desc: "Doté du grand pouvoir du [GetTrait('presence').GetName(GetNullCharacter)], ce personnage terrifie les ennemis et inspire les adeptes." #NT!
+ bloodlust_4_modifier: "[battle_modifier|E] : Soif de sang" #NT!
+ bloodlust_4_modifier_desc: "Doté du grand pouvoir du [GetTrait('presence').GetName(GetNullCharacter)], ce personnage terrifie les ennemis et inspire les adeptes." #NT!
+ bloodlust_5_modifier: "[battle_modifier|E] : Soif de sang" #NT!
+ bloodlust_5_modifier_desc: "Doté du grand pouvoir du [GetTrait('presence').GetName(GetNullCharacter)], ce personnage terrifie les ennemis et inspire les adeptes." #NT!
+  
+ perfect_world_development_modifier: "Un monde parfait" #NT!
+ perfect_world_development_modifier_desc: "Cette ville s'efforce de devenir la ville idéale de son sombre maître." #NT!
+ perfect_world_war_modifier: "Un monde parfait" #NT!
+ perfect_world_war_modifier_desc: "Cette ville s'efforce de devenir la ville idéale de son sombre maître." #NT!
+  
+ COOPERATION_PERK_MODIFIER: "[GetPerk( 'cooperation_perk' ).GetName( GetPlayer )] : $VALUE|+=0$" #NT!

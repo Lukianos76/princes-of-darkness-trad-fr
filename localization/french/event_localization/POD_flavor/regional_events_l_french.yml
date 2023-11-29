@@ -1,0 +1,92 @@
+﻿l_french:
+  
+ rule_baybars_purge_difficulty: "Crise des purges de Baybars" #NT!
+ setting_baybars_purge_difficulty_none: "Pas de purge" #NT!
+ setting_baybars_purge_difficulty_none_desc: "La purge de Baybar de la crise surnaturelle égyptienne n’aura pas lieu." #NT!
+ setting_baybars_purge_difficulty_default: "Purge des Baybars par défaut" #NT!
+ setting_baybars_purge_difficulty_default_desc: "La purge de Baybar de la crise surnaturelle égyptienne aura lieu." #NT!
+  
+ baybars_purge_small_modifier: "Purge de Baybars : petits bois" #NT!
+ baybars_purge_small_modifier_desc: "Le surnaturel est ici traqué, les Mamelouks Baybars parcourent les rues et perturbent toute activité suspecte." #NT!
+  
+ PODexile_modifier: "En exil" #NT!
+ PODexile_modifier_desc: "Ce personnage se cache d'une menace puissante et n'est pas en mesure de gérer correctement son royaume entre-temps." #NT!
+  
+ podregionalevents.2.t: "Purge de Baybars : petits bois" #NT!
+ podregionalevents.2.desc: "L’actuel sultan mortel d’Égypte est un mamelouk, un esclave turc acheté et élevé pour combattre, qui a réussi à se hisser au sommet avec une efficacité brillante (et impitoyable) qui en a surpris plus d’un. Après avoir traité de manière concluante avec les croisés (en empoisonnant tous les puits de leur région et en créant un désert), ce Baybars tourne maintenant son attention de manière inquiétante vers le surnaturel en Égypte.\nIl semble très bien informé, bien plus que n'importe quel mortel ne le devrait, et il est soutenu par un groupe encore mystérieux. Combiné avec son courage inébranlable et sa grande pratique pour enraciner nos ennemis, Baybars s'avère être une véritable menace pour le surnaturel égyptien, avec de nombreuses racines de son influence déjà découvertes et (parfois littéralement) incendiées.\nCertains vampires inquiets et autres cibles Les créatures envisagent déjà l'exil comme une alternative préférable à ce danger, estimant que Baybars est toujours un mortel et que le temps finira par le rattraper." #NT!
+ podregionalevents.2.a: "Il est temps de visiter de nouvelles terres..." #NT!
+ podregionalevents.2.custom: "Vous liquidez vos actifs et fuyez l'Égypte.\nVous serez toujours informé de l'endroit où se trouve Baybars mais ne serez plus sa cible directe à l'avenir." #NT!
+ podregionalevents.2.b: "Haut mortel !" #NT!
+ podregionalevents.2.customb: "Vous restez en Égypte, risquant la colère totale de Baybars à l'avenir, mais aussi potentiellement ouvrant de nouvelles opportunités dans le chaos." #NT!
+  
+ baybars_purge_medium_modifier: "Purge de Baybars : Incendies" #NT!
+ baybars_purge_medium_modifier_desc: "Le surnaturel est ici traqué, les Mamelouks Baybars tuent et brûlent avec une efficacité impitoyablement précise." #NT!
+  
+ podregionalevents.3.t: "Purge de Baybars : idolâtrie" #NT!
+ podregionalevents.3.desc: "La plupart des éléments surnaturels en Égypte proviennent d’une époque plus ancienne où plusieurs dieux étaient vénérés sur cette terre. Pour Baybars et ses mamelouks fanatiques, ils ne sont rien de plus que des idolâtres adorant des divinités païennes ou des entités encore plus sombres. Alors qu'il redouble d'efforts pour extirper tout être surnaturel de son sultanat, Baybars cible désormais particulièrement les sanctuaires "païens" et autres reliques anciennes d'une époque révolue.\nAussi efficace que jamais, ses tactiques s'avèrent très efficaces pour détruire d'innombrables artefacts. et des symboles précieux de l'Égypte ancienne détenus par les êtres surnaturels.\nS'ils ne sont pas eux-mêmes pris dans les incendies, il semble que les vampires égyptiens et les autres créatures n'auront pas grand-chose pour se souvenir de leur foi à l'avenir." #NT!
+ podregionalevents.3.a: "Je dois protéger ces reliques !" #NT!
+ podregionalevents.3.effect.success.desc: "Artefacts sauvegardés !" #NT!
+ podregionalevents.3.critical.failure.effect.desc: "Tant de connaissances perdues..." #NT!
+ podregionalevents.3.b: "C'en est trop, il est temps de courir." #NT!
+ podregionalevents.3.c: "Une telle tragédie..." #NT!
+ podregionalevents.3.custom: "En tant qu'exilé, vous êtes seul informé de ces événements." #NT!
+  
+ podregionalevents.4.t: "Purge de Baybars : Brûler des actifs" #NT!
+ podregionalevents.4.desc: "Baybars et ses Mamelouks sévissent toujours en Égypte et intensifient même leur campagne pour déraciner le surnaturel. Les efforts pour les contrer ont été largement infructueux, principalement à cause des mystérieux clients de Baybars. Ces personnalités insaisissables utilisent des tactiques plus subtiles que celles du sultan et cherchent avant tout à détruire tout soutien que leurs ennemis auraient pu préparer en Égypte. Ainsi, de nombreux vampires et même d'autres créatures ont trouvé leurs bases de pouvoir, souvent en gestation depuis des décennies, soudainement ciblées par les agents les plus obscurs de Baybars.\nCeux qui ont tenté de résister par la force des armes se sont rapidement retrouvés sur les bûchers, le seul La solution, outre l’exil, semble couvrir les actifs existants sous encore plus de niveaux de tromperie que d’habitude. Ce n’est pas une tâche facile contre des ennemis qui semblent très capables de découvrir une influence surnaturelle." #NT!
+ podregionalevents.4.a: "Ils n'auront pas mon or !" #NT!
+ podregionalevents.4.effect.success.desc: "Trésorerie sauvegardée !" #NT!
+ podregionalevents.4.critical.failure.effect.desc: "Mon précieux..." #NT!
+  
+ baybars_purge_high_modifier: "Purge de Baybars : Enfer" #NT!
+ baybars_purge_high_modifier_desc: "Le surnaturel est pourchassé ici, les Mamelouks de Baybars veulent tuer chacun d'entre eux. Et ils sont sur le point de réussir, ce qui est inquiétant." #NT!
+  
+ baybars_purge_scorched_modifier: "Purge de Baybars : Terre brûlée" #NT!
+ baybars_purge_scorched_modifier_desc: "Il ne reste ici que les lamentations de désespoir de ceux pris entre deux feux entre Baybars et le surnaturel." #NT!
+  
+ podregionalevents.5.t: "Purge de Baybars : Terre brûlée" #NT!
+ podregionalevents.5.desc: "Baybars intensifie une fois de plus sa campagne de destruction contre le surnaturel. Cette fois, il a choisi d'utiliser la tactique qui l'a aidé à vaincre les croisés : la terre brûlée. Après tout, s'il n'y avait pas de communautés dans lesquelles se cacher pour ses ennemis, ils seraient beaucoup plus faciles à trouver.\nSes Mamelouks se déchaînent désormais à travers le pays, considérant toute rumeur sur la présence d'un vampire comme une excuse pour brûler et détruire. . Bien que certainement impitoyable, il est difficile de nier l'efficacité de cette stratégie alors que de plus en plus de surnaturels sont obligés de se lancer sur le terrain pour protéger leur troupeau, leur culte ou même leur famille. Certains ont cependant simplement choisi de rejoindre d’autres en exil." #NT!
+ podregionalevents.5.a: "Je dois prendre position !" #NT!
+ podregionalevents.5.effect.success.desc: "Ils sont repoussés !" #NT!
+ podregionalevents.5.critical.failure.effect.desc: "Tant de morts et de destructions..." #NT!
+  
+ podregionalevents.6.t: "Purge de Baybars : des mamelouks partout" #NT!
+ podregionalevents.6.desc: "Baybars intensifie une fois de plus sa campagne de destruction contre le surnaturel. Les mamelouks semblent maintenant être trouvés partout, soutenus par le culte mystérieux qui aide le sultan depuis le début, et sont impitoyables pour éliminer tout (ou n'importe qui) tangentiellement lié aux vampires, aux métamorphes et à d'autres créatures. Personne ne sait comment ils parviennent à être apparemment toujours au bon endroit au bon moment, mais cela s'avère certainement payant pour eux.\nAlors que le filet se resserre autour des quelques courageux qui choisissent de rester en Égypte, ils sont contraints de prendre des mesures de plus en plus extrêmes. mesures. Les histoires abondent sur des créatures autrefois puissantes réduites à se cacher dans le sable du désert, dans l'espoir de faire une pause dans la poursuite incessante de Baybars." #NT!
+ podregionalevents.6.a: "Je dois bien me cacher..." #NT!
+ podregionalevents.6.effect.success.desc: "Ils ne m'ont pas trouvé !" #NT!
+ podregionalevents.6.critical.failure.effect.desc: "Courir pour ma vie..." #NT!
+  
+ podregionalevents.7.t: "Purge de Baybars : Assaut sur Ombos" #NT!
+ podregionalevents.7.desc: "Malgré tous les efforts des Séthites restés en Égypte, Baybars trouva finalement le plus grand prix de tous : le temple d'Ombos. Selon les légendes, ce fut le premier temple jamais créé par Set lui-même et abrita pendant longtemps le corps engourdi du puissant vampire. Depuis lors, elle sert de capitale principale aux Disciples de Set et n'a jamais été menacée... jusqu'à présent.\nSoutenu par ses Mamelouks vétérans et l'ordre de mystérieux chasseurs qui l'aident, Baybars assiège désormais l'ancienne forteresse. , déterminé à mettre fin au règne obscur des anciens vampires surnaturels sur les fidèles Égyptiens d’aujourd’hui. Les défenses d'Ombos sont puissantes, mais sous-équipées en raison de la fuite d'un grand nombre de ses défenseurs au cours des premières nuits de purge. L'issue de la bataille est encore incertaine, mais semble être en faveur du sultan." #NT!
+ podregionalevents.7.a: "Nous devons défendre le temple !" #NT!
+ podregionalevents.7.effect.success.desc: "Ils sont repoussés !" #NT!
+ podregionalevents.7.critical.failure.effect.desc: "Ça ne peut pas être..." #NT!
+  
+ baybars_ombos_temple_tt: "Le temple d'Ombos, merveille de la province du même nom, pourrait être détruit par l'attaque de Baybars." #NT!
+ podregionalevents.9.a: "Quelqu'un arrête ce mortel !" #NT!
+  
+ podregionalevents.8.t: "Purge de Baybars : assaut contre le tribunal des pompiers" #NT!
+ podregionalevents.8.desc: "Malgré tous les efforts des Séthites restants en Egypte, Baybars a finalement trouvé l'un des plus gros prix de tous : le Fire Court. Bastion de l'orthodoxie séthite, la Cour du Feu est le deuxième temple le plus puissant (après Ombos lui-même) du clan et sert de dépositaire de connaissances occultes et de méthodes d'enseignement depuis des millénaires. Elle n'a jamais été en danger... jusqu'à présent.\nSoutenu par ses Mamelouks vétérans et par l'ordre de mystérieux chasseurs qui l'aident, Baybars assiège désormais l'ancienne forteresse, déterminé à mettre fin au règne obscur des anciens vampires surnaturels sur les fidèles. Égyptiens d'aujourd'hui. Les défenses de la Cour sont puissantes, mais sous-équipées en raison de la fuite d'un grand nombre de ses défenseurs au cours des premières nuits de la purge. L'issue de la bataille est encore incertaine, mais semble être en faveur du sultan." #NT!
+  
+ baybars_fire_court_tt: "Le Fire Court, merveille de la province d'Al-Bahriya, pourrait être détruit par l'attaque de Baybars." #NT!
+  
+ podregionalevents.15.t: "Baybars Purge : Juste un homme mortel" #NT!
+ podregionalevents.15.desc: "En fin de compte, les hommes mortels restent des hommes mortels. Malgré toute la terreur qu'il a infligée aux surnaturels égyptiens, Baybars est mort plutôt tranquillement. Certains parlent d'un assassin de Banu Haqim, mais d'autres parlent simplement d'une blessure infectée, voire d'une maladie courante. Avec son décès, l’élan derrière sa purge s’est complètement calmé et ses alliés obscurs se sont retirés d’où ils venaient. Les princes en exil et les chefs de guerre métamorphes soupirent de soulagement et retournent dans leurs villes et l'Égypte semble à nouveau sûre pour les habitants de son ombre.\nCertains se demandent ouvertement ce qui se serait passé si les efforts de Baybars avaient été suivis par davantage de dirigeants et que le la peur de ce que les mortels peuvent réellement accomplir restera bel et bien présente dans l'esprit de nombreux vampires égyptiens pendant longtemps." #NT!
+ podregionalevents.15.a: "Le temps est notre meilleure arme." #NT!
+  
+ podregionalevents.12.t: "Purge de Baybars : ne pas poursuivre ?" #NT!
+ podregionalevents.12.desc: "Vous êtes l'une des rares âmes courageuses à avoir choisi de rester en Égypte malgré les déchaînements de Baybars contre votre espèce. C’était une décision dangereuse, mais cela a également ouvert des opportunités. Vous avez réussi à rassembler des renseignements sur l'endroit où se trouve le sultan et ses bienfaiteurs, les Nur al-Allah (la Lumière de Dieu).\nAvec un peu plus de reconnaissance, vous pourriez essayer d'affronter l'homme lui-même. Faire une telle chose serait évidemment extrêmement dangereux car vous seriez essentiellement seul contre la garde personnelle des Mamelouks et ses acolytes sorciers. Mais la perspective de mettre cet homme impressionnant à genoux devant ce qu'il déteste tant a tout son attrait..." #NT!
+ podregionalevents.12.a: "Je le trouverai..." #NT!
+ baybars_pursuit_tt: "#R Il s'agit évidemment d'un choix très dangereux. Vous êtes prévenu.#!" #NT!
+ podregionalevents.12.effect.success.desc: "Te voilà..." #NT!
+ podregionalevents.12.critical.failure.effect.desc: "Abandonnez la mission !" #NT!
+ podregionalevents.12.b: "Trop dangereux." #NT!
+  
+ nick_father_conquests: "Père des conquêtes" #NT!
+  
+ podregionalevents.13.t: "Baybars Purge : l'homme lui-même" #NT!
+ podregionalevents.13.desc: "Après avoir utilisé tous les outils et l'influence à votre disposition, vous avez finalement atteint l'homme lui-même : Baybars. Vous avez réussi à pénétrer dans son palais et à créer une diversion contre toute attente, mais le sultan n'est peut-être pas la menace la plus pressante. Bien qu'il soit certainement un combattant accompli, Baybars n'est qu'un mortel, ce qui ne peut pas être dit de ses sombres protecteurs de Nur al-Allah.\nBien que beaucoup d'entre eux soient distraits ou occupés ailleurs, même le petit nombre de ceux qui restent protégeant les Mamelouks se révèlent être une défense mortelle. Mais à ce stade, il n'y a plus de retour en arrière possible, ils ne vous laisseront pas vous échapper vivant.\nCe ne sera pas facile." #NT!
+ podregionalevents.13.a: "Votre purge se termine ici !" #NT!
+ podregionalevents.13.effect.success.desc: "Victorieux!" #NT!
+ podregionalevents.13.critical.failure.effect.desc: "Encore un purgé..." #NT!
+  
+  

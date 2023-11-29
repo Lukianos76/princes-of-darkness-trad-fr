@@ -1,0 +1,37 @@
+﻿l_french:
+  
+ podgangrel.1.t: "Le Rite du Statut : Contes" #NT!
+ podgangrel.1.desc: "Lorsque deux Gangrels se rencontrent pour la première fois, ou après une longue absence, ils participent généralement au Rite de Statut. Cet événement est vu comme un moyen de renforcer les liens entre membres du clan ou, pour les vampires les plus agressifs, d'affirmer rapidement leur supériorité.\nLa première épreuve est souvent un concours de vantardises. Les deux participants réclament haut et fort ce qu'ils pourraient faire, allant de plus en plus en difficulté jusqu'à ce que l'un d'eux concède ou demande des preuves. Lorsqu'une preuve est demandée, les deux concurrents doivent accomplir leur dernière vantardise, ce qui peut souvent s'avérer un défi de taille lorsqu'ils se surpassent tous les deux depuis un certain temps." #NT!
+ podgangrel.1.a: "Tuer un Lupin ? Ah ! Je peux en prendre un paquet !" #NT!
+ POD_gangrel_challenge_interaction_succ: "Votre adversaire concède !" #NT!
+ POD_gangrel_challenge_interaction_lose: "Vous devez concéder." #NT!
+  
+ gangrel_challenge_unfriendly_tt: "Votre partenaire s’en souviendra." #NT!
+  
+ podgangrel.2.t: "Le Rite du Statut : Friendly Spar" #NT!
+ podgangrel.2.desc: "Vous avez remporté le concours des vantardises et l’ambiance entre vous deux s’améliore à mesure que vous vous comprenez maintenant un peu mieux. Pourtant, à la fin de la soirée, vous avez gagné et vous pourriez frotter cette victoire au visage de vos invités si vous vouliez un petit boost de votre propre ego à leurs dépens...\nDans tous les cas, le Rite se poursuivra par un combat amical. qui durera jusqu'à ce que l'un de vous concède. Cette compétition, bien que non mortelle, est devenue légendaire lorsque deux puissants Gangrels se rencontrent et qu'une bataille impitoyable s'ensuit pour affirmer leur domination. Peut-être que vous et votre adversaire créerez une telle légende avec votre propre combat ? Ou peut-être simplement une affaire à sens unique ?" #NT!
+ podgangrel.2.a: "Vous étiez faible pour vous vanter, espérons que vous êtes meilleur pour vous battre !" #NT!
+ podgangrel.2.b: "Nice possède un ami, maintenant battons-nous !" #NT!
+  
+ podgangrel.3.desc: "Vous avez perdu le concours des vantardises mais ce n'est que le début du Rite. Alors que vous vous demandez si votre partenaire pourrait vraiment accomplir les tâches capitales dont il se vante, préparez-vous pour le prochain événement.\nLe Rite se poursuivra par un combat amical qui durera jusqu'à ce que l'un de vous concède. Cette compétition, bien que non mortelle, est devenue légendaire lorsque deux puissants Gangrels se rencontrent et qu'une bataille impitoyable s'ensuit pour affirmer leur domination. Peut-être que vous et votre adversaire créerez une telle légende avec votre propre combat ? Ou peut-être simplement une affaire à sens unique ?" #NT!
+ podgangrel.3.a: "Il est temps de me venger !" #NT!
+  
+ podgangrel.4.t: "Le Rite du Statut : Récits de Voyage" #NT!
+ podgangrel.4.desc: "Vous avez gagné le combat entre vous deux et l’élan de la victoire vous traverse. Votre partenaire vaincu guérit ses blessures et a l'air découragé, il serait peut-être juste que vous le félicitiez pour sa performance avant de continuer.\nLa dernière partie du Rite de statut est la diffusion informelle d'informations pertinentes entre vous deux. Les Gangrels bougent beaucoup et on s'attend à ce que vous partagiez tout ce qui pourrait aider votre membre de clan pendant qu'il se trouve dans cette région. Contrairement au concours des ballonnements, celui-ci est axé sur les vérités et non sur les promesses creuses." #NT!
+ podgangrel.4.a: "Quelle démonstration honteuse !" #NT!
+ podgangrel.4.b: "J'ai eu de la chance." #NT!
+  
+ podgangrel.5.desc: "Vous avez perdu le contact entre vous deux et prenez un moment pour panser vos blessures et votre fierté meurtrie. Votre partenaire attend que vous récupériez avant de passer à l'événement suivant.\nLa dernière partie du Rite de statut est la diffusion informelle d'informations pertinentes entre vous deux. Les Gangrels bougent beaucoup et on s'attend à ce que vous partagiez tout ce qui pourrait aider votre membre de clan pendant qu'il se trouve dans cette région. Contrairement au concours des ballonnements, celui-ci est axé sur les vérités et non sur les promesses creuses." #NT!
+ podgangrel.5.a: "J'espère que cela ira mieux." #NT!
+  
+ podgangrel.6.t: "Le rite du statut : les chemins de séparation" #NT!
+ podgangrel.6.desc: "Vous étiez clairement plus informé sur la région que votre partenaire, ce qui signifie qu'il vous a concédé ce concours. Pourtant, cela ne ferait pas de mal d'être aimable à l'égard de cette victoire si vous le vouliez.\nLe Rite de statut étant officiellement terminé, vous vous préparez tous les deux à partir. [Clan|E] Gangrel a peu de traditions et aucune organisation globale comme beaucoup d'autres, mais cet événement apparemment mineur contribue à consolider une sorte de culture de clan, ouvrant, espérons-le, la voie à plus d'unité dans le futur." #NT!
+ podgangrel.6.a: "Vous étiez terriblement ignorant." #NT!
+ podgangrel.6.b: "J'ai beaucoup appris, merci." #NT!
+  
+ podgangrel.7.t: "Le Rite du Statut : Départ" #NT!
+ podgangrel.7.desc: "Les trois concours étant officiellement terminés, le Rite de Statut est désormais terminé. Pour le meilleur ou pour le pire, vous comprenez désormais un peu mieux ce camarade Gangrel et, espérons-le, les liens du clan seront renforcés par cet événement. La façon dont vous vous êtes comporté pendant le rite aura un impact sur la façon dont ils vous verront à l'avenir et constitue peut-être le début d'une nouvelle relation." #NT!
+ podgangrel.7.a: "Un lien s'est créé entre nous." #NT!
+ podgangrel.7.b: "C'était pénible." #NT!
+ podgangrel.7.c: "Jusqu'à ce que nous nous retrouvions." #NT!
+  

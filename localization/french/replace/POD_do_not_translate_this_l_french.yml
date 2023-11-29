@@ -1,0 +1,16 @@
+﻿l_french:
+ foreign_affairs_name: "affaires_étrangères_visible" #NT!
+ family_name: "famille_visible" #NT!
+ majesty_name: "majesté_visible" #NT!
+ strategy_name: "stratégie_visible" #NT!
+ authority_name: "autorité_visible" #NT!
+ chivalry_name: "chevalerie_visible" #NT!
+ skulduggery_name: "skulduggery_visible" #NT!
+ temptation_name: "tentation_visible" #NT!
+ intimidation_name: "intimidation_visible" #NT!
+ domain_name: "domaine_visible" #NT!
+ duty_name: "devoir_visible" #NT!
+ wealth_name: "richesse_visible" #NT!
+ theology_name: "théologie_visible" #NT!
+ medicine_name: "médecine_visible" #NT!
+ scholarship_name: "bourse_visible" #NT!

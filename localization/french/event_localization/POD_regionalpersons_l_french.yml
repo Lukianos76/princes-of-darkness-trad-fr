@@ -1,0 +1,328 @@
+﻿l_french:
+  
+ podregionalpersons.2.t: "Le chasseur chassé" #NT!
+ podregionalpersons.2.desc: "Depuis quelques temps, votre entourage bouillonne de rumeurs d'une chasse aux mortels [cainites|E] autour de chez vous. De toute évidence, les mortels ont peu de chance dans cette entreprise la plupart du temps, surtout lorsqu'ils empruntent la voie du loup solitaire, comme cet individu semble le faire.\nCe qui est intéressant, c'est que, malgré tous ces défauts, ce chasseur a connu un certain succès au début, et de nombreuses ruelles sombres sont plus sûres grâce à lui. Il est cependant insaisissable et vous ne savez vraiment pas où il frappera ensuite, ni même s'il le fera du tout. Mais vous pouvez garder les agents près du sol pour tenter de le retrouver si vous le souhaitez." #NT!
+ podregionalpersons.2.a: "je veux tout savoir sur lui" #NT!
+ podregionalpersons.2.custom: "Attention, les conséquences pourraient être graves..." #NT!
+ podregionalpersons.2.b: "Cela ne me concerne pas" #NT!
+ podregionalpersons.2.customb: "Vous n'entendrez plus parler de lui" #NT!
+ podregionalpersons.2.c: "je veux tout savoir sur lui" #NT!
+ podregionalpersons.2.customc: "Peut-être pourriez-vous recruter cette personne talentueuse ?" #NT!
+ podregionalpersons.4.t: "Le chasseur chassé II" #NT!
+ podregionalpersons.4.desc: "Vous l'avez trouvé. Ce chasseur insaisissable est un certain Karl Schrekt de Vienne. Homme de peu de mots, il était difficile à retrouver, et encore plus difficile à évaluer.\nLe zèle de la fureur de Dieu brûle en lui, cela se voit, mais il est entaché d'une amertume qui lui fait ignorer la souffrance. il provoque lors de ses chasses. Vous craignez que son âme soit au bord du gouffre et que l'armée de Dieu perde un homme impressionnant si sa foi vacille encore plus.\nPeut-être pouvez-vous lui rappeler la gloire de Dieu et lui montrer les vertus du travail dans un groupe cohérent ? Ce sera cependant un débat difficile, car l'homme est tout simplement têtu..." #NT!
+ podregionalpersons.4.a: "Frère, écoute les paroles de Dieu" #NT!
+ podregionalpersons.4.effect.success.desc: "Vous parvenez à convaincre Karl de rejoindre votre cause sans problème" #NT!
+ podregionalpersons.4.success: "Karl vous rejoint !" #NT!
+ podregionalpersons.4.failure.effect.desc: "Votre foi est mise à l'épreuve, mais vous parvenez à le convaincre à la fin" #NT!
+ podregionalpersons.4.failure: "Karl vous rejoint !" #NT!
+ podregionalpersons.4.critical.failure.effect.desc: "Il est perdu dans la lumière..." #NT!
+ podregionalpersons.4.critical.failure: "Karl est parti" #NT!
+ podregionalpersons.4.c: "Il est déjà allé trop loin" #NT!
+ podregionalpersons.3.t: "Le chasseur chassé II" #NT!
+ podregionalpersons.3.desc: "Le chasseur solitaire qui sème la pagaille dans votre secteur vous échappe encore, mais vous avez réussi à avoir, au moins, une idée générale de son mode opératoire. Forts de cette compréhension, vous avez conçu deux plans d'action pour tromper et, espérons-le, capturer cet individu.\nLes deux plans vous obligeront à tirer certaines ficelles et sont susceptibles d'attirer une attention indésirable sur vos opérations. Cependant, vous ne pouvez pas reculer maintenant, car il semble que le chasseur lui-même se rapproche également de votre position... Une confrontation est inévitable à ce stade." #NT!
+ podregionalpersons.3.a: "tendons-lui un piège" #NT!
+ podregionalpersons.3.b: "Une confrontation directe est plus mon style" #NT!
+ podregionalpersons.5.t: "Le chasseur chassé III" #NT!
+ podregionalpersons.5.desc: "Vous devez avouer que vous êtes un peu nerveux. À ce moment-là, vos agents doivent attendre devant le vieux manoir que vous avez installé comme façade pour piéger l'insaisissable chasseur. Vous connaissez désormais son nom, Karl Schrekt de Vienne, un loup solitaire doté d'un dynamisme rarement vu, même parmi ses semblables zélés. Vous êtes assez sûr que vous avez bien planifié votre piège et que vos hommes sont assez bons pour le maîtriser.\nMais... s'il devait s'échapper, ou pire, tuer vos hommes, il porterait un coup très sérieux à votre contrôle sur la zone. Et vous auriez également perdu votre seule chance de le capturer." #NT!
+ podregionalpersons.5.a: "Pas de retour en arrière maintenant" #NT!
+ podregionalpersons.5.effect.success.desc: "Le plan se déroule bien" #NT!
+ podregionalpersons.5.success: "Nous l'avons eu !" #NT!
+ podregionalpersons.5.failure.effect.desc: "Il a fait quelques dégâts, mais tu as gagné" #NT!
+ podregionalpersons.5.failure: "Nous l'avons eu !... à peine" #NT!
+ podregionalpersons.5.critical.failure.effect.desc: "Karl s'enfuit après avoir envoyé vos agents" #NT!
+ podregionalpersons.5.critical.failure: "Il nous a eu..." #NT!
+ podregionalpersons.6.t: "Le chasseur chassé III" #NT!
+ podregionalpersons.6.desc: "Fréquentation moyenne à votre tribunal ce soir quand, tout à coup, plusieurs torches surgissent de nulle part au milieu de la salle. Vous parvenez à peine à contenir votre Bête terrifiée alors que les cris d'horreur et les vampires frénétiques se font entendre tout autour de vous.\nAlors que vous tentez de fuir la scène chaotique, une silhouette encapuchonnée vous bloque le chemin, apparemment inconsciente du feu qui fait rage autour de vous.\nNon En disant un mot, il commence à se rapprocher de vous, une torche allumée dans chaque main. Le zèle exaspérant dans ses yeux ne laisse aucun doute, on dirait que l'insaisissable chasseur de loups solitaires vous a trouvé avant que vous ne le trouviez..." #NT!
+ podregionalpersons.6.a: "Arrête-le! MAINTENANT!" #NT!
+ podregionalpersons.6.effect.success.desc: "Vous parvenez à le maîtriser et à le capturer !" #NT!
+ podregionalpersons.6.success: "Nous l'avons eu !" #NT!
+ podregionalpersons.6.failure.effect.desc: "Il a fait quelques dégâts, mais tu as gagné" #NT!
+ podregionalpersons.6.failure: "Nous l'avons eu !... à peine" #NT!
+ podregionalpersons.6.critical.failure.effect.desc: "La dernière chose que tu vois c'est le feu, le feu partout" #NT!
+ podregionalpersons.6.critical.failure: "Si chaud..." #NT!
+ podregionalpersons.7.t: "La salle d'Ulf" #NT!
+ podregionalpersons.7.desc: "Un rapport vous est parvenu selon lequel la légendaire salle d'Ulf a été découverte.\nCette petite île près de la Norvège contiendrait prétendument le trésor des célèbres Valdaermen, les mages runiques nordiques. Leur temps est révolu depuis longtemps, car le Dieu chrétien a balayé leur foi sur le continent. Mais il semble qu'une petite cabale d'entre eux s'accroche toujours au Hall, protégeant ce qui pourrait être une véritable cachette de trésors, étant donné le pouvoir qu'ils avaient au cours des siècles passés...\nQue ferez-vous de cette information ?" #NT!
+ podregionalpersons.7.a: "C'est l'heure d'un raid, dis-je !" #NT!
+ podregionalpersons.7.custom: "Attention, les conséquences pourraient être graves..." #NT!
+ podregionalpersons.7.b: "Il faut protéger ces serviteurs d'Odin !" #NT!
+ podregionalpersons.7.c: "J'ai des problèmes plus urgents à régler" #NT!
+ podregionalpersons.7.customb: "Vous n'entendrez plus parler de cette histoire" #NT!
+ podregionalpersons.8.t: "Salle d'Ulf II" #NT!
+ podregionalpersons.8.desc: "Petit village de pêcheurs sans prétention, Ulf's Hall n'est pas la grandiose cité dorée à laquelle vous vous attendiez.\nPourtant, en examinant les environs, vous savez qu'il vaut mieux ne pas sous-estimer la cabale des mages runiques qui habitent probablement ici. Comme vous le voyez, vous avez deux options : lancer un assaut total là où ils ne s'y attendent pas, ou feindre une amitié avec leur cause pour les poignarder dans le dos lorsqu'une opportunité se présente." #NT!
+ podregionalpersons.8.a: "Nous enverrons ces imbéciles dans leur Valhalla !" #NT!
+ podregionalpersons.8.effect.success.desc: "Vous surmontez le village avec facilité" #NT!
+ podregionalpersons.8.failure.effect.desc: "Tu as pris un sérieux coup, mais le village est à toi" #NT!
+ podregionalpersons.8.critical.failure.effect.desc: "Les runemages frappent vos forces" #NT!
+ podregionalpersons.8.failure: "Tu as pris un coup" #NT!
+ podregionalpersons.8.b: "Rencontrons nos nouveaux « amis »..." #NT!
+ podregionalpersons.8.effect.success.descb: "Ils vous accueillent chaleureusement" #NT!
+ podregionalpersons.8.critical.failure.effect.descb: "Ils sont méfiants..." #NT!
+ podregionalpersons.9.t: "Salle d'Ulf III" #NT!
+ podregionalpersons.9.desc: "La bataille a été âprement menée, comme vous l'aviez prévu, les runesmages ont été pris par surprise, mais non sans défense. La plupart de vos forces ont été blessées, ou carrément tuées, par des pièges, par les petits gens ou par les mages eux-mêmes.\nMais maintenant, vous êtes dans la salle elle-même, avec seul leur chef debout devant vous. Et, derrière lui, vous pouvez déjà voir l'or scintillant du célèbre trésor...\nVous pouvez vous enfuir et récupérer autant d'or que possible avant de vous enfuir. Ou vous pouvez essayer de défier ce puissant mage nordique en duel pour obtenir la récompense complète." #NT!
+ podregionalpersons.9.a: "Je n'ai pas peur de ce type" #NT!
+ podregionalpersons.9.effect.success.desc: "Vous avez coupé cet imbécile en deux ! L'or est à vous !" #NT!
+ podregionalpersons.9.success: "Une victoire totale !" #NT!
+ podregionalpersons.9.critical.failure.effect.desc: "Vous n'étiez pas préparé..." #NT!
+ podregionalpersons.9.critical.failure: "La fin" #NT!
+ podregionalpersons.9.b: "Je n'ai pas peur de ce type... mais je préfère quand même courir" #NT!
+ podregionalpersons.10.t: "Salle d'Ulf III" #NT!
+ podregionalpersons.10.desc: "Vous étiez complètement écrasé. Les Runemages avaient des pièges, des systèmes d'avertissement mystiques et les petits gens étaient entièrement derrière eux. Votre armée a tenu juste le temps de permettre à un petit groupe d'entre vous de fuir avec le bateau avec lequel vous veniez ici.\nMaintenant, vous devez préparer l'avenir, car cet échec pèsera clairement sur votre prestige chez vous. Cependant, vous avez toujours le contrôle du récit…" #NT!
+ podregionalpersons.10.a: "C'était une ruse pour purger les traîtres de mon royaume !" #NT!
+ podregionalpersons.10.b: "Ils étaient des centaines ! Et Odin lui-même s'est battu avec eux !" #NT!
+ podregionalpersons.11.t: "Salle d'Ulf III" #NT!
+ podregionalpersons.11.desc: "Vous avez réussi à faire croire aux Runesmages que vous êtes de leur côté. En tant que tel, il était bien trop tard pour qu’ils comprennent enfin votre vraie nature. Vos forces ont tué la majeure partie de la Cabale et pris le contrôle du village.\nMais maintenant, vous voyez les deux membres survivants de la Cabale passer à l'action. Leur chef, un solide Norvégien connu sous le nom de Brand, essaie de vous coincer pendant que l'autre membre rassemble le trésor pour s'enfuir.\nSi vous perdez du temps avec Brand, vous perdrez une partie de l'or, mais vous gagnerez potentiellement un prisonnier utile. .." #NT!
+ podregionalpersons.11.a: "Cet homme vaut bien plus que de l’or…" #NT!
+ podregionalpersons.11.b: "Or! Plus d'or !" #NT!
+ podregionalpersons.12.t: "Salle d'Ulf III" #NT!
+ podregionalpersons.12.desc: "Ils ont découvert votre ruse assez facilement. Et ils vous ont complètement écrasé dès qu'ils ont compris que vous aviez menti sur vos véritables intentions.\nVous avez à peine réussi à tenir bon pour vous permettre de fuir vers le bateau que vous utilisiez pour venir ici. Évidemment, ce revers portera un coup dur à votre prestige dans votre pays, mais... vous pouvez toujours contrôler dans une certaine mesure le récit de la situation." #NT!
+ podregionalpersons.12.a: "C'était une ruse pour purger les traîtres de mon royaume !" #NT!
+ podregionalpersons.12.b: "Ils étaient des centaines ! Et Odin lui-même s'est battu avec eux !" #NT!
+ podregionalpersons.13.t: "Salle d'Ulf II" #NT!
+ podregionalpersons.13.desc: "Les Runesmages étaient difficiles à convaincre. Ils sont fatigués et se cachent depuis si longtemps, mais vos traditions communes ont aidé à trouver un terrain d’entente. Vous leur faites savoir que leur position est compromise et que d'autres viendront avec des intentions plus hostiles que vous.\nC'est pourquoi ils se préparent maintenant à partir et vous offrent une petite partie de leur trésor pour vous récompenser de votre aide. Cependant, si vous êtes suffisamment persuasif, vous pourriez les convaincre de rejoindre votre royaume et de profiter de votre protection, ce qui apporterait évidemment plus d’avantages." #NT!
+ podregionalpersons.13.a: "Viens avec nous! Ragnarok peut encore être évité" #NT!
+ podregionalpersons.13.effect.success.desc: "Ils sont convaincus !" #NT!
+ podregionalpersons.13.critical.failure.effect.desc: "Ils ne sont pas convaincus..." #NT!
+ podregionalpersons.13.b: "Merci mes frères et naviguez bien" #NT!
+ podregionalpersons.13.critical.failure: "Ils ne sont pas convaincus..." #NT!
+ podregionalpersons.14.t: "Salle d'Ulf III" #NT!
+ podregionalpersons.14.desc: "Vous avez réussi à convaincre les Valdaermen de rejoindre votre royaume et votre protection. Ils commencent déjà à fournir une aide considérable dans votre capitale, en utilisant leurs capacités mystiques pour aider la population.\nBien que... ils soient également venus ici avec leur trésor, et vous pourriez les poignarder dans le dos, réclamer le trésor pour vous-même, puis expulser les Mages runiques. Tu es sûr que cela ne dérangerait pas Odin." #NT!
+ podregionalpersons.14.a: "Faisons en sorte que nos nouveaux amis se sentent chez eux" #NT!
+ podregionalpersons.14.b: "... L'or est de l'or" #NT!
+ podregionalpersons.15.t: "Le dernier cathare" #NT!
+ podregionalpersons.15.desc: "Un étrange individu est récemment arrivé dans votre cour. Ce jeune garçon serait un réfugié de Montségur, dernière forteresse des Cathares, récemment tombée aux mains des croisés. Vous avez entendu de nombreux rapports contradictoires sur cet événement, depuis le célèbre trésor des Cathares caché avant le siège, jusqu'au « Christ cathare » maudissant les chrétiens lorsqu'il est amené au bûcher.\nVous ne pouvez pas nier la piété de ce garçon, mais le laisser prêcher dans votre cour pourrait être dangereux, car les Cathares ont bien plus d'ennemis que d'amis..." #NT!
+ podregionalpersons.15.a: "Invitez-le à un débat théologique" #NT!
+ podregionalpersons.15.b: "Laissez-le parler, mais surveillez-le de près" #NT!
+ podregionalpersons.15.c: "Expulsez-le, il ne fera que causer des ennuis" #NT!
+ podregionalpersons.16.t: "Le dernier cathare II" #NT!
+ podregionalpersons.16.desc: "Le débat a été intéressant, et vous en avez eu bien d’autres depuis. Peut-être que les « Purs » avaient raison ? Le jeune garçon parle d'un moyen pour vous de suivre la vraie foi, même dans votre maudit état.\nC'est tentant, mais d'un point de vue politique, votre conversion à une foi très méfiante pourrait avoir de graves conséquences..." #NT!
+ podregionalpersons.16.a: "Le salut de mon âme vaut plus que de la petite politique" #NT!
+ podregionalpersons.16.b: "J'ai apprécié nos discussions, mais tu dois partir maintenant" #NT!
+ podregionalpersons.17.t: "Le dernier cathare II" #NT!
+ podregionalpersons.17.desc: "Comme vous ne l'avez pas encore expulsé de votre tribunal, le jeune garçon a commencé à vous considérer comme l'un des rares [cainites|E] réceptifs. En tant que tel, il a émis l'idée de laisser les autres réfugiés venir à votre service, ce qui contribuerait sans aucun doute à la prospérité de votre royaume.\nUne autre solution serait de capturer et d'« interroger » ce garçon jusqu'à ce qu'il révèle tout ce qu'il sait. sur le légendaire trésor de Montségur..." #NT!
+ podregionalpersons.17.a: "Vos collaborateurs sont les bienvenus ici" #NT!
+ podregionalpersons.17.b: "Parlons d'or..." #NT!
+ podregionalpersons.18.t: "Le monstre" #NT!
+ podregionalpersons.18.desc: "Quelqu'un... ou quelque chose rôde la nuit dans les rues de votre ville. Et ce n'est pas un des vôtres. Cette chose a déjà été accusée de meurtre de masse, et du type le plus horrible. Même certains de vos agents, aussi blasés soient-ils, semblaient perturbés par les horreurs qu’ils ont vues. Des rumeurs encore plus sombres parlent d'expériences des plus impies.\nLa ville tremble de peur et vous devez agir avant que les gens ne commencent à enquêter un peu trop sur la vie nocturne. Vous pourriez subtilement alerter l'Inquisition mortelle, en espérant qu'elle l'arrêterait. Ou vous pourriez le laisser se déchaîner pendant un moment et trouver un modèle dans sa folie. Enfin, vous pouvez également doubler les patrouilles et les gardes la nuit, le faisant fuir vers une autre ville plus vulnérable." #NT!
+ podregionalpersons.18.a: "Laissez le Saint combattre l'Impie" #NT!
+ podregionalpersons.18.custom: "Cela vous exposera un peu, mais j'espère arrêter ce monstre" #NT!
+ podregionalpersons.18.b: "Il doit y avoir une méthode dans sa folie" #NT!
+ podregionalpersons.18.customb: "Le monstre continuera son déchaînement, mais peut-être qu'un indice émergera" #NT!
+ podregionalpersons.18.c: "Effrayez-le" #NT!
+ podregionalpersons.18.customc: "Vous aiderez les gardes mortels la nuit, en vous assurant qu'ils quittent définitivement votre ville." #NT!
+ podregionalpersons.19.t: "Le Monstre II" #NT!
+ podregionalpersons.19.desc: "Cela s’est retourné contre nous. Horriblement.\nLa chose qui rôde dans la nuit a trouvé la cellule inquisitoriale que vous avez subtilement lancée sur ses traces et en a fait un exemple... assez macabre, en pleine ville.\nLa ville est en panique, et vous J'entends déjà parler d'une équipe d'élite composée d'agents de Dieu en route pour nettoyer la ville. Même si cela signifie le brûler entièrement.\nEt vous n'avez toujours pas la moindre idée de qui ou de ce qu'est cette chose ! Votre cour est en délire, vous suppliant de faire profil bas et d'oublier cette foutue entreprise avant qu'il ne soit trop tard..." #NT!
+ podregionalpersons.19.a: "Je connaîtrai la vérité, même si je dois la trouver moi-même !" #NT!
+ podregionalpersons.19.custom: "Alors que l'Inquisition s'attaque à votre ville, vous poursuivez votre enquête..." #NT!
+ podregionalpersons.19.b: "...Oublions tout ça" #NT!
+ podregionalpersons.19.customb: "Vous oubliez cette chasse et restez discret pendant que l'Inquisition parcourt les lieux." #NT!
+ podregionalpersons.20.t: "Le Monstre III" #NT!
+ podregionalpersons.20.desc: "Il t'a trouvé. Le monstre qui a terrifié votre ville et fait courir toute une armée d’inquisiteurs est devant vous. Un Allemand étonnamment moyen nommé Strohmann regarde tranquillement autour de vous vos courtisans inquiets.\n'J'ai beaucoup entendu parler de votre espèce. Fascinant vraiment. J'aimerais en savoir plus. Peut-être pouvons-nous parvenir à un accord ? Je vous aide à vous occuper de ces satanés Inquisiteurs et, en retour, vous me dites tout ce qu'il y a à savoir sur la biologie vampirique.'\nCet homme est clairement déséquilibré, et même en tant que mortel, il est capable de rendre la plupart des gens inconformables. C'est quelque chose que vous pourriez utiliser..." #NT!
+ podregionalpersons.20.a: "Une proposition intrigante" #NT!
+ podregionalpersons.20.b: "C'est le début d'une belle amitié..." #NT!
+ podregionalpersons.21.t: "Le Monstre II" #NT!
+ podregionalpersons.21.desc: "Cela s’est retourné contre nous. Horriblement.\nVous n'avez trouvé aucun indice sur le monstre et, pire encore, il a commencé à cibler votre propre peuple, avec déjà un agent disparu qui, selon vous, ne reviendra pas. Ou pas en un seul morceau.\nAlors que les corps s'entassent, la ville est en panique, et vous entendez déjà des rapports selon lesquels une équipe d'élite d'agents de Dieu est en route pour nettoyer la ville. Même si cela signifie le brûler entièrement.\nEt vous n'avez toujours pas la moindre idée de qui ou de ce qu'est cette chose ! Votre cour est en délire, vous suppliant de faire profil bas et d'oublier cette foutue entreprise avant qu'il ne soit trop tard..." #NT!
+ podregionalpersons.21.a: "Je connaîtrai la vérité, même si je dois la trouver moi-même !" #NT!
+ podregionalpersons.21.custom: "Alors que l'Inquisition s'attaque à votre ville, vous poursuivez votre enquête..." #NT!
+ podregionalpersons.21.b: "...Oublions tout ça" #NT!
+ podregionalpersons.21.customb: "Vous oubliez cette chasse et restez discret pendant que l'Inquisition parcourt les lieux." #NT!
+ podregionalpersons.22.t: "Le silence" #NT!
+ podregionalpersons.22.desc: "Un vampire nommé Bakr a été amené devant vous. Cet Assamite a attaqué un groupe de chevaliers de la Septième Croisade à proximité de votre zone d'influence sans votre bénédiction. Ce comportement ne peut pas être toléré, car il attirera certainement une attention indésirable sur votre domaine.\nBakr s'excuse et explique qu'il libérait un jeune guerrier musulman, qu'il a l'intention de [Embrace|E]. Il propose une somme forfaitaire en or pour montrer qu'aucun manque de respect n'a été voulu à votre égard. Vous pourriez l’accepter… ou vous pourriez prendre cette perspective séduisante comme la vôtre, même si vous ne savez pas encore grand-chose sur lui." #NT!
+ podregionalpersons.22.a: "Montre la porte à Bakr et montre à son protégé ma chambre" #NT!
+ podregionalpersons.22.custom: "Vous en apprendrez davantage sur ce jeune guerrier, mais cela pourrait avoir des conséquences" #NT!
+ podregionalpersons.22.b: "Vous êtes pardonné" #NT!
+ podregionalpersons.23.t: "Le Silencieux II" #NT!
+ podregionalpersons.23.desc: "Vous avez appris le nom du jeune homme que vous avez « sauvé » de Bakr, Tariq. Malheureusement, les croisés ont également appris que leur prisonnier est désormais sous votre garde, et ils semblent étonnamment déterminés à le récupérer. Assez pour qu'ils lancent maintenant un assaut à grande échelle et assez imprudent sur votre domaine.\nVous pouvez essayer de les combattre, mais vous risquez d'attirer encore plus l'attention indésirable avec vos prouesses surnaturelles. Ou vous pourriez leur laisser Tariq et oublier ce désagrément." #NT!
+ podregionalpersons.23.a: "J'espère qu'il en vaut la peine..." #NT!
+ podregionalpersons.23.custom: "Tu laisses Tariq et toute cette histoire derrière toi" #NT!
+ podregionalpersons.23.b: "Je ne m'occupe plus de ça" #NT!
+ podregionalpersons.23.effect.success.desc: "Une victoire, maintenant il faut s'occuper de votre protégé..." #NT!
+ podregionalpersons.23.critical.failure.effect.desc: "Ils parviennent à récupérer Tariq..." #NT!
+ podregionalpersons.23.critical.failure: "Ils ont récupéré Tariq..." #NT!
+ podregionalpersons.24.t: "Le Silencieux III" #NT!
+ podregionalpersons.24.desc: "Vous avez plutôt bien géré la contre-attaque des croisés. Ce que vous n'aviez pas prévu, c'est la mort soudaine de vos gardes du corps et l'aura de silence encore plus soudaine entourant votre tente. Il n'est brisé que par un léger « Je reprends ce qui est à moi » lorsque vous réalisez soudain que Bakr est là, et il n'a pas oublié que vous lui avez volé son futur enfant.\nVous devez maintenant faire face à un vieil Assamite puissant. sur votre destruction avec seulement un jeune, bien que courageux, mortel à vos côtés..." #NT!
+ podregionalpersons.24.a: "Laissez-nous danser..." #NT!
+ podregionalpersons.24.custom: "Pas très glorieux, mais efficace" #NT!
+ podregionalpersons.24.b: "Je vais juste attraper Tariq et courir comme un diable" #NT!
+ podregionalpersons.24.effect.success.desc: "Une victoire, Tariq est enfin à vous !" #NT!
+ podregionalpersons.24.critical.failure.effect.desc: "Si vous échouez, votre mort sera rapide..." #NT!
+ podregionalpersons.24.critical.failure: "Et ainsi ça se termine..." #NT!
+ podregionalpersons.24.success: "Tu as gagné!" #NT!
+ podregionalpersons.25.t: "Suite d'un rêve" #NT!
+ podregionalpersons.25.desc: "Bien qu'elle soit une affaire moralement douteuse, la 4e Croisade a apporté une grande richesse aux cités-états d'Italie, principalement grâce au pillage des reliques grecques. De nombreuses personnes, y compris les Byzantins [cainites|E], fuient également le chaos et cherchent refuge ailleurs.\nVous avez récemment entendu parler d'une telle caravane, voyageant non loin de votre pays. Comme la plupart des réfugiés, ils seraient des proies faciles pour vos agents, et il existe une perspective de vol de toutes les richesses qu'ils pourraient emporter avec eux.\nUne autre solution serait de les accueillir dans votre cour. Un acte noble, qui pourrait aussi apporter de nouvelles possibilités... personne n'a jamais dit que vous étiez généreux sans raison." #NT!
+ podregionalpersons.25.a: "Accueillons nos pauvres cousins" #NT!
+ podregionalpersons.25.b: "Apportez-moi quelque chose de valeur !" #NT!
+ podregionalpersons.25.c: "De telles choses sont en dessous de moi" #NT!
+ podregionalpersons.26.t: "Suite d'un rêve II" #NT!
+ podregionalpersons.26.desc: "Les réfugiés byzantins sont reconnaissants pour votre aide. Ils parlent de leur grande ville, Constantinople, et de leur plus grand chef spirituel, Michael.\nLe Patriarche du Rêve est tombé avec sa ville mais ils parlent toujours de lui comme d'une entité presque plus divine que simplement [cainite|E]. En cadeau, l'un d'eux vous offre un fragment du « miroir » de Sainte-Sophie où Michel vivait avant sa chute. Vous pourriez l'accepter... mais il y a définitivement quelque chose d'étrange dans cette relique." #NT!
+ podregionalpersons.26.a: "Votre compagnie suffit, merci" #NT!
+ podregionalpersons.26.b: "...mon précieux" #NT!
+ podregionalpersons.27.t: "Suite d'un rêve II" #NT!
+ podregionalpersons.27.desc: "Vous vous êtes débarrassés facilement des maigres défenses de la caravane. Il n'y a pas autant de butin que vous l'espériez, mais quand même assez pour en valoir la peine. Cependant, un objet particulier a été âprement disputé entre vos hommes lors du partage du butin.\nCe petit morceau de verre, provenant peut-être d'un miroir ou d'une fenêtre, a un effet fascinant sur les gens, comme s'il faisait appel à leur âme même. Vous connaissez Michael, le vampire presque divin de Constantinople avant sa chute... Pourrait-il lui être lié ?" #NT!
+ podregionalpersons.27.a: "Je vais juste prendre l'or" #NT!
+ podregionalpersons.27.b: "Donne moi ça!" #NT!
+ podregionalpersons.28.t: "Suite d'un rêve III" #NT!
+ podregionalpersons.28.desc: "Le fragment a toujours été à vos côtés ces derniers jours. C'est même dans vos rêves ! Rêves de Constantinople, d'un empire, d'une trinité de Mathusalem unis vers une plus grande utopie...\nVous pouvez le sentir éroder lentement votre volonté et vous rappeler des choses que vous ne devriez même pas savoir. D’ici peu, vous ne serez plus la même personne, et cela pourrait être votre dernière chance de garder votre santé mentale intacte…" #NT!
+ podregionalpersons.28.a: "Le rêve est ma réalité" #NT!
+ podregionalpersons.28.b: "Je ne suis pas une marionnette !" #NT!
+ podregionalpersons.29.t: "Père Craneo" #NT!
+ podregionalpersons.29.desc: "Alors que la Reconquista mortelle fait toujours rage en Ibérie, une opportunité s'est présentée à vous. Au cours d'une bataille, un soldat du nom de Roderigo a été vu affichant un comportement étrange et des pouvoirs étranges. Les rumeurs disent qu'il est l'un des mages légendaires, les maîtres de la maîtrise de la réalité. Il s'agit probablement d'un jeune, sinon vos agents n'auraient certainement pas pu l'amener à votre cour pour une audience.\nL'homme calme n'est apparemment pas perturbé par votre assemblée, apparemment content de vous étudier du coin de l'œil. Que vas-tu faire de lui ?" #NT!
+ podregionalpersons.29.a: "J'ai accès à de nombreux écrits qui pourraient vous intéresser" #NT!
+ podregionalpersons.29.b: "Incitez-le à rejoindre votre service" #NT!
+ podregionalpersons.29.effect.success.desc: "Roderigo reste à votre cour pour l'instant" #NT!
+ podregionalpersons.29.critical.failure.effect.desc: "Roderigo quitte votre cour" #NT!
+ podregionalpersons.29.critical.failure: "Rodrigo est parti..." #NT!
+ podregionalpersons.29.c: "Je n'ai aucune utilité pour lui" #NT!
+ podregionalpersons.30.t: "Père Craneo II" #NT!
+ podregionalpersons.30.desc: "Roderigo s'est bien adapté à votre cour et aime en apprendre davantage sur la mort grâce à vous et aux autres vampires. Sa fascination pour l'au-delà semble ne connaître aucune limite et, même si vous apprenez beaucoup de choses en discutant avec lui, vous devez admettre que cela commence à vous troubler.\nVous pourriez écourter les recherches de Roderigo en l'embrassant et en le mettant plus près de votre influence ou attendez et voyez." #NT!
+ podregionalpersons.30.a: "Apprenons-en davantage ensemble" #NT!
+ podregionalpersons.30.b: "Il est temps de nous rejoindre" #NT!
+ podregionalpersons.31.t: "Père Craneo" #NT!
+ podregionalpersons.31.desc: "Roderigo a consciencieusement accepté votre décision d'arrêter ses recherches et potentiellement de le [Embrace|E]. Comme toujours, il reste étrangement silencieux sur ses sentiments à ce sujet et vous ne savez pas s'il considère cela comme une punition ou une récompense.\nPeu importe la vérité, il est désormais disponible dans votre cour pour la tâche ou l'avenir que vous choisissez." #NT!
+ podregionalpersons.31.a: "Un nouveau destin l'attend" #NT!
+ podregionalpersons.32.t: "Père Craneo III" #NT!
+ podregionalpersons.32.desc: "Votre mage invité a découvert des vérités vertigineuses sur la mort et l'au-delà, des choses que vous n'oseriez même pas envisager avant de venir à votre cour.\nIl est toujours calme sur de telles questions et vous informe clairement que, si vous continuez à donner Avec son patronage, bien plus est à portée de main. Mais vous avez le sentiment d'aller trop loin, trop vite..." #NT!
+ podregionalpersons.32.a: "La vérité est si proche !" #NT!
+ podregionalpersons.32.b: "Arrêtons-nous ici" #NT!
+ podregionalpersons.33.t: "Père Craneo IV" #NT!
+ podregionalpersons.33.desc: "Ces nuits-là, vous êtes à peine présent à votre cour, préférant discuter avec Roderigo de ses idées fascinantes sur la mort et le monde souterrain. Le mage semble même sur le point d’ouvrir un portail vers Enoch lui-même, la légendaire cité des Progéniteurs ! Quelles merveilles se trouvent là, prêtes à être réclamées ?\nVous avez hâte de continuer ce voyage fascinant, mais un sentiment tenace vous retient. C'est comme si vous regardiez directement l'abîme..." #NT!
+ podregionalpersons.33.a: "Qu’y a-t-il au-delà ?" #NT!
+ podregionalpersons.33.b: "Je dois arrêter cette folie maintenant !" #NT!
+ podregionalpersons.33.custom: "Dernière chance de revenir en arrière..." #NT!
+ podregionalpersons.34.t: "Père Craneo V" #NT!
+ podregionalpersons.34.desc: "Vous avez vu Enoch ! Vous avez vu la merveilleuse ville, le trône noir de Caïn... tout ! Roderigo est parti, mais vous n'avez plus besoin de lui, car les choses sont désormais beaucoup plus claires pour vous. Vous êtes au-dessus des petites préoccupations des autres vampires car vous connaissez la vérité. Même si vous ne vous en souvenez pas la plupart du temps...\nEh bien, peu importe, vous avez vu Enoch !... ou était-ce Irad ? Tout est tellement flou..." #NT!
+ podregionalpersons.34.a: "Je suis tellement au-dessus de la petite politique maintenant" #NT!
+ podregionalpersons.35.t: "Le chien" #NT!
+ podregionalpersons.35.desc: "Alors que l’Angleterre mène toujours sa guerre apparemment éternelle contre la France, vous entendez parler d’une opportunité présentée par ce conflit. Un mortel du nom d’Edmund FitzHenry est apparemment plus qu’il n’y paraît. Apparemment bâtard d'une maison noble mineure, il semble que le jeune Edmond en sache beaucoup plus sur le surnaturel que la plupart des mortels.\nCe fait pourrait expliquer ses récentes victoires éclatantes sur les champs de bataille de France. Vous voudrez peut-être approfondir votre enquête, mais d'autres vampires sont déjà sur ses traces." #NT!
+ podregionalpersons.35.a: "Je vais les convaincre qu'il est ma proie" #NT!
+ podregionalpersons.35.b: "Envoyez-les sur une fausse piste" #NT!
+ podregionalpersons.35.effect.success.desc: "Ils sont éjectés de votre cible" #NT!
+ podregionalpersons.35.critical.failure.effect.desc: "Ils sont toujours en compétition avec toi" #NT!
+ podregionalpersons.35.c: "Je n'ai aucune utilité pour ce mortel" #NT!
+ podregionalpersons.37.t: "Le Chien : Détourné" #NT!
+ podregionalpersons.37.desc: "Vos rivaux sont toujours sur les traces d'Edmund et rendent votre enquête encore plus difficile. Vous avez essayé d'être subtil jusqu'à présent, mais il est peut-être temps de recourir à des mesures plus drastiques si vous souhaitez continuer cette quête." #NT!
+ podregionalpersons.37.a: "Tout le monde a un prix" #NT!
+ podregionalpersons.37.b: "Lancez l'Inquisition sur leurs traces. Cela les occupera." #NT!
+ podregionalpersons.37.c: "Cela n'en vaut pas la peine" #NT!
+ podregionalpersons.36.t: "Le Chien II" #NT!
+ podregionalpersons.36.desc: "Vous commencez à mieux comprendre l’histoire d’Edmund FitzHenry. Il est en fait ce que les Lupins appellent un « Kinfolk », ce qui signifie apparemment un membre de la famille élargie de ces bêtes sauvages. Cela expliquerait sa grande force et sa connaissance étrange du surnaturel.\nPlus intéressant encore, il les fuit pour une raison quelconque, ce qui pourrait signifier qu'il apprécierait votre aide. Malheureusement, cela signifie également que ces loups-garous se rapprochent de lui et n'apprécieront pas votre interférence..." #NT!
+ podregionalpersons.36.a: "Ces bêtes respectent la force. Frappons quelques-uns de leurs crânes." #NT!
+ podregionalpersons.36.b: "Préparez une embuscade !" #NT!
+ podregionalpersons.36.effect.success.desc: "Les loups sont repoussés dans leurs bois" #NT!
+ podregionalpersons.36.critical.failure.effect.desc: "Les loups-garous n'ont pas peur" #NT!
+ podregionalpersons.36.c: "Cela devient trop dangereux. J'abandonne." #NT!
+ podregionalpersons.38.t: "Le Chien : Détourné" #NT!
+ podregionalpersons.38.desc: "Vous n'avez pas réussi à vous débarrasser des loups-garous à la recherche d'Edmund. Et maintenant, ils sont clairement également sur vos traces. Avant de pouvoir continuer votre chasse, vous devez d'abord vous en occuper pour de bon.\nEssayerez-vous de les distraire vous-même, ou simplement les laisserez-vous dépenser leur colère sur vos propriétés ?" #NT!
+ podregionalpersons.38.a: "Fumée et miroirs" #NT!
+ podregionalpersons.38.b: "Quelques mortels en moins dans mon domaine, ce n'est pas grave" #NT!
+ podregionalpersons.38.c: "Cela n'en vaut pas la peine" #NT!
+ podregionalpersons.39.t: "Le Chien III" #NT!
+ podregionalpersons.39.desc: "Vous avez finalement réussi à retrouver cet Edmund FitzHenry sur un sombre champ de bataille français. L'homme a été à la hauteur de sa réputation, étant un commandant avisé et un combattant solide, clairement renforcé par le sang de Lupin dans ses veines.\nMais la mortalité n'attend aucun homme et vous l'avez donc approché en lui offrant une protection contre ses chasseurs de loups-garous. et une offre d'immortalité encore plus alléchante. Edmund est évidemment intéressé et a rejoint votre cour.\nIl vous demande simplement de l'appeler par son nom de naissance, maintenant qu'il n'a plus à cacher sa lignée." #NT!
+ podregionalpersons.39.a: "Bienvenue dans la nuit, 'Talley'" #NT!
+ podregionalpersons.41.t: "Tempête venue de l'Est" #NT!
+ podregionalpersons.41.desc: "La lignée des Gangrels connue sous le nom d'Anda a connu une longue période de prospérité depuis l'avènement de leurs homologues mortels, les Mongols, en tant que maîtres de la Chine. Ils ont utilisé cette connexion pour prendre le contrôle de plusieurs villes clés de l'Empire Céleste, tuant ou délogeant les Wan Kuei natifs.\nMais cette époque a pris fin, alors que la dynastie Yuan est brisée par la montée des Ming, les Wan Les Kuei sont de retour, unifiés sous une nouvelle structure, le « Quincunx ». Ils ont déjà purgé la lignée Anda de leur pays natal et de la plupart des steppes orientales et se tournent désormais vers l'ouest. Il semble qu'ils ne s'arrêteront pas jusqu'à ce que le dernier Anda repose sur le sol, mourant d'une mort lente et douloureuse..." #NT!
+ podregionalpersons.41.a: "Un bilan est venu" #NT!
+ podregionalpersons.41.player_warningb: "Une puissante armée de Wan Kuei apparaîtra bientôt à Orgoo" #NT!
+ first_quincunxwarlord_event_troops: "Avant-garde du Quinconce" #NT!
+  
+ elaine_knights1_modifier: "Champions perdus" #NT!
+ elaine_knights1_modifier_desc: "Certains de vos champions ne sont pas encore revenus de leur expédition avec Elaine de Calinot" #NT!
+  
+ elaine_knights2_modifier: "Champions perdus" #NT!
+ elaine_knights2_modifier_desc: "Certains de vos champions ne sont pas encore revenus de leur expédition avec Elaine de Calinot" #NT!
+  
+ elaine_knights3_modifier: "Champions perdus" #NT!
+ elaine_knights3_modifier_desc: "Certains de vos champions ne sont pas encore revenus de leur expédition avec Elaine de Calinot" #NT!
+  
+ podregionalpersons.43.t: "La sorcière" #NT!
+ podregionalpersons.43.desc: "Une étrange noble française a récemment voyagé à Alger pour poser de nombreuses questions sur le surnaturel. Elle semble compétente, car elle a pu localiser la position de votre tribunal. Même si vous n'êtes pas sûr de ses intentions, vous êtes perplexe lorsqu'elle s'annonce un soir et indique vouloir travailler avec vous.\nCette "Elaine de Calinot" prétend être une sorcière engagée dans une quête mystérieuse en Afrique et pourrait avoir besoin d'aide pour se préparer. son expédition plus à l'intérieur des terres. Elle estime que vous êtes sa meilleure chance pour cette entreprise et propose de vous enseigner quelques secrets mystiques en retour." #NT!
+ podregionalpersons.43.a: "Nous pouvons conclure un accord" #NT!
+ podregionalpersons.43.b: "je ne suis pas intéressé" #NT!
+  
+ podregionalpersons.44.t: "La sorcière II" #NT!
+ podregionalpersons.44.desc: "Elaine est de retour, étourdie d'excitation. Même si elle ne veut pas vous dire exactement ce qu’elle a trouvé, elle en veut clairement plus. Son offre est assez simple : vous renforcez son entourage de gardes du corps et elle vous en apprendra encore plus sur la « vraie magie ».\nBien que la perspective soit certainement alléchante, vous n'avez pas encore appris exactement ce qui est arrivé à la première expédition, et le le regard d'une intensité presque folle dans les yeux d'Elaine n'est pas rassurant..." #NT!
+ podregionalpersons.44.a: "Vous aurez votre escorte" #NT!
+  
+ podregionalpersons.45.t: "La sorcière III" #NT!
+ podregionalpersons.45.desc: "Elaine est de retour, déferlant presque frénétiquement dans votre cour. Elle est difficile à comprendre, car son discours est assez incohérent, ressemblant plus aux divagations d'un fou qu'à la femme posée que vous avez rencontrée plus tôt. Vous parvenez à comprendre qu'elle a toujours besoin de votre aide pour une recherche encore plus approfondie de... quelque chose, ou de quelqu'un.\nMalgré l'air assez déséquilibré, vous savez qu'elle serait toujours capable de vous enseigner des concepts intéressants sur la magie du sang, mais est-ce que vous vraiment tu veux prendre le risque à ce stade ? Vous pouvez également essayer de la convaincre d'arrêter cette course folle avant qu'il ne soit trop tard." #NT!
+ podregionalpersons.45.a: "Plus de champions ? Bien sûr" #NT!
+ podregionalpersons.45.b: "Reprenez vos esprits !" #NT!
+ podregionalpersons.45.effect.success.desc: "Tu la convaincs d'arrêter" #NT!
+ podregionalpersons.45.critical.failure.effect.desc: "Elle sort en trombe de votre cour, furieuse" #NT!
+  
+ dreadful_omen_modifier: "Terrible présage" #NT!
+ dreadful_omen_modifier_desc: "Quelque chose ne va pas, vous pouvez le sentir..." #NT!
+  
+ podregionalpersons.46.t: "La sorcière IV" #NT!
+ podregionalpersons.46.desc: "Elaine a été retrouvée... enfin, ce qu'il reste d'elle de toute façon. Vos agents l'ont retrouvée jusqu'à un village isolé où elle a massacré une grande partie de la population avant d'être tuée. D'après ce qu'ils ont rassemblé, elle semble être devenue sauvage, comme si la Bête avait pris le dessus... mais elle n'était pas un vampire, pour autant que vous le sachiez.\nPeu importe, vous n'entendrez plus parler d'elle, mais on ne peut pas s'empêcher de penser qu'elle a touché à quelque chose de très dangereux..." #NT!
+ podregionalpersons.46.a: "Toute cette affaire était une très mauvaise idée dès le départ" #NT!
+  
+ Elaine_de_Calinot: "Élaine de Calinot" #NT!
+ nick_inquisitive_sorceress: "Sorcière curieuse" #NT!
+  
+ podregionalpersons.47.t: "La sorcière IV" #NT!
+ podregionalpersons.47.desc: "Vous avez convaincu Elaine d'arrêter son comportement imprudent... quelque peu. Vous avez laissé entendre qu'elle pourrait également apprendre beaucoup si elle travaillait plus étroitement avec vous, car le monde vampirique regorge également de secrets. Votre pari a porté ses fruits et elle a accepté de rester dans votre cour, s'attaquant à toute nouvelle chose qui suscite son intérêt.\nElle est maintenant sur votre site Web et vous pouvez l'utiliser pour votre propre bénéfice, ou même envisager le [Embrace|E]. Elle est talentueuse, même si elle est parfois un peu déséquilibrée, mais vous avez vu et apprivoisé pire." #NT!
+ podregionalpersons.47.a: "Passer un agréable séjour" #NT!
+  
+ podregionalpersons.48.t: "Le mamelouk" #NT!
+ podregionalpersons.48.desc: "En tant que [cainite|E] ayant des intérêts en Égypte, vous avez des agents dans la direction mortelle fatimide du royaume. Eh bien... vous l'aviez fait.\nUn rapport vient de vous parvenir selon lequel vos agents ont été retrouvés morts dans une rue du Caire hier. Ce genre de chose arrive, mais à plusieurs d'entre eux en même temps, sans prévenir ? C'est plus étrange.\nVous pourriez réduire vos pertes là-bas ou enquêter davantage." #NT!
+ podregionalpersons.48.a: "Envoyer de nouveaux agents" #NT!
+ podregionalpersons.48.b: "je ne suis pas intéressé" #NT!
+  
+ podregionalpersons.49.t: "Le Mamelouk II" #NT!
+ podregionalpersons.49.desc: "Eh bien... ces nouveaux agents n'ont pas duré longtemps. Ils ont été retrouvés aussi morts que les précédents plus tôt dans la nuit. Pourtant, cela n'a pas été vain, puisque vous avez entendu la rumeur selon laquelle un mortel surprenant du nom de "Mukhtar Bey" a récemment rejoint la cour fatimide.\nMamelouk (ou guerrier esclave) de naissance, ce mortel est tout à fait capable et compétent. . Également très loyal, car il semble qu'il soit à l'origine de la protection soudaine et accrue des dirigeants fatimides.\nCet homme mériterait peut-être une enquête plus approfondie." #NT!
+ podregionalpersons.49.a: "Envoyer de nouveaux agents" #NT!
+ podregionalpersons.49.effect.success.desc: "Vous avez trouvé quelque chose..." #NT!
+ podregionalpersons.49.critical.failure.effect.desc: "Rien d'interessant" #NT!
+  
+ podregionalpersons.50.t: "Le Mamelouk III" #NT!
+ podregionalpersons.50.desc: "Il semblerait que Mukhtar vous ait trouvé avant que vous ne le trouviez. Accompagné d'une forte suite de Mamelouks vétérans, il se rapproche de votre cour, la considérant comme une menace pour ses maîtres fatimides.\nVous avez peu de temps pour planifier cet assaut frontal. Mukhtar, pour sa part, est venu préparé car on a remarqué un certain nombre de torches et de pieux dans les forces ennemies. D'autres options peuvent être disponibles, comme fuir ou utiliser la terre que vous avez pu trouver sur lui plus tôt." #NT!
+ podregionalpersons.50.a: "Nous resterons debout et nous battrons !" #NT!
+ podregionalpersons.50.effect.success.desc: "Mukhtar est repoussé" #NT!
+ podregionalpersons.50.critical.failure.effect.desc: "Une bataille difficile" #NT!
+ podregionalpersons.50.b: "Je sais quelque chose d'intéressant..." #NT!
+ podregionalpersons.50.custom: "Cette option est disponible car vous avez réussi le défi d'intrigue précédent" #NT!
+ podregionalpersons.50.c: "Fuyez!" #NT!
+  
+ podregionalpersons.51.t: "Le mamelouk IV" #NT!
+ podregionalpersons.51.desc: "Une bataille acharnée, où votre victoire est principalement venue de la disparition soudaine de Mukhtar pendant le combat. Bien que l'on ne sache pas exactement ce qui s'est réellement passé, il a fallu plusieurs jours à vos agents pour le retrouver, seul et... tout à fait mort.\nIl semble que quelqu'un l'ait embrassé à la hâte pendant l'assaut, mais cela n'a pas pris beaucoup de temps, ne lui laissant qu'un simple Lâche. Même si vous ne savez pas exactement qui était son [Sire|E], la victoire vous appartient en fin de compte. Seul et confus, Mukhtar serait également une cible facile à amener dans votre donjon si vous le souhaitez." #NT!
+ podregionalpersons.51.a: "Que faire avec vous..." #NT!
+  
+ podregionalpersons.52.t: "Le mamelouk IV" #NT!
+ podregionalpersons.52.desc: "Une bataille acharnée, où vous avez à peine survécu, principalement à cause de la disparition soudaine de Mukhtar pendant le combat. Cela a amené ses hommes à perdre courage et votre défense à tenir bon.\nBien que ce qui s'est réellement passé ne soit pas clair, il a fallu plusieurs jours à vos agents pour avoir de nouveau des nouvelles de lui. Il semble que Mukhtar ait été embrassé lors de l'assaut par un vampire inconnu, mais cela n'a pas vraiment pris, ce qui l'a amené à devenir Caitiff. Ce coup de chance vous a aidé à survivre à la nuit, mais Mukhtar l'a fait aussi et a probablement un compte à régler avec vous." #NT!
+ podregionalpersons.52.a: "Un de plus ou un de moins..." #NT!
+  
+ podregionalpersons.53.t: "Le mamelouk IV" #NT!
+ podregionalpersons.53.desc: "Lors de votre enquête sur Mukhtar Bey, vous êtes tombé sur quelque chose d’intéressant. Le Mamelouk est en fait un homme plutôt craintif, qu'il cache derrière ses devoirs envers ses hommes et son sens aigu de la loyauté.\nConnaissant cette faiblesse, vous vous êtes préparé en conséquence, à une grande démonstration de force surnaturelle (c'est assez rafraîchissant de se déchaîner parfois vraiment) suffisait à affaiblir l'emprise de Mukhtar sur son côté lâche. Sans leur commandant, ses compagnons ont été facilement éliminés, et vous l'avez maintenant à votre merci.\nMalgré son défaut évident, il pourrait encore vous être précieux d'une manière ou d'une autre." #NT!
+ podregionalpersons.53.a: "Que faire avec vous..." #NT!
+  
+ Mukthar_Bey: "Moukhtar Bey" #NT!
+  
+ genevra_interference_modifier: "Ingérence" #NT!
+ genevra_interference_modifier_desc: "Quelqu'un s'immisce dans vos affaires dans ce domaine." #NT!
+  
+ podregionalpersons.64.t: "La noble" #NT!
+ podregionalpersons.64.desc: "Quelqu'un s'immisce dans les affaires de l'Inquisition en Italie. Tout a commencé par ce qui semblait être une prise de pouvoir simple : une noble dénonçant ses rivales aux chasseurs, les accusant d'héberger des vampires chez elles (ce qui était en fait vrai). Cela a ensuite dégénéré en d'autres revendications et l'influence de cette Genevra s'est développée à un point tel que de nombreuses cellules de l'Inquisition comptent désormais sur elle pour leur collecte de renseignements.\nCela a un effet secondaire cependant, Genevra n'a mis les Inquisiteurs que sur la piste de vampires très mineurs. , et les chasses aux plus grosses récompenses sont détournées par toutes ces proies faciles réclamées par des Inquisiteurs enthousiastes. Vous voudrez peut-être intervenir dans cette situation croissante." #NT!
+ podregionalpersons.64.a: "Aidons-la discrètement." #NT!
+ podregionalpersons.64.b: "Amenez-la-moi !" #NT!
+ podregionalpersons.64.c: "Ou peut-être pas." #NT!
+  
+ podregionalpersons.65.t: "La noble femme II" #NT!
+ podregionalpersons.65.desc: "Vous avez finalement attrapé cette noble femme qui s'immisçait. C'était beaucoup plus difficile que prévu, car elle avait les griffes enfoncées assez profondément dans l'Inquisition italienne, ce qui lui permettait de garder une longueur d'avance sur vous. Pourtant, vous aviez Dieu à vos côtés et le soutien total d'inquisiteurs talentueux, de sorte qu'elle ne pouvait vous éviter que pendant un certain temps.\nCette Genevra vous a été présentée maintenant. Son ingérence indésirable dans vos affaires est terminée, mais vous devez encore choisir quoi faire d'elle. De toute évidence, c’est une femme compétente, mais peut-on lui faire confiance et la racheter ?" #NT!
+ podregionalpersons.65.a: "Je pourrais avoir une utilité pour toi." #NT!
+ podregionalpersons.65.b: "À la sorcière du bûcher !" #NT!
+  
+ podregionalpersons.66.t: "La noble femme II" #NT!
+ podregionalpersons.66.desc: "Votre aide indirecte à la noble intervenante a été productive. Avec votre soutien subtil, Genevra continue de diriger l'Inquisition vers la chasse aux vampires mineurs et sans importance, vous laissant ainsi que vos frères réellement importants libres de faire ce que vous voulez.\nCette femme est douée et vous pouvez simplement la laisser continuer son travail. Une autre option serait de commencer discrètement à extraire des informations de ses contacts, ce qui pourrait vous aider à en savoir plus sur les mouvements actuels des armées de l'Inquisition." #NT!
+ podregionalpersons.66.a: "Laissez-la continuer." #NT!
+ podregionalpersons.66.b: "Commencez à contraindre son réseau." #NT!
+  
+ podregionalpersons.67.t: "La noble dame III" #NT!
+ podregionalpersons.67.desc: "Il semblerait que vous n'étiez pas le seul vampire à vous intéresser à Genevra. Un propriétaire foncier mineur nommé Del Georgio a commencé à prendre des mesures pour l'embrasser.\nCela vous ennuie à plusieurs niveaux. Premièrement, cela signifie que l'ingérence de Genevra a pris fin, puisque l'Inquisition la découvrira sûrement si elle devient un vampire. Deuxièmement, vous n'aimez pas vraiment ce genre de petits idiots qui se promènent dans votre jardin, même s'ils ne le savent pas.\nMalheureusement, Del Georgio a agi en premier, ce qui signifie que vous devrez négocier avec lui si vous voulez récupérer Genevra. . Même sans son influence sur l'Inquisition, elle pourrait toujours être un atout utile." #NT!
+ podregionalpersons.67.a: "Informez l'Inquisition à son sujet." #NT!
+ podregionalpersons.67.b: "Il suffit de le soudoyer." #NT!
+ podregionalpersons.67.c: "Faites irruption dans sa maison et menacez-le." #NT!
+ podregionalpersons.67.d: "Il suffit de le briser l'esprit." #NT!
+ podregionalpersons.67.e: "Elle n'en vaut pas la peine." #NT!
+  
+  
+  
