@@ -1,7 +1,5 @@
 ﻿l_french:
-  
- POD_masquerade_risk_increase_tenet_continued_life_tt: "Mon principe de vie continue augmente mon risque de [masquerade_exposure|E]." #NT!
- POD_masquerade_risk_increase_gangrel_frenzy_tt: "Mes marques de bête dues à mes frénésie augmentent mon risque de [masquerade_exposure|E]." #NT!
- POD_masquerade_risk_decrease_dominate_the_forgetful_mind_tt: "Mon [discipline|E] Dominate de l'esprit oublieux diminue mon risque de [masquerade_exposure|E]." #NT!
- POD_masquerade_risk_decrease_dominate_cloud_memory_tt: "Mon Dominate [discipline|E] de Cloud Memory diminue mon risque de [masquerade_exposure|E]." #NT!
-  
+    POD_masquerade_risk_increase_tenet_continued_life_tt: "Mon principe de vie continue augmente mon risque de [masquerade_exposure|E]."
+    POD_masquerade_risk_increase_gangrel_frenzy_tt: "Mes marques de bête dues à mes frénésie augmentent mon risque de [masquerade_exposure|E]."
+    POD_masquerade_risk_decrease_dominate_the_forgetful_mind_tt: "Mon [discipline|E] Dominate de l'esprit oublieux diminue mon risque de [masquerade_exposure|E]."
+    POD_masquerade_risk_decrease_dominate_cloud_memory_tt: "Mon Dominate [discipline|E] de Cloud Memory diminue mon risque de [masquerade_exposure|E]."

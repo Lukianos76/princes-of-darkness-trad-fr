@@ -1,73 +1,73 @@
 ﻿l_french:
- gauntlet0_modifier: "Gant 0" #NT!
- gauntlet0_modifier_desc: "La réalité et l'Umbra ne font plus qu'un, pour l'instant.\nCoût pour entrer dans l'Umbra : [gold_i]#P -100 %#!" #NT!
- gauntlet1_modifier: "Gant 1" #NT!
- gauntlet1_modifier_desc: "Gauntlet est la barrière entourant la réalité matérielle, également appelée le Mur dans l’Empire du Milieu. Il n'y en a presque plus ici.\nCoût pour entrer dans l'Umbra : [gold_i]#P -80 %#!" #NT!
- gauntlet2_modifier: "Gant 2" #NT!
- gauntlet2_modifier_desc: "Gauntlet est la barrière entourant la réalité matérielle, également appelée le Mur dans l’Empire du Milieu. C'est très faible ici.\nCoût pour entrer dans l'Umbra : [gold_i]#P -60 %#!" #NT!
- gauntlet3_modifier: "Gant 3" #NT!
- gauntlet3_modifier_desc: "Gauntlet est la barrière entourant la réalité matérielle, également appelée le Mur dans l’Empire du Milieu. il est très facile de percer ici.\nCoût pour entrer dans l'Umbra : [gold_i]#P -40 %#!" #NT!
- gauntlet4_modifier: "Gant 4" #NT!
- gauntlet4_modifier_desc: "Gauntlet est la barrière entourant la réalité matérielle, également appelée le Mur dans l’Empire du Milieu. Il est facile de percer ici.\nCoût pour entrer dans l'Umbra : [gold_i]#P -20 %#!" #NT!
- gauntlet5_modifier: "Gant 5" #NT!
- gauntlet5_modifier_desc: "Gauntlet est la barrière entourant la réalité matérielle, également appelée le Mur dans l’Empire du Milieu. C'est son moi normal ici." #NT!
- gauntlet6_modifier: "Gant 6" #NT!
- gauntlet6_modifier_desc: "Gauntlet est la barrière entourant la réalité matérielle, également appelée le Mur dans l’Empire du Milieu. C'est assez solide ici.\nCoût pour entrer dans l'Umbra : [gold_i]#N +20 %#!" #NT!
- gauntlet7_modifier: "Gant 7" #NT!
- gauntlet7_modifier_desc: "Gauntlet est la barrière entourant la réalité matérielle, également appelée le Mur dans l’Empire du Milieu. C'est très solide ici.\nCoût pour entrer dans l'Umbra : [gold_i]#N +40 %#!" #NT!
- gauntlet8_modifier: "Gant 8" #NT!
- gauntlet8_modifier_desc: "Gauntlet est la barrière entourant la réalité matérielle, également appelée le Mur dans l’Empire du Milieu. C'est formidable ici.\nCoût pour entrer dans l'Umbra : [gold_i]#N +60 %#!" #NT!
- gauntlet9_modifier: "Gant 9" #NT!
- gauntlet9_modifier_desc: "Gauntlet est la barrière entourant la réalité matérielle, également appelée le Mur dans l’Empire du Milieu. Ici, c'est presque imprenable.\nCoût pour entrer dans l'Umbra : [gold_i]#N +80 %#!" #NT!
- gauntlet10_modifier: "Gant 10" #NT!
- gauntlet10_modifier_desc: "Gauntlet est la barrière entourant la réalité matérielle, également appelée le Mur dans l’Empire du Milieu. Il est incassable ici.\n#weak Ceux qui sont assis à cet endroit ne sont pas autorisés à utiliser le Chi Art.#!\nCost pour entrer dans l'Umbra : [gold_i]#N +100 %#!" #NT!
-  
- shroud0_modifier: "Linceul 0" #NT!
- shroud0_modifier_desc: "[skinlands|E] et [shadowlands|E] ne font à nouveau qu'un, pour l'instant.\nCoût pour entrer dans le monde souterrain : [gold_i]#P -100 %#!" #NT!
- shroud1_modifier: "Linceul 1" #NT!
- shroud1_modifier_desc: "Le Linceul est la barrière mystique qui sépare les Enfers du [skinlands|E]. Il n'y en a presque plus ici.\nCoût pour entrer dans le monde souterrain : [gold_i]#P -80 %#!" #NT!
- shroud2_modifier: "Linceul 2" #NT!
- shroud2_modifier_desc: "Le Linceul est la barrière mystique qui sépare les Enfers du [skinlands|E]. Il est très faible ici.\nCoût pour entrer dans le monde souterrain : [gold_i]#P -60 %#!" #NT!
- shroud3_modifier: "Linceul 3" #NT!
- shroud3_modifier_desc: "Le Linceul est la barrière mystique qui sépare les Enfers du [skinlands|E]. il est très facile de percer ici.\nCoût pour entrer dans le monde souterrain : [gold_i]#P -40 %#!" #NT!
- shroud4_modifier: "Linceul 4" #NT!
- shroud4_modifier_desc: "Le Linceul est la barrière mystique qui sépare les Enfers du [skinlands|E]. Il est facile de percer ici.\nCoût pour entrer dans le monde souterrain : [gold_i]#P -20 %#!" #NT!
- shroud5_modifier: "Linceul 5" #NT!
- shroud5_modifier_desc: "Le Linceul est la barrière mystique qui sépare les Enfers du [skinlands|E]. C'est son moi normal ici." #NT!
- shroud6_modifier: "Linceul 6" #NT!
- shroud6_modifier_desc: "Le Linceul est la barrière mystique qui sépare les Enfers du [skinlands|E]. C'est assez solide ici.\nCoût pour entrer dans le monde souterrain : [gold_i]#N +20 %#!" #NT!
- shroud7_modifier: "Linceul 7" #NT!
- shroud7_modifier_desc: "Le Linceul est la barrière mystique qui sépare les Enfers du [skinlands|E]. C'est très solide ici.\nCoût pour entrer dans le monde souterrain : [gold_i]#N +40 %#!" #NT!
- shroud8_modifier: "Linceul 8" #NT!
- shroud8_modifier_desc: "Le Linceul est la barrière mystique qui sépare les Enfers du [skinlands|E]. C'est formidable ici.\nCoût pour entrer dans le monde souterrain : [gold_i]#N +60 %#!" #NT!
- shroud9_modifier: "Linceul 9" #NT!
- shroud9_modifier_desc: "Le Linceul est la barrière mystique qui sépare les Enfers du [skinlands|E]. Ici, c'est presque imprenable.\nCoût pour entrer dans le monde souterrain : [gold_i]#N +80 %#!" #NT!
- shroud10_modifier: "Linceul 10" #NT!
- shroud10_modifier_desc: "Shroud est la barrière mystique qui sépare les Enfers du [skinlands|E]. Ici, il est incassable.\nCoût pour entrer dans le monde souterrain : [gold_i]#N +100 %#!" #NT!
-  
- spirit_opinion0_modifier: "Opinion spirituelle 0 : Furieux" #NT!
- spirit_opinion1_modifier: "Opinion spirituelle 1 : En colère" #NT!
- spirit_opinion2_modifier: "Opinion spirituelle 2 : Ennuyé" #NT!
- spirit_opinion3_modifier: "Opinion spirituelle 3 : Calmé" #NT!
- spirit_opinion4_modifier: "Opinion spirituelle 4 : Heureux" #NT!
- spirit_opinion5_modifier: "Opinion spirituelle 5 : Reconnaissant" #NT!
-  
- plasmic_opinion0_modifier: "Opinion Wraith 0 : Furieux" #NT!
- plasmic_opinion1_modifier: "Opinion Wraith 1 : En colère" #NT!
- plasmic_opinion2_modifier: "Opinion Wraith 2 : Ennuyé" #NT!
- plasmic_opinion3_modifier: "Opinion Wraith 3 : Calmé" #NT!
- plasmic_opinion4_modifier: "Avis Wraith 4 : Heureux" #NT!
- plasmic_opinion5_modifier: "Opinion Wraith 5 : Reconnaissant" #NT!
-  
- temporary_dragon_nest_modifier: "Nid de dragon temporaire" #NT!
-  
- NOT_has_wall_trigger_tooltip: "[PROVINCE.GetName], #Bold et #! n'ont-ils pas le modificateur de province Wall(Gauntlet)." #NT!
- NOT_has_gauntlet_trigger_tooltip: "[PROVINCE.GetName], #Bold et #! n'ont-ils pas le modificateur de province Gauntlet." #NT!
- NOT_has_shroud_trigger_tooltip: "[PROVINCE.GetName], #Bold et #! n'ont-ils pas le modificateur de province Shroud." #NT!
- NOT_wall_too_strong_trigger_tooltip: "Cet emplacement doit #Bold et non#! avoir le modificateur de province Mur (Gantelet) au niveau 10." #NT!
- NOT_has_spirit_opinion_trigger_tooltip: "Vous devez #Bold et non#! avoir le modificateur « Opinion spirituelle »." #NT!
- NOT_has_plasmic_opinion_trigger_tooltip: "Vous devez #Bold et non#! avoir le modificateur « Opinion Wraith »." #NT!
- NOT_has_temporary_dragon_nest_modifier: "Cet emplacement doit #Bold et non#! avoir le modificateur de province « Nid de dragon temporaire »." #NT!
-  
- nihil_modifier: "Nihil" #NT!
- nihil_modifier_desc: "Un portail qui relie un emplacement spécifique au [tempest|E] ou au Labyrinthe." #NT!
+    gauntlet0_modifier: "Gant 0"
+    gauntlet0_modifier_desc: "La réalité et l'Umbra ne font plus qu'un, pour l'instant.\nCoût pour entrer dans l'Umbra : [gold_i]#P -100 %#!"
+    gauntlet1_modifier: "Gant 1"
+    gauntlet1_modifier_desc: "Gauntlet est la barrière entourant la réalité matérielle, également appelée le Mur dans l’Empire du Milieu. Il n'y en a presque plus ici.\nCoût pour entrer dans l'Umbra : [gold_i]#P -80 %#!"
+    gauntlet2_modifier: "Gant 2"
+    gauntlet2_modifier_desc: "Gauntlet est la barrière entourant la réalité matérielle, également appelée le Mur dans l’Empire du Milieu. C'est très faible ici.\nCoût pour entrer dans l'Umbra : [gold_i]#P -60 %#!"
+    gauntlet3_modifier: "Gant 3"
+    gauntlet3_modifier_desc: "Gauntlet est la barrière entourant la réalité matérielle, également appelée le Mur dans l’Empire du Milieu. il est très facile de percer ici.\nCoût pour entrer dans l'Umbra : [gold_i]#P -40 %#!"
+    gauntlet4_modifier: "Gant 4"
+    gauntlet4_modifier_desc: "Gauntlet est la barrière entourant la réalité matérielle, également appelée le Mur dans l’Empire du Milieu. Il est facile de percer ici.\nCoût pour entrer dans l'Umbra : [gold_i]#P -20 %#!"
+    gauntlet5_modifier: "Gant 5"
+    gauntlet5_modifier_desc: "Gauntlet est la barrière entourant la réalité matérielle, également appelée le Mur dans l’Empire du Milieu. C'est son moi normal ici."
+    gauntlet6_modifier: "Gant 6"
+    gauntlet6_modifier_desc: "Gauntlet est la barrière entourant la réalité matérielle, également appelée le Mur dans l’Empire du Milieu. C'est assez solide ici.\nCoût pour entrer dans l'Umbra : [gold_i]#N +20 %#!"
+    gauntlet7_modifier: "Gant 7"
+    gauntlet7_modifier_desc: "Gauntlet est la barrière entourant la réalité matérielle, également appelée le Mur dans l’Empire du Milieu. C'est très solide ici.\nCoût pour entrer dans l'Umbra : [gold_i]#N +40 %#!"
+    gauntlet8_modifier: "Gant 8"
+    gauntlet8_modifier_desc: "Gauntlet est la barrière entourant la réalité matérielle, également appelée le Mur dans l’Empire du Milieu. C'est formidable ici.\nCoût pour entrer dans l'Umbra : [gold_i]#N +60 %#!"
+    gauntlet9_modifier: "Gant 9"
+    gauntlet9_modifier_desc: "Gauntlet est la barrière entourant la réalité matérielle, également appelée le Mur dans l’Empire du Milieu. Ici, c'est presque imprenable.\nCoût pour entrer dans l'Umbra : [gold_i]#N +80 %#!"
+    gauntlet10_modifier: "Gant 10"
+    gauntlet10_modifier_desc: "Gauntlet est la barrière entourant la réalité matérielle, également appelée le Mur dans l’Empire du Milieu. Il est incassable ici.\n#weak Ceux qui sont assis à cet endroit ne sont pas autorisés à utiliser le Chi Art.#!\nCost pour entrer dans l'Umbra : [gold_i]#N +100 %#!"
+
+    shroud0_modifier: "Linceul 0"
+    shroud0_modifier_desc: "[skinlands|E] et [shadowlands|E] ne font à nouveau qu'un, pour l'instant.\nCoût pour entrer dans le monde souterrain : [gold_i]#P -100 %#!"
+    shroud1_modifier: "Linceul 1"
+    shroud1_modifier_desc: "Le Linceul est la barrière mystique qui sépare les Enfers du [skinlands|E]. Il n'y en a presque plus ici.\nCoût pour entrer dans le monde souterrain : [gold_i]#P -80 %#!"
+    shroud2_modifier: "Linceul 2"
+    shroud2_modifier_desc: "Le Linceul est la barrière mystique qui sépare les Enfers du [skinlands|E]. Il est très faible ici.\nCoût pour entrer dans le monde souterrain : [gold_i]#P -60 %#!"
+    shroud3_modifier: "Linceul 3"
+    shroud3_modifier_desc: "Le Linceul est la barrière mystique qui sépare les Enfers du [skinlands|E]. il est très facile de percer ici.\nCoût pour entrer dans le monde souterrain : [gold_i]#P -40 %#!"
+    shroud4_modifier: "Linceul 4"
+    shroud4_modifier_desc: "Le Linceul est la barrière mystique qui sépare les Enfers du [skinlands|E]. Il est facile de percer ici.\nCoût pour entrer dans le monde souterrain : [gold_i]#P -20 %#!"
+    shroud5_modifier: "Linceul 5"
+    shroud5_modifier_desc: "Le Linceul est la barrière mystique qui sépare les Enfers du [skinlands|E]. C'est son moi normal ici."
+    shroud6_modifier: "Linceul 6"
+    shroud6_modifier_desc: "Le Linceul est la barrière mystique qui sépare les Enfers du [skinlands|E]. C'est assez solide ici.\nCoût pour entrer dans le monde souterrain : [gold_i]#N +20 %#!"
+    shroud7_modifier: "Linceul 7"
+    shroud7_modifier_desc: "Le Linceul est la barrière mystique qui sépare les Enfers du [skinlands|E]. C'est très solide ici.\nCoût pour entrer dans le monde souterrain : [gold_i]#N +40 %#!"
+    shroud8_modifier: "Linceul 8"
+    shroud8_modifier_desc: "Le Linceul est la barrière mystique qui sépare les Enfers du [skinlands|E]. C'est formidable ici.\nCoût pour entrer dans le monde souterrain : [gold_i]#N +60 %#!"
+    shroud9_modifier: "Linceul 9"
+    shroud9_modifier_desc: "Le Linceul est la barrière mystique qui sépare les Enfers du [skinlands|E]. Ici, c'est presque imprenable.\nCoût pour entrer dans le monde souterrain : [gold_i]#N +80 %#!"
+    shroud10_modifier: "Linceul 10"
+    shroud10_modifier_desc: "Shroud est la barrière mystique qui sépare les Enfers du [skinlands|E]. Ici, il est incassable.\nCoût pour entrer dans le monde souterrain : [gold_i]#N +100 %#!"
+
+    spirit_opinion0_modifier: "Opinion spirituelle 0 : Furieux"
+    spirit_opinion1_modifier: "Opinion spirituelle 1 : En colère"
+    spirit_opinion2_modifier: "Opinion spirituelle 2 : Ennuyé"
+    spirit_opinion3_modifier: "Opinion spirituelle 3 : Calmé"
+    spirit_opinion4_modifier: "Opinion spirituelle 4 : Heureux"
+    spirit_opinion5_modifier: "Opinion spirituelle 5 : Reconnaissant"
+
+    plasmic_opinion0_modifier: "Opinion Wraith 0 : Furieux"
+    plasmic_opinion1_modifier: "Opinion Wraith 1 : En colère"
+    plasmic_opinion2_modifier: "Opinion Wraith 2 : Ennuyé"
+    plasmic_opinion3_modifier: "Opinion Wraith 3 : Calmé"
+    plasmic_opinion4_modifier: "Avis Wraith 4 : Heureux"
+    plasmic_opinion5_modifier: "Opinion Wraith 5 : Reconnaissant"
+
+    temporary_dragon_nest_modifier: "Nid de dragon temporaire"
+
+    NOT_has_wall_trigger_tooltip: "[PROVINCE.GetName], #Bold et #! n'ont-ils pas le modificateur de province Wall(Gauntlet)."
+    NOT_has_gauntlet_trigger_tooltip: "[PROVINCE.GetName], #Bold et #! n'ont-ils pas le modificateur de province Gauntlet."
+    NOT_has_shroud_trigger_tooltip: "[PROVINCE.GetName], #Bold et #! n'ont-ils pas le modificateur de province Shroud."
+    NOT_wall_too_strong_trigger_tooltip: "Cet emplacement doit #Bold et non#! avoir le modificateur de province Mur (Gantelet) au niveau 10."
+    NOT_has_spirit_opinion_trigger_tooltip: "Vous devez #Bold et non#! avoir le modificateur « Opinion spirituelle »."
+    NOT_has_plasmic_opinion_trigger_tooltip: "Vous devez #Bold et non#! avoir le modificateur « Opinion Wraith »."
+    NOT_has_temporary_dragon_nest_modifier: "Cet emplacement doit #Bold et non#! avoir le modificateur de province « Nid de dragon temporaire »."
+
+    nihil_modifier: "Nihil"
+    nihil_modifier_desc: "Un portail qui relie un emplacement spécifique au [tempest|E] ou au Labyrinthe."

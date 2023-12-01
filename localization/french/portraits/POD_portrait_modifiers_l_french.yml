@@ -1,543 +1,553 @@
 ﻿l_french:
-  
-  
- # Barbershop 
-  
- BARBERSHOP_TAB_TINT: "Teinte" #NT!
- BARBERSHOP_TAB_TINT_TT: "Modifier la teinte des cheveux" #NT!
-  
- # Portrait Modifiers 
-  
- PORTRAIT_MODIFIER_vanilla_legwear: "Pantalons" #NT!
- PORTRAIT_MODIFIER_vanilla_legwear_female_empty: "Pas de jambières" #NT!
- PORTRAIT_MODIFIER_vanilla_legwear_male_empty: "Pas de jambières" #NT!
- PORTRAIT_MODIFIER_vanilla_legwear_male_legwear_secular_western_common_01: "Pantalons communs occidentaux" #NT!
- PORTRAIT_MODIFIER_vanilla_legwear_female_legwear_secular_western_common_01: "Pantalons communs occidentaux" #NT!
- PORTRAIT_MODIFIER_vanilla_legwear_male_legwear_secular_western_war_01: "Pantalons de guerre occidentale" #NT!
- PORTRAIT_MODIFIER_vanilla_legwear_female_legwear_secular_western_war_01: "Pantalons de guerre occidentale" #NT!
- PORTRAIT_MODIFIER_vanilla_legwear_male_legwear_secular_mena_common_01: "Pantalons communs du Moyen-Orient" #NT!
- PORTRAIT_MODIFIER_vanilla_legwear_female_legwear_secular_mena_common_01: "Pantalons communs du Moyen-Orient" #NT!
- PORTRAIT_MODIFIER_vanilla_legwear_male_legwear_secular_mena_nobility_01: "Pantalons nobles du Moyen-Orient" #NT!
- PORTRAIT_MODIFIER_vanilla_legwear_female_legwear_secular_mena_nobility_01: "Pantalons nobles du Moyen-Orient" #NT!
- PORTRAIT_MODIFIER_vanilla_legwear_male_legwear_secular_mena_war_nobility_01: "Pantalons de guerre du Moyen-Orient" #NT!
- PORTRAIT_MODIFIER_vanilla_legwear_female_legwear_secular_mena_war_nobility_01: "Pantalons de guerre du Moyen-Orient" #NT!
- PORTRAIT_MODIFIER_vanilla_legwear_male_legwear_secular_fp1_common_01: "Vêtements du Nord" #NT!
- PORTRAIT_MODIFIER_vanilla_legwear_female_legwear_secular_fp1_common_01: "Vêtements du Nord" #NT!
- PORTRAIT_MODIFIER_vanilla_legwear_male_legwear_secular_ep1_jester_01: "Jambières de bouffon" #NT!
- PORTRAIT_MODIFIER_vanilla_legwear_female_legwear_secular_ep1_jester_01: "Jambières de bouffon" #NT!
-  
- PORTRAIT_MODIFIER_POD_custom_clothing: "Vêtements POD" #NT!
-  
- ## Muscle Cuirass 
- PORTRAIT_MODIFIER_POD_custom_clothing_male_clothes_greek_war_01: "Cuirasse musculaire" #NT!
-  
- ## White Plate 
- PORTRAIT_MODIFIER_POD_custom_clothing_male_clothes_plate_war_01: "Armure de plaques blanches" #NT!
-  
-  
- # Nude 
- PORTRAIT_MODIFIER_custom_clothes_male_clothes_secular_western_nudity_01: "Supprimer les vêtements vanille" #NT!
- PORTRAIT_MODIFIER_custom_clothes_female_clothes_secular_western_nudity_01: "Supprimer les vêtements vanille" #NT!
- PORTRAIT_MODIFIER_POD_custom_cloaks_male_empty: "Supprimer la cape POD" #NT!
- PORTRAIT_MODIFIER_POD_custom_legwear_male_empty: "Supprimer les leggings POD" #NT!
- PORTRAIT_MODIFIER_POD_custom_headgear_male_empty: "Retirer le casque POD" #NT!
- PORTRAIT_MODIFIER_POD_custom_cloaks_female_empty: "Supprimer la cape POD" #NT!
- PORTRAIT_MODIFIER_POD_custom_headgear_female_empty: "Retirer le casque POD" #NT!
- PORTRAIT_MODIFIER_POD_monster_form_POD_experiment_form: "Forme expérimentale" #NT!
-  
- PORTRAIT_MODIFIER_POD_custom_clothing_male_clothes_secular_western_nudity_01: "Nu" #NT!
- PORTRAIT_MODIFIER_POD_custom_clothing_female_clothes_secular_western_nudity_01: "Nu" #NT!
-  
-  #POD 
-  
-  
-  # Red Robes 
- PORTRAIT_MODIFIER_POD_custom_clothing_POD_male_clothes_religious_catholic_devoted_01: "Robes rouges" #NT!
- PORTRAIT_MODIFIER_POD_custom_clothing_POD_female_clothes_religious_catholic_devoted_01: "Robes rouges" #NT!
- PORTRAIT_MODIFIER_POD_custom_clothing_POD_male_clothes_religious_catholic_devoted_red_01: "Robes rouges" #NT!
- PORTRAIT_MODIFIER_POD_custom_clothing_POD_female_clothes_religious_catholic_devoted_red_01: "Robes rouges" #NT!
-  
-  # Black Robes 
- PORTRAIT_MODIFIER_POD_custom_clothing_POD_male_clothes_religious_catholic_devoted_black_01: "Robe noire" #NT!
- PORTRAIT_MODIFIER_POD_custom_clothing_POD_female_clothes_religious_catholic_devoted_black_01: "Robe noire" #NT!
-  
-  # Knights 
- PORTRAIT_MODIFIER_special: "Spécial" #NT!
- PORTRAIT_MODIFIER_POD_custom_legwear: "Pantalons POD" #NT!
-  
- PORTRAIT_MODIFIER_POD_custom_clothing_POD_male_clothes_secular_crusades_western_war_nobility_01_common: "Chevalier de la Croix Noire" #NT!
- PORTRAIT_MODIFIER_POD_custom_clothing_POD_female_clothes_secular_crusades_western_war_nobility_01_common: "Chevalier de la Croix Noire" #NT!
- # PORTRAIT_MODIFIER_POD_custom_headgear_male_headgear_secular_blackcross_knight_war_nobility_01: "Heaume du Chevalier de la Croix Noire" #NT!
- # PORTRAIT_MODIFIER_POD_custom_headgear_female_headgear_secular_blackcross_knight_war_nobility_01: "Heaume du Chevalier de la Croix Noire" #NT!
- PORTRAIT_MODIFIER_POD_custom_clothing_POD_male_clothes_secular_crusades_western_war_nobility_02_common: "Chevalier de Santiago" #NT!
- PORTRAIT_MODIFIER_POD_custom_clothing_POD_female_clothes_secular_crusades_western_war_nobility_02_common: "Chevalier de Santiago" #NT!
- PORTRAIT_MODIFIER_POD_custom_clothing_POD_male_clothes_secular_crusades_western_war_nobility_03_common: "Chevalier de l'Ombre Reconquista" #NT!
- PORTRAIT_MODIFIER_POD_custom_clothing_POD_female_clothes_secular_crusades_western_war_nobility_03_common: "Chevalier de l'Ombre Reconquista" #NT!
-  
-  
-  # King in Yellow 
-  
- PORTRAIT_MODIFIER_POD_custom_clothing_POD_male_clothes_king_in_yellow_01: "Robes jaunes" #NT!
- PORTRAIT_MODIFIER_POD_custom_clothing_POD_female_clothes_king_in_yellow_01: "Robes jaunes" #NT!
-  
- PORTRAIT_MODIFIER_POD_custom_headgear_male_clothes_situational_western_stealth_hood_01: "Capot d'espion" #NT!
- PORTRAIT_MODIFIER_POD_custom_headgear_female_clothes_situational_western_stealth_hood_01: "Capot d'espion" #NT!
-  
- PORTRAIT_MODIFIER_POD_custom_headgear: "Couvre-chef POD" #NT!
-  
-  ## Fantasy Armor Helm / Iron Skull Helm ## 
-  ### Male ### 
- PORTRAIT_MODIFIER_POD_custom_headgear_male_headgear_secular_fantasy_war_01: "Heaume du Crâne de Fer" #NT!
- PORTRAIT_MODIFIER_POD_custom_headgear_male_headgear_secular_fantasy_war_01_open: "Heaume du Crâne de Fer Ouvert" #NT!
-  ### Female ### 
- PORTRAIT_MODIFIER_POD_custom_headgear_female_headgear_secular_fantasy_war_01: "Heaume du Crâne de Fer" #NT!
- PORTRAIT_MODIFIER_POD_custom_headgear_female_headgear_secular_fantasy_war_01_open: "Heaume du Crâne de Fer Ouvert" #NT!
-  
-  # Red Nun Habit 
-  
- PORTRAIT_MODIFIER_POD_custom_headgear_POD_female_headgear_religious_catholic_devoted_red_01: "Habitude rouge" #NT!
- PORTRAIT_MODIFIER_POD_custom_headgear_POD_female_headgear_religious_catholic_devoted_black_01: "Habitude noire" #NT!
- PORTRAIT_MODIFIER_POD_custom_headgear_POD_female_headgear_religious_catholic_devoted_01: "Habitude de la nonne rouge" #NT!
- PORTRAIT_MODIFIER_custom_headgear_female_headgear_religious_catholic_devoted_02: "Habitude de nonne" #NT!
-  
-  #Mithrasist 
-  
- PORTRAIT_MODIFIER_POD_custom_headgear_POD_male_headgear_secular_byzantine_common_01: "Bonnet phrygien mithraist" #NT!
-  
-  # Yellow Hood 
- PORTRAIT_MODIFIER_POD_custom_headgear_POD_male_clothes_king_in_yellow_hood_01: "Chaperon jaune" #NT!
- PORTRAIT_MODIFIER_POD_custom_headgear_POD_female_clothes_king_in_yellow_hood_01: "Chaperon jaune" #NT!
-  
- # PORTRAIT_MODIFIER_POD_custom_clothes_male_headgear_secular_blackcross_knight_war_nobility_01: "Heaume de chevalier de la Croix noire" #NT!
-  
-  #Egyptian 
- PORTRAIT_MODIFIER_POD_custom_headgear_male_headgear_egyptian_nemes_common: "Némès commun égyptien" #NT!
- PORTRAIT_MODIFIER_POD_custom_headgear_male_headgear_egyptian_nemes_low: "Bas Némès égyptien" #NT!
- PORTRAIT_MODIFIER_POD_custom_headgear_male_headgear_egyptian_nemes_high: "Haut Némès égyptien" #NT!
- PORTRAIT_MODIFIER_POD_custom_clothing_male_clothes_egyptian_usekh_common: "Usekh commun égyptien" #NT!
- PORTRAIT_MODIFIER_POD_custom_clothing_male_clothes_egyptian_shirt_common: "Chemise commune égyptienne" #NT!
- PORTRAIT_MODIFIER_POD_custom_clothing_male_empty: "Sans chemise" #NT!
- PORTRAIT_MODIFIER_POD_custom_clothing_male_clothes_egyptian_usekh_low: "Bas Usekh égyptien" #NT!
- PORTRAIT_MODIFIER_POD_custom_clothing_male_clothes_egyptian_usekh_high: "Haut Usekh égyptien" #NT!
-  
- PORTRAIT_MODIFIER_POD_custom_clothing_POD_remove_clothing: "Supprimer les vêtements POD" #NT!
- PORTRAIT_MODIFIER_POD_custom_clothing_female_empty: "Supprimer les vêtements POD" #NT!
- PORTRAIT_MODIFIER_POD_custom_clothing_girl_empty: "Supprimer les vêtements POD" #NT!
- PORTRAIT_MODIFIER_POD_custom_clothing_boy_empty: "Supprimer les vêtements POD" #NT!
-  #Custom Legwear 
- PORTRAIT_MODIFIER_POD_custom_legwear_male: "Pas de jambières" #NT!
- PORTRAIT_MODIFIER_POD_custom_legwear_male_legwear_secular_western_common_01: "Pantalons communs occidentaux" #NT!
- PORTRAIT_MODIFIER_POD_custom_legwear_male_legwear_secular_western_war_01: "Pantalons de guerre occidentale" #NT!
- PORTRAIT_MODIFIER_POD_custom_legwear_male_legwear_secular_mena_war_nobility_01: "Pantalons de guerre du Moyen-Orient" #NT!
- PORTRAIT_MODIFIER_POD_custom_legwear_male_legwear_egyptian_shendyt_common: "Shendyt commun égyptien" #NT!
- PORTRAIT_MODIFIER_POD_custom_legwear_male_legwear_egyptian_shendyt_low: "Shendyt bas égyptien" #NT!
- PORTRAIT_MODIFIER_POD_custom_legwear_male_legwear_egyptian_shendyt_high: "Haut Shendyt égyptien" #NT!
- PORTRAIT_MODIFIER_POD_custom_legwear_male_legwear_secular_mena_common_01: "Pantalons communs du Moyen-Orient" #NT!
-  
- PORTRAIT_MODIFIER_POD_custom_legwear_female_empty: "Pantalons vides" #NT!
- PORTRAIT_MODIFIER_POD_custom_legwear_female_legwear_secular_western_common_01: "Pantalons communs occidentaux" #NT!
- PORTRAIT_MODIFIER_POD_custom_legwear_female_legwear_secular_western_war_01: "Pantalons de guerre occidentale" #NT!
- PORTRAIT_MODIFIER_POD_custom_legwear_female_legwear_secular_mena_common_01: "Pantalons communs du Moyen-Orient" #NT!
- PORTRAIT_MODIFIER_POD_custom_legwear_male_legwear_secular_plate_war_01: "Jambières en plaques blanches" #NT!
- PORTRAIT_MODIFIER_POD_custom_legwear_male_legwear_secular_greek_war_01: "Armure grecque" #NT!
- PORTRAIT_MODIFIER_POD_custom_legwear_boy_empty: "$PORTRAIT_MODIFIER_custom_legwear_male_empty$" #NT!
- PORTRAIT_MODIFIER_POD_custom_legwear_girl_empty: "$PORTRAIT_MODIFIER_custom_legwear_male_empty$" #NT!
-  
-  # POD Egyptian Makeup 
-  
- PORTRAIT_MODIFIER_cosmetics_eyeliner_eyeliner_egyptian_1: "égyptien" #NT!
- PORTRAIT_MODIFIER_cosmetics_eyeshadow_eyeshadow_egyptian_1: "égyptien" #NT!
- PORTRAIT_MODIFIER_cosmetics_lipcolor_lipcolor_egyptian_1: "égyptien" #NT!
-  
- #Cloaks 
- PORTRAIT_MODIFIER_POD_custom_cloaks_male_clothes_situational_western_stealth_cloak_01: "Cape d'espion" #NT!
- PORTRAIT_MODIFIER_POD_custom_cloaks_female_clothes_situational_western_stealth_cloak_01: "Cape d'espion" #NT!
-  
-  # POD Cloaks 
- PORTRAIT_MODIFIER_POD_custom_cloaks: "Capes POD" #NT!
- PORTRAIT_MODIFIER_POD_custom_cloaks_POD_female_capes_king_in_yellow_01: "Cape jaune" #NT!
- PORTRAIT_MODIFIER_POD_custom_cloaks_POD_male_capes_king_in_yellow_01: "Cape jaune" #NT!
-  
-  # POD Custom Monster Visuals 
-  
-  # POD Monster Vicissitude Face 
- PORTRAIT_MODIFIER_POD_monster_vicissitude_face: "Visage monstrueux" #NT!
- PORTRAIT_MODIFIER_POD_monster_vicissitude_face_POD_tzm_amphibieyes: "Yeux d'amphibiens" #NT!
- PORTRAIT_MODIFIER_POD_monster_vicissitude_face_POD_tzm_spliceeyes: "Yeux d'épissure" #NT!
- PORTRAIT_MODIFIER_POD_monster_vicissitude_face_POD_tzm_widebrain: "Vicissitude Large Cerveau" #NT!
- PORTRAIT_MODIFIER_POD_monster_vicissitude_face_POD_tzm_longbrain: "Vicissitude Long Cerveau" #NT!
- PORTRAIT_MODIFIER_POD_monster_vicissitude_face_POD_tzm_browcrest_zerghead: "Tête Zerg" #NT!
- PORTRAIT_MODIFIER_POD_monster_vicissitude_face_POD_tzm_serpentinejaw: "Mâchoire Serpentine" #NT!
- PORTRAIT_MODIFIER_POD_monster_vicissitude_face_POD_tzm_BROW_spike: "Pointe à sourcils Vicissitude" #NT!
- PORTRAIT_MODIFIER_POD_monster_vicissitude_face_POD_tzm_BROW_pox: "Vicissitude de la variole des sourcils" #NT!
- PORTRAIT_MODIFIER_POD_monster_vicissitude_face_POD_tzm_FACE_mowhawk: "Mohawk" #NT!
- PORTRAIT_MODIFIER_POD_monster_vicissitude_face_POD_tzm_JAW: "Pointes de mâchoire" #NT!
- PORTRAIT_MODIFIER_POD_monster_vicissitude_face_POD_tzm_NOSE: "Nez de Vicissitude" #NT!
- PORTRAIT_MODIFIER_POD_monster_vicissitude_face_POD_tzm_upperlip_catfish: "Pointes à lèvres" #NT!
- PORTRAIT_MODIFIER_POD_monster_vicissitude_face_POD_vamp_open_mouth: "Bouche plus grande ouverte" #NT!
- PORTRAIT_MODIFIER_POD_monster_vicissitude_face_POD_beasty_claws: "Allonger les avant-bras" #NT!
- PORTRAIT_MODIFIER_POD_monster_vicissitude_face_POD_tzm_TEMPLE_templecuts: "Coupes des tempes" #NT!
- PORTRAIT_MODIFIER_POD_monster_vicissitude_face_POD_tzm_TEMPLE_templepox: "Vérole des temples" #NT!
- PORTRAIT_MODIFIER_POD_monster_vicissitude_face_POD_tzm_TEMPLE_templespike: "Pointe du temple" #NT!
- PORTRAIT_MODIFIER_POD_monster_vicissitude_face_POD_tzm_NOSE_nosblade: "Lame nasale" #NT!
- PORTRAIT_MODIFIER_POD_monster_vicissitude_face_POD_tzm_NOSE_nosespike: "Pointes de nez" #NT!
- PORTRAIT_MODIFIER_POD_monster_vicissitude_face_POD_tzm_NOSE_nosespine: "Colonne nasale" #NT!
- PORTRAIT_MODIFIER_POD_monster_vicissitude_face_POD_tzm_upperlip_catfish_extreme: "Poisson-chat extrême" #NT!
- PORTRAIT_MODIFIER_POD_monster_vicissitude_face_POD_NOSforehead_height: "Hauteur du front" #NT!
- PORTRAIT_MODIFIER_POD_monster_vicissitude_face_POD_NOSforehead_forward: "Front en avant" #NT!
- PORTRAIT_MODIFIER_POD_monster_vicissitude_face_POD_NOSforehead_curve: "Courbe du front" #NT!
- PORTRAIT_MODIFIER_POD_monster_vicissitude_face_POD_NOSear: "Oreilles pointues" #NT!
- PORTRAIT_MODIFIER_POD_monster_vicissitude_face_POD_longear: "Longues oreilles" #NT!
- PORTRAIT_MODIFIER_POD_monster_vicissitude_face_POD_horn_horns: "Cornes" #NT!
- PORTRAIT_MODIFIER_POD_monster_vicissitude_face_POD_NOSsification_nossification: "Nossification" #NT!
- PORTRAIT_MODIFIER_POD_monster_vicissitude_face_POD_NOSsification_nosferatitude: "Nosfératitude" #NT!
- PORTRAIT_MODIFIER_POD_monster_vicissitude_face_POD_NOSsification_nosfferization: "Nosférisation" #NT!
- PORTRAIT_MODIFIER_POD_monster_vicissitude_face_POD_NOSsification_nossimization: "Nossimisation" #NT!
- PORTRAIT_MODIFIER_POD_monster_vicissitude_face_POD_NOSschnoz_nosies: "Nossies" #NT!
- PORTRAIT_MODIFIER_POD_monster_vicissitude_face_POD_NOSschnoz_schnozies: "Schnozies" #NT!
- PORTRAIT_MODIFIER_POD_monster_vicissitude_face_POD_NOSjawz_jawwies: "mâchoires" #NT!
- PORTRAIT_MODIFIER_POD_monster_vicissitude_face_POD_NOSjawz_wawwies: "Wawwies" #NT!
- PORTRAIT_MODIFIER_POD_monster_vicissitude_face_POD_NOSeye_aye: "Nosferatue Eye Aye" #NT!
- PORTRAIT_MODIFIER_POD_monster_vicissitude_face_POD_NOSeye_eyee: "Nosferatue Oeil Oeil" #NT!
- PORTRAIT_MODIFIER_POD_monster_vicissitude_face_POD_NOSconifier_smallerhats: "Tête conique" #NT!
- PORTRAIT_MODIFIER_POD_monster_vicissitude_face_POD_NOSforehead_height_Nosheadhigh: "Hauteur de la tête Nosferatu" #NT!
- PORTRAIT_MODIFIER_POD_monster_vicissitude_face_POD_NOSforehead_forward_Nosheadforward: "Nosferatu Front avant" #NT!
- PORTRAIT_MODIFIER_POD_monster_vicissitude_face_POD_NOSforehead_Nosheadcurve: "Courbe du front Nosferatu" #NT!
- PORTRAIT_MODIFIER_POD_monster_vicissitude_face_POD_NOSear_nosear: "Oreilles pointues" #NT!
- PORTRAIT_MODIFIER_POD_monster_vicissitude_face_POD_NOSear_longear: "Longues oreilles" #NT!
- PORTRAIT_MODIFIER_POD_monster_vicissitude_face_POD_mouth_open_wide: "Bouche ouverte" #NT!
- PORTRAIT_MODIFIER_POD_monster_vicissitude_face_POD_monster_horns_high_1: "Hautes Cornes 1" #NT!
- PORTRAIT_MODIFIER_POD_monster_vicissitude_face_POD_monster_horns_high_2: "Hautes cornes 2" #NT!
- PORTRAIT_MODIFIER_POD_monster_vicissitude_face_POD_monster_horns_high_3: "Hautes cornes 3" #NT!
- PORTRAIT_MODIFIER_POD_monster_vicissitude_face_POD_monster_horns_high_4: "Hautes Cornes 4" #NT!
- PORTRAIT_MODIFIER_POD_monster_vicissitude_face_POD_monster_horns_high_5: "Hautes cornes 5" #NT!
- PORTRAIT_MODIFIER_POD_monster_vicissitude_face_POD_monster_horns_high_6: "Cornes hautes 6" #NT!
- PORTRAIT_MODIFIER_POD_monster_vicissitude_face_POD_monster_horns_high_7: "Hautes cornes 7" #NT!
- PORTRAIT_MODIFIER_POD_monster_vicissitude_face_POD_monster_horns_mid_1: "Cornes moyennes 1" #NT!
- PORTRAIT_MODIFIER_POD_monster_vicissitude_face_POD_monster_horns_mid_2: "Cornes moyennes 2" #NT!
- PORTRAIT_MODIFIER_POD_monster_vicissitude_face_POD_monster_horns_mid_3: "Cornes moyennes 3" #NT!
- PORTRAIT_MODIFIER_POD_monster_vicissitude_face_POD_monster_horns_mid_4: "Cornes moyennes 4" #NT!
- PORTRAIT_MODIFIER_POD_monster_vicissitude_face_POD_monster_horns_low_1: "Cornes basses 1" #NT!
- PORTRAIT_MODIFIER_POD_monster_vicissitude_face_POD_monster_horns_low_2: "Cornes basses 2" #NT!
- PORTRAIT_MODIFIER_POD_monster_vicissitude_face_POD_monster_horns_low_3: "Cornes basses 3" #NT!
- PORTRAIT_MODIFIER_POD_monster_vicissitude_face_POD_monster_horns_unicorn: "Corne de licorne" #NT!
- PORTRAIT_MODIFIER_POD_monster_vicissitude_face_POD_monster_horns_bull_horn: "Cornes de taureau" #NT!
- PORTRAIT_MODIFIER_POD_monster_vicissitude_face_POD_monster_horns_beetle_horn: "Cornes de coléoptère" #NT!
- PORTRAIT_MODIFIER_POD_monster_vicissitude_face_POD_mouth_open_wide_male: "Bouche ouverte plus grande" #NT!
-  
- # POD Monster Eyes 
-  
- PORTRAIT_MODIFIER_POD_monster_eyes: "Yeux monstrueux" #NT!
- PORTRAIT_MODIFIER_POD_monster_eyes_POD_empty_eyes: "Défaut" #NT!
- PORTRAIT_MODIFIER_POD_monster_eyes_POD_beasty_eyes: "Les yeux de la bête" #NT!
- PORTRAIT_MODIFIER_POD_monster_eyes_POD_serpentist_eyes: "Les yeux du serpent" #NT!
- PORTRAIT_MODIFIER_POD_monster_eyes_POD_haunty_eyes: "Yeux de hantise" #NT!
- PORTRAIT_MODIFIER_POD_monster_eyes_POD_frenzy_eyes: "Yeux frénétiques" #NT!
- PORTRAIT_MODIFIER_POD_monster_eyes_POD_bloodgorged_eyes: "Yeux des gorgés de sang" #NT!
- PORTRAIT_MODIFIER_POD_monster_eyes_POD_pisha_eyes: "Les yeux du Nagaraja" #NT!
- PORTRAIT_MODIFIER_POD_monster_eyes_POD_kinginyellow_eyes: "Les yeux jaunes" #NT!
- PORTRAIT_MODIFIER_POD_monster_eyes_POD_abyss_eyes: "Les yeux de l'abîme" #NT!
- PORTRAIT_MODIFIER_POD_monster_eyes_POD_third_eye: "Troisième oeil" #NT!
- PORTRAIT_MODIFIER_POD_monster_eyes_POD_blind_eyes: "Yeux aveugles" #NT!
- PORTRAIT_MODIFIER_POD_monster_eyes_POD_red_eyes: "Les yeux rouges" #NT!
- PORTRAIT_MODIFIER_POD_monster_eyes_POD_no_eyes: "Pas d'yeux" #NT!
- PORTRAIT_MODIFIER_POD_monster_eyes_POD_normal_eyes: "Yeux normaux" #NT!
- PORTRAIT_MODIFIER_POD_monster_eyes_POD_up_eye: "Quatre yeux" #NT!
-  
- # POD Monster Teeth 
-  
- PORTRAIT_MODIFIER_POD_monster_teeth: "Dents monstrueuses" #NT!
- PORTRAIT_MODIFIER_POD_monster_teeth_POD_no_teeth: "Pas de dents" #NT!
- PORTRAIT_MODIFIER_POD_monster_teeth_POD_gnarly_teeth: "Dents noueuses" #NT!
- PORTRAIT_MODIFIER_POD_monster_teeth_POD_orlok_teeth: "Les crocs du comte Orlok" #NT!
- PORTRAIT_MODIFIER_POD_monster_teeth_POD_fangs_teeth: "Crocs de vampire" #NT!
- PORTRAIT_MODIFIER_POD_monster_teeth_POD_afar_teeth: "Dents lointaines" #NT!
- PORTRAIT_MODIFIER_POD_monster_teeth_POD_double_fangs_teeth: "Crocs doubles de vampire" #NT!
- PORTRAIT_MODIFIER_POD_monster_teeth_POD_farfangs_teeth: "Crocs éloignés" #NT!
- PORTRAIT_MODIFIER_POD_monster_teeth_POD_snekfangs_teeth: "Crocs de serpent" #NT!
- PORTRAIT_MODIFIER_POD_monster_teeth_POD_normal_teeth: "Dents normales" #NT!
-  
- # POD Monster Skin 
-  
- PORTRAIT_MODIFIER_POD_monster_skin: "Peau monstrueuse" #NT!
- PORTRAIT_MODIFIER_POD_monster_skin_POD_cappadocian_skin: "Visage mortel" #NT!
- PORTRAIT_MODIFIER_POD_monster_skin_POD_deathly_pale_skin: "Pâleur mortelle" #NT!
- PORTRAIT_MODIFIER_POD_monster_skin_POD_bubonic_plague_skin: "Mort noire" #NT!
- PORTRAIT_MODIFIER_POD_monster_skin_POD_pustules_skin: "Pustules" #NT!
- PORTRAIT_MODIFIER_POD_monster_skin_POD_half_nosfed_face_right: "Visage à moitié nez droit" #NT!
- PORTRAIT_MODIFIER_POD_monster_skin_POD_half_nosfed_face_left: "Visage à moitié nez gauche" #NT!
- PORTRAIT_MODIFIER_POD_monster_skin_POD_half_nosfed_face_bottom: "Mâchoire à nez" #NT!
- PORTRAIT_MODIFIER_POD_monster_skin_POD_full_nosfed_body: "Corps nourri" #NT!
- PORTRAIT_MODIFIER_POD_monster_skin_POD_eyeshadow_eyes_basic: "Fard à paupières foncé" #NT!
- PORTRAIT_MODIFIER_POD_monster_skin_POD_eyeshadow_eyes_crying: "Fard à paupières foncé coulant" #NT!
- PORTRAIT_MODIFIER_POD_monster_skin_POD_sluagh_makeup: "Maquillage Sluagh" #NT!
- PORTRAIT_MODIFIER_POD_monster_skin_POD_nocker_makeup: "Maquillage Nocker" #NT!
- PORTRAIT_MODIFIER_POD_monster_skin_POD_bane_skin_body: "Peau de Fléau" #NT!
- PORTRAIT_MODIFIER_POD_monster_skin_POD_bane_skin_body_bloody: "Peau de Bane sanglante" #NT!
- PORTRAIT_MODIFIER_POD_monster_skin_POD_bark_skin_body: "Peau d'écorce" #NT!
- PORTRAIT_MODIFIER_POD_monster_skin_POD_great_pox_severe_skin: "Grande vérole" #NT!
- PORTRAIT_MODIFIER_POD_monster_skin_POD_leprosy_skin: "Lépreux" #NT!
- PORTRAIT_MODIFIER_POD_monster_skin_POD_scaly_skin: "Squameux" #NT!
- PORTRAIT_MODIFIER_POD_monster_skin_POD_tuberculosis_skin: "Consommation" #NT!
- PORTRAIT_MODIFIER_POD_monster_skin_POD_typhus_skin: "La fièvre de la prison" #NT!
- PORTRAIT_MODIFIER_POD_monster_skin_POD_haqim_curse: "Malédiction d'Haqim" #NT!
- PORTRAIT_MODIFIER_POD_monster_skin_POD_pale_skin: "Peau pâle" #NT!
- PORTRAIT_MODIFIER_POD_monster_skin_POD_ivory_skin: "Peau ivoire" #NT!
- PORTRAIT_MODIFIER_POD_monster_skin_POD_blue_skin: "Peau de troll" #NT!
- PORTRAIT_MODIFIER_POD_monster_skin_POD_green_skin: "Apparence de Ghille Dhu" #NT!
- PORTRAIT_MODIFIER_POD_monster_skin_POD_red_skin: "Peau rouge" #NT!
- PORTRAIT_MODIFIER_POD_monster_skin_POD_yellow_skin: "Peau jaune" #NT!
- PORTRAIT_MODIFIER_POD_monster_skin_POD_grey_skin: "Peau grise" #NT!
- PORTRAIT_MODIFIER_POD_monster_skin_POD_human_skin: "Peau humaine" #NT!
- PORTRAIT_MODIFIER_POD_monster_skin_POD_bloodied_skin_1: "Peau ensanglantée 1" #NT!
- PORTRAIT_MODIFIER_POD_monster_skin_POD_bloodied_skin_2: "Peau ensanglantée 2" #NT!
- PORTRAIT_MODIFIER_POD_monster_skin_POD_bloodied_skin_3: "Peau ensanglantée 3" #NT!
- PORTRAIT_MODIFIER_POD_monster_skin_POD_bloodied_skin_4: "Peau ensanglantée 4" #NT!
- PORTRAIT_MODIFIER_POD_monster_skin_POD_bloodied_skin_5: "Peau ensanglantée 5" #NT!
-  
- PORTRAIT_MODIFIER_POD_monster_skin_POD_dark_skin: "La malédiction d'Haqim" #NT!
- PORTRAIT_MODIFIER_POD_monster_skin_POD_albino_skin: "Albinos" #NT!
- PORTRAIT_MODIFIER_POD_monster_skin_POD_wounded_skin: "Plaies permanentes" #NT!
- PORTRAIT_MODIFIER_POD_monster_skin_POD_scarred_skin: "Cicatrices permanentes" #NT!
-  
- # fantasy hair 
- PORTRAIT_MODIFIER_POD_fantasy_hair: "Cheveux fantaisie" #NT!
- PORTRAIT_MODIFIER_POD_fantasy_hair_POD_pure_black_hair: "Cheveux noirs purs" #NT!
- PORTRAIT_MODIFIER_POD_fantasy_hair_POD_light_blue_hair: "Cheveux bleu clair" #NT!
- PORTRAIT_MODIFIER_POD_fantasy_hair_POD_dark_blue_hair: "Cheveux bleu foncé" #NT!
- PORTRAIT_MODIFIER_POD_fantasy_hair_POD_light_green_hair: "Cheveux vert clair" #NT!
- PORTRAIT_MODIFIER_POD_fantasy_hair_POD_dark_green_hair: "Cheveux vert foncé" #NT!
- PORTRAIT_MODIFIER_POD_fantasy_hair_POD_purple_hair: "Cheveux violets" #NT!
- PORTRAIT_MODIFIER_POD_fantasy_hair_POD_pure_white_hair: "Cheveux Blancs Purs" #NT!
- PORTRAIT_MODIFIER_POD_fantasy_hair_POD_orange_hair: "Cheveux roux" #NT!
- PORTRAIT_MODIFIER_POD_fantasy_hair_POD_red_hair: "Cheveux roux" #NT!
-  
- # POD Monster Form 
- PORTRAIT_MODIFIER_POD_monster_form: "Forme monstrueuse" #NT!
- PORTRAIT_MODIFIER_POD_monster_form_POD_bestial_visage_form: "Visage bestial" #NT!
- PORTRAIT_MODIFIER_POD_monster_form_POD_crinos_form: "Forme de crinos de loup-garou" #NT!
- PORTRAIT_MODIFIER_POD_monster_form_POD_crinos_hairless_form: "Forme de crinos de loup-garou (sans poils)" #NT!
- PORTRAIT_MODIFIER_POD_monster_form_POD_wraith_form: "Spectre" #NT!
- PORTRAIT_MODIFIER_POD_monster_form_POD_shade_form: "Ombre" #NT!
- PORTRAIT_MODIFIER_POD_monster_form_POD_incarnate_darkness_form: "Ténèbres incarnées" #NT!
- PORTRAIT_MODIFIER_POD_monster_form_POD_orlok_form: "Comte Orlok" #NT!
- PORTRAIT_MODIFIER_POD_monster_form_POD_uncanny_nosferatu_form: "Nosferatu étrange" #NT!
- PORTRAIT_MODIFIER_POD_monster_form_POD_cappadocian_form: "Cadavre Cappadocien" #NT!
- PORTRAIT_MODIFIER_POD_monster_form_POD_zulo_form: "Zulo" #NT!
- PORTRAIT_MODIFIER_POD_monster_form_POD_troll_form: "Troll" #NT!
- PORTRAIT_MODIFIER_POD_monster_form_POD_sluagh_form: "Sluagh" #NT!
- PORTRAIT_MODIFIER_POD_monster_form_POD_nocker_form: "Nocker" #NT!
- PORTRAIT_MODIFIER_POD_monster_form_POD_redcap_form: "Une casquette rouge" #NT!
- PORTRAIT_MODIFIER_POD_monster_form_POD_ghilledhu_form: "Ghillie Dhu" #NT!
- PORTRAIT_MODIFIER_POD_monster_form_POD_winged_zulo_form: "Zulo ailé" #NT!
- PORTRAIT_MODIFIER_POD_monster_form_POD_dracul_form: "Dracula" #NT!
- PORTRAIT_MODIFIER_POD_monster_form_POD_demon_wings_unfolded: "Ailes démoniaques (dépliées)" #NT!
- PORTRAIT_MODIFIER_POD_monster_form_POD_demon_wings_folded: "Ailes démoniaques (pliées)" #NT!
- PORTRAIT_MODIFIER_POD_monster_form_POD_dragon_wings: "Ailes draconiques" #NT!
- PORTRAIT_MODIFIER_POD_monster_form_POD_angel_wings_unfolded: "Ailes angéliques (dépliées)" #NT!
- PORTRAIT_MODIFIER_POD_monster_form_POD_angel_wings_folded: "Ailes angéliques (pliées)" #NT!
- PORTRAIT_MODIFIER_POD_monster_form_POD_bee_wings: "Ailes d'abeille" #NT!
- PORTRAIT_MODIFIER_POD_monster_form_POD_ant_wings: "Ailes de fourmis" #NT!
- PORTRAIT_MODIFIER_POD_monster_form_POD_butterfly_wings: "Ailes de papillon" #NT!
- PORTRAIT_MODIFIER_POD_monster_form_POD_raven_wings: "Ailes de corbeau" #NT!
- PORTRAIT_MODIFIER_POD_monster_form_POD_chiropteran_marauder_form: "Maraudeur chiroptère" #NT!
- PORTRAIT_MODIFIER_POD_monster_form_POD_giant_form: "Forme géante" #NT!
- PORTRAIT_MODIFIER_POD_monster_form_POD_glome_form: "Forme Glome" #NT!
- PORTRAIT_MODIFIER_POD_monster_form_POD_aquarii_form: "Forme du Verseau (Gangrel Mariner)" #NT!
- PORTRAIT_MODIFIER_POD_monster_form_POD_chiromaurauder_form: "Variante du Maraudeur Chiroptère" #NT!
- PORTRAIT_MODIFIER_POD_monster_form_POD_glabro_form: "Forme Glabro loup-garou" #NT!
- PORTRAIT_MODIFIER_POD_monster_form_POD_chulorviah_form: "Forme d'Ancien de Chulorviah" #NT!
- PORTRAIT_MODIFIER_POD_monster_form_POD_satyr_form: "Forme Satyre" #NT!
- PORTRAIT_MODIFIER_POD_monster_form_POD_chiromaurauder_form_alt: "Maraudeur chiroptère (suppléant)" #NT!
- PORTRAIT_MODIFIER_POD_monster_form_POD_hoof_legs_form: "Forme de jambe sabotée" #NT!
- PORTRAIT_MODIFIER_POD_beast_form_POD_horse_form: "Forme animale cheval" #NT!
- PORTRAIT_MODIFIER_POD_beast_form_POD_falcon_form: "Forme animale faucon" #NT!
- PORTRAIT_MODIFIER_POD_monster_no_body_forms: "Personne" #NT!
- PORTRAIT_MODIFIER_POD_monster_no_body_forms_POD_no_portrait_form: "Personne" #NT!
-  
-  
-  # FERA Forms 
- PORTRAIT_MODIFIER_POD_fera_form: "Forme Fera" #NT!
- PORTRAIT_MODIFIER_POD_fera_form_POD_werecroc_form: "Forme Croco-Garou" #NT!
- PORTRAIT_MODIFIER_POD_fera_form_POD_wereape_form: "Formulaire de singe-garou" #NT!
- PORTRAIT_MODIFIER_POD_fera_form_POD_wereape_hairless_form: "Forme de singe-garou (sans poils)" #NT!
- PORTRAIT_MODIFIER_POD_fera_form_POD_wereshark_form: "Formulaire de requin-garou" #NT!
- PORTRAIT_MODIFIER_POD_fera_form_POD_werehammer_form: "Forme de requin-marteau de requin-garou" #NT!
- PORTRAIT_MODIFIER_POD_fera_form_POD_werebear_form: "Forme d'ours-garou" #NT!
- PORTRAIT_MODIFIER_POD_fera_form_POD_werebear_hairless_form: "Forme d'ours-garou (sans poils)" #NT!
- PORTRAIT_MODIFIER_POD_fera_form_POD_wererat_form: "Forme de rat-garou" #NT!
- PORTRAIT_MODIFIER_POD_fera_form_POD_wererat_hairless_form: "Forme de rat-garou (sans poils)" #NT!
- PORTRAIT_MODIFIER_POD_fera_form_POD_werespider_form: "Forme d'araignée-garou" #NT!
- PORTRAIT_MODIFIER_POD_fera_form_POD_werescorpion_form: "Forme de corpion-garou" #NT!
- PORTRAIT_MODIFIER_POD_fera_form_POD_werebull_form: "Forme Werebull (Blindé)" #NT!
- PORTRAIT_MODIFIER_POD_fera_form_POD_werebull_nude_form: "Forme de taureau-garou (Skyclad)" #NT!
- PORTRAIT_MODIFIER_POD_fera_form_POD_wereturtle_form: "Forme de tortue-garou" #NT!
- PORTRAIT_MODIFIER_POD_fera_form_POD_werewolf_form: "Loup-garou (blindé)" #NT!
- PORTRAIT_MODIFIER_POD_fera_form_POD_werewolf_nude_form: "Loup-garou (Skyclad)" #NT!
- PORTRAIT_MODIFIER_POD_fera_form_POD_werewolf_hairless_form: "Loup-garou (Ciel sans poil)" #NT!
- PORTRAIT_MODIFIER_POD_fera_form_POD_werewolf_hairless_armored_form: "Loup-garou (armure sans poils)" #NT!
- PORTRAIT_MODIFIER_POD_fera_form_POD_werewolf_alt_form: "Forme alternative de loup-garou" #NT!
- PORTRAIT_MODIFIER_POD_fera_form_POD_wereant_form: "Forme de garou (volant)" #NT!
- PORTRAIT_MODIFIER_POD_fera_form_POD_wereantwingless_form: "Forme de garou (sans ailes)" #NT!
- PORTRAIT_MODIFIER_POD_fera_form_POD_wereboar_form: "Forme de sanglier-garou" #NT!
- PORTRAIT_MODIFIER_POD_fera_form_POD_wereboar_hairless_form: "Forme de sanglier-garou (sans poils)" #NT!
- PORTRAIT_MODIFIER_POD_fera_form_POD_wereraven_form: "Forme Corbeau-Garou (Blindé)" #NT!
- PORTRAIT_MODIFIER_POD_fera_form_POD_wereraven_nude_form: "Forme Corbeau-Garou (Skyclad)" #NT!
- PORTRAIT_MODIFIER_POD_fera_form_POD_wereraven_flightless_form: "Forme Wereraven (blindée incapable de voler)" #NT!
- PORTRAIT_MODIFIER_POD_fera_form_POD_wereraven_flightless_nude_form: "Forme Wereraven (Ciel sans vol)" #NT!
- PORTRAIT_MODIFIER_POD_fera_form_POD_wereserpent_form: "Forme Serpent-Garou (Blindé)" #NT!
- PORTRAIT_MODIFIER_POD_fera_form_POD_wereserpent_nude_form: "Forme de serpent-garou (Skyclad)" #NT!
- PORTRAIT_MODIFIER_POD_fera_form_POD_werefox_form: "Formulaire Renard-Garou" #NT!
- PORTRAIT_MODIFIER_POD_fera_form_POD_weremillipede_form: "Formulaire mille-pattes" #NT!
- PORTRAIT_MODIFIER_POD_fera_form_POD_werebeetle_form: "Forme de scarabée-garou" #NT!
- PORTRAIT_MODIFIER_POD_fera_form_POD_werebee_form: "Formulaire d'abeille-garou" #NT!
- PORTRAIT_MODIFIER_POD_fera_form_POD_weremantis_form: "Forme Garoumantis" #NT!
- PORTRAIT_MODIFIER_POD_fera_form_POD_werecrab_form: "Forme de crabe-garou" #NT!
-  
-  #Beast Form 
- PORTRAIT_MODIFIER_POD_beast_form: "Forme de bête" #NT!
- PORTRAIT_MODIFIER_POD_beast_form_POD_lung_form: "Forme de poumon Zhong" #NT!
- PORTRAIT_MODIFIER_POD_beast_form_POD_lung_hairless_form: "Forme Zhong Lung (sans poils)" #NT!
- PORTRAIT_MODIFIER_POD_beast_form_POD_fox_form: "Forme de renard" #NT!
- PORTRAIT_MODIFIER_POD_beast_form_POD_wyrmrat_form: "Forme de rat-wyrm" #NT!
- PORTRAIT_MODIFIER_POD_beast_form_POD_wyrmrat_hairless_form: "Forme Wyrmrat (sans poils)" #NT!
-  
-  #Ear 
- PORTRAIT_MODIFIER_POD_custom_headgear_rat_ear_m: "Oreille de rat" #NT!
- PORTRAIT_MODIFIER_POD_custom_headgear_rat_ear_f: "Oreille de rat" #NT!
- PORTRAIT_MODIFIER_POD_custom_headgear_fox_ear_m: "Oreille de renard" #NT!
- PORTRAIT_MODIFIER_POD_custom_headgear_fox_ear_f: "Oreille de renard" #NT!
- PORTRAIT_MODIFIER_POD_custom_headgear_horse_ear_m: "Oreille de cheval" #NT!
- PORTRAIT_MODIFIER_POD_custom_headgear_horse_ear_f: "Oreille de cheval" #NT!
- PORTRAIT_MODIFIER_POD_custom_headgear_horse_ear_alt_m: "Oreille de cheval (alternative)" #NT!
- PORTRAIT_MODIFIER_POD_custom_headgear_horse_ear_alt_f: "Oreille de cheval (alternative)" #NT!
- PORTRAIT_MODIFIER_POD_custom_headgear_cat_top_ear_m: "Oreille de tigre (en haut)" #NT!
- PORTRAIT_MODIFIER_POD_custom_headgear_cat_top_ear_f: "Oreille de tigre (en haut)" #NT!
- PORTRAIT_MODIFIER_POD_custom_headgear_cat_side_ear_m: "Oreille de tigre (côté)" #NT!
- PORTRAIT_MODIFIER_POD_custom_headgear_cat_side_ear_f: "Oreille de tigre (côté)" #NT!
- PORTRAIT_MODIFIER_POD_custom_headgear_rabbit_ear_m: "Oreille de lapin" #NT!
- PORTRAIT_MODIFIER_POD_custom_headgear_rabbit_ear_f: "Oreille de lapin" #NT!
- PORTRAIT_MODIFIER_POD_custom_headgear_bear_ear_m: "Oreille d'ours" #NT!
- PORTRAIT_MODIFIER_POD_custom_headgear_bear_ear_f: "Oreille d'ours" #NT!
- PORTRAIT_MODIFIER_POD_custom_headgear_fish_ear_m: "Oreille de poisson" #NT!
- PORTRAIT_MODIFIER_POD_custom_headgear_fish_ear_f: "Oreille de poisson" #NT!
-  
-  #Tail 
- PORTRAIT_MODIFIER_POD_custom_clothing_fox_tail_m: "Queue de renard" #NT!
- PORTRAIT_MODIFIER_POD_custom_clothing_fox_tail_f: "Queue de renard" #NT!
- PORTRAIT_MODIFIER_POD_custom_clothing_fox_tail_2_m: "Queue de renard (2)" #NT!
- PORTRAIT_MODIFIER_POD_custom_clothing_fox_tail_2_f: "Queue de renard (2)" #NT!
- PORTRAIT_MODIFIER_POD_custom_clothing_fox_tail_3_m: "Queue de renard (3)" #NT!
- PORTRAIT_MODIFIER_POD_custom_clothing_fox_tail_3_f: "Queue de renard (3)" #NT!
- PORTRAIT_MODIFIER_POD_custom_clothing_fox_tail_4_m: "Queue de renard (4)" #NT!
- PORTRAIT_MODIFIER_POD_custom_clothing_fox_tail_4_f: "Queue de renard (4)" #NT!
- PORTRAIT_MODIFIER_POD_custom_clothing_fox_tail_5_m: "Queue de renard (5)" #NT!
- PORTRAIT_MODIFIER_POD_custom_clothing_fox_tail_5_f: "Queue de renard (5)" #NT!
- PORTRAIT_MODIFIER_POD_custom_clothing_fox_tail_6_m: "Queue de renard (6)" #NT!
- PORTRAIT_MODIFIER_POD_custom_clothing_fox_tail_6_f: "Queue de renard (6)" #NT!
- PORTRAIT_MODIFIER_POD_custom_clothing_fox_tail_7_m: "Queue de renard (7)" #NT!
- PORTRAIT_MODIFIER_POD_custom_clothing_fox_tail_7_f: "Queue de renard (7)" #NT!
- PORTRAIT_MODIFIER_POD_custom_clothing_fox_tail_8_m: "Queue de renard (8)" #NT!
- PORTRAIT_MODIFIER_POD_custom_clothing_fox_tail_8_f: "Queue de renard (8)" #NT!
- PORTRAIT_MODIFIER_POD_custom_clothing_fox_tail_9_m: "Queue de renard (9)" #NT!
- PORTRAIT_MODIFIER_POD_custom_clothing_fox_tail_9_f: "Queue de renard (9)" #NT!
- PORTRAIT_MODIFIER_POD_custom_clothing_rat_tail_m: "Queue de rat" #NT!
- PORTRAIT_MODIFIER_POD_custom_clothing_rat_tail_f: "Queue de rat" #NT!
- PORTRAIT_MODIFIER_POD_custom_clothing_rat_tail_alt_m: "Queue de rat (alternative)" #NT!
- PORTRAIT_MODIFIER_POD_custom_clothing_rat_tail_alt_f: "Queue de rat (alternative)" #NT!
- PORTRAIT_MODIFIER_POD_custom_clothing_horse_tail_m: "Queue de cheval" #NT!
- PORTRAIT_MODIFIER_POD_custom_clothing_horse_tail_f: "Queue de cheval" #NT!
- PORTRAIT_MODIFIER_POD_custom_clothing_horse_tail_alt_m: "Queue de cheval (alternative)" #NT!
- PORTRAIT_MODIFIER_POD_custom_clothing_horse_tail_alt_f: "Queue de cheval (alternative)" #NT!
- PORTRAIT_MODIFIER_POD_custom_clothing_wolf_tail_m: "Queue de loup" #NT!
- PORTRAIT_MODIFIER_POD_custom_clothing_wolf_tail_f: "Queue de loup" #NT!
- PORTRAIT_MODIFIER_POD_custom_clothing_raven_tail_m: "Queue de Corbeau" #NT!
- PORTRAIT_MODIFIER_POD_custom_clothing_raven_tail_f: "Queue de Corbeau" #NT!
- PORTRAIT_MODIFIER_POD_custom_clothing_lung_tail_m: "Zhong Lung Tail" #NT!
- PORTRAIT_MODIFIER_POD_custom_clothing_lung_tail_f: "Zhong Lung Tail" #NT!
- PORTRAIT_MODIFIER_POD_custom_clothing_scorpion_tail_m: "Queue de scorpion" #NT!
- PORTRAIT_MODIFIER_POD_custom_clothing_scorpion_tail_f: "Queue de scorpion" #NT!
- PORTRAIT_MODIFIER_POD_custom_clothing_bear_tail_m: "Queue d'ours" #NT!
- PORTRAIT_MODIFIER_POD_custom_clothing_bear_tail_f: "Queue d'ours" #NT!
- PORTRAIT_MODIFIER_POD_custom_clothing_boar_tail_m: "Queue de Sanglier" #NT!
- PORTRAIT_MODIFIER_POD_custom_clothing_boar_tail_f: "Queue de Sanglier" #NT!
- PORTRAIT_MODIFIER_POD_custom_clothing_croc_tail_m: "Queue de crocodile" #NT!
- PORTRAIT_MODIFIER_POD_custom_clothing_croc_tail_f: "Queue de crocodile" #NT!
- PORTRAIT_MODIFIER_POD_custom_clothing_shark_tail_m: "Queue de requin" #NT!
- PORTRAIT_MODIFIER_POD_custom_clothing_shark_tail_f: "Queue de requin" #NT!
-  
-  #Other headgear 
- PORTRAIT_MODIFIER_POD_custom_headgear_halo_m: "Halo" #NT!
- PORTRAIT_MODIFIER_POD_custom_headgear_halo_f: "Halo" #NT!
- PORTRAIT_MODIFIER_POD_custom_headgear_antennae_m: "Antennes" #NT!
- PORTRAIT_MODIFIER_POD_custom_headgear_antennae_f: "Antennes" #NT!
- PORTRAIT_MODIFIER_POD_custom_headgear_antennae_alt_m: "Antennes (alternatives)" #NT!
- PORTRAIT_MODIFIER_POD_custom_headgear_antennae_alt_f: "Antennes (alternatives)" #NT!
- PORTRAIT_MODIFIER_POD_custom_headgear_antler_m: "Ramure" #NT!
- PORTRAIT_MODIFIER_POD_custom_headgear_antler_f: "Ramure" #NT!
- PORTRAIT_MODIFIER_POD_custom_headgear_unicorn_horn_m: "Corne de licorne" #NT!
- PORTRAIT_MODIFIER_POD_custom_headgear_unicorn_horn_f: "Corne de licorne" #NT!
- PORTRAIT_MODIFIER_POD_custom_headgear_bull_horn_m: "Corne de taureau" #NT!
- PORTRAIT_MODIFIER_POD_custom_headgear_bull_horn_f: "Corne de taureau" #NT!
- PORTRAIT_MODIFIER_POD_custom_headgear_beetle_horn_m: "Corne de scarabée" #NT!
- PORTRAIT_MODIFIER_POD_custom_headgear_beetle_horn_f: "Corne de scarabée" #NT!
-  
-  #Other other 
- PORTRAIT_MODIFIER_POD_custom_clothing_shark_fin_m: "Aileron de requin" #NT!
- PORTRAIT_MODIFIER_POD_custom_clothing_shark_fin_f: "Aileron de requin" #NT!
- PORTRAIT_MODIFIER_POD_custom_clothing_spider_paws_m: "Pattes d'araignée" #NT!
- PORTRAIT_MODIFIER_POD_custom_clothing_spider_paws_f: "Pattes d'araignée" #NT!
-  
- #Religious_catholic_devoted_clothes 
- ### Male ### 
- #Already defined above 
- ### Female ### 
- #Already defined above in the same file 
-  
- PORTRAIT_MODIFIER_POD_custom_headgear_female_headgear_religious_catholic_devoted_02: "Habitude rouge" #NT!
- PORTRAIT_MODIFIER_POD_custom_headgear_male_headgear_religious_catholic_devoted_02: "Habitude rouge" #NT!
-  
- #religious_catholic_devoted_clothes 
- ### Male ### 
- PORTRAIT_MODIFIER_POD_custom_clothing_male_clothes_religious_catholic_high_01: "Robe d'évêque 1" #NT!
- PORTRAIT_MODIFIER_POD_custom_clothing_male_clothes_religious_catholic_head_01: "Robe papale" #NT!
-  
- #religious_orthodox_clothes 
- PORTRAIT_MODIFIER_POD_custom_clothing_male_clothes_religious_orthodox_high_01: "Robe orthodoxe 1" #NT!
- PORTRAIT_MODIFIER_POD_custom_clothing_male_clothes_religious_orthodox_head_01_common: "Robe orthodoxe 2" #NT!
-  
- #religious_muslim_clothes 
- PORTRAIT_MODIFIER_POD_custom_clothing_male_clothes_religious_muslim_high_01: "Robe d'Imam" #NT!
-  
- #religious_northern_clothes 
- PORTRAIT_MODIFIER_POD_custom_clothing_religious_northern_high_01_common: "Vêtements religieux nordiques" #NT!
-  
- #religious_steppe_clothes 
- PORTRAIT_MODIFIER_POD_custom_clothing_religious_steppe_high_01_common: "Vêtements religieux des steppes" #NT!
-  
- #religious_buddhist_clothes 
- PORTRAIT_MODIFIER_POD_custom_clothing_male_clothes_religious_buddhist_high_01: "Robe religieuse orientale 2" #NT!
-  
- #Religious_hindu_devoted_clothes 
- ### Male ### 
- PORTRAIT_MODIFIER_POD_custom_clothing_male_clothes_religious_hindu_devoted_01: "Robe religieuse orientale 1" #NT!
-  
- #Religious_zoroastrian_religious_clothes 
- ### Male ### 
- PORTRAIT_MODIFIER_POD_custom_clothing_male_clothes_religious_zoroastrian_high_01: "Robes de temple" #NT!
- PORTRAIT_MODIFIER_POD_custom_clothing_female_clothes_religious_zoroastrian_high_01: "Robes de temple" #NT!
-  
- #Religious_jewish_religious_clothes 
- ### Male ### 
- PORTRAIT_MODIFIER_POD_custom_clothing_male_clothes_religious_jewish_high_01: "Vêtements religieux juifs" #NT!
-  
-  #African 
-  
- ### Male ### 
- PORTRAIT_MODIFIER_POD_custom_clothing_male_clothes_religious_african_high_01_common: "Vêtements religieux africains" #NT!
- ### Female ### 
- PORTRAIT_MODIFIER_POD_custom_clothing_female_clothes_religious_african_high_01_common: "Vêtements religieux africains" #NT!
-  
-  
-  
-  
+    # Barbershop
+
+    BARBERSHOP_TAB_TINT: "Teinte"
+    BARBERSHOP_TAB_TINT_TT: "Modifier la teinte des cheveux"
+
+    # Portrait Modifiers
+
+    PORTRAIT_MODIFIER_vanilla_legwear: "Pantalons"
+    PORTRAIT_MODIFIER_vanilla_legwear_female_empty: "Pas de jambières"
+    PORTRAIT_MODIFIER_vanilla_legwear_male_empty: "Pas de jambières"
+    PORTRAIT_MODIFIER_vanilla_legwear_male_legwear_secular_western_common_01: "Pantalons communs occidentaux"
+    PORTRAIT_MODIFIER_vanilla_legwear_female_legwear_secular_western_common_01: "Pantalons communs occidentaux"
+    PORTRAIT_MODIFIER_vanilla_legwear_male_legwear_secular_western_war_01: "Pantalons de guerre occidentale"
+    PORTRAIT_MODIFIER_vanilla_legwear_female_legwear_secular_western_war_01: "Pantalons de guerre occidentale"
+    PORTRAIT_MODIFIER_vanilla_legwear_male_legwear_secular_mena_common_01: "Pantalons communs du Moyen-Orient"
+    PORTRAIT_MODIFIER_vanilla_legwear_female_legwear_secular_mena_common_01: "Pantalons communs du Moyen-Orient"
+    PORTRAIT_MODIFIER_vanilla_legwear_male_legwear_secular_mena_nobility_01: "Pantalons nobles du Moyen-Orient"
+    PORTRAIT_MODIFIER_vanilla_legwear_female_legwear_secular_mena_nobility_01: "Pantalons nobles du Moyen-Orient"
+    PORTRAIT_MODIFIER_vanilla_legwear_male_legwear_secular_mena_war_nobility_01: "Pantalons de guerre du Moyen-Orient"
+    PORTRAIT_MODIFIER_vanilla_legwear_female_legwear_secular_mena_war_nobility_01: "Pantalons de guerre du Moyen-Orient"
+    PORTRAIT_MODIFIER_vanilla_legwear_male_legwear_secular_fp1_common_01: "Vêtements du Nord"
+    PORTRAIT_MODIFIER_vanilla_legwear_female_legwear_secular_fp1_common_01: "Vêtements du Nord"
+    PORTRAIT_MODIFIER_vanilla_legwear_male_legwear_secular_ep1_jester_01: "Jambières de bouffon"
+    PORTRAIT_MODIFIER_vanilla_legwear_female_legwear_secular_ep1_jester_01: "Jambières de bouffon"
+
+    PORTRAIT_MODIFIER_POD_custom_clothing: "Vêtements POD"
+
+    ## Muscle Cuirass
+    PORTRAIT_MODIFIER_POD_custom_clothing_male_clothes_greek_war_01: "Cuirasse musculaire"
+
+    ## White Plate
+    PORTRAIT_MODIFIER_POD_custom_clothing_male_clothes_plate_war_01: "Armure de plaques blanches"
+
+    # Nude
+    PORTRAIT_MODIFIER_custom_clothes_male_clothes_secular_western_nudity_01: "Supprimer les vêtements vanille"
+    PORTRAIT_MODIFIER_custom_clothes_female_clothes_secular_western_nudity_01: "Supprimer les vêtements vanille"
+    PORTRAIT_MODIFIER_POD_custom_cloaks_male_empty: "Supprimer la cape POD"
+    PORTRAIT_MODIFIER_POD_custom_legwear_male_empty: "Supprimer les leggings POD"
+    PORTRAIT_MODIFIER_POD_custom_headgear_male_empty: "Retirer le casque POD"
+    PORTRAIT_MODIFIER_POD_custom_cloaks_female_empty: "Supprimer la cape POD"
+    PORTRAIT_MODIFIER_POD_custom_headgear_female_empty: "Retirer le casque POD"
+    PORTRAIT_MODIFIER_POD_monster_form_POD_experiment_form: "Forme expérimentale"
+
+    PORTRAIT_MODIFIER_POD_custom_clothing_male_clothes_secular_western_nudity_01: "Nu"
+    PORTRAIT_MODIFIER_POD_custom_clothing_female_clothes_secular_western_nudity_01:
+        "Nu"
+
+        #POD
+
+        # Red Robes
+    PORTRAIT_MODIFIER_POD_custom_clothing_POD_male_clothes_religious_catholic_devoted_01: "Robes rouges"
+    PORTRAIT_MODIFIER_POD_custom_clothing_POD_female_clothes_religious_catholic_devoted_01: "Robes rouges"
+    PORTRAIT_MODIFIER_POD_custom_clothing_POD_male_clothes_religious_catholic_devoted_red_01: "Robes rouges"
+    PORTRAIT_MODIFIER_POD_custom_clothing_POD_female_clothes_religious_catholic_devoted_red_01:
+        "Robes rouges"
+
+        # Black Robes
+    PORTRAIT_MODIFIER_POD_custom_clothing_POD_male_clothes_religious_catholic_devoted_black_01: "Robe noire"
+    PORTRAIT_MODIFIER_POD_custom_clothing_POD_female_clothes_religious_catholic_devoted_black_01:
+        "Robe noire"
+
+        # Knights
+    PORTRAIT_MODIFIER_special: "Spécial"
+    PORTRAIT_MODIFIER_POD_custom_legwear: "Pantalons POD"
+
+    PORTRAIT_MODIFIER_POD_custom_clothing_POD_male_clothes_secular_crusades_western_war_nobility_01_common: "Chevalier de la Croix Noire"
+    PORTRAIT_MODIFIER_POD_custom_clothing_POD_female_clothes_secular_crusades_western_war_nobility_01_common: "Chevalier de la Croix Noire"
+    # PORTRAIT_MODIFIER_POD_custom_headgear_male_headgear_secular_blackcross_knight_war_nobility_01: "Heaume du Chevalier de la Croix Noire"
+    # PORTRAIT_MODIFIER_POD_custom_headgear_female_headgear_secular_blackcross_knight_war_nobility_01: "Heaume du Chevalier de la Croix Noire"
+    PORTRAIT_MODIFIER_POD_custom_clothing_POD_male_clothes_secular_crusades_western_war_nobility_02_common: "Chevalier de Santiago"
+    PORTRAIT_MODIFIER_POD_custom_clothing_POD_female_clothes_secular_crusades_western_war_nobility_02_common: "Chevalier de Santiago"
+    PORTRAIT_MODIFIER_POD_custom_clothing_POD_male_clothes_secular_crusades_western_war_nobility_03_common: "Chevalier de l'Ombre Reconquista"
+    PORTRAIT_MODIFIER_POD_custom_clothing_POD_female_clothes_secular_crusades_western_war_nobility_03_common:
+        "Chevalier de l'Ombre Reconquista"
+
+        # King in Yellow
+
+    PORTRAIT_MODIFIER_POD_custom_clothing_POD_male_clothes_king_in_yellow_01: "Robes jaunes"
+    PORTRAIT_MODIFIER_POD_custom_clothing_POD_female_clothes_king_in_yellow_01: "Robes jaunes"
+
+    PORTRAIT_MODIFIER_POD_custom_headgear_male_clothes_situational_western_stealth_hood_01: "Capot d'espion"
+    PORTRAIT_MODIFIER_POD_custom_headgear_female_clothes_situational_western_stealth_hood_01: "Capot d'espion"
+
+    PORTRAIT_MODIFIER_POD_custom_headgear:
+        "Couvre-chef POD"
+
+        ## Fantasy Armor Helm / Iron Skull Helm ##
+        ### Male ###
+    PORTRAIT_MODIFIER_POD_custom_headgear_male_headgear_secular_fantasy_war_01: "Heaume du Crâne de Fer"
+    PORTRAIT_MODIFIER_POD_custom_headgear_male_headgear_secular_fantasy_war_01_open:
+        "Heaume du Crâne de Fer Ouvert"
+        ### Female ###
+    PORTRAIT_MODIFIER_POD_custom_headgear_female_headgear_secular_fantasy_war_01: "Heaume du Crâne de Fer"
+    PORTRAIT_MODIFIER_POD_custom_headgear_female_headgear_secular_fantasy_war_01_open:
+        "Heaume du Crâne de Fer Ouvert"
+
+        # Red Nun Habit
+
+    PORTRAIT_MODIFIER_POD_custom_headgear_POD_female_headgear_religious_catholic_devoted_red_01: "Habitude rouge"
+    PORTRAIT_MODIFIER_POD_custom_headgear_POD_female_headgear_religious_catholic_devoted_black_01: "Habitude noire"
+    PORTRAIT_MODIFIER_POD_custom_headgear_POD_female_headgear_religious_catholic_devoted_01: "Habitude de la nonne rouge"
+    PORTRAIT_MODIFIER_custom_headgear_female_headgear_religious_catholic_devoted_02:
+        "Habitude de nonne"
+
+        #Mithrasist
+
+    PORTRAIT_MODIFIER_POD_custom_headgear_POD_male_headgear_secular_byzantine_common_01:
+        "Bonnet phrygien mithraist"
+
+        # Yellow Hood
+    PORTRAIT_MODIFIER_POD_custom_headgear_POD_male_clothes_king_in_yellow_hood_01: "Chaperon jaune"
+    PORTRAIT_MODIFIER_POD_custom_headgear_POD_female_clothes_king_in_yellow_hood_01: "Chaperon jaune"
+
+    # PORTRAIT_MODIFIER_POD_custom_clothes_male_headgear_secular_blackcross_knight_war_nobility_01: "Heaume de chevalier de la Croix noire"
+
+    #Egyptian
+    PORTRAIT_MODIFIER_POD_custom_headgear_male_headgear_egyptian_nemes_common: "Némès commun égyptien"
+    PORTRAIT_MODIFIER_POD_custom_headgear_male_headgear_egyptian_nemes_low: "Bas Némès égyptien"
+    PORTRAIT_MODIFIER_POD_custom_headgear_male_headgear_egyptian_nemes_high: "Haut Némès égyptien"
+    PORTRAIT_MODIFIER_POD_custom_clothing_male_clothes_egyptian_usekh_common: "Usekh commun égyptien"
+    PORTRAIT_MODIFIER_POD_custom_clothing_male_clothes_egyptian_shirt_common: "Chemise commune égyptienne"
+    PORTRAIT_MODIFIER_POD_custom_clothing_male_empty: "Sans chemise"
+    PORTRAIT_MODIFIER_POD_custom_clothing_male_clothes_egyptian_usekh_low: "Bas Usekh égyptien"
+    PORTRAIT_MODIFIER_POD_custom_clothing_male_clothes_egyptian_usekh_high: "Haut Usekh égyptien"
+
+    PORTRAIT_MODIFIER_POD_custom_clothing_POD_remove_clothing: "Supprimer les vêtements POD"
+    PORTRAIT_MODIFIER_POD_custom_clothing_female_empty: "Supprimer les vêtements POD"
+    PORTRAIT_MODIFIER_POD_custom_clothing_girl_empty: "Supprimer les vêtements POD"
+    PORTRAIT_MODIFIER_POD_custom_clothing_boy_empty:
+        "Supprimer les vêtements POD"
+        #Custom Legwear
+    PORTRAIT_MODIFIER_POD_custom_legwear_male: "Pas de jambières"
+    PORTRAIT_MODIFIER_POD_custom_legwear_male_legwear_secular_western_common_01: "Pantalons communs occidentaux"
+    PORTRAIT_MODIFIER_POD_custom_legwear_male_legwear_secular_western_war_01: "Pantalons de guerre occidentale"
+    PORTRAIT_MODIFIER_POD_custom_legwear_male_legwear_secular_mena_war_nobility_01: "Pantalons de guerre du Moyen-Orient"
+    PORTRAIT_MODIFIER_POD_custom_legwear_male_legwear_egyptian_shendyt_common: "Shendyt commun égyptien"
+    PORTRAIT_MODIFIER_POD_custom_legwear_male_legwear_egyptian_shendyt_low: "Shendyt bas égyptien"
+    PORTRAIT_MODIFIER_POD_custom_legwear_male_legwear_egyptian_shendyt_high: "Haut Shendyt égyptien"
+    PORTRAIT_MODIFIER_POD_custom_legwear_male_legwear_secular_mena_common_01: "Pantalons communs du Moyen-Orient"
+
+    PORTRAIT_MODIFIER_POD_custom_legwear_female_empty: "Pantalons vides"
+    PORTRAIT_MODIFIER_POD_custom_legwear_female_legwear_secular_western_common_01: "Pantalons communs occidentaux"
+    PORTRAIT_MODIFIER_POD_custom_legwear_female_legwear_secular_western_war_01: "Pantalons de guerre occidentale"
+    PORTRAIT_MODIFIER_POD_custom_legwear_female_legwear_secular_mena_common_01: "Pantalons communs du Moyen-Orient"
+    PORTRAIT_MODIFIER_POD_custom_legwear_male_legwear_secular_plate_war_01: "Jambières en plaques blanches"
+    PORTRAIT_MODIFIER_POD_custom_legwear_male_legwear_secular_greek_war_01: "Armure grecque"
+    PORTRAIT_MODIFIER_POD_custom_legwear_boy_empty: "$PORTRAIT_MODIFIER_custom_legwear_male_empty$"
+    PORTRAIT_MODIFIER_POD_custom_legwear_girl_empty:
+        "$PORTRAIT_MODIFIER_custom_legwear_male_empty$"
+
+        # POD Egyptian Makeup
+
+    PORTRAIT_MODIFIER_cosmetics_eyeliner_eyeliner_egyptian_1: "égyptien"
+    PORTRAIT_MODIFIER_cosmetics_eyeshadow_eyeshadow_egyptian_1: "égyptien"
+    PORTRAIT_MODIFIER_cosmetics_lipcolor_lipcolor_egyptian_1: "égyptien"
+
+    #Cloaks
+    PORTRAIT_MODIFIER_POD_custom_cloaks_male_clothes_situational_western_stealth_cloak_01: "Cape d'espion"
+    PORTRAIT_MODIFIER_POD_custom_cloaks_female_clothes_situational_western_stealth_cloak_01:
+        "Cape d'espion"
+
+        # POD Cloaks
+    PORTRAIT_MODIFIER_POD_custom_cloaks: "Capes POD"
+    PORTRAIT_MODIFIER_POD_custom_cloaks_POD_female_capes_king_in_yellow_01: "Cape jaune"
+    PORTRAIT_MODIFIER_POD_custom_cloaks_POD_male_capes_king_in_yellow_01:
+        "Cape jaune"
+
+        # POD Custom Monster Visuals
+
+        # POD Monster Vicissitude Face
+    PORTRAIT_MODIFIER_POD_monster_vicissitude_face: "Visage monstrueux"
+    PORTRAIT_MODIFIER_POD_monster_vicissitude_face_POD_tzm_amphibieyes: "Yeux d'amphibiens"
+    PORTRAIT_MODIFIER_POD_monster_vicissitude_face_POD_tzm_spliceeyes: "Yeux d'épissure"
+    PORTRAIT_MODIFIER_POD_monster_vicissitude_face_POD_tzm_widebrain: "Vicissitude Large Cerveau"
+    PORTRAIT_MODIFIER_POD_monster_vicissitude_face_POD_tzm_longbrain: "Vicissitude Long Cerveau"
+    PORTRAIT_MODIFIER_POD_monster_vicissitude_face_POD_tzm_browcrest_zerghead: "Tête Zerg"
+    PORTRAIT_MODIFIER_POD_monster_vicissitude_face_POD_tzm_serpentinejaw: "Mâchoire Serpentine"
+    PORTRAIT_MODIFIER_POD_monster_vicissitude_face_POD_tzm_BROW_spike: "Pointe à sourcils Vicissitude"
+    PORTRAIT_MODIFIER_POD_monster_vicissitude_face_POD_tzm_BROW_pox: "Vicissitude de la variole des sourcils"
+    PORTRAIT_MODIFIER_POD_monster_vicissitude_face_POD_tzm_FACE_mowhawk: "Mohawk"
+    PORTRAIT_MODIFIER_POD_monster_vicissitude_face_POD_tzm_JAW: "Pointes de mâchoire"
+    PORTRAIT_MODIFIER_POD_monster_vicissitude_face_POD_tzm_NOSE: "Nez de Vicissitude"
+    PORTRAIT_MODIFIER_POD_monster_vicissitude_face_POD_tzm_upperlip_catfish: "Pointes à lèvres"
+    PORTRAIT_MODIFIER_POD_monster_vicissitude_face_POD_vamp_open_mouth: "Bouche plus grande ouverte"
+    PORTRAIT_MODIFIER_POD_monster_vicissitude_face_POD_beasty_claws: "Allonger les avant-bras"
+    PORTRAIT_MODIFIER_POD_monster_vicissitude_face_POD_tzm_TEMPLE_templecuts: "Coupes des tempes"
+    PORTRAIT_MODIFIER_POD_monster_vicissitude_face_POD_tzm_TEMPLE_templepox: "Vérole des temples"
+    PORTRAIT_MODIFIER_POD_monster_vicissitude_face_POD_tzm_TEMPLE_templespike: "Pointe du temple"
+    PORTRAIT_MODIFIER_POD_monster_vicissitude_face_POD_tzm_NOSE_nosblade: "Lame nasale"
+    PORTRAIT_MODIFIER_POD_monster_vicissitude_face_POD_tzm_NOSE_nosespike: "Pointes de nez"
+    PORTRAIT_MODIFIER_POD_monster_vicissitude_face_POD_tzm_NOSE_nosespine: "Colonne nasale"
+    PORTRAIT_MODIFIER_POD_monster_vicissitude_face_POD_tzm_upperlip_catfish_extreme: "Poisson-chat extrême"
+    PORTRAIT_MODIFIER_POD_monster_vicissitude_face_POD_NOSforehead_height: "Hauteur du front"
+    PORTRAIT_MODIFIER_POD_monster_vicissitude_face_POD_NOSforehead_forward: "Front en avant"
+    PORTRAIT_MODIFIER_POD_monster_vicissitude_face_POD_NOSforehead_curve: "Courbe du front"
+    PORTRAIT_MODIFIER_POD_monster_vicissitude_face_POD_NOSear: "Oreilles pointues"
+    PORTRAIT_MODIFIER_POD_monster_vicissitude_face_POD_longear: "Longues oreilles"
+    PORTRAIT_MODIFIER_POD_monster_vicissitude_face_POD_horn_horns: "Cornes"
+    PORTRAIT_MODIFIER_POD_monster_vicissitude_face_POD_NOSsification_nossification: "Nossification"
+    PORTRAIT_MODIFIER_POD_monster_vicissitude_face_POD_NOSsification_nosferatitude: "Nosfératitude"
+    PORTRAIT_MODIFIER_POD_monster_vicissitude_face_POD_NOSsification_nosfferization: "Nosférisation"
+    PORTRAIT_MODIFIER_POD_monster_vicissitude_face_POD_NOSsification_nossimization: "Nossimisation"
+    PORTRAIT_MODIFIER_POD_monster_vicissitude_face_POD_NOSschnoz_nosies: "Nossies"
+    PORTRAIT_MODIFIER_POD_monster_vicissitude_face_POD_NOSschnoz_schnozies: "Schnozies"
+    PORTRAIT_MODIFIER_POD_monster_vicissitude_face_POD_NOSjawz_jawwies: "mâchoires"
+    PORTRAIT_MODIFIER_POD_monster_vicissitude_face_POD_NOSjawz_wawwies: "Wawwies"
+    PORTRAIT_MODIFIER_POD_monster_vicissitude_face_POD_NOSeye_aye: "Nosferatue Eye Aye"
+    PORTRAIT_MODIFIER_POD_monster_vicissitude_face_POD_NOSeye_eyee: "Nosferatue Oeil Oeil"
+    PORTRAIT_MODIFIER_POD_monster_vicissitude_face_POD_NOSconifier_smallerhats: "Tête conique"
+    PORTRAIT_MODIFIER_POD_monster_vicissitude_face_POD_NOSforehead_height_Nosheadhigh: "Hauteur de la tête Nosferatu"
+    PORTRAIT_MODIFIER_POD_monster_vicissitude_face_POD_NOSforehead_forward_Nosheadforward: "Nosferatu Front avant"
+    PORTRAIT_MODIFIER_POD_monster_vicissitude_face_POD_NOSforehead_Nosheadcurve: "Courbe du front Nosferatu"
+    PORTRAIT_MODIFIER_POD_monster_vicissitude_face_POD_NOSear_nosear: "Oreilles pointues"
+    PORTRAIT_MODIFIER_POD_monster_vicissitude_face_POD_NOSear_longear: "Longues oreilles"
+    PORTRAIT_MODIFIER_POD_monster_vicissitude_face_POD_mouth_open_wide: "Bouche ouverte"
+    PORTRAIT_MODIFIER_POD_monster_vicissitude_face_POD_monster_horns_high_1: "Hautes Cornes 1"
+    PORTRAIT_MODIFIER_POD_monster_vicissitude_face_POD_monster_horns_high_2: "Hautes cornes 2"
+    PORTRAIT_MODIFIER_POD_monster_vicissitude_face_POD_monster_horns_high_3: "Hautes cornes 3"
+    PORTRAIT_MODIFIER_POD_monster_vicissitude_face_POD_monster_horns_high_4: "Hautes Cornes 4"
+    PORTRAIT_MODIFIER_POD_monster_vicissitude_face_POD_monster_horns_high_5: "Hautes cornes 5"
+    PORTRAIT_MODIFIER_POD_monster_vicissitude_face_POD_monster_horns_high_6: "Cornes hautes 6"
+    PORTRAIT_MODIFIER_POD_monster_vicissitude_face_POD_monster_horns_high_7: "Hautes cornes 7"
+    PORTRAIT_MODIFIER_POD_monster_vicissitude_face_POD_monster_horns_mid_1: "Cornes moyennes 1"
+    PORTRAIT_MODIFIER_POD_monster_vicissitude_face_POD_monster_horns_mid_2: "Cornes moyennes 2"
+    PORTRAIT_MODIFIER_POD_monster_vicissitude_face_POD_monster_horns_mid_3: "Cornes moyennes 3"
+    PORTRAIT_MODIFIER_POD_monster_vicissitude_face_POD_monster_horns_mid_4: "Cornes moyennes 4"
+    PORTRAIT_MODIFIER_POD_monster_vicissitude_face_POD_monster_horns_low_1: "Cornes basses 1"
+    PORTRAIT_MODIFIER_POD_monster_vicissitude_face_POD_monster_horns_low_2: "Cornes basses 2"
+    PORTRAIT_MODIFIER_POD_monster_vicissitude_face_POD_monster_horns_low_3: "Cornes basses 3"
+    PORTRAIT_MODIFIER_POD_monster_vicissitude_face_POD_monster_horns_unicorn: "Corne de licorne"
+    PORTRAIT_MODIFIER_POD_monster_vicissitude_face_POD_monster_horns_bull_horn: "Cornes de taureau"
+    PORTRAIT_MODIFIER_POD_monster_vicissitude_face_POD_monster_horns_beetle_horn: "Cornes de coléoptère"
+    PORTRAIT_MODIFIER_POD_monster_vicissitude_face_POD_mouth_open_wide_male: "Bouche ouverte plus grande"
+
+    # POD Monster Eyes
+
+    PORTRAIT_MODIFIER_POD_monster_eyes: "Yeux monstrueux"
+    PORTRAIT_MODIFIER_POD_monster_eyes_POD_empty_eyes: "Défaut"
+    PORTRAIT_MODIFIER_POD_monster_eyes_POD_beasty_eyes: "Les yeux de la bête"
+    PORTRAIT_MODIFIER_POD_monster_eyes_POD_serpentist_eyes: "Les yeux du serpent"
+    PORTRAIT_MODIFIER_POD_monster_eyes_POD_haunty_eyes: "Yeux de hantise"
+    PORTRAIT_MODIFIER_POD_monster_eyes_POD_frenzy_eyes: "Yeux frénétiques"
+    PORTRAIT_MODIFIER_POD_monster_eyes_POD_bloodgorged_eyes: "Yeux des gorgés de sang"
+    PORTRAIT_MODIFIER_POD_monster_eyes_POD_pisha_eyes: "Les yeux du Nagaraja"
+    PORTRAIT_MODIFIER_POD_monster_eyes_POD_kinginyellow_eyes: "Les yeux jaunes"
+    PORTRAIT_MODIFIER_POD_monster_eyes_POD_abyss_eyes: "Les yeux de l'abîme"
+    PORTRAIT_MODIFIER_POD_monster_eyes_POD_third_eye: "Troisième oeil"
+    PORTRAIT_MODIFIER_POD_monster_eyes_POD_blind_eyes: "Yeux aveugles"
+    PORTRAIT_MODIFIER_POD_monster_eyes_POD_red_eyes: "Les yeux rouges"
+    PORTRAIT_MODIFIER_POD_monster_eyes_POD_no_eyes: "Pas d'yeux"
+    PORTRAIT_MODIFIER_POD_monster_eyes_POD_normal_eyes: "Yeux normaux"
+    PORTRAIT_MODIFIER_POD_monster_eyes_POD_up_eye: "Quatre yeux"
+
+    # POD Monster Teeth
+
+    PORTRAIT_MODIFIER_POD_monster_teeth: "Dents monstrueuses"
+    PORTRAIT_MODIFIER_POD_monster_teeth_POD_no_teeth: "Pas de dents"
+    PORTRAIT_MODIFIER_POD_monster_teeth_POD_gnarly_teeth: "Dents noueuses"
+    PORTRAIT_MODIFIER_POD_monster_teeth_POD_orlok_teeth: "Les crocs du comte Orlok"
+    PORTRAIT_MODIFIER_POD_monster_teeth_POD_fangs_teeth: "Crocs de vampire"
+    PORTRAIT_MODIFIER_POD_monster_teeth_POD_afar_teeth: "Dents lointaines"
+    PORTRAIT_MODIFIER_POD_monster_teeth_POD_double_fangs_teeth: "Crocs doubles de vampire"
+    PORTRAIT_MODIFIER_POD_monster_teeth_POD_farfangs_teeth: "Crocs éloignés"
+    PORTRAIT_MODIFIER_POD_monster_teeth_POD_snekfangs_teeth: "Crocs de serpent"
+    PORTRAIT_MODIFIER_POD_monster_teeth_POD_normal_teeth: "Dents normales"
+
+    # POD Monster Skin
+
+    PORTRAIT_MODIFIER_POD_monster_skin: "Peau monstrueuse"
+    PORTRAIT_MODIFIER_POD_monster_skin_POD_cappadocian_skin: "Visage mortel"
+    PORTRAIT_MODIFIER_POD_monster_skin_POD_deathly_pale_skin: "Pâleur mortelle"
+    PORTRAIT_MODIFIER_POD_monster_skin_POD_bubonic_plague_skin: "Mort noire"
+    PORTRAIT_MODIFIER_POD_monster_skin_POD_pustules_skin: "Pustules"
+    PORTRAIT_MODIFIER_POD_monster_skin_POD_half_nosfed_face_right: "Visage à moitié nez droit"
+    PORTRAIT_MODIFIER_POD_monster_skin_POD_half_nosfed_face_left: "Visage à moitié nez gauche"
+    PORTRAIT_MODIFIER_POD_monster_skin_POD_half_nosfed_face_bottom: "Mâchoire à nez"
+    PORTRAIT_MODIFIER_POD_monster_skin_POD_full_nosfed_body: "Corps nourri"
+    PORTRAIT_MODIFIER_POD_monster_skin_POD_eyeshadow_eyes_basic: "Fard à paupières foncé"
+    PORTRAIT_MODIFIER_POD_monster_skin_POD_eyeshadow_eyes_crying: "Fard à paupières foncé coulant"
+    PORTRAIT_MODIFIER_POD_monster_skin_POD_sluagh_makeup: "Maquillage Sluagh"
+    PORTRAIT_MODIFIER_POD_monster_skin_POD_nocker_makeup: "Maquillage Nocker"
+    PORTRAIT_MODIFIER_POD_monster_skin_POD_bane_skin_body: "Peau de Fléau"
+    PORTRAIT_MODIFIER_POD_monster_skin_POD_bane_skin_body_bloody: "Peau de Bane sanglante"
+    PORTRAIT_MODIFIER_POD_monster_skin_POD_bark_skin_body: "Peau d'écorce"
+    PORTRAIT_MODIFIER_POD_monster_skin_POD_great_pox_severe_skin: "Grande vérole"
+    PORTRAIT_MODIFIER_POD_monster_skin_POD_leprosy_skin: "Lépreux"
+    PORTRAIT_MODIFIER_POD_monster_skin_POD_scaly_skin: "Squameux"
+    PORTRAIT_MODIFIER_POD_monster_skin_POD_tuberculosis_skin: "Consommation"
+    PORTRAIT_MODIFIER_POD_monster_skin_POD_typhus_skin: "La fièvre de la prison"
+    PORTRAIT_MODIFIER_POD_monster_skin_POD_haqim_curse: "Malédiction d'Haqim"
+    PORTRAIT_MODIFIER_POD_monster_skin_POD_pale_skin: "Peau pâle"
+    PORTRAIT_MODIFIER_POD_monster_skin_POD_ivory_skin: "Peau ivoire"
+    PORTRAIT_MODIFIER_POD_monster_skin_POD_blue_skin: "Peau de troll"
+    PORTRAIT_MODIFIER_POD_monster_skin_POD_green_skin: "Apparence de Ghille Dhu"
+    PORTRAIT_MODIFIER_POD_monster_skin_POD_red_skin: "Peau rouge"
+    PORTRAIT_MODIFIER_POD_monster_skin_POD_yellow_skin: "Peau jaune"
+    PORTRAIT_MODIFIER_POD_monster_skin_POD_grey_skin: "Peau grise"
+    PORTRAIT_MODIFIER_POD_monster_skin_POD_human_skin: "Peau humaine"
+    PORTRAIT_MODIFIER_POD_monster_skin_POD_bloodied_skin_1: "Peau ensanglantée 1"
+    PORTRAIT_MODIFIER_POD_monster_skin_POD_bloodied_skin_2: "Peau ensanglantée 2"
+    PORTRAIT_MODIFIER_POD_monster_skin_POD_bloodied_skin_3: "Peau ensanglantée 3"
+    PORTRAIT_MODIFIER_POD_monster_skin_POD_bloodied_skin_4: "Peau ensanglantée 4"
+    PORTRAIT_MODIFIER_POD_monster_skin_POD_bloodied_skin_5: "Peau ensanglantée 5"
+
+    PORTRAIT_MODIFIER_POD_monster_skin_POD_dark_skin: "La malédiction d'Haqim"
+    PORTRAIT_MODIFIER_POD_monster_skin_POD_albino_skin: "Albinos"
+    PORTRAIT_MODIFIER_POD_monster_skin_POD_wounded_skin: "Plaies permanentes"
+    PORTRAIT_MODIFIER_POD_monster_skin_POD_scarred_skin: "Cicatrices permanentes"
+
+    # fantasy hair
+    PORTRAIT_MODIFIER_POD_fantasy_hair: "Cheveux fantaisie"
+    PORTRAIT_MODIFIER_POD_fantasy_hair_POD_pure_black_hair: "Cheveux noirs purs"
+    PORTRAIT_MODIFIER_POD_fantasy_hair_POD_light_blue_hair: "Cheveux bleu clair"
+    PORTRAIT_MODIFIER_POD_fantasy_hair_POD_dark_blue_hair: "Cheveux bleu foncé"
+    PORTRAIT_MODIFIER_POD_fantasy_hair_POD_light_green_hair: "Cheveux vert clair"
+    PORTRAIT_MODIFIER_POD_fantasy_hair_POD_dark_green_hair: "Cheveux vert foncé"
+    PORTRAIT_MODIFIER_POD_fantasy_hair_POD_purple_hair: "Cheveux violets"
+    PORTRAIT_MODIFIER_POD_fantasy_hair_POD_pure_white_hair: "Cheveux Blancs Purs"
+    PORTRAIT_MODIFIER_POD_fantasy_hair_POD_orange_hair: "Cheveux roux"
+    PORTRAIT_MODIFIER_POD_fantasy_hair_POD_red_hair: "Cheveux roux"
+
+    # POD Monster Form
+    PORTRAIT_MODIFIER_POD_monster_form: "Forme monstrueuse"
+    PORTRAIT_MODIFIER_POD_monster_form_POD_bestial_visage_form: "Visage bestial"
+    PORTRAIT_MODIFIER_POD_monster_form_POD_crinos_form: "Forme de crinos de loup-garou"
+    PORTRAIT_MODIFIER_POD_monster_form_POD_crinos_hairless_form: "Forme de crinos de loup-garou (sans poils)"
+    PORTRAIT_MODIFIER_POD_monster_form_POD_wraith_form: "Spectre"
+    PORTRAIT_MODIFIER_POD_monster_form_POD_shade_form: "Ombre"
+    PORTRAIT_MODIFIER_POD_monster_form_POD_incarnate_darkness_form: "Ténèbres incarnées"
+    PORTRAIT_MODIFIER_POD_monster_form_POD_orlok_form: "Comte Orlok"
+    PORTRAIT_MODIFIER_POD_monster_form_POD_uncanny_nosferatu_form: "Nosferatu étrange"
+    PORTRAIT_MODIFIER_POD_monster_form_POD_cappadocian_form: "Cadavre Cappadocien"
+    PORTRAIT_MODIFIER_POD_monster_form_POD_zulo_form: "Zulo"
+    PORTRAIT_MODIFIER_POD_monster_form_POD_troll_form: "Troll"
+    PORTRAIT_MODIFIER_POD_monster_form_POD_sluagh_form: "Sluagh"
+    PORTRAIT_MODIFIER_POD_monster_form_POD_nocker_form: "Nocker"
+    PORTRAIT_MODIFIER_POD_monster_form_POD_redcap_form: "Une casquette rouge"
+    PORTRAIT_MODIFIER_POD_monster_form_POD_ghilledhu_form: "Ghillie Dhu"
+    PORTRAIT_MODIFIER_POD_monster_form_POD_winged_zulo_form: "Zulo ailé"
+    PORTRAIT_MODIFIER_POD_monster_form_POD_dracul_form: "Dracula"
+    PORTRAIT_MODIFIER_POD_monster_form_POD_demon_wings_unfolded: "Ailes démoniaques (dépliées)"
+    PORTRAIT_MODIFIER_POD_monster_form_POD_demon_wings_folded: "Ailes démoniaques (pliées)"
+    PORTRAIT_MODIFIER_POD_monster_form_POD_dragon_wings: "Ailes draconiques"
+    PORTRAIT_MODIFIER_POD_monster_form_POD_angel_wings_unfolded: "Ailes angéliques (dépliées)"
+    PORTRAIT_MODIFIER_POD_monster_form_POD_angel_wings_folded: "Ailes angéliques (pliées)"
+    PORTRAIT_MODIFIER_POD_monster_form_POD_bee_wings: "Ailes d'abeille"
+    PORTRAIT_MODIFIER_POD_monster_form_POD_ant_wings: "Ailes de fourmis"
+    PORTRAIT_MODIFIER_POD_monster_form_POD_butterfly_wings: "Ailes de papillon"
+    PORTRAIT_MODIFIER_POD_monster_form_POD_raven_wings: "Ailes de corbeau"
+    PORTRAIT_MODIFIER_POD_monster_form_POD_chiropteran_marauder_form: "Maraudeur chiroptère"
+    PORTRAIT_MODIFIER_POD_monster_form_POD_giant_form: "Forme géante"
+    PORTRAIT_MODIFIER_POD_monster_form_POD_glome_form: "Forme Glome"
+    PORTRAIT_MODIFIER_POD_monster_form_POD_aquarii_form: "Forme du Verseau (Gangrel Mariner)"
+    PORTRAIT_MODIFIER_POD_monster_form_POD_chiromaurauder_form: "Variante du Maraudeur Chiroptère"
+    PORTRAIT_MODIFIER_POD_monster_form_POD_glabro_form: "Forme Glabro loup-garou"
+    PORTRAIT_MODIFIER_POD_monster_form_POD_chulorviah_form: "Forme d'Ancien de Chulorviah"
+    PORTRAIT_MODIFIER_POD_monster_form_POD_satyr_form: "Forme Satyre"
+    PORTRAIT_MODIFIER_POD_monster_form_POD_chiromaurauder_form_alt: "Maraudeur chiroptère (suppléant)"
+    PORTRAIT_MODIFIER_POD_monster_form_POD_hoof_legs_form: "Forme de jambe sabotée"
+    PORTRAIT_MODIFIER_POD_beast_form_POD_horse_form: "Forme animale cheval"
+    PORTRAIT_MODIFIER_POD_beast_form_POD_falcon_form: "Forme animale faucon"
+    PORTRAIT_MODIFIER_POD_monster_no_body_forms: "Personne"
+    PORTRAIT_MODIFIER_POD_monster_no_body_forms_POD_no_portrait_form:
+        "Personne"
+
+        # FERA Forms
+    PORTRAIT_MODIFIER_POD_fera_form: "Forme Fera"
+    PORTRAIT_MODIFIER_POD_fera_form_POD_werecroc_form: "Forme Croco-Garou"
+    PORTRAIT_MODIFIER_POD_fera_form_POD_wereape_form: "Formulaire de singe-garou"
+    PORTRAIT_MODIFIER_POD_fera_form_POD_wereape_hairless_form: "Forme de singe-garou (sans poils)"
+    PORTRAIT_MODIFIER_POD_fera_form_POD_wereshark_form: "Formulaire de requin-garou"
+    PORTRAIT_MODIFIER_POD_fera_form_POD_werehammer_form: "Forme de requin-marteau de requin-garou"
+    PORTRAIT_MODIFIER_POD_fera_form_POD_werebear_form: "Forme d'ours-garou"
+    PORTRAIT_MODIFIER_POD_fera_form_POD_werebear_hairless_form: "Forme d'ours-garou (sans poils)"
+    PORTRAIT_MODIFIER_POD_fera_form_POD_wererat_form: "Forme de rat-garou"
+    PORTRAIT_MODIFIER_POD_fera_form_POD_wererat_hairless_form: "Forme de rat-garou (sans poils)"
+    PORTRAIT_MODIFIER_POD_fera_form_POD_werespider_form: "Forme d'araignée-garou"
+    PORTRAIT_MODIFIER_POD_fera_form_POD_werescorpion_form: "Forme de corpion-garou"
+    PORTRAIT_MODIFIER_POD_fera_form_POD_werebull_form: "Forme Werebull (Blindé)"
+    PORTRAIT_MODIFIER_POD_fera_form_POD_werebull_nude_form: "Forme de taureau-garou (Skyclad)"
+    PORTRAIT_MODIFIER_POD_fera_form_POD_wereturtle_form: "Forme de tortue-garou"
+    PORTRAIT_MODIFIER_POD_fera_form_POD_werewolf_form: "Loup-garou (blindé)"
+    PORTRAIT_MODIFIER_POD_fera_form_POD_werewolf_nude_form: "Loup-garou (Skyclad)"
+    PORTRAIT_MODIFIER_POD_fera_form_POD_werewolf_hairless_form: "Loup-garou (Ciel sans poil)"
+    PORTRAIT_MODIFIER_POD_fera_form_POD_werewolf_hairless_armored_form: "Loup-garou (armure sans poils)"
+    PORTRAIT_MODIFIER_POD_fera_form_POD_werewolf_alt_form: "Forme alternative de loup-garou"
+    PORTRAIT_MODIFIER_POD_fera_form_POD_wereant_form: "Forme de garou (volant)"
+    PORTRAIT_MODIFIER_POD_fera_form_POD_wereantwingless_form: "Forme de garou (sans ailes)"
+    PORTRAIT_MODIFIER_POD_fera_form_POD_wereboar_form: "Forme de sanglier-garou"
+    PORTRAIT_MODIFIER_POD_fera_form_POD_wereboar_hairless_form: "Forme de sanglier-garou (sans poils)"
+    PORTRAIT_MODIFIER_POD_fera_form_POD_wereraven_form: "Forme Corbeau-Garou (Blindé)"
+    PORTRAIT_MODIFIER_POD_fera_form_POD_wereraven_nude_form: "Forme Corbeau-Garou (Skyclad)"
+    PORTRAIT_MODIFIER_POD_fera_form_POD_wereraven_flightless_form: "Forme Wereraven (blindée incapable de voler)"
+    PORTRAIT_MODIFIER_POD_fera_form_POD_wereraven_flightless_nude_form: "Forme Wereraven (Ciel sans vol)"
+    PORTRAIT_MODIFIER_POD_fera_form_POD_wereserpent_form: "Forme Serpent-Garou (Blindé)"
+    PORTRAIT_MODIFIER_POD_fera_form_POD_wereserpent_nude_form: "Forme de serpent-garou (Skyclad)"
+    PORTRAIT_MODIFIER_POD_fera_form_POD_werefox_form: "Formulaire Renard-Garou"
+    PORTRAIT_MODIFIER_POD_fera_form_POD_weremillipede_form: "Formulaire mille-pattes"
+    PORTRAIT_MODIFIER_POD_fera_form_POD_werebeetle_form: "Forme de scarabée-garou"
+    PORTRAIT_MODIFIER_POD_fera_form_POD_werebee_form: "Formulaire d'abeille-garou"
+    PORTRAIT_MODIFIER_POD_fera_form_POD_weremantis_form: "Forme Garoumantis"
+    PORTRAIT_MODIFIER_POD_fera_form_POD_werecrab_form:
+        "Forme de crabe-garou"
+
+        #Beast Form
+    PORTRAIT_MODIFIER_POD_beast_form: "Forme de bête"
+    PORTRAIT_MODIFIER_POD_beast_form_POD_lung_form: "Forme de poumon Zhong"
+    PORTRAIT_MODIFIER_POD_beast_form_POD_lung_hairless_form: "Forme Zhong Lung (sans poils)"
+    PORTRAIT_MODIFIER_POD_beast_form_POD_fox_form: "Forme de renard"
+    PORTRAIT_MODIFIER_POD_beast_form_POD_wyrmrat_form: "Forme de rat-wyrm"
+    PORTRAIT_MODIFIER_POD_beast_form_POD_wyrmrat_hairless_form:
+        "Forme Wyrmrat (sans poils)"
+
+        #Ear
+    PORTRAIT_MODIFIER_POD_custom_headgear_rat_ear_m: "Oreille de rat"
+    PORTRAIT_MODIFIER_POD_custom_headgear_rat_ear_f: "Oreille de rat"
+    PORTRAIT_MODIFIER_POD_custom_headgear_fox_ear_m: "Oreille de renard"
+    PORTRAIT_MODIFIER_POD_custom_headgear_fox_ear_f: "Oreille de renard"
+    PORTRAIT_MODIFIER_POD_custom_headgear_horse_ear_m: "Oreille de cheval"
+    PORTRAIT_MODIFIER_POD_custom_headgear_horse_ear_f: "Oreille de cheval"
+    PORTRAIT_MODIFIER_POD_custom_headgear_horse_ear_alt_m: "Oreille de cheval (alternative)"
+    PORTRAIT_MODIFIER_POD_custom_headgear_horse_ear_alt_f: "Oreille de cheval (alternative)"
+    PORTRAIT_MODIFIER_POD_custom_headgear_cat_top_ear_m: "Oreille de tigre (en haut)"
+    PORTRAIT_MODIFIER_POD_custom_headgear_cat_top_ear_f: "Oreille de tigre (en haut)"
+    PORTRAIT_MODIFIER_POD_custom_headgear_cat_side_ear_m: "Oreille de tigre (côté)"
+    PORTRAIT_MODIFIER_POD_custom_headgear_cat_side_ear_f: "Oreille de tigre (côté)"
+    PORTRAIT_MODIFIER_POD_custom_headgear_rabbit_ear_m: "Oreille de lapin"
+    PORTRAIT_MODIFIER_POD_custom_headgear_rabbit_ear_f: "Oreille de lapin"
+    PORTRAIT_MODIFIER_POD_custom_headgear_bear_ear_m: "Oreille d'ours"
+    PORTRAIT_MODIFIER_POD_custom_headgear_bear_ear_f: "Oreille d'ours"
+    PORTRAIT_MODIFIER_POD_custom_headgear_fish_ear_m: "Oreille de poisson"
+    PORTRAIT_MODIFIER_POD_custom_headgear_fish_ear_f:
+        "Oreille de poisson"
+
+        #Tail
+    PORTRAIT_MODIFIER_POD_custom_clothing_fox_tail_m: "Queue de renard"
+    PORTRAIT_MODIFIER_POD_custom_clothing_fox_tail_f: "Queue de renard"
+    PORTRAIT_MODIFIER_POD_custom_clothing_fox_tail_2_m: "Queue de renard (2)"
+    PORTRAIT_MODIFIER_POD_custom_clothing_fox_tail_2_f: "Queue de renard (2)"
+    PORTRAIT_MODIFIER_POD_custom_clothing_fox_tail_3_m: "Queue de renard (3)"
+    PORTRAIT_MODIFIER_POD_custom_clothing_fox_tail_3_f: "Queue de renard (3)"
+    PORTRAIT_MODIFIER_POD_custom_clothing_fox_tail_4_m: "Queue de renard (4)"
+    PORTRAIT_MODIFIER_POD_custom_clothing_fox_tail_4_f: "Queue de renard (4)"
+    PORTRAIT_MODIFIER_POD_custom_clothing_fox_tail_5_m: "Queue de renard (5)"
+    PORTRAIT_MODIFIER_POD_custom_clothing_fox_tail_5_f: "Queue de renard (5)"
+    PORTRAIT_MODIFIER_POD_custom_clothing_fox_tail_6_m: "Queue de renard (6)"
+    PORTRAIT_MODIFIER_POD_custom_clothing_fox_tail_6_f: "Queue de renard (6)"
+    PORTRAIT_MODIFIER_POD_custom_clothing_fox_tail_7_m: "Queue de renard (7)"
+    PORTRAIT_MODIFIER_POD_custom_clothing_fox_tail_7_f: "Queue de renard (7)"
+    PORTRAIT_MODIFIER_POD_custom_clothing_fox_tail_8_m: "Queue de renard (8)"
+    PORTRAIT_MODIFIER_POD_custom_clothing_fox_tail_8_f: "Queue de renard (8)"
+    PORTRAIT_MODIFIER_POD_custom_clothing_fox_tail_9_m: "Queue de renard (9)"
+    PORTRAIT_MODIFIER_POD_custom_clothing_fox_tail_9_f: "Queue de renard (9)"
+    PORTRAIT_MODIFIER_POD_custom_clothing_rat_tail_m: "Queue de rat"
+    PORTRAIT_MODIFIER_POD_custom_clothing_rat_tail_f: "Queue de rat"
+    PORTRAIT_MODIFIER_POD_custom_clothing_rat_tail_alt_m: "Queue de rat (alternative)"
+    PORTRAIT_MODIFIER_POD_custom_clothing_rat_tail_alt_f: "Queue de rat (alternative)"
+    PORTRAIT_MODIFIER_POD_custom_clothing_horse_tail_m: "Queue de cheval"
+    PORTRAIT_MODIFIER_POD_custom_clothing_horse_tail_f: "Queue de cheval"
+    PORTRAIT_MODIFIER_POD_custom_clothing_horse_tail_alt_m: "Queue de cheval (alternative)"
+    PORTRAIT_MODIFIER_POD_custom_clothing_horse_tail_alt_f: "Queue de cheval (alternative)"
+    PORTRAIT_MODIFIER_POD_custom_clothing_wolf_tail_m: "Queue de loup"
+    PORTRAIT_MODIFIER_POD_custom_clothing_wolf_tail_f: "Queue de loup"
+    PORTRAIT_MODIFIER_POD_custom_clothing_raven_tail_m: "Queue de Corbeau"
+    PORTRAIT_MODIFIER_POD_custom_clothing_raven_tail_f: "Queue de Corbeau"
+    PORTRAIT_MODIFIER_POD_custom_clothing_lung_tail_m: "Zhong Lung Tail"
+    PORTRAIT_MODIFIER_POD_custom_clothing_lung_tail_f: "Zhong Lung Tail"
+    PORTRAIT_MODIFIER_POD_custom_clothing_scorpion_tail_m: "Queue de scorpion"
+    PORTRAIT_MODIFIER_POD_custom_clothing_scorpion_tail_f: "Queue de scorpion"
+    PORTRAIT_MODIFIER_POD_custom_clothing_bear_tail_m: "Queue d'ours"
+    PORTRAIT_MODIFIER_POD_custom_clothing_bear_tail_f: "Queue d'ours"
+    PORTRAIT_MODIFIER_POD_custom_clothing_boar_tail_m: "Queue de Sanglier"
+    PORTRAIT_MODIFIER_POD_custom_clothing_boar_tail_f: "Queue de Sanglier"
+    PORTRAIT_MODIFIER_POD_custom_clothing_croc_tail_m: "Queue de crocodile"
+    PORTRAIT_MODIFIER_POD_custom_clothing_croc_tail_f: "Queue de crocodile"
+    PORTRAIT_MODIFIER_POD_custom_clothing_shark_tail_m: "Queue de requin"
+    PORTRAIT_MODIFIER_POD_custom_clothing_shark_tail_f:
+        "Queue de requin"
+
+        #Other headgear
+    PORTRAIT_MODIFIER_POD_custom_headgear_halo_m: "Halo"
+    PORTRAIT_MODIFIER_POD_custom_headgear_halo_f: "Halo"
+    PORTRAIT_MODIFIER_POD_custom_headgear_antennae_m: "Antennes"
+    PORTRAIT_MODIFIER_POD_custom_headgear_antennae_f: "Antennes"
+    PORTRAIT_MODIFIER_POD_custom_headgear_antennae_alt_m: "Antennes (alternatives)"
+    PORTRAIT_MODIFIER_POD_custom_headgear_antennae_alt_f: "Antennes (alternatives)"
+    PORTRAIT_MODIFIER_POD_custom_headgear_antler_m: "Ramure"
+    PORTRAIT_MODIFIER_POD_custom_headgear_antler_f: "Ramure"
+    PORTRAIT_MODIFIER_POD_custom_headgear_unicorn_horn_m: "Corne de licorne"
+    PORTRAIT_MODIFIER_POD_custom_headgear_unicorn_horn_f: "Corne de licorne"
+    PORTRAIT_MODIFIER_POD_custom_headgear_bull_horn_m: "Corne de taureau"
+    PORTRAIT_MODIFIER_POD_custom_headgear_bull_horn_f: "Corne de taureau"
+    PORTRAIT_MODIFIER_POD_custom_headgear_beetle_horn_m: "Corne de scarabée"
+    PORTRAIT_MODIFIER_POD_custom_headgear_beetle_horn_f:
+        "Corne de scarabée"
+
+        #Other other
+    PORTRAIT_MODIFIER_POD_custom_clothing_shark_fin_m: "Aileron de requin"
+    PORTRAIT_MODIFIER_POD_custom_clothing_shark_fin_f: "Aileron de requin"
+    PORTRAIT_MODIFIER_POD_custom_clothing_spider_paws_m: "Pattes d'araignée"
+    PORTRAIT_MODIFIER_POD_custom_clothing_spider_paws_f: "Pattes d'araignée"
+
+    #Religious_catholic_devoted_clothes
+    ### Male ###
+    #Already defined above
+    ### Female ###
+    #Already defined above in the same file
+
+    PORTRAIT_MODIFIER_POD_custom_headgear_female_headgear_religious_catholic_devoted_02: "Habitude rouge"
+    PORTRAIT_MODIFIER_POD_custom_headgear_male_headgear_religious_catholic_devoted_02: "Habitude rouge"
+
+    #religious_catholic_devoted_clothes
+    ### Male ###
+    PORTRAIT_MODIFIER_POD_custom_clothing_male_clothes_religious_catholic_high_01: "Robe d'évêque 1"
+    PORTRAIT_MODIFIER_POD_custom_clothing_male_clothes_religious_catholic_head_01: "Robe papale"
+
+    #religious_orthodox_clothes
+    PORTRAIT_MODIFIER_POD_custom_clothing_male_clothes_religious_orthodox_high_01: "Robe orthodoxe 1"
+    PORTRAIT_MODIFIER_POD_custom_clothing_male_clothes_religious_orthodox_head_01_common: "Robe orthodoxe 2"
+
+    #religious_muslim_clothes
+    PORTRAIT_MODIFIER_POD_custom_clothing_male_clothes_religious_muslim_high_01: "Robe d'Imam"
+
+    #religious_northern_clothes
+    PORTRAIT_MODIFIER_POD_custom_clothing_religious_northern_high_01_common: "Vêtements religieux nordiques"
+
+    #religious_steppe_clothes
+    PORTRAIT_MODIFIER_POD_custom_clothing_religious_steppe_high_01_common: "Vêtements religieux des steppes"
+
+    #religious_buddhist_clothes
+    PORTRAIT_MODIFIER_POD_custom_clothing_male_clothes_religious_buddhist_high_01: "Robe religieuse orientale 2"
+
+    #Religious_hindu_devoted_clothes
+    ### Male ###
+    PORTRAIT_MODIFIER_POD_custom_clothing_male_clothes_religious_hindu_devoted_01: "Robe religieuse orientale 1"
+
+    #Religious_zoroastrian_religious_clothes
+    ### Male ###
+    PORTRAIT_MODIFIER_POD_custom_clothing_male_clothes_religious_zoroastrian_high_01: "Robes de temple"
+    PORTRAIT_MODIFIER_POD_custom_clothing_female_clothes_religious_zoroastrian_high_01: "Robes de temple"
+
+    #Religious_jewish_religious_clothes
+    ### Male ###
+    PORTRAIT_MODIFIER_POD_custom_clothing_male_clothes_religious_jewish_high_01:
+        "Vêtements religieux juifs"
+
+        #African
+
+    ### Male ###
+    PORTRAIT_MODIFIER_POD_custom_clothing_male_clothes_religious_african_high_01_common: "Vêtements religieux africains"
+    ### Female ###
+    PORTRAIT_MODIFIER_POD_custom_clothing_female_clothes_religious_african_high_01_common: "Vêtements religieux africains"

@@ -1,10 +1,10 @@
 ﻿l_french:
- vampire_elective_succession_law: "Plus puissant" #NT!
- vampire_elective_succession_law_effects: "Lorsqu'un changement de direction se produit dans la société vampire, c'est souvent le candidat le plus puissant ou le plus connecté qui remporte le prix. Les [ruler|E] et tous les [de_jure|E] [vassals|E] directs d'un ou deux [ranks|E] en dessous du [title|E] peuvent désigner un [heir|E] parmi eux et le [close_family|E] du dirigeant." #NT!
- vampire_elective_candidates: "Famille proche, demandeurs et électeurs" #NT!
- vampire_elective_candidates_tooltip: "Afin d'être un candidat suffisamment puissant, un personnage doit remplir l'une des conditions suivantes :\n$EFFECT_LIST_BULLET$Être un membre légitime [close_family|E] du dirigeant actuel.\n$EFFECT_LIST_BULLET$Être un [claimant|E] au titre.\n$EFFECT_LIST_BULLET$Être un candidat valide. Féodal [elector|E] au titre" #NT!
- vampire_elective_electors: "Souverain et vassaux" #NT!
- vampire_elective_electors_tooltip: "Afin d'être un [elector|E] valide dans la société Kindred, un vassal doit remplir toutes les conditions suivantes :\n$EFFECT_LIST_BULLET$Être un vassal [de_jure|E] du titre\n$EFFECT_LIST_BULLET$Être un vassal direct du titre\n$EFFECT_LIST_BULLET$Être un seul ou deux [ranks|E] en dessous du titre" #NT!
- tooltip_vampire_vote_strength_diplomacy: "Haute Diplomatie" #NT!
- tooltip_vampire_vote_strength_intrigue: "Haute intrigue" #NT!
- tooltip_vampire_elector_vote_decrepit: "Ce type est vieux. Genre, très vieux. Mieux vaut être de son bon côté." #NT!
+    vampire_elective_succession_law: "Plus puissant"
+    vampire_elective_succession_law_effects: "Lorsqu'un changement de direction se produit dans la société vampire, c'est souvent le candidat le plus puissant ou le plus connecté qui remporte le prix. Les [ruler|E] et tous les [de_jure|E] [vassals|E] directs d'un ou deux [ranks|E] en dessous du [title|E] peuvent désigner un [heir|E] parmi eux et le [close_family|E] du dirigeant."
+    vampire_elective_candidates: "Famille proche, demandeurs et électeurs"
+    vampire_elective_candidates_tooltip: "Afin d'être un candidat suffisamment puissant, un personnage doit remplir l'une des conditions suivantes :\n$EFFECT_LIST_BULLET$Être un membre légitime [close_family|E] du dirigeant actuel.\n$EFFECT_LIST_BULLET$Être un [claimant|E] au titre.\n$EFFECT_LIST_BULLET$Être un candidat valide. Féodal [elector|E] au titre"
+    vampire_elective_electors: "Souverain et vassaux"
+    vampire_elective_electors_tooltip: "Afin d'être un [elector|E] valide dans la société Kindred, un vassal doit remplir toutes les conditions suivantes :\n$EFFECT_LIST_BULLET$Être un vassal [de_jure|E] du titre\n$EFFECT_LIST_BULLET$Être un vassal direct du titre\n$EFFECT_LIST_BULLET$Être un seul ou deux [ranks|E] en dessous du titre"
+    tooltip_vampire_vote_strength_diplomacy: "Haute Diplomatie"
+    tooltip_vampire_vote_strength_intrigue: "Haute intrigue"
+    tooltip_vampire_elector_vote_decrepit: "Ce type est vieux. Genre, très vieux. Mieux vaut être de son bon côté."

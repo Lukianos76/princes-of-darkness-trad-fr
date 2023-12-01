@@ -1,96 +1,95 @@
 ﻿l_french:
- rokeagifts_visible: "Cadeaux rokaa" #NT!
- brightwatergifts_visible: "Cadeaux eau vive" #NT!
- dimwatergifts_visible: "Cadeaux dimwater" #NT!
- darkwatergifts_visible: "Cadeaux eaux sombres" #NT!
- same_bitogifts_visible: "Cadeaux Same-Bito" #NT!
-  
- NEEDS_BRIGHTWATER_TEXT: "@warning_icon!#X Nécessite le [GetTrait('brightwater').GetName( GetPlayer )] [traits|E] pour acheter des avantages dans cet arbre.#!" #NT!
- NEEDS_DIMWATER_TEXT: "@warning_icon!#X Nécessite le [GetTrait('dimwater').GetName( GetPlayer )] [traits|E] pour acheter des avantages dans cet arbre.#!" #NT!
- NEEDS_DARKWATER_TEXT: "@warning_icon!#X Nécessite le [GetTrait('darkwater').GetName( GetPlayer )] [traits|E] pour acheter des avantages dans cet arbre.#!" #NT!
-  
- fast_perk_name: "Rapide" #NT!
- sense_threat_perk_name: "Sentir la menace" #NT!
- unseas_blessing_perk_name: "La bénédiction d'Unsea" #NT!
- fathom_sight_perk_name: "Vue de brasse" #NT!
- kuns_warning_perk_name: "L'avertissement de Kun" #NT!
- salmons_return_perk_name: "Le retour du saumon" #NT!
- mindless_fight_perk_name: "Combat insensé" #NT!
- oceans_peace_perk_name: "La paix de l'océan" #NT!
-  
- UNSEAS_BLESSING_PERK_EFFECT: "En tant que [character_interaction|E], vous permet de panser vos blessures." #NT!
- MINDLESS_FIGHT_PERK_EFFECT: "En tant que [character_interaction|E], vous permet de canaliser votre rage pour gagner [GetModifier( 'mindless_fight_perk_modifier' ).GetNameWithTooltip|L]." #NT!
-  
- eyes_of_the_wound_perk_name: "Les yeux de la blessure" #NT!
- rokea_restraint_perk_name: "Retenue" #NT!
- unseen_attack_perk_name: "Attaque invisible" #NT!
- first_feeling_perk_name: "Premier sentiment" #NT!
- narkes_gift_perk_name: "Le cadeau de Narke" #NT!
- undertow_perk_name: "Reflux" #NT!
- bends_perk_name: "Coudes" #NT!
- schools_fear_perk_name: "La peur de l'école" #NT!
- wriggling_teeth_perk_name: "Dents frétillantes" #NT!
- best_policy_perk_name: "Meilleure politique" #NT!
- no_walls_perk_name: "Pas de murs" #NT!
- overseas_cycle_perk_name: "Le cycle d'outre-mer" #NT!
- pain_of_the_wound_perk_name: "Douleur de la blessure" #NT!
- scuttle_perk_name: "Saborder" #NT!
- seas_winds_perk_name: "Les vents de la mer" #NT!
-  
- FIRST_FEELING_PERK_EFFECT: "Donnez un modificateur [GetModifier('first_feeling_perk_modifier').GetNameWithTooltip] aux commandants ennemis en guerre en tant que commandant." #NT!
- BENDS_PERK_EFFECT: "Donnez le modificateur [GetModifier('bends_perk_modifier').GetNameWithTooltip] à l'ennemi [knights|E] en guerre en tant que commandant ou à l'ennemi en [single_combat_duel|E]." #NT!
- SCHOOLS_FEAR_PERK_EFFECT: "Donnez un modificateur [GetModifier('schools_fear_perk_modifier').GetNameWithTooltip] aux commandants ennemis en guerre en tant que commandant." #NT!
- PAIN_OF_THE_WOUND_PERK_EFFECT: "Blesser l'ennemi [knights|E] en guerre en tant que commandant ou ennemi au [single_combat_duel|E]." #NT!
- SEAS_WINDS_PERK_EFFECT: "Blessez l'ennemi [knights|E] et les commandants en guerre en tant que commandant ou ennemi au [single_combat_duel|E], s'ils sont des vampires (ou d'autres surnaturels qui craignent le soleil)." #NT!
- SCUTTLE_PERK_EFFECT: "En tant que [character_interaction|E], permet de faire subir à une cible voyageant en mer un accident de mer, la blessant ou la noyant." #NT!
-  
- king_fish_perk_name: "Poisson roi" #NT!
- strange_blood_perk_name: "Sang étrange" #NT!
- true_intentions_perk_name: "Vraies intentions" #NT!
- crushing_depths_perk_name: "Profondeurs de concassage" #NT!
- know_overseas_mind_perk_name: "Connaître l'esprit d'outre-mer" #NT!
- spit_teeth_perk_name: "Cracher des dents" #NT!
- rokea_drown_perk_name: "Noyer" #NT!
- lure_perk_name: "Leurre" #NT!
- seas_wisdom_perk_name: "La sagesse de la mer" #NT!
- living_sea_perk_name: "Mer vivante" #NT!
- overseas_wrath_perk_name: "La colère d'outre-mer" #NT!
- swim_underseas_bloodstream_perk_name: "Nager dans le sang sous-marin" #NT!
- common_foe_perk_name: "Ennemi commun" #NT!
- leviathan_perk_name: "Léviathan" #NT!
- wound_undersea_perk_name: "Blessure sous-marine" #NT!
-  
- CRUSHING_DEPTHS_PERK_EFFECT: "Donnez le modificateur [GetModifier('crushing_depths_perk_modifier').GetNameWithTooltip] à l'ennemi [knights|E] en guerre en tant que commandant ou à l'ennemi en [single_combat_duel|E]." #NT!
- ROKEA_DROWN_PERK_EFFECT: "Donnez un modificateur [GetModifier('rokea_drown_perk_modifier').GetNameWithTooltip] aux commandants ennemis en guerre en tant que commandant." #NT!
- LURE_PERK_EFFECT: "Donnez un modificateur [GetModifier('lure_perk_modifier').GetNameWithTooltip] aux commandants ennemis en guerre en tant que commandant." #NT!
- OVERSEAS_WRATH_PERK_EFFECT: "En tant que [character_interaction|E], permet de faire subir à une cible voyageant en mer un accident de mer, la blessant ou la noyant." #NT!
- SWIM_UNDERSEAS_BLOODSTREAM_PERK_EFFECT: "En tant que [character_interaction|E], vous permet de vous téléporter vers l'emplacement cible." #NT!
- COMMON_FOE_PERK_EFFECT: "En tant que [character_interaction|E], vous permet d'appeler une cible non contrôlée par le Wyrm pour qu'elle rejoigne une guerre contre un ennemi contrôlé par le Wyrm." #NT!
- LEVIATHAN_PERK_EFFECT: "Débloquez l'option de changement de forme [GetModifier( 'POD_shapeshift_form_leviathan_modifier' ).GetNameWithTooltip|L]." #NT!
- WOUND_UNDERSEA_PERK_EFFECT: "En tant que [character_interaction|E], vous permet de déclencher un [GetModifier( 'wound_undersea_modifier' ).GetNameWithTooltip|L] au-dessus des côtes d'un royaume ennemi." #NT!
-  
- blood_of_the_deeps_perk_name: "Sang des profondeurs" #NT!
- silent_sending_perk_name: "Envoi silencieux" #NT!
- chill_perk_name: "Froideur" #NT!
- enter_seas_soul_perk_name: "Entrez dans l'âme de la mer" #NT!
- piercing_shriek_perk_name: "Cri perçant" #NT!
- voice_of_the_depths_perk_name: "Voix des profondeurs" #NT!
- no_blood_perk_name: "Pas de sang" #NT!
- summon_scuttlers_perk_name: "Invoquer des Scuttlers" #NT!
- swim_through_the_school_perk_name: "Nager à travers l'école" #NT!
- seas_breath_perk_name: "Le souffle de la mer" #NT!
- shock_wave_perk_name: "Onde de choc" #NT!
- waves_passage_perk_name: "Passage des vagues" #NT!
- hunger_of_the_trench_perk_name: "La faim de la tranchée" #NT!
- overseas_gift_perk_name: "Le cadeau d'outre-mer" #NT!
- pall_perk_name: "Voile" #NT!
- cets_shell_perk_name: "C'est Shell" #NT!
-  
- shou_of_zhong_lung_perk_name: "Shou of Zhong Lung" #NT!
- blood_scent_perk_name: "Parfum de sang" #NT!
- sight_without_sight_perk_name: "La vue sans la vue" #NT!
- iron_jaws_perk_name: "Mâchoires de fer" #NT!
- voracious_hunger_perk_name: "Faim vorace" #NT!
- tsunami_form_perk_name: "Formulaire de tsunami" #NT!
- teanois_rage_perk_name: "La rage de Teanoi" #NT!
-  
+    rokeagifts_visible: "Cadeaux rokaa"
+    brightwatergifts_visible: "Cadeaux eau vive"
+    dimwatergifts_visible: "Cadeaux dimwater"
+    darkwatergifts_visible: "Cadeaux eaux sombres"
+    same_bitogifts_visible: "Cadeaux Same-Bito"
+
+    NEEDS_BRIGHTWATER_TEXT: "@warning_icon!#X Nécessite le [GetTrait('brightwater').GetName( GetPlayer )] [traits|E] pour acheter des avantages dans cet arbre.#!"
+    NEEDS_DIMWATER_TEXT: "@warning_icon!#X Nécessite le [GetTrait('dimwater').GetName( GetPlayer )] [traits|E] pour acheter des avantages dans cet arbre.#!"
+    NEEDS_DARKWATER_TEXT: "@warning_icon!#X Nécessite le [GetTrait('darkwater').GetName( GetPlayer )] [traits|E] pour acheter des avantages dans cet arbre.#!"
+
+    fast_perk_name: "Rapide"
+    sense_threat_perk_name: "Sentir la menace"
+    unseas_blessing_perk_name: "La bénédiction d'Unsea"
+    fathom_sight_perk_name: "Vue de brasse"
+    kuns_warning_perk_name: "L'avertissement de Kun"
+    salmons_return_perk_name: "Le retour du saumon"
+    mindless_fight_perk_name: "Combat insensé"
+    oceans_peace_perk_name: "La paix de l'océan"
+
+    UNSEAS_BLESSING_PERK_EFFECT: "En tant que [character_interaction|E], vous permet de panser vos blessures."
+    MINDLESS_FIGHT_PERK_EFFECT: "En tant que [character_interaction|E], vous permet de canaliser votre rage pour gagner [GetModifier( 'mindless_fight_perk_modifier' ).GetNameWithTooltip|L]."
+
+    eyes_of_the_wound_perk_name: "Les yeux de la blessure"
+    rokea_restraint_perk_name: "Retenue"
+    unseen_attack_perk_name: "Attaque invisible"
+    first_feeling_perk_name: "Premier sentiment"
+    narkes_gift_perk_name: "Le cadeau de Narke"
+    undertow_perk_name: "Reflux"
+    bends_perk_name: "Coudes"
+    schools_fear_perk_name: "La peur de l'école"
+    wriggling_teeth_perk_name: "Dents frétillantes"
+    best_policy_perk_name: "Meilleure politique"
+    no_walls_perk_name: "Pas de murs"
+    overseas_cycle_perk_name: "Le cycle d'outre-mer"
+    pain_of_the_wound_perk_name: "Douleur de la blessure"
+    scuttle_perk_name: "Saborder"
+    seas_winds_perk_name: "Les vents de la mer"
+
+    FIRST_FEELING_PERK_EFFECT: "Donnez un modificateur [GetModifier('first_feeling_perk_modifier').GetNameWithTooltip] aux commandants ennemis en guerre en tant que commandant."
+    BENDS_PERK_EFFECT: "Donnez le modificateur [GetModifier('bends_perk_modifier').GetNameWithTooltip] à l'ennemi [knights|E] en guerre en tant que commandant ou à l'ennemi en [single_combat_duel|E]."
+    SCHOOLS_FEAR_PERK_EFFECT: "Donnez un modificateur [GetModifier('schools_fear_perk_modifier').GetNameWithTooltip] aux commandants ennemis en guerre en tant que commandant."
+    PAIN_OF_THE_WOUND_PERK_EFFECT: "Blesser l'ennemi [knights|E] en guerre en tant que commandant ou ennemi au [single_combat_duel|E]."
+    SEAS_WINDS_PERK_EFFECT: "Blessez l'ennemi [knights|E] et les commandants en guerre en tant que commandant ou ennemi au [single_combat_duel|E], s'ils sont des vampires (ou d'autres surnaturels qui craignent le soleil)."
+    SCUTTLE_PERK_EFFECT: "En tant que [character_interaction|E], permet de faire subir à une cible voyageant en mer un accident de mer, la blessant ou la noyant."
+
+    king_fish_perk_name: "Poisson roi"
+    strange_blood_perk_name: "Sang étrange"
+    true_intentions_perk_name: "Vraies intentions"
+    crushing_depths_perk_name: "Profondeurs de concassage"
+    know_overseas_mind_perk_name: "Connaître l'esprit d'outre-mer"
+    spit_teeth_perk_name: "Cracher des dents"
+    rokea_drown_perk_name: "Noyer"
+    lure_perk_name: "Leurre"
+    seas_wisdom_perk_name: "La sagesse de la mer"
+    living_sea_perk_name: "Mer vivante"
+    overseas_wrath_perk_name: "La colère d'outre-mer"
+    swim_underseas_bloodstream_perk_name: "Nager dans le sang sous-marin"
+    common_foe_perk_name: "Ennemi commun"
+    leviathan_perk_name: "Léviathan"
+    wound_undersea_perk_name: "Blessure sous-marine"
+
+    CRUSHING_DEPTHS_PERK_EFFECT: "Donnez le modificateur [GetModifier('crushing_depths_perk_modifier').GetNameWithTooltip] à l'ennemi [knights|E] en guerre en tant que commandant ou à l'ennemi en [single_combat_duel|E]."
+    ROKEA_DROWN_PERK_EFFECT: "Donnez un modificateur [GetModifier('rokea_drown_perk_modifier').GetNameWithTooltip] aux commandants ennemis en guerre en tant que commandant."
+    LURE_PERK_EFFECT: "Donnez un modificateur [GetModifier('lure_perk_modifier').GetNameWithTooltip] aux commandants ennemis en guerre en tant que commandant."
+    OVERSEAS_WRATH_PERK_EFFECT: "En tant que [character_interaction|E], permet de faire subir à une cible voyageant en mer un accident de mer, la blessant ou la noyant."
+    SWIM_UNDERSEAS_BLOODSTREAM_PERK_EFFECT: "En tant que [character_interaction|E], vous permet de vous téléporter vers l'emplacement cible."
+    COMMON_FOE_PERK_EFFECT: "En tant que [character_interaction|E], vous permet d'appeler une cible non contrôlée par le Wyrm pour qu'elle rejoigne une guerre contre un ennemi contrôlé par le Wyrm."
+    LEVIATHAN_PERK_EFFECT: "Débloquez l'option de changement de forme [GetModifier( 'POD_shapeshift_form_leviathan_modifier' ).GetNameWithTooltip|L]."
+    WOUND_UNDERSEA_PERK_EFFECT: "En tant que [character_interaction|E], vous permet de déclencher un [GetModifier( 'wound_undersea_modifier' ).GetNameWithTooltip|L] au-dessus des côtes d'un royaume ennemi."
+
+    blood_of_the_deeps_perk_name: "Sang des profondeurs"
+    silent_sending_perk_name: "Envoi silencieux"
+    chill_perk_name: "Froideur"
+    enter_seas_soul_perk_name: "Entrez dans l'âme de la mer"
+    piercing_shriek_perk_name: "Cri perçant"
+    voice_of_the_depths_perk_name: "Voix des profondeurs"
+    no_blood_perk_name: "Pas de sang"
+    summon_scuttlers_perk_name: "Invoquer des Scuttlers"
+    swim_through_the_school_perk_name: "Nager à travers l'école"
+    seas_breath_perk_name: "Le souffle de la mer"
+    shock_wave_perk_name: "Onde de choc"
+    waves_passage_perk_name: "Passage des vagues"
+    hunger_of_the_trench_perk_name: "La faim de la tranchée"
+    overseas_gift_perk_name: "Le cadeau d'outre-mer"
+    pall_perk_name: "Voile"
+    cets_shell_perk_name: "C'est Shell"
+
+    shou_of_zhong_lung_perk_name: "Shou of Zhong Lung"
+    blood_scent_perk_name: "Parfum de sang"
+    sight_without_sight_perk_name: "La vue sans la vue"
+    iron_jaws_perk_name: "Mâchoires de fer"
+    voracious_hunger_perk_name: "Faim vorace"
+    tsunami_form_perk_name: "Formulaire de tsunami"
+    teanois_rage_perk_name: "La rage de Teanoi"

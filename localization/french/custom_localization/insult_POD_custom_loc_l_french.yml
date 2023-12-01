@@ -1,220 +1,224 @@
 ﻿l_french:
-  #InsultNoun 
-  
- POD_insult_vampire: "sangsue" #NT!
- POD_insult_supehunter: "fanatique" #NT!
- POD_insult_werewolf: "chien" #NT!
- POD_insult_bastet: "minou" #NT!
- POD_insult_ajaba: "chien" #NT!
- POD_insult_corax: "oiseau charogne" #NT!
- POD_insult_gurahl: "tapis de sol" #NT!
- POD_insult_kitsune: "chien" #NT!
- POD_insult_mokole: "bagage" #NT!
- POD_insult_nagah: "ver" #NT!
- POD_insult_nuwisha: "coyote" #NT!
- POD_insult_ratkin: "vermine" #NT!
- POD_insult_rokea: "poisson" #NT!
- POD_insult_apis: "vache" #NT!
- POD_insult_camazotz: "rat volant" #NT!
- POD_insult_grondr: "cochon" #NT!
- POD_insult_ananasi: "bogue" #NT!
- POD_insult_mage: "démoniste" #NT!
- POD_insult_wraith: "fantôme" #NT!
- POD_insult_fae: "fée" #NT!
- POD_insult_mummy: "séché" #NT!
- POD_insult_mortal: "bétail" #NT!
- POD_insult_gangrel: "animal" #NT!
- POD_insult_assamite: "Sarrasin" #NT!
- POD_insult_brujah: "écume" #NT!
- POD_insult_cappadocian: "pilleur de tombes" #NT!
- POD_insult_lasombra_male: "padrino" #NT!
- POD_insult_lasombra_female: "madrina" #NT!
- POD_insult_malkavian_male: "aruspice" #NT!
- POD_insult_malkavian_female: "Cassandre" #NT!
- POD_insult_nosferatu: "lépreux" #NT!
- POD_insult_ravnos: "charlatan" #NT!
- POD_insult_setite: "serpent" #NT!
- POD_insult_toreador: "dégénérer" #NT!
- POD_insult_tremere: "usurpateur" #NT!
- POD_insult_tzimisce: "démon" #NT!
- POD_insult_ventrue: "patricien" #NT!
- POD_insult_anda: "tartre" #NT!
- POD_insult_baali: "diable" #NT!
- POD_insult_childeofosiris: "pharaon" #NT!
- POD_insult_impundulu: "familier" #NT!
- POD_insult_kiasyd: "embêtant" #NT!
- POD_insult_lamia: "gorgone" #NT!
- POD_insult_nagaraja: "cannibale" #NT!
- POD_insult_ramanga: "sangsue" #NT!
- POD_insult_salubri: "cyclope" #NT!
- POD_insult_ghoul: "servitude" #NT!
- POD_insult_revenant: "métis" #NT!
- POD_insult_diablerist: "mangeur d'âme" #NT!
- POD_insult_infernalist: "diable" #NT!
- POD_insult_oathbreaker: "menteur" #NT!
-  
-  #InsultAdjective 
- POD_insult_adjective_vampire: "damné" #NT!
- POD_insult_adjective_supehunter: "fou" #NT!
- POD_insult_adjective_werewolf: "aboiement" #NT!
- POD_insult_adjective_bastet: "errer" #NT!
- POD_insult_adjective_ajaba: "en riant" #NT!
- POD_insult_adjective_corax: "crier" #NT!
- POD_insult_adjective_gurahl: "grognement" #NT!
- POD_insult_adjective_kitsune: "jappant" #NT!
- POD_insult_adjective_mokole: "grognement" #NT!
- POD_insult_adjective_nagah: "sifflant" #NT!
- POD_insult_adjective_nuwisha: "fou rire" #NT!
- POD_insult_adjective_ratkin: "grinçant" #NT!
- POD_insult_adjective_rokea: "pleurer" #NT!
- POD_insult_adjective_apis: "meugler" #NT!
- POD_insult_adjective_camazotz: "sifflant" #NT!
- POD_insult_adjective_grondr: "oinking" #NT!
- POD_insult_adjective_ananasi: "sifflant" #NT!
- POD_insult_adjective_mage: "profane" #NT!
- POD_insult_adjective_wraith: "agité" #NT!
- POD_insult_adjective_fae: "ridicule" #NT!
- POD_insult_adjective_mummy: "bandé" #NT!
- POD_insult_adjective_mortal: "impuissant" #NT!
- POD_insult_adjective_gangrel: "bestial" #NT!
- POD_insult_adjective_assamite: "sanguinaire" #NT!
- POD_insult_adjective_brujah: "rebelle" #NT!
- POD_insult_adjective_cappadocian: "dégoûtant" #NT!
- POD_insult_adjective_lasombra_male: "intrigant" #NT!
- POD_insult_adjective_lasombra_female: "intrigant" #NT!
- POD_insult_adjective_malkavian_male: "alarmant" #NT!
- POD_insult_adjective_malkavian_female: "hystérique" #NT!
- POD_insult_adjective_nosferatu: "maudit" #NT!
- POD_insult_adjective_ravnos: "couché" #NT!
- POD_insult_adjective_setite: "à langue fourchue" #NT!
- POD_insult_adjective_toreador: "débauché" #NT!
- POD_insult_adjective_tremere: "indigne de confiance" #NT!
- POD_insult_adjective_tzimisce: "inhumain" #NT!
- POD_insult_adjective_ventrue: "avide de pouvoir" #NT!
- POD_insult_adjective_anda: "barbare" #NT!
- POD_insult_adjective_baali: "infernal" #NT!
- POD_insult_adjective_childeofosiris: "prétentieux" #NT!
- POD_insult_adjective_impundulu: "servile" #NT!
- POD_insult_adjective_kiasyd: "bizarre" #NT!
- POD_insult_adjective_lamia: "toxique" #NT!
- POD_insult_adjective_nagaraja: "affamé" #NT!
- POD_insult_adjective_ramanga: "parasite" #NT!
- POD_insult_adjective_salubri: "âme" #NT!
- POD_insult_adjective_ghoul: "accro au sang" #NT!
- POD_insult_adjective_revenant: "incestueux" #NT!
- POD_insult_adjective_diablerist: "méprisable" #NT!
- POD_insult_adjective_infernalist: "infernal" #NT!
- POD_insult_adjective_oathbreaker: "trompeur" #NT!
-  
-  #InsultAdjectiveArticle 
- POD_insult_adjective_article_vampire: "un damné" #NT!
- POD_insult_adjective_article_supehunter: "un fou" #NT!
- POD_insult_adjective_article_werewolf: "un aboiement" #NT!
- POD_insult_adjective_article_bastet: "égaré" #NT!
- POD_insult_adjective_article_ajaba: "un rire" #NT!
- POD_insult_adjective_article_corax: "un cri" #NT!
- POD_insult_adjective_article_gurahl: "un grognement" #NT!
- POD_insult_adjective_article_kitsune: "un jappement" #NT!
- POD_insult_adjective_article_mokole: "un grognement" #NT!
- POD_insult_adjective_article_nagah: "un sifflement" #NT!
- POD_insult_adjective_article_nuwisha: "un rire" #NT!
- POD_insult_adjective_article_ratkin: "un grincement" #NT!
- POD_insult_adjective_article_rokea: "un pleurnicherie" #NT!
- POD_insult_adjective_article_apis: "un meuglement" #NT!
- POD_insult_adjective_article_camazotz: "un sifflement" #NT!
- POD_insult_adjective_article_grondr: "un clin d'œil" #NT!
- POD_insult_adjective_article_ananasi: "un sifflement" #NT!
- POD_insult_adjective_article_mage: "un profane" #NT!
- POD_insult_adjective_article_wraith: "un agité" #NT!
- POD_insult_adjective_article_fae: "un ridicule" #NT!
- POD_insult_adjective_article_mummy: "un bandé" #NT!
- POD_insult_adjective_article_mortal: "un impuissant" #NT!
- POD_insult_adjective_article_gangrel: "une bête" #NT!
- POD_insult_adjective_article_assamite: "un sanguinaire" #NT!
- POD_insult_adjective_article_brujah: "un rebelle" #NT!
- POD_insult_adjective_article_cappadocian: "un dégoûtant" #NT!
- POD_insult_adjective_article_lasombra_male: "un endroit ombragé" #NT!
- POD_insult_adjective_article_lasombra_female: "un endroit ombragé" #NT!
- POD_insult_adjective_article_malkavian_male: "un alarmant" #NT!
- POD_insult_adjective_article_malkavian_female: "un hystérique" #NT!
- POD_insult_adjective_article_nosferatu: "un maudit" #NT!
- POD_insult_adjective_article_ravnos: "un mensonge" #NT!
- POD_insult_adjective_article_setite: "une langue fourchue" #NT!
- POD_insult_adjective_article_toreador: "un débauché" #NT!
- POD_insult_adjective_article_tremere: "un indigne de confiance" #NT!
- POD_insult_adjective_article_tzimisce: "un inhumain" #NT!
- POD_insult_adjective_article_ventrue: "un avide de pouvoir" #NT!
- POD_insult_adjective_article_anda: "un barbare" #NT!
- POD_insult_adjective_article_baali: "un infernal" #NT!
- POD_insult_adjective_article_childeofosiris: "un prétentieux" #NT!
- POD_insult_adjective_article_impundulu: "un esclave" #NT!
- POD_insult_adjective_article_kiasyd: "un bizarre" #NT!
- POD_insult_adjective_article_lamia: "un poison" #NT!
- POD_insult_adjective_article_nagaraja: "un affamé" #NT!
- POD_insult_adjective_article_ramanga: "un parasite" #NT!
- POD_insult_adjective_article_salubri: "un soulageant" #NT!
- POD_insult_adjective_article_ghoul: "un accro au sang" #NT!
- POD_insult_adjective_article_revenant: "un inceste" #NT!
- POD_insult_adjective_article_diablerist: "un méprisable" #NT!
- POD_insult_adjective_article_infernalist: "un infernal" #NT!
- POD_insult_adjective_article_oathbreaker: "un trompeur" #NT!
-  
-  #InsultBehavior 
- POD_insult_behavior_vampire: "parasitisme" #NT!
- POD_insult_behavior_supehunter: "bigoterie" #NT!
- POD_insult_behavior_werewolf: "bestialité" #NT!
- POD_insult_behavior_bastet: "amoureux des chats" #NT!
- POD_insult_behavior_ajaba: "bestialité" #NT!
- POD_insult_behavior_corax: "bestialité" #NT!
- POD_insult_behavior_gurahl: "bestialité" #NT!
- POD_insult_behavior_kitsune: "bestialité" #NT!
- POD_insult_behavior_mokole: "bestialité" #NT!
- POD_insult_behavior_nagah: "bestialité" #NT!
- POD_insult_behavior_nuwisha: "bestialité" #NT!
- POD_insult_behavior_ratkin: "bestialité" #NT!
- POD_insult_behavior_rokea: "bestialité" #NT!
- POD_insult_behavior_apis: "bestialité" #NT!
- POD_insult_behavior_camazotz: "bestialité" #NT!
- POD_insult_behavior_grondr: "bestialité" #NT!
- POD_insult_behavior_ananasi: "bestialité" #NT!
- POD_insult_behavior_mage: "grossièreté" #NT!
- POD_insult_behavior_wraith: "un autre monde" #NT!
- POD_insult_behavior_fae: "bizarrerie" #NT!
- POD_insult_behavior_mummy: "pharaonique" #NT!
- POD_insult_behavior_mortal: "impuissance" #NT!
- POD_insult_behavior_gangrel: "bestialité" #NT!
- POD_insult_behavior_assamite: "meurtre" #NT!
- POD_insult_behavior_brujah: "futilité" #NT!
- POD_insult_behavior_cappadocian: "dégoûtant" #NT!
- POD_insult_behavior_lasombra_male: "ombre" #NT!
- POD_insult_behavior_lasombra_female: "ombre" #NT!
- POD_insult_behavior_malkavian_male: "hystérie" #NT!
- POD_insult_behavior_malkavian_female: "hystérie" #NT!
- POD_insult_behavior_nosferatu: "malédiction" #NT!
- POD_insult_behavior_ravnos: "manque de fiabilité" #NT!
- POD_insult_behavior_setite: "manque de fiabilité" #NT!
- POD_insult_behavior_toreador: "débauche" #NT!
- POD_insult_behavior_tremere: "manque de fiabilité" #NT!
- POD_insult_behavior_tzimisce: "inhumanité" #NT!
- POD_insult_behavior_ventrue: "ambition" #NT!
- POD_insult_behavior_anda: "barbarisme" #NT!
- POD_insult_behavior_baali: "infernalisme" #NT!
- POD_insult_behavior_childeofosiris: "prétention" #NT!
- POD_insult_behavior_impundulu: "servitude" #NT!
- POD_insult_behavior_kiasyd: "bizarrerie" #NT!
- POD_insult_behavior_lamia: "empoisonnement" #NT!
- POD_insult_behavior_nagaraja: "faim" #NT!
- POD_insult_behavior_ramanga: "parasitisme" #NT!
- POD_insult_behavior_salubri: "gourmandise de l'âme" #NT!
- POD_insult_behavior_ghoul: "dépendance au sang" #NT!
- POD_insult_behavior_revenant: "incestueux" #NT!
- POD_insult_behavior_diablerist: "méprisable" #NT!
- POD_insult_behavior_infernalist: "infernalisme" #NT!
- POD_insult_behavior_oathbreaker: "fausseté" #NT!
-  
-  #InsultSentence 
- POD_insult_sentence_gangrel: "tu es une bête vilaine, à peine plus qu'un chien" #NT!
-  
-  #PointOfRidicule 
- POD_insistent_barking: "aboiements insistants" #NT!
-  
+    #InsultNoun
+
+    POD_insult_vampire: "sangsue"
+    POD_insult_supehunter: "fanatique"
+    POD_insult_werewolf: "chien"
+    POD_insult_bastet: "minou"
+    POD_insult_ajaba: "chien"
+    POD_insult_corax: "oiseau charogne"
+    POD_insult_gurahl: "tapis de sol"
+    POD_insult_kitsune: "chien"
+    POD_insult_mokole: "bagage"
+    POD_insult_nagah: "ver"
+    POD_insult_nuwisha: "coyote"
+    POD_insult_ratkin: "vermine"
+    POD_insult_rokea: "poisson"
+    POD_insult_apis: "vache"
+    POD_insult_camazotz: "rat volant"
+    POD_insult_grondr: "cochon"
+    POD_insult_ananasi: "bogue"
+    POD_insult_mage: "démoniste"
+    POD_insult_wraith: "fantôme"
+    POD_insult_fae: "fée"
+    POD_insult_mummy: "séché"
+    POD_insult_mortal: "bétail"
+    POD_insult_gangrel: "animal"
+    POD_insult_assamite: "Sarrasin"
+    POD_insult_brujah: "écume"
+    POD_insult_cappadocian: "pilleur de tombes"
+    POD_insult_lasombra_male: "padrino"
+    POD_insult_lasombra_female: "madrina"
+    POD_insult_malkavian_male: "aruspice"
+    POD_insult_malkavian_female: "Cassandre"
+    POD_insult_nosferatu: "lépreux"
+    POD_insult_ravnos: "charlatan"
+    POD_insult_setite: "serpent"
+    POD_insult_toreador: "dégénérer"
+    POD_insult_tremere: "usurpateur"
+    POD_insult_tzimisce: "démon"
+    POD_insult_ventrue: "patricien"
+    POD_insult_anda: "tartre"
+    POD_insult_baali: "diable"
+    POD_insult_childeofosiris: "pharaon"
+    POD_insult_impundulu: "familier"
+    POD_insult_kiasyd: "embêtant"
+    POD_insult_lamia: "gorgone"
+    POD_insult_nagaraja: "cannibale"
+    POD_insult_ramanga: "sangsue"
+    POD_insult_salubri: "cyclope"
+    POD_insult_ghoul: "servitude"
+    POD_insult_revenant: "métis"
+    POD_insult_diablerist: "mangeur d'âme"
+    POD_insult_infernalist: "diable"
+    POD_insult_oathbreaker:
+        "menteur"
+
+        #InsultAdjective
+    POD_insult_adjective_vampire: "damné"
+    POD_insult_adjective_supehunter: "fou"
+    POD_insult_adjective_werewolf: "aboiement"
+    POD_insult_adjective_bastet: "errer"
+    POD_insult_adjective_ajaba: "en riant"
+    POD_insult_adjective_corax: "crier"
+    POD_insult_adjective_gurahl: "grognement"
+    POD_insult_adjective_kitsune: "jappant"
+    POD_insult_adjective_mokole: "grognement"
+    POD_insult_adjective_nagah: "sifflant"
+    POD_insult_adjective_nuwisha: "fou rire"
+    POD_insult_adjective_ratkin: "grinçant"
+    POD_insult_adjective_rokea: "pleurer"
+    POD_insult_adjective_apis: "meugler"
+    POD_insult_adjective_camazotz: "sifflant"
+    POD_insult_adjective_grondr: "oinking"
+    POD_insult_adjective_ananasi: "sifflant"
+    POD_insult_adjective_mage: "profane"
+    POD_insult_adjective_wraith: "agité"
+    POD_insult_adjective_fae: "ridicule"
+    POD_insult_adjective_mummy: "bandé"
+    POD_insult_adjective_mortal: "impuissant"
+    POD_insult_adjective_gangrel: "bestial"
+    POD_insult_adjective_assamite: "sanguinaire"
+    POD_insult_adjective_brujah: "rebelle"
+    POD_insult_adjective_cappadocian: "dégoûtant"
+    POD_insult_adjective_lasombra_male: "intrigant"
+    POD_insult_adjective_lasombra_female: "intrigant"
+    POD_insult_adjective_malkavian_male: "alarmant"
+    POD_insult_adjective_malkavian_female: "hystérique"
+    POD_insult_adjective_nosferatu: "maudit"
+    POD_insult_adjective_ravnos: "couché"
+    POD_insult_adjective_setite: "à langue fourchue"
+    POD_insult_adjective_toreador: "débauché"
+    POD_insult_adjective_tremere: "indigne de confiance"
+    POD_insult_adjective_tzimisce: "inhumain"
+    POD_insult_adjective_ventrue: "avide de pouvoir"
+    POD_insult_adjective_anda: "barbare"
+    POD_insult_adjective_baali: "infernal"
+    POD_insult_adjective_childeofosiris: "prétentieux"
+    POD_insult_adjective_impundulu: "servile"
+    POD_insult_adjective_kiasyd: "bizarre"
+    POD_insult_adjective_lamia: "toxique"
+    POD_insult_adjective_nagaraja: "affamé"
+    POD_insult_adjective_ramanga: "parasite"
+    POD_insult_adjective_salubri: "âme"
+    POD_insult_adjective_ghoul: "accro au sang"
+    POD_insult_adjective_revenant: "incestueux"
+    POD_insult_adjective_diablerist: "méprisable"
+    POD_insult_adjective_infernalist: "infernal"
+    POD_insult_adjective_oathbreaker:
+        "trompeur"
+
+        #InsultAdjectiveArticle
+    POD_insult_adjective_article_vampire: "un damné"
+    POD_insult_adjective_article_supehunter: "un fou"
+    POD_insult_adjective_article_werewolf: "un aboiement"
+    POD_insult_adjective_article_bastet: "égaré"
+    POD_insult_adjective_article_ajaba: "un rire"
+    POD_insult_adjective_article_corax: "un cri"
+    POD_insult_adjective_article_gurahl: "un grognement"
+    POD_insult_adjective_article_kitsune: "un jappement"
+    POD_insult_adjective_article_mokole: "un grognement"
+    POD_insult_adjective_article_nagah: "un sifflement"
+    POD_insult_adjective_article_nuwisha: "un rire"
+    POD_insult_adjective_article_ratkin: "un grincement"
+    POD_insult_adjective_article_rokea: "un pleurnicherie"
+    POD_insult_adjective_article_apis: "un meuglement"
+    POD_insult_adjective_article_camazotz: "un sifflement"
+    POD_insult_adjective_article_grondr: "un clin d'œil"
+    POD_insult_adjective_article_ananasi: "un sifflement"
+    POD_insult_adjective_article_mage: "un profane"
+    POD_insult_adjective_article_wraith: "un agité"
+    POD_insult_adjective_article_fae: "un ridicule"
+    POD_insult_adjective_article_mummy: "un bandé"
+    POD_insult_adjective_article_mortal: "un impuissant"
+    POD_insult_adjective_article_gangrel: "une bête"
+    POD_insult_adjective_article_assamite: "un sanguinaire"
+    POD_insult_adjective_article_brujah: "un rebelle"
+    POD_insult_adjective_article_cappadocian: "un dégoûtant"
+    POD_insult_adjective_article_lasombra_male: "un endroit ombragé"
+    POD_insult_adjective_article_lasombra_female: "un endroit ombragé"
+    POD_insult_adjective_article_malkavian_male: "un alarmant"
+    POD_insult_adjective_article_malkavian_female: "un hystérique"
+    POD_insult_adjective_article_nosferatu: "un maudit"
+    POD_insult_adjective_article_ravnos: "un mensonge"
+    POD_insult_adjective_article_setite: "une langue fourchue"
+    POD_insult_adjective_article_toreador: "un débauché"
+    POD_insult_adjective_article_tremere: "un indigne de confiance"
+    POD_insult_adjective_article_tzimisce: "un inhumain"
+    POD_insult_adjective_article_ventrue: "un avide de pouvoir"
+    POD_insult_adjective_article_anda: "un barbare"
+    POD_insult_adjective_article_baali: "un infernal"
+    POD_insult_adjective_article_childeofosiris: "un prétentieux"
+    POD_insult_adjective_article_impundulu: "un esclave"
+    POD_insult_adjective_article_kiasyd: "un bizarre"
+    POD_insult_adjective_article_lamia: "un poison"
+    POD_insult_adjective_article_nagaraja: "un affamé"
+    POD_insult_adjective_article_ramanga: "un parasite"
+    POD_insult_adjective_article_salubri: "un soulageant"
+    POD_insult_adjective_article_ghoul: "un accro au sang"
+    POD_insult_adjective_article_revenant: "un inceste"
+    POD_insult_adjective_article_diablerist: "un méprisable"
+    POD_insult_adjective_article_infernalist: "un infernal"
+    POD_insult_adjective_article_oathbreaker:
+        "un trompeur"
+
+        #InsultBehavior
+    POD_insult_behavior_vampire: "parasitisme"
+    POD_insult_behavior_supehunter: "bigoterie"
+    POD_insult_behavior_werewolf: "bestialité"
+    POD_insult_behavior_bastet: "amoureux des chats"
+    POD_insult_behavior_ajaba: "bestialité"
+    POD_insult_behavior_corax: "bestialité"
+    POD_insult_behavior_gurahl: "bestialité"
+    POD_insult_behavior_kitsune: "bestialité"
+    POD_insult_behavior_mokole: "bestialité"
+    POD_insult_behavior_nagah: "bestialité"
+    POD_insult_behavior_nuwisha: "bestialité"
+    POD_insult_behavior_ratkin: "bestialité"
+    POD_insult_behavior_rokea: "bestialité"
+    POD_insult_behavior_apis: "bestialité"
+    POD_insult_behavior_camazotz: "bestialité"
+    POD_insult_behavior_grondr: "bestialité"
+    POD_insult_behavior_ananasi: "bestialité"
+    POD_insult_behavior_mage: "grossièreté"
+    POD_insult_behavior_wraith: "un autre monde"
+    POD_insult_behavior_fae: "bizarrerie"
+    POD_insult_behavior_mummy: "pharaonique"
+    POD_insult_behavior_mortal: "impuissance"
+    POD_insult_behavior_gangrel: "bestialité"
+    POD_insult_behavior_assamite: "meurtre"
+    POD_insult_behavior_brujah: "futilité"
+    POD_insult_behavior_cappadocian: "dégoûtant"
+    POD_insult_behavior_lasombra_male: "ombre"
+    POD_insult_behavior_lasombra_female: "ombre"
+    POD_insult_behavior_malkavian_male: "hystérie"
+    POD_insult_behavior_malkavian_female: "hystérie"
+    POD_insult_behavior_nosferatu: "malédiction"
+    POD_insult_behavior_ravnos: "manque de fiabilité"
+    POD_insult_behavior_setite: "manque de fiabilité"
+    POD_insult_behavior_toreador: "débauche"
+    POD_insult_behavior_tremere: "manque de fiabilité"
+    POD_insult_behavior_tzimisce: "inhumanité"
+    POD_insult_behavior_ventrue: "ambition"
+    POD_insult_behavior_anda: "barbarisme"
+    POD_insult_behavior_baali: "infernalisme"
+    POD_insult_behavior_childeofosiris: "prétention"
+    POD_insult_behavior_impundulu: "servitude"
+    POD_insult_behavior_kiasyd: "bizarrerie"
+    POD_insult_behavior_lamia: "empoisonnement"
+    POD_insult_behavior_nagaraja: "faim"
+    POD_insult_behavior_ramanga: "parasitisme"
+    POD_insult_behavior_salubri: "gourmandise de l'âme"
+    POD_insult_behavior_ghoul: "dépendance au sang"
+    POD_insult_behavior_revenant: "incestueux"
+    POD_insult_behavior_diablerist: "méprisable"
+    POD_insult_behavior_infernalist: "infernalisme"
+    POD_insult_behavior_oathbreaker:
+        "fausseté"
+
+        #InsultSentence
+    POD_insult_sentence_gangrel:
+        "tu es une bête vilaine, à peine plus qu'un chien"
+
+        #PointOfRidicule
+    POD_insistent_barking: "aboiements insistants"

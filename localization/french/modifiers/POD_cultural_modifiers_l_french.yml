@@ -1,9 +1,8 @@
 ﻿l_french:
- hungarian_opinion: "Opinion hongroise" #NT!
- andalusian_opinion: "Opinion andalouse" #NT!
- greek_opinion: "Opinion grecque" #NT!
- roman_opinion: "Opinion romaine" #NT!
- bedouin_opinion: "Opinion bédouine" #NT!
- french_opinion: "Opinion française" #NT!
- english_opinion: "Opinion anglaise" #NT!
-  
+    hungarian_opinion: "Opinion hongroise"
+    andalusian_opinion: "Opinion andalouse"
+    greek_opinion: "Opinion grecque"
+    roman_opinion: "Opinion romaine"
+    bedouin_opinion: "Opinion bédouine"
+    french_opinion: "Opinion française"
+    english_opinion: "Opinion anglaise"

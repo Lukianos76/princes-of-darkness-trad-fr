@@ -1,27 +1,27 @@
 ﻿l_french:
- POD_create_coterie_interaction: "Créer un [GetPlayer.Custom('PODCoterieNoTooltip')]" #NT!
- POD_create_coterie_interaction_desc: "[GetPlayer.GetShortUINameNoTooltip|U] deviendra le fondateur d'un nouveau [GetPlayer.Custom('PODCoterie')]." #NT!
- POD_create_coterie_interaction_effect: "#V [actor.GetFirstNameNoTooltip]#! deviendra le fondateur d'un nouveau [GetPlayer.Custom('PODCoterie')]." #NT!
- POD_create_coterie_interaction_effect2: "Vous pourrez choisir son nom." #NT!
-  
- POD_invite_to_coterie_interaction: "Inviter à [GetPlayer.Custom('PODGetCoterieName')]" #NT!
- POD_invite_to_coterie_interaction_desc: "[recipient.GetShortUINameNoTooltip] deviendra membre de votre [GetPlayer.Custom('PODCoterie')]." #NT!
- POD_invite_to_coterie_interaction_effect: "[recipient.GetShortUIName] deviendra membre de votre [GetPlayer.Custom('PODCoterie')]." #NT!
- POD_coterie_opinion_requirement_tt: "[recipient.GetShortUIName] doit avoir au moins 50 [opinion|E] d'entre vous" #NT!
- POD_at_coterie_size_cap: "Votre [GetPlayer.Custom('PODCoterie')] compte déjà [EmptyScope.ScriptValue('coterie_max_size')] membres" #NT!
- POD_coterie_requirement_same_realm: "[recipient.GetShortUIName] doit faire partie du même [realm|E] que vous" #NT!
- POD_recipient_already_has_coterie: "[recipient.GetShortUIName] est déjà membre de #bold [recipient.Custom('PODGetCoterieName')]#!" #NT!
- POD_invite_to_coterie_interaction_mortal: "Vous ne pouvez pas inviter $POD_splat_mortal_plural$ sur votre [GetPlayer.Custom('PODCoterie')]" #NT!
- POD_invite_to_coterie_interaction_mortal_thrall: "Vous ne pouvez pas inviter $POD_splat_mortal_plural$ sur votre [GetPlayer.Custom('PODCoterie')] à moins qu'il ne s'agisse de votre [thrall|E]." #NT!
- POD_invite_to_coterie_interaction_mortal_neteru: "Vous ne pouvez pas inviter $POD_splat_mortal_plural$ sur votre [GetPlayer.Custom('PODCoterie')] à moins qu'il ne s'agisse de votre [neteru|E]." #NT!
- POD_invite_to_coterie_interaction_packbond: "Gardez à l'esprit que $POD_splat_werewolf_plural$ est lié à son [coterie_werewolf|E] à vie, vous ne pourrez donc pas expulser [recipient.GetHerHim] plus tard." #NT!
- POD_invite_to_coterie_interaction_rivalry: "L'adhésion #help [GetPlayer.Custom('PODCoterie')] est considérée comme un engagement. Vous pourrez expulser [recipient.GetShortUIName] plus tard, mais [recipient.GetSheHe] deviendra votre [rival|E] si vous le faites.#!" #NT!
-  
- POD_kick_from_coterie_interaction: "Expulser du [GetPlayer.Custom('PODGetCoterieName')]" #NT!
- POD_kick_from_coterie_interaction_desc: "[recipient.GetShortUINameNoTooltip] ne sera plus membre de votre [GetPlayer.Custom('PODCoterie')]." #NT!
- POD_kick_from_coterie_interaction_packbond: "$POD_splat_werewolf_plural$ ne peut pas expulser les autres membres car ils sont liés à leur [coterie_werewolf|E] à vie" #NT!
-  
- POD_disband_coterie_interaction: "Dissoudre [GetPlayer.Custom('PODGetCoterieName')]" #NT!
- POD_disband_coterie_interaction_desc: "Dissoudre votre [GetPlayer.Custom('PODCoterie')]." #NT!
- POD_disband_coterie_interaction_effect: "Votre [GetPlayer.Custom('PODCoterie')], $POD_player_coterie$, sera dissous." #NT!
- POD_disband_coterie_interaction_packbond: "$POD_splat_werewolf_plural$ ne peut pas dissoudre son [coterie_werewolf|E] à moins qu'il ne reste plus aucun autre membre" #NT!
+    POD_create_coterie_interaction: "Créer un [GetPlayer.Custom('PODCoterieNoTooltip')]"
+    POD_create_coterie_interaction_desc: "[GetPlayer.GetShortUINameNoTooltip|U] deviendra le fondateur d'un nouveau [GetPlayer.Custom('PODCoterie')]."
+    POD_create_coterie_interaction_effect: "#V [actor.GetFirstNameNoTooltip]#! deviendra le fondateur d'un nouveau [GetPlayer.Custom('PODCoterie')]."
+    POD_create_coterie_interaction_effect2: "Vous pourrez choisir son nom."
+
+    POD_invite_to_coterie_interaction: "Inviter à [GetPlayer.Custom('PODGetCoterieName')]"
+    POD_invite_to_coterie_interaction_desc: "[recipient.GetShortUINameNoTooltip] deviendra membre de votre [GetPlayer.Custom('PODCoterie')]."
+    POD_invite_to_coterie_interaction_effect: "[recipient.GetShortUIName] deviendra membre de votre [GetPlayer.Custom('PODCoterie')]."
+    POD_coterie_opinion_requirement_tt: "[recipient.GetShortUIName] doit avoir au moins 50 [opinion|E] d'entre vous"
+    POD_at_coterie_size_cap: "Votre [GetPlayer.Custom('PODCoterie')] compte déjà [EmptyScope.ScriptValue('coterie_max_size')] membres"
+    POD_coterie_requirement_same_realm: "[recipient.GetShortUIName] doit faire partie du même [realm|E] que vous"
+    POD_recipient_already_has_coterie: "[recipient.GetShortUIName] est déjà membre de #bold [recipient.Custom('PODGetCoterieName')]#!"
+    POD_invite_to_coterie_interaction_mortal: "Vous ne pouvez pas inviter $POD_splat_mortal_plural$ sur votre [GetPlayer.Custom('PODCoterie')]"
+    POD_invite_to_coterie_interaction_mortal_thrall: "Vous ne pouvez pas inviter $POD_splat_mortal_plural$ sur votre [GetPlayer.Custom('PODCoterie')] à moins qu'il ne s'agisse de votre [thrall|E]."
+    POD_invite_to_coterie_interaction_mortal_neteru: "Vous ne pouvez pas inviter $POD_splat_mortal_plural$ sur votre [GetPlayer.Custom('PODCoterie')] à moins qu'il ne s'agisse de votre [neteru|E]."
+    POD_invite_to_coterie_interaction_packbond: "Gardez à l'esprit que $POD_splat_werewolf_plural$ est lié à son [coterie_werewolf|E] à vie, vous ne pourrez donc pas expulser [recipient.GetHerHim] plus tard."
+    POD_invite_to_coterie_interaction_rivalry: "L'adhésion #help [GetPlayer.Custom('PODCoterie')] est considérée comme un engagement. Vous pourrez expulser [recipient.GetShortUIName] plus tard, mais [recipient.GetSheHe] deviendra votre [rival|E] si vous le faites.#!"
+
+    POD_kick_from_coterie_interaction: "Expulser du [GetPlayer.Custom('PODGetCoterieName')]"
+    POD_kick_from_coterie_interaction_desc: "[recipient.GetShortUINameNoTooltip] ne sera plus membre de votre [GetPlayer.Custom('PODCoterie')]."
+    POD_kick_from_coterie_interaction_packbond: "$POD_splat_werewolf_plural$ ne peut pas expulser les autres membres car ils sont liés à leur [coterie_werewolf|E] à vie"
+
+    POD_disband_coterie_interaction: "Dissoudre [GetPlayer.Custom('PODGetCoterieName')]"
+    POD_disband_coterie_interaction_desc: "Dissoudre votre [GetPlayer.Custom('PODCoterie')]."
+    POD_disband_coterie_interaction_effect: "Votre [GetPlayer.Custom('PODCoterie')], $POD_player_coterie$, sera dissous."
+    POD_disband_coterie_interaction_packbond: "$POD_splat_werewolf_plural$ ne peut pas dissoudre son [coterie_werewolf|E] à moins qu'il ne reste plus aucun autre membre"

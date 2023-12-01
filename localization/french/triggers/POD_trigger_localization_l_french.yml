@@ -1,117 +1,117 @@
 ﻿l_french:
- is_a_unbondable: "est inattaquable" #NT!
- is_an_oathbreaker: "est un briseur de serment" #NT!
- is_a_vampire: "est un vampire" #NT!
- is_a_mage: "est un mage" #NT!
- is_a_werewolf: "est un loup-garou" #NT!
- is_a_fae: "est un fae" #NT!
- is_a_ghoul: "est une goule" #NT!
- is_a_revenant: "est un [revenant|E]" #NT!
- is_a_demon: "est un démon" #NT!
- is_a_supehunter: "est un chasseur" #NT!
- is_a_mummy: "est une maman" #NT!
- is_a_wraith: "est un spectre" #NT!
- is_a_infernalist: "est un infernaliste" #NT!
- NOT_is_a_infernalist: "est-ce que #Bold n'est pas#! un infernaliste" #NT!
- is_a_diablerist: "est un diaboliste" #NT!
- wall_weak_enough_trigger_tooltip: "Le mur doit être suffisamment faible" #NT!
- i_am_full_of_chi: "Tu es déjà plein de Chi" #NT!
- i_am_full_of_yangchi: "Tu es déjà plein de Yang Chi" #NT!
- i_am_full_of_yinchi: "Tu es déjà plein de Yin Chi" #NT!
- i_am_empty_of_chi: "Vous n'avez #Bold pas#! de Chi" #NT!
- is_a_predatortype_consensualist: "a un consensualiste de type prédateur" #NT!
- is_a_predatortype_familias: "a un type de prédateur familial" #NT!
- is_a_predatortype_cultist: "a un cultiste de type prédateur" #NT!
- is_a_predatortype_bloodleech: "a une sangsue de type prédateur" #NT!
- is_a_predatortype_farmer: "a un agriculteur de type prédateur" #NT!
- is_a_predatortype_gentry: "a une noblesse de type prédateur" #NT!
- is_a_predatortype_graverobber: "a un pilleur de tombes de type prédateur" #NT!
- is_a_predatortype_phlebotomist: "a un phlébotomiste de type prédateur" #NT!
- is_a_predatortype_alleycat: "a un chat de gouttière de type prédateur" #NT!
- is_a_predatortype_bedlamite: "a une bedlamite de type prédateur" #NT!
- is_a_predatortype_cauchemar: "a un cauchemar de type prédateur" #NT!
- is_a_predatortype_cenobite: "a un cénobite de type prédateur" #NT!
- is_a_predatortype_footpad: "a un repose-pieds de type prédateur" #NT!
- is_a_predatortype_siren: "a une sirène de type prédateur" #NT!
- is_a_predatortype_extortionist: "a un extorsion de type prédateur" #NT!
- is_a_vampgeneration1: "est une 1ère génération" #NT!
- is_a_vampgeneration2: "est une 2ème génération" #NT!
- is_a_vampgeneration3: "est une 3ème génération" #NT!
- is_a_vampgeneration4: "est une 4ème génération" #NT!
- is_a_vampgeneration5: "est une 5ème génération" #NT!
- is_a_vampgeneration6: "est une 6ème génération" #NT!
- is_a_vampgeneration7: "est une 7ème génération" #NT!
- is_a_vampgeneration8: "est une 8ème génération" #NT!
- is_a_vampgeneration9: "est une 9ème génération" #NT!
- is_a_vampgeneration10: "est une 10ème génération" #NT!
- is_a_vampgeneration11: "est une 11ème génération" #NT!
- is_a_vampgeneration12: "est une 12ème génération" #NT!
- is_a_vampgeneration13: "est une 13ème génération" #NT!
- is_a_vampgeneration14: "est une 14ème génération" #NT!
- is_a_vampgeneration15: "est une 15ème génération" #NT!
- is_a_vampgeneration16: "est une 16ème génération" #NT!
- STRONG_MENTAL_DEFENSES_TRIGGER: "Ce personnage a des défenses mentales trop fortes" #NT!
- VICTIM_CANNOT_BE_KILLED_PHYSICALLY: "Ce personnage ne peut pas être tué physiquement" #NT!
- NOT_alchemy_craft_slots_are_full: "Tous vos emplacements sont déjà remplis de produits alchimiques" #NT!
- NOT_alchemy_craft_slots_are_empty: "Vous n'avez pas de produits alchimiques" #NT!
- TRAIT_FLAG_DESC_can_not_cure: "@warning_icon !#X Peut ne pas se remettre de ses blessures#!" #NT!
- HAS_TRAIT_WITH_CAN_NOT_CURE_FLAG_TRIGGER: "#bold n'est-il pas#! autorisé à se remettre de ses blessures ?" #NT!
- NOT_HAS_TRAIT_WITH_CAN_NOT_CURE_FLAG_TRIGGER: "Est autorisé à se remettre de ses blessures" #NT!
- I_HAVE_TRAIT_WITH_CAN_NOT_CURE_FLAG_TRIGGER: "Vous n'êtes #bold pas#! autorisé à vous remettre de vos blessures." #NT!
- NOT_I_HAVE_TRAIT_WITH_CAN_NOT_CURE_FLAG_TRIGGER: "Vous êtes autorisé à vous remettre de vos blessures" #NT!
- THEY_HAVE_TRAIT_WITH_CAN_NOT_CURE_FLAG_TRIGGER: "[CHARACTER.GetShortUIName|V] n'est pas #bold#! autorisé à se remettre de ses blessures" #NT!
- NOT_THEY_HAVE_TRAIT_WITH_CAN_NOT_CURE_FLAG_TRIGGER: "[CHARACTER.GetShortUIName|V] est autorisé à se remettre de ses blessures" #NT!
- HAS_RELATION_WORSHIPPED_REBORN_BY_TARGET: "Est [TARGET_CHARACTER.GetShortUINamePossessive] [neteru|E]" #NT!
- NOT_HAS_RELATION_WORSHIPPED_REBORN_BY_TARGET: "Est-ce que #Bold n'est pas#! [TARGET_CHARACTER.GetShortUINamePossessive] [neteru|E]" #NT!
- HAS_RELATION_DEMONIC_MASTER_BY_TARGET: "Est [TARGET_CHARACTER.GetShortUINamePossessive] [thrall|E]" #NT!
- NOT_HAS_RELATION_DEMONIC_MASTER_BY_TARGET: "Est-ce que #Bold n'est pas#! [TARGET_CHARACTER.GetShortUINamePossessive] [thrall|E]" #NT!
- HAS_RELATION_NECROMANCER_WITH_TARGET: "Le [TARGET_CHARACTER.GetShortUINamePossessive] est-il lié au spectre" #NT!
- NOT_HAS_RELATION_NECROMANCER_WITH_TARGET: "Est-ce que #Bold n'est pas#! [TARGET_CHARACTER.GetShortUINamePossessive] un spectre lié" #NT!
- HAS_RELATION_HERD_OWNER_WITH_TARGET: "Est-ce que le troupeau [TARGET_CHARACTER.GetShortUINamePossessive]" #NT!
- NOT_HAS_RELATION_HERD_OWNER_WITH_TARGET: "Est-ce que #Bold n'est pas#! [TARGET_CHARACTER.GetShortUINamePossessive] troupeau" #NT!
- HAS_RELATION_GHOUL_DOMITOR_WITH_TARGET: "Est-ce que [TARGET_CHARACTER.GetShortUINamePossessive] [Ghoul|E] est esclave" #NT!
- NOT_HAS_RELATION_GHOUL_DOMITOR_WITH_TARGET: "Est-ce que #Bold n'est pas#! [TARGET_CHARACTER.GetShortUINamePossessive] [Ghoul|E] esclave" #NT!
- HAS_RELATION_EFFIGY_CREATOR_WITH_TARGET: "Est-ce que l'effigie [TARGET_CHARACTER.GetShortUINamePossessive]" #NT!
- NOT_HAS_RELATION_EFFIGY_CREATOR_WITH_TARGET: "Est-ce que #Bold n'est pas#! [TARGET_CHARACTER.GetShortUINamePossessive] Effigie" #NT!
- HAS_RELATION_ANIMANTIS_CREATOR_WITH_TARGET: "Est [TARGET_CHARACTER.GetShortUINamePossessive] Animantis" #NT!
- NOT_HAS_RELATION_ANIMANTIS_CREATOR_WITH_TARGET: "Est-ce que #Bold n'est pas#! [TARGET_CHARACTER.GetShortUINamePossessive] Animantis" #NT!
-  
- POD_IS_IN_SAME_PLANE_TOOLTIP: "[TARGET_CHARACTER.GetFirstName] est #bold et non #! dans l'ombre." #NT!
- NOT_POD_IS_IN_SAME_PLANE_TOOLTIP: "[TARGET_CHARACTER.GetFirstName] est dans l'ombre." #NT!
-  
- DOMAIN_LIMIT_AVAILABLE_TRIGGER: "A une limite de domaine qui est de $COMPARATOR$ $NUM|V0$" #NT!
- NOT_HAS_DYNASTY_PERK_NONE: "[dynasty|E] fait #bold pas#! a l'héritage [DYNASTY_PERK.GetName]" #NT!
-  
- worshipped_reborn_dynasty_prestige_level_1_trigger: "Les [dynasty|E] des idoles [holder|E] [GetTrait('mummy').GetName( GetNullCharacter )] ont un [dynasty_prestige_level|E] supérieur ou égal à [GetDynastyPrestigeLevelName( '(int32)1' )] (#V 1#!)" #NT!
- worshipped_reborn_dynasty_prestige_level_2_trigger: "Les [dynasty|E] des idoles [holder|E] [GetTrait('mummy').GetName( GetNullCharacter )] ont un [dynasty_prestige_level|E] supérieur ou égal à [GetDynastyPrestigeLevelName( '(int32)2' )] (#V 2#!)" #NT!
- worshipped_reborn_dynasty_prestige_level_3_trigger: "Les [dynasty|E] des idoles [holder|E] [GetTrait('mummy').GetName( GetNullCharacter )] ont un [dynasty_prestige_level|E] supérieur ou égal à [GetDynastyPrestigeLevelName( '(int32)3' )] (#V 3#!)" #NT!
- worshipped_reborn_dynasty_prestige_level_4_trigger: "Les [dynasty|E] des idoles [holder|E] [GetTrait('mummy').GetName( GetNullCharacter )] ont un [dynasty_prestige_level|E] supérieur ou égal à [GetDynastyPrestigeLevelName( '(int32)4' )] (#V 4#!)" #NT!
- worshipped_reborn_dynasty_prestige_level_5_trigger: "Les [dynasty|E] des idoles [holder|E] [GetTrait('mummy').GetName( GetNullCharacter )] ont un [dynasty_prestige_level|E] supérieur ou égal à [GetDynastyPrestigeLevelName( '(int32)5' )] (#V 5#!)" #NT!
- worshipped_reborn_dynasty_prestige_level_6_trigger: "Les [dynasty|E] des idoles [holder|E] [GetTrait('mummy').GetName( GetNullCharacter )] ont un [dynasty_prestige_level|E] supérieur ou égal à [GetDynastyPrestigeLevelName( '(int32)6' )] (#V 6#!)" #NT!
- worshipped_reborn_dynasty_prestige_level_7_trigger: "Les [dynasty|E] des idoles [holder|E] [GetTrait('mummy').GetName( GetNullCharacter )] ont un [dynasty_prestige_level|E] supérieur ou égal à [GetDynastyPrestigeLevelName( '(int32)7' )] (#V 7#!)" #NT!
- worshipped_reborn_dynasty_prestige_level_8_trigger: "Les [dynasty|E] des idoles [holder|E] [GetTrait('mummy').GetName( GetNullCharacter )] ont un [dynasty_prestige_level|E] supérieur ou égal à [GetDynastyPrestigeLevelName( '(int32)8' )] (#V 8#!)" #NT!
- worshipped_reborn_dynasty_prestige_level_9_trigger: "Les [dynasty|E] des idoles [holder|E] [GetTrait('mummy').GetName( GetNullCharacter )] ont un [dynasty_prestige_level|E] supérieur ou égal à [GetDynastyPrestigeLevelName( '(int32)9' )] (#V 9#!)" #NT!
- worshipped_reborn_dynasty_prestige_level_10_trigger: "Les [dynasty|E] des idoles [holder|E] [GetTrait('mummy').GetName( GetNullCharacter )] ont un [dynasty_prestige_level|E] supérieur ou égal à [GetDynastyPrestigeLevelName( '(int32)10' )] (#V 10#!)" #NT!
-  
- #worshipped_reborn_has_pharaoh_mummy_legacy_1_trigger: "Les idoles [holder|E] [GetTrait('mummy').GetName( GetNullCharacter )] [dynasty|E] ont [GetDynastyPerk('pharaoh_mummy_legacy_1').GetName] [dynasty_perk|E]" #NT!
- #worshipped_reborn_has_pharaoh_mummy_legacy_2_trigger: "Les idoles [holder|E] [GetTrait('mummy').GetName( GetNullCharacter )] [dynasty|E] ont [GetDynastyPerk('pharaoh_mummy_legacy_2').GetName] [dynasty_perk|E]" #NT!
- #worshipped_reborn_has_pharaoh_mummy_legacy_3_trigger: "Les idoles [holder|E] [GetTrait('mummy').GetName( GetNullCharacter )] [dynasty|E] ont [GetDynastyPerk('pharaoh_mummy_legacy_3').GetName] [dynasty_perk|E]" #NT!
- #worshipped_reborn_has_pharaoh_mummy_legacy_4_trigger: "Les idoles [holder|E] [GetTrait('mummy').GetName( GetNullCharacter )] [dynasty|E] ont [GetDynastyPerk('pharaoh_mummy_legacy_4').GetName] [dynasty_perk|E]" #NT!
- #worshipped_reborn_has_pharaoh_mummy_legacy_5_trigger: "Les idoles [holder|E] [GetTrait('mummy').GetName( GetNullCharacter )] [dynasty|E] ont [GetDynastyPerk('pharaoh_mummy_legacy_5').GetName] [dynasty_perk|E]" #NT!
-  
- has_mage_friend_1_trigger: "A #V 1#! [GetTrait('sorcerer').GetName( GetNullCharacter )] ou [GetTrait('mage').GetName( GetNullCharacter )] [friend|E]" #NT!
- has_mage_friend_2_trigger: "A #V 2#! [GetTrait('sorcerer').GetName( GetNullCharacter )] ou [GetTrait('mage').GetName( GetNullCharacter )] [friend|E]" #NT!
- has_mage_friend_3_trigger: "A #V 3#! [GetTrait('sorcerer').GetName( GetNullCharacter )] ou [GetTrait('mage').GetName( GetNullCharacter )] [friend|E]" #NT!
- has_mage_friend_4_trigger: "A #V 4#! [GetTrait('sorcerer').GetName( GetNullCharacter )] ou [GetTrait('mage').GetName( GetNullCharacter )] [friend|E]" #NT!
- has_mage_friend_5_trigger: "A #V 5#! [GetTrait('sorcerer').GetName( GetNullCharacter )] ou [GetTrait('mage').GetName( GetNullCharacter )] [friend|E]" #NT!
-  
- NOT_POD_has_previous_holder: "Le [TARGET_TITLE.GetNameNoTier] [title|E] n'a pas #Bold#! d'ancien titulaire vivant." #NT!
- POD_mortal_race_trigger: "[TARGET_CHARACTER.GetFirstName] est #Bold et non #! un surnaturel." #NT!
- NOT_POD_mortal_race_trigger: "[TARGET_CHARACTER.GetFirstName] est un surnaturel." #NT!
-  
- GLOBAL_ANATHEMA_TRIGGER: "Ce personnage est considéré [anathema|E] par la Camarilla" #NT!
- FIRST_ANATHEMA_TRIGGER: "Vous êtes considéré [anathema|E] par la Camarilla" #NT!
- THIRD_ANATHEMA_TRIGGER: "[CHARACTER.GetShortUIName] est considéré comme [anathema|E] par la Camarilla" #NT!
- GLOBAL_NOT_ANATHEMA_TRIGGER: "Ce personnage est #bold et non#! considéré comme [anathema|E] par la Camarilla" #NT!
- FIRST_NOT_ANATHEMA_TRIGGER: "Vous êtes #bold et non#! considéré comme [anathema|E] par la Camarilla" #NT!
- THIRD_NOT_ANATHEMA_TRIGGER: "[CHARACTER.GetShortUIName] est #bold et non #! considéré comme [anathema|E] par la Camarilla" #NT!
+    is_a_unbondable: "est inattaquable"
+    is_an_oathbreaker: "est un briseur de serment"
+    is_a_vampire: "est un vampire"
+    is_a_mage: "est un mage"
+    is_a_werewolf: "est un loup-garou"
+    is_a_fae: "est un fae"
+    is_a_ghoul: "est une goule"
+    is_a_revenant: "est un [revenant|E]"
+    is_a_demon: "est un démon"
+    is_a_supehunter: "est un chasseur"
+    is_a_mummy: "est une maman"
+    is_a_wraith: "est un spectre"
+    is_a_infernalist: "est un infernaliste"
+    NOT_is_a_infernalist: "est-ce que #Bold n'est pas#! un infernaliste"
+    is_a_diablerist: "est un diaboliste"
+    wall_weak_enough_trigger_tooltip: "Le mur doit être suffisamment faible"
+    i_am_full_of_chi: "Tu es déjà plein de Chi"
+    i_am_full_of_yangchi: "Tu es déjà plein de Yang Chi"
+    i_am_full_of_yinchi: "Tu es déjà plein de Yin Chi"
+    i_am_empty_of_chi: "Vous n'avez #Bold pas#! de Chi"
+    is_a_predatortype_consensualist: "a un consensualiste de type prédateur"
+    is_a_predatortype_familias: "a un type de prédateur familial"
+    is_a_predatortype_cultist: "a un cultiste de type prédateur"
+    is_a_predatortype_bloodleech: "a une sangsue de type prédateur"
+    is_a_predatortype_farmer: "a un agriculteur de type prédateur"
+    is_a_predatortype_gentry: "a une noblesse de type prédateur"
+    is_a_predatortype_graverobber: "a un pilleur de tombes de type prédateur"
+    is_a_predatortype_phlebotomist: "a un phlébotomiste de type prédateur"
+    is_a_predatortype_alleycat: "a un chat de gouttière de type prédateur"
+    is_a_predatortype_bedlamite: "a une bedlamite de type prédateur"
+    is_a_predatortype_cauchemar: "a un cauchemar de type prédateur"
+    is_a_predatortype_cenobite: "a un cénobite de type prédateur"
+    is_a_predatortype_footpad: "a un repose-pieds de type prédateur"
+    is_a_predatortype_siren: "a une sirène de type prédateur"
+    is_a_predatortype_extortionist: "a un extorsion de type prédateur"
+    is_a_vampgeneration1: "est une 1ère génération"
+    is_a_vampgeneration2: "est une 2ème génération"
+    is_a_vampgeneration3: "est une 3ème génération"
+    is_a_vampgeneration4: "est une 4ème génération"
+    is_a_vampgeneration5: "est une 5ème génération"
+    is_a_vampgeneration6: "est une 6ème génération"
+    is_a_vampgeneration7: "est une 7ème génération"
+    is_a_vampgeneration8: "est une 8ème génération"
+    is_a_vampgeneration9: "est une 9ème génération"
+    is_a_vampgeneration10: "est une 10ème génération"
+    is_a_vampgeneration11: "est une 11ème génération"
+    is_a_vampgeneration12: "est une 12ème génération"
+    is_a_vampgeneration13: "est une 13ème génération"
+    is_a_vampgeneration14: "est une 14ème génération"
+    is_a_vampgeneration15: "est une 15ème génération"
+    is_a_vampgeneration16: "est une 16ème génération"
+    STRONG_MENTAL_DEFENSES_TRIGGER: "Ce personnage a des défenses mentales trop fortes"
+    VICTIM_CANNOT_BE_KILLED_PHYSICALLY: "Ce personnage ne peut pas être tué physiquement"
+    NOT_alchemy_craft_slots_are_full: "Tous vos emplacements sont déjà remplis de produits alchimiques"
+    NOT_alchemy_craft_slots_are_empty: "Vous n'avez pas de produits alchimiques"
+    TRAIT_FLAG_DESC_can_not_cure: "@warning_icon !#X Peut ne pas se remettre de ses blessures#!"
+    HAS_TRAIT_WITH_CAN_NOT_CURE_FLAG_TRIGGER: "#bold n'est-il pas#! autorisé à se remettre de ses blessures ?"
+    NOT_HAS_TRAIT_WITH_CAN_NOT_CURE_FLAG_TRIGGER: "Est autorisé à se remettre de ses blessures"
+    I_HAVE_TRAIT_WITH_CAN_NOT_CURE_FLAG_TRIGGER: "Vous n'êtes #bold pas#! autorisé à vous remettre de vos blessures."
+    NOT_I_HAVE_TRAIT_WITH_CAN_NOT_CURE_FLAG_TRIGGER: "Vous êtes autorisé à vous remettre de vos blessures"
+    THEY_HAVE_TRAIT_WITH_CAN_NOT_CURE_FLAG_TRIGGER: "[CHARACTER.GetShortUIName|V] n'est pas #bold#! autorisé à se remettre de ses blessures"
+    NOT_THEY_HAVE_TRAIT_WITH_CAN_NOT_CURE_FLAG_TRIGGER: "[CHARACTER.GetShortUIName|V] est autorisé à se remettre de ses blessures"
+    HAS_RELATION_WORSHIPPED_REBORN_BY_TARGET: "Est [TARGET_CHARACTER.GetShortUINamePossessive] [neteru|E]"
+    NOT_HAS_RELATION_WORSHIPPED_REBORN_BY_TARGET: "Est-ce que #Bold n'est pas#! [TARGET_CHARACTER.GetShortUINamePossessive] [neteru|E]"
+    HAS_RELATION_DEMONIC_MASTER_BY_TARGET: "Est [TARGET_CHARACTER.GetShortUINamePossessive] [thrall|E]"
+    NOT_HAS_RELATION_DEMONIC_MASTER_BY_TARGET: "Est-ce que #Bold n'est pas#! [TARGET_CHARACTER.GetShortUINamePossessive] [thrall|E]"
+    HAS_RELATION_NECROMANCER_WITH_TARGET: "Le [TARGET_CHARACTER.GetShortUINamePossessive] est-il lié au spectre"
+    NOT_HAS_RELATION_NECROMANCER_WITH_TARGET: "Est-ce que #Bold n'est pas#! [TARGET_CHARACTER.GetShortUINamePossessive] un spectre lié"
+    HAS_RELATION_HERD_OWNER_WITH_TARGET: "Est-ce que le troupeau [TARGET_CHARACTER.GetShortUINamePossessive]"
+    NOT_HAS_RELATION_HERD_OWNER_WITH_TARGET: "Est-ce que #Bold n'est pas#! [TARGET_CHARACTER.GetShortUINamePossessive] troupeau"
+    HAS_RELATION_GHOUL_DOMITOR_WITH_TARGET: "Est-ce que [TARGET_CHARACTER.GetShortUINamePossessive] [Ghoul|E] est esclave"
+    NOT_HAS_RELATION_GHOUL_DOMITOR_WITH_TARGET: "Est-ce que #Bold n'est pas#! [TARGET_CHARACTER.GetShortUINamePossessive] [Ghoul|E] esclave"
+    HAS_RELATION_EFFIGY_CREATOR_WITH_TARGET: "Est-ce que l'effigie [TARGET_CHARACTER.GetShortUINamePossessive]"
+    NOT_HAS_RELATION_EFFIGY_CREATOR_WITH_TARGET: "Est-ce que #Bold n'est pas#! [TARGET_CHARACTER.GetShortUINamePossessive] Effigie"
+    HAS_RELATION_ANIMANTIS_CREATOR_WITH_TARGET: "Est [TARGET_CHARACTER.GetShortUINamePossessive] Animantis"
+    NOT_HAS_RELATION_ANIMANTIS_CREATOR_WITH_TARGET: "Est-ce que #Bold n'est pas#! [TARGET_CHARACTER.GetShortUINamePossessive] Animantis"
+
+    POD_IS_IN_SAME_PLANE_TOOLTIP: "[TARGET_CHARACTER.GetFirstName] est #bold et non #! dans l'ombre."
+    NOT_POD_IS_IN_SAME_PLANE_TOOLTIP: "[TARGET_CHARACTER.GetFirstName] est dans l'ombre."
+
+    DOMAIN_LIMIT_AVAILABLE_TRIGGER: "A une limite de domaine qui est de $COMPARATOR$ $NUM|V0$"
+    NOT_HAS_DYNASTY_PERK_NONE: "[dynasty|E] fait #bold pas#! a l'héritage [DYNASTY_PERK.GetName]"
+
+    worshipped_reborn_dynasty_prestige_level_1_trigger: "Les [dynasty|E] des idoles [holder|E] [GetTrait('mummy').GetName( GetNullCharacter )] ont un [dynasty_prestige_level|E] supérieur ou égal à [GetDynastyPrestigeLevelName( '(int32)1' )] (#V 1#!)"
+    worshipped_reborn_dynasty_prestige_level_2_trigger: "Les [dynasty|E] des idoles [holder|E] [GetTrait('mummy').GetName( GetNullCharacter )] ont un [dynasty_prestige_level|E] supérieur ou égal à [GetDynastyPrestigeLevelName( '(int32)2' )] (#V 2#!)"
+    worshipped_reborn_dynasty_prestige_level_3_trigger: "Les [dynasty|E] des idoles [holder|E] [GetTrait('mummy').GetName( GetNullCharacter )] ont un [dynasty_prestige_level|E] supérieur ou égal à [GetDynastyPrestigeLevelName( '(int32)3' )] (#V 3#!)"
+    worshipped_reborn_dynasty_prestige_level_4_trigger: "Les [dynasty|E] des idoles [holder|E] [GetTrait('mummy').GetName( GetNullCharacter )] ont un [dynasty_prestige_level|E] supérieur ou égal à [GetDynastyPrestigeLevelName( '(int32)4' )] (#V 4#!)"
+    worshipped_reborn_dynasty_prestige_level_5_trigger: "Les [dynasty|E] des idoles [holder|E] [GetTrait('mummy').GetName( GetNullCharacter )] ont un [dynasty_prestige_level|E] supérieur ou égal à [GetDynastyPrestigeLevelName( '(int32)5' )] (#V 5#!)"
+    worshipped_reborn_dynasty_prestige_level_6_trigger: "Les [dynasty|E] des idoles [holder|E] [GetTrait('mummy').GetName( GetNullCharacter )] ont un [dynasty_prestige_level|E] supérieur ou égal à [GetDynastyPrestigeLevelName( '(int32)6' )] (#V 6#!)"
+    worshipped_reborn_dynasty_prestige_level_7_trigger: "Les [dynasty|E] des idoles [holder|E] [GetTrait('mummy').GetName( GetNullCharacter )] ont un [dynasty_prestige_level|E] supérieur ou égal à [GetDynastyPrestigeLevelName( '(int32)7' )] (#V 7#!)"
+    worshipped_reborn_dynasty_prestige_level_8_trigger: "Les [dynasty|E] des idoles [holder|E] [GetTrait('mummy').GetName( GetNullCharacter )] ont un [dynasty_prestige_level|E] supérieur ou égal à [GetDynastyPrestigeLevelName( '(int32)8' )] (#V 8#!)"
+    worshipped_reborn_dynasty_prestige_level_9_trigger: "Les [dynasty|E] des idoles [holder|E] [GetTrait('mummy').GetName( GetNullCharacter )] ont un [dynasty_prestige_level|E] supérieur ou égal à [GetDynastyPrestigeLevelName( '(int32)9' )] (#V 9#!)"
+    worshipped_reborn_dynasty_prestige_level_10_trigger: "Les [dynasty|E] des idoles [holder|E] [GetTrait('mummy').GetName( GetNullCharacter )] ont un [dynasty_prestige_level|E] supérieur ou égal à [GetDynastyPrestigeLevelName( '(int32)10' )] (#V 10#!)"
+
+    #worshipped_reborn_has_pharaoh_mummy_legacy_1_trigger: "Les idoles [holder|E] [GetTrait('mummy').GetName( GetNullCharacter )] [dynasty|E] ont [GetDynastyPerk('pharaoh_mummy_legacy_1').GetName] [dynasty_perk|E]"
+    #worshipped_reborn_has_pharaoh_mummy_legacy_2_trigger: "Les idoles [holder|E] [GetTrait('mummy').GetName( GetNullCharacter )] [dynasty|E] ont [GetDynastyPerk('pharaoh_mummy_legacy_2').GetName] [dynasty_perk|E]"
+    #worshipped_reborn_has_pharaoh_mummy_legacy_3_trigger: "Les idoles [holder|E] [GetTrait('mummy').GetName( GetNullCharacter )] [dynasty|E] ont [GetDynastyPerk('pharaoh_mummy_legacy_3').GetName] [dynasty_perk|E]"
+    #worshipped_reborn_has_pharaoh_mummy_legacy_4_trigger: "Les idoles [holder|E] [GetTrait('mummy').GetName( GetNullCharacter )] [dynasty|E] ont [GetDynastyPerk('pharaoh_mummy_legacy_4').GetName] [dynasty_perk|E]"
+    #worshipped_reborn_has_pharaoh_mummy_legacy_5_trigger: "Les idoles [holder|E] [GetTrait('mummy').GetName( GetNullCharacter )] [dynasty|E] ont [GetDynastyPerk('pharaoh_mummy_legacy_5').GetName] [dynasty_perk|E]"
+
+    has_mage_friend_1_trigger: "A #V 1#! [GetTrait('sorcerer').GetName( GetNullCharacter )] ou [GetTrait('mage').GetName( GetNullCharacter )] [friend|E]"
+    has_mage_friend_2_trigger: "A #V 2#! [GetTrait('sorcerer').GetName( GetNullCharacter )] ou [GetTrait('mage').GetName( GetNullCharacter )] [friend|E]"
+    has_mage_friend_3_trigger: "A #V 3#! [GetTrait('sorcerer').GetName( GetNullCharacter )] ou [GetTrait('mage').GetName( GetNullCharacter )] [friend|E]"
+    has_mage_friend_4_trigger: "A #V 4#! [GetTrait('sorcerer').GetName( GetNullCharacter )] ou [GetTrait('mage').GetName( GetNullCharacter )] [friend|E]"
+    has_mage_friend_5_trigger: "A #V 5#! [GetTrait('sorcerer').GetName( GetNullCharacter )] ou [GetTrait('mage').GetName( GetNullCharacter )] [friend|E]"
+
+    NOT_POD_has_previous_holder: "Le [TARGET_TITLE.GetNameNoTier] [title|E] n'a pas #Bold#! d'ancien titulaire vivant."
+    POD_mortal_race_trigger: "[TARGET_CHARACTER.GetFirstName] est #Bold et non #! un surnaturel."
+    NOT_POD_mortal_race_trigger: "[TARGET_CHARACTER.GetFirstName] est un surnaturel."
+
+    GLOBAL_ANATHEMA_TRIGGER: "Ce personnage est considéré [anathema|E] par la Camarilla"
+    FIRST_ANATHEMA_TRIGGER: "Vous êtes considéré [anathema|E] par la Camarilla"
+    THIRD_ANATHEMA_TRIGGER: "[CHARACTER.GetShortUIName] est considéré comme [anathema|E] par la Camarilla"
+    GLOBAL_NOT_ANATHEMA_TRIGGER: "Ce personnage est #bold et non#! considéré comme [anathema|E] par la Camarilla"
+    FIRST_NOT_ANATHEMA_TRIGGER: "Vous êtes #bold et non#! considéré comme [anathema|E] par la Camarilla"
+    THIRD_NOT_ANATHEMA_TRIGGER: "[CHARACTER.GetShortUIName] est #bold et non #! considéré comme [anathema|E] par la Camarilla"

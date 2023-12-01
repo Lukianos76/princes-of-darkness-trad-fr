@@ -1,16 +1,15 @@
 ﻿l_french:
-  
- nocturne_power_modifier: "Nocturne" #NT!
- nocturne_power_modifier_desc: "Ce personnage dégage de terribles ténèbres qui couvrent les ennemis proches et leur drainent leur force vitale." #NT!
- nocturne_drained_stamina_modifier: "[battle_modifier|E] : Endurance drainée" #NT!
- nocturne_drained_stamina_modifier_desc: "L'endurance de ce personnage a été épuisée par un horrible nuage d'ombre." #NT!
- darkness_within_drained_stamina_modifier: "[battle_modifier|E] : Endurance drainée" #NT!
- darkness_within_drained_stamina_modifier_desc: "L’endurance et le sang de ce personnage ont été drainés par un horrible nuage d’ombre." #NT!
- devour_all_hope_drained_stamina_modifier: "[battle_modifier|E] : Endurance drainée" #NT!
- devour_all_hope_drained_stamina_modifier_desc: "Des quantités massives d’endurance et de sang de ce personnage ont été drainées par un horrible nuage d’ombre." #NT!
-  
- drain_the_life_power_modifier: "Vie drainée" #NT!
- drain_the_life_power_modifier_desc: "Cette zone est plongée dans l'obscurité qui dévore tout ce qu'elle touche" #NT!
-  
- shadow_twin_modifier: "Jumeau de l'Ombre" #NT!
- shadow_twin_modifier_desc: "Ce personnage est un Shadow Twin, une créature créée à partir d'ombres avec une fracture de sa force principale." #NT!
+    nocturne_power_modifier: "Nocturne"
+    nocturne_power_modifier_desc: "Ce personnage dégage de terribles ténèbres qui couvrent les ennemis proches et leur drainent leur force vitale."
+    nocturne_drained_stamina_modifier: "[battle_modifier|E] : Endurance drainée"
+    nocturne_drained_stamina_modifier_desc: "L'endurance de ce personnage a été épuisée par un horrible nuage d'ombre."
+    darkness_within_drained_stamina_modifier: "[battle_modifier|E] : Endurance drainée"
+    darkness_within_drained_stamina_modifier_desc: "L’endurance et le sang de ce personnage ont été drainés par un horrible nuage d’ombre."
+    devour_all_hope_drained_stamina_modifier: "[battle_modifier|E] : Endurance drainée"
+    devour_all_hope_drained_stamina_modifier_desc: "Des quantités massives d’endurance et de sang de ce personnage ont été drainées par un horrible nuage d’ombre."
+
+    drain_the_life_power_modifier: "Vie drainée"
+    drain_the_life_power_modifier_desc: "Cette zone est plongée dans l'obscurité qui dévore tout ce qu'elle touche"
+
+    shadow_twin_modifier: "Jumeau de l'Ombre"
+    shadow_twin_modifier_desc: "Ce personnage est un Shadow Twin, une créature créée à partir d'ombres avec une fracture de sa force principale."

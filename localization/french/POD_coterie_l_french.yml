@@ -6,261 +6,261 @@
   
   ##### COTERIE GUI TAB 
   
- POD_create_a_new_coterie: "Créer un nouveau [GetPlayer.Custom('PODCoterieNoTooltip')]" #NT!
- POD_rename_your_coterie: "Renommez votre [GetPlayer.Custom('PODCoterieNoTooltip')]" #NT!
- POD_disband_your_coterie: "Dissoudre [GetPlayer.Custom('PODGetCoterieName')]" #NT!
+ POD_create_a_new_coterie: "Créer un nouveau [GetPlayer.Custom('PODCoterieNoTooltip')]"
+ POD_rename_your_coterie: "Renommez votre [GetPlayer.Custom('PODCoterieNoTooltip')]"
+ POD_disband_your_coterie: "Dissoudre [GetPlayer.Custom('PODGetCoterieName')]"
   
- POD_coterie_gui_members: "Membres #weak ([GuiScope.SetRoot(GetPlayer.MakeScope).ScriptValue('coterie_size')]/[EmptyScope.ScriptValue('coterie_max_size')])#!" #NT!
+ POD_coterie_gui_members: "Membres #weak ([GuiScope.SetRoot(GetPlayer.MakeScope).ScriptValue('coterie_size')]/[EmptyScope.ScriptValue('coterie_max_size')])#!"
   
   
   ##### Opinion modifiers 
   
- kicked_from_coterie_opinion: "Expulsé" #NT!
+ kicked_from_coterie_opinion: "Expulsé"
   
   
   ##### Tooltips 
   
- POD_player_coterie: "#TOOLTIP:POD_player_coterie_tooltip #E;L [GetPlayer.Custom('PODGetCoterieName')]#!#!" #NT!
- POD_player_coterie_tooltip: "[GetPlayer.Custom('PODGetCoterieBreakdown')]" #NT!
+ POD_player_coterie: "#TOOLTIP:POD_player_coterie_tooltip #E;L [GetPlayer.Custom('PODGetCoterieName')]#!#!"
+ POD_player_coterie_tooltip: "[GetPlayer.Custom('PODGetCoterieBreakdown')]"
   
- POD_COTERIE_BREAKDOWN: "#T [ROOT.Char.Custom('PODCoterie')] : [ROOT.Char.Custom('PODGetCoterieName')]#!\n@skill_diplomacy_icon![diplomacy|E]: [SCOPE.ScriptValue('coterie_diplomacy_gui')]\n@skill_martial_icon ![martial|E] : [SCOPE.ScriptValue('coterie_martial_gui')]\n@skill_stewardship_icon ![stewardship|E] : [SCOPE.ScriptValue('coterie_stewardship_gui')]\n@skill_intrigue_icon ![intrigue|E] : [ROOT.Char.Custom('PODCoterie')]0\n@skill_learning_icon ![ROOT.Char.Custom('PODCoterie')]1 : § _12\n@skill_prowess_icon ![ROOT.Char.Custom('PODCoterie')]3 : [ROOT.Char.Custom('PODCoterie')]4" #NT!
+ POD_COTERIE_BREAKDOWN: "#T [ROOT.Char.Custom('PODCoterie')] : [ROOT.Char.Custom('PODGetCoterieName')]#!\n@skill_diplomacy_icon![diplomacy|E]: [SCOPE.ScriptValue('coterie_diplomacy_gui')]\n@skill_martial_icon ![martial|E] : [SCOPE.ScriptValue('coterie_martial_gui')]\n@skill_stewardship_icon ![stewardship|E] : [SCOPE.ScriptValue('coterie_stewardship_gui')]\n@skill_intrigue_icon ![intrigue|E] : [ROOT.Char.Custom('PODCoterie')]0\n@skill_learning_icon ![ROOT.Char.Custom('PODCoterie')]1 : § _12\n@skill_prowess_icon ![ROOT.Char.Custom('PODCoterie')]3 : [ROOT.Char.Custom('PODCoterie')]4"
   
   
   ##### Interface toasts 
   
- POD_joined_coterie_title: "A rejoint un [GetPlayer.Custom('PODCoterie')]" #NT!
- POD_joined_coterie_tt: "[ROOT.Char.GetFirstNameNicknamed] a rejoint $POD_player_coterie$" #NT!
+ POD_joined_coterie_title: "A rejoint un [GetPlayer.Custom('PODCoterie')]"
+ POD_joined_coterie_tt: "[ROOT.Char.GetFirstNameNicknamed] a rejoint $POD_player_coterie$"
   
- POD_new_coterie_member_title: "Nouveau membre [GetPlayer.Custom('PODCoterie')]" #NT!
- POD_new_coterie_member_tt: "[new_coterie_member.GetFirstNameNicknamed] a rejoint $POD_player_coterie$" #NT!
+ POD_new_coterie_member_title: "Nouveau membre [GetPlayer.Custom('PODCoterie')]"
+ POD_new_coterie_member_tt: "[new_coterie_member.GetFirstNameNicknamed] a rejoint $POD_player_coterie$"
   
- POD_coterie_member_left_title: "[GetPlayer.Custom('PODCoterie')] membre restant" #NT!
- POD_coterie_member_left_tt: "[old_coterie_member.GetFirstNameNicknamed] n'est plus membre de $POD_player_coterie$" #NT!
+ POD_coterie_member_left_title: "[GetPlayer.Custom('PODCoterie')] membre restant"
+ POD_coterie_member_left_tt: "[old_coterie_member.GetFirstNameNicknamed] n'est plus membre de $POD_player_coterie$"
   
- POD_coterie_disbanded_title: "[GetPlayer.Custom('PODCoterie')] dissous" #NT!
- POD_coterie_disbanded_tt: "Vous n'êtes plus membre d'un [GetPlayer.Custom('PODCoterie')]" #NT!
+ POD_coterie_disbanded_title: "[GetPlayer.Custom('PODCoterie')] dissous"
+ POD_coterie_disbanded_tt: "Vous n'êtes plus membre d'un [GetPlayer.Custom('PODCoterie')]"
   
   
   ##### Effects 
   
- POD_leave_coterie_tt: "Ne sera plus membre de $POD_player_coterie$" #NT!
+ POD_leave_coterie_tt: "Ne sera plus membre de $POD_player_coterie$"
   
   
   ##### showing_failures_only triggers 
   
- POD_has_coterie_trigger_tt: "Vous devez avoir un [GetPlayer.Custom('PODCoterie')]" #NT!
- POD_has_coterie_members_trigger_tt: "Vous devez avoir un [GetPlayer.Custom('PODCoterie')] avec au moins 1 autre membre" #NT!
- POD_coterie_disabled_on_travel_phase_tt: "Vous ne pouvez pas gérer votre [GetPlayer.Custom('PODCoterie')] lorsque vous êtes dans le [travel_phase|E] de votre [journey|E]" #NT!
+ POD_has_coterie_trigger_tt: "Vous devez avoir un [GetPlayer.Custom('PODCoterie')]"
+ POD_has_coterie_members_trigger_tt: "Vous devez avoir un [GetPlayer.Custom('PODCoterie')] avec au moins 1 autre membre"
+ POD_coterie_disabled_on_travel_phase_tt: "Vous ne pouvez pas gérer votre [GetPlayer.Custom('PODCoterie')] lorsque vous êtes dans le [travel_phase|E] de votre [journey|E]"
   
   
   ##### Custom loc 
   
- POD_coterieloc_harem: "[coterie_harem|E]" #NT!
- POD_coterieloc_sabbat: "[coterie_sabbat|E]" #NT!
- POD_coterieloc_tmr: "[coterie_tmr|E]" #NT!
- POD_coterieloc_anarch: "[coterie_anarch|E]" #NT!
- POD_coterieloc_baali_hyron: "[coterie_baali_hyron|E]" #NT!
- POD_coterieloc_beastcourts: "[coterie_beastcourts|E]" #NT!
- POD_coterieloc_werewolf: "[coterie_werewolf|E]" #NT!
- POD_coterieloc_nagah: "[coterie_nagah|E]" #NT!
- POD_coterieloc_kitsune: "[coterie_kitsune|E]" #NT!
- POD_coterieloc_ratkin: "[coterie_ratkin|E]" #NT!
- POD_coterieloc_hunter: "[coterie_hunter|E]" #NT!
- POD_coterieloc_demon: "[coterie_demon|E]" #NT!
- POD_coterieloc_mage: "[coterie_mage|E]" #NT!
- POD_coterieloc_redcap: "[coterie_redcap|E]" #NT!
- POD_coterieloc_fae: "[coterie_fae|E]" #NT!
- POD_coterieloc_wraith: "[coterie_wraith|E]" #NT!
- POD_coterieloc_kueijin: "[coterie_kueijin|E]" #NT!
- POD_coterieloc_mummy: "[coterie_mummy|E]" #NT!
- POD_coterieloc_baali: "[coterie_baali|E]" #NT!
- POD_coterieloc_vampire: "[coterie|E]" #NT!
- POD_coterieloc_generic: "[coterie_generic|E]" #NT!
+ POD_coterieloc_harem: "[coterie_harem|E]"
+ POD_coterieloc_sabbat: "[coterie_sabbat|E]"
+ POD_coterieloc_tmr: "[coterie_tmr|E]"
+ POD_coterieloc_anarch: "[coterie_anarch|E]"
+ POD_coterieloc_baali_hyron: "[coterie_baali_hyron|E]"
+ POD_coterieloc_beastcourts: "[coterie_beastcourts|E]"
+ POD_coterieloc_werewolf: "[coterie_werewolf|E]"
+ POD_coterieloc_nagah: "[coterie_nagah|E]"
+ POD_coterieloc_kitsune: "[coterie_kitsune|E]"
+ POD_coterieloc_ratkin: "[coterie_ratkin|E]"
+ POD_coterieloc_hunter: "[coterie_hunter|E]"
+ POD_coterieloc_demon: "[coterie_demon|E]"
+ POD_coterieloc_mage: "[coterie_mage|E]"
+ POD_coterieloc_redcap: "[coterie_redcap|E]"
+ POD_coterieloc_fae: "[coterie_fae|E]"
+ POD_coterieloc_wraith: "[coterie_wraith|E]"
+ POD_coterieloc_kueijin: "[coterie_kueijin|E]"
+ POD_coterieloc_mummy: "[coterie_mummy|E]"
+ POD_coterieloc_baali: "[coterie_baali|E]"
+ POD_coterieloc_vampire: "[coterie|E]"
+ POD_coterieloc_generic: "[coterie_generic|E]"
   
- POD_coterieloc_harem_notooltip: "$game_concept_coterie_harem$" #NT!
- POD_coterieloc_sabbat_notooltip: "$game_concept_coterie_sabbat$" #NT!
- POD_coterieloc_tmr_notooltip: "$game_concept_coterie_tmr$" #NT!
- POD_coterieloc_anarch_notooltip: "$game_concept_coterie_anarch$" #NT!
- POD_coterieloc_baali_hyron_notooltip: "$game_concept_coterie_baali_hyron$" #NT!
- POD_coterieloc_beastcourts_notooltip: "$game_concept_coterie_beastcourts$" #NT!
- POD_coterieloc_werewolf_notooltip: "$game_concept_coterie_werewolf$" #NT!
- POD_coterieloc_nagah_notooltip: "$game_concept_coterie_nagah$" #NT!
- POD_coterieloc_kitsune_notooltip: "$game_concept_coterie_kitsune$" #NT!
- POD_coterieloc_ratkin_notooltip: "$game_concept_coterie_ratkin$" #NT!
- POD_coterieloc_hunter_notooltip: "$game_concept_coterie_hunter$" #NT!
- POD_coterieloc_demon_notooltip: "$game_concept_coterie_demon$" #NT!
- POD_coterieloc_mage_notooltip: "$game_concept_coterie_mage$" #NT!
- POD_coterieloc_redcap_notooltip: "$game_concept_coterie_redcap$" #NT!
- POD_coterieloc_fae_notooltip: "$game_concept_coterie_fae$" #NT!
- POD_coterieloc_wraith_notooltip: "$game_concept_coterie_wraith$" #NT!
- POD_coterieloc_kueijin_notooltip: "$game_concept_coterie_kueijin$" #NT!
- POD_coterieloc_mummy_notooltip: "$game_concept_coterie_mummy$" #NT!
- POD_coterieloc_baali_notooltip: "$game_concept_coterie_baali$" #NT!
- POD_coterieloc_vampire_notooltip: "$game_concept_coterie$" #NT!
- POD_coterieloc_generic_notooltip: "$game_concept_coterie_generic$" #NT!
+ POD_coterieloc_harem_notooltip: "$game_concept_coterie_harem$"
+ POD_coterieloc_sabbat_notooltip: "$game_concept_coterie_sabbat$"
+ POD_coterieloc_tmr_notooltip: "$game_concept_coterie_tmr$"
+ POD_coterieloc_anarch_notooltip: "$game_concept_coterie_anarch$"
+ POD_coterieloc_baali_hyron_notooltip: "$game_concept_coterie_baali_hyron$"
+ POD_coterieloc_beastcourts_notooltip: "$game_concept_coterie_beastcourts$"
+ POD_coterieloc_werewolf_notooltip: "$game_concept_coterie_werewolf$"
+ POD_coterieloc_nagah_notooltip: "$game_concept_coterie_nagah$"
+ POD_coterieloc_kitsune_notooltip: "$game_concept_coterie_kitsune$"
+ POD_coterieloc_ratkin_notooltip: "$game_concept_coterie_ratkin$"
+ POD_coterieloc_hunter_notooltip: "$game_concept_coterie_hunter$"
+ POD_coterieloc_demon_notooltip: "$game_concept_coterie_demon$"
+ POD_coterieloc_mage_notooltip: "$game_concept_coterie_mage$"
+ POD_coterieloc_redcap_notooltip: "$game_concept_coterie_redcap$"
+ POD_coterieloc_fae_notooltip: "$game_concept_coterie_fae$"
+ POD_coterieloc_wraith_notooltip: "$game_concept_coterie_wraith$"
+ POD_coterieloc_kueijin_notooltip: "$game_concept_coterie_kueijin$"
+ POD_coterieloc_mummy_notooltip: "$game_concept_coterie_mummy$"
+ POD_coterieloc_baali_notooltip: "$game_concept_coterie_baali$"
+ POD_coterieloc_vampire_notooltip: "$game_concept_coterie$"
+ POD_coterieloc_generic_notooltip: "$game_concept_coterie_generic$"
   
- POD_coteriename_error: "ERREUR DE NOM DE COTERIE" #NT!
- POD_coteriename_custom: "[ROOT.Var('coterie').Var('root_char').Char.GetLocalizedText('POD_coterie_name_text')]" #NT!
- POD_coteriename_canon: "[ROOT.Var('coterie').Story.Custom('PODGetCanonCoterieName')]" #NT!
+ POD_coteriename_error: "ERREUR DE NOM DE COTERIE"
+ POD_coteriename_custom: "[ROOT.Var('coterie').Var('root_char').Char.GetLocalizedText('POD_coterie_name_text')]"
+ POD_coteriename_canon: "[ROOT.Var('coterie').Story.Custom('PODGetCanonCoterieName')]"
   
- POD_coteriename_custom_story: "[ROOT.Var('root_char').Char.GetLocalizedText('POD_coterie_name_text')]" #NT!
- POD_coteriename_canon_story: "[ROOT.Story.Custom('PODGetCanonCoterieName')]" #NT!
+ POD_coteriename_custom_story: "[ROOT.Var('root_char').Char.GetLocalizedText('POD_coterie_name_text')]"
+ POD_coteriename_canon_story: "[ROOT.Story.Custom('PODGetCanonCoterieName')]"
   
   ##### Karde: this is where canon coterie names are defined in the loc 
- #POD_coteriename_camilla: "Les fêtards de Camilla" #NT!
+ #POD_coteriename_camilla: "Les fêtards de Camilla"
   
- POD_coteriename_default: "[ROOT.Var('root_char').Char.GetFirstNamePossessiveNoTooltip] [ROOT.Var('root_char').Char.Custom('PODCoterieNoTooltip')]" #NT!
+ POD_coteriename_default: "[ROOT.Var('root_char').Char.GetFirstNamePossessiveNoTooltip] [ROOT.Var('root_char').Char.Custom('PODCoterieNoTooltip')]"
   
- POD_coteriename_camilla: "#TOOLTIP:POD_coteriename_camilla_tt #L Les premiers pécheurs#!#!" #NT!
- POD_coteriename_mithras: "#TOOLTIP:POD_coteriename_mithras_tt #L Prétoriens de Mithra#!#!" #NT!
- POD_coteriename_alencourt: "#TOOLTIP:POD_coteriename_alencourt_tt #L Noblesse de Lyon#!#!" #NT!
- POD_coteriename_eon: "#TOOLTIP:POD_coteriename_eon_tt #L Les croisés d'Eon#!#!" #NT!
- POD_coteriename_sophoniba: "#TOOLTIP:POD_coteriename_sophoniba_tt #L Le renouveau de Tunis#!#!" #NT!
- POD_coteriename_augustus: "#TOOLTIP:POD_coteriename_augustus_tt #L Famille Giovanni#!#!" #NT!
- POD_coteriename_hardestadt: "#TOOLTIP:POD_coteriename_hardestadt_tt #L Fondateurs de l'Allemagne#!#!" #NT!
- POD_coteriename_julia: "#TOOLTIP:POD_coteriename_julia_tt #L Sénateurs de Francfort#!#!" #NT!
- POD_coteriename_jurgen: "#TOOLTIP:POD_coteriename_jurgen_tt #L Chevaliers de la Croix Noire#!#!" #NT!
- POD_coteriename_silent_fury: "#TOOLTIP:POD_coteriename_silent_fury_tt #L La Furie Silencieuse#!#!" #NT!
- POD_coteriename_nordic_ventrue: "#TOOLTIP:POD_coteriename_nordic_ventrue_tt #L Ventrue nordique#!#!" #NT!
- POD_coteriename_bar_sinister: "#TOOLTIP:POD_coteriename_bar_sinister_tt #L Bar Sinistre#!#!" #NT!
- POD_coteriename_ferals_livonia: "#TOOLTIP:POD_coteriename_ferals_livonia_tt #L Feraux de Livonie#!#!" #NT!
- POD_coteriename_redemption: "#TOOLTIP:POD_coteriename_redemption_tt #L La rédemption de Prague#!#!" #NT!
- POD_coteriename_andreas: "#TOOLTIP:POD_coteriename_andreas_tt #L La caravane d'Andréas#!#!" #NT!
- POD_coteriename_gabriella: "#TOOLTIP:POD_coteriename_gabriella_tt #L Latins de principes#!#!" #NT!
- POD_coteriename_anadja: "#TOOLTIP:POD_coteriename_anadja_tt #L Héritiers d'Enoch#!#!" #NT!
- POD_coteriename_suleiman: "#TOOLTIP:POD_coteriename_suleiman_tt #L La première Ashirra#!#!" #NT!
- POD_coteriename_erinyes: "#TOOLTIP:POD_coteriename_erinyes_tt #L Les Érinyes#!#!" #NT!
- POD_coteriename_carnival: "#TOOLTIP:POD_coteriename_carnival_tt #L Carnaval Moriendi#!#!" #NT!
- POD_coteriename_fratres: "#TOOLTIP:POD_coteriename_fratres_tt #L Fratres Plaga#!#!" #NT!
- POD_coteriename_red_thor: "#TOOLTIP:POD_coteriename_red_thor_tt #L Équipage du Thor Rouge#!#!" #NT!
- POD_coteriename_horus: "#TOOLTIP:POD_coteriename_horus_tt #L Khopesh du Vengeur#!#!" #NT!
- POD_coteriename_leopold: "#TOOLTIP:POD_coteriename_leopold_tt #L Gladius Dei#!#!" #NT!
- POD_coteriename_field: "#TOOLTIP:POD_coteriename_field_tt #L Champ d'étoiles#!#!" #NT!
- POD_coteriename_crescent: "#TOOLTIP:POD_coteriename_crescent_tt #L Croissant de Lune#!#!" #NT!
- POD_coteriename_bright: "#TOOLTIP:POD_coteriename_bright_tt #L Promesse lumineuse#!#!" #NT!
- POD_coteriename_sun_glory: "#TOOLTIP:POD_coteriename_sun_glory_tt #L Gloire du Soleil#!#!" #NT!
+ POD_coteriename_camilla: "#TOOLTIP:POD_coteriename_camilla_tt #L Les premiers pécheurs#!#!"
+ POD_coteriename_mithras: "#TOOLTIP:POD_coteriename_mithras_tt #L Prétoriens de Mithra#!#!"
+ POD_coteriename_alencourt: "#TOOLTIP:POD_coteriename_alencourt_tt #L Noblesse de Lyon#!#!"
+ POD_coteriename_eon: "#TOOLTIP:POD_coteriename_eon_tt #L Les croisés d'Eon#!#!"
+ POD_coteriename_sophoniba: "#TOOLTIP:POD_coteriename_sophoniba_tt #L Le renouveau de Tunis#!#!"
+ POD_coteriename_augustus: "#TOOLTIP:POD_coteriename_augustus_tt #L Famille Giovanni#!#!"
+ POD_coteriename_hardestadt: "#TOOLTIP:POD_coteriename_hardestadt_tt #L Fondateurs de l'Allemagne#!#!"
+ POD_coteriename_julia: "#TOOLTIP:POD_coteriename_julia_tt #L Sénateurs de Francfort#!#!"
+ POD_coteriename_jurgen: "#TOOLTIP:POD_coteriename_jurgen_tt #L Chevaliers de la Croix Noire#!#!"
+ POD_coteriename_silent_fury: "#TOOLTIP:POD_coteriename_silent_fury_tt #L La Furie Silencieuse#!#!"
+ POD_coteriename_nordic_ventrue: "#TOOLTIP:POD_coteriename_nordic_ventrue_tt #L Ventrue nordique#!#!"
+ POD_coteriename_bar_sinister: "#TOOLTIP:POD_coteriename_bar_sinister_tt #L Bar Sinistre#!#!"
+ POD_coteriename_ferals_livonia: "#TOOLTIP:POD_coteriename_ferals_livonia_tt #L Feraux de Livonie#!#!"
+ POD_coteriename_redemption: "#TOOLTIP:POD_coteriename_redemption_tt #L La rédemption de Prague#!#!"
+ POD_coteriename_andreas: "#TOOLTIP:POD_coteriename_andreas_tt #L La caravane d'Andréas#!#!"
+ POD_coteriename_gabriella: "#TOOLTIP:POD_coteriename_gabriella_tt #L Latins de principes#!#!"
+ POD_coteriename_anadja: "#TOOLTIP:POD_coteriename_anadja_tt #L Héritiers d'Enoch#!#!"
+ POD_coteriename_suleiman: "#TOOLTIP:POD_coteriename_suleiman_tt #L La première Ashirra#!#!"
+ POD_coteriename_erinyes: "#TOOLTIP:POD_coteriename_erinyes_tt #L Les Érinyes#!#!"
+ POD_coteriename_carnival: "#TOOLTIP:POD_coteriename_carnival_tt #L Carnaval Moriendi#!#!"
+ POD_coteriename_fratres: "#TOOLTIP:POD_coteriename_fratres_tt #L Fratres Plaga#!#!"
+ POD_coteriename_red_thor: "#TOOLTIP:POD_coteriename_red_thor_tt #L Équipage du Thor Rouge#!#!"
+ POD_coteriename_horus: "#TOOLTIP:POD_coteriename_horus_tt #L Khopesh du Vengeur#!#!"
+ POD_coteriename_leopold: "#TOOLTIP:POD_coteriename_leopold_tt #L Gladius Dei#!#!"
+ POD_coteriename_field: "#TOOLTIP:POD_coteriename_field_tt #L Champ d'étoiles#!#!"
+ POD_coteriename_crescent: "#TOOLTIP:POD_coteriename_crescent_tt #L Croissant de Lune#!#!"
+ POD_coteriename_bright: "#TOOLTIP:POD_coteriename_bright_tt #L Promesse lumineuse#!#!"
+ POD_coteriename_sun_glory: "#TOOLTIP:POD_coteriename_sun_glory_tt #L Gloire du Soleil#!#!"
   
- POD_coteriename_camilla_tt: "Tanitbaal-Sahar leur a montré la voie. Même l’effondrement d’un empire ne pouvait ébranler leurs convictions." #NT!
- POD_coteriename_mithras_tt: "Les champions triés sur le volet d'un Dieu, au courant de sa confiance et peut-être même de ses secrets." #NT!
- POD_coteriename_alencourt_tt: "Les liens familiaux peuvent tout supporter, même la mort." #NT!
- POD_coteriename_eon_tt: "La foi peut attendre un peu, mais pas les trésors et la gloire." #NT!
- POD_coteriename_sophoniba_tt: "Tandis que Carthage disparaissait, Tunis prospérait sous le regard bienveillant de ses protecteurs." #NT!
- POD_coteriename_augustus_tt: "La main droite et la main gauche du Patriarche, cherchant les secrets dont il a envie." #NT!
- POD_coteriename_hardestadt_tt: "Liés par un objectif commun, cherchant à refaire le monde Caïnite à leur image." #NT!
- POD_coteriename_julia_tt: "Le début d’un idéal, lié par le charisme d’une relique." #NT!
- POD_coteriename_jurgen_tt: "L'épée d'Hardestadt, qui cherche souvent à se libérer de ses carcans." #NT!
- POD_coteriename_silent_fury_tt: "De la canaille aux rebelles s’en prenant à un monde indifférent." #NT!
- POD_coteriename_nordic_ventrue_tt: "Les hommes et les femmes « civilisés » nettoient le Nord de ses anciens dieux." #NT!
- POD_coteriename_bar_sinister_tt: "Liés par l’avidité et la mesquinerie, sans pire ennemi qu’eux-mêmes." #NT!
- POD_coteriename_ferals_livonia_tt: "Un baroud d’honneur héroïque ou un renouveau improbable ?" #NT!
- POD_coteriename_redemption_tt: "Christoff les a unis et même son absence ne peut pas les diviser." #NT!
- POD_coteriename_andreas_tt: "Une caravane d'exilés et de marginaux, réunis sous le regard bienveillant de Set." #NT!
- POD_coteriename_gabriella_tt: "Pendant que Constantinople brûle, certains Latins tentent d'éteindre le feu." #NT!
- POD_coteriename_anadja_tt: "Préparé pour le succès, attendant avec impatience un trône de mensonges et de méchanceté." #NT!
- POD_coteriename_suleiman_tt: "Le premier à entendre sa parole et à vraiment la comprendre." #NT!
- POD_coteriename_erinyes_tt: "Les furies d’autrefois défiaient hardiment leurs ennemis de les arrêter." #NT!
- POD_coteriename_carnival_tt: "Tous sont invités à entrer. Rares sont ceux qui sont invités à partir." #NT!
- POD_coteriename_fratres_tt: "Unis pour étudier les horreurs de la mort et de la maladie, et les propager partout où ils vont." #NT!
- POD_coteriename_red_thor_tt: "Alors que le redouté drakkar navigue toujours, l’ère viking ne prendra jamais vraiment fin." #NT!
- POD_coteriename_horus_tt: "Les champions du Vengeur, chassant et tuant les serpents partout où ils habitent." #NT!
- POD_coteriename_leopold_tt: "Des hommes et des femmes déterminés, bénis par Dieu pour devenir ses champions. Ou peut-être ses martyrs." #NT!
- POD_coteriename_field_tt: "Des jeunes Garou impétueux et audacieux, parfois aveuglés par leur zèle." #NT!
- POD_coteriename_crescent_tt: "Héros d'une nation, destinés à ne jamais vraiment mourir." #NT!
- POD_coteriename_bright_tt: "Sur le point d’être brisée, la Promesse perdure malgré elle." #NT!
- POD_coteriename_sun_glory_tt: "La meute la plus renommée d’Europe occidentale, peine à faire face au départ d’un leader bien-aimé." #NT!
+ POD_coteriename_camilla_tt: "Tanitbaal-Sahar leur a montré la voie. Même l’effondrement d’un empire ne pouvait ébranler leurs convictions."
+ POD_coteriename_mithras_tt: "Les champions triés sur le volet d'un Dieu, au courant de sa confiance et peut-être même de ses secrets."
+ POD_coteriename_alencourt_tt: "Les liens familiaux peuvent tout supporter, même la mort."
+ POD_coteriename_eon_tt: "La foi peut attendre un peu, mais pas les trésors et la gloire."
+ POD_coteriename_sophoniba_tt: "Tandis que Carthage disparaissait, Tunis prospérait sous le regard bienveillant de ses protecteurs."
+ POD_coteriename_augustus_tt: "La main droite et la main gauche du Patriarche, cherchant les secrets dont il a envie."
+ POD_coteriename_hardestadt_tt: "Liés par un objectif commun, cherchant à refaire le monde Caïnite à leur image."
+ POD_coteriename_julia_tt: "Le début d’un idéal, lié par le charisme d’une relique."
+ POD_coteriename_jurgen_tt: "L'épée d'Hardestadt, qui cherche souvent à se libérer de ses carcans."
+ POD_coteriename_silent_fury_tt: "De la canaille aux rebelles s’en prenant à un monde indifférent."
+ POD_coteriename_nordic_ventrue_tt: "Les hommes et les femmes « civilisés » nettoient le Nord de ses anciens dieux."
+ POD_coteriename_bar_sinister_tt: "Liés par l’avidité et la mesquinerie, sans pire ennemi qu’eux-mêmes."
+ POD_coteriename_ferals_livonia_tt: "Un baroud d’honneur héroïque ou un renouveau improbable ?"
+ POD_coteriename_redemption_tt: "Christoff les a unis et même son absence ne peut pas les diviser."
+ POD_coteriename_andreas_tt: "Une caravane d'exilés et de marginaux, réunis sous le regard bienveillant de Set."
+ POD_coteriename_gabriella_tt: "Pendant que Constantinople brûle, certains Latins tentent d'éteindre le feu."
+ POD_coteriename_anadja_tt: "Préparé pour le succès, attendant avec impatience un trône de mensonges et de méchanceté."
+ POD_coteriename_suleiman_tt: "Le premier à entendre sa parole et à vraiment la comprendre."
+ POD_coteriename_erinyes_tt: "Les furies d’autrefois défiaient hardiment leurs ennemis de les arrêter."
+ POD_coteriename_carnival_tt: "Tous sont invités à entrer. Rares sont ceux qui sont invités à partir."
+ POD_coteriename_fratres_tt: "Unis pour étudier les horreurs de la mort et de la maladie, et les propager partout où ils vont."
+ POD_coteriename_red_thor_tt: "Alors que le redouté drakkar navigue toujours, l’ère viking ne prendra jamais vraiment fin."
+ POD_coteriename_horus_tt: "Les champions du Vengeur, chassant et tuant les serpents partout où ils habitent."
+ POD_coteriename_leopold_tt: "Des hommes et des femmes déterminés, bénis par Dieu pour devenir ses champions. Ou peut-être ses martyrs."
+ POD_coteriename_field_tt: "Des jeunes Garou impétueux et audacieux, parfois aveuglés par leur zèle."
+ POD_coteriename_crescent_tt: "Héros d'une nation, destinés à ne jamais vraiment mourir."
+ POD_coteriename_bright_tt: "Sur le point d’être brisée, la Promesse perdure malgré elle."
+ POD_coteriename_sun_glory_tt: "La meute la plus renommée d’Europe occidentale, peine à faire face au départ d’un leader bien-aimé."
   
- POD_coterietravel_none: "$EFFECT_LIST_BULLET$$POD_coterietravel_gui_none$" #NT!
- POD_coterietravel_empty: "$EFFECT_LIST_BULLET$$POD_coterietravel_gui_empty$" #NT!
- POD_coterietravel_yes: "$EFFECT_LIST_BULLET$Les membres de $POD_player_coterie$ vous rejoindront." #NT!
- POD_coterietravel_no: "$EFFECT_LIST_BULLET$Les membres de $POD_player_coterie$ ne seront pas #bold#! vous rejoindre." #NT!
+ POD_coterietravel_none: "$EFFECT_LIST_BULLET$$POD_coterietravel_gui_none$"
+ POD_coterietravel_empty: "$EFFECT_LIST_BULLET$$POD_coterietravel_gui_empty$"
+ POD_coterietravel_yes: "$EFFECT_LIST_BULLET$Les membres de $POD_player_coterie$ vous rejoindront."
+ POD_coterietravel_no: "$EFFECT_LIST_BULLET$Les membres de $POD_player_coterie$ ne seront pas #bold#! vous rejoindre."
   
- POD_coterietravel_gui_earthbound: "#X @warning_icon ! Pour démarrer le [travel_phase|E] en tant que [GetTrait('earthbound').GetName(GetPlayer)], vous devez habiter un [artifact|E] et avoir au moins 1 autre membre [GetPlayer.Custom('PODCoterie')].#!" #NT!
- POD_coterietravel_gui_none: "Puisque vous n'avez pas de [GetPlayer.Custom('PODCoterie')], vous voyagerez seul." #NT!
- POD_coterietravel_gui_empty: "Puisque vous êtes le seul membre du $POD_player_coterie$, vous voyagerez seul." #NT!
- POD_coterietravel_gui: "Voyager avec $POD_player_coterie$ ?" #NT!
+ POD_coterietravel_gui_earthbound: "#X @warning_icon ! Pour démarrer le [travel_phase|E] en tant que [GetTrait('earthbound').GetName(GetPlayer)], vous devez habiter un [artifact|E] et avoir au moins 1 autre membre [GetPlayer.Custom('PODCoterie')].#!"
+ POD_coterietravel_gui_none: "Puisque vous n'avez pas de [GetPlayer.Custom('PODCoterie')], vous voyagerez seul."
+ POD_coterietravel_gui_empty: "Puisque vous êtes le seul membre du $POD_player_coterie$, vous voyagerez seul."
+ POD_coterietravel_gui: "Voyager avec $POD_player_coterie$ ?"
   
   
   ##################################### 
   ##### Travel start event flavor ##### 
   ##################################### 
   
- POD_coterietravel_earthbound_flavor: "Il est enfin temps pour le $POD_player_coterie$ de se lancer dans ce [journey|E]. Le [GetPlayer.MakeScope.Var('stone_prison').Artifact.GetName] que j'habite est caché en toute sécurité dans notre voiture." #NT!
- POD_coterietravel_none_flavor: "Il est enfin temps pour moi de me lancer dans mon [journey|E]." #NT!
- POD_coterietravel_yes_flavor: "Il est enfin temps pour le $POD_player_coterie$ de se lancer dans ce [journey|E]." #NT!
- POD_coterietravel_no_flavor: "Il est enfin temps pour moi de me lancer dans mon [journey|E]. Les autres membres du $POD_player_coterie$ sont restés sur place pour me laisser partir dans cette mission solo." #NT!
+ POD_coterietravel_earthbound_flavor: "Il est enfin temps pour le $POD_player_coterie$ de se lancer dans ce [journey|E]. Le [GetPlayer.MakeScope.Var('stone_prison').Artifact.GetName] que j'habite est caché en toute sécurité dans notre voiture."
+ POD_coterietravel_none_flavor: "Il est enfin temps pour moi de me lancer dans mon [journey|E]."
+ POD_coterietravel_yes_flavor: "Il est enfin temps pour le $POD_player_coterie$ de se lancer dans ce [journey|E]."
+ POD_coterietravel_no_flavor: "Il est enfin temps pour moi de me lancer dans mon [journey|E]. Les autres membres du $POD_player_coterie$ sont restés sur place pour me laisser partir dans cette mission solo."
   
- POD_coterieflavor_ambitious_1: "[ROOT.Char.GetFirstNameNicknamed] marche avec un sens aigu du but, apparemment désireux de surmonter n'importe quel obstacle et de relever n'importe quel défi sur le chemin [ROOT.Char.GetHerHis|l]." #NT!
+ POD_coterieflavor_ambitious_1: "[ROOT.Char.GetFirstNameNicknamed] marche avec un sens aigu du but, apparemment désireux de surmonter n'importe quel obstacle et de relever n'importe quel défi sur le chemin [ROOT.Char.GetHerHis|l]."
   
- POD_coterieflavor_arbitrary_1: "[ROOT.Char.GetFirstNameNicknamed] craque [ROOT.Char.GetHerHis|l] jointures en prévision de ce voyage, prête à enfreindre certaines règles." #NT!
+ POD_coterieflavor_arbitrary_1: "[ROOT.Char.GetFirstNameNicknamed] craque [ROOT.Char.GetHerHis|l] jointures en prévision de ce voyage, prête à enfreindre certaines règles."
   
- POD_coterieflavor_arrogant_1: "[ROOT.Char.GetFirstNameNicknamed] se pavane devant notre groupe, le menton haut, comme si le succès de notre voyage était joué d'avance." #NT!
- POD_coterieflavor_arrogant_2: "[ROOT.Char.GetFirstNameNicknamed] laisse échapper un rire chaleureux. "N'aie pas l'air si maussade, [GetPlayer.GetFirstName]", dit [ROOT.Char.GetSheHe|l]. "Le $POD_player_coterie$ prévaudra, comme nous le faisons toujours. Nous sommes les meilleurs, après tout." [ROOT.Char.GetSheHe|U] clins d'œil." #NT!
+ POD_coterieflavor_arrogant_1: "[ROOT.Char.GetFirstNameNicknamed] se pavane devant notre groupe, le menton haut, comme si le succès de notre voyage était joué d'avance."
+ POD_coterieflavor_arrogant_2: "[ROOT.Char.GetFirstNameNicknamed] laisse échapper un rire chaleureux. "N'aie pas l'air si maussade, [GetPlayer.GetFirstName]", dit [ROOT.Char.GetSheHe|l]. "Le $POD_player_coterie$ prévaudra, comme nous le faisons toujours. Nous sommes les meilleurs, après tout." [ROOT.Char.GetSheHe|U] clins d'œil."
   
- POD_coterieflavor_brave_1: "[ROOT.Char.GetFirstNameNicknamed] est devant notre groupe. [ROOT.Char.GetSheHe|U] bouge avec une totale confiance, prêt à affronter n'importe quel danger et à lui rire au nez." #NT!
+ POD_coterieflavor_brave_1: "[ROOT.Char.GetFirstNameNicknamed] est devant notre groupe. [ROOT.Char.GetSheHe|U] bouge avec une totale confiance, prêt à affronter n'importe quel danger et à lui rire au nez."
   
- POD_coterieflavor_callous_1: "[ROOT.Char.GetFirstNameNicknamed] fait les pas aux côtés de notre groupe, pas la moindre trace d'émotion sur le visage de [ROOT.Char.GetHerHis|l]." #NT!
+ POD_coterieflavor_callous_1: "[ROOT.Char.GetFirstNameNicknamed] fait les pas aux côtés de notre groupe, pas la moindre trace d'émotion sur le visage de [ROOT.Char.GetHerHis|l]."
   
- POD_coterieflavor_calm_1: "[ROOT.Char.GetFirstNameNicknamed] regarde devant lui avec un regard serein sur le visage de [ROOT.Char.GetHerHis|l]. Je n'ai jamais vu [ROOT.Char.GetHerHim|l] secoué, et je me demande si ce voyage sera la première fois." #NT!
+ POD_coterieflavor_calm_1: "[ROOT.Char.GetFirstNameNicknamed] regarde devant lui avec un regard serein sur le visage de [ROOT.Char.GetHerHis|l]. Je n'ai jamais vu [ROOT.Char.GetHerHim|l] secoué, et je me demande si ce voyage sera la première fois."
   
- POD_coterieflavor_chaste_1: "[ROOT.Char.GetFirstNameNicknamed] marche distraitement aux côtés de notre groupe, apparemment perdu dans une sorte de fantasme. Certainement pas sordide, connaissant le [ROOT.Char.GetHerHim|l]." #NT!
+ POD_coterieflavor_chaste_1: "[ROOT.Char.GetFirstNameNicknamed] marche distraitement aux côtés de notre groupe, apparemment perdu dans une sorte de fantasme. Certainement pas sordide, connaissant le [ROOT.Char.GetHerHim|l]."
   
- POD_coterieflavor_compassionate_1: "[ROOT.Char.GetFirstNameNicknamed] nous regarde avec une véritable chaleur dans les yeux de [ROOT.Char.GetHerHis|l], toujours heureux d'aider les autres dans leurs efforts." #NT!
+ POD_coterieflavor_compassionate_1: "[ROOT.Char.GetFirstNameNicknamed] nous regarde avec une véritable chaleur dans les yeux de [ROOT.Char.GetHerHis|l], toujours heureux d'aider les autres dans leurs efforts."
   
- POD_coterieflavor_content_1: "[ROOT.Char.GetFirstNameNicknamed] marche avec le groupe à un rythme facile. [ROOT.Char.GetSheHe|U] a l'air vraiment heureux d'accepter quoi que ce soit, que ce voyage soit un succès ou un échec." #NT!
+ POD_coterieflavor_content_1: "[ROOT.Char.GetFirstNameNicknamed] marche avec le groupe à un rythme facile. [ROOT.Char.GetSheHe|U] a l'air vraiment heureux d'accepter quoi que ce soit, que ce voyage soit un succès ou un échec."
   
- POD_coterieflavor_craven_1: "[ROOT.Char.GetFirstNameNicknamed] a l'air un peu tendu à l'idée de faire ce voyage. [ROOT.Char.GetSheHe|U] a une réputation de lâcheté, mais ce voyage pourrait être l'occasion pour [ROOT.Char.GetHerHim|l] de prouver [ROOT.Char.GetHerselfHimself|l]." #NT!
+ POD_coterieflavor_craven_1: "[ROOT.Char.GetFirstNameNicknamed] a l'air un peu tendu à l'idée de faire ce voyage. [ROOT.Char.GetSheHe|U] a une réputation de lâcheté, mais ce voyage pourrait être l'occasion pour [ROOT.Char.GetHerHim|l] de prouver [ROOT.Char.GetHerselfHimself|l]."
   
- POD_coterieflavor_cynical_1: "[ROOT.Char.GetFirstNameNicknamed] a un sourire narquois sur le visage de [ROOT.Char.GetHerHis|l], prêt à se lancer dans n'importe quel effort tant que cela donne à [ROOT.Char.GetHerHim|l] l'occasion de contrarier les dieux." #NT!
+ POD_coterieflavor_cynical_1: "[ROOT.Char.GetFirstNameNicknamed] a un sourire narquois sur le visage de [ROOT.Char.GetHerHis|l], prêt à se lancer dans n'importe quel effort tant que cela donne à [ROOT.Char.GetHerHim|l] l'occasion de contrarier les dieux."
   
- POD_coterieflavor_deceitful_1: "[ROOT.Char.GetFirstNameNicknamed] me fait un clin d'œil conspirateur. Je suis bien conscient du talent du [ROOT.Char.GetHerHis|l] pour la tromperie, et j'espère que le [ROOT.Char.GetSheHe|l] les dirigera vers nos ennemis, pas vers les autres membres du $POD_player_coterie$." #NT!
+ POD_coterieflavor_deceitful_1: "[ROOT.Char.GetFirstNameNicknamed] me fait un clin d'œil conspirateur. Je suis bien conscient du talent du [ROOT.Char.GetHerHis|l] pour la tromperie, et j'espère que le [ROOT.Char.GetSheHe|l] les dirigera vers nos ennemis, pas vers les autres membres du $POD_player_coterie$."
   
- POD_coterieflavor_diligent_1: "[ROOT.Char.GetFirstNameNicknamed] transporte un sac rempli d'équipement, ayant clairement fait de nombreux préparatifs pour ce voyage." #NT!
+ POD_coterieflavor_diligent_1: "[ROOT.Char.GetFirstNameNicknamed] transporte un sac rempli d'équipement, ayant clairement fait de nombreux préparatifs pour ce voyage."
   
- POD_coterieflavor_eccentric_1: "[ROOT.Char.GetFirstNameNicknamed] siffle un petit air de [ROOT.Char.GetHerselfHimself|l] et bouge la tête de [ROOT.Char.GetHerHis|l] d'avant en arrière, perdu dans un monde propre à [ROOT.Char.GetHerHis|l]." #NT!
+ POD_coterieflavor_eccentric_1: "[ROOT.Char.GetFirstNameNicknamed] siffle un petit air de [ROOT.Char.GetHerselfHimself|l] et bouge la tête de [ROOT.Char.GetHerHis|l] d'avant en arrière, perdu dans un monde propre à [ROOT.Char.GetHerHis|l]."
   
- POD_coterieflavor_fickle_1: "[ROOT.Char.GetFirstNameNicknamed] regarde quelques oiseaux au loin, toujours aussi distraits." #NT!
+ POD_coterieflavor_fickle_1: "[ROOT.Char.GetFirstNameNicknamed] regarde quelques oiseaux au loin, toujours aussi distraits."
   
- POD_coterieflavor_forgiving_1: "[ROOT.Char.GetFirstNameNicknamed] sourit béatement, vivant vraiment l'instant présent, quoi qu'il arrive." #NT!
+ POD_coterieflavor_forgiving_1: "[ROOT.Char.GetFirstNameNicknamed] sourit béatement, vivant vraiment l'instant présent, quoi qu'il arrive."
   
- POD_coterieflavor_generous_1: "[ROOT.Char.GetFirstNameNicknamed] salue chaleureusement le reste de notre groupe. J'espère que nous ne rencontrerons personne qui profitera de la générosité du [ROOT.Char.GetHerHis|l]." #NT!
+ POD_coterieflavor_generous_1: "[ROOT.Char.GetFirstNameNicknamed] salue chaleureusement le reste de notre groupe. J'espère que nous ne rencontrerons personne qui profitera de la générosité du [ROOT.Char.GetHerHis|l]."
   
- POD_coterieflavor_gluttonous_1: "[ROOT.Char.GetFirstNameNicknamed] tape [ROOT.Char.GetHerHis|l] sur le ventre, j'attends déjà avec impatience les délices que [ROOT.Char.GetSheHe|l] pourrait goûter lors de ce voyage." #NT!
+ POD_coterieflavor_gluttonous_1: "[ROOT.Char.GetFirstNameNicknamed] tape [ROOT.Char.GetHerHis|l] sur le ventre, j'attends déjà avec impatience les délices que [ROOT.Char.GetSheHe|l] pourrait goûter lors de ce voyage."
   
- POD_coterieflavor_greedy_1: "[ROOT.Char.GetFirstNameNicknamed] cherche le sac à main dans la poche [ROOT.Char.GetHerHis|l], utilisant sans aucun doute ce voyage comme moyen d'élargir son contenu." #NT!
+ POD_coterieflavor_greedy_1: "[ROOT.Char.GetFirstNameNicknamed] cherche le sac à main dans la poche [ROOT.Char.GetHerHis|l], utilisant sans aucun doute ce voyage comme moyen d'élargir son contenu."
   
- POD_coterieflavor_gregarious_1: "[ROOT.Char.GetFirstNameNicknamed] discute joyeusement avec moi de ceci et de cela, vraiment dans l'élément [ROOT.Char.GetHerHis|l] lorsqu'il est entouré de gens." #NT!
+ POD_coterieflavor_gregarious_1: "[ROOT.Char.GetFirstNameNicknamed] discute joyeusement avec moi de ceci et de cela, vraiment dans l'élément [ROOT.Char.GetHerHis|l] lorsqu'il est entouré de gens."
   
- POD_coterieflavor_honest_1: "[ROOT.Char.GetFirstNameNicknamed] regarde au loin avec une expression placide sur le visage de [ROOT.Char.GetHerHis|l]. La nature honnête du [ROOT.Char.GetHerHis|l] sera-t-elle une aubaine dans ce voyage, ou un handicap ?" #NT!
+ POD_coterieflavor_honest_1: "[ROOT.Char.GetFirstNameNicknamed] regarde au loin avec une expression placide sur le visage de [ROOT.Char.GetHerHis|l]. La nature honnête du [ROOT.Char.GetHerHis|l] sera-t-elle une aubaine dans ce voyage, ou un handicap ?"
   
- POD_coterieflavor_humble_1: "[ROOT.Char.GetFirstNameNicknamed] marche avec [ROOT.Char.GetHerHis|l] les bras croisés derrière [ROOT.Char.GetHerHis|l] le dos. [ROOT.Char.GetSheHe|U] est une partie importante de notre groupe, même si [ROOT.Char.GetSheHe|l] ne l'admettrait jamais." #NT!
+ POD_coterieflavor_humble_1: "[ROOT.Char.GetFirstNameNicknamed] marche avec [ROOT.Char.GetHerHis|l] les bras croisés derrière [ROOT.Char.GetHerHis|l] le dos. [ROOT.Char.GetSheHe|U] est une partie importante de notre groupe, même si [ROOT.Char.GetSheHe|l] ne l'admettrait jamais."
   
- POD_coterieflavor_impatient_1: "[ROOT.Char.GetFirstNameNicknamed] tape [ROOT.Char.GetHerHis|l] pieds avec impatience, apparemment impatient de commencer." #NT!
- POD_coterieflavor_impatient_2: "[ROOT.Char.GetFirstNameNicknamed] fait les cent pas. [ROOT.Char.GetSheHe|U] me lance un regard accusateur. "Allons-y déjà. Nous ne devrions pas perdre plus de temps que nous n'en avons déjà."" #NT!
+ POD_coterieflavor_impatient_1: "[ROOT.Char.GetFirstNameNicknamed] tape [ROOT.Char.GetHerHis|l] pieds avec impatience, apparemment impatient de commencer."
+ POD_coterieflavor_impatient_2: "[ROOT.Char.GetFirstNameNicknamed] fait les cent pas. [ROOT.Char.GetSheHe|U] me lance un regard accusateur. "Allons-y déjà. Nous ne devrions pas perdre plus de temps que nous n'en avons déjà.""
   
- POD_coterieflavor_just_1: "[ROOT.Char.GetFirstNameNicknamed] a l'air solennel. Peut-être que [ROOT.Char.GetSheHe|l] avait espéré entreprendre un autre type de voyage, un voyage qui réparerait l'une des plus grandes injustices de ce monde." #NT!
+ POD_coterieflavor_just_1: "[ROOT.Char.GetFirstNameNicknamed] a l'air solennel. Peut-être que [ROOT.Char.GetSheHe|l] avait espéré entreprendre un autre type de voyage, un voyage qui réparerait l'une des plus grandes injustices de ce monde."
   
- POD_coterieflavor_lazy_1: "[ROOT.Char.GetFirstNameNicknamed] déambule à l'arrière de notre groupe à un rythme tranquille, sans aucun souci au monde." #NT!
+ POD_coterieflavor_lazy_1: "[ROOT.Char.GetFirstNameNicknamed] déambule à l'arrière de notre groupe à un rythme tranquille, sans aucun souci au monde."
   
- POD_coterieflavor_lustful_1: "[ROOT.Char.GetFirstNameNicknamed] marche distraitement aux côtés de notre groupe, apparemment perdu dans une sorte de fantasme. Un sordide, connaissant le [ROOT.Char.GetHerHim|l]." #NT!
+ POD_coterieflavor_lustful_1: "[ROOT.Char.GetFirstNameNicknamed] marche distraitement aux côtés de notre groupe, apparemment perdu dans une sorte de fantasme. Un sordide, connaissant le [ROOT.Char.GetHerHim|l]."
   
- POD_coterieflavor_paranoid_1: "Les yeux de [ROOT.Char.GetFirstNameNicknamedPossessive] vont et viennent, scrutant anxieusement notre environnement à la recherche de tout signe possible de danger." #NT!
+ POD_coterieflavor_paranoid_1: "Les yeux de [ROOT.Char.GetFirstNameNicknamedPossessive] vont et viennent, scrutant anxieusement notre environnement à la recherche de tout signe possible de danger."
   
- POD_coterieflavor_patient_1: "[ROOT.Char.GetFirstNameNicknamed] regarde le reste de notre groupe avec un signe de tête calme, comme si [ROOT.Char.GetSheHe|l] avait tout le temps du monde pour mener à bien ce voyage." #NT!
+ POD_coterieflavor_patient_1: "[ROOT.Char.GetFirstNameNicknamed] regarde le reste de notre groupe avec un signe de tête calme, comme si [ROOT.Char.GetSheHe|l] avait tout le temps du monde pour mener à bien ce voyage."
   
- POD_coterieflavor_sadistic_1: "[ROOT.Char.GetFirstNameNicknamedPossessive] les yeux scrutent l'horizon avec une faim qui rappelle celle d'un prédateur, un peu trop impatient d'affronter les dangers qui l'attendent." #NT!
+ POD_coterieflavor_sadistic_1: "[ROOT.Char.GetFirstNameNicknamedPossessive] les yeux scrutent l'horizon avec une faim qui rappelle celle d'un prédateur, un peu trop impatient d'affronter les dangers qui l'attendent."
   
- POD_coterieflavor_shy_1: "[ROOT.Char.GetFirstNameNicknamed] pas avec précaution, [ROOT.Char.GetHerHis|l] yeux fixés au sol. [ROOT.Char.GetSheHe|U] est rarement d'humeur bavarde." #NT!
+ POD_coterieflavor_shy_1: "[ROOT.Char.GetFirstNameNicknamed] pas avec précaution, [ROOT.Char.GetHerHis|l] yeux fixés au sol. [ROOT.Char.GetSheHe|U] est rarement d'humeur bavarde."
   
- POD_coterieflavor_stubborn_1: "[ROOT.Char.GetFirstNameNicknamed] avance à un rythme inexorable, comme si rien ne pouvait dissuader [ROOT.Char.GetHerHim|l] de mener notre effort jusqu'au bout." #NT!
+ POD_coterieflavor_stubborn_1: "[ROOT.Char.GetFirstNameNicknamed] avance à un rythme inexorable, comme si rien ne pouvait dissuader [ROOT.Char.GetHerHim|l] de mener notre effort jusqu'au bout."
   
- POD_coterieflavor_temperate_1: "[ROOT.Char.GetFirstNameNicknamed] propose un pack d'équipement léger et efficace, fidèle à la conviction de [ROOT.Char.GetHerHis|l] selon laquelle la modération est primordiale." #NT!
+ POD_coterieflavor_temperate_1: "[ROOT.Char.GetFirstNameNicknamed] propose un pack d'équipement léger et efficace, fidèle à la conviction de [ROOT.Char.GetHerHis|l] selon laquelle la modération est primordiale."
   
- POD_coterieflavor_trusting_1: "[ROOT.Char.GetFirstNameNicknamed] regarde notre environnement avec des yeux écarquillés, inconscient ou indifférent aux dangers auxquels nous pourrions être confrontés." #NT!
+ POD_coterieflavor_trusting_1: "[ROOT.Char.GetFirstNameNicknamed] regarde notre environnement avec des yeux écarquillés, inconscient ou indifférent aux dangers auxquels nous pourrions être confrontés."
   
- POD_coterieflavor_vengeful_1: "[ROOT.Char.GetFirstNameNicknamed] a l'air sérieux. Il est toujours difficile de savoir ce que pense [ROOT.Char.GetSheHe|l]. Ce voyage pourrait n'être qu'une étape du plan directeur du [ROOT.Char.GetHerHis|l] visant à éliminer les ennemis du [ROOT.Char.GetHerHis|l]." #NT!
+ POD_coterieflavor_vengeful_1: "[ROOT.Char.GetFirstNameNicknamed] a l'air sérieux. Il est toujours difficile de savoir ce que pense [ROOT.Char.GetSheHe|l]. Ce voyage pourrait n'être qu'une étape du plan directeur du [ROOT.Char.GetHerHis|l] visant à éliminer les ennemis du [ROOT.Char.GetHerHis|l]."
   
- POD_coterieflavor_wrathful_1: "[ROOT.Char.GetFirstNameNicknamed] marche en tête de notre groupe, les épaules carrées, ressemblant à un ressort prêt à se dérouler. J'espère que le tempérament légendaire du [ROOT.Char.GetHerHis|l] ne causera pas de problèmes dans notre entreprise." #NT!
+ POD_coterieflavor_wrathful_1: "[ROOT.Char.GetFirstNameNicknamed] marche en tête de notre groupe, les épaules carrées, ressemblant à un ressort prêt à se dérouler. J'espère que le tempérament légendaire du [ROOT.Char.GetHerHis|l] ne causera pas de problèmes dans notre entreprise."
   
- POD_coterieflavor_zealous_1: "[ROOT.Char.GetFirstNameNicknamed] avance avec détermination, une confiance profonde née de la croyance du [ROOT.Char.GetHerHis|l] dans les idéaux du [ROOT.Char.GetFaith.GetName]." #NT!
+ POD_coterieflavor_zealous_1: "[ROOT.Char.GetFirstNameNicknamed] avance avec détermination, une confiance profonde née de la croyance du [ROOT.Char.GetHerHis|l] dans les idéaux du [ROOT.Char.GetFaith.GetName]."
   
- POD_coterieflavor_generic_1: "[ROOT.Char.GetFirstNameNicknamed] n'a pas de personnalité. Une erreur s'est produite lors de la génération de ce personnage." #NT!
+ POD_coterieflavor_generic_1: "[ROOT.Char.GetFirstNameNicknamed] n'a pas de personnalité. Une erreur s'est produite lors de la génération de ce personnage."

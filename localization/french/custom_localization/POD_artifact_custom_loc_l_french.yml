@@ -1,6 +1,6 @@
 ﻿l_french:
- POD_artifact_lost_to_history: "#help Perdu dans l'histoire#!" #NT!
- POD_artifact_default_owner: "[Artifact.GetOwner.GetName]" #NT!
-  
- POD_artifact_lost_to_history_court: "Localisation : #help Perdu dans l'histoire#!" #NT!
- POD_artifact_default_owner_court: "Hérité avec [Artifact.GetAssociatedTitle.GetNameWithUnderlying]" #NT!
+    POD_artifact_lost_to_history: "#help Perdu dans l'histoire#!"
+    POD_artifact_default_owner: "[Artifact.GetOwner.GetName]"
+
+    POD_artifact_lost_to_history_court: "Localisation : #help Perdu dans l'histoire#!"
+    POD_artifact_default_owner_court: "Hérité avec [Artifact.GetAssociatedTitle.GetNameWithUnderlying]"

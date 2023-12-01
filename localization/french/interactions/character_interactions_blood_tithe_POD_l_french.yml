@@ -1,25 +1,23 @@
 ﻿l_french:
-  
- POD_blood_tithe: "Dîme de sang" #NT!
- POD_blood_tithe_interaction: "Dîme de sang" #NT!
- POD_blood_tithe_interaction_desc: "Exigez une dîme de sang à un vassal ou à un courtisan." #NT!
- POD_blood_tithe_interaction_options_heading: "Quel genre de dîme de sang dois-je exiger ?" #NT!
- POD_blood_tithe_option_animal: "Dîme des animaux" #NT!
- POD_blood_tithe_option_kine: "Dîme de Kine" #NT!
- POD_blood_tithe_interaction_kine_random.tt: "[recipient.GetTitledFirstName] enverra une dîme de vache à ma cour." #NT!
- POD_blood_tithe_option_random: "N'importe quel kine fera l'affaire" #NT!
- POD_blood_tithe_option_specific: "J'ai quelqu'un en particulier en tête" #NT!
- POD_blood_tithe_option_vitae: "Dîme de Vitae" #NT!
- POD_blood_tithe_option_childer: "Dîme de Childer" #NT!
- POD_blood_tithe_option_nothing: "Je n'exigerai aucune dîme de sang." #NT!
- POD_blood_tithe_option_exclusive: "J'ai des goûts particuliers." #NT!
- POD_blood_tithe_option_exclusive.tt: "[recipient.GetTitledFirstName] enverra une dîme de kine selon mes goûts." #NT!
- POD_blood_tithe_requirements_animal.tt: "Exigences de la dîme pour les animaux ici." #NT!
- POD_blood_tithe_requirements_kine.tt: "Exigences de dîme de Kine ici." #NT!
- POD_blood_tithe_requirements_vitae.tt: "Exigences de la dîme Vitae ici." #NT!
- POD_blood_tithe_specific_interaction: "Dîme du sang, spécifique" #NT!
- POD_blood_tithe_specific_interaction_desc: "Exigez un courtisan spécifique d'un vassal comme dîme de sang." #NT!
- recipient_secondary_POD_blood_tithe_specific_interaction: "Victime de la dîme du sang" #NT!
-  
- liege_vassal_contract_forbids_blood_tithe: "[recipient.GetFirstNamePossessive|U] [feudal_contract|E] interdit la dîme du sang" #NT!
-  
+    POD_blood_tithe: "Dîme de sang"
+    POD_blood_tithe_interaction: "Dîme de sang"
+    POD_blood_tithe_interaction_desc: "Exigez une dîme de sang à un vassal ou à un courtisan."
+    POD_blood_tithe_interaction_options_heading: "Quel genre de dîme de sang dois-je exiger ?"
+    POD_blood_tithe_option_animal: "Dîme des animaux"
+    POD_blood_tithe_option_kine: "Dîme de Kine"
+    POD_blood_tithe_interaction_kine_random.tt: "[recipient.GetTitledFirstName] enverra une dîme de vache à ma cour."
+    POD_blood_tithe_option_random: "N'importe quel kine fera l'affaire"
+    POD_blood_tithe_option_specific: "J'ai quelqu'un en particulier en tête"
+    POD_blood_tithe_option_vitae: "Dîme de Vitae"
+    POD_blood_tithe_option_childer: "Dîme de Childer"
+    POD_blood_tithe_option_nothing: "Je n'exigerai aucune dîme de sang."
+    POD_blood_tithe_option_exclusive: "J'ai des goûts particuliers."
+    POD_blood_tithe_option_exclusive.tt: "[recipient.GetTitledFirstName] enverra une dîme de kine selon mes goûts."
+    POD_blood_tithe_requirements_animal.tt: "Exigences de la dîme pour les animaux ici."
+    POD_blood_tithe_requirements_kine.tt: "Exigences de dîme de Kine ici."
+    POD_blood_tithe_requirements_vitae.tt: "Exigences de la dîme Vitae ici."
+    POD_blood_tithe_specific_interaction: "Dîme du sang, spécifique"
+    POD_blood_tithe_specific_interaction_desc: "Exigez un courtisan spécifique d'un vassal comme dîme de sang."
+    recipient_secondary_POD_blood_tithe_specific_interaction: "Victime de la dîme du sang"
+
+    liege_vassal_contract_forbids_blood_tithe: "[recipient.GetFirstNamePossessive|U] [feudal_contract|E] interdit la dîme du sang"

@@ -1,659 +1,659 @@
 ﻿l_french:
-  # Default title names 
- e_enoch: "Hénoc" #NT!
- e_enoch_adj: "Énochien" #NT!
- e_fiefs_of_the_black_cross: "Fiefs de la Croix Noire" #NT!
- e_fiefs_of_the_black_cross_adj: "Ventrue" #NT!
- e_voivodate: "Voïvodate" #NT!
- e_voivodate_adj: "Tzimisce" #NT!
- e_sea_of_shadows: "mer des ombres" #NT!
- e_sea_of_shadows_adj: "Lasombra" #NT!
- e_avalon: "Baronnies d'Avalon" #NT!
- e_avalon_adj: "Avalon" #NT!
- e_love: "Les tribunaux d'amour" #NT!
- e_love_adj: "Toréador" #NT!
- e_midgard: "Midgard" #NT!
- e_midgard_adj: "Einherjar" #NT!
- e_anda: "Horde d'Anda" #NT!
- e_anda_adj: "Anda" #NT!
- e_ashirra: "Califat d'Ashirra" #NT!
- e_ashirra_adj: "Ashirra" #NT!
- e_assamites: "Alamut" #NT!
- e_assamites_adj: "Assamité" #NT!
- k_giovanni: "Famille Giovanni" #NT!
- k_giovanni_adj: "Jean" #NT!
- e_ravnos: "Ravnos Kshatriya" #NT!
- e_ravnos_adj: "Ravnos" #NT!
- e_setite: "Adeptes de Set" #NT!
- e_setite_adj: "Séthite" #NT!
- e_talmahera: "Tal'mahe'Ra" #NT!
- e_talmahera_adj: "Main noire" #NT!
- k_obertus: "Obertus Akoimetoi" #NT!
- k_obertus_adj: "Obertus" #NT!
- k_moloch: "Ordre de Moloch" #NT!
- k_moloch_adj: "Molochime" #NT!
- k_angellisater: "Ordre d'Azaneal" #NT!
- k_angellisater_adj: "Angélis" #NT!
- k_webofknives: "Toile de couteaux" #NT!
- k_webofknives_adj: "la toile" #NT!
- k_losttribe: "Tribu perdue" #NT!
- k_losttribe_adj: "Perdu" #NT!
- k_olives: "Régime des olives" #NT!
- k_olives_adj: "Salubry" #NT!
- k_seeofnod: "Voir de Nod" #NT!
- k_seeofnod_adj: "Hérétique" #NT!
- e_tremere: "Maison de Tremere" #NT!
- e_tremere_adj: "Tremere" #NT!
- e_shadow_curtain: "Rideau d'ombre" #NT!
- e_shadow_curtain_adj: "Ombre" #NT!
- k_erciyes: "Erciyes" #NT!
- k_erciyes_adj: "Cappadocien" #NT!
- k_free_state: "État libre" #NT!
- k_free_state_adj: "Fureurs" #NT!
- k_lacadaemonia: "Nouvelle Lacadaemonia" #NT!
- k_lacadaemonia_adj: "Prométhéen" #NT!
- d_city_of_god: "Cité de Dieu" #NT!
- d_city_of_god_adj: "Hérétique" #NT!
- k_blood_horde: "Horde de sang" #NT!
- k_blood_horde_adj: "Gangrel" #NT!
- d_bar_sinister: "Bar Sinistre" #NT!
- d_bar_sinister_adj: "Fureurs" #NT!
- k_midnight_crescent: "Croissant de Minuit" #NT!
- k_midnight_crescent_adj: "Ashirra" #NT!
- d_silent_fury: "Fureur silencieuse" #NT!
- d_silent_fury_adj: "Fureurs" #NT!
- k_feral_horde: "Horde sauvage" #NT!
- k_feral_horde_adj: "Gangrel" #NT!
- k_eastern_lords: "Seigneurs de l'Est" #NT!
- k_eastern_lords_adj: "hongrois" #NT!
- e_infinite_thunder: "Cour du tonnerre infinie" #NT!
- e_infinite_thunder_adj: "Tonnerre" #NT!
- e_scarlet_dragon: "Cour du Phénix écarlate" #NT!
- e_scarlet_dragon_adj: "Écarlate" #NT!
- k_white_exiles: "Exilés blancs" #NT!
- k_white_exiles_adj: "Exilés" #NT!
- d_orme_alliance: "Alliance Orme" #NT!
- d_orme_alliance_adj: "normand" #NT!
- k_golden_cross: "Tribunaux de la Croix d'Or" #NT!
- k_golden_cross_adj: "Occitan" #NT!
- k_grand_court: "Grande Cour" #NT!
- k_grand_court_adj: "Français" #NT!
- e_dream: "Rêve" #NT!
- e_dream_adj: "Rêveur" #NT!
- e_lhiannan: "Terres des Sorcières" #NT!
- e_lhiannan_adj: "Sorcière" #NT!
- e_lhiannan_article: "Le" #NT!
- k_timisoara_banat: "Banat Timisoara" #NT!
- k_timisoara_banat_adj: "Timisoaran" #NT!
- k_celestial_tribe: "Tribu Céleste" #NT!
- k_celestial_tribe_adj: "Céleste" #NT!
- e_malkavian: "Clan Malkavien" #NT!
- e_malkavian_adj: "Malkavien" #NT!
- e_spqr: "S.P.Q.R" #NT!
- e_spqr_adj: "romain" #NT!
- e_carthage: "Carthage" #NT!
- e_carthage_adj: "carthaginois" #NT!
- e_nosferatu: "Clan Nosfératus" #NT!
- e_nosferatu_adj: "Nosferatu" #NT!
- e_eternal_rome: "Rome éternelle" #NT!
- e_eternal_rome_adj: "romain" #NT!
- e_ventrue: "Clan Ventrue" #NT!
- e_ventrue_adj: "Ventrue" #NT!
- e_church_third_caine: "Troisième Caïn" #NT!
- e_church_third_caine_adj: "Troisième Caïnite" #NT!
- e_church_third_caine_article: "Église du" #NT!
- e_gangrel: "Clan Gangrel" #NT!
- e_gangrel_adj: "Gangrel" #NT!
- e_free_states: "États libres caïnites" #NT!
- e_free_states_adj: "Fureurs" #NT!
- e_salubri: "Clan Salubri" #NT!
- e_salubri_adj: "Salubry" #NT!
- e_baali: "Clan Baali" #NT!
- e_baali_adj: "Baali" #NT!
- e_western_ravnos: "Ravnos occidentale" #NT!
- e_western_ravnos_adj: "Ravnos occidentale" #NT!
- e_laibon: "Royaume d'ébène" #NT!
- e_laibon_adj: "Laibon" #NT!
- k_golconda: "Golconde" #NT!
- k_golconda_adj: "Golconde" #NT!
- k_shakari: "Shakari" #NT!
- k_shakari_adj: "Shakari" #NT!
- k_ferals_livonia: "Les sauvages de Livonie" #NT!
- k_ferals_livonia_adj: "Livonien" #NT!
- k_shadow_reconquista: "Reconquista de l'Ombre" #NT!
- k_shadow_reconquista_adj: "Reconquête" #NT!
- k_lunar_shores: "Rivages lunaires" #NT!
- k_lunar_shores_adj: "Fous" #NT!
- k_haven_of_travellers: "Havre des Voyageurs" #NT!
- k_haven_of_travellers_adj: "Voyageurs" #NT!
- k_knights_of_acre: "Chevaliers d'Acre" #NT!
- k_knights_of_acre_adj: "Chevaliers" #NT!
- k_sisters_of_st_john: "Sœurs de Saint-Jean" #NT!
- k_sisters_of_st_john_adj: "Sœurs" #NT!
- k_red_order: "Ordre rouge" #NT!
- k_red_order_adj: "Ordre rouge" #NT!
- k_oculi_dei: "Oculi Dei" #NT!
- k_oculi_dei_adj: "Oculi Dei" #NT!
- k_house_murnau: "Maison Murnau" #NT!
- k_house_murnau_adj: "von Murnua" #NT!
- k_sword_of_st_james: "Épée de Saint-Jacques" #NT!
- k_sword_of_st_james_adj: "Épées" #NT!
- e_shadow_inquisition: "Inquisition de l'Ombre" #NT!
- e_shadow_inquisition_adj: "Inquisition" #NT!
- k_calomenasforsaken: "Les Réprouvés de Calomena" #NT!
- k_calomenasforsaken_adj: "Abandonné" #NT!
- k_councilofashes: "Conseil des Cendres" #NT!
- k_councilofashes_adj: "Conseil des Cendres" #NT!
- e_sphereofendarkenment: "Sphère d'obscurité" #NT!
- e_sphereofendarkenment_adj: "Sphère d'obscurité" #NT!
- e_melamutukku: "Melam Utukku" #NT!
- e_melamutukku_adj: "Melam Utukku" #NT!
- k_aracie: "Aracie" #NT!
- k_aracie_adj: "Aracie" #NT!
- d_crimson_curia: "Curie cramoisie" #NT!
- d_crimson_curia_adj: "Curie cramoisie" #NT!
- e_ordo_vaticinii: "Imperium Vaticanni" #NT!
- e_ordo_vaticinii_adj: "Vatican" #NT!
- e_libertas_castrum: "Culte du sang de Fvria Impériosa" #NT!
- e_libertas_castrum_adj: "Fvrian" #NT!
- d_fvriaimperiosa: "Fvria Impériosa" #NT!
- d_fvriaimperiosa_adj: "Fvrian" #NT!
- d_ordo_vaticinii: "Ordo Vaticani" #NT!
- d_ordo_vaticinii_adj: "Vaticani" #NT!
- d_viaapotheosis: "Via l'apothéose" #NT!
- d_viaapotheosis_adj: "Apothéosisien" #NT!
- d_viatartaros: "Via Tartaros" #NT!
- d_viatartaros_adj: "Tartare" #NT!
- k_sea_of_wraiths: "Mer des Spectres" #NT!
- k_sea_of_wraiths_adj: "Spectres marins" #NT!
- d_naktanchara: "Naktanchara" #NT!
- d_naktanchara_adj: "Naktanchara" #NT!
- e_patala: "Patala" #NT!
- e_patala_adj: "Patalan" #NT!
- k_franchecomte: "Franche-Comté" #NT!
- k_franchecomte_adj: "Franche-Comté" #NT!
- e_blackdeath: "Mort noire" #NT!
- e_blackdeath_adj: "Mort noire" #NT!
- d_pathofhonorableaccord: "Voie de l’accord honorable" #NT!
- d_pathofhonorableaccord_adj: "Voie de l’accord honorable" #NT!
- d_pathofpowerandtheinnervoice: "Voie du pouvoir et voix intérieure" #NT!
- d_pathofpowerandtheinnervoice_adj: "Voie du pouvoir et voix intérieure" #NT!
- d_pathofcathari: "Cathare" #NT!
- d_pathofcathari_adj: "Cathare" #NT!
- d_pathofcathari_article: "Chemin de" #NT!
- d_pathofthebeast: "Chemin de la bête" #NT!
- d_pathofthebeast_adj: "Chemin de la bête" #NT!
- d_pathofharmony: "Chemin de l'harmonie" #NT!
- d_pathofharmony_adj: "Chemin de l'harmonie" #NT!
- d_pathofcaine: "Chemin de Caïn" #NT!
- d_pathofcaine_adj: "Chemin de Caïn" #NT!
- d_pathofnight: "Chemin de la nuit" #NT!
- d_pathofnight_adj: "Chemin de la nuit" #NT!
- d_pathofmetamorphosis: "Chemin de la métamorphose" #NT!
- d_pathofmetamorphosis_adj: "Chemin de la métamorphose" #NT!
- d_pathofdeathandthesoul: "Le chemin de la mort et de l'âme" #NT!
- d_pathofdeathandthesoul_adj: "Le chemin de la mort et de l'âme" #NT!
- d_vasantasenadharma: "Vasantasenadharma" #NT!
- d_vasantasenadharma_adj: "Vasantasenadharma" #NT!
- d_tariqelsama: "Tariq el-Sama" #NT!
- d_tariqelsama_adj: "Tariq el-Sama" #NT!
- d_einherjar: "Einherjar" #NT!
- d_einherjar_adj: "Einherjar" #NT!
- d_viapeccati: "Via Peccati" #NT!
- d_viapeccati_adj: "Via Peccati" #NT!
- d_viavoluptarius: "Via Voluptaire" #NT!
- d_viavoluptarius_adj: "Via Voluptaire" #NT!
- d_viayasaq: "Yasa" #NT!
- d_viayasaq_adj: "Yasa" #NT!
- d_codeofsamiel: "Code de Samiel" #NT!
- d_codeofsamiel_adj: "Code de Samiel" #NT!
- d_codeoftremere: "Code de Tremere" #NT!
- d_codeoftremere_adj: "Code de Tremere" #NT!
- d_talmahera: "Main-sans-soleil" #NT!
- d_talmahera_adj: "Main-sans-soleil" #NT!
- d_tariqelhaqim: "Tariq el'Haqim" #NT!
- d_tariqelhaqim_adj: "Tariq el'Haqim" #NT!
- d_abyssal: "Amici Noctis" #NT!
- d_abyssal_adj: "Amici Noctis" #NT!
- d_mithraism: "Mithraïsme" #NT!
- d_mithraism_adj: "Mithraïsme" #NT!
- d_mayaparisatya: "Mayaparisatya" #NT!
- d_mayaparisatya_adj: "Mayaparisatya" #NT!
- d_archangeli: "Via Archangeli" #NT!
- d_archangeli_adj: "Via Archangeli" #NT!
- d_roadofset: "Hiérophantes de Seth" #NT!
- d_roadofset_adj: "Hiérophantes de Seth" #NT!
- d_ossium: "Via Ossium" #NT!
- d_ossium_adj: "Via Ossium" #NT!
- d_mutationis: "Culte de la Métamorphose" #NT!
- d_mutationis_adj: "Culte de la Métamorphose" #NT!
- d_noctis: "Via Noctis" #NT!
- d_noctis_adj: "Via Noctis" #NT!
- e_camarilla: "Camarilla" #NT!
- e_camarilla_adj: "Camarilla" #NT!
- e_sabbat: "Sabbat" #NT!
- e_sabbat_adj: "Sabbat" #NT!
- d_churchoftheblackmagdalene: "Madeleine noire" #NT!
- d_churchoftheblackmagdalene_adj: "Madeleine noire" #NT!
- d_churchoftheblackmagdalene_article: "Église du" #NT!
- k_shadowinquisition: "Inquisition de l'Ombre" #NT!
- k_shadowinquisition_adj: "Inquisition de l'Ombre" #NT!
- d_followersoflazarus: "Disciples de Lazare" #NT!
- d_followersoflazarus_adj: "Disciples de Lazare" #NT!
- k_nottunheimr: "Nóttunheimr" #NT!
- k_nottunheimr_adj: "Nóttunheimr" #NT!
- k_erebus: "Érèbe" #NT!
- k_erebus_adj: "Erebusi" #NT!
- e_ukshanucarini: "Ukshanucârinî" #NT!
- e_ukshanucarini_adj: "Ukshanucârinî" #NT!
- k_wolflair: "Repaire du loup" #NT!
- k_wolflair_adj: "Repaire du loup" #NT!
- k_wardens_of_seth: "Gardiens de Seth" #NT!
- k_wardens_of_seth_adj: "Gardiens de Seth" #NT!
- e_quincunx_vanguard: "Avant-garde du Quinconce" #NT!
- e_quincunx_vanguard_adj: "Quincunx" #NT!
- k_umbra: "Ombre" #NT!
- k_umbra_adj: "Ombre" #NT!
- k_carthego_nova: "Carthego Nova" #NT!
- k_carthego_nova_adj: "Carthego Nova" #NT!
- k_new_tremere_order: "Nouvel ordre Tremere" #NT!
- k_new_tremere_order_adj: "Nouvel ordre Tremere" #NT!
- k_dark_pulpo_fleet: "Flotte Pulpo Sombre" #NT!
- k_dark_pulpo_fleet_adj: "Flotte Pulpo Sombre" #NT!
- k_avalon: "Avalon" #NT!
- k_avalon_adj: "Avalon" #NT!
- k_mortifiers: "Mortificateurs" #NT!
- k_mortifiers_adj: "Mortificateurs" #NT!
- k_land_of_whispers: "Chuchotements" #NT!
- k_land_of_whispers_adj: "Chuchotements" #NT!
- k_land_of_whispers_article: "Terre de" #NT!
- k_covenant_of_ashes: "Alliance des Cendres" #NT!
- k_covenant_of_ashes_adj: "Engagement" #NT!
- k_court_of_crows: "Cour des Corbeaux" #NT!
- k_court_of_crow_adj: "Corbeaux" #NT!
- d_path_of_asakku: "Chemin d'Asakku" #NT!
- d_path_of_assaku_adj: "Corrompu" #NT!
- d_third_caine: "Patriarcat œcuménique du Troisième Caïn" #NT!
- d_third_caine_adj: "Troisième Caïnite" #NT!
- d_third_caine_article: "Patriarcat œcuménique du" #NT!
- k_brass_blood: "Royaume d'airain et de sang" #NT!
- k_brass_blood_adj: "Laiton et sang" #NT!
- k_ravens_head: "Tête de corbeau" #NT!
- k_ravens_head_adj: "Tête de corbeau" #NT!
- e_hyperborea: "Hyperborée" #NT!
- e_hyperborea_adj: "Hyperboréen" #NT!
- e_vere-imejaa_sinod: "Vere-Imejaa Sinod" #NT!
- e_vere-imejaa_sinod_adj: "Sinod" #NT!
- d_drowned_monastery: "Monastère noyé" #NT!
- d_drowned_monastery_adj: "Noyé" #NT!
- e_regno_del_desiderio: "Royaume du Désiré" #NT!
- e_regno_del_desiderio_adj: "Désidério" #NT!
- d_path_of_carnal_desire: "Désir charnel" #NT!
- d_path_of_carnal_desire_adj: "Voulu" #NT!
- d_path_of_carnal_desire_article: "Chemin de" #NT!
- e_isis: "Disciples d'Isis" #NT!
- e_isis_adj: "Suiveurs" #NT!
- k_cardona: "Famille Cardona" #NT!
- k_cardona_adj: "Cardona" #NT!
- e_giovanni: "Clan Giovanni" #NT!
- e_giovanni_adj: "Jean" #NT!
- k_tremere: "Clan Tremere" #NT!
- k_tremere_adj: "Tremere" #NT!
- e_cainite_curia: "Curie Caïnite" #NT!
- e_cainite_curia_adj: "Curie" #NT!
- k_milan: "Milan" #NT!
- k_milan_adj: "Milanais" #NT!
- e_old_country: "Vieux Pays" #NT!
- e_old_country_adj: "Sabbat" #NT!
- e_golden_courts: "Cours d'or" #NT!
- e_golden_courts_adj: "Doré" #NT!
- k_court_wolves: "Cour des loups" #NT!
- k_court_wolves_adj: "loups" #NT!
- k_oradea_league: "Ligue d'Oradea" #NT!
- k_oradea_league_adj: "Oradea" #NT!
- e_egypt: "Kemet" #NT!
- e_egypt_adj: "Kémétique" #NT!
- e_white_court: "Cour du Tigre Blanc" #NT!
- e_white_court_adj: "Blanc" #NT!
- e_vinsaule: "Vinsaule" #NT!
- e_vinsaule_adj: "Vinsaule" #NT!
- k_aethiopia: "Éthiopie" #NT!
- k_aethiopia_adj: "Éthiopie" #NT!
- e_white_shadow: "ombre blanche" #NT!
- e_white_shadow_adj: "ombre blanche" #NT!
- k_guernsey: "Guernesey" #NT!
- k_guernsey_adj: "Guernesey" #NT!
- k_guernsey_article: "Cour la plus sereine de" #NT!
- k_eternal_bacchanalia: "Bacchanales éternelles" #NT!
- k_eternal_bacchanalia_adj: "Bacchanales éternelles" #NT!
- k_libertatia: "Liberté" #NT!
- k_libertatia_adj: "Liberté" #NT!
- e_elfame: "Elfame" #NT!
- e_elfame_adj: "Unseelie" #NT!
- d_baobhan_sith: "Baobhan Sith" #NT!
- d_baobhan_sith_adj: "Baobhan Sith" #NT!
- e_toreador: "Clan Toréador" #NT!
- e_toreador_adj: "Toréador" #NT!
- k_sun_glory: "La gloire du soleil en septembre" #NT!
- k_sun_glory_adj: "Soleil" #NT!
- d_field_stars: "Champ d'étoiles septembre" #NT!
- d_field_stars_adj: "Étoile" #NT!
- d_white_sea: "mer Blanche" #NT!
- d_white_sea_adj: "mer Blanche" #NT!
- d_white_sea_article: "Septembre du" #NT!
- d_wild_sea: "Mer sauvage" #NT!
- d_wild_sea_adj: "Sauvage" #NT!
- d_wild_sea_article: "Septembre du" #NT!
- k_fimbul_winter: "Fimbul Nuit d'hiver de septembre" #NT!
- k_fimbul_winter_adj: "Hiver" #NT!
- d_bright_promise: "Promesse lumineuse" #NT!
- d_bright_promise_adj: "Promesse lumineuse" #NT!
- d_bright_promise_article: "Septembre du" #NT!
- d_winter_forest: "Forêt d'hiver septembre" #NT!
- d_winter_forest_adj: "Hiver" #NT!
- k_night_sky: "Ciel de nuit" #NT!
- k_night_sky_adj: "Chaque nuit" #NT!
- k_night_sky_article: "Septembre du" #NT!
- d_wheel_ptah: "Sept de la Roue de Ptah" #NT!
- d_wheel_ptah_adj: "Roue" #NT!
- d_wheel_ptah_article: "Septembre du" #NT!
- k_crescent_moon: "Croissant de lune" #NT!
- k_crescent_moon_adj: "Croissant de lune" #NT!
- k_crescent_moon_article: "Septembre du" #NT!
- k_snow_leopard: "Léopard des neiges" #NT!
- k_snow_leopard_adj: "Neigeux" #NT!
- k_snow_leopard_article: "Septembre du" #NT!
- e_black_furies: "Furies noires" #NT!
- e_black_furies_adj: "Furieux" #NT!
- e_bone_gnawers: "Rongeurs d'os" #NT!
- e_bone_gnawers_adj: "Rongeur" #NT!
- e_children_gaia: "Enfants de Gaïa" #NT!
- e_children_gaia_adj: "Gaïa" #NT!
- e_fianna: "Fianna" #NT!
- e_fianna_adj: "Fianna" #NT!
- e_warders_men: "Gardiens des hommes" #NT!
- e_warders_men_adj: "Garde" #NT!
- e_get_fenris: "Obtenir de Fenris" #NT!
- e_get_fenris_adj: "Obtenir" #NT!
- e_red_talons: "Serres rouges" #NT!
- e_red_talons_adj: "Rouge" #NT!
- e_shadow_lords: "Seigneurs de l'Ombre" #NT!
- e_shadow_lords_adj: "Ombragé" #NT!
- e_silver_fangs: "Crocs d'argent" #NT!
- e_silver_fangs_adj: "Argenté" #NT!
- e_silent_striders: "Marcheurs silencieux" #NT!
- e_silent_striders_adj: "Silencieux" #NT!
- e_stargazers: "Les astronomes" #NT!
- e_stargazers_adj: "Observation des étoiles" #NT!
- e_black_spiral_dancers: "Danseurs de la spirale noire" #NT!
- e_black_spiral_dancers_adj: "Dansant" #NT!
- e_garou_nation: "Nation Garou" #NT!
- e_garou_nation_adj: "Garou" #NT!
- k_nychta: "Νύχτα" #NT!
- k_nychta_adj: "Νύχτα" #NT!
- e_onyx_dragon_court: "Cour du dragon d'onyx" #NT!
- k_dya_pani_chauchimos_adj: "Dya Pani Chauchimos" #NT!
- k_brunestud: "Brunestud" #NT!
- k_brunestud_adj: "Brunestud" #NT!
- k_brunestud_article: "Grande Principauté de" #NT!
- e_stygia: "Stygie" #NT!
- e_stygia_adj: "Stygie" #NT!
- k_great_swarm: "Le grand essaim" #NT!
- k_great_swarm_adj: "Essaimeur" #NT!
- k_hunedoara: "Hunedoara" #NT!
- k_hunedoara_adj: "Hunedoaran" #NT!
- k_garden_of_pleasure: "Jardin d'agrément" #NT!
- k_garden_of_pleasure_adj: "Orgiaque" #NT!
- k_garden_of_pleasure_article: "Le" #NT!
- k_new_lacedaemon: "Nouvelle Lacédémone" #NT!
- k_new_lacedaemon_adj: "Lacédémion" #NT!
- k_akkad: "Akkad" #NT!
- k_akkad_adj: "Akkadien" #NT!
- k_dis: "Dis" #NT!
- k_dis_adj: "Disian" #NT!
- k_new_carthage: "Carthago Nova" #NT!
- k_new_carthage_adj: "carthaginois" #NT!
- k_court_of_iron: "Cour de Fer" #NT!
- k_court_of_iron_adj: "Fer" #NT!
- k_new_boeotia: "Nouvelle Béotie" #NT!
- k_new_boeotia_adj: "Béotien" #NT!
- k_iram_of_the_pillars: "Iram des Piliers" #NT!
- k_iram_of_the_pillars_adj: "Piliers" #NT!
- e_leviathan: "Léviathan" #NT!
- e_leviathan_adj: "Léviathan" #NT!
- e_cultusveteriscustodiae: "Cultus Veteris Custodiae" #NT!
- e_cultusveteriscustodiae_adj: "Dépositaires" #NT!
- e_jotunheim: "Jotunheim" #NT!
- e_jotunheim_adj: "Jotun" #NT!
- e_sha: "Sha" #NT!
- e_sha_adj: "Sha" #NT!
- d_leviathan: "Léviathan" #NT!
- d_leviathan_adj: "Léviathan" #NT!
- d_leviathan_article: "Chemin de" #NT!
- d_jotunnsvag: "Jötunns Väg" #NT!
- d_jotunnsvag_adj: "Jötunns Väg" #NT!
- d_siberakh: "Sept du Siberakh" #NT!
- d_siberakh_adj: "Sibérie" #NT!
- e_yellow_springs: "Sources jaunes" #NT!
- e_yellow_springs_adj: "Sources jaunes" #NT!
- e_spring_court: "Printemps" #NT!
- e_spring_court_adj: "Printemps" #NT!
- e_spring_court_article: "Tribunal de" #NT!
- e_summer_court: "Été" #NT!
- e_summer_court_adj: "Cour d'été" #NT!
- e_summer_court_article: "Tribunal de" #NT!
- e_autumn_court: "Automne" #NT!
- e_autumn_court_adj: "Automne" #NT!
- e_autumn_court_article: "Tribunal de" #NT!
- e_winter_court: "Hiver" #NT!
- e_winter_court_adj: "Hiver" #NT!
- e_winter_court_article: "Tribunal de" #NT!
- e_solstice_court: "Solstice" #NT!
- e_solstice_court_adj: "Solstice" #NT!
- e_solstice_court_article: "Tribunal de" #NT!
- k_beaumayn: "Beaumayn" #NT!
- k_beaumayn_adj: "Beaumayn" #NT!
- k_beaumayn_article: "Maison" #NT!
- k_dougal: "Dougal" #NT!
- k_dougal_adj: "Dougal" #NT!
- k_dougal_article: "Maison" #NT!
- k_eiluned: "Eiluned" #NT!
- k_eiluned_adj: "Eiluned" #NT!
- k_eiluned_article: "Maison" #NT!
- k_fiona: "Fiona" #NT!
- k_fiona_adj: "Fiona" #NT!
- k_fiona_article: "Maison" #NT!
- k_gwydion: "Gwydion" #NT!
- k_gwydion_adj: "Gwydion" #NT!
- k_gwydion_article: "Maison" #NT!
- k_liam: "Liam" #NT!
- k_liam_adj: "Liam" #NT!
- k_liam_article: "Maison" #NT!
- k_aesin: "Aésine" #NT!
- k_aesin_adj: "Aésine" #NT!
- k_aesin_article: "Maison" #NT!
- k_ailil: "Ailil" #NT!
- k_ailil_adj: "Ailil" #NT!
- k_ailil_article: "Maison" #NT!
- k_balor: "Balor" #NT!
- k_balor_adj: "Balor" #NT!
- k_balor_article: "Maison" #NT!
- k_daireann: "Daireann" #NT!
- k_daireann_adj: "Daireann" #NT!
- k_daireann_article: "Maison" #NT!
- k_leanhaun: "Leanhaun" #NT!
- k_leanhaun_adj: "Leanhaun" #NT!
- k_leanhaun_article: "Maison" #NT!
- k_varich: "Varich" #NT!
- k_varich_adj: "Varich" #NT!
- k_varich_article: "Maison" #NT!
- k_danaan: "Danann" #NT!
- k_danaan_adj: "Danann" #NT!
- k_danaan_article: "Maison" #NT!
- k_scathach: "Maison Scathach" #NT!
- k_scathach_adj: "Scathach" #NT!
- d_faerie_well: "Puits féerique" #NT!
- d_faerie_well_adj: "Puits féerique" #NT!
- d_faerie_well_article: "Promesse du" #NT!
- d_grand_bazaar: "Grand Bazar" #NT!
- d_grand_bazaar_adj: "Grand Bazar" #NT!
- d_crystal_fortress: "Forteresse de cristal" #NT!
- d_crystal_fortres_adj: "Forteresse de cristal" #NT!
- d_ynys_witrin: "Ynys Witrin" #NT!
- d_ynys_witrin_adj: "Ynys Witrin" #NT!
- d_amber_palace: "Palais d'Ambre" #NT!
- d_amber_palace_adj: "Palais d'Ambre" #NT!
- d_valiant_forge: "Forge vaillante" #NT!
- d_valiant_forge_adj: "Forge vaillante" #NT!
- d_valiant_forge_article: "Tribunal de" #NT!
- d_ocean_of_dust: "Océan de poussière" #NT!
- d_ocean_of_dust_adj: "Océan de poussière" #NT!
- d_keshalyi: "Rassemblements de Keshalyi" #NT!
- d_keshalyi_adj: "Rassemblements de Keshalyi" #NT!
- d_chill_court: "Spectre d'eau" #NT!
- d_chill_court_adj: "Spectre d'eau" #NT!
- d_chill_court_article: "Chill Cour du" #NT!
- d_black_road: "Route noire" #NT!
- d_black_road_adj: "Route noire" #NT!
- d_black_road_article: "Le" #NT!
- d_callicantzaroi: "Cour de Callicantzaroi" #NT!
- d_callicantzaroi_adj: "Cour de Callicantzaroi" #NT!
- d_callicantzaroi_article: "Le" #NT!
- c_underbridge: "Sous le pont" #NT!
- c_underbridge_adj: "Sous le pont" #NT!
- d_underbridge: "Sous le pont" #NT!
- d_underbridge_adj: "Sous le pont" #NT!
- k_underbridge: "Sous le pont" #NT!
- k_underbridge_adj: "Sous le pont" #NT!
- e_underbridge: "Sous le pont" #NT!
- e_underbridge_adj: "Sous le pont" #NT!
- d_nights_kin: "Pierres des parents de la nuit" #NT!
- d_nights_kin_adj: "Pierres des parents de la nuit" #NT!
- #c_nights_kin_article: "Pierres de" #NT!
- d_woven_staves: "Trône des bâtons tissés" #NT!
- d_woven_staves_adj: "Trône des bâtons tissés" #NT!
- #c_woven_staves_article: "Trône de" #NT!
- d_heady_apple: "Pomme grognante" #NT!
- d_heady_apple_adj: "Pomme grognante" #NT!
- d_heady_apple_article: "Tribunal de" #NT!
- d_lost_forest: "Forêt perdue" #NT!
- d_lost_forest_adj: "Forêt perdue" #NT!
- d_frozen_lake: "Lac gelé" #NT!
- d_frozen_lake_adj: "Lac gelé" #NT!
- d_sunken_city: "Oui, la ville engloutie" #NT!
- d_sunken_city_adj: "Ysian" #NT!
- d_shadow_bridge: "Pont de l'Ombre" #NT!
- d_shadow_bridge_adj: "Pont de l'Ombre" #NT!
- e_season_courts: "Cour de toutes les saisons" #NT!
- e_season_courts_adj: "Saison" #NT!
- d_unshriven_zealot: "Zélote impitoyable" #NT!
- d_unshriven_zealot_adj: "Zélote impitoyable" #NT!
- d_hive_of_the_unshriven_zealot_article: "Ruche du" #NT!
- k_hibernia: "Hibernie" #NT!
- k_hibernia_adj: "Hibernien" #NT!
- k_caledonia: "Calédonie" #NT!
- k_caledonia_adj: "Calédonien" #NT!
- k_cymru: "Cymru" #NT!
- k_cymru_adj: "Cyymru" #NT!
- d_snowflakes: "Flocons de neige" #NT!
- d_snowflakes_adj: "Flocons de neige" #NT!
- d_snowflakes_article: "Île de" #NT!
- d_drails_horde: "Coterie du Drail" #NT!
- d_drails_horde_adj: "Drailien" #NT!
- k_solstice_court: "Solstice" #NT!
- k_solstice_court_adj: "Solstice" #NT!
- k_solstice_court_article: "Tribunal de" #NT!
- d_isle_of_dreams: "L'île des rêves" #NT!
- d_isle_of_dreams_adj: "L'île des rêves" #NT!
- d_exodus: "Exode" #NT!
- d_exodus_adj: "Exode" #NT!
- d_exodus_article: "Les précurseurs de" #NT!
- d_silent_waves: "Vagues silencieuses" #NT!
- d_silent_waves_adj: "Vagues silencieuses" #NT!
- d_silent_waves_article: "Plaines de" #NT!
- d_blood_peace: "Paix de sang" #NT!
- d_blood_peace_adj: "Paix de sang" #NT!
- d_blood_peace_article: "Le" #NT!
- k_blood_peace: "Paix de sang" #NT!
- k_blood_peace_adj: "Paix de sang" #NT!
- k_blood_peace_article: "Le" #NT!
- d_scherezades_circle: "Cercle de Schérezade" #NT!
- d_scherezades_circle_adj: "Cercle de Schérezade" #NT!
- d_broceliande: "Brocéliande" #NT!
- d_broceliande_adj: "Brocéliande" #NT!
- d_loch_ness: "Loch Ness" #NT!
- d_loch_ness_adj: "Loch Ness" #NT!
- d_olympus: "Olympe" #NT!
- d_olympus_adj: "Olympe" #NT!
- d_vesuvius: "Vésuve" #NT!
- d_vesuvius_adj: "Vésuve" #NT!
- d_teide: "Teide" #NT!
- d_teide_adj: "Teide" #NT!
- d_hekla: "Hékla" #NT!
- d_hekla_adj: "Hékla" #NT!
- d_nea_kameni: "Néa Kaméni" #NT!
- d_nea_kameni_adj: "Néa Kaméni" #NT!
- d_arat: "Mont Arat" #NT!
- d_arat_adj: "Mont Arat" #NT!
- d_everest: "Everest" #NT!
- d_everest_adj: "Everest" #NT!
- d_matterhorn: "Cervin" #NT!
- d_matterhorn_adj: "Cervin" #NT!
- d_elbrus: "Elbrouz" #NT!
- d_elbrus_adj: "Elbrouz" #NT!
- d_toubkal: "Toubkal" #NT!
- d_toubkal_adj: "Toubkal" #NT!
- d_van: "Van" #NT!
- d_van_adj: "Van" #NT!
- d_lake_baikal: "Baïkal" #NT!
- d_lake_baikal_adj: "Baïkal" #NT!
- d_aral_sea: "mer d'Aral" #NT!
- d_aral_sea_adj: "mer d'Aral" #NT!
- d_kardamyli: "Kardamyle" #NT!
- d_kardamyli_adj: "Kardamyle" #NT!
- d_bialowieza_forest: "Brocéliande" #NT!
- d_bialowieza_forest_adj: "Brocéliande" #NT!
- d_wistmans_wood: "Bois de Wistman" #NT!
- d_wistmans_wood_adj: "Bois de Wistman" #NT!
- d_hoia_forest: "Forêt de Hôia" #NT!
- d_hoia_forest_adj: "Forêt de Hôia" #NT!
- d_black_forest: "Forêt Noire" #NT!
- d_black_forest_adj: "Forêt Noire" #NT!
- d_foloi_oak_forest: "Forêt de chênes de Foloi" #NT!
- d_foloi_oak_forest_adj: "Forêt de chênes de Foloi" #NT!
- d_slive_gullion_forest: "Forêt de Slive Gullion" #NT!
- d_slive_gullion_forest_adj: "Forêt de Slive Gullion" #NT!
- d_puzzlewood: "Bois de puzzle" #NT!
- d_puzzlewood_adj: "Bois de puzzle" #NT!
- d_gruissan: "Gruissan" #NT!
- d_gruissan_adj: "Gruissan" #NT!
- d_ab_paran: "Ab-Paran" #NT!
- d_ab_paran_adj: "Ab-Paran" #NT!
- d_baku: "Bakou" #NT!
- d_baku_adj: "Bakou" #NT!
- k_pandorum: "Pandore" #NT!
- k_pandorum_adj: "Pandore" #NT!
- e_pandorum: "Pandore" #NT!
- e_pandorum_adj: "Pandore" #NT!
- k_rome: "Rome" #NT!
- k_rome_adj: "Rome" #NT!
- k_neothemiscyra: "Néo-Thémiscyra" #NT!
- k_neothemiscyra_adj: "Néo-Thémiscyra" #NT!
- e_trueimperium: "Véritable Imperium" #NT!
- e_trueimperium_adj: "Véritable Imperium" #NT!
- e_kush: "Kush" #NT!
- e_kush_adj: "Kush" #NT!
- k_red_sun_over_paradise: "Soleil rouge sur le paradis" #NT!
- k_red_sun_over_paradise_adj: "Soleil rouge sur le paradis" #NT!
- e_cappadocian: "Clan Cappadocien" #NT!
- e_cappadocian_adj: "Cappadocien" #NT!
- e_babylon: "Babylone" #NT!
- e_babylon_adj: "babylonien" #NT!
- d_djadjat_of_wonders: "Djadjat des Merveilles" #NT!
- d_djadjat_of_wonders_adj: "Djadjat des Merveilles" #NT!
- k_ife: "Ifé" #NT!
- k_ife_adj: "Ifé" #NT!
- e_nomads_of_yahweh: "Nomades de Yahvé" #NT!
- e_nomads_of_yahweh_adj: "Nomades de Yahvé" #NT!
- k_court_of_death: "Cour de la mort" #NT!
- k_court_of_death_adj: "Cour de la mort" #NT!
+    # Default title names
+    e_enoch: "Hénoc"
+    e_enoch_adj: "Énochien"
+    e_fiefs_of_the_black_cross: "Fiefs de la Croix Noire"
+    e_fiefs_of_the_black_cross_adj: "Ventrue"
+    e_voivodate: "Voïvodate"
+    e_voivodate_adj: "Tzimisce"
+    e_sea_of_shadows: "mer des ombres"
+    e_sea_of_shadows_adj: "Lasombra"
+    e_avalon: "Baronnies d'Avalon"
+    e_avalon_adj: "Avalon"
+    e_love: "Les tribunaux d'amour"
+    e_love_adj: "Toréador"
+    e_midgard: "Midgard"
+    e_midgard_adj: "Einherjar"
+    e_anda: "Horde d'Anda"
+    e_anda_adj: "Anda"
+    e_ashirra: "Califat d'Ashirra"
+    e_ashirra_adj: "Ashirra"
+    e_assamites: "Alamut"
+    e_assamites_adj: "Assamité"
+    k_giovanni: "Famille Giovanni"
+    k_giovanni_adj: "Jean"
+    e_ravnos: "Ravnos Kshatriya"
+    e_ravnos_adj: "Ravnos"
+    e_setite: "Adeptes de Set"
+    e_setite_adj: "Séthite"
+    e_talmahera: "Tal'mahe'Ra"
+    e_talmahera_adj: "Main noire"
+    k_obertus: "Obertus Akoimetoi"
+    k_obertus_adj: "Obertus"
+    k_moloch: "Ordre de Moloch"
+    k_moloch_adj: "Molochime"
+    k_angellisater: "Ordre d'Azaneal"
+    k_angellisater_adj: "Angélis"
+    k_webofknives: "Toile de couteaux"
+    k_webofknives_adj: "la toile"
+    k_losttribe: "Tribu perdue"
+    k_losttribe_adj: "Perdu"
+    k_olives: "Régime des olives"
+    k_olives_adj: "Salubry"
+    k_seeofnod: "Voir de Nod"
+    k_seeofnod_adj: "Hérétique"
+    e_tremere: "Maison de Tremere"
+    e_tremere_adj: "Tremere"
+    e_shadow_curtain: "Rideau d'ombre"
+    e_shadow_curtain_adj: "Ombre"
+    k_erciyes: "Erciyes"
+    k_erciyes_adj: "Cappadocien"
+    k_free_state: "État libre"
+    k_free_state_adj: "Fureurs"
+    k_lacadaemonia: "Nouvelle Lacadaemonia"
+    k_lacadaemonia_adj: "Prométhéen"
+    d_city_of_god: "Cité de Dieu"
+    d_city_of_god_adj: "Hérétique"
+    k_blood_horde: "Horde de sang"
+    k_blood_horde_adj: "Gangrel"
+    d_bar_sinister: "Bar Sinistre"
+    d_bar_sinister_adj: "Fureurs"
+    k_midnight_crescent: "Croissant de Minuit"
+    k_midnight_crescent_adj: "Ashirra"
+    d_silent_fury: "Fureur silencieuse"
+    d_silent_fury_adj: "Fureurs"
+    k_feral_horde: "Horde sauvage"
+    k_feral_horde_adj: "Gangrel"
+    k_eastern_lords: "Seigneurs de l'Est"
+    k_eastern_lords_adj: "hongrois"
+    e_infinite_thunder: "Cour du tonnerre infinie"
+    e_infinite_thunder_adj: "Tonnerre"
+    e_scarlet_dragon: "Cour du Phénix écarlate"
+    e_scarlet_dragon_adj: "Écarlate"
+    k_white_exiles: "Exilés blancs"
+    k_white_exiles_adj: "Exilés"
+    d_orme_alliance: "Alliance Orme"
+    d_orme_alliance_adj: "normand"
+    k_golden_cross: "Tribunaux de la Croix d'Or"
+    k_golden_cross_adj: "Occitan"
+    k_grand_court: "Grande Cour"
+    k_grand_court_adj: "Français"
+    e_dream: "Rêve"
+    e_dream_adj: "Rêveur"
+    e_lhiannan: "Terres des Sorcières"
+    e_lhiannan_adj: "Sorcière"
+    e_lhiannan_article: "Le"
+    k_timisoara_banat: "Banat Timisoara"
+    k_timisoara_banat_adj: "Timisoaran"
+    k_celestial_tribe: "Tribu Céleste"
+    k_celestial_tribe_adj: "Céleste"
+    e_malkavian: "Clan Malkavien"
+    e_malkavian_adj: "Malkavien"
+    e_spqr: "S.P.Q.R"
+    e_spqr_adj: "romain"
+    e_carthage: "Carthage"
+    e_carthage_adj: "carthaginois"
+    e_nosferatu: "Clan Nosfératus"
+    e_nosferatu_adj: "Nosferatu"
+    e_eternal_rome: "Rome éternelle"
+    e_eternal_rome_adj: "romain"
+    e_ventrue: "Clan Ventrue"
+    e_ventrue_adj: "Ventrue"
+    e_church_third_caine: "Troisième Caïn"
+    e_church_third_caine_adj: "Troisième Caïnite"
+    e_church_third_caine_article: "Église du"
+    e_gangrel: "Clan Gangrel"
+    e_gangrel_adj: "Gangrel"
+    e_free_states: "États libres caïnites"
+    e_free_states_adj: "Fureurs"
+    e_salubri: "Clan Salubri"
+    e_salubri_adj: "Salubry"
+    e_baali: "Clan Baali"
+    e_baali_adj: "Baali"
+    e_western_ravnos: "Ravnos occidentale"
+    e_western_ravnos_adj: "Ravnos occidentale"
+    e_laibon: "Royaume d'ébène"
+    e_laibon_adj: "Laibon"
+    k_golconda: "Golconde"
+    k_golconda_adj: "Golconde"
+    k_shakari: "Shakari"
+    k_shakari_adj: "Shakari"
+    k_ferals_livonia: "Les sauvages de Livonie"
+    k_ferals_livonia_adj: "Livonien"
+    k_shadow_reconquista: "Reconquista de l'Ombre"
+    k_shadow_reconquista_adj: "Reconquête"
+    k_lunar_shores: "Rivages lunaires"
+    k_lunar_shores_adj: "Fous"
+    k_haven_of_travellers: "Havre des Voyageurs"
+    k_haven_of_travellers_adj: "Voyageurs"
+    k_knights_of_acre: "Chevaliers d'Acre"
+    k_knights_of_acre_adj: "Chevaliers"
+    k_sisters_of_st_john: "Sœurs de Saint-Jean"
+    k_sisters_of_st_john_adj: "Sœurs"
+    k_red_order: "Ordre rouge"
+    k_red_order_adj: "Ordre rouge"
+    k_oculi_dei: "Oculi Dei"
+    k_oculi_dei_adj: "Oculi Dei"
+    k_house_murnau: "Maison Murnau"
+    k_house_murnau_adj: "von Murnua"
+    k_sword_of_st_james: "Épée de Saint-Jacques"
+    k_sword_of_st_james_adj: "Épées"
+    e_shadow_inquisition: "Inquisition de l'Ombre"
+    e_shadow_inquisition_adj: "Inquisition"
+    k_calomenasforsaken: "Les Réprouvés de Calomena"
+    k_calomenasforsaken_adj: "Abandonné"
+    k_councilofashes: "Conseil des Cendres"
+    k_councilofashes_adj: "Conseil des Cendres"
+    e_sphereofendarkenment: "Sphère d'obscurité"
+    e_sphereofendarkenment_adj: "Sphère d'obscurité"
+    e_melamutukku: "Melam Utukku"
+    e_melamutukku_adj: "Melam Utukku"
+    k_aracie: "Aracie"
+    k_aracie_adj: "Aracie"
+    d_crimson_curia: "Curie cramoisie"
+    d_crimson_curia_adj: "Curie cramoisie"
+    e_ordo_vaticinii: "Imperium Vaticanni"
+    e_ordo_vaticinii_adj: "Vatican"
+    e_libertas_castrum: "Culte du sang de Fvria Impériosa"
+    e_libertas_castrum_adj: "Fvrian"
+    d_fvriaimperiosa: "Fvria Impériosa"
+    d_fvriaimperiosa_adj: "Fvrian"
+    d_ordo_vaticinii: "Ordo Vaticani"
+    d_ordo_vaticinii_adj: "Vaticani"
+    d_viaapotheosis: "Via l'apothéose"
+    d_viaapotheosis_adj: "Apothéosisien"
+    d_viatartaros: "Via Tartaros"
+    d_viatartaros_adj: "Tartare"
+    k_sea_of_wraiths: "Mer des Spectres"
+    k_sea_of_wraiths_adj: "Spectres marins"
+    d_naktanchara: "Naktanchara"
+    d_naktanchara_adj: "Naktanchara"
+    e_patala: "Patala"
+    e_patala_adj: "Patalan"
+    k_franchecomte: "Franche-Comté"
+    k_franchecomte_adj: "Franche-Comté"
+    e_blackdeath: "Mort noire"
+    e_blackdeath_adj: "Mort noire"
+    d_pathofhonorableaccord: "Voie de l’accord honorable"
+    d_pathofhonorableaccord_adj: "Voie de l’accord honorable"
+    d_pathofpowerandtheinnervoice: "Voie du pouvoir et voix intérieure"
+    d_pathofpowerandtheinnervoice_adj: "Voie du pouvoir et voix intérieure"
+    d_pathofcathari: "Cathare"
+    d_pathofcathari_adj: "Cathare"
+    d_pathofcathari_article: "Chemin de"
+    d_pathofthebeast: "Chemin de la bête"
+    d_pathofthebeast_adj: "Chemin de la bête"
+    d_pathofharmony: "Chemin de l'harmonie"
+    d_pathofharmony_adj: "Chemin de l'harmonie"
+    d_pathofcaine: "Chemin de Caïn"
+    d_pathofcaine_adj: "Chemin de Caïn"
+    d_pathofnight: "Chemin de la nuit"
+    d_pathofnight_adj: "Chemin de la nuit"
+    d_pathofmetamorphosis: "Chemin de la métamorphose"
+    d_pathofmetamorphosis_adj: "Chemin de la métamorphose"
+    d_pathofdeathandthesoul: "Le chemin de la mort et de l'âme"
+    d_pathofdeathandthesoul_adj: "Le chemin de la mort et de l'âme"
+    d_vasantasenadharma: "Vasantasenadharma"
+    d_vasantasenadharma_adj: "Vasantasenadharma"
+    d_tariqelsama: "Tariq el-Sama"
+    d_tariqelsama_adj: "Tariq el-Sama"
+    d_einherjar: "Einherjar"
+    d_einherjar_adj: "Einherjar"
+    d_viapeccati: "Via Peccati"
+    d_viapeccati_adj: "Via Peccati"
+    d_viavoluptarius: "Via Voluptaire"
+    d_viavoluptarius_adj: "Via Voluptaire"
+    d_viayasaq: "Yasa"
+    d_viayasaq_adj: "Yasa"
+    d_codeofsamiel: "Code de Samiel"
+    d_codeofsamiel_adj: "Code de Samiel"
+    d_codeoftremere: "Code de Tremere"
+    d_codeoftremere_adj: "Code de Tremere"
+    d_talmahera: "Main-sans-soleil"
+    d_talmahera_adj: "Main-sans-soleil"
+    d_tariqelhaqim: "Tariq el'Haqim"
+    d_tariqelhaqim_adj: "Tariq el'Haqim"
+    d_abyssal: "Amici Noctis"
+    d_abyssal_adj: "Amici Noctis"
+    d_mithraism: "Mithraïsme"
+    d_mithraism_adj: "Mithraïsme"
+    d_mayaparisatya: "Mayaparisatya"
+    d_mayaparisatya_adj: "Mayaparisatya"
+    d_archangeli: "Via Archangeli"
+    d_archangeli_adj: "Via Archangeli"
+    d_roadofset: "Hiérophantes de Seth"
+    d_roadofset_adj: "Hiérophantes de Seth"
+    d_ossium: "Via Ossium"
+    d_ossium_adj: "Via Ossium"
+    d_mutationis: "Culte de la Métamorphose"
+    d_mutationis_adj: "Culte de la Métamorphose"
+    d_noctis: "Via Noctis"
+    d_noctis_adj: "Via Noctis"
+    e_camarilla: "Camarilla"
+    e_camarilla_adj: "Camarilla"
+    e_sabbat: "Sabbat"
+    e_sabbat_adj: "Sabbat"
+    d_churchoftheblackmagdalene: "Madeleine noire"
+    d_churchoftheblackmagdalene_adj: "Madeleine noire"
+    d_churchoftheblackmagdalene_article: "Église du"
+    k_shadowinquisition: "Inquisition de l'Ombre"
+    k_shadowinquisition_adj: "Inquisition de l'Ombre"
+    d_followersoflazarus: "Disciples de Lazare"
+    d_followersoflazarus_adj: "Disciples de Lazare"
+    k_nottunheimr: "Nóttunheimr"
+    k_nottunheimr_adj: "Nóttunheimr"
+    k_erebus: "Érèbe"
+    k_erebus_adj: "Erebusi"
+    e_ukshanucarini: "Ukshanucârinî"
+    e_ukshanucarini_adj: "Ukshanucârinî"
+    k_wolflair: "Repaire du loup"
+    k_wolflair_adj: "Repaire du loup"
+    k_wardens_of_seth: "Gardiens de Seth"
+    k_wardens_of_seth_adj: "Gardiens de Seth"
+    e_quincunx_vanguard: "Avant-garde du Quinconce"
+    e_quincunx_vanguard_adj: "Quincunx"
+    k_umbra: "Ombre"
+    k_umbra_adj: "Ombre"
+    k_carthego_nova: "Carthego Nova"
+    k_carthego_nova_adj: "Carthego Nova"
+    k_new_tremere_order: "Nouvel ordre Tremere"
+    k_new_tremere_order_adj: "Nouvel ordre Tremere"
+    k_dark_pulpo_fleet: "Flotte Pulpo Sombre"
+    k_dark_pulpo_fleet_adj: "Flotte Pulpo Sombre"
+    k_avalon: "Avalon"
+    k_avalon_adj: "Avalon"
+    k_mortifiers: "Mortificateurs"
+    k_mortifiers_adj: "Mortificateurs"
+    k_land_of_whispers: "Chuchotements"
+    k_land_of_whispers_adj: "Chuchotements"
+    k_land_of_whispers_article: "Terre de"
+    k_covenant_of_ashes: "Alliance des Cendres"
+    k_covenant_of_ashes_adj: "Engagement"
+    k_court_of_crows: "Cour des Corbeaux"
+    k_court_of_crow_adj: "Corbeaux"
+    d_path_of_asakku: "Chemin d'Asakku"
+    d_path_of_assaku_adj: "Corrompu"
+    d_third_caine: "Patriarcat œcuménique du Troisième Caïn"
+    d_third_caine_adj: "Troisième Caïnite"
+    d_third_caine_article: "Patriarcat œcuménique du"
+    k_brass_blood: "Royaume d'airain et de sang"
+    k_brass_blood_adj: "Laiton et sang"
+    k_ravens_head: "Tête de corbeau"
+    k_ravens_head_adj: "Tête de corbeau"
+    e_hyperborea: "Hyperborée"
+    e_hyperborea_adj: "Hyperboréen"
+    e_vere-imejaa_sinod: "Vere-Imejaa Sinod"
+    e_vere-imejaa_sinod_adj: "Sinod"
+    d_drowned_monastery: "Monastère noyé"
+    d_drowned_monastery_adj: "Noyé"
+    e_regno_del_desiderio: "Royaume du Désiré"
+    e_regno_del_desiderio_adj: "Désidério"
+    d_path_of_carnal_desire: "Désir charnel"
+    d_path_of_carnal_desire_adj: "Voulu"
+    d_path_of_carnal_desire_article: "Chemin de"
+    e_isis: "Disciples d'Isis"
+    e_isis_adj: "Suiveurs"
+    k_cardona: "Famille Cardona"
+    k_cardona_adj: "Cardona"
+    e_giovanni: "Clan Giovanni"
+    e_giovanni_adj: "Jean"
+    k_tremere: "Clan Tremere"
+    k_tremere_adj: "Tremere"
+    e_cainite_curia: "Curie Caïnite"
+    e_cainite_curia_adj: "Curie"
+    k_milan: "Milan"
+    k_milan_adj: "Milanais"
+    e_old_country: "Vieux Pays"
+    e_old_country_adj: "Sabbat"
+    e_golden_courts: "Cours d'or"
+    e_golden_courts_adj: "Doré"
+    k_court_wolves: "Cour des loups"
+    k_court_wolves_adj: "loups"
+    k_oradea_league: "Ligue d'Oradea"
+    k_oradea_league_adj: "Oradea"
+    e_egypt: "Kemet"
+    e_egypt_adj: "Kémétique"
+    e_white_court: "Cour du Tigre Blanc"
+    e_white_court_adj: "Blanc"
+    e_vinsaule: "Vinsaule"
+    e_vinsaule_adj: "Vinsaule"
+    k_aethiopia: "Éthiopie"
+    k_aethiopia_adj: "Éthiopie"
+    e_white_shadow: "ombre blanche"
+    e_white_shadow_adj: "ombre blanche"
+    k_guernsey: "Guernesey"
+    k_guernsey_adj: "Guernesey"
+    k_guernsey_article: "Cour la plus sereine de"
+    k_eternal_bacchanalia: "Bacchanales éternelles"
+    k_eternal_bacchanalia_adj: "Bacchanales éternelles"
+    k_libertatia: "Liberté"
+    k_libertatia_adj: "Liberté"
+    e_elfame: "Elfame"
+    e_elfame_adj: "Unseelie"
+    d_baobhan_sith: "Baobhan Sith"
+    d_baobhan_sith_adj: "Baobhan Sith"
+    e_toreador: "Clan Toréador"
+    e_toreador_adj: "Toréador"
+    k_sun_glory: "La gloire du soleil en septembre"
+    k_sun_glory_adj: "Soleil"
+    d_field_stars: "Champ d'étoiles septembre"
+    d_field_stars_adj: "Étoile"
+    d_white_sea: "mer Blanche"
+    d_white_sea_adj: "mer Blanche"
+    d_white_sea_article: "Septembre du"
+    d_wild_sea: "Mer sauvage"
+    d_wild_sea_adj: "Sauvage"
+    d_wild_sea_article: "Septembre du"
+    k_fimbul_winter: "Fimbul Nuit d'hiver de septembre"
+    k_fimbul_winter_adj: "Hiver"
+    d_bright_promise: "Promesse lumineuse"
+    d_bright_promise_adj: "Promesse lumineuse"
+    d_bright_promise_article: "Septembre du"
+    d_winter_forest: "Forêt d'hiver septembre"
+    d_winter_forest_adj: "Hiver"
+    k_night_sky: "Ciel de nuit"
+    k_night_sky_adj: "Chaque nuit"
+    k_night_sky_article: "Septembre du"
+    d_wheel_ptah: "Sept de la Roue de Ptah"
+    d_wheel_ptah_adj: "Roue"
+    d_wheel_ptah_article: "Septembre du"
+    k_crescent_moon: "Croissant de lune"
+    k_crescent_moon_adj: "Croissant de lune"
+    k_crescent_moon_article: "Septembre du"
+    k_snow_leopard: "Léopard des neiges"
+    k_snow_leopard_adj: "Neigeux"
+    k_snow_leopard_article: "Septembre du"
+    e_black_furies: "Furies noires"
+    e_black_furies_adj: "Furieux"
+    e_bone_gnawers: "Rongeurs d'os"
+    e_bone_gnawers_adj: "Rongeur"
+    e_children_gaia: "Enfants de Gaïa"
+    e_children_gaia_adj: "Gaïa"
+    e_fianna: "Fianna"
+    e_fianna_adj: "Fianna"
+    e_warders_men: "Gardiens des hommes"
+    e_warders_men_adj: "Garde"
+    e_get_fenris: "Obtenir de Fenris"
+    e_get_fenris_adj: "Obtenir"
+    e_red_talons: "Serres rouges"
+    e_red_talons_adj: "Rouge"
+    e_shadow_lords: "Seigneurs de l'Ombre"
+    e_shadow_lords_adj: "Ombragé"
+    e_silver_fangs: "Crocs d'argent"
+    e_silver_fangs_adj: "Argenté"
+    e_silent_striders: "Marcheurs silencieux"
+    e_silent_striders_adj: "Silencieux"
+    e_stargazers: "Les astronomes"
+    e_stargazers_adj: "Observation des étoiles"
+    e_black_spiral_dancers: "Danseurs de la spirale noire"
+    e_black_spiral_dancers_adj: "Dansant"
+    e_garou_nation: "Nation Garou"
+    e_garou_nation_adj: "Garou"
+    k_nychta: "Νύχτα"
+    k_nychta_adj: "Νύχτα"
+    e_onyx_dragon_court: "Cour du dragon d'onyx"
+    k_dya_pani_chauchimos_adj: "Dya Pani Chauchimos"
+    k_brunestud: "Brunestud"
+    k_brunestud_adj: "Brunestud"
+    k_brunestud_article: "Grande Principauté de"
+    e_stygia: "Stygie"
+    e_stygia_adj: "Stygie"
+    k_great_swarm: "Le grand essaim"
+    k_great_swarm_adj: "Essaimeur"
+    k_hunedoara: "Hunedoara"
+    k_hunedoara_adj: "Hunedoaran"
+    k_garden_of_pleasure: "Jardin d'agrément"
+    k_garden_of_pleasure_adj: "Orgiaque"
+    k_garden_of_pleasure_article: "Le"
+    k_new_lacedaemon: "Nouvelle Lacédémone"
+    k_new_lacedaemon_adj: "Lacédémion"
+    k_akkad: "Akkad"
+    k_akkad_adj: "Akkadien"
+    k_dis: "Dis"
+    k_dis_adj: "Disian"
+    k_new_carthage: "Carthago Nova"
+    k_new_carthage_adj: "carthaginois"
+    k_court_of_iron: "Cour de Fer"
+    k_court_of_iron_adj: "Fer"
+    k_new_boeotia: "Nouvelle Béotie"
+    k_new_boeotia_adj: "Béotien"
+    k_iram_of_the_pillars: "Iram des Piliers"
+    k_iram_of_the_pillars_adj: "Piliers"
+    e_leviathan: "Léviathan"
+    e_leviathan_adj: "Léviathan"
+    e_cultusveteriscustodiae: "Cultus Veteris Custodiae"
+    e_cultusveteriscustodiae_adj: "Dépositaires"
+    e_jotunheim: "Jotunheim"
+    e_jotunheim_adj: "Jotun"
+    e_sha: "Sha"
+    e_sha_adj: "Sha"
+    d_leviathan: "Léviathan"
+    d_leviathan_adj: "Léviathan"
+    d_leviathan_article: "Chemin de"
+    d_jotunnsvag: "Jötunns Väg"
+    d_jotunnsvag_adj: "Jötunns Väg"
+    d_siberakh: "Sept du Siberakh"
+    d_siberakh_adj: "Sibérie"
+    e_yellow_springs: "Sources jaunes"
+    e_yellow_springs_adj: "Sources jaunes"
+    e_spring_court: "Printemps"
+    e_spring_court_adj: "Printemps"
+    e_spring_court_article: "Tribunal de"
+    e_summer_court: "Été"
+    e_summer_court_adj: "Cour d'été"
+    e_summer_court_article: "Tribunal de"
+    e_autumn_court: "Automne"
+    e_autumn_court_adj: "Automne"
+    e_autumn_court_article: "Tribunal de"
+    e_winter_court: "Hiver"
+    e_winter_court_adj: "Hiver"
+    e_winter_court_article: "Tribunal de"
+    e_solstice_court: "Solstice"
+    e_solstice_court_adj: "Solstice"
+    e_solstice_court_article: "Tribunal de"
+    k_beaumayn: "Beaumayn"
+    k_beaumayn_adj: "Beaumayn"
+    k_beaumayn_article: "Maison"
+    k_dougal: "Dougal"
+    k_dougal_adj: "Dougal"
+    k_dougal_article: "Maison"
+    k_eiluned: "Eiluned"
+    k_eiluned_adj: "Eiluned"
+    k_eiluned_article: "Maison"
+    k_fiona: "Fiona"
+    k_fiona_adj: "Fiona"
+    k_fiona_article: "Maison"
+    k_gwydion: "Gwydion"
+    k_gwydion_adj: "Gwydion"
+    k_gwydion_article: "Maison"
+    k_liam: "Liam"
+    k_liam_adj: "Liam"
+    k_liam_article: "Maison"
+    k_aesin: "Aésine"
+    k_aesin_adj: "Aésine"
+    k_aesin_article: "Maison"
+    k_ailil: "Ailil"
+    k_ailil_adj: "Ailil"
+    k_ailil_article: "Maison"
+    k_balor: "Balor"
+    k_balor_adj: "Balor"
+    k_balor_article: "Maison"
+    k_daireann: "Daireann"
+    k_daireann_adj: "Daireann"
+    k_daireann_article: "Maison"
+    k_leanhaun: "Leanhaun"
+    k_leanhaun_adj: "Leanhaun"
+    k_leanhaun_article: "Maison"
+    k_varich: "Varich"
+    k_varich_adj: "Varich"
+    k_varich_article: "Maison"
+    k_danaan: "Danann"
+    k_danaan_adj: "Danann"
+    k_danaan_article: "Maison"
+    k_scathach: "Maison Scathach"
+    k_scathach_adj: "Scathach"
+    d_faerie_well: "Puits féerique"
+    d_faerie_well_adj: "Puits féerique"
+    d_faerie_well_article: "Promesse du"
+    d_grand_bazaar: "Grand Bazar"
+    d_grand_bazaar_adj: "Grand Bazar"
+    d_crystal_fortress: "Forteresse de cristal"
+    d_crystal_fortres_adj: "Forteresse de cristal"
+    d_ynys_witrin: "Ynys Witrin"
+    d_ynys_witrin_adj: "Ynys Witrin"
+    d_amber_palace: "Palais d'Ambre"
+    d_amber_palace_adj: "Palais d'Ambre"
+    d_valiant_forge: "Forge vaillante"
+    d_valiant_forge_adj: "Forge vaillante"
+    d_valiant_forge_article: "Tribunal de"
+    d_ocean_of_dust: "Océan de poussière"
+    d_ocean_of_dust_adj: "Océan de poussière"
+    d_keshalyi: "Rassemblements de Keshalyi"
+    d_keshalyi_adj: "Rassemblements de Keshalyi"
+    d_chill_court: "Spectre d'eau"
+    d_chill_court_adj: "Spectre d'eau"
+    d_chill_court_article: "Chill Cour du"
+    d_black_road: "Route noire"
+    d_black_road_adj: "Route noire"
+    d_black_road_article: "Le"
+    d_callicantzaroi: "Cour de Callicantzaroi"
+    d_callicantzaroi_adj: "Cour de Callicantzaroi"
+    d_callicantzaroi_article: "Le"
+    c_underbridge: "Sous le pont"
+    c_underbridge_adj: "Sous le pont"
+    d_underbridge: "Sous le pont"
+    d_underbridge_adj: "Sous le pont"
+    k_underbridge: "Sous le pont"
+    k_underbridge_adj: "Sous le pont"
+    e_underbridge: "Sous le pont"
+    e_underbridge_adj: "Sous le pont"
+    d_nights_kin: "Pierres des parents de la nuit"
+    d_nights_kin_adj: "Pierres des parents de la nuit"
+    #c_nights_kin_article: "Pierres de"
+    d_woven_staves: "Trône des bâtons tissés"
+    d_woven_staves_adj: "Trône des bâtons tissés"
+    #c_woven_staves_article: "Trône de"
+    d_heady_apple: "Pomme grognante"
+    d_heady_apple_adj: "Pomme grognante"
+    d_heady_apple_article: "Tribunal de"
+    d_lost_forest: "Forêt perdue"
+    d_lost_forest_adj: "Forêt perdue"
+    d_frozen_lake: "Lac gelé"
+    d_frozen_lake_adj: "Lac gelé"
+    d_sunken_city: "Oui, la ville engloutie"
+    d_sunken_city_adj: "Ysian"
+    d_shadow_bridge: "Pont de l'Ombre"
+    d_shadow_bridge_adj: "Pont de l'Ombre"
+    e_season_courts: "Cour de toutes les saisons"
+    e_season_courts_adj: "Saison"
+    d_unshriven_zealot: "Zélote impitoyable"
+    d_unshriven_zealot_adj: "Zélote impitoyable"
+    d_hive_of_the_unshriven_zealot_article: "Ruche du"
+    k_hibernia: "Hibernie"
+    k_hibernia_adj: "Hibernien"
+    k_caledonia: "Calédonie"
+    k_caledonia_adj: "Calédonien"
+    k_cymru: "Cymru"
+    k_cymru_adj: "Cyymru"
+    d_snowflakes: "Flocons de neige"
+    d_snowflakes_adj: "Flocons de neige"
+    d_snowflakes_article: "Île de"
+    d_drails_horde: "Coterie du Drail"
+    d_drails_horde_adj: "Drailien"
+    k_solstice_court: "Solstice"
+    k_solstice_court_adj: "Solstice"
+    k_solstice_court_article: "Tribunal de"
+    d_isle_of_dreams: "L'île des rêves"
+    d_isle_of_dreams_adj: "L'île des rêves"
+    d_exodus: "Exode"
+    d_exodus_adj: "Exode"
+    d_exodus_article: "Les précurseurs de"
+    d_silent_waves: "Vagues silencieuses"
+    d_silent_waves_adj: "Vagues silencieuses"
+    d_silent_waves_article: "Plaines de"
+    d_blood_peace: "Paix de sang"
+    d_blood_peace_adj: "Paix de sang"
+    d_blood_peace_article: "Le"
+    k_blood_peace: "Paix de sang"
+    k_blood_peace_adj: "Paix de sang"
+    k_blood_peace_article: "Le"
+    d_scherezades_circle: "Cercle de Schérezade"
+    d_scherezades_circle_adj: "Cercle de Schérezade"
+    d_broceliande: "Brocéliande"
+    d_broceliande_adj: "Brocéliande"
+    d_loch_ness: "Loch Ness"
+    d_loch_ness_adj: "Loch Ness"
+    d_olympus: "Olympe"
+    d_olympus_adj: "Olympe"
+    d_vesuvius: "Vésuve"
+    d_vesuvius_adj: "Vésuve"
+    d_teide: "Teide"
+    d_teide_adj: "Teide"
+    d_hekla: "Hékla"
+    d_hekla_adj: "Hékla"
+    d_nea_kameni: "Néa Kaméni"
+    d_nea_kameni_adj: "Néa Kaméni"
+    d_arat: "Mont Arat"
+    d_arat_adj: "Mont Arat"
+    d_everest: "Everest"
+    d_everest_adj: "Everest"
+    d_matterhorn: "Cervin"
+    d_matterhorn_adj: "Cervin"
+    d_elbrus: "Elbrouz"
+    d_elbrus_adj: "Elbrouz"
+    d_toubkal: "Toubkal"
+    d_toubkal_adj: "Toubkal"
+    d_van: "Van"
+    d_van_adj: "Van"
+    d_lake_baikal: "Baïkal"
+    d_lake_baikal_adj: "Baïkal"
+    d_aral_sea: "mer d'Aral"
+    d_aral_sea_adj: "mer d'Aral"
+    d_kardamyli: "Kardamyle"
+    d_kardamyli_adj: "Kardamyle"
+    d_bialowieza_forest: "Brocéliande"
+    d_bialowieza_forest_adj: "Brocéliande"
+    d_wistmans_wood: "Bois de Wistman"
+    d_wistmans_wood_adj: "Bois de Wistman"
+    d_hoia_forest: "Forêt de Hôia"
+    d_hoia_forest_adj: "Forêt de Hôia"
+    d_black_forest: "Forêt Noire"
+    d_black_forest_adj: "Forêt Noire"
+    d_foloi_oak_forest: "Forêt de chênes de Foloi"
+    d_foloi_oak_forest_adj: "Forêt de chênes de Foloi"
+    d_slive_gullion_forest: "Forêt de Slive Gullion"
+    d_slive_gullion_forest_adj: "Forêt de Slive Gullion"
+    d_puzzlewood: "Bois de puzzle"
+    d_puzzlewood_adj: "Bois de puzzle"
+    d_gruissan: "Gruissan"
+    d_gruissan_adj: "Gruissan"
+    d_ab_paran: "Ab-Paran"
+    d_ab_paran_adj: "Ab-Paran"
+    d_baku: "Bakou"
+    d_baku_adj: "Bakou"
+    k_pandorum: "Pandore"
+    k_pandorum_adj: "Pandore"
+    e_pandorum: "Pandore"
+    e_pandorum_adj: "Pandore"
+    k_rome: "Rome"
+    k_rome_adj: "Rome"
+    k_neothemiscyra: "Néo-Thémiscyra"
+    k_neothemiscyra_adj: "Néo-Thémiscyra"
+    e_trueimperium: "Véritable Imperium"
+    e_trueimperium_adj: "Véritable Imperium"
+    e_kush: "Kush"
+    e_kush_adj: "Kush"
+    k_red_sun_over_paradise: "Soleil rouge sur le paradis"
+    k_red_sun_over_paradise_adj: "Soleil rouge sur le paradis"
+    e_cappadocian: "Clan Cappadocien"
+    e_cappadocian_adj: "Cappadocien"
+    e_babylon: "Babylone"
+    e_babylon_adj: "babylonien"
+    d_djadjat_of_wonders: "Djadjat des Merveilles"
+    d_djadjat_of_wonders_adj: "Djadjat des Merveilles"
+    k_ife: "Ifé"
+    k_ife_adj: "Ifé"
+    e_nomads_of_yahweh: "Nomades de Yahvé"
+    e_nomads_of_yahweh_adj: "Nomades de Yahvé"
+    k_court_of_death: "Cour de la mort"
+    k_court_of_death_adj: "Cour de la mort"

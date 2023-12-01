@@ -1,313 +1,313 @@
 ﻿l_french:
- trait_fae: "Les vrais fées" #NT!
- trait_fae_desc: "Les vrais Fae sont un terme donné à tous les esprits originaires du [dreaming|E], qui ne sont pas des chimères et qui n'ont pas suivi la Voie Changeling. Bien qu'il n'y ait pas de liste complète des entités, elle inclurait les Premiers-nés, les Dark-kin et sans doute les Inanimae." #NT!
- trait_firstbornfae: "Fae premier-né" #NT!
- trait_firstbornfae_desc: "Le premier-né est sorti des Brumes de la Création dans un passé lointain. Les nouveaux premiers-nés sont soit les enfants des autres premiers-nés, soit des sprites transformés en faes par de puissants sorts mineurs. Les premiers-nés affirment qu'ils ont gouverné et même créé le monde entier et qu'eux seuls avaient le droit de dicter les lois et les décrets des royaumes magiques. Bien que sceptiques, de nombreux Fae ont accepté cela et les ont appelés les « vrais Fae ». La montée de l’humanité a fortement diminué le pouvoir des Premiers-nés et beaucoup craignaient leur sort si rien n’était fait." #NT!
- trait_denizen: "Adhène" #NT!
- trait_denizen_desc: "Kithain appelle arbitrairement ces créatures « Dark-kin » en raison de leur vile réputation de serviteurs des Fomoriens. Malgré leur départ brutal des terres humaines, les Adhènes ont maintenu un lien direct, quoique subtil, avec la psyché humaine. Personnifiant divers aspects des rêves ou des peurs humaines, le nombre d’espèces d’adhènes est vaste et varié." #NT!
- trait_inanimae: "Inanimés" #NT!
- trait_inanimae_desc: "Les Inanimae sont les cousins ​​des Vrais Fae. Bien qu’ils ne soient pas de véritables esprits élémentaires, ils ont une étroite parenté avec eux. Chaque Inanimae se façonne d'après un élément spécifique." #NT!
- trait_changeling: "Changelin" #NT!
- trait_changeling_desc: "Un hybride fée/humain. Les anciennes cours croyaient que la première femme venue coucher avec le premier homme était l'une des premières-nées. De l'union entre les deux est né le premier changeling, bien que le couple ait eu plus d'enfants et que la Première Femme ait eu d'autres partenaires. D'autres explications, en particulier celles des faes les plus anti-humanistes, étaient que les Changelings étaient les restes de faes déformés et indésirables qui étaient échangés avec des enfants mortels et élevés parmi eux." #NT!
- trait_kinain: "Kinaïn" #NT!
- trait_kinain_desc: "Un Kinain est un mortel qui possède du sang féerique, mais n'est pas un Changeling à part entière." #NT!
+ trait_fae: "Les vrais fées"
+ trait_fae_desc: "Les vrais Fae sont un terme donné à tous les esprits originaires du [dreaming|E], qui ne sont pas des chimères et qui n'ont pas suivi la Voie Changeling. Bien qu'il n'y ait pas de liste complète des entités, elle inclurait les Premiers-nés, les Dark-kin et sans doute les Inanimae."
+ trait_firstbornfae: "Fae premier-né"
+ trait_firstbornfae_desc: "Le premier-né est sorti des Brumes de la Création dans un passé lointain. Les nouveaux premiers-nés sont soit les enfants des autres premiers-nés, soit des sprites transformés en faes par de puissants sorts mineurs. Les premiers-nés affirment qu'ils ont gouverné et même créé le monde entier et qu'eux seuls avaient le droit de dicter les lois et les décrets des royaumes magiques. Bien que sceptiques, de nombreux Fae ont accepté cela et les ont appelés les « vrais Fae ». La montée de l’humanité a fortement diminué le pouvoir des Premiers-nés et beaucoup craignaient leur sort si rien n’était fait."
+ trait_denizen: "Adhène"
+ trait_denizen_desc: "Kithain appelle arbitrairement ces créatures « Dark-kin » en raison de leur vile réputation de serviteurs des Fomoriens. Malgré leur départ brutal des terres humaines, les Adhènes ont maintenu un lien direct, quoique subtil, avec la psyché humaine. Personnifiant divers aspects des rêves ou des peurs humaines, le nombre d’espèces d’adhènes est vaste et varié."
+ trait_inanimae: "Inanimés"
+ trait_inanimae_desc: "Les Inanimae sont les cousins ​​des Vrais Fae. Bien qu’ils ne soient pas de véritables esprits élémentaires, ils ont une étroite parenté avec eux. Chaque Inanimae se façonne d'après un élément spécifique."
+ trait_changeling: "Changelin"
+ trait_changeling_desc: "Un hybride fée/humain. Les anciennes cours croyaient que la première femme venue coucher avec le premier homme était l'une des premières-nées. De l'union entre les deux est né le premier changeling, bien que le couple ait eu plus d'enfants et que la Première Femme ait eu d'autres partenaires. D'autres explications, en particulier celles des faes les plus anti-humanistes, étaient que les Changelings étaient les restes de faes déformés et indésirables qui étaient échangés avec des enfants mortels et élevés parmi eux."
+ trait_kinain: "Kinaïn"
+ trait_kinain_desc: "Un Kinain est un mortel qui possède du sang féerique, mais n'est pas un Changeling à part entière."
   
- trait_kithain: "Kithain" #NT!
- trait_jinn: "Djinns" #NT!
- trait_african_kiths: "Kiths africains" #NT!
- trait_hsien: "Hsien" #NT!
- trait_phyla: "Phyla" #NT!
+ trait_kithain: "Kithain"
+ trait_jinn: "Djinns"
+ trait_african_kiths: "Kiths africains"
+ trait_hsien: "Hsien"
+ trait_phyla: "Phyla"
   
- trait_sidhe: "Sidhé" #NT!
- trait_sidhe_desc: "Les nobles et beaux dirigeants du genre féerique, les sidhe sont les chefs d'une beauté surnaturelle des seigneurs féeriques classiques." #NT!
- trait_boggan: "Boggan" #NT!
- trait_boggan_desc: "Pratiques et travailleurs, les Boggans sont les gardiens des ménages et des ménagères industrieuses." #NT!
- trait_clurichaun: "Clurichaun" #NT!
- trait_clurichaun_desc: "Amusants et charismatiques, ces Kithain sont à l’origine des histoires de lutins." #NT!
- trait_eshu: "Eshu" #NT!
- trait_eshu_desc: "Vagabonds ultimes, les Eshu sont des conteurs et des explorateurs accomplis." #NT!
- trait_ghilledhu: "Ghillie dhu" #NT!
- trait_ghilledhu_desc: "Esprits du vert et de la nature, les ghille dhu étaient autrefois des créatures prospères qui changeaient de nature en fonction de la saison." #NT!
- trait_oba: "Oba" #NT!
- trait_oba_desc: "Les nobles des Elegbara, cousins ​​terrestres des Eshu." #NT!
- trait_nocker: "Nocker" #NT!
- trait_nocker_desc: "Ces grincheux grossiers sont peut-être petits et étranges à regarder, mais leur besoin de fabriquer et de construire en fait les inventeurs ingénieux de la société Kithain." #NT!
- trait_piskey: "Piskey" #NT!
- trait_piskey_desc: "Les Piskies sont des kith innocents aux yeux écarquillés, composés de vagabonds naturels qui recherchent la beauté magnifique et impressionnante du monde." #NT!
- trait_pooka: "Pooka" #NT!
- trait_pooka_desc: "Au mieux farceurs et au pire terreurs, ces Kithain partagent chacun une affinité avec un animal particulier et adorent les farces." #NT!
- trait_troll: "Troll" #NT!
- trait_troll_desc: "Ces puissants géants incarnent la loyauté, l’honneur et la force des faes." #NT!
- trait_redcap: "Une casquette rouge" #NT!
- trait_redcap_desc: "Ces hideux Kithain sont de monstrueuses machines à manger, terrifiantes à voir et pleines de mauvaises attitudes et de violence." #NT!
- trait_riverhag: "La sorcière de la rivière" #NT!
- trait_riverhag_desc: "Ces faes gorgés d'eau vivent dans des plans d'eau en mouvement rapide et traînent des proies sans méfiance pour les noyer." #NT!
- trait_satyr: "Satyre" #NT!
- trait_satyr_desc: "Les satyres sont l'esprit de plaisir et de passion donné forme." #NT!
- trait_sluagh: "Sluagh" #NT!
- trait_sluagh_desc: "Ces faes sombres et secrets sont les meilleurs pour collecter des informations et garder des secrets." #NT!
- trait_swanmaiden: "Jeune fille cygne" #NT!
- trait_swanmaiden_desc: "Les Swan Maidens sont des amis récemment apparus, nés de rêves de romance et de véritable amour." #NT!
- trait_wichtel: "Wichtel" #NT!
- trait_wichtel_desc: "Les mineurs et autres travailleurs sont le fondement d’une communauté car ils accomplissent des tâches qui doivent être accomplies aussi désagréables soient-elles, s’aventurent dans l’obscurité et le danger à la recherche des ressources dont dépend la société et accomplissent un travail périlleux et éreintant sans espérer de gloire ou de fortune. Le travail est fait parce qu’il le faut. Le Wichtel incarne cette philosophie." #NT!
- trait_ifrit: "Ifrit" #NT!
- trait_ifrit_desc: "Forgé dans les flammes et endurci au combat, un Ifrit a peu de patience pour la faiblesse." #NT!
- trait_lilin: "Liline" #NT!
- trait_lilin_desc: "Têtue et séduisante, une Lilin sait ce qu'elle veut et comment l'obtenir." #NT!
- trait_qareen: "Qareen" #NT!
- trait_qareen_desc: "Les Coran ont le don et la malédiction de la mémoire eidétique, et d’autres djinns les appellent des « bibliothèques ambulantes »." #NT!
- trait_shaytan: "Shaytan" #NT!
- trait_shaytan_desc: "Négociateur, filou, tentatrice, charlatan – telles sont les étiquettes apposées sur un Shaytan." #NT!
- trait_biloko: "Biloko" #NT!
- trait_biloko_desc: "Ce kith met l'accent sur la valeur de la tradition et du patrimoine, étant étroitement lié à leur culture et à leur communauté et se méfiant des étrangers." #NT!
- trait_djedi: "Djédi" #NT!
- trait_djedi_desc: "Amoureux de la société, de la fête et de la gaieté, les Djedi sont des célébrités instantanées, aussi doués en sorcellerie que maudits en flagrant délit." #NT!
- trait_kuino: "Kuino" #NT!
- trait_kuino_desc: "Plein d'espoir, ambitieux et travailleur, ce kith est constitué de la volonté de réussir et de vivre mieux, même s'il doit se méfier de l'avidité et de la perte de ses objets sacrés dans cette quête." #NT!
- trait_obambo: "Obambo" #NT!
- trait_obambo_desc: "Ce kith est composé d'explorateurs et d'aventuriers doués qui connaissent toutes les ficelles pour explorer le Pays des Rêves Anciens et s'en tirer avec le butin, aussi affables qu'ils paraissent bien qu'ils soient dangereux lorsque leurs bien-aimés sont menacés." #NT!
- trait_okubili: "Okubili" #NT!
- trait_okubili_desc: "Pondéré et à l'écoute de leurs vies passées et concentré sur le maintien de l'équilibre dans toutes leurs vies actuelles, ce kith adore enseigner mais se laisse parfois emporter par les préoccupations des vies antérieures." #NT!
- trait_chuihyu: "Chu-ih-yu" #NT!
- trait_chuihyu_desc: "Kwannon-jin du Hsien oriental, les Chu-ih-yu sont des nobles élémentaires ; Kamuii Shinma de l'élément Métal." #NT!
- trait_chujung: "Chu Jung" #NT!
- trait_chujung_desc: "Kwannon-jin du Hsien oriental, les Chu Jung sont des nobles élémentaires ; Kamuii Shinma de l'élément Feu." #NT!
- trait_fuhsi: "Fu Hsi" #NT!
- trait_fuhsi_desc: "Kwannon-jin du Hsien oriental, les Fu Hsi sont des roturiers ; Hirayanu Shinma est en harmonie avec l'élément Bois avec la capacité de se transformer en serpents." #NT!
- trait_hanumen: "Hanumen" #NT!
- trait_hanumen_desc: "Kwannon-jin du Hsien oriental, les Hanumen sont des roturiers ; Hirayanu Shinma est en harmonie avec l'élément Terre avec la capacité de se transformer en singes." #NT!
- trait_hengpo: "Heng Po" #NT!
- trait_hengpo_desc: "Kwannon-jin du Hsien oriental, les Heng Po sont des roturiers ; Hirayanu Shinma est en harmonie avec l'élément Eau avec la capacité de se transformer en poisson." #NT!
- trait_houchi: "Hou-chi" #NT!
- trait_houchi_desc: "Kwannon-jin du Hsien oriental, les Hou-chi sont des nobles élémentaires ; Kamuii Shinma de l'élément Bois." #NT!
- trait_komuko: "Komuko" #NT!
- trait_komuko_desc: "Kwannon-jin du Hsien oriental, les Komuko sont des nobles élémentaires ; Kamuii Shinma de l'élément Terre." #NT!
- trait_nyan: "Nyan" #NT!
- trait_nyan_desc: "Kwannon-jin du Hsien oriental, les Nyan sont des roturiers ; Hirayanu Shinma est sensible à l'élément Feu avec la capacité de se transformer en chat." #NT!
- trait_suijen: "Suijen" #NT!
- trait_suijen_desc: "Kwannon-jin du Hsien oriental, les Suijen sont des nobles élémentaires ; Kamuii Shinma de l'élément Eau." #NT!
- trait_tanuki: "Tanuki" #NT!
- trait_tanuki_desc: "Kwannon-jin du Hsien oriental, les Tanuki sont des roturiers ; Hirayanu Shinma est à l'écoute de l'élément Métal avec la capacité de se transformer en tanuki ou en chiens viverrins (souvent mal traduits par « blaireaux »)." #NT!
- trait_glome: "Glomé" #NT!
- trait_glome_desc: "Inanimae de la Terre et membres de l'Empire des Pierres." #NT!
- trait_kubera: "Kubera" #NT!
- trait_kubera_desc: "Inanimae of Wood et membres de l'Empire des Semences." #NT!
- trait_ondine: "Ondine" #NT!
- trait_ondine_desc: "Inanimae de l'Eau et membres de l'Empire des Larmes." #NT!
- trait_paroseme: "Parosème" #NT!
- trait_paroseme_desc: "Inanimae of Air et membres de l'Empire of Skies." #NT!
- trait_solimond: "Solimond" #NT!
- trait_solimond_desc: "Inanimae of Fire et anciens membres de l'Empire des Flammes." #NT!
- trait_mannikin: "mannequin" #NT!
- trait_mannikin_desc: "Inanimae d'éléments de forme humaine et membres de l'Empire des Poupées." #NT!
+ trait_sidhe: "Sidhé"
+ trait_sidhe_desc: "Les nobles et beaux dirigeants du genre féerique, les sidhe sont les chefs d'une beauté surnaturelle des seigneurs féeriques classiques."
+ trait_boggan: "Boggan"
+ trait_boggan_desc: "Pratiques et travailleurs, les Boggans sont les gardiens des ménages et des ménagères industrieuses."
+ trait_clurichaun: "Clurichaun"
+ trait_clurichaun_desc: "Amusants et charismatiques, ces Kithain sont à l’origine des histoires de lutins."
+ trait_eshu: "Eshu"
+ trait_eshu_desc: "Vagabonds ultimes, les Eshu sont des conteurs et des explorateurs accomplis."
+ trait_ghilledhu: "Ghillie dhu"
+ trait_ghilledhu_desc: "Esprits du vert et de la nature, les ghille dhu étaient autrefois des créatures prospères qui changeaient de nature en fonction de la saison."
+ trait_oba: "Oba"
+ trait_oba_desc: "Les nobles des Elegbara, cousins ​​terrestres des Eshu."
+ trait_nocker: "Nocker"
+ trait_nocker_desc: "Ces grincheux grossiers sont peut-être petits et étranges à regarder, mais leur besoin de fabriquer et de construire en fait les inventeurs ingénieux de la société Kithain."
+ trait_piskey: "Piskey"
+ trait_piskey_desc: "Les Piskies sont des kith innocents aux yeux écarquillés, composés de vagabonds naturels qui recherchent la beauté magnifique et impressionnante du monde."
+ trait_pooka: "Pooka"
+ trait_pooka_desc: "Au mieux farceurs et au pire terreurs, ces Kithain partagent chacun une affinité avec un animal particulier et adorent les farces."
+ trait_troll: "Troll"
+ trait_troll_desc: "Ces puissants géants incarnent la loyauté, l’honneur et la force des faes."
+ trait_redcap: "Une casquette rouge"
+ trait_redcap_desc: "Ces hideux Kithain sont de monstrueuses machines à manger, terrifiantes à voir et pleines de mauvaises attitudes et de violence."
+ trait_riverhag: "La sorcière de la rivière"
+ trait_riverhag_desc: "Ces faes gorgés d'eau vivent dans des plans d'eau en mouvement rapide et traînent des proies sans méfiance pour les noyer."
+ trait_satyr: "Satyre"
+ trait_satyr_desc: "Les satyres sont l'esprit de plaisir et de passion donné forme."
+ trait_sluagh: "Sluagh"
+ trait_sluagh_desc: "Ces faes sombres et secrets sont les meilleurs pour collecter des informations et garder des secrets."
+ trait_swanmaiden: "Jeune fille cygne"
+ trait_swanmaiden_desc: "Les Swan Maidens sont des amis récemment apparus, nés de rêves de romance et de véritable amour."
+ trait_wichtel: "Wichtel"
+ trait_wichtel_desc: "Les mineurs et autres travailleurs sont le fondement d’une communauté car ils accomplissent des tâches qui doivent être accomplies aussi désagréables soient-elles, s’aventurent dans l’obscurité et le danger à la recherche des ressources dont dépend la société et accomplissent un travail périlleux et éreintant sans espérer de gloire ou de fortune. Le travail est fait parce qu’il le faut. Le Wichtel incarne cette philosophie."
+ trait_ifrit: "Ifrit"
+ trait_ifrit_desc: "Forgé dans les flammes et endurci au combat, un Ifrit a peu de patience pour la faiblesse."
+ trait_lilin: "Liline"
+ trait_lilin_desc: "Têtue et séduisante, une Lilin sait ce qu'elle veut et comment l'obtenir."
+ trait_qareen: "Qareen"
+ trait_qareen_desc: "Les Coran ont le don et la malédiction de la mémoire eidétique, et d’autres djinns les appellent des « bibliothèques ambulantes »."
+ trait_shaytan: "Shaytan"
+ trait_shaytan_desc: "Négociateur, filou, tentatrice, charlatan – telles sont les étiquettes apposées sur un Shaytan."
+ trait_biloko: "Biloko"
+ trait_biloko_desc: "Ce kith met l'accent sur la valeur de la tradition et du patrimoine, étant étroitement lié à leur culture et à leur communauté et se méfiant des étrangers."
+ trait_djedi: "Djédi"
+ trait_djedi_desc: "Amoureux de la société, de la fête et de la gaieté, les Djedi sont des célébrités instantanées, aussi doués en sorcellerie que maudits en flagrant délit."
+ trait_kuino: "Kuino"
+ trait_kuino_desc: "Plein d'espoir, ambitieux et travailleur, ce kith est constitué de la volonté de réussir et de vivre mieux, même s'il doit se méfier de l'avidité et de la perte de ses objets sacrés dans cette quête."
+ trait_obambo: "Obambo"
+ trait_obambo_desc: "Ce kith est composé d'explorateurs et d'aventuriers doués qui connaissent toutes les ficelles pour explorer le Pays des Rêves Anciens et s'en tirer avec le butin, aussi affables qu'ils paraissent bien qu'ils soient dangereux lorsque leurs bien-aimés sont menacés."
+ trait_okubili: "Okubili"
+ trait_okubili_desc: "Pondéré et à l'écoute de leurs vies passées et concentré sur le maintien de l'équilibre dans toutes leurs vies actuelles, ce kith adore enseigner mais se laisse parfois emporter par les préoccupations des vies antérieures."
+ trait_chuihyu: "Chu-ih-yu"
+ trait_chuihyu_desc: "Kwannon-jin du Hsien oriental, les Chu-ih-yu sont des nobles élémentaires ; Kamuii Shinma de l'élément Métal."
+ trait_chujung: "Chu Jung"
+ trait_chujung_desc: "Kwannon-jin du Hsien oriental, les Chu Jung sont des nobles élémentaires ; Kamuii Shinma de l'élément Feu."
+ trait_fuhsi: "Fu Hsi"
+ trait_fuhsi_desc: "Kwannon-jin du Hsien oriental, les Fu Hsi sont des roturiers ; Hirayanu Shinma est en harmonie avec l'élément Bois avec la capacité de se transformer en serpents."
+ trait_hanumen: "Hanumen"
+ trait_hanumen_desc: "Kwannon-jin du Hsien oriental, les Hanumen sont des roturiers ; Hirayanu Shinma est en harmonie avec l'élément Terre avec la capacité de se transformer en singes."
+ trait_hengpo: "Heng Po"
+ trait_hengpo_desc: "Kwannon-jin du Hsien oriental, les Heng Po sont des roturiers ; Hirayanu Shinma est en harmonie avec l'élément Eau avec la capacité de se transformer en poisson."
+ trait_houchi: "Hou-chi"
+ trait_houchi_desc: "Kwannon-jin du Hsien oriental, les Hou-chi sont des nobles élémentaires ; Kamuii Shinma de l'élément Bois."
+ trait_komuko: "Komuko"
+ trait_komuko_desc: "Kwannon-jin du Hsien oriental, les Komuko sont des nobles élémentaires ; Kamuii Shinma de l'élément Terre."
+ trait_nyan: "Nyan"
+ trait_nyan_desc: "Kwannon-jin du Hsien oriental, les Nyan sont des roturiers ; Hirayanu Shinma est sensible à l'élément Feu avec la capacité de se transformer en chat."
+ trait_suijen: "Suijen"
+ trait_suijen_desc: "Kwannon-jin du Hsien oriental, les Suijen sont des nobles élémentaires ; Kamuii Shinma de l'élément Eau."
+ trait_tanuki: "Tanuki"
+ trait_tanuki_desc: "Kwannon-jin du Hsien oriental, les Tanuki sont des roturiers ; Hirayanu Shinma est à l'écoute de l'élément Métal avec la capacité de se transformer en tanuki ou en chiens viverrins (souvent mal traduits par « blaireaux »)."
+ trait_glome: "Glomé"
+ trait_glome_desc: "Inanimae de la Terre et membres de l'Empire des Pierres."
+ trait_kubera: "Kubera"
+ trait_kubera_desc: "Inanimae of Wood et membres de l'Empire des Semences."
+ trait_ondine: "Ondine"
+ trait_ondine_desc: "Inanimae de l'Eau et membres de l'Empire des Larmes."
+ trait_paroseme: "Parosème"
+ trait_paroseme_desc: "Inanimae of Air et membres de l'Empire of Skies."
+ trait_solimond: "Solimond"
+ trait_solimond_desc: "Inanimae of Fire et anciens membres de l'Empire des Flammes."
+ trait_mannikin: "mannequin"
+ trait_mannikin_desc: "Inanimae d'éléments de forme humaine et membres de l'Empire des Poupées."
   
- trait_realm_actor: "Maîtrise des acteurs du royaume" #NT!
- trait_realm_actor_desc: "L'acteur est le domaine connecté à tous les êtres du monde, avec une corrélation directe avec la façon dont vous les connaissez. Moins vous connaissez un être particulier, qu'il s'agisse d'un loup-garou, d'un mortel, d'un spectre, d'un vampire, etc., plus la maîtrise de l'Acteur est requise. Pour affecter quelqu’un auquel vous êtes opposé, quelles que soient vos connaissances, il faut une maîtrise totale." #NT!
- trait_realm_fae: "Maîtrise du royaume des Fae" #NT!
- trait_realm_fae_desc: "Fae s'occupe d'autres êtres du [dreaming|E]. Pour affecter d'autres Changelings, les Nobles Sidhe, Adhene, Chimera, ou même le contrôle de la magie Changeling elle-même relèvent tous du royaume des Fae." #NT!
- trait_realm_nature: "Maîtrise de la nature du royaume" #NT!
- trait_realm_nature_desc: "La nature contrôle les plantes, la terre et les animaux. Tout ce qui n'a pas été touché par la création se prête au contrôle du royaume de la Nature." #NT!
- trait_realm_prop: "Maîtrise des accessoires de royaume" #NT!
- trait_realm_prop_desc: "Prop est le contrôle et la manipulation de tous les objets créés. Les vêtements, les armes, les bâtiments et tout ce qui est « créé » relèvent de Prop. Plus l'appareil est complexe, plus la maîtrise du domaine Prop est requise." #NT!
- trait_realm_scene: "Maîtrise des scènes de royaume" #NT!
- trait_realm_scene_desc: "La scène est le contrôle de l’espace. Plus vous maîtrisez le royaume de Scene, plus la zone ou le nombre de cibles (en conjonction avec d'autres royaumes) que vous pouvez affecter est grand." #NT!
- trait_realm_time: "Maîtrise du temps réel" #NT!
- trait_realm_time_desc: "Le temps contrôle le moment où vos cantrips auront lieu ou leur durée. La maîtrise du temps dicte la durée de vos sorts ou la durée pendant laquelle vous pouvez définir un « déclencheur » sur eux." #NT!
- trait_realm_air: "Maîtrise de l'air du royaume" #NT!
- trait_realm_air_desc: "L'air est l'élément qui entoure le globe. Il affecte un environnement non vivant et un sort mineur qui affecte la météo, l'air, la température ou tout autre élément dans la zone du lanceur ou de la cible." #NT!
- trait_realm_earth: "Maîtrise du Royaume de la Terre" #NT!
- trait_realm_earth_desc: "La Terre affecte les objets non vivants et non surnaturels, naturels et fabriqués." #NT!
- trait_realm_fire: "Maîtrise du feu du royaume" #NT!
- trait_realm_fire_desc: "Le feu est utilisé pour affecter des créatures vivantes non surnaturelles. Cela n’affecte que l’aspect physique de ces créatures. Ce royaume serait également utilisé pour affecter physiquement les humains mortels." #NT!
- trait_realm_water: "Maîtrise de l'eau du royaume" #NT!
- trait_realm_water_desc: "L'eau n'affecte que l'environnement mental des créatures vivantes non surnaturelles. Confondre les autres a besoin de ce domaine." #NT!
- trait_realm_spirit: "Maîtrise de l'esprit du royaume" #NT!
- trait_realm_spirit_desc: "L'esprit est utilisé pour affecter n'importe quel aspect d'un être ou d'une chose surnaturelle, y compris d'autres Fae. Cela affecte l’environnement ainsi que les domaines physique et mental. Cela affecte également les mortels enchantés." #NT!
+ trait_realm_actor: "Maîtrise des acteurs du royaume"
+ trait_realm_actor_desc: "L'acteur est le domaine connecté à tous les êtres du monde, avec une corrélation directe avec la façon dont vous les connaissez. Moins vous connaissez un être particulier, qu'il s'agisse d'un loup-garou, d'un mortel, d'un spectre, d'un vampire, etc., plus la maîtrise de l'Acteur est requise. Pour affecter quelqu’un auquel vous êtes opposé, quelles que soient vos connaissances, il faut une maîtrise totale."
+ trait_realm_fae: "Maîtrise du royaume des Fae"
+ trait_realm_fae_desc: "Fae s'occupe d'autres êtres du [dreaming|E]. Pour affecter d'autres Changelings, les Nobles Sidhe, Adhene, Chimera, ou même le contrôle de la magie Changeling elle-même relèvent tous du royaume des Fae."
+ trait_realm_nature: "Maîtrise de la nature du royaume"
+ trait_realm_nature_desc: "La nature contrôle les plantes, la terre et les animaux. Tout ce qui n'a pas été touché par la création se prête au contrôle du royaume de la Nature."
+ trait_realm_prop: "Maîtrise des accessoires de royaume"
+ trait_realm_prop_desc: "Prop est le contrôle et la manipulation de tous les objets créés. Les vêtements, les armes, les bâtiments et tout ce qui est « créé » relèvent de Prop. Plus l'appareil est complexe, plus la maîtrise du domaine Prop est requise."
+ trait_realm_scene: "Maîtrise des scènes de royaume"
+ trait_realm_scene_desc: "La scène est le contrôle de l’espace. Plus vous maîtrisez le royaume de Scene, plus la zone ou le nombre de cibles (en conjonction avec d'autres royaumes) que vous pouvez affecter est grand."
+ trait_realm_time: "Maîtrise du temps réel"
+ trait_realm_time_desc: "Le temps contrôle le moment où vos cantrips auront lieu ou leur durée. La maîtrise du temps dicte la durée de vos sorts ou la durée pendant laquelle vous pouvez définir un « déclencheur » sur eux."
+ trait_realm_air: "Maîtrise de l'air du royaume"
+ trait_realm_air_desc: "L'air est l'élément qui entoure le globe. Il affecte un environnement non vivant et un sort mineur qui affecte la météo, l'air, la température ou tout autre élément dans la zone du lanceur ou de la cible."
+ trait_realm_earth: "Maîtrise du Royaume de la Terre"
+ trait_realm_earth_desc: "La Terre affecte les objets non vivants et non surnaturels, naturels et fabriqués."
+ trait_realm_fire: "Maîtrise du feu du royaume"
+ trait_realm_fire_desc: "Le feu est utilisé pour affecter des créatures vivantes non surnaturelles. Cela n’affecte que l’aspect physique de ces créatures. Ce royaume serait également utilisé pour affecter physiquement les humains mortels."
+ trait_realm_water: "Maîtrise de l'eau du royaume"
+ trait_realm_water_desc: "L'eau n'affecte que l'environnement mental des créatures vivantes non surnaturelles. Confondre les autres a besoin de ce domaine."
+ trait_realm_spirit: "Maîtrise de l'esprit du royaume"
+ trait_realm_spirit_desc: "L'esprit est utilisé pour affecter n'importe quel aspect d'un être ou d'une chose surnaturelle, y compris d'autres Fae. Cela affecte l’environnement ainsi que les domaines physique et mental. Cela affecte également les mortels enchantés."
   
- trait_chicanery: "Chicanerie" #NT!
- trait_legerdemain: "Prestidigitation" #NT!
- trait_primal: "Primitif" #NT!
- trait_soothsay: "Devin" #NT!
- trait_wayfare: "Itinéraire" #NT!
- trait_chronos: "Chronos" #NT!
- trait_dream_craft: "Artisanat de rêve" #NT!
- trait_naming: "Appellation" #NT!
- trait_sovereign: "Souverain" #NT!
- trait_infusion: "Infusion" #NT!
- trait_tale_craft: "Artisanat de conte" #NT!
- trait_aphrodesia: "Aphrodésie" #NT!
- trait_kryos: "Kryos" #NT!
- trait_metamorphosis: "Métamorphose" #NT!
- trait_pyretics: "Pyrétique" #NT!
- trait_petros: "Pétros" #NT!
- trait_aquis: "Acquis" #NT!
- trait_pyros: "Pyros" #NT!
- trait_stratus: "Stratus" #NT!
- trait_verdage: "Verdage" #NT!
- trait_tieh_tan: "Tieh Tan" #NT!
- trait_lin_tan: "Lin Tan" #NT!
- trait_shui_tan: "Shui Tan" #NT!
- trait_hou_tan: "Hou Tan" #NT!
- trait_di_tan: "Di Tan" #NT!
- trait_nei_tan: "Nei Tan" #NT!
+ trait_chicanery: "Chicanerie"
+ trait_legerdemain: "Prestidigitation"
+ trait_primal: "Primitif"
+ trait_soothsay: "Devin"
+ trait_wayfare: "Itinéraire"
+ trait_chronos: "Chronos"
+ trait_dream_craft: "Artisanat de rêve"
+ trait_naming: "Appellation"
+ trait_sovereign: "Souverain"
+ trait_infusion: "Infusion"
+ trait_tale_craft: "Artisanat de conte"
+ trait_aphrodesia: "Aphrodésie"
+ trait_kryos: "Kryos"
+ trait_metamorphosis: "Métamorphose"
+ trait_pyretics: "Pyrétique"
+ trait_petros: "Pétros"
+ trait_aquis: "Acquis"
+ trait_pyros: "Pyros"
+ trait_stratus: "Stratus"
+ trait_verdage: "Verdage"
+ trait_tieh_tan: "Tieh Tan"
+ trait_lin_tan: "Lin Tan"
+ trait_shui_tan: "Shui Tan"
+ trait_hou_tan: "Hou Tan"
+ trait_di_tan: "Di Tan"
+ trait_nei_tan: "Nei Tan"
   
- trait_art_chicanery: "Art de chicane" #NT!
- trait_art_chicanery_desc: "La chicanerie est le pouvoir magique trompeur de l’illusion et de la manipulation émotionnelle. Ceux qui le pratiquent intensivement sont souvent considérés comme peu dignes de confiance par les nobles." #NT!
- trait_art_legerdemain: "Art de Legerdemain" #NT!
- trait_art_legerdemain_desc: "Legerdemain permet à un changeling de contrôler son environnement grâce à des moyens télékinésiques, depuis le fait de faire les poches à distance jusqu'à saisir et lancer de gros objets. Cet Art permet également la création d'objets et de créatures illusoires solides." #NT!
- trait_art_primal: "Art primordial" #NT!
- trait_art_primal_desc: "Primal permet à un changeling de manipuler les forces de la nature, de l'invocation des éléments à la communion avec des objets inanimés. Cela donne également du pouvoir sur le corps, permettant à un fae de durcir sa peau comme l'écorce d'un arbre, de soigner ses blessures, de déchirer la chair et même de se métamorphoser." #NT!
- trait_art_soothsay: "Art de devin" #NT!
- trait_art_soothsay_desc: "Soothsay représente la capacité du changeling à voir l’avenir. En fonction des royaumes utilisés conjointement, le changeling peut être capable d'apprendre des informations sur une personne, un lieu ou un objet." #NT!
- trait_art_wayfare: "Art de voyage" #NT!
- trait_art_wayfare_desc: "L'Art du Chemin traite de la capacité d'un changelin à se déplacer dans l'espace. Cela implique de rebondir et de parcourir de longues distances, d'avancer à toute vitesse sur des pieds incroyablement rapides et même de se téléporter d'un endroit à un autre." #NT!
- trait_art_chronos: "Art Chronos" #NT!
- trait_art_chronos_desc: "Chronos est l'Art de la manipulation temporelle. Contrairement aux méthodes de modification du temps connues d'autres surnaturels, Chronos est assez indirect et ne suit presque jamais un ordre linéaire. Au lieu de cela, il s'agit d'un art consistant à être disjoint de l'ordre approprié du temps, ce qui rend ses praticiens difficiles à affecter avec le temps. la magie et perdre de vue la façon dont le temps devrait fonctionner." #NT!
- trait_art_dream_craft: "Art artisanal de rêve" #NT!
- trait_art_dream_craft_desc: "Dream-Craft est l'art de manipuler la matière brute dont est fait le [dreaming|E]. Cet art permet à Sidhe de changer les formes physiques au sein du [dreaming|E], ce qui peut affecter l'apparence des propriétés franches et autres sanctuaires du [dreaming|E]. Cela peut également affecter le voile, le vêtement chimérique que portent les changelings lorsqu'ils sont dans le [dreaming|E]." #NT!
- trait_art_naming: "Nommer l’art" #NT!
- trait_art_naming_desc: "Nommer est l’art des vrais noms et le pouvoir des mots. C'est l'un des arts les plus insidieux connus des Kithain, car même si ses faibles niveaux sont trompeusement non menaçants, un maître du Naming peut facilement causer des dommages irréparables. Les utilisations trop frivoles du Naming ne sont pas prises à la légère par la noblesse, qui rend rapidement justice à ceux qui en subvertissent les effets." #NT!
- trait_art_sovereign: "Art souverain" #NT!
- trait_art_sovereign_desc: "Le souverain est l'art de contrôler les roturiers et la noble majesté. C'est l'un des arts les plus politiques couramment pratiqués par les Kithain, et existe en grande partie pour assurer le maintien de leurs structures politiques." #NT!
- trait_art_infusion: "Art d'infusion" #NT!
- trait_art_infusion_desc: "L'infusion est l'art qui aide Nockers à créer tous ses merveilleux mécanismes d'horlogerie et objets chimériques. Cela implique la connexion de « FUBARS » et d’autres entités chimériques sous des formes physiques ou chimériques." #NT!
- trait_art_tale_craft: "Art artisanal de conte" #NT!
- trait_art_tale_craft_desc: "Tale Craft est l'art Eshu consistant à raconter des histoires merveilleuses, en fournissant des effets spéciaux, en lisant la foule et en manipulant ses émotions. Le cantrip Bunk for a Tale Craft est, à quelques exceptions près, une histoire, qu'elle soit parlée ou chantée." #NT!
- trait_art_aphrodesia: "Art d’Aphrodésie" #NT!
- trait_art_aphrodesia_desc: "L'Aphrodésie est l'Art de la séduction. La version fae de "Love Potion Number 9", allant d'une attirance décente au sujet prêt à se suicider pour l'objet de son affection." #NT!
- trait_art_kryos: "Kryos Art" #NT!
- trait_art_kryos_desc: "Kryos est l'Art du froid et de la glace. Contrairement aux autres arts élémentaires connus des changelings, les pouvoirs de Kryos sont assez littéraux, provoquant une véritable froideur plutôt que des frissons métaphoriques. Certains craignent que cet Art soit étroitement lié à la Banalité, compte tenu de son caractère immobilisant et paralysant." #NT!
- trait_art_metamorphosis: "Art de la métamorphose" #NT!
- trait_art_metamorphosis_desc: "La métamorphose est l'art de changer la forme des êtres vivants. Il diffère notamment de Primal en ce sens que, alors que Primal se rapporte à la formation des non-vivants, la Métamorphose façonne les vivants. Grâce à lui, un fae peut facilement devenir ce qu'il veut, ne serait-ce que pour une courte période." #NT!
- trait_art_pyretics: "Pyrétique, Tableaux" #NT!
- trait_art_pyretics_desc: "La pyrétique est l'art de manipuler le feu réel et chimérique. En plus d'allumer le feu, Pyretics peut également exploiter les aspects moins destructeurs du feu, éclairant le chemin et révélant l'invisible." #NT!
- trait_art_petros: "Pétros" #NT!
- trait_art_petros_desc: "Petros, l'un des deux éclats de la Terre, contrôle le façonnage de la pierre et confère au lanceur de sorts les propriétés physiques de la roche solide. Tous les Inanimae qui connaissent Petros peuvent escalader une surface rocheuse sans difficulté." #NT!
- trait_art_aquis: "Acquis" #NT!
- trait_art_aquis_desc: "Aquis est le ruban d'eau, contrôlant le mouvement de l'eau dans l'atmosphère et reflétant l'association de l'eau avec l'empathie et la médecine. Tous les Inanimae qui connaissent Aquis sont capables de respirer sous l'eau et savent automatiquement nager." #NT!
- trait_art_pyros: "Pyros" #NT!
- trait_art_pyros_desc: "Pyros est le ruban de feu, produisant de la chaleur et une combustion spontanée, tout en affectant symboliquement la passion à sang chaud. Tous les Inanimae qui connaissent Pyros peuvent allumer une petite flamme sans avoir besoin d'allumettes ou d'équipement." #NT!
- trait_art_stratus: "Stratus" #NT!
- trait_art_stratus_desc: "Stratus est le ruban d'air, déviant à la fois par des mouvements incroyablement rapides et en produisant des illusions brumeuses. Tous les Inanimae qui connaissent Stratus peuvent ressentir les conditions météorologiques venant de kilomètres à la ronde." #NT!
- trait_art_verdage: "Verdage" #NT!
- trait_art_verdage_desc: "Verdage, l'un des deux éclats de la Terre, régit la vie et la matière organique, en particulier celle qui comprend les plantes. Tous les Inanimae qui connaissent Verdage sont capables d'identifier immédiatement la vie végétale qu'ils voient." #NT!
- trait_art_tieh_tan: "Tieh Tan" #NT!
- trait_art_tieh_tan_desc: "L’élément Métal comprend tous les métaux précieux et travaillés : l’or, l’argent, le fer, le laiton et l’acier. Bien que sa portée soit plutôt limitée par rapport à l'Eau ou à la Terre, son utilisation prédominante consiste à façonner des outils, notamment pour la guerre." #NT!
- trait_art_lin_tan: "Lin Tan" #NT!
- trait_art_lin_tan_desc: "Le bois représente la puissance du monde naturel et, en tant que tel, exerce un pouvoir sur une grande partie du monde. Les phénomènes naturels auxquels il est associé sont tout type de plante, de jeunesse, de santé et de croissance." #NT!
- trait_art_shui_tan: "Shui Tan" #NT!
- trait_art_shui_tan_desc: "L'eau est l'un des éléments les plus puissants. Elle englobe tout ce qui est liquide et gazeux : les nuages, le méthane, l'eau, le sang, etc... L'eau est intrinsèquement vitale mais dangereuse et trompeuse. Il contrôle également les vents et les tempêtes, mais pas la foudre." #NT!
- trait_art_hou_tan: "Hou Tan" #NT!
- trait_art_hou_tan_desc: "Le feu est associé à l'éclair, à la lumière, à la flamme et à toutes les autres énergies visibles. On le trouve dans les tempêtes, les flammes nues, les écrans d’ordinateur et le magma flamboyant." #NT!
- trait_art_di_tan: "Di Tan" #NT!
- trait_art_di_tan_desc: "La Terre représente toutes les roches, sols, pierres, pierres précieuses et minéraux. La Terre est le centre de tous les éléments et le pivot de la perception chinoise du monde. Il représente l’Empire du Milieu lui-même." #NT!
- trait_art_nei_tan: "Nei Tan" #NT!
- trait_art_nei_tan_desc: "Dans le langage courant des Hsien, Nei Tan est « l'Alchimie Interne », la magie taoïste Wu Tan pratiquée par le shinma poursuivant le [tao_te_hsien|E]." #NT!
+ trait_art_chicanery: "Art de chicane"
+ trait_art_chicanery_desc: "La chicanerie est le pouvoir magique trompeur de l’illusion et de la manipulation émotionnelle. Ceux qui le pratiquent intensivement sont souvent considérés comme peu dignes de confiance par les nobles."
+ trait_art_legerdemain: "Art de Legerdemain"
+ trait_art_legerdemain_desc: "Legerdemain permet à un changeling de contrôler son environnement grâce à des moyens télékinésiques, depuis le fait de faire les poches à distance jusqu'à saisir et lancer de gros objets. Cet Art permet également la création d'objets et de créatures illusoires solides."
+ trait_art_primal: "Art primordial"
+ trait_art_primal_desc: "Primal permet à un changeling de manipuler les forces de la nature, de l'invocation des éléments à la communion avec des objets inanimés. Cela donne également du pouvoir sur le corps, permettant à un fae de durcir sa peau comme l'écorce d'un arbre, de soigner ses blessures, de déchirer la chair et même de se métamorphoser."
+ trait_art_soothsay: "Art de devin"
+ trait_art_soothsay_desc: "Soothsay représente la capacité du changeling à voir l’avenir. En fonction des royaumes utilisés conjointement, le changeling peut être capable d'apprendre des informations sur une personne, un lieu ou un objet."
+ trait_art_wayfare: "Art de voyage"
+ trait_art_wayfare_desc: "L'Art du Chemin traite de la capacité d'un changelin à se déplacer dans l'espace. Cela implique de rebondir et de parcourir de longues distances, d'avancer à toute vitesse sur des pieds incroyablement rapides et même de se téléporter d'un endroit à un autre."
+ trait_art_chronos: "Art Chronos"
+ trait_art_chronos_desc: "Chronos est l'Art de la manipulation temporelle. Contrairement aux méthodes de modification du temps connues d'autres surnaturels, Chronos est assez indirect et ne suit presque jamais un ordre linéaire. Au lieu de cela, il s'agit d'un art consistant à être disjoint de l'ordre approprié du temps, ce qui rend ses praticiens difficiles à affecter avec le temps. la magie et perdre de vue la façon dont le temps devrait fonctionner."
+ trait_art_dream_craft: "Art artisanal de rêve"
+ trait_art_dream_craft_desc: "Dream-Craft est l'art de manipuler la matière brute dont est fait le [dreaming|E]. Cet art permet à Sidhe de changer les formes physiques au sein du [dreaming|E], ce qui peut affecter l'apparence des propriétés franches et autres sanctuaires du [dreaming|E]. Cela peut également affecter le voile, le vêtement chimérique que portent les changelings lorsqu'ils sont dans le [dreaming|E]."
+ trait_art_naming: "Nommer l’art"
+ trait_art_naming_desc: "Nommer est l’art des vrais noms et le pouvoir des mots. C'est l'un des arts les plus insidieux connus des Kithain, car même si ses faibles niveaux sont trompeusement non menaçants, un maître du Naming peut facilement causer des dommages irréparables. Les utilisations trop frivoles du Naming ne sont pas prises à la légère par la noblesse, qui rend rapidement justice à ceux qui en subvertissent les effets."
+ trait_art_sovereign: "Art souverain"
+ trait_art_sovereign_desc: "Le souverain est l'art de contrôler les roturiers et la noble majesté. C'est l'un des arts les plus politiques couramment pratiqués par les Kithain, et existe en grande partie pour assurer le maintien de leurs structures politiques."
+ trait_art_infusion: "Art d'infusion"
+ trait_art_infusion_desc: "L'infusion est l'art qui aide Nockers à créer tous ses merveilleux mécanismes d'horlogerie et objets chimériques. Cela implique la connexion de « FUBARS » et d’autres entités chimériques sous des formes physiques ou chimériques."
+ trait_art_tale_craft: "Art artisanal de conte"
+ trait_art_tale_craft_desc: "Tale Craft est l'art Eshu consistant à raconter des histoires merveilleuses, en fournissant des effets spéciaux, en lisant la foule et en manipulant ses émotions. Le cantrip Bunk for a Tale Craft est, à quelques exceptions près, une histoire, qu'elle soit parlée ou chantée."
+ trait_art_aphrodesia: "Art d’Aphrodésie"
+ trait_art_aphrodesia_desc: "L'Aphrodésie est l'Art de la séduction. La version fae de "Love Potion Number 9", allant d'une attirance décente au sujet prêt à se suicider pour l'objet de son affection."
+ trait_art_kryos: "Kryos Art"
+ trait_art_kryos_desc: "Kryos est l'Art du froid et de la glace. Contrairement aux autres arts élémentaires connus des changelings, les pouvoirs de Kryos sont assez littéraux, provoquant une véritable froideur plutôt que des frissons métaphoriques. Certains craignent que cet Art soit étroitement lié à la Banalité, compte tenu de son caractère immobilisant et paralysant."
+ trait_art_metamorphosis: "Art de la métamorphose"
+ trait_art_metamorphosis_desc: "La métamorphose est l'art de changer la forme des êtres vivants. Il diffère notamment de Primal en ce sens que, alors que Primal se rapporte à la formation des non-vivants, la Métamorphose façonne les vivants. Grâce à lui, un fae peut facilement devenir ce qu'il veut, ne serait-ce que pour une courte période."
+ trait_art_pyretics: "Pyrétique, Tableaux"
+ trait_art_pyretics_desc: "La pyrétique est l'art de manipuler le feu réel et chimérique. En plus d'allumer le feu, Pyretics peut également exploiter les aspects moins destructeurs du feu, éclairant le chemin et révélant l'invisible."
+ trait_art_petros: "Pétros"
+ trait_art_petros_desc: "Petros, l'un des deux éclats de la Terre, contrôle le façonnage de la pierre et confère au lanceur de sorts les propriétés physiques de la roche solide. Tous les Inanimae qui connaissent Petros peuvent escalader une surface rocheuse sans difficulté."
+ trait_art_aquis: "Acquis"
+ trait_art_aquis_desc: "Aquis est le ruban d'eau, contrôlant le mouvement de l'eau dans l'atmosphère et reflétant l'association de l'eau avec l'empathie et la médecine. Tous les Inanimae qui connaissent Aquis sont capables de respirer sous l'eau et savent automatiquement nager."
+ trait_art_pyros: "Pyros"
+ trait_art_pyros_desc: "Pyros est le ruban de feu, produisant de la chaleur et une combustion spontanée, tout en affectant symboliquement la passion à sang chaud. Tous les Inanimae qui connaissent Pyros peuvent allumer une petite flamme sans avoir besoin d'allumettes ou d'équipement."
+ trait_art_stratus: "Stratus"
+ trait_art_stratus_desc: "Stratus est le ruban d'air, déviant à la fois par des mouvements incroyablement rapides et en produisant des illusions brumeuses. Tous les Inanimae qui connaissent Stratus peuvent ressentir les conditions météorologiques venant de kilomètres à la ronde."
+ trait_art_verdage: "Verdage"
+ trait_art_verdage_desc: "Verdage, l'un des deux éclats de la Terre, régit la vie et la matière organique, en particulier celle qui comprend les plantes. Tous les Inanimae qui connaissent Verdage sont capables d'identifier immédiatement la vie végétale qu'ils voient."
+ trait_art_tieh_tan: "Tieh Tan"
+ trait_art_tieh_tan_desc: "L’élément Métal comprend tous les métaux précieux et travaillés : l’or, l’argent, le fer, le laiton et l’acier. Bien que sa portée soit plutôt limitée par rapport à l'Eau ou à la Terre, son utilisation prédominante consiste à façonner des outils, notamment pour la guerre."
+ trait_art_lin_tan: "Lin Tan"
+ trait_art_lin_tan_desc: "Le bois représente la puissance du monde naturel et, en tant que tel, exerce un pouvoir sur une grande partie du monde. Les phénomènes naturels auxquels il est associé sont tout type de plante, de jeunesse, de santé et de croissance."
+ trait_art_shui_tan: "Shui Tan"
+ trait_art_shui_tan_desc: "L'eau est l'un des éléments les plus puissants. Elle englobe tout ce qui est liquide et gazeux : les nuages, le méthane, l'eau, le sang, etc... L'eau est intrinsèquement vitale mais dangereuse et trompeuse. Il contrôle également les vents et les tempêtes, mais pas la foudre."
+ trait_art_hou_tan: "Hou Tan"
+ trait_art_hou_tan_desc: "Le feu est associé à l'éclair, à la lumière, à la flamme et à toutes les autres énergies visibles. On le trouve dans les tempêtes, les flammes nues, les écrans d’ordinateur et le magma flamboyant."
+ trait_art_di_tan: "Di Tan"
+ trait_art_di_tan_desc: "La Terre représente toutes les roches, sols, pierres, pierres précieuses et minéraux. La Terre est le centre de tous les éléments et le pivot de la perception chinoise du monde. Il représente l’Empire du Milieu lui-même."
+ trait_art_nei_tan: "Nei Tan"
+ trait_art_nei_tan_desc: "Dans le langage courant des Hsien, Nei Tan est « l'Alchimie Interne », la magie taoïste Wu Tan pratiquée par le shinma poursuivant le [tao_te_hsien|E]."
   
- trait_art_chicanery_advanced: "Maîtrise de l'art de la chicane" #NT!
- trait_art_chicanery_advanced_desc: "La chicanerie est le pouvoir magique trompeur de l’illusion et de la manipulation émotionnelle. Ceux qui le pratiquent intensivement sont souvent considérés comme peu dignes de confiance par les nobles." #NT!
- trait_art_legerdemain_advanced: "Maîtrise de l'art Legerdemain" #NT!
- trait_art_legerdemain_advanced_desc: "Legerdemain permet à un changeling de contrôler son environnement grâce à des moyens télékinésiques, depuis le fait de faire les poches à distance jusqu'à saisir et lancer de gros objets. Cet Art permet également la création d'objets et de créatures illusoires solides." #NT!
- trait_art_primal_advanced: "Maîtrise de l'art primordial" #NT!
- trait_art_primal_advanced_desc: "Primal permet à un changeling de manipuler les forces de la nature, de l'invocation des éléments à la communion avec des objets inanimés. Cela donne également du pouvoir sur le corps, permettant à un fae de durcir sa peau comme l'écorce d'un arbre, de soigner ses blessures, de déchirer la chair et même de se métamorphoser." #NT!
- trait_art_soothsay_advanced: "Maîtrise de l'art de la devinette" #NT!
- trait_art_soothsay_advanced_desc: "Soothsay représente la capacité du changeling à voir l’avenir. En fonction des royaumes utilisés conjointement, le changeling peut être capable d'apprendre des informations sur une personne, un lieu ou un objet." #NT!
- trait_art_wayfare_advanced: "Maîtrise de l'art du voyage" #NT!
- trait_art_wayfare_advanced_desc: "L'Art du Chemin traite de la capacité d'un changelin à se déplacer dans l'espace. Cela implique de rebondir et de parcourir de longues distances, d'avancer à toute vitesse sur des pieds incroyablement rapides et même de se téléporter d'un endroit à un autre." #NT!
- trait_art_chronos_advanced: "Maîtrise artistique de Chronos" #NT!
- trait_art_chronos_advanced_desc: "Chronos est l'Art de la manipulation temporelle. Contrairement aux méthodes de modification du temps connues d'autres surnaturels, Chronos est assez indirect et ne suit presque jamais un ordre linéaire. Au lieu de cela, il s'agit d'un art consistant à être disjoint de l'ordre approprié du temps, ce qui rend ses praticiens difficiles à affecter avec le temps. la magie et perdre de vue la façon dont le temps devrait fonctionner." #NT!
- trait_art_dream_craft_advanced: "Maîtrise de l'art de la création de rêves" #NT!
- trait_art_dream_craft_advanced_desc: "Dream-Craft est l'art de manipuler la matière brute dont est fait le [dreaming|E]. Cet art permet à Sidhe de changer les formes physiques au sein du [dreaming|E], ce qui peut affecter l'apparence des propriétés franches et autres sanctuaires du [dreaming|E]. Cela peut également affecter le voile, le vêtement chimérique que portent les changelings lorsqu'ils sont dans le [dreaming|E]." #NT!
- trait_art_naming_advanced: "Nommer la maîtrise de l’art" #NT!
- trait_art_naming_advanced_desc: "Nommer est l’art des vrais noms et le pouvoir des mots. C'est l'un des arts les plus insidieux connus des Kithain, car même si ses faibles niveaux sont trompeusement non menaçants, un maître du Naming peut facilement causer des dommages irréparables. Les utilisations trop frivoles du Naming ne sont pas prises à la légère par la noblesse, qui rend rapidement justice à ceux qui en subvertissent les effets." #NT!
- trait_art_sovereign_advanced: "Maîtrise de l'art souverain" #NT!
- trait_art_sovereign_advanced_desc: "Le souverain est l'art de contrôler les roturiers et la noble majesté. C'est l'un des arts les plus politiques couramment pratiqués par les Kithain, et existe en grande partie pour assurer le maintien de leurs structures politiques." #NT!
- trait_art_infusion_advanced: "Maîtrise de l’art de l’infusion" #NT!
- trait_art_infusion_advanced_desc: "L'infusion est l'art qui aide Nockers à créer tous ses merveilleux mécanismes d'horlogerie et objets chimériques. Cela implique la connexion de « FUBARS » et d’autres entités chimériques sous des formes physiques ou chimériques." #NT!
- trait_art_tale_craft_advanced: "Maîtrise de l'art artisanal du conte" #NT!
- trait_art_tale_craft_advanced_desc: "Tale Craft est l'art Eshu consistant à raconter des histoires merveilleuses, en fournissant des effets spéciaux, en lisant la foule et en manipulant ses émotions. Le cantrip Bunk for a Tale Craft est, à quelques exceptions près, une histoire, qu'elle soit parlée ou chantée." #NT!
- trait_art_aphrodesia_advanced: "Maîtrise de l’art d’Aphrodésie" #NT!
- trait_art_aphrodesia_advanced_desc: "L'Aphrodésie est l'Art de la séduction. La version fae de "Love Potion Number 9", allant d'une attirance décente au sujet prêt à se suicider pour l'objet de son affection." #NT!
- trait_art_kryos_advanced: "Maîtrise artistique de Kryos" #NT!
- trait_art_kryos_advanced_desc: "Kryos est l'Art du froid et de la glace. Contrairement aux autres arts élémentaires connus des changelings, les pouvoirs de Kryos sont assez littéraux, provoquant une véritable froideur plutôt que des frissons métaphoriques. Certains craignent que cet Art soit étroitement lié à la Banalité, compte tenu de son caractère immobilisant et paralysant." #NT!
- trait_art_metamorphosis_advanced: "Maîtrise de l’art de la métamorphose" #NT!
- trait_art_metamorphosis_advanced_desc: "La métamorphose est l'art de changer la forme des êtres vivants. Il diffère notamment de Primal en ce sens que, alors que Primal se rapporte à la formation des non-vivants, la Métamorphose façonne les vivants. Grâce à lui, un fae peut facilement devenir ce qu'il veut, ne serait-ce que pour une courte période." #NT!
- trait_art_pyretics_advanced: "Maîtrise de l'art de la Pyrétique" #NT!
- trait_art_pyretics_advanced_desc: "La pyrétique est l'art de manipuler le feu réel et chimérique. En plus d'allumer le feu, Pyretics peut également exploiter les aspects moins destructeurs du feu, éclairant le chemin et révélant l'invisible." #NT!
- trait_art_petros_advanced: "Maîtrise de Petros" #NT!
- trait_art_petros_advanced_desc: "Petros, l'un des deux éclats de la Terre, contrôle le façonnage de la pierre et confère au lanceur de sorts les propriétés physiques de la roche solide. Tous les Inanimae qui connaissent Petros peuvent escalader une surface rocheuse sans difficulté." #NT!
- trait_art_aquis_advanced: "Maîtrise acquise" #NT!
- trait_art_aquis_advanced_desc: "Aquis est le ruban d'eau, contrôlant le mouvement de l'eau dans l'atmosphère et reflétant l'association de l'eau avec l'empathie et la médecine. Tous les Inanimae qui connaissent Aquis sont capables de respirer sous l'eau et savent automatiquement nager." #NT!
- trait_art_pyros_advanced: "Maîtrise des pyros" #NT!
- trait_art_pyros_advanced_desc: "Pyros est le ruban de feu, produisant de la chaleur et une combustion spontanée, tout en affectant symboliquement la passion à sang chaud. Tous les Inanimae qui connaissent Pyros peuvent allumer une petite flamme sans avoir besoin d'allumettes ou d'équipement." #NT!
- trait_art_stratus_advanced: "Maîtrise des stratus" #NT!
- trait_art_stratus_advanced_desc: "Stratus est le ruban d'air, déviant à la fois par des mouvements incroyablement rapides et en produisant des illusions brumeuses. Tous les Inanimae qui connaissent Stratus peuvent ressentir les conditions météorologiques venant de kilomètres à la ronde." #NT!
- trait_art_verdage_advanced: "Maîtrise du Verdage" #NT!
- trait_art_verdage_advanced_desc: "Verdage, l'un des deux éclats de la Terre, régit la vie et la matière organique, en particulier celle qui comprend les plantes. Tous les Inanimae qui connaissent Verdage sont capables d'identifier immédiatement la vie végétale qu'ils voient." #NT!
- trait_art_tieh_tan_advanced: "Tieh Tan Mastery" #NT!
- trait_art_tieh_tan_advanced_desc: "L’élément Métal comprend tous les métaux précieux et travaillés : l’or, l’argent, le fer, le laiton et l’acier. Bien que sa portée soit plutôt limitée par rapport à l'Eau ou à la Terre, son utilisation prédominante consiste à façonner des outils, notamment pour la guerre. Les Maîtres du Métal peuvent être d’incroyables artisans ou des guerriers inattaquables." #NT!
- trait_art_lin_tan_advanced: "Maîtrise de Lin Tan" #NT!
- trait_art_lin_tan_advanced_desc: "Le bois représente la puissance du monde naturel et, en tant que tel, exerce un pouvoir sur une grande partie du monde. Les phénomènes naturels auxquels il est associé sont tout type de plante, de jeunesse, de santé et de croissance." #NT!
- trait_art_shui_tan_advanced: "Maîtrise du Shui Tan" #NT!
- trait_art_shui_tan_advanced_desc: "Le Shui Fu, ou Ministère de l'Eau, est la force la plus puissante, la plus subtile, mais la plus inefficace de l'Empire du Milieu. Les Maîtres de l'Eau sont redoutés et vénérés, mais la plupart servent par peur.\nL'eau est l'un des éléments les plus puissants. Elle englobe tout ce qui est liquide et gazeux : les nuages, le méthane, l'eau, le sang, etc... L'eau est intrinsèquement vitale mais dangereuse et trompeuse. Il contrôle également les vents et les tempêtes, mais pas la foudre." #NT!
- trait_art_hou_tan_advanced: "Maîtrise Hou Tan" #NT!
- trait_art_hou_tan_advanced_desc: "Les Maîtres du Feu sont des adversaires avisés et des dirigeants actifs. Ils ont tendance à être incapables de se reposer et recherchent constamment une activité et une implication. Le feu est associé à l'éclair, à la lumière, à la flamme et à toutes les autres énergies visibles. On le trouve dans les tempêtes, les flammes nues, les écrans d’ordinateur et le magma flamboyant." #NT!
- trait_art_di_tan_advanced: "Maîtrise de Di Tan" #NT!
- trait_art_di_tan_advanced_desc: "Les maîtres de Di Tan sont souvent de sages conseillers ou, parfois, de redoutables mandarins. Les Yü considèrent particulièrement les Maîtres de la Terre comme des dirigeants perspicaces et équilibrés. De nombreux hsien afflueront vers la bannière jaune d'un tel individu.\nLa Terre représente l'ensemble des roches, du sol, des pierres, des pierres précieuses et des minéraux. La Terre est le centre de tous les éléments et le pivot de la perception chinoise du monde. Il représente l’Empire du Milieu lui-même." #NT!
- trait_art_nei_tan_advanced: "Maîtrise du Nei Tan" #NT!
- trait_art_nei_tan_advanced_desc: "Dans le langage courant des Hsien, Nei Tan est « l'Alchimie Interne », la magie taoïste Wu Tan pratiquée par le shinma poursuivant le [tao_te_hsien|E]." #NT!
+ trait_art_chicanery_advanced: "Maîtrise de l'art de la chicane"
+ trait_art_chicanery_advanced_desc: "La chicanerie est le pouvoir magique trompeur de l’illusion et de la manipulation émotionnelle. Ceux qui le pratiquent intensivement sont souvent considérés comme peu dignes de confiance par les nobles."
+ trait_art_legerdemain_advanced: "Maîtrise de l'art Legerdemain"
+ trait_art_legerdemain_advanced_desc: "Legerdemain permet à un changeling de contrôler son environnement grâce à des moyens télékinésiques, depuis le fait de faire les poches à distance jusqu'à saisir et lancer de gros objets. Cet Art permet également la création d'objets et de créatures illusoires solides."
+ trait_art_primal_advanced: "Maîtrise de l'art primordial"
+ trait_art_primal_advanced_desc: "Primal permet à un changeling de manipuler les forces de la nature, de l'invocation des éléments à la communion avec des objets inanimés. Cela donne également du pouvoir sur le corps, permettant à un fae de durcir sa peau comme l'écorce d'un arbre, de soigner ses blessures, de déchirer la chair et même de se métamorphoser."
+ trait_art_soothsay_advanced: "Maîtrise de l'art de la devinette"
+ trait_art_soothsay_advanced_desc: "Soothsay représente la capacité du changeling à voir l’avenir. En fonction des royaumes utilisés conjointement, le changeling peut être capable d'apprendre des informations sur une personne, un lieu ou un objet."
+ trait_art_wayfare_advanced: "Maîtrise de l'art du voyage"
+ trait_art_wayfare_advanced_desc: "L'Art du Chemin traite de la capacité d'un changelin à se déplacer dans l'espace. Cela implique de rebondir et de parcourir de longues distances, d'avancer à toute vitesse sur des pieds incroyablement rapides et même de se téléporter d'un endroit à un autre."
+ trait_art_chronos_advanced: "Maîtrise artistique de Chronos"
+ trait_art_chronos_advanced_desc: "Chronos est l'Art de la manipulation temporelle. Contrairement aux méthodes de modification du temps connues d'autres surnaturels, Chronos est assez indirect et ne suit presque jamais un ordre linéaire. Au lieu de cela, il s'agit d'un art consistant à être disjoint de l'ordre approprié du temps, ce qui rend ses praticiens difficiles à affecter avec le temps. la magie et perdre de vue la façon dont le temps devrait fonctionner."
+ trait_art_dream_craft_advanced: "Maîtrise de l'art de la création de rêves"
+ trait_art_dream_craft_advanced_desc: "Dream-Craft est l'art de manipuler la matière brute dont est fait le [dreaming|E]. Cet art permet à Sidhe de changer les formes physiques au sein du [dreaming|E], ce qui peut affecter l'apparence des propriétés franches et autres sanctuaires du [dreaming|E]. Cela peut également affecter le voile, le vêtement chimérique que portent les changelings lorsqu'ils sont dans le [dreaming|E]."
+ trait_art_naming_advanced: "Nommer la maîtrise de l’art"
+ trait_art_naming_advanced_desc: "Nommer est l’art des vrais noms et le pouvoir des mots. C'est l'un des arts les plus insidieux connus des Kithain, car même si ses faibles niveaux sont trompeusement non menaçants, un maître du Naming peut facilement causer des dommages irréparables. Les utilisations trop frivoles du Naming ne sont pas prises à la légère par la noblesse, qui rend rapidement justice à ceux qui en subvertissent les effets."
+ trait_art_sovereign_advanced: "Maîtrise de l'art souverain"
+ trait_art_sovereign_advanced_desc: "Le souverain est l'art de contrôler les roturiers et la noble majesté. C'est l'un des arts les plus politiques couramment pratiqués par les Kithain, et existe en grande partie pour assurer le maintien de leurs structures politiques."
+ trait_art_infusion_advanced: "Maîtrise de l’art de l’infusion"
+ trait_art_infusion_advanced_desc: "L'infusion est l'art qui aide Nockers à créer tous ses merveilleux mécanismes d'horlogerie et objets chimériques. Cela implique la connexion de « FUBARS » et d’autres entités chimériques sous des formes physiques ou chimériques."
+ trait_art_tale_craft_advanced: "Maîtrise de l'art artisanal du conte"
+ trait_art_tale_craft_advanced_desc: "Tale Craft est l'art Eshu consistant à raconter des histoires merveilleuses, en fournissant des effets spéciaux, en lisant la foule et en manipulant ses émotions. Le cantrip Bunk for a Tale Craft est, à quelques exceptions près, une histoire, qu'elle soit parlée ou chantée."
+ trait_art_aphrodesia_advanced: "Maîtrise de l’art d’Aphrodésie"
+ trait_art_aphrodesia_advanced_desc: "L'Aphrodésie est l'Art de la séduction. La version fae de "Love Potion Number 9", allant d'une attirance décente au sujet prêt à se suicider pour l'objet de son affection."
+ trait_art_kryos_advanced: "Maîtrise artistique de Kryos"
+ trait_art_kryos_advanced_desc: "Kryos est l'Art du froid et de la glace. Contrairement aux autres arts élémentaires connus des changelings, les pouvoirs de Kryos sont assez littéraux, provoquant une véritable froideur plutôt que des frissons métaphoriques. Certains craignent que cet Art soit étroitement lié à la Banalité, compte tenu de son caractère immobilisant et paralysant."
+ trait_art_metamorphosis_advanced: "Maîtrise de l’art de la métamorphose"
+ trait_art_metamorphosis_advanced_desc: "La métamorphose est l'art de changer la forme des êtres vivants. Il diffère notamment de Primal en ce sens que, alors que Primal se rapporte à la formation des non-vivants, la Métamorphose façonne les vivants. Grâce à lui, un fae peut facilement devenir ce qu'il veut, ne serait-ce que pour une courte période."
+ trait_art_pyretics_advanced: "Maîtrise de l'art de la Pyrétique"
+ trait_art_pyretics_advanced_desc: "La pyrétique est l'art de manipuler le feu réel et chimérique. En plus d'allumer le feu, Pyretics peut également exploiter les aspects moins destructeurs du feu, éclairant le chemin et révélant l'invisible."
+ trait_art_petros_advanced: "Maîtrise de Petros"
+ trait_art_petros_advanced_desc: "Petros, l'un des deux éclats de la Terre, contrôle le façonnage de la pierre et confère au lanceur de sorts les propriétés physiques de la roche solide. Tous les Inanimae qui connaissent Petros peuvent escalader une surface rocheuse sans difficulté."
+ trait_art_aquis_advanced: "Maîtrise acquise"
+ trait_art_aquis_advanced_desc: "Aquis est le ruban d'eau, contrôlant le mouvement de l'eau dans l'atmosphère et reflétant l'association de l'eau avec l'empathie et la médecine. Tous les Inanimae qui connaissent Aquis sont capables de respirer sous l'eau et savent automatiquement nager."
+ trait_art_pyros_advanced: "Maîtrise des pyros"
+ trait_art_pyros_advanced_desc: "Pyros est le ruban de feu, produisant de la chaleur et une combustion spontanée, tout en affectant symboliquement la passion à sang chaud. Tous les Inanimae qui connaissent Pyros peuvent allumer une petite flamme sans avoir besoin d'allumettes ou d'équipement."
+ trait_art_stratus_advanced: "Maîtrise des stratus"
+ trait_art_stratus_advanced_desc: "Stratus est le ruban d'air, déviant à la fois par des mouvements incroyablement rapides et en produisant des illusions brumeuses. Tous les Inanimae qui connaissent Stratus peuvent ressentir les conditions météorologiques venant de kilomètres à la ronde."
+ trait_art_verdage_advanced: "Maîtrise du Verdage"
+ trait_art_verdage_advanced_desc: "Verdage, l'un des deux éclats de la Terre, régit la vie et la matière organique, en particulier celle qui comprend les plantes. Tous les Inanimae qui connaissent Verdage sont capables d'identifier immédiatement la vie végétale qu'ils voient."
+ trait_art_tieh_tan_advanced: "Tieh Tan Mastery"
+ trait_art_tieh_tan_advanced_desc: "L’élément Métal comprend tous les métaux précieux et travaillés : l’or, l’argent, le fer, le laiton et l’acier. Bien que sa portée soit plutôt limitée par rapport à l'Eau ou à la Terre, son utilisation prédominante consiste à façonner des outils, notamment pour la guerre. Les Maîtres du Métal peuvent être d’incroyables artisans ou des guerriers inattaquables."
+ trait_art_lin_tan_advanced: "Maîtrise de Lin Tan"
+ trait_art_lin_tan_advanced_desc: "Le bois représente la puissance du monde naturel et, en tant que tel, exerce un pouvoir sur une grande partie du monde. Les phénomènes naturels auxquels il est associé sont tout type de plante, de jeunesse, de santé et de croissance."
+ trait_art_shui_tan_advanced: "Maîtrise du Shui Tan"
+ trait_art_shui_tan_advanced_desc: "Le Shui Fu, ou Ministère de l'Eau, est la force la plus puissante, la plus subtile, mais la plus inefficace de l'Empire du Milieu. Les Maîtres de l'Eau sont redoutés et vénérés, mais la plupart servent par peur.\nL'eau est l'un des éléments les plus puissants. Elle englobe tout ce qui est liquide et gazeux : les nuages, le méthane, l'eau, le sang, etc... L'eau est intrinsèquement vitale mais dangereuse et trompeuse. Il contrôle également les vents et les tempêtes, mais pas la foudre."
+ trait_art_hou_tan_advanced: "Maîtrise Hou Tan"
+ trait_art_hou_tan_advanced_desc: "Les Maîtres du Feu sont des adversaires avisés et des dirigeants actifs. Ils ont tendance à être incapables de se reposer et recherchent constamment une activité et une implication. Le feu est associé à l'éclair, à la lumière, à la flamme et à toutes les autres énergies visibles. On le trouve dans les tempêtes, les flammes nues, les écrans d’ordinateur et le magma flamboyant."
+ trait_art_di_tan_advanced: "Maîtrise de Di Tan"
+ trait_art_di_tan_advanced_desc: "Les maîtres de Di Tan sont souvent de sages conseillers ou, parfois, de redoutables mandarins. Les Yü considèrent particulièrement les Maîtres de la Terre comme des dirigeants perspicaces et équilibrés. De nombreux hsien afflueront vers la bannière jaune d'un tel individu.\nLa Terre représente l'ensemble des roches, du sol, des pierres, des pierres précieuses et des minéraux. La Terre est le centre de tous les éléments et le pivot de la perception chinoise du monde. Il représente l’Empire du Milieu lui-même."
+ trait_art_nei_tan_advanced: "Maîtrise du Nei Tan"
+ trait_art_nei_tan_advanced_desc: "Dans le langage courant des Hsien, Nei Tan est « l'Alchimie Interne », la magie taoïste Wu Tan pratiquée par le shinma poursuivant le [tao_te_hsien|E]."
   
- trait_faerie_eternity: "Éternité féerique" #NT!
- trait_faerie_eternity_desc: "Après avoir traversé votre Chrysalide, vous avez eu un anniversaire, puis un autre, puis un autre. Quelque chose était étrange cependant : vous ne sembliez pas grandir ou vieillir. Vous êtes touché par un vestige de l’immortalité qui était autrefois le droit de naissance de tous les faes." #NT!
+ trait_faerie_eternity: "Éternité féerique"
+ trait_faerie_eternity_desc: "Après avoir traversé votre Chrysalide, vous avez eu un anniversaire, puis un autre, puis un autre. Quelque chose était étrange cependant : vous ne sembliez pas grandir ou vieillir. Vous êtes touché par un vestige de l’immortalité qui était autrefois le droit de naissance de tous les faes."
   
- trait_prodigal: "Prodigue" #NT!
- trait_enchanted_dreamers: "Rêveurs enchantés" #NT!
- trait_dark_chimera: "Chimère noire" #NT!
- trait_prodigal_vampire_desc: "Le premier vampire était un Unseelie Redcap d'il y a longtemps qui a prêté un serment d'amitié avec son rival Seelie Sidhe après qu'aucun des deux n'ait pu vaincre l'autre au combat. Ils devinrent frères et accomplirent de grands exploits ; mais, lorsqu'ils tuèrent un dragon, les Sidhe s'attribuèrent tout le mérite. Furieux, le Bonnet Rouge mordit la tête de son ancien rival devant le roi du royaume, rompant ainsi son serment. "Le sang était son crime, le sang était son héritage, et donc le sang serait la racine de son pouvoir", comme le raconte l'histoire, et il fut maudit par le vampirisme, pour ne plus jamais connaître le [dreaming|E]." #NT!
- trait_prodigal_mage_desc: "Les mages sont des mortels, mais ceux qui se sont éveillés à la conscience du [dreaming|E], et dont les talents et la magie du [dreaming|E] sont bien plus puissants que ceux des Kithain. Le mythe des Changelings dit qu'ils sont les descendants de quatre enfants tombés du ciel et détruisant les puissantes armées des nobles faes qui les ont découverts. Ces enfants étaient Té la Folle (mère du changement), Li l'Ombre (mère de l'équilibre), Ihenn le Fabricant de fer (père de la stase) et Chla le Délié (père de la décadence)." #NT!
- trait_prodigal_shifter_desc: "Les loups-garous et les autres changeurs de forme sont les descendants des faes qui, ne souhaitant pas abandonner entièrement la liberté de forme que possédaient les faes dans les temps anciens, ont choisi d'adopter des formes animales ainsi que des formes humanoïdes. Ces faes étaient les plus proches de la Terre, et lorsqu'une grande et terrible Ténèbres surgit pour engloutir la terre, ils quittèrent avec impatience les conseils de planification inefficaces des faes pour se jeter tête baissée dans la bataille contre l'ennemi. Bien qu'ils aient réussi à empêcher la victoire des Ténèbres, ils en ont payé un lourd tribut : la perte de tous leurs rêves, à l'exception de celui de la bataille." #NT!
- trait_prodigal_demon_desc: "La Maison Balor affirme son expertise en matière de démons et d'entités démoniaques, revendiquant la responsabilité de l'invocation historique et de la liaison de plusieurs de ces créatures dans leurs guerres contre les tribunaux fomoriens. La maison Balor déclare que les démons étaient d'anciens faes à une époque où l'hiver était sur le monde, mais que leur temps est passé et qu'ils ont été exilés dans un labyrinthe du [deep_dreaming|E]. Leur fuite ne serait autorisée que lorsque le besoin deviendrait désespéré." #NT!
- trait_prodigal_wraith_desc: "Les fantômes sont de sombres chimères, mais des chimères qui se créent à partir des souvenirs de ceux qui meurent. Seules les âmes les plus créatives, imaginatives et passionnées se reforment dans la sombre réalité chimérique appelée [shadowlands|E]. (Mis à part cette perspective légèrement différente, les Changelings – grâce au Sluagh – ont une compréhension assez précise des spectres.)" #NT!
- trait_prodigal_mummy_desc: "Les archives d'Eshu affirment que les momies étaient autrefois des mortels enchantés qui ne faisaient plus qu'un avec la réalité chimérique du [dreaming|E]. Ces enchantés prêtèrent serment aux grands et nobles Arcadiens et, grâce à des pactes scellés physiquement et spirituellement, devinrent éternellement engagés dans la cause de leurs dieux faes. Leurs corps ne s'infecteraient jamais et leurs esprits ne bougeraient jamais, aussi longtemps qu'ils serviraient leurs maîtres et maintiendraient l'équilibre entre les royaumes du banal et du sublime." #NT!
+ trait_prodigal: "Prodigue"
+ trait_enchanted_dreamers: "Rêveurs enchantés"
+ trait_dark_chimera: "Chimère noire"
+ trait_prodigal_vampire_desc: "Le premier vampire était un Unseelie Redcap d'il y a longtemps qui a prêté un serment d'amitié avec son rival Seelie Sidhe après qu'aucun des deux n'ait pu vaincre l'autre au combat. Ils devinrent frères et accomplirent de grands exploits ; mais, lorsqu'ils tuèrent un dragon, les Sidhe s'attribuèrent tout le mérite. Furieux, le Bonnet Rouge mordit la tête de son ancien rival devant le roi du royaume, rompant ainsi son serment. "Le sang était son crime, le sang était son héritage, et donc le sang serait la racine de son pouvoir", comme le raconte l'histoire, et il fut maudit par le vampirisme, pour ne plus jamais connaître le [dreaming|E]."
+ trait_prodigal_mage_desc: "Les mages sont des mortels, mais ceux qui se sont éveillés à la conscience du [dreaming|E], et dont les talents et la magie du [dreaming|E] sont bien plus puissants que ceux des Kithain. Le mythe des Changelings dit qu'ils sont les descendants de quatre enfants tombés du ciel et détruisant les puissantes armées des nobles faes qui les ont découverts. Ces enfants étaient Té la Folle (mère du changement), Li l'Ombre (mère de l'équilibre), Ihenn le Fabricant de fer (père de la stase) et Chla le Délié (père de la décadence)."
+ trait_prodigal_shifter_desc: "Les loups-garous et les autres changeurs de forme sont les descendants des faes qui, ne souhaitant pas abandonner entièrement la liberté de forme que possédaient les faes dans les temps anciens, ont choisi d'adopter des formes animales ainsi que des formes humanoïdes. Ces faes étaient les plus proches de la Terre, et lorsqu'une grande et terrible Ténèbres surgit pour engloutir la terre, ils quittèrent avec impatience les conseils de planification inefficaces des faes pour se jeter tête baissée dans la bataille contre l'ennemi. Bien qu'ils aient réussi à empêcher la victoire des Ténèbres, ils en ont payé un lourd tribut : la perte de tous leurs rêves, à l'exception de celui de la bataille."
+ trait_prodigal_demon_desc: "La Maison Balor affirme son expertise en matière de démons et d'entités démoniaques, revendiquant la responsabilité de l'invocation historique et de la liaison de plusieurs de ces créatures dans leurs guerres contre les tribunaux fomoriens. La maison Balor déclare que les démons étaient d'anciens faes à une époque où l'hiver était sur le monde, mais que leur temps est passé et qu'ils ont été exilés dans un labyrinthe du [deep_dreaming|E]. Leur fuite ne serait autorisée que lorsque le besoin deviendrait désespéré."
+ trait_prodigal_wraith_desc: "Les fantômes sont de sombres chimères, mais des chimères qui se créent à partir des souvenirs de ceux qui meurent. Seules les âmes les plus créatives, imaginatives et passionnées se reforment dans la sombre réalité chimérique appelée [shadowlands|E]. (Mis à part cette perspective légèrement différente, les Changelings – grâce au Sluagh – ont une compréhension assez précise des spectres.)"
+ trait_prodigal_mummy_desc: "Les archives d'Eshu affirment que les momies étaient autrefois des mortels enchantés qui ne faisaient plus qu'un avec la réalité chimérique du [dreaming|E]. Ces enchantés prêtèrent serment aux grands et nobles Arcadiens et, grâce à des pactes scellés physiquement et spirituellement, devinrent éternellement engagés dans la cause de leurs dieux faes. Leurs corps ne s'infecteraient jamais et leurs esprits ne bougeraient jamais, aussi longtemps qu'ils serviraient leurs maîtres et maintiendraient l'équilibre entre les royaumes du banal et du sublime."
   
- trait_agemo: "Âgemo" #NT!
- trait_agemo_desc: "Dans le langage courant des Eshu, Agemo signifie littéralement caméléon. Le mot est utilisé par les Elegbara pour désigner leurs kinains car ils se fondent à la fois dans la société féerique et mortelle." #NT!
- trait_itiyere: "Itiyere" #NT!
- trait_itiyere_desc: "Chez les Eshu, Itiyere est un terme d'argot peu courant pour les Sidhe et vient de personnages cérémoniaux traditionnels aux longues oreilles extrêmement exagérées." #NT!
- trait_orisha_oko: "Orisha-Oko" #NT!
- trait_orisha_oko_desc: "Orisha-Oko est l'orisha de l'agriculture et du foyer. Les Eshu font référence aux Boggan kith par ce nom ou par la version abrégée Oko." #NT!
- trait_taiyewo: "Taiyewo" #NT!
- trait_taiyewo_desc: "Dans le langage courant des Eshu, Taiyewo signifie « l'aîné des jumeaux ». C'est le nom Elegbara du kith Clurichaun. Voir aussi Ibeji et Kehinde." #NT!
- trait_iroko: "Iroko" #NT!
- trait_iroko_desc: "Dans le langage courant des Eshu, Iroko est une variété de chêne et un Orisha mineur. C'est aussi le nom Elegbara du kith Ghille Dhu." #NT!
- trait_olokuta: "Olokuta" #NT!
- trait_olokuta_desc: "Olokuta est l'Orisha de la pierre. C'est aussi le nom Eshu du kith Nocker." #NT!
- trait_kehinde: "Kehinde" #NT!
- trait_kehinde_desc: "Dans le langage courant des Eshu, Kehinde se traduit par le dernier né de jumeaux. C'est aussi le nom Elegbara du kith Piskey. Voir aussi Ibeji et Taiyewo." #NT!
- trait_ijapa: "Ijapa" #NT!
- trait_ijapa_desc: "Dans le langage courant des Eshu, Ijapa signifie littéralement tortue et était l'animal filou de la légende yoruba. C'est le nom Elegbara du kith Pooka." #NT!
- trait_jakuta: "Jakuta" #NT!
- trait_jakuta_desc: "Dans le langage courant des Eshu, Jakuta est un nom d'éloge pour l'orisha éclair Shango, qui signifie "lanceur de pierres". C'est le nom Elegbara du Troll Kith." #NT!
- trait_oshosi: "Oshosi" #NT!
- trait_oshosi_desc: "Oshosi, ou Oxóssi, est l'orisha de la chasse, de la forêt, des animaux sauvages et de la richesse. Il est également associé aux repas. Ses couleurs sont le bleu et le vert. Les Eshu utilisent ce nom pour le kith Redcap." #NT!
- trait_olu_igbo: "Olu-Igbo" #NT!
- trait_olu_igbo_desc: "Olu-Igbo est l'Orisha de la brousse et du désert. Dans le langage courant des Eshu, c'est aussi le terme désignant le Satyre Kith." #NT!
- trait_sonponno: "Sonponno" #NT!
- trait_sonponno_desc: "Sonponno ou Sopona, est l'Orisha de la variole et par extension d'autres maladies, notamment celles qui produisent des plaies ou des lésions. D'autres noms incluent Babalú-Ayé et le nom d'éloge Ile-Titu. Les Eshu utilisent ce nom pour les Sluagh Kith, dérivé de leur apparence et généralement non péjoratif." #NT!
+ trait_agemo: "Âgemo"
+ trait_agemo_desc: "Dans le langage courant des Eshu, Agemo signifie littéralement caméléon. Le mot est utilisé par les Elegbara pour désigner leurs kinains car ils se fondent à la fois dans la société féerique et mortelle."
+ trait_itiyere: "Itiyere"
+ trait_itiyere_desc: "Chez les Eshu, Itiyere est un terme d'argot peu courant pour les Sidhe et vient de personnages cérémoniaux traditionnels aux longues oreilles extrêmement exagérées."
+ trait_orisha_oko: "Orisha-Oko"
+ trait_orisha_oko_desc: "Orisha-Oko est l'orisha de l'agriculture et du foyer. Les Eshu font référence aux Boggan kith par ce nom ou par la version abrégée Oko."
+ trait_taiyewo: "Taiyewo"
+ trait_taiyewo_desc: "Dans le langage courant des Eshu, Taiyewo signifie « l'aîné des jumeaux ». C'est le nom Elegbara du kith Clurichaun. Voir aussi Ibeji et Kehinde."
+ trait_iroko: "Iroko"
+ trait_iroko_desc: "Dans le langage courant des Eshu, Iroko est une variété de chêne et un Orisha mineur. C'est aussi le nom Elegbara du kith Ghille Dhu."
+ trait_olokuta: "Olokuta"
+ trait_olokuta_desc: "Olokuta est l'Orisha de la pierre. C'est aussi le nom Eshu du kith Nocker."
+ trait_kehinde: "Kehinde"
+ trait_kehinde_desc: "Dans le langage courant des Eshu, Kehinde se traduit par le dernier né de jumeaux. C'est aussi le nom Elegbara du kith Piskey. Voir aussi Ibeji et Taiyewo."
+ trait_ijapa: "Ijapa"
+ trait_ijapa_desc: "Dans le langage courant des Eshu, Ijapa signifie littéralement tortue et était l'animal filou de la légende yoruba. C'est le nom Elegbara du kith Pooka."
+ trait_jakuta: "Jakuta"
+ trait_jakuta_desc: "Dans le langage courant des Eshu, Jakuta est un nom d'éloge pour l'orisha éclair Shango, qui signifie "lanceur de pierres". C'est le nom Elegbara du Troll Kith."
+ trait_oshosi: "Oshosi"
+ trait_oshosi_desc: "Oshosi, ou Oxóssi, est l'orisha de la chasse, de la forêt, des animaux sauvages et de la richesse. Il est également associé aux repas. Ses couleurs sont le bleu et le vert. Les Eshu utilisent ce nom pour le kith Redcap."
+ trait_olu_igbo: "Olu-Igbo"
+ trait_olu_igbo_desc: "Olu-Igbo est l'Orisha de la brousse et du désert. Dans le langage courant des Eshu, c'est aussi le terme désignant le Satyre Kith."
+ trait_sonponno: "Sonponno"
+ trait_sonponno_desc: "Sonponno ou Sopona, est l'Orisha de la variole et par extension d'autres maladies, notamment celles qui produisent des plaies ou des lésions. D'autres noms incluent Babalú-Ayé et le nom d'éloge Ile-Titu. Les Eshu utilisent ce nom pour les Sluagh Kith, dérivé de leur apparence et généralement non péjoratif."
   
- trait_domovoi: "Domovoï" #NT!
- trait_domovoi_desc: "Puissant fae des habitations, un domovoi prend souvent le visage d'une personne respectée de la famille pour parler à ceux dont il garde la maison. Ils connaissent la plupart des secrets de leur propriété. À moins d’être respecté de manière adéquate et constante, le domovoi peut divulguer ces secrets à ses ennemis." #NT!
- trait_leshii: "Leshii" #NT!
- trait_leshii_desc: "Esprits cornus de la forêt, les leshii ressemblent à une combinaison d'un vieil arbre couvert de mousse et d'un humain doté de bois. Ils appellent leur chef le « Seigneur de la forêt »." #NT!
- trait_kikimora: "Kikimora" #NT!
- trait_kikimora_desc: "Fae le plus utile de la maison, le kikimora effectue des tâches telles que le tissage et d'autres tâches domestiques. Quiconque les voit travailler doit être certain d'admirer leurs talents ou peut trouver du pain brûlé, des vêtements noués ou des flacons remplis de vinaigre en représailles." #NT!
- trait_polevik: "Polévik" #NT!
- trait_polevik_desc: "Luxuriantes et voluptueuses, ces nymphes des champs, mâles et femelles, sont fascinées par les différents rites de fertilité pratiqués par ceux qui comprennent le lien entre le sexe et le labourage d'une terre fertile." #NT!
- trait_vodyanoi: "Vodyanoi" #NT!
- trait_vodyanoi_desc: "Ces Inanimae mercuriels des lacs et des étangs sont amicaux envers ceux qui utilisent les Ancres qu'ils protègent à condition qu'ils reçoivent des cadeaux et du respect. Les ennuis suivent ceux qui ignorent la nécessité de remerciements appropriés et d’un soupçon occasionnel de vodka dans l’eau. Les vodyanoi renversent les bateaux de ceux qui ne les traitent pas correctement. Quiconque les snobe délibérément doit se rappeler de rester hors de l'eau s'il souhaite survivre, car les vodyanoi peuvent appeler la foudre sur ceux qu'ils n'aiment pas." #NT!
- trait_berenginy: "Bérengine" #NT!
- trait_berenginy_desc: "Belles nymphes aux cheveux noirs et flottants, ces adorables faes chantent pour attirer les amants mais ne souhaitent parfois pas les laisser partir. Ils habitent le long des berges des rivières et attireront leurs admirateurs pour rester avec eux pour toujours dans les eaux troubles du rivage. De nombreux russalki ont été créés de cette façon. S’il n’y avait pas leur sagesse et leur capacité à connaître la plupart de ce qui se passe le long de la rivière qu’ils desservent, les dangers de les consulter l’emporteraient sur tout avantage." #NT!
- trait_bannik: "Bannik" #NT!
- trait_bannik_desc: "Esprit des bains publics, le bannik est souvent malveillant s'il n'est pas traité avec déférence et s'il ne reçoit pas le dernier bain de la soirée. Les banniks aident ceux qu'ils favorisent en leur donnant des visions dans les eaux qu'ils contrôlent." #NT!
- trait_dvorovoi: "Dvorovoï" #NT!
- trait_dvorovoi_desc: "Animal fae de la cour, le dvorovoi peut être très espiègle envers ceux qui ne les nourrissent pas ou ne les traitent pas bien. Ils prennent souvent la forme de chats pour se promener et explorer leur territoire." #NT!
+ trait_domovoi: "Domovoï"
+ trait_domovoi_desc: "Puissant fae des habitations, un domovoi prend souvent le visage d'une personne respectée de la famille pour parler à ceux dont il garde la maison. Ils connaissent la plupart des secrets de leur propriété. À moins d’être respecté de manière adéquate et constante, le domovoi peut divulguer ces secrets à ses ennemis."
+ trait_leshii: "Leshii"
+ trait_leshii_desc: "Esprits cornus de la forêt, les leshii ressemblent à une combinaison d'un vieil arbre couvert de mousse et d'un humain doté de bois. Ils appellent leur chef le « Seigneur de la forêt »."
+ trait_kikimora: "Kikimora"
+ trait_kikimora_desc: "Fae le plus utile de la maison, le kikimora effectue des tâches telles que le tissage et d'autres tâches domestiques. Quiconque les voit travailler doit être certain d'admirer leurs talents ou peut trouver du pain brûlé, des vêtements noués ou des flacons remplis de vinaigre en représailles."
+ trait_polevik: "Polévik"
+ trait_polevik_desc: "Luxuriantes et voluptueuses, ces nymphes des champs, mâles et femelles, sont fascinées par les différents rites de fertilité pratiqués par ceux qui comprennent le lien entre le sexe et le labourage d'une terre fertile."
+ trait_vodyanoi: "Vodyanoi"
+ trait_vodyanoi_desc: "Ces Inanimae mercuriels des lacs et des étangs sont amicaux envers ceux qui utilisent les Ancres qu'ils protègent à condition qu'ils reçoivent des cadeaux et du respect. Les ennuis suivent ceux qui ignorent la nécessité de remerciements appropriés et d’un soupçon occasionnel de vodka dans l’eau. Les vodyanoi renversent les bateaux de ceux qui ne les traitent pas correctement. Quiconque les snobe délibérément doit se rappeler de rester hors de l'eau s'il souhaite survivre, car les vodyanoi peuvent appeler la foudre sur ceux qu'ils n'aiment pas."
+ trait_berenginy: "Bérengine"
+ trait_berenginy_desc: "Belles nymphes aux cheveux noirs et flottants, ces adorables faes chantent pour attirer les amants mais ne souhaitent parfois pas les laisser partir. Ils habitent le long des berges des rivières et attireront leurs admirateurs pour rester avec eux pour toujours dans les eaux troubles du rivage. De nombreux russalki ont été créés de cette façon. S’il n’y avait pas leur sagesse et leur capacité à connaître la plupart de ce qui se passe le long de la rivière qu’ils desservent, les dangers de les consulter l’emporteraient sur tout avantage."
+ trait_bannik: "Bannik"
+ trait_bannik_desc: "Esprit des bains publics, le bannik est souvent malveillant s'il n'est pas traité avec déférence et s'il ne reçoit pas le dernier bain de la soirée. Les banniks aident ceux qu'ils favorisent en leur donnant des visions dans les eaux qu'ils contrôlent."
+ trait_dvorovoi: "Dvorovoï"
+ trait_dvorovoi_desc: "Animal fae de la cour, le dvorovoi peut être très espiègle envers ceux qui ne les nourrissent pas ou ne les traitent pas bien. Ils prennent souvent la forme de chats pour se promener et explorer leur territoire."

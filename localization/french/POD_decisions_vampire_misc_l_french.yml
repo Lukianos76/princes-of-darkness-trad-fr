@@ -1,88 +1,88 @@
 ﻿l_french:
- animal_perk_removal_decision: "Canalisez le pouvoir du sang animal" #NT!
- animal_perk_removal_decision_desc: "Canalisez votre excès de résonance en puissance supplémentaire pendant un certain temps (Attention, il est préférable de l'utiliser une fois que vous avez acquis toutes les compétences animales ou que vous ne souhaitez plus acquérir aucune de ces compétences, le bonus ne se cumulera pas)." #NT!
- animal_perk_removal_decision_tooltip: "Votre pouvoir ne connaît pas de limites." #NT!
- animal_perk_removal_decision_confirm: "Canalisez votre animal intérieur" #NT!
+ animal_perk_removal_decision: "Canalisez le pouvoir du sang animal"
+ animal_perk_removal_decision_desc: "Canalisez votre excès de résonance en puissance supplémentaire pendant un certain temps (Attention, il est préférable de l'utiliser une fois que vous avez acquis toutes les compétences animales ou que vous ne souhaitez plus acquérir aucune de ces compétences, le bonus ne se cumulera pas)."
+ animal_perk_removal_decision_tooltip: "Votre pouvoir ne connaît pas de limites."
+ animal_perk_removal_decision_confirm: "Canalisez votre animal intérieur"
   
- animal_perk_removal_decision_custom: "Vous perdez #V 1#! [animal_lifestyle|E] [perk|E] Déverrouiller" #NT!
+ animal_perk_removal_decision_custom: "Vous perdez #V 1#! [animal_lifestyle|E] [perk|E] Déverrouiller"
   
- excessive_animal_modifier: "Sang animal canalisé" #NT!
- excessive_animal_modifier_desc: "Vous feriez une superbe exposition au zoo." #NT!
+ excessive_animal_modifier: "Sang animal canalisé"
+ excessive_animal_modifier_desc: "Vous feriez une superbe exposition au zoo."
   
- choleric_perk_removal_decision: "Canalisez le pouvoir du sang colérique" #NT!
- choleric_perk_removal_decision_desc: "Canalisez votre excès de résonance en puissance supplémentaire pendant un certain temps (Attention, il est préférable de l'utiliser après avoir acquis toutes les compétences colériques ou si vous ne souhaitez plus acquérir aucune desdites compétences, le bonus ne se cumulera pas)." #NT!
- choleric_perk_removal_decision_tooltip: "Votre pouvoir ne connaît pas de limites." #NT!
- choleric_perk_removal_decision_confirm: "Canalisez votre confiance intérieure" #NT!
+ choleric_perk_removal_decision: "Canalisez le pouvoir du sang colérique"
+ choleric_perk_removal_decision_desc: "Canalisez votre excès de résonance en puissance supplémentaire pendant un certain temps (Attention, il est préférable de l'utiliser après avoir acquis toutes les compétences colériques ou si vous ne souhaitez plus acquérir aucune desdites compétences, le bonus ne se cumulera pas)."
+ choleric_perk_removal_decision_tooltip: "Votre pouvoir ne connaît pas de limites."
+ choleric_perk_removal_decision_confirm: "Canalisez votre confiance intérieure"
   
- choleric_perk_removal_decision_custom: "Vous perdez #V 1#! [choleric_lifestyle|E] [perk|E] Déverrouiller" #NT!
+ choleric_perk_removal_decision_custom: "Vous perdez #V 1#! [choleric_lifestyle|E] [perk|E] Déverrouiller"
   
- excessive_choleric_modifier: "Sang colérique canalisé" #NT!
- excessive_choleric_modifier_desc: "Votre ambition rivalise avec celle d'Alexandre le Grand." #NT!
+ excessive_choleric_modifier: "Sang colérique canalisé"
+ excessive_choleric_modifier_desc: "Votre ambition rivalise avec celle d'Alexandre le Grand."
   
- melancholy_perk_removal_decision: "Canalisez le pouvoir du sang mélancolique" #NT!
- melancholy_perk_removal_decision_desc: "Canalisez votre excès de résonance en puissance supplémentaire pendant un certain temps (Attention, il est préférable de l'utiliser une fois que vous avez acquis toutes les compétences mélancoliques ou que vous ne souhaitez plus acquérir aucune desdites compétences, le bonus ne se cumulera pas)." #NT!
- melancholy_perk_removal_decision_tooltip: "Votre pouvoir ne connaît pas de limites." #NT!
- melancholy_perk_removal_decision_confirm: "Canalisez votre tristesse intérieure" #NT!
+ melancholy_perk_removal_decision: "Canalisez le pouvoir du sang mélancolique"
+ melancholy_perk_removal_decision_desc: "Canalisez votre excès de résonance en puissance supplémentaire pendant un certain temps (Attention, il est préférable de l'utiliser une fois que vous avez acquis toutes les compétences mélancoliques ou que vous ne souhaitez plus acquérir aucune desdites compétences, le bonus ne se cumulera pas)."
+ melancholy_perk_removal_decision_tooltip: "Votre pouvoir ne connaît pas de limites."
+ melancholy_perk_removal_decision_confirm: "Canalisez votre tristesse intérieure"
   
- melancholy_perk_removal_decision_custom: "Vous perdez #V 1#! [melancholy_lifestyle|E] [perk|E] Déverrouiller" #NT!
+ melancholy_perk_removal_decision_custom: "Vous perdez #V 1#! [melancholy_lifestyle|E] [perk|E] Déverrouiller"
   
- excessive_melancholy_modifier: "Sang mélancolique canalisé" #NT!
- excessive_melancholy_modifier_desc: "Vous êtes sincèrement mélancolique." #NT!
+ excessive_melancholy_modifier: "Sang mélancolique canalisé"
+ excessive_melancholy_modifier_desc: "Vous êtes sincèrement mélancolique."
   
- phlegmatic_perk_removal_decision: "Canalisez le pouvoir du sang flegmatique" #NT!
- phlegmatic_perk_removal_decision_desc: "Canalisez votre excès de résonance en puissance supplémentaire pendant un certain temps (Attention, il est préférable de l'utiliser après avoir acquis toutes les compétences flegmatiques ou si vous ne souhaitez plus acquérir aucune desdites compétences, le bonus ne se cumulera pas)." #NT!
- phlegmatic_perk_removal_decision_tooltip: "Votre pouvoir ne connaît pas de limites." #NT!
- phlegmatic_perk_removal_decision_confirm: "Canalisez votre calme intérieur" #NT!
+ phlegmatic_perk_removal_decision: "Canalisez le pouvoir du sang flegmatique"
+ phlegmatic_perk_removal_decision_desc: "Canalisez votre excès de résonance en puissance supplémentaire pendant un certain temps (Attention, il est préférable de l'utiliser après avoir acquis toutes les compétences flegmatiques ou si vous ne souhaitez plus acquérir aucune desdites compétences, le bonus ne se cumulera pas)."
+ phlegmatic_perk_removal_decision_tooltip: "Votre pouvoir ne connaît pas de limites."
+ phlegmatic_perk_removal_decision_confirm: "Canalisez votre calme intérieur"
   
- phlegmatic_perk_removal_decision_custom: "Vous perdez #V 1#! [phlegmatic_lifestyle|E] [perk|E] Déverrouiller" #NT!
+ phlegmatic_perk_removal_decision_custom: "Vous perdez #V 1#! [phlegmatic_lifestyle|E] [perk|E] Déverrouiller"
   
- excessive_phlegmatic_modifier: "Sang flegmatique canalisé" #NT!
- excessive_phlegmatic_modifier_desc: "Vous êtes résolument imperturbable." #NT!
+ excessive_phlegmatic_modifier: "Sang flegmatique canalisé"
+ excessive_phlegmatic_modifier_desc: "Vous êtes résolument imperturbable."
   
- sanguine_perk_removal_decision: "Canalisez le pouvoir du sang sanguin" #NT!
- sanguine_perk_removal_decision_desc: "Canalisez votre excès de résonance en puissance supplémentaire pendant un certain temps (Attention, il est préférable de l'utiliser après avoir acquis toutes les compétences sanguines ou si vous ne souhaitez plus acquérir aucune de ces compétences, le bonus ne se cumulera pas)." #NT!
- sanguine_perk_removal_decision_tooltip: "Votre pouvoir ne connaît pas de limites." #NT!
- sanguine_perk_removal_decision_confirm: "Canalisez votre charme intérieur" #NT!
+ sanguine_perk_removal_decision: "Canalisez le pouvoir du sang sanguin"
+ sanguine_perk_removal_decision_desc: "Canalisez votre excès de résonance en puissance supplémentaire pendant un certain temps (Attention, il est préférable de l'utiliser après avoir acquis toutes les compétences sanguines ou si vous ne souhaitez plus acquérir aucune de ces compétences, le bonus ne se cumulera pas)."
+ sanguine_perk_removal_decision_tooltip: "Votre pouvoir ne connaît pas de limites."
+ sanguine_perk_removal_decision_confirm: "Canalisez votre charme intérieur"
   
- sanguine_perk_removal_decision_custom: "Vous perdez #V 1#! [sanguine_lifestyle|E] [perk|E] Déverrouiller" #NT!
+ sanguine_perk_removal_decision_custom: "Vous perdez #V 1#! [sanguine_lifestyle|E] [perk|E] Déverrouiller"
   
- excessive_sanguine_modifier: "Sang sanguin canalisé" #NT!
- excessive_sanguine_modifier_desc: "Votre charme ne connaît pas de limites." #NT!
+ excessive_sanguine_modifier: "Sang sanguin canalisé"
+ excessive_sanguine_modifier_desc: "Votre charme ne connaît pas de limites."
   
- visceratika_gargoyle_decision: "Liberté des gargouilles" #NT!
- visceratika_gargoyle_decision_desc: "Avec votre nouvelle indépendance, vous découvrez que vous avez eu le temps de maîtriser votre nature naturelle de pierre et de terre, dévoilant la discipline de Visceratika de l'intérieur de vous-même." #NT!
- visceratika_gargoyle_decision_tooltip: "Découvrez votre roche intérieure" #NT!
- visceratika_gargoyle_decision_confirm: "Viscératika déchaînée !" #NT!
+ visceratika_gargoyle_decision: "Liberté des gargouilles"
+ visceratika_gargoyle_decision_desc: "Avec votre nouvelle indépendance, vous découvrez que vous avez eu le temps de maîtriser votre nature naturelle de pierre et de terre, dévoilant la discipline de Visceratika de l'intérieur de vous-même."
+ visceratika_gargoyle_decision_tooltip: "Découvrez votre roche intérieure"
+ visceratika_gargoyle_decision_confirm: "Viscératika déchaînée !"
   
- visceratika_tremere_decision: "Expériences de gargouilles" #NT!
- visceratika_tremere_decision_desc: "Après de longues expériences avec les gargouilles, vous avez découvert le talent caché de la pierre de terre et êtes désormais en mesure d'utiliser la discipline de Visceratika à vos propres fins. Vous êtes un sorcier vraiment talentueux." #NT!
- visceratika_tremere_decision_tooltip: "Découvrez votre roche intérieure" #NT!
- visceratika_tremere_decision_confirm: "Viscératika déchaînée !" #NT!
+ visceratika_tremere_decision: "Expériences de gargouilles"
+ visceratika_tremere_decision_desc: "Après de longues expériences avec les gargouilles, vous avez découvert le talent caché de la pierre de terre et êtes désormais en mesure d'utiliser la discipline de Visceratika à vos propres fins. Vous êtes un sorcier vraiment talentueux."
+ visceratika_tremere_decision_tooltip: "Découvrez votre roche intérieure"
+ visceratika_tremere_decision_confirm: "Viscératika déchaînée !"
   
- gargoyle_courtiers: "Il vous faut #V 20#! [GetTrait('gargoyle').GetName( GetPlayer )] [courtiers|E] #weak ([GetPlayer.MakeScope.ScriptValue('gargoyle_courtiers_count')|0])#!" #NT!
- virstania_bypass: "Vous êtes [GetScriptedCharacterByHistoryID('790870').GetFirstName]" #NT!
- visceratika_decision_effect_tooltip: "Chaque [GetTrait('gargoyle').GetName( GetPlayer )] apprendra [GetTrait('visceratika').GetName(GetNullCharacter)], et les nouveaux créés l'obtiendront également." #NT!
+ gargoyle_courtiers: "Il vous faut #V 20#! [GetTrait('gargoyle').GetName( GetPlayer )] [courtiers|E] #weak ([GetPlayer.MakeScope.ScriptValue('gargoyle_courtiers_count')|0])#!"
+ virstania_bypass: "Vous êtes [GetScriptedCharacterByHistoryID('790870').GetFirstName]"
+ visceratika_decision_effect_tooltip: "Chaque [GetTrait('gargoyle').GetName( GetPlayer )] apprendra [GetTrait('visceratika').GetName(GetNullCharacter)], et les nouveaux créés l'obtiendront également."
   
- challenge_house_head_decision: "Défi pour le leadership à la Chambre" #NT!
- challenge_house_head_decision_desc: "En réalité, personne d’autre que vous ne peut mener votre lignée estimée à la gloire. Il s'agit simplement de le faire comprendre (ou du moins de l'accepter) aux autres." #NT!
- challenge_house_head_decision_tooltip: "Ma lignée a besoin de moi." #NT!
- challenge_house_head_decision_confirm: "C'est moi qui commande maintenant !" #NT!
- challenge_house_head_decision_effect_tooltip: "En fonction de la localisation actuelle de votre chef de maison, plusieurs options vous seront proposées pour usurper son poste." #NT!
+ challenge_house_head_decision: "Défi pour le leadership à la Chambre"
+ challenge_house_head_decision_desc: "En réalité, personne d’autre que vous ne peut mener votre lignée estimée à la gloire. Il s'agit simplement de le faire comprendre (ou du moins de l'accepter) aux autres."
+ challenge_house_head_decision_tooltip: "Ma lignée a besoin de moi."
+ challenge_house_head_decision_confirm: "C'est moi qui commande maintenant !"
+ challenge_house_head_decision_effect_tooltip: "En fonction de la localisation actuelle de votre chef de maison, plusieurs options vous seront proposées pour usurper son poste."
   
- POD_diarchy_events.0005.desc: "Certains clans vampiriques sont plus intéressés par leur lignée que d'autres, les Ventrues en étant un excellent exemple, mais tous accordent au moins un certain respect à ce concept. Après tout, cela devient facilement une évidence lorsque les aînés de votre "famille" sont souvent âgés de plusieurs siècles (ou plus) et beaucoup plus puissants que les jeunes nouveau-nés qui se bousculent au fond.\nIl n'est pourtant pas rare que des membres plus jeunes prennent un volant. siège dans les affaires de leur lignée. Peut-être que leurs aînés se sont ennuyés ou ont agi dans une sphère d’influence complètement différente de celle des machinations politiques nocturnes des damnés. Il est cependant rare que quelqu'un abandonne volontairement la haute position de chef de maison sans au moins une certaine forme de test ou de compensation.\nLes cendres des nouveaux arrivants ayant sous-estimé leurs aînés pourraient couvrir une zone assez vaste." #NT!
- POD_diarchy_events.0005.a: "Je suis plus capable qu'une belle au bois dormant !" #NT!
- challenge_house_head_torpor: "Votre chef de maison est en torpeur. Le seul obstacle à votre revendication de leadership à la maison sera le mépris et l'envie des autres membres de votre maison." #NT!
- POD_diarchy_events.0005.b: "À la réflexion..." #NT!
- POD_diarchy_events.0005.c: "Tu veux une faveur ? Bien..." #NT!
- POD_diarchy_events.0005.d: "En garde!" #NT!
- POD_diarchy_events.0005.duelwin: "C'est moi qui commande maintenant !" #NT!
- POD_diarchy_events.0005.duelloss: "Ça s'est mal passé..." #NT!
- POD_diarchy_events.0005.e: "Je dois convaincre ma maison !" #NT!
- POD_diarchy_events.0005.f: "Tu me le donnes juste ?" #NT!
- challenge_house_head_content: "Le responsable de votre maison de contenu est heureux de vous laisser prendre les rênes. Cependant, votre maison est loin d’être satisfaite de cette prise de pouvoir flagrante." #NT!
+ POD_diarchy_events.0005.desc: "Certains clans vampiriques sont plus intéressés par leur lignée que d'autres, les Ventrues en étant un excellent exemple, mais tous accordent au moins un certain respect à ce concept. Après tout, cela devient facilement une évidence lorsque les aînés de votre "famille" sont souvent âgés de plusieurs siècles (ou plus) et beaucoup plus puissants que les jeunes nouveau-nés qui se bousculent au fond.\nIl n'est pourtant pas rare que des membres plus jeunes prennent un volant. siège dans les affaires de leur lignée. Peut-être que leurs aînés se sont ennuyés ou ont agi dans une sphère d’influence complètement différente de celle des machinations politiques nocturnes des damnés. Il est cependant rare que quelqu'un abandonne volontairement la haute position de chef de maison sans au moins une certaine forme de test ou de compensation.\nLes cendres des nouveaux arrivants ayant sous-estimé leurs aînés pourraient couvrir une zone assez vaste."
+ POD_diarchy_events.0005.a: "Je suis plus capable qu'une belle au bois dormant !"
+ challenge_house_head_torpor: "Votre chef de maison est en torpeur. Le seul obstacle à votre revendication de leadership à la maison sera le mépris et l'envie des autres membres de votre maison."
+ POD_diarchy_events.0005.b: "À la réflexion..."
+ POD_diarchy_events.0005.c: "Tu veux une faveur ? Bien..."
+ POD_diarchy_events.0005.d: "En garde!"
+ POD_diarchy_events.0005.duelwin: "C'est moi qui commande maintenant !"
+ POD_diarchy_events.0005.duelloss: "Ça s'est mal passé..."
+ POD_diarchy_events.0005.e: "Je dois convaincre ma maison !"
+ POD_diarchy_events.0005.f: "Tu me le donnes juste ?"
+ challenge_house_head_content: "Le responsable de votre maison de contenu est heureux de vous laisser prendre les rênes. Cependant, votre maison est loin d’être satisfaite de cette prise de pouvoir flagrante."
   
- challenged_house_head_modifier: "Chef de maison parvenu" #NT!
- challenged_house_head_modifier_desc: "Les esprits mesquins ne comprennent pas votre grandeur inhérente." #NT!
+ challenged_house_head_modifier: "Chef de maison parvenu"
+ challenged_house_head_modifier_desc: "Les esprits mesquins ne comprennent pas votre grandeur inhérente."
   
   
   

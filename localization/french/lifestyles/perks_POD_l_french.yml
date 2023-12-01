@@ -1,1477 +1,1567 @@
 ﻿l_french:
-  #Choleric: Potence 
- lethal_body_perk_name: "Corps mortel" #NT!
- soaring_leap_perk_name: "Saut en flèche" #NT!
- prowess_perk_name: "Prouesse" #NT!
- brutal_feed_perk_name: "Alimentation brutale" #NT!
- spark_of_rage_perk_name: "Étincelle de rage" #NT!
- uncanny_grip_perk_name: "Prise étrange" #NT!
- draught_of_might_perk_name: "Brouillon de puissance" #NT!
- earthshock_perk_name: "Choc terrestre" #NT!
- fist_of_caine_perk_name: "Poing de Caïn" #NT!
- potenceadvanced_perk_name: "Puissance avancée" #NT!
- relentless_pursuit_perk_name: "Poursuite implacable" #NT!
- crush_perk_name: "Écraser" #NT!
- fist_of_the_titans_perk_name: "Poing des Titans" #NT!
- the_forgers_hammer_perk_name: "Le marteau du faussaire" #NT!
- lend_the_supernatural_vigor_perk_name: "Donnez la vigueur surnaturelle" #NT!
- might_of_the_heroes_perk_name: "La puissance des héros" #NT!
-  
-  #Choleric: Celerity 
- cats_grace_perk_name: "Grâce aux chats" #NT!
- rapid_reflexes_perk_name: "Réflexes rapides" #NT!
- fleetness_perk_name: "Flotte" #NT!
- blink_perk_name: "Clignoter" #NT!
- traversal_perk_name: "Traversée" #NT!
- draught_of_elegance_perk_name: "Brouillon d'élégance" #NT!
- unerring_aim_perk_name: "Objectif infaillible" #NT!
- lightning_strike_perk_name: "Coup de foudre" #NT!
- split_second_perk_name: "Fraction de seconde" #NT!
- celerityadvanced_perk_name: "Célérité avancée" #NT!
- precision_perk_name: "Précision" #NT!
- tireless_tread_perk_name: "Bande de roulement infatigable" #NT!
- quickness_perk_name: "Rapidité" #NT!
- physical_defiance_perk_name: "Défi physique" #NT!
- time_out_of_time_perk_name: "Temps hors du temps" #NT!
- between_the_ticks_perk_name: "Entre les tiques" #NT!
-  
-  #Choleric: Vicissitude 
- malleable_visage_perk_name: "Visage malléable" #NT!
- transmogrify_the_mortal_clay_perk_name: "Transmogrifier l'argile mortelle" #NT!
- rend_the_osseous_frame_perk_name: "Déchirez le cadre osseux" #NT!
- awaken_the_zulo_shape_perk_name: "Réveillez la forme Zulo" #NT!
- protean_flesh_perk_name: "Chair protéiforme" #NT!
- bloodform_perk_name: "Forme de sang" #NT!
- the_body_impolitic_perk_name: "Le corps impolitique" #NT!
- vicissitudeadvanced_perk_name: "Vicissitude avancée" #NT!
- chiropteran_marauder_perk_name: "Maraudeur chiroptère" #NT!
- living_testudo_perk_name: "Testudo vivant" #NT!
- liquefy_the_mortal_coil_perk_name: "Liquéfier la bobine mortelle" #NT!
- will_over_form_perk_name: "La volonté sur la forme" #NT!
- oathbreaker_perk_name: "Briseur de serment" #NT!
- the_last_dracul_perk_name: "Le dernier Dracul" #NT!
-  
-  #Melancholy: Fortitude 
- resilence_perk_name: "Résilience" #NT!
- unswayable_mind_perk_name: "Esprit inébranlable" #NT!
- toughness_perk_name: "Dureté" #NT!
- enduring_beasts_perk_name: "Bêtes endurantes" #NT!
- defy_bane_perk_name: "Défier le fléau" #NT!
- fortify_the_inner_facade_perk_name: "Fortifier la façade intérieure" #NT!
- draught_of_endurance_perk_name: "Brouillon d'endurance" #NT!
- spiritual_reservoir_perk_name: "Réservoir spirituel" #NT!
- flesh_of_marble_perk_name: "Chair de marbre" #NT!
- prowess_from_pain_perk_name: "Prouesse face à la douleur" #NT!
- fortitudeadvanced_perk_name: "Courage avancé" #NT!
- blessing_of_vitality_perk_name: "Bénédiction de vitalité" #NT!
- knights_bane_perk_name: "Le Fléau du Chevalier" #NT!
- curse_the_laurel_perk_name: "Maudit le laurier" #NT!
- wrath_of_the_martyr_perk_name: "La colère du martyr" #NT!
- armoured_flesh_perk_name: "Chair blindée" #NT!
- resilient_mind_perk_name: "Esprit résilient" #NT!
-  
-  #Melancholicy: Obfuscate 
- cloak_of_shadows_perk_name: "Cape des ombres" #NT!
- silence_of_death_perk_name: "Silence de mort" #NT!
- unseen_passage_perk_name: "Passage invisible" #NT!
- mask_of_a_thousand_faces_perk_name: "Masque aux mille visages" #NT!
- ghost_in_the_machine_perk_name: "Fantôme dans la machine" #NT!
- conceal_perk_name: "Cacher" #NT!
- vanish_perk_name: "Disparaître" #NT!
- cloak_the_gathering_perk_name: "Masquer le rassemblement" #NT!
- impostors_guise_perk_name: "Le déguisement de l'imposteur" #NT!
- obfuscateadvanced_perk_name: "Obscurcissement avancé" #NT!
- mask_of_janus_perk_name: "Masque de Janus" #NT!
- veil_the_legions_perk_name: "Voilez les Légions" #NT!
- visit_faerieland_perk_name: "Visitez le Pays des Fées" #NT!
- horrid_countenance_perk_name: "Visage horrible" #NT!
- old_friend_perk_name: "Vieil ami" #NT!
- create_name_perk_name: "Créer un nom" #NT!
-  
-  #Melancholy: Visceratika 
- skinofchameleon_perk_name: "Peau du caméléon" #NT!
- scrythehearthstone_perk_name: "Scryer le Hearthstone" #NT!
- bondwiththemountain_perk_name: "Lien avec la Montagne" #NT!
- armorofterra_perk_name: "Armure de Terra" #NT!
- flowwiththemountain_perk_name: "Couler avec la montagne" #NT!
- visceratikaadvanced_perk_name: "Viscératika avancé" #NT!
- darkstatue_perk_name: "Statue sombre" #NT!
- rockheart_perk_name: "Coeur de roche" #NT!
- crawlingchamber_perk_name: "Chambre rampante" #NT!
-  
-  #Melancholy: Chimerstry 
- ignis_fatuus_perk_name: "Ignis Fatuus" #NT!
- fata_morgana_perk_name: "Morgana" #NT!
- dweomer_perk_name: "Dweomer" #NT!
- apparition_perk_name: "Apparition" #NT!
- permanency_perk_name: "Permanence" #NT!
- horrid_reality_perk_name: "Horrible réalité" #NT!
- chimerstryadvanced_perk_name: "Chimie avancée" #NT!
- horrid_blade_of_the_demons_perk_name: "Horrible lame des démons" #NT!
- mass_horror_perk_name: "Horreur de masse" #NT!
- aid_of_the_gandharvas_perk_name: "Aide des Gandharvas" #NT!
- mirros_visage_perk_name: "Visage du miroir" #NT!
- pseudo_blindness_perk_name: "Pseudo-cécité" #NT!
- sensory_deprivation_perk_name: "Privation sensorielle" #NT!
-  
-  #Melancholy: Bardo 
- restore_humanitas_perk_name: "Restaurer l’humanité" #NT!
- banishing_sign_of_thoth_perk_name: "Bannissement du signe de Thot" #NT!
- gift_of_apis_perk_name: "Don d'Apis" #NT!
- pillar_of_osiris_perk_name: "Pilier d'Osiris" #NT!
- paradox_perk_name: "Paradoxe" #NT!
- bardoadvanced_perk_name: "Bardo Avancé" #NT!
- boon_of_anubis_perk_name: "Bénédiction d'Anubis" #NT!
- bring_forth_the_dawn_perk_name: "Faire naître l'aube" #NT!
- mummification_ritual_perk_name: "Rituel de momification" #NT!
- ras_blessing_perk_name: "La bénédiction de Ra" #NT!
-  
-  #Melancholy: Necromancy 
- cappadociannecromancyadvanced_perk_name: "Nécromancie cappadocienne avancée" #NT!
- giovanninecromancyadvanced_perk_name: "Nécromancie avancée de Giovanni" #NT!
- harbingernecromancyadvanced_perk_name: "Nécromancie avancée des Harbingers" #NT!
- lamianecromancyadvanced_perk_name: "Nécromancie Lamia avancée" #NT!
- impundulunecromancyadvanced_perk_name: "Nécromancie Impundulu avancée" #NT!
- nagarajanecromancyadvanced_perk_name: "Nécromancie Nagaraja avancée" #NT!
- insight_perk_name: "Regarder à travers le Linceul" #NT!
- summon_soul_perk_name: "Invoquer une âme" #NT!
- compel_soul_perk_name: "Contraindre l'âme" #NT!
- haunting_perk_name: "Hanté" #NT!
- torment_perk_name: "Tourmenter" #NT!
- seal_of_abamixtra_perk_name: "Sceau d'Abamixtra" #NT!
- awaken_the_homoncular_servant_perk_name: "Réveillez le serviteur homonculaire" #NT!
- shambling_hordes_perk_name: "Hordes traînantes" #NT!
- soul_stealing_perk_name: "Exorcisme funeste" #NT!
- necromancy_possession_perk_name: "Possession démoniaque" #NT!
- shroudsight_perk_name: "Linceul" #NT!
- lifeless_tongues_perk_name: "Langue des Royaumes Ténèbres" #NT!
- touch_the_nether_perk_name: "Touchez le Nether" #NT!
- ex_nihilo_perk_name: "Ex nihilo" #NT!
- shroud_mastery_perk_name: "Maîtrise du Linceul" #NT!
- necromancy_ashes_to_ashes_perk_name: "Cendres aux cendres" #NT!
- rigor_mortis_perk_name: "Rigidité cadavérique" #NT!
- ashen_ladys_embrace_perk_name: "Étreinte de la dame cendrée" #NT!
- gift_of_melancholia_perk_name: "Don de mélancolie" #NT!
- necromancy_dust_to_dust_perk_name: "La poussière à la poussière" #NT!
- mortuus_in_vultus_perk_name: "Mortuus dans Vultus" #NT!
- algor_mortis_perk_name: "Algor Mortis" #NT!
- intimations_of_mortality_perk_name: "Indications de mortalité" #NT!
- benedictio_mortem_perk_name: "Benoît Mortem" #NT!
- benedictio_vitae_perk_name: "Benedictio Vitae" #NT!
- calvaria_emissius_perk_name: "Calvaria Emissus" #NT!
- consilium_mortuus_perk_name: "Consilium Mortuus" #NT!
- ammorsus_vicarius_perk_name: "Ammorsus Vicaire" #NT!
- exedo_animus_perk_name: "Exedo Animus" #NT!
- degulo_perk_name: "Dégulo" #NT!
- whispers_of_the_soul_perk_name: "Murmures de l'âme" #NT!
- kiss_of_the_dark_mother_perk_name: "Baiser de la Mère Noire" #NT!
- dark_humours_perk_name: "Humeurs noires" #NT!
- caul_of_the_neverborn_perk_name: "Caul du jamais-né" #NT!
- lament_of_dhainu_perk_name: "Lamentation de D'hainu" #NT!
- tend_the_body_garden_perk_name: "Entretenir le jardin du corps" #NT!
- witchs_fruit_perk_name: "Fruit de la sorcière" #NT!
- raise_the_green_one_perk_name: "Élevons le vert" #NT!
- wails_and_whispers_perk_name: "Lamentations et murmures" #NT!
- cthonic_womb_perk_name: "Ventre Chthonien" #NT!
- eyes_of_the_wraith_perk_name: "Les yeux du spectre" #NT!
- aura_of_decay_perk_name: "Aura de décomposition" #NT!
- soul_feasting_perk_name: "La fête de Pischacha" #NT!
- curse_of_the_maelstrom_perk_name: "Malédiction du Maelström" #NT!
- nightcry_perk_name: "Cri de nuit" #NT!
- song_of_the_dead_perk_name: "Chanson des morts" #NT!
- summon_wisp_perk_name: "Invoquer un feu follet" #NT!
- harrowing_perk_name: "Poignant" #NT!
- phantasms_perk_name: "Fantasmes" #NT!
- spectral_menacing_perk_name: "Menaçant spectral" #NT!
- touch_of_death_perk_name: "Toucher de la mort" #NT!
- reveal_the_catene_perk_name: "Révéler la Catène" #NT!
- tread_upon_the_grave_perk_name: "Marchez sur la tombe" #NT!
- death_knell_perk_name: "Le glas" #NT!
- ephemeral_binding_perk_name: "Reliure éphémère" #NT!
-  
-  #Phlegmatic: Auspex 
- heightened_senses_perk_name: "Sens accrus" #NT!
- sense_the_unseen_perk_name: "Ressentez l'invisible" #NT!
- premonition_perk_name: "Prémonition" #NT!
- scry_the_soul_perk_name: "Scry l'âme" #NT!
- share_the_senses_perk_name: "Partagez les sens" #NT!
- spirits_touch_perk_name: "Toucher les esprits" #NT!
- clairvoyance_perk_name: "Voyance" #NT!
- telepathy_perk_name: "La télépathie" #NT!
- psychic_projection_perk_name: "Projection psychique" #NT!
- auspexadvanced_perk_name: "Auspex avancé" #NT!
- discern_the_aura_perk_name: "Discerner l'Aura" #NT!
- the_mind_revealed_perk_name: "L'esprit révélé" #NT!
- personality_metamorph_perk_name: "Métamorphose de la personnalité" #NT!
- supernal_awareness_perk_name: "Conscience Suprême" #NT!
- omniscience_perk_name: "Omniscience" #NT!
- master_of_the_dom_perk_name: "Maître du Dom" #NT!
-  
-  #Phlegmatic: Dominate 
- cloud_memory_perk_name: "Mémoire cloud" #NT!
- compel_perk_name: "Contraindre" #NT!
- mesmerize_perk_name: "Hypnotiser" #NT!
- dementation_perk_name: "Démence" #NT!
- the_forgetful_mind_perk_name: "L'esprit oublieux" #NT!
- submerged_directive_perk_name: "Directive submergée" #NT!
- SCHEME_SUBMERGED_DIRECTIVE: "[GetPerk('submerged_directive_perk').GetName(GetPlayer)] : $VALUE|+0=$" #NT!
- rationalize_perk_name: "Rationaliser" #NT!
- mass_manipulation_perk_name: "Manipulation de masse" #NT!
- terminal_decree_perk_name: "Décret terminal" #NT!
- deep_memories_perk_name: "Souvenirs profonds" #NT!
- conditioning_perk_name: "Conditionnement" #NT!
- dominateadvanced_perk_name: "Domination avancée" #NT!
- will_conquers_perk_name: "Va conquérir" #NT!
- rewrite_personality_perk_name: "Réécrire la personnalité" #NT!
- concord_of_submission_perk_name: "Concorde de soumission" #NT!
- mold_humours_perk_name: "Humeurs de moisissures" #NT!
- speak_through_the_blood_perk_name: "Parlez à travers le sang" #NT!
-  
-  #Phlegmatic: Temporis 
- time_sense_perk_name: "Sens du temps" #NT!
- internal_recursion_perk_name: "Récursion interne" #NT!
- ramble_on_perk_name: "Promenez-vous" #NT!
- lapse_perk_name: "Laps" #NT!
- cowalker_perk_name: "Cowalker" #NT!
- subjective_suspension_perk_name: "Suspension subjective" #NT!
- clothos_gift_perk_name: "Le cadeau de Clotho" #NT!
- frozen_object_perk_name: "Objet gelé" #NT!
- temporisadvanced_perk_name: "Temporis avancés" #NT!
- temporis_insight_perk_name: "Aperçu" #NT!
- kiss_of_lachesis_perk_name: "Baiser de Lachesis" #NT!
- hall_of_hades_court_perk_name: "Salle de la cour d'Hadès" #NT!
- clios_kiss_perk_name: "Le baiser de Clio" #NT!
- temporal_understanding_perk_name: "Compréhension temporelle" #NT!
- summon_history_perk_name: "Historique d'invocation" #NT!
-  
-  #Phlegmatic: Dementation 
- incubus_passion_perk_name: "Passion Incube" #NT!
- passion_perk_name: "Passion" #NT!
- the_haunting_perk_name: "La hantise" #NT!
- eyes_of_chaos_perk_name: "Les yeux du chaos" #NT!
- silence_the_sane_mind_perk_name: "Faire taire l'esprit sain d'esprit" #NT!
- fire_voice_perk_name: "Voix de feu" #NT!
- total_insanity_perk_name: "Folie totale" #NT!
- dementationadvanced_perk_name: "Démence avancée" #NT!
- stain_the_soul_perk_name: "Tache l'âme" #NT!
- childmind_perk_name: "Garde d'enfants" #NT!
- cobble_the_road_perk_name: "Paver la route" #NT!
- prison_of_the_mind_perk_name: "Prison de l'esprit" #NT!
- lunatic_eruption_perk_name: "Éruption lunatique" #NT!
- touch_of_the_saints_perk_name: "Toucher des Saints" #NT!
-  
-  #Phlegmatic: Dementation 
- the_missing_voice_perk_name: "La voix manquante" #NT!
- phantom_speaker_perk_name: "Haut-parleur fantôme" #NT!
- toreadors_bane_perk_name: "Le Fléau du Toréador" #NT!
- madrigal_perk_name: "Madrigal" #NT!
- sirens_beckoning_perk_name: "Le signe de la sirène" #NT!
- mosh_pit_perk_name: "Fosse Mosh" #NT!
- primal_scream_perk_name: "Cri primal" #NT!
- melpomineeadvanced_perk_name: "Melpominee avancé" #NT!
- blessed_audience_perk_name: "Public béni" #NT!
- shattering_crescendo_perk_name: "Crescendo fracassant" #NT!
- persistent_echo_perk_name: "Écho persistant" #NT!
- haunting_melody_perk_name: "Mélodie obsédante" #NT!
- calling_song_perk_name: "Chanson d'appel" #NT!
-  
-  #Sanguine: Blood Sorcery 
- corrosive_vitae_perk_name: "Vie corrosive" #NT!
- a_taste_of_blood_perk_name: "Un goût de sang" #NT!
- extinguish_vitae_perk_name: "Éteindre Vitae" #NT!
- blood_of_potency_perk_name: "Sang de puissance" #NT!
- scorpions_touch_perk_name: "Le contact du scorpion" #NT!
- theft_of_vitae_perk_name: "Vol de Vitae" #NT!
- baals_curse_perk_name: "La malédiction de Baal" #NT!
- cauldron_of_blood_perk_name: "Chaudron de sang" #NT!
- bloodsorceryadvanced_perk_name: "Sorcellerie de sang avancée" #NT!
-  
-  #Sanguine: Presence 
- awe_perk_name: "Admiration" #NT!
- daunt_perk_name: "Décourager" #NT!
- eyes_of_the_serpent_perk_name: "Les yeux du serpent" #NT!
- lingering_kiss_perk_name: "Baiser persistant" #NT!
- dread_gaze_perk_name: "Regard d'effroi" #NT!
- entrancement_perk_name: "Entrée" #NT!
- irresistable_voice_perk_name: "Voix irrésistible" #NT!
- summon_perk_name: "Convoquer" #NT!
- majesty_perk_name: "Majesté" #NT!
- presenceadvanced_perk_name: "Présence avancée" #NT!
- ironclad_command_perk_name: "Commandement à toute épreuve" #NT!
- cooperation_perk_name: "Coopération" #NT!
- phobia_perk_name: "Phobie" #NT!
- mask_of_empathy_perk_name: "Masque d'empathie" #NT!
- bloodlust_perk_name: "Soif de sang" #NT!
- perfect_world_perk_name: "Monde parfait" #NT!
-  
-  #Animal: Protean 
- eyes_of_the_beast_perk_name: "Les yeux de la bête" #NT!
- weight_of_the_feather_perk_name: "Poids de la plume" #NT!
- feral_weapons_perk_name: "Armes sauvages" #NT!
- earth_meld_perk_name: "Fusion de la Terre" #NT!
- shapechange_perk_name: "Changement de forme" #NT!
- metamorphosis_perk_name: "Métamorphose" #NT!
- mist_form_perk_name: "Forme de brume" #NT!
- the_unfettered_heart_perk_name: "Cœur sans entrave" #NT!
- proteanadvanced_perk_name: "Protéen avancé" #NT!
- adaptability_perk_name: "Adaptabilité" #NT!
- homunculus_perk_name: "Homunculus" #NT!
- turnabout_perk_name: "Demi-tour" #NT!
- mythic_form_perk_name: "Forme mythique" #NT!
- adaptation_perk_name: "Adaptation" #NT!
- draught_of_phoenix_blood_perk_name: "Brouillon de sang de phénix" #NT!
-  
-  #Animal: Animalism 
- bond_famulus_perk_name: "Famille d'obligations" #NT!
- sense_the_beast_perk_name: "Sentez la bête" #NT!
- feral_whispers_perk_name: "Murmures sauvages" #NT!
- animal_succulence_perk_name: "Succulence animale" #NT!
- quell_the_beast_perk_name: "Réprimer la bête" #NT!
- call_of_the_wild_perk_name: "Appel de la nature" #NT!
- subsume_the_spirit_perk_name: "Subsumer l'Esprit" #NT!
- unliving_hive_perk_name: "Ruche non-vivante" #NT!
- tongue_of_beasts_perk_name: "La langue des bêtes" #NT!
- drawing_out_the_beast_perk_name: "Dessiner la bête" #NT!
- animal_dominion_perk_name: "Domination animale" #NT!
- send_the_eighth_plague_perk_name: "Envoyez la huitième peste" #NT!
- crimson_fury_perk_name: "Fureur cramoisie" #NT!
- eyes_of_the_forest_perk_name: "Les yeux de la forêt" #NT!
- plague_of_beasts_perk_name: "Peste des bêtes" #NT!
- animalismadvanced_perk_name: "Animalisme avancé" #NT!
-  
-  #Melancholy: Obtenebration 
- eyes_of_the_abyss_perk_name: "Les yeux de l'abîme" #NT!
- shadow_play_perk_name: "Théâtre d'ombres" #NT!
- nocturne_perk_name: "Nocturne" #NT!
- night_shades_perk_name: "Nuances de nuit" #NT!
- arms_of_ahriman_perk_name: "Armes d'Ahriman" #NT!
- tenebrous_avatar_perk_name: "Avatar ténébreux" #NT!
- the_darkness_within_perk_name: "L'obscurité intérieure" #NT!
- oubliette_perk_name: "Oubliette" #NT!
- walk_the_abyss_perk_name: "Parcourez les abysses" #NT!
- dark_whispers_perk_name: "Murmures sombres" #NT!
- drain_the_life_perk_name: "Vider la vie" #NT!
- god_in_darkness_perk_name: "Dieu dans les ténèbres" #NT!
- obtenebrationadvanced_perk_name: "Obténébration avancée" #NT!
- shadowstep_perk_name: "Pas de l'Ombre" #NT!
- aegis_of_shadows_perk_name: "Égide des ombres" #NT!
- shadow_twin_perk_name: "Jumeau de l'Ombre" #NT!
- darksight_perk_name: "Vision sombre" #NT!
- devour_all_hope_perk_name: "Dévorer tout espoir" #NT!
- ahrimans_demesne_perk_name: "Domaine d'Ahriman" #NT!
-  
-  #Animal: Spiritus 
-  
- speak_with_spirits_perk_name: "Parler avec les esprits" #NT!
- aid_from_spirits_perk_name: "Aide des esprits" #NT!
- summon_spirit_beasts_perk_name: "Invoquer des bêtes spirituelles" #NT!
- aspect_of_the_beast_perk_name: "Aspect de la bête" #NT!
- engling_fury_perk_name: "Fureur anglaise" #NT!
- beastly_hunger_perk_name: "Faim bestiale" #NT!
- the_wild_beast_perk_name: "La bête sauvage" #NT!
- spiritusadvanced_perk_name: "Spiritus avancé" #NT!
- the_spirit_beast_perk_name: "La bête spirituelle" #NT!
-  
-  #Animal: Abombwe 
-  
- predators_communion_perk_name: "Communion du prédateur" #NT!
- invoking_the_predator_perk_name: "Invoquer le prédateur" #NT!
- taming_the_beast_perk_name: "Apprivoiser la bête" #NT!
- unseen_hibernation_perk_name: "Hibernation invisible" #NT!
- whistling_up_the_beast_perk_name: "Siffler la bête" #NT!
- power_from_darkness_perk_name: "Le pouvoir des ténèbres" #NT!
- predators_transformation_perk_name: "Transformation du prédateur" #NT!
- stalking_darkness_perk_name: "Traquer les ténèbres" #NT!
- predators_mastery_perk_name: "Maîtrise du prédateur" #NT!
- incarnate_darkness_perk_name: "Ténèbres incarnées" #NT!
- abombweadvanced_perk_name: "Abombwe Avancé" #NT!
-  
-  #Choleric: Valeren 
-  
- obeah_panacea_perk_name: "Panacée" #NT!
- sense_death_perk_name: "Ressentir la mort" #NT!
- sense_cycle_perk_name: "Cycle sensoriel" #NT!
- auguring_the_sickness_perk_name: "Augmentation de la maladie" #NT!
- gift_of_sleep_perk_name: "Don de sommeil" #NT!
- peaceful_touch_perk_name: "Toucher paisible" #NT!
- healers_touch_perk_name: "Toucher du guérisseur" #NT!
- neutral_guard_perk_name: "Garde neutre" #NT!
- burning_touch_perk_name: "Toucher brûlant" #NT!
- pariahs_caress_perk_name: "La caresse du paria" #NT!
- king_davids_blessing_perk_name: "La bénédiction du roi David" #NT!
- shepherds_watch_perk_name: "Montre de berger" #NT!
- armor_of_caines_fury_perk_name: "Armure de la fureur de Caïn" #NT!
- watcher_peacemaker_perk_name: "Pacificateur" #NT!
- unburden_the_bestial_soul_perk_name: "Déchargez l'âme bestiale" #NT!
- ending_the_watch_perk_name: "Mettre fin à la surveillance" #NT!
- vengeance_of_samiel_perk_name: "La vengeance de Samiel" #NT!
- souls_breath_perk_name: "Le souffle de l'âme" #NT!
- healervalerenadvanced_perk_name: "Valeren, guérisseur avancé" #NT!
- warriorvalerenadvanced_perk_name: "Guerrier avancé Valren" #NT!
- watchervalerenadvanced_perk_name: "Observateur avancé Valren" #NT!
- fathers_judgement_perk_name: "Le jugement du père" #NT!
- repulsion_perk_name: "Répulsion" #NT!
- rayzeels_song_perk_name: "La chanson de Rayzeel" #NT!
- heavens_gate_perk_name: "La porte du Paradis" #NT!
- blissful_agony_perk_name: "Agonie bienheureuse" #NT!
- sword_of_the_righteous_perk_name: "Épée des Justes" #NT!
- song_of_the_blooded_perk_name: "Chanson des Sanglants" #NT!
- safe_passage_perk_name: "Passage sûr" #NT!
- aversion_perk_name: "Aversion" #NT!
- watcher_purification_perk_name: "Purification" #NT!
- watcher_soul_exchange_perk_name: "Échange d'âmes" #NT!
-  
-  #Sanguine: Quietus 
-  
- sorcerer_silence_of_death_perk_name: "Silence de mort" #NT!
- scorpions_curse_perk_name: "La malédiction du scorpion" #NT!
- sorcerer_dagons_call_perk_name: "L'appel de Dagon" #NT!
- sorcerer_baals_caress_perk_name: "La caresse de Baal" #NT!
- taste_of_death_perk_name: "Goût de la mort" #NT!
- warrior_silence_of_death_perk_name: "Silence de mort" #NT!
- blood_essence_perk_name: "Essence de sang" #NT!
- warrior_scorpions_touch_perk_name: "Le contact du scorpion" #NT!
- warrior_dagons_call_perk_name: "L'appel de Dagon" #NT!
- warrior_baals_caress_perk_name: "La caresse de Baal" #NT!
- quicken_the_mortals_blood_perk_name: "Accélérez le sang du mortel" #NT!
- blood_tempering_perk_name: "Trempe du sang" #NT!
- truth_of_blood_perk_name: "Vérité du sang" #NT!
- ishtars_touch_perk_name: "Le contact d'Ishtar" #NT!
- cleansed_in_blood_perk_name: "Purifié dans le sang" #NT!
- ripples_of_the_heart_perk_name: "Ondulations du coeur" #NT!
- blood_sweat_perk_name: "Sueur de sang" #NT!
- taste_of_bliss_perk_name: "Goût du bonheur" #NT!
- sorcererquietusadvanced_perk_name: "Sorcier avancé Quietus" #NT!
- warriorquietusadvanced_perk_name: "Guerrier avancé Quietus" #NT!
- vizierquietusadvanced_perk_name: "Vizir avancé Quietus" #NT!
- quietus_purification_perk_name: "Purification" #NT!
- thin_blood_perk_name: "Sang mince" #NT!
- foul_blood_perk_name: "Sang fétide" #NT!
- blood_of_destruction_perk_name: "Sang de destruction" #NT!
- condemn_the_sins_of_the_father_perk_name: "Condamner les péchés du Père" #NT!
- erosion_perk_name: "Érosion" #NT!
-  
-  #Sanguine: Mytherceria 
-  
- fey_sight_perk_name: "Vue féerique" #NT!
- folderol_perk_name: "Dossier" #NT!
- fae_sight_perk_name: "Vue des fées" #NT!
- darkling_trickery_perk_name: "La supercherie des ténèbres" #NT!
- goblinism_perk_name: "Gobelinisme" #NT!
- aura_absorption_perk_name: "Absorption d'aura" #NT!
- chanjelin_ward_perk_name: "Quartier Chanjelin" #NT!
- riddle_phantastique_perk_name: "Devinette Phantastique" #NT!
- mytherceriaadvanced_perk_name: "Mythercérie avancée" #NT!
- stone_travel_perk_name: "Voyage en pierre" #NT!
- steal_the_mind_perk_name: "Voler l'esprit" #NT!
- earth_sword_perk_name: "Épée de terre" #NT!
- absorb_the_mind_perk_name: "Absorber l'esprit" #NT!
- basilisks_touch_perk_name: "Toucher du basilic" #NT!
-  
-  #Faith: True Faith 
- dominus_vobiscum_perk_name: "Dominus Vobiscum" #NT!
- intercession_perk_name: "Intercession" #NT!
- holy_bulwark_perk_name: "Rempart sacré" #NT!
- lay_of_hands_perk_name: "Imposer les mains" #NT!
- penance_perk_name: "Pénitence" #NT!
- conversion_perk_name: "Conversion" #NT!
- shield_of_faith_perk_name: "Bouclier de foi" #NT!
- beatific_perk_name: "Béatifique" #NT!
-  
-  #Holy Arts: Sophia Patris 
-  
- pry_open_perk_name: "Pry ouvrez l'œil de l'esprit" #NT!
- unwavering_vision_perk_name: "Vision inébranlable" #NT!
- unearth_perk_name: "Dénicher" #NT!
- lifting_the_veil_perk_name: "Lever le voile des mensonges" #NT!
- revelation_perk_name: "Révélation" #NT!
-  
-  #Holy Arts: Sedulitas Filius 
-  
- sunder_perk_name: "Séparer" #NT!
- censure_perk_name: "Censurer" #NT!
- gods_armour_perk_name: "L'armure de Dieu" #NT!
- rod_and_staff_perk_name: "Canne et bâton" #NT!
- wrath_of_god_perk_name: "Colère de Dieu" #NT!
-  
-  #Holy Arts: Boni Spiritus 
-  
- tears_of_the_martyr_perk_name: "Les larmes du martyr" #NT!
- touch_of_peace_perk_name: "Touche de paix" #NT!
- aura_of_sanctity_perk_name: "Aura de sainteté" #NT!
- restoration_perk_name: "Restauration" #NT!
- judgement_of_heaven_perk_name: "Jugement du Ciel" #NT!
-  
-  #Endowments: Oculi Dei 
- oculi_shepherd_perk_name: "Berger céleste" #NT!
- oculi_sight_perk_name: "Seconde vue" #NT!
- oculi_liturgy_perk_name: "Divine Liturgie" #NT!
- oculi_trust_perk_name: "J'ai confiance en toi" #NT!
- oculi_wine_perk_name: "De l'eau au vin" #NT!
-  
-  #Endowments: Knights of Acre 
- acre_catechumen_perk_name: "Catéchumène" #NT!
- acre_flesh_perk_name: "Transfiguration de la chair" #NT!
- acre_flight_perk_name: "Vol des anges" #NT!
- acre_resurrection_perk_name: "Esprit de Résurrection" #NT!
- acre_auto_perk_name: "Auto da Fé" #NT!
-  
-  #Endowments: House Murnau 
- murnau_knowledge_perk_name: "Connaissance interdite" #NT!
- murnau_oblige_perk_name: "Noblesse oblige" #NT!
- murnau_wreathed_perk_name: "Auréolé d'ombres" #NT!
- murnau_mirror_perk_name: "Miroir du Mal" #NT!
- murnau_arcana_perk_name: "Arcanes" #NT!
-  
-  #Endowments: Sisters of St John 
- sisters_gospel_perk_name: "Gospel" #NT!
- sisters_lux_perk_name: "Fiat Lux" #NT!
- sisters_chorale_perk_name: "Choral" #NT!
- sisters_hosanna_perk_name: "Hosanna" #NT!
- sisters_oratorio_perk_name: "Oratorio" #NT!
-  
-  #Endowments: Red Order 
- red_vigil_perk_name: "Vigilance bénie" #NT!
- red_sunstone_perk_name: "Pierre de soleil" #NT!
- red_march_perk_name: "Marche forcée" #NT!
- red_fortunes_perk_name: "Fortunes de guerre" #NT!
- red_forge_perk_name: "Forge de Dieu" #NT!
-  
-  #Godbody: Metal 
- the_bright_metal_sheet_perk_name: "La tôle brillante" #NT!
- metal_within_perk_name: "Métal à l'intérieur" #NT!
- dark_metal_self_perk_name: "Soi en métal sombre" #NT!
- metal_rain_perk_name: "Pluie de métal" #NT!
- yin_metal_soul_perk_name: "Âme métallique Yin" #NT!
-  
-  #Godbody: Wood 
- pruning_the_self_perk_name: "Se tailler soi-même" #NT!
- transplanting_the_self_perk_name: "Transplanter soi-même" #NT!
- the_world_garden_perk_name: "Le jardin du monde" #NT!
- the_vital_command_perk_name: "Le commandement vital" #NT!
- the_spark_of_life_perk_name: "L'étincelle de la vie" #NT!
-  
-  #Godbody: Water 
- command_the_flow_in_self_perk_name: "Commandez le flux en vous-même" #NT!
- command_the_flow_in_others_perk_name: "Contrôlez le flux chez les autres" #NT!
- the_self_of_water_perk_name: "Le Soi de l'Eau" #NT!
- the_water_lash_perk_name: "Le fouet d'eau" #NT!
- the_soul_tide_perk_name: "La marée de l'âme" #NT!
-  
-  #Godbody: Fire 
- fire_in_the_eye_perk_name: "Le feu dans les yeux" #NT!
- fire_in_the_hand_perk_name: "Le feu dans la main" #NT!
- self_in_the_fire_perk_name: "Soi dans le feu" #NT!
- draining_the_fire_perk_name: "Vider le feu" #NT!
- the_tempered_soul_perk_name: "L'âme tempérée" #NT!
-  
-  #Godbody: Earth 
- understanding_with_the_earth_perk_name: "Comprendre avec la Terre" #NT!
- harmony_with_the_earth_perk_name: "Harmonie avec la Terre" #NT!
- unity_with_the_earth_perk_name: "Unité avec la Terre" #NT!
- moving_with_the_earth_perk_name: "Se déplacer avec la Terre" #NT!
- the_elemental_self_perk_name: "Le Soi Élémentaire" #NT!
-  
-  #Shintai: Bone 
- corpse_skin_perk_name: "Peau de cadavre" #NT!
- white_tiger_corpse_perk_name: "Cadavre du Tigre Blanc" #NT!
- bone_obedience_perk_name: "Obéissance osseuse" #NT!
- five_poison_cloud_perk_name: "Nuage de cinq poisons" #NT!
- ching_shih_perk_name: "Ch'ing Shih" #NT!
- ikehone_perk_name: "Ikéhone" #NT!
- skeletal_sculpting_perk_name: "Sculpture squelettique" #NT!
- corpse_awakening_perk_name: "L'éveil du cadavre" #NT!
- form_of_infernal_favor_perk_name: "Forme de faveur infernale" #NT!
-  
-  #Shintai: Flesh 
- long_neck_perk_name: "Long cou" #NT!
- detach_limb_perk_name: "Détacher le membre" #NT!
- lotus_breath_perk_name: "Souffle de Lotus" #NT!
- pelesit_perk_name: "Pelesit" #NT!
- ten_thousand_forms_perk_name: "Dix mille formes" #NT!
- body_of_the_mouse_perk_name: "Corps de la souris" #NT!
- body_of_the_serpent_perk_name: "Corps du Serpent" #NT!
- bloat_perk_name: "Gonfler" #NT!
- unchaining_the_form_perk_name: "Libérer le formulaire" #NT!
-  
-  #Shintai: Blood 
- permeate_perk_name: "Pénétrer" #NT!
- blood_atemi_perk_name: "Atemi de sang/Crachement de sang" #NT!
- flow_like_blood_perk_name: "Couler comme le sang" #NT!
- bloodlash_perk_name: "Coup de sang" #NT!
- blood_awakening_perk_name: "L'éveil du sang" #NT!
- blood_blade_perk_name: "Lame de sang" #NT!
- blood_of_the_scorpion_perk_name: "Sang du Scorpion" #NT!
- corruption_of_the_blood_perk_name: "Corruption du sang" #NT!
- blood_leeching_perk_name: "Sangsue de sang" #NT!
-  
-  #Shintai: Ghost-Flame 
- goblin_face_perk_name: "Visage de gobelin" #NT!
- goblin_spark_perk_name: "Étincelle gobeline" #NT!
- goblin_shapes_perk_name: "Formes gobelines" #NT!
- goblin_scorch_perk_name: "Brûlure des gobelins" #NT!
- goblin_lantern_perk_name: "Lanterne gobeline" #NT!
- goblin_sword_perk_name: "Épée gobeline" #NT!
- goblin_portal_perk_name: "Portail gobelin" #NT!
- goblin_call_perk_name: "Appel gobelin" #NT!
- mantle_of_the_flame_emperor_perk_name: "Manteau de l'Empereur de la Flamme" #NT!
-  
-  #Shintai: Jade 
- stand_upon_the_dragons_back_perk_name: "Tenez-vous sur le dos du dragon" #NT!
- tread_the_thrashing_dragons_tail_perk_name: "Marchez sur la queue du dragon battant" #NT!
- placate_the_earth_dragon_perk_name: "Apaiser le dragon de terre" #NT!
- harnessing_the_dragons_breath_perk_name: "Exploiter le souffle du dragon" #NT!
- jade_servant_of_the_august_personage_perk_name: "Serviteur de Jade du personnage d'août" #NT!
- stone_fish_perk_name: "Poisson pierre" #NT!
- blade_of_stone_perk_name: "Lame de pierre" #NT!
- taste_of_jade_perk_name: "Goût de Jade" #NT!
- augment_perk_name: "Augmenter" #NT!
-  
-  #Chi arts: Yin prana 
- shrouded_moon_perk_name: "Lune enveloppée" #NT!
- yin_mantle_perk_name: "Manteau Yin" #NT!
- bone_dance_perk_name: "Danse des os" #NT!
- eightfold_yin_mantle_perk_name: "Manteau Yin octuple" #NT!
- semblance_of_the_ebon_dragon_perk_name: "Semblance du dragon d'ébène" #NT!
- yin_shield_perk_name: "Yin Shield" #NT!
- yin_nihilus_perk_name: "Yin Nihilus" #NT!
- touch_of_rust_perk_name: "Touche de rouille" #NT!
- iron_corpse_perk_name: "Cadavre de fer" #NT!
-  
-  #Chi arts: Yang prana 
- principle_of_motion_perk_name: "Principe du mouvement" #NT!
- yang_mantle_perk_name: "Manteau Yang" #NT!
- dragon_dance_perk_name: "Danse du dragon" #NT!
- eightfold_yang_mantle_perk_name: "Manteau Yang octuple" #NT!
- semblance_of_the_scalet_queen_perk_name: "Semblance de la reine écarlate" #NT!
- yang_shield_perk_name: "Bouclier Yang" #NT!
- yang_phoenix_perk_name: "Yang Phénix" #NT!
- touch_of_corruption_perk_name: "Touche de corruption" #NT!
- oaken_corpse_perk_name: "Cadavre de chêne" #NT!
-  
-  #Chi arts: Equilibrium 
- master_flow_perk_name: "Flux principal" #NT!
- adjust_balance_perk_name: "Ajuster l'équilibre" #NT!
- shift_the_balance_perk_name: "Changer l’équilibre" #NT!
- chi_interrupt_perk_name: "Interruption du Chi" #NT!
- chi_mastery_perk_name: "Maîtrise du Chi" #NT!
- soothing_the_soul_perk_name: "Apaiser l'âme" #NT!
- accentuate_chi_perk_name: "Accentuer le Chi" #NT!
- opening_the_gates_perk_name: "Ouvrir les portes" #NT!
- adjust_the_true_balance_perk_name: "Ajustez le véritable équilibre" #NT!
-  
-  #Chi arts: Tapestry 
- spirit_call_perk_name: "Appel spirituel" #NT!
- chi_ward_perk_name: "Quartier Chi" #NT!
- chi_shaping_perk_name: "Chi-Shaping" #NT!
- ride_the_dragon_perk_name: "Chevauchez le dragon" #NT!
- chi_rift_perk_name: "Faille du Chi" #NT!
- celestial_needle_perk_name: "Aiguille céleste" #NT!
- dragon_chariot_perk_name: "Char Dragon" #NT!
- chi_castle_perk_name: "Château de Chi" #NT!
- the_dragons_rapine_perk_name: "La Rapine du Dragon" #NT!
-  
-  #Chi arts: Feng Shui 
- wind_water_eye_perk_name: "Oeil d'eau et de vent" #NT!
- broom_of_heaven_perk_name: "Balai du Ciel" #NT!
- hand_of_darkness_perk_name: "Main des ténèbres" #NT!
- inharmonious_aligment_perk_name: "Alignement inharmonieux" #NT!
- fengshui_chi_ward_perk_name: "Quartier Chi" #NT!
- beneficent_celestial_mirror_perk_name: "Miroir céleste bienfaisant" #NT!
- dancing_spirits_perk_name: "Esprits dansants" #NT!
- veil_of_defilement_perk_name: "Voile de souillure" #NT!
- transcendend_portal_perk_name: "Portail transcendantal" #NT!
-  
-  #Soul arts: Chi'iu Muh 
- rasa_perk_name: "Rasa" #NT!
- chi_sight_perk_name: "Chi vue" #NT!
- dragon_ward_perk_name: "Garde du dragon" #NT!
- purification_perk_name: "Purification" #NT!
- spirit_eating_perk_name: "Mangeur d'esprit" #NT!
- shield_of_the_soul_perk_name: "Bouclier de l'âme" #NT!
- banking_the_fire_calming_the_waves_perk_name: "Encaisser le feu, calmer les vagues" #NT!
- soul_taint_perk_name: "Souillure d'âme" #NT!
- soul_exchange_perk_name: "Échange d'âmes" #NT!
-  
-  #Soul arts: Cultivation 
- scrutinize_perk_name: "Scruter" #NT!
- cleave_the_demon_perk_name: "Couper le démon" #NT!
- lash_the_demon_perk_name: "Fouetter le démon" #NT!
- yoke_the_demon_perk_name: "joug le démon" #NT!
- two_become_one_perk_name: "Deux deviennent un" #NT!
- evocation_of_madness_perk_name: "Évocation de la folie" #NT!
- degradation_perk_name: "Dégradation" #NT!
- strengthening_the_demon_perk_name: "Renforcer le démon" #NT!
- darkling_mirror_perk_name: "Miroir sombre" #NT!
-  
-  #Soul arts: Internalize 
- no_mind_perk_name: "Pas d'esprit" #NT!
- blood_yoga_perk_name: "Yoga du sang" #NT!
- distant_death_kata_perk_name: "Kata de mort lointaine" #NT!
- iron_soul_perk_name: "Âme de fer" #NT!
- harmony_with_the_all_perk_name: "Harmonie avec le Tout" #NT!
- reaping_the_dragons_road_perk_name: "Récolter la route du dragon" #NT!
- steel_soul_perk_name: "Âme d'acier" #NT!
- armor_of_enlightenment_perk_name: "Armure de l'Illumination" #NT!
- holding_the_green_demon_at_bay_perk_name: "Tenir le démon vert à distance" #NT!
-  
-  #Soul arts: Obligation 
- evaluate_perk_name: "Évaluer" #NT!
- soul_bridge_perk_name: "Pont d'âme" #NT!
- authority_perk_name: "Autorité" #NT!
- thousand_hell_stare_perk_name: "Mille regards d'enfer" #NT!
- soul_shackles_perk_name: "Chaînes d'âme" #NT!
- taming_the_fire_perk_name: "Apprivoiser le feu" #NT!
- corrupt_the_will_perk_name: "Corrompre la volonté" #NT!
- voice_of_the_emperor_perk_name: "Voix de l'Empereur" #NT!
- divine_fetters_perk_name: "Entraves divines" #NT!
-  
-  #Soul arts: Mibasham 
- the_lens_of_the_self_perk_name: "La lentille du soi" #NT!
- porsdan_perk_name: "Pors'dan" #NT!
- stepping_stones_perk_name: "Tremplins" #NT!
- a_stumble_on_the_path_perk_name: "Un trébuchement sur le chemin" #NT!
- riddle_of_maya_perk_name: "L'énigme de Maya" #NT!
- veil_of_maya_perk_name: "Voile de Maya" #NT!
- bakus_quandary_perk_name: "Le dilemme de Bakou" #NT!
- beyond_the_door_perk_name: "Au-delà de la porte" #NT!
- revisionist_reality_perk_name: "Réalité révisionniste" #NT!
-  
-  #Soul arts: Tzu Wei 
- fate_of_the_one_perk_name: "Le destin de l'Un" #NT!
- joss_weaving_perk_name: "Tissage de Joss" #NT!
- fate_of_the_wu_perk_name: "Le destin du Wu" #NT!
- grand_dukes_theorem_perk_name: "Théorème du Grand-Duc" #NT!
- realigning_the_stars_perk_name: "Réaligner les étoiles" #NT!
- pantheon_of_ancestors_perk_name: "Panthéon des Ancêtres" #NT!
- fate_of_the_court_perk_name: "Le sort de la Cour" #NT!
- celestial_curse_perk_name: "Malédiction céleste" #NT!
- substitution_of_the_twelve_perk_name: "Remplacement des Douze" #NT!
-  
-  #Demon arts: Black Wind 
- black_wind_1_perk_name: "Vent noir 1" #NT!
- black_wind_2_perk_name: "Vent noir 2" #NT!
- black_wind_3_perk_name: "Vent noir 3" #NT!
- black_wind_4_perk_name: "Vent noir 4" #NT!
- black_wind_5_perk_name: "Vent noir 5" #NT!
- a_thousand_cuts_perk_name: "Mille coupures" #NT!
- treading_the_tide_dragons_back_perk_name: "Marcher sur le dos du dragon des marées" #NT!
- divine_whirlwind_perk_name: "Tourbillon divin" #NT!
- transcending_po_perk_name: "Transcender P'o" #NT!
-  
-  #Demon arts: Demon Shintai 
- demon_shintai_1_perk_name: "Demon Shintai 1" #NT!
- demon_shintai_2_perk_name: "Demon Shintai 2" #NT!
- demon_shintai_3_perk_name: "Demon Shintai 3" #NT!
- demon_shintai_4_perk_name: "Demon Shintai 4" #NT!
- demon_shintai_5_perk_name: "Demon Shintai 5" #NT!
- flesh_mastery_of_the_demon_form_perk_name: "Maîtrise de la chair de la forme démoniaque" #NT!
- bone_mastery_of_the_demon_form_perk_name: "Maîtrise osseuse de la forme démoniaque" #NT!
- blood_mastery_of_the_demon_form_perk_name: "Maîtrise du sang de la forme démoniaque" #NT!
- jade_mastery_of_the_demon_form_perk_name: "Maîtrise de Jade de la Forme Démon" #NT!
-  
-  #Demon arts: Iron Mountain 
- iron_mountain_1_perk_name: "Montagne de fer 1" #NT!
- iron_mountain_2_perk_name: "Montagne de fer 2" #NT!
- iron_mountain_3_perk_name: "Montagne de fer 3" #NT!
- iron_mountain_4_perk_name: "Montagne de fer 4" #NT!
- iron_mountain_5_perk_name: "Montagne de fer 5" #NT!
- flaying_the_demon_perk_name: "Écorcher le démon" #NT!
- torturous_transcendence_perk_name: "Transcendance tortueuse" #NT!
- striking_the_fire_perk_name: "Atteindre le feu" #NT!
- exalted_resilience_of_the_heavenly_perk_name: "Résilience Exaltée du Céleste" #NT!
-  
-  #Demon arts: Kiai 
- focusing_shout_perk_name: "Cri de concentration" #NT!
- aspect_of_the_timid_sparrow_perk_name: "Aspect du moineau timide" #NT!
- ngilai_perk_name: "Ngilaï" #NT!
- the_song_of_the_tormented_soul_perk_name: "Le chant de l'âme tourmentée" #NT!
- greater_ngilai_perk_name: "Grand Ngilaï" #NT!
- cry_of_blood_perk_name: "Cri de sang" #NT!
- tigers_roar_perk_name: "Le rugissement du tigre" #NT!
- cry_of_the_phantasm_perk_name: "Cri du fantasme" #NT!
- shout_opening_the_way_to_heaven_perk_name: "Crier ouvrant la voie au paradis" #NT!
-  
-  #Demon arts: Hellweaving 
- glimpse_of_yomi_perk_name: "Aperçu de Yomi" #NT!
- razor_winds_perk_name: "Vents de rasoir" #NT!
- favour_of_the_yama_kings_perk_name: "Faveur des rois Yama" #NT!
- remembrance_of_yomi_perk_name: "Souvenir de Yomi" #NT!
- weaving_the_yomi_world_perk_name: "Tisser le monde Yomi" #NT!
-  
-  #Alternate Techniques: Combo 
- taking_the_face_perk_name: "Prendre le visage" #NT!
- blush_of_life_restored_perk_name: "Blush de vie restauré" #NT!
- the_fire_which_illuminates_perk_name: "Le feu qui illumine" #NT!
- clothed_in_life_perk_name: "Vêtu de vie" #NT!
-  
-  #Alternate Techniques: Boneflowers 
- gentle_yielding_perk_name: "Rendement doux" #NT!
- taking_what_is_given_perk_name: "Prendre ce qui est donné" #NT!
- spiders_blessing_perk_name: "La bénédiction de l'araignée" #NT!
- bitter_yin_caress_perk_name: "Caresse amère du Yin" #NT!
- bitter_yin_cloud_perk_name: "Nuage Yin amer" #NT!
- dance_of_shiva_perk_name: "Danse de Shiva" #NT!
-  
-  #Alternate Techniques: Thrashing Dragons 
- gender_change_perk_name: "Changement de sexe" #NT!
- fur_and_fangs_perk_name: "Fourrure et crocs" #NT!
- thousand_lice_spies_perk_name: "Mille poux espions" #NT!
- polong_perk_name: "Polong" #NT!
- animal_form_dragon_dance_perk_name: "Danse du dragon sous forme animale" #NT!
- eightfold_yang_barrier_perk_name: "Barrière Yang octuple" #NT!
-  
-  #Alternate Techniques: Prayer-Eating 
- hear_prayer_perk_name: "Écoutez la prière" #NT!
- prayer_appraisal_perk_name: "Évaluation de la prière" #NT!
- fulfill_prayer_perk_name: "Accomplissez la prière" #NT!
- prayer_eating_perk_name: "Manger la prière" #NT!
- unbreakable_soul_bonds_perk_name: "Liens d'âme incassables" #NT!
-  
-  #Alternate Techniques: Inward Way 
- inner_balance_perk_name: "Équilibre intérieur" #NT!
- rest_upon_the_blade_perk_name: "Reposez-vous sur la lame" #NT!
- scales_of_need_perk_name: "Échelles de besoin" #NT!
- feed_the_soul_perk_name: "Nourrir l'âme" #NT!
- flowing_with_the_down_perk_name: "Couler avec le duvet" #NT!
-  
-  #Alternate Techniques: Tempest of Inward Focus 
- swirling_winds_style_perk_name: "Style de vents tourbillonnants" #NT!
- meditations_of_metal_perk_name: "Méditations de métal" #NT!
- kata_of_mountain_fury_perk_name: "Kata de Fureur des Montagnes" #NT!
- fighting_cloud_style_perk_name: "Combattre le style cloud" #NT!
- illusion_shattering_strike_perk_name: "Frappe briseant les illusions" #NT!
-  
-  #Sanguine: Daimonion 
- sense_the_sin_perk_name: "Ressentir le péché" #NT!
- fear_of_the_void_perk_name: "Peur du vide" #NT!
- whispers_from_the_dark_perk_name: "Chuchotements du noir" #NT!
- tormented_essence_perk_name: "Essence tourmentée" #NT!
- blood_of_a_demon_perk_name: "Sang d'un démon" #NT!
- devilish_charm_perk_name: "Charme diabolique" #NT!
- as_below_so_above_perk_name: "Comme ci-dessous donc ci-dessus" #NT!
- psychomachia_perk_name: "Psychomachie" #NT!
- poisoned_virtue_perk_name: "Vertu empoisonnée" #NT!
- kneel_before_my_throne_perk_name: "Agenouillez-vous devant mon trône" #NT!
- face_hell_perk_name: "Affronter l'enfer" #NT!
- dark_allure_perk_name: "Allure sombre" #NT!
- advanceddaimonion_perk_name: "Démonion avancé" #NT!
- adramelechs_wrath_perk_name: "La colère d'Adramelech" #NT!
- master_of_subversion_perk_name: "Maître de la subversion" #NT!
- lure_diabolik_perk_name: "Leurre Diabolik" #NT!
- devils_hide_perk_name: "Peau du diable" #NT!
-  
- hell_lord_perk_name: "Seigneur de l'enfer" #NT!
- investure_perk_name: "Investiture" #NT!
- bring_the_plague_perk_name: "Apportez la peste" #NT!
-  
-  #Animal: Serpentis 
- enchanting_gaze_perk_name: "Regard enchanteur" #NT!
- serpents_flesh_perk_name: "Chair de serpent" #NT!
- typhonic_maw_perk_name: "Gueule Typhonique" #NT!
- master_of_snakes_perk_name: "Maître des serpents" #NT!
- form_of_the_snake_perk_name: "Forme du serpent" #NT!
- typhonic_avatar_perk_name: "Avatar typhonique" #NT!
- smooth_scales_perk_name: "Écailles lisses" #NT!
- serpent_eyes_perk_name: "Yeux de serpent" #NT!
- mother_of_monsters_perk_name: "Mère des monstres" #NT!
- form_of_the_storm_perk_name: "Forme de la tempête" #NT!
- echidnas_venom_perk_name: "Venin d'Échidné" #NT!
- the_heart_of_darkness_perk_name: "Le cœur des ténèbres" #NT!
- serpentisadvanced_perk_name: "Serpentis Avancé" #NT!
- cobra_fangs_perk_name: "Crocs de cobra" #NT!
- apophis_perk_name: "Apophis" #NT!
- heart_thief_perk_name: "Voleur de coeur" #NT!
- temptation_perk_name: "Tentation" #NT!
- breath_of_the_basilisk_perk_name: "Souffle du basilic" #NT!
- godhead_perk_name: "Divinité" #NT!
-  
-  # Qiao 
-  
- celestial_punishment_perk_name: "Châtiment céleste" #NT!
- divine_bindings_perk_name: "Liens divins" #NT!
- heavenly_flames_perk_name: "Flammes célestes" #NT!
- celestial_fires_perk_name: "Feux Célestes" #NT!
- heavens_thunder_perk_name: "Le tonnerre du ciel" #NT!
- steel_skin_perk_name: "Peau d'acier" #NT!
- dragons_speed_perk_name: "Vitesse du dragon" #NT!
- tigers_strength_perk_name: "La force du tigre" #NT!
- celestial_eyes_perk_name: "Yeux célestes" #NT!
- body_of_the_dragon_perk_name: "Corps du Dragon" #NT!
- opened_eyes_perk_name: "Yeux ouverts" #NT!
- divine_perceptions_perk_name: "Perceptions divines" #NT!
- wind_talk_perk_name: "Discussion sur le vent" #NT!
- celestial_window_perk_name: "Fenêtre céleste" #NT!
- celestial_doorway_perk_name: "Porte céleste" #NT!
- barrier_of_pain_perk_name: "Barrière de douleur" #NT!
- the_closing_wound_perk_name: "La blessure qui se referme" #NT!
- spiritual_healing_perk_name: "Guérison spirituelle" #NT!
- escape_from_death_perk_name: "Échapper à la mort" #NT!
- flames_of_the_phoenix_perk_name: "Flammes du Phénix" #NT!
- thousand_fists_perk_name: "Mille poings" #NT!
- spear_hand_perk_name: "Main de lance" #NT!
- burning_ghosts_perk_name: "Fantômes brûlants" #NT!
- steel_body_perk_name: "Corps en acier" #NT!
- thousand_swords_perk_name: "Mille épées" #NT!
- frozen_river_perk_name: "Rivière gelée" #NT!
- stolen_serpent_perk_name: "Serpent volé" #NT!
- celestial_barrier_perk_name: "Barrière céleste" #NT!
- clutch_of_the_wan_kuei_perk_name: "Pochette du Wan Kuei" #NT!
- bite_of_the_mu_perk_name: "Morsure du Mu" #NT!
- eyes_of_the_dragon_perk_name: "Les yeux du dragon" #NT!
- dark_reflection_perk_name: "Reflet sombre" #NT!
- hunted_eyes_perk_name: "Yeux traqués" #NT!
- voice_of_the_yama_kings_perk_name: "Voix des rois Yama" #NT!
- divine_ordinance_perk_name: "Ordonnance divine" #NT!
- balance_of_the_spirit_perk_name: "Équilibre de l'Esprit" #NT!
- focus_of_the_mind_perk_name: "Concentration de l'esprit" #NT!
- nightmare_exorcism_perk_name: "Exorcisme cauchemardesque" #NT!
- self_exorcism_perk_name: "Auto-exorcisme" #NT!
- mental_dominion_perk_name: "Domination mentale" #NT!
- cloud_walking_perk_name: "Marche dans les nuages" #NT!
- water_treading_perk_name: "Marcher sur l'eau" #NT!
- wind_strike_perk_name: "Coup de vent" #NT!
- mountain_stance_perk_name: "Position de montagne" #NT!
- celestial_wind_perk_name: "Vent céleste" #NT!
- heavens_judgment_perk_name: "Le jugement du ciel" #NT!
- divine_prohibition_perk_name: "Interdiction divine" #NT!
- ten_ox_strength_perk_name: "Force de dix bœufs" #NT!
- diamond_body_perk_name: "Corps de diamant" #NT!
- sight_without_eyes_perk_name: "La vue sans les yeux" #NT!
- the_eye_of_heaven_perk_name: "L'oeil du ciel" #NT!
- the_lizards_tail_perk_name: "La queue du lézard" #NT!
- ashes_of_the_phoenix_perk_name: "Cendres du Phénix" #NT!
- hundred_warriors_strike_perk_name: "Frappe des Cent Guerriers" #NT!
- heaven_thunder_strike_perk_name: "Frappe du tonnerre céleste" #NT!
- righteous_hungry_spirit_perk_name: "Esprit juste et affamé" #NT!
- demon_eating_techniquet_perk_name: "Technique de consommation de démons" #NT!
- mantle_of_heaven_perk_name: "Manteau du Ciel" #NT!
- divine_mandate_perk_name: "Mandat Divin" #NT!
- mountain_meditation_perk_name: "Méditation en montagne" #NT!
- walking_in_balance_perk_name: "Marcher en équilibre" #NT!
- arrow_cutting_perk_name: "Coupe de flèche" #NT!
- wind_racing_prana_perk_name: "Prana de course au vent" #NT!
-  
-  # Alchemy 
-  
- analyze_material_perk_name: "Analyser le matériel" #NT!
- cloud_of_smoke_perk_name: "Nuage de fumée" #NT!
- drink_of_seven_days_rest_perk_name: "Boisson de sept jours de repos" #NT!
- mild_poison_perk_name: "Poison léger" #NT!
- potion_of_resilience_perk_name: "Potion de résilience" #NT!
- simple_elixir_perk_name: "Élixir simple" #NT!
- simple_philtre_perk_name: "Philtre simple" #NT!
- simple_tonic_perk_name: "Tonique simple" #NT!
- stasis_perk_name: "Stase" #NT!
- blood_of_the_snake_perk_name: "Sang du serpent" #NT!
- cobra_spit_perk_name: "Crachat Cobra" #NT!
- essence_longing_perk_name: "Désir d'essence" #NT!
- eyes_of_the_ka_perk_name: "Les yeux du Ka" #NT!
- ice_of_the_desert_perk_name: "Glace du Désert" #NT!
- lesser_quiddity_perk_name: "Quiddité moindre" #NT!
- reed_of_hidden_currents_perk_name: "Roseau des courants cachés" #NT!
- spark_of_ra_perk_name: "Étincelle de Râ" #NT!
- complex_elixir_perk_name: "Élixir complexe" #NT!
- complex_philtre_perk_name: "Philtre complexe" #NT!
- complex_tonic_perk_name: "Tonique Complexe" #NT!
- dangerous_poison_perk_name: "Poison dangereux" #NT!
- one_hundred_thousand_tongues_perk_name: "Cent mille langues" #NT!
- potion_of_valor_perk_name: "Potion de vaillance" #NT!
- salts_of_the_dead_perk_name: "Sels des morts" #NT!
- tears_of_isis_perk_name: "Les larmes d'Isis" #NT!
- ashes_to_ashes_perk_name: "Cendres aux cendres" #NT!
- greater_quiddity_perk_name: "Grande Quiddité" #NT!
- panacea_perk_name: "Panacée" #NT!
- philosophers_stone_perk_name: "Pierre philosophale" #NT!
- potion_of_separable_ka_perk_name: "Potion de Ka séparable" #NT!
- catalyst_crucible_perk_name: "Creuset de catalyseur" #NT!
- deadly_poison_perk_name: "Poison mortel" #NT!
- dust_to_dust_perk_name: "La poussière à la poussière" #NT!
- flesh_of_the_gods_perk_name: "Chair des dieux" #NT!
- potent_elixir_perk_name: "Élixir puissant" #NT!
- potent_philtre_perk_name: "Philtre puissant" #NT!
- potent_tonic_perk_name: "Tonique puissant" #NT!
- potion_of_the_divine_perk_name: "Potion du Divin" #NT!
- potion_of_the_vile_body_perk_name: "Potion du corps vil" #NT!
- distill_the_wisdom_of_maat_perk_name: "Distiller la sagesse de Maât" #NT!
- draught_of_perfect_memory_perk_name: "Brouillon de Mémoire Parfaite" #NT!
- personal_poison_perk_name: "Poison personnel" #NT!
- princely_elixir_perk_name: "Élixir princier" #NT!
- princely_tonic_perk_name: "Tonique Princier" #NT!
- princely_quiddity_perk_name: "Quiddité princière" #NT!
- renewal_of_the_horus_perk_name: "Renouvellement d'Horus" #NT!
- water_of_life_perk_name: "Eau de Vie" #NT!
- elixir_of_thoths_aptitude_perk_name: "Élixir d'aptitude de Thot" #NT!
- kingly_elixir_perk_name: "Élixir royal" #NT!
- kingly_tonic_perk_name: "Tonique Royal" #NT!
- kingly_quiddity_perk_name: "Quiddité royale" #NT!
- philtre_of_the_blackened_sands_perk_name: "Philtre des Sables Noircis" #NT!
- divine_elixir_perk_name: "Élixir divin" #NT!
- divine_tonic_perk_name: "Tonique Divin" #NT!
- divine_quiddity_perk_name: "Quiddité divine" #NT!
- draught_of_the_stalwart_ab_perk_name: "Draft du Stalwart Ab" #NT!
-  
-  # Amulets 
-  
- ashen_shroud_perk_name: "Linceul de cendre" #NT!
- #bundle_perk_name: "Paquet" #NT!
- eye_of_the_horizon_perk_name: "L'oeil de l'horizon" #NT!
- simple_ward_perk_name: "Quartier simple" #NT!
- warding_sign_perk_name: "Panneau de protection" #NT!
- wood_ward_perk_name: "Quartier du Bois" #NT!
- amulet_of_cloud_walking_perk_name: "Amulette de marche dans les nuages" #NT!
- lesser_talisman_perk_name: "Talisman inférieur" #NT!
- lesser_ward_perk_name: "Quartier inférieur" #NT!
- #mask_perk_name: "Masque" #NT!
- prayer_of_the_aken_perk_name: "Prière de l'Aken" #NT!
- scarab_of_life_perk_name: "Scarabée de la vie" #NT!
- metal_ward_perk_name: "Salle de métal" #NT!
- major_ward_perk_name: "Quartier majeur" #NT!
- sign_of_luck_perk_name: "Signe de chance" #NT!
- veil_of_amaunet_perk_name: "Voile d'Amaunet" #NT!
- wrapping_of_imhotep_perk_name: "Emballage d'Imhotep" #NT!
- ebon_binding_perk_name: "Lien d'ébène" #NT!
- eye_of_sakhmet_perk_name: "Oeil de Sakhmet" #NT!
- gebs_blessing_perk_name: "La bénédiction de Geb" #NT!
- greater_veil_of_amaunet_perk_name: "Grand Voile d'Amaunet" #NT!
- greater_talisman_perk_name: "Talisman majeur" #NT!
- greater_ward_perk_name: "Quartier majeur" #NT!
- buckle_of_isis_perk_name: "Boucle d'Isis" #NT!
- princely_talisman_perk_name: "Talisman princier" #NT!
- princely_ward_perk_name: "Garde princière" #NT!
- scarab_of_death_perk_name: "Scarabée de la mort" #NT!
- ward_of_permanence_perk_name: "Quartier de permanence" #NT!
- wrappings_of_osiris_perk_name: "Enveloppements d'Osiris" #NT!
- kingly_ward_perk_name: "Garde royale" #NT!
- lesser_seal_of_maat_perk_name: "Sceau inférieur de Maât" #NT!
- nyarashahims_banishing_sign_perk_name: "Signe de bannissement de Nyarashahim" #NT!
- nyarashahims_screaming_scarab_perk_name: "Scarabée hurlant de Nyarashahim" #NT!
- piercing_eye_of_thoth_perk_name: "Oeil perçant de Thot" #NT!
- serqets_sting_perk_name: "Dard de Serket" #NT!
- shatter_the_glyph_perk_name: "Brisez le glyphe" #NT!
- talisman_of_the_vulture_perk_name: "Talisman du Vautour" #NT!
- viziers_talisman_perk_name: "Talisman du vizir" #NT!
- whisper_between_two_hearts_perk_name: "Chuchotement entre deux coeurs" #NT!
- ramoses_armor_perk_name: "Armure de Ramosé" #NT!
- conduit_of_shadow_perk_name: "Conduit de l'Ombre" #NT!
- kingly_talisman_perk_name: "Talisman royal" #NT!
- seal_of_maat_perk_name: "Sceau de Maât" #NT!
- shatter_the_greater_glyph_perk_name: "Briser le glyphe majeur" #NT!
- shield_of_the_pharaohs_perk_name: "Bouclier des Pharaons" #NT!
- vault_of_inner_strength_perk_name: "Coffre de force intérieure" #NT!
- divine_talisman_perk_name: "Talisman Divin" #NT!
- greater_seal_of_maat_perk_name: "Grand Sceau de Maât" #NT!
- hardening_sign_of_geb_perk_name: "Signe de durcissement de Geb" #NT!
- heart_of_maat_perk_name: "Cœur de Maât" #NT!
- inscribe_the_flesh_perk_name: "Inscrire la chair" #NT!
- shatter_the_princely_glyph_perk_name: "Brisez le glyphe princier" #NT!
- talisman_of_the_asp_perk_name: "Talisman de l'Asp" #NT!
- voracious_scarab_of_nyarashahim_perk_name: "Scarabée vorace de Nyarashahim" #NT!
-  
-  # Celestial 
-  
- becalm_perk_name: "Sois calme" #NT!
- grip_the_water_perk_name: "Saisissez l'eau" #NT!
- hanging_the_stars_perk_name: "Accrocher les étoiles" #NT!
- hiding_the_stars_perk_name: "Cacher les étoiles" #NT!
- simple_weather_magic_perk_name: "Magie météo simple" #NT!
- weather_sight_perk_name: "Vue météo" #NT!
- book_of_thoth_perk_name: "Livre de Thot" #NT!
- lesser_weather_magic_perk_name: "Magie météo moindre" #NT!
- read_the_stars_perk_name: "Lire les étoiles" #NT!
- sahu_ra_perk_name: "Sahu-Ra" #NT!
- weather_whispers_perk_name: "Chuchotements météorologiques" #NT!
- call_the_stars_perk_name: "Appelez les étoiles" #NT!
- divine_forms_perk_name: "Formes divines" #NT!
- major_weather_magic_perk_name: "Magie météorologique majeure" #NT!
- greater_weather_magic_perk_name: "Magie météo supérieure" #NT!
- ras_awakening_perk_name: "L'éveil de Ra" #NT!
- read_the_tree_of_life_perk_name: "Lire l'Arbre de Vie" #NT!
- sandstorm_perk_name: "Tempête de sable" #NT!
- wisdom_of_isis_perk_name: "La sagesse d'Isis" #NT!
- divine_greatness_perk_name: "Grandeur divine" #NT!
- plague_of_maat_perk_name: "Peste de Maât" #NT!
- potent_weather_magic_perk_name: "Magie météorologique puissante" #NT!
- rousing_apophis_perk_name: "Réveiller Apophis" #NT!
- call_of_the_north_star_perk_name: "L'appel de l'étoile polaire" #NT!
- gebs_grasp_perk_name: "L'emprise de Geb" #NT!
- festival_of_maat_perk_name: "Fête de Maât" #NT!
- inundation_of_the_nile_perk_name: "Inondation du Nil" #NT!
- arch_of_nuit_perk_name: "Arc de Nuit" #NT!
- cycle_of_ra_perk_name: "Cycle de Râ" #NT!
- star_of_the_messiah_perk_name: "Étoile du Messie" #NT!
- crossed_by_the_stars_perk_name: "Traversé par les étoiles" #NT!
- whispers_of_the_tree_of_life_perk_name: "Murmures de l'Arbre de Vie" #NT!
-  
-  # Effigy 
-  
- command_simple_implement_perk_name: "Commande Simple Implémentation" #NT!
- simple_inertion_perk_name: "Inertion simple" #NT!
- simple_creature_perk_name: "Créature simple" #NT!
- simple_servitor_perk_name: "Serviteur simple" #NT!
- simple_wrest_perk_name: "Lutte simple" #NT!
- command_lesser_implement_perk_name: "Outil inférieur de commande" #NT!
- false_door_perk_name: "Fausse porte" #NT!
- lesser_inertion_perk_name: "Moindre inertion" #NT!
- lesser_chattel_perk_name: "Meubles mineurs" #NT!
- lesser_creature_perk_name: "Créature inférieure" #NT!
- lesser_wrest_perk_name: "Petite lutte" #NT!
- command_complex_implement_perk_name: "Implémentation du complexe de commande" #NT!
- major_inertion_perk_name: "Inertion majeure" #NT!
- complex_chattel_perk_name: "Biens complexes" #NT!
- sekhem_vessel_perk_name: "Navire Sekhem" #NT!
- major_bond_of_fate_perk_name: "Lien majeur du destin" #NT!
- effigy_overseer_perk_name: "Surveillant" #NT!
- major_creature_perk_name: "Créature majeure" #NT!
- modest_reflection_perk_name: "Réflexion modeste" #NT!
- major_relic_perk_name: "Relique majeure" #NT!
- major_wrest_perk_name: "Lutte majeure" #NT!
- majestic_reflection_perk_name: "Réflexion majestueuse" #NT!
- superior_chattel_perk_name: "Biens meubles supérieurs" #NT!
- greater_relic_perk_name: "Relique supérieure" #NT!
- superior_creature_perk_name: "Créature supérieure" #NT!
- guard_perk_name: "Garde" #NT!
- superior_inertion_perk_name: "Inertion supérieure" #NT!
- superior_bond_of_fate_perk_name: "Lien du destin supérieur" #NT!
- superior_wrest_perk_name: "Lutte supérieure" #NT!
- ka_vessel_perk_name: "Récipient Ka" #NT!
- princely_chattel_perk_name: "Biens princiers" #NT!
- princely_inertion_perk_name: "Inertion princière" #NT!
- princely_reflection_perk_name: "Réflexion princière" #NT!
- princely_creature_perk_name: "Créature princière" #NT!
- princely_relic_perk_name: "Relique princière" #NT!
- living_bond_of_fate_perk_name: "Lien vivant du destin" #NT!
- princely_wrest_perk_name: "Lutte princière" #NT!
- the_crawling_eye_perk_name: "L'œil rampant" #NT!
- major_restoration_perk_name: "Restauration majeure" #NT!
- greater_sekhem_vessel_perk_name: "Navire du Grand Sekhem" #NT!
- viziers_beast_perk_name: "La bête du vizir" #NT!
- sanctify_chattel_perk_name: "Sanctifier les biens meubles" #NT!
- scepter_of_the_vizier_perk_name: "Sceptre du Vizir" #NT!
- viziers_wrest_perk_name: "La lutte du vizir" #NT!
- greater_restoration_perk_name: "Restauration majeure" #NT!
- spirit_scepter_perk_name: "Sceptre spirituel" #NT!
- kingly_beast_perk_name: "Bête royale" #NT!
- greater_scepter_of_the_vizier_perk_name: "Grand Sceptre du Vizir" #NT!
- stalking_hound_of_typhon_perk_name: "Traquer le chien de Typhon" #NT!
- kingly_wrest_perk_name: "Lutte royale" #NT!
- effigy_of_sin_perk_name: "Effigie du péché" #NT!
- princely_restoration_perk_name: "Restauration Princière" #NT!
- divine_beast_perk_name: "Bête divine" #NT!
- princely_scepter_of_the_vizier_perk_name: "Sceptre princier du vizir" #NT!
- divine_wrest_perk_name: "Lutte divine" #NT!
-  
-  # Necromancy 
-  
- body_preservation_perk_name: "Préservation du corps" #NT!
- deaths_shroud_perk_name: "Linceul de la mort" #NT!
- ghost_lantern_perk_name: "Lanterne fantôme" #NT!
- judge_the_soul_perk_name: "Juger l'âme" #NT!
- separate_ka_perk_name: "Ka séparé" #NT!
- stormwalk_perk_name: "Marche-tempête" #NT!
- summon_the_dead_perk_name: "Invoquer les morts" #NT!
- banish_the_dead_perk_name: "Bannir les morts" #NT!
- bind_the_dead_perk_name: "Lier les morts" #NT!
- fertility_of_osiris_perk_name: "Fertilité d'Osiris" #NT!
- revisit_death_perk_name: "Revisitez la mort" #NT!
- sense_the_dead_perk_name: "Sentir les morts" #NT!
- storm_shield_perk_name: "Bouclier Tempête" #NT!
- bind_the_living_perk_name: "Lier les vivants" #NT!
- deaths_hand_perk_name: "La main de la mort" #NT!
- manifestation_perk_name: "Manifestation" #NT!
- separate_ba_perk_name: "Ba séparé" #NT!
- shadow_portal_perk_name: "Portail de l'Ombre" #NT!
- amentis_grace_perk_name: "La grâce d'Amenti" #NT!
- khaibits_embrace_perk_name: "L'étreinte de Khaibit" #NT!
- sever_soul_perk_name: "Couper l'âme" #NT!
- sin_eating_perk_name: "Manger du péché" #NT!
- call_the_khaibit_perk_name: "Appelez le Khaibit" #NT!
- entrap_the_ba_perk_name: "Piéger le Ba" #NT!
- heart_of_life_perk_name: "Cœur de Vie" #NT!
- panoply_of_shadow_perk_name: "Panoplie de l'Ombre" #NT!
- reshape_the_lost_soul_perk_name: "Remodeler l'âme perdue" #NT!
- scouring_oblivion_perk_name: "Récurer l'oubli" #NT!
- aspect_of_duat_perk_name: "Aspect de Duat" #NT!
- call_forth_the_reavers_of_ur_perk_name: "Appelez les saccageurs d'Ur" #NT!
- eating_the_heart_perk_name: "Manger le coeur" #NT!
- gift_of_purpose_perk_name: "Don de but" #NT!
- khu_of_two_lands_perk_name: "Khu des Deux Terres" #NT!
- lighten_the_shadow_perk_name: "Éclaircir l'ombre" #NT!
- loyal_companion_perk_name: "Compagnon fidèle" #NT!
- open_the_sebkhet_perk_name: "Ouvrir le Sebkhet" #NT!
- shadow_talisman_perk_name: "Talisman de l'Ombre" #NT!
- spear_of_anubis_perk_name: "Lance d'Anubis" #NT!
- walking_in_the_shadow_of_anubis_perk_name: "Marcher dans l'ombre d'Anubis" #NT!
- casting_away_perk_name: "Le rejet" #NT!
- dark_wall_of_hatshepsut_perk_name: "Mur sombre d'Hatchepsout" #NT!
- empower_ba_perk_name: "Autonomiser Ba" #NT!
- empower_ka_perk_name: "Donnez du pouvoir à Ka" #NT!
- heart_of_reincarnation_perk_name: "Cœur de Réincarnation" #NT!
- separate_khaibit_perk_name: "Khaibit séparé" #NT!
- spirit_the_body_away_perk_name: "L'esprit du corps loin" #NT!
- transfixing_gaze_perk_name: "Regard transperçant" #NT!
- barring_the_gates_perk_name: "Barrant les portes" #NT!
- call_of_oblivion_perk_name: "L'appel de l'oubli" #NT!
- promise_made_before_ammuts_scales_perk_name: "Promesse faite avant la balance d'Ammut" #NT!
- unmaking_perk_name: "Défaire" #NT!
-  
-  # Nomenclature 
-  
- asking_the_trees_perk_name: "Demander aux arbres" #NT!
- forgetting_the_stone_perk_name: "Oublier la pierre" #NT!
- forgetting_the_tree_perk_name: "Oublier l'arbre" #NT!
- name_the_secret_perk_name: "Nommez le secret" #NT!
- naming_the_warning_perk_name: "Nommer l'avertissement" #NT!
- becoming_the_stone_perk_name: "Devenir la pierre" #NT!
- becoming_the_tree_perk_name: "Devenir l'arbre" #NT!
- cloud_the_name_perk_name: "Numérisez le nom" #NT!
- command_the_beast_perk_name: "Commandez la bête" #NT!
- mend_flesh_perk_name: "Réparer la chair" #NT!
- become_animal_perk_name: "Devenez un animal" #NT!
- command_thought_perk_name: "Pensée de commandement" #NT!
- name_the_hekau_perk_name: "Nommez le Hekau" #NT!
- whispers_to_the_heart_perk_name: "Chuchotements au coeur" #NT!
- hekau_enslave_perk_name: "Asservir" #NT!
- fortify_flesh_perk_name: "Fortifier la chair" #NT!
- naming_the_bodys_destruction_perk_name: "Nommer la destruction du corps" #NT!
- speaking_all_names_perk_name: "Prononcer tous les noms" #NT!
- forgetting_the_name_perk_name: "Oublier le nom" #NT!
- ptahs_word_perk_name: "La parole de Ptah" #NT!
- whispers_to_the_body_perk_name: "Chuchotements au corps" #NT!
- words_of_authority_perk_name: "Mots d'autorité" #NT!
- echo_the_lesser_name_perk_name: "Faites écho au petit nom" #NT!
- name_of_sekhem_perk_name: "Nom de Sekhem" #NT!
- name_of_skill_perk_name: "Nom de la compétence" #NT!
- riddle_of_the_sphinx_perk_name: "L'énigme du Sphinx" #NT!
- becoming_the_person_perk_name: "Devenir la personne" #NT!
- echo_the_greater_name_perk_name: "Faites écho au plus grand nom" #NT!
- name_of_the_attribute_perk_name: "Nom de l'attribut" #NT!
- names_of_the_forgotten_perk_name: "Noms des oubliés" #NT!
- name_of_the_will_perk_name: "Nom du testament" #NT!
- renaming_the_hekau_perk_name: "Renommer le Hekau" #NT!
-  
-  # Tan 
-  
- feng_tan_1_perk_name: "Feng Tan niveau un" #NT!
- feng_tan_2_perk_name: "Feng Tan niveau deux" #NT!
- feng_tan_3_perk_name: "Feng Tan de niveau trois" #NT!
- feng_tan_4_perk_name: "Niveau quatre Feng Tan" #NT!
- feng_tan_5_perk_name: "Feng Tan de niveau cinq" #NT!
- lung_tan_1_perk_name: "Bronzage pulmonaire de niveau un" #NT!
- lung_tan_2_perk_name: "Bronzage pulmonaire de niveau deux" #NT!
- lung_tan_3_perk_name: "Bronzage pulmonaire de niveau trois" #NT!
- lung_tan_4_perk_name: "Bronzage pulmonaire de niveau quatre" #NT!
- lung_tan_5_perk_name: "Bronzage pulmonaire de niveau cinq" #NT!
- body_mending_technique_perk_name: "Technique de guérison du corps" #NT!
- lingering_aid_of_the_caregiver_perk_name: "Aide persistante du soignant" #NT!
- see_the_lands_of_the_spirit_perk_name: "Voir les terres des esprits" #NT!
- sense_lucks_flow_perk_name: "Ressentez le flux de la chance" #NT!
- snake_fist_strike_perk_name: "Coup de poing de serpent" #NT!
- sweet_dreamss_caress_perk_name: "La caresse de Sweet Dream" #NT!
- call_the_spirits_perk_name: "Appelez les esprits" #NT!
- drunken_monkey_dance_perk_name: "Danse du singe ivre" #NT!
- leaping_tiger_pounce_perk_name: "Bond du tigre bondissant" #NT!
- spirit_lantern_perk_name: "Lanterne spirituelle" #NT!
- stormwind_prana_perk_name: "Prana de Hurlevent" #NT!
- bind_the_demons_servant_perk_name: "Liez le serviteur du démon" #NT!
- elegant_crane_deftness_perk_name: "Habileté élégante de la grue" #NT!
- the_clearing_of_the_way_perk_name: "Le dégagement du chemin" #NT!
- opening_the_thied_eye_perk_name: "Ouvrir le troisième œil" #NT!
- flame_hand_strike_perk_name: "Frappe de la main enflammée" #NT!
- mantle_of_divine_authority_perk_name: "Manteau d'autorité divine" #NT!
- plague_curing_method_perk_name: "Méthode de guérison de la peste" #NT!
- ten_paces_strike_perk_name: "Frappe à dix pas" #NT!
- walk_the_barriers_perk_name: "Franchir les barrières" #NT!
- gentle_typhoons_passing_perk_name: "Le doux passage du typhon" #NT!
- restoration_of_youths_vigor_perk_name: "Restauration de la vigueur de la jeunesse" #NT!
- transcendant_living_flame_perk_name: "Flamme vivante transcendante" #NT!
- hundred_shadow_cloud_perk_name: "Nuage de cent ombres" #NT!
- iron_body_meditation_perk_name: "Méditation du corps de fer" #NT!
- lesser_spirit_projection_perk_name: "Projection d'esprit inférieur" #NT!
- still_the_fluttering_wing_perk_name: "Toujours le vent flottant" #NT!
- lungtan_unseen_passage_perk_name: "Passage invisible" #NT!
- the_way_of_the_calm_soul_perk_name: "La voie de l'âme calme" #NT!
- ebon_bonds_perk_name: "Obligations d'ébène" #NT!
- ice_hand_strike_perk_name: "Frappe de la main de glace" #NT!
- know_the_wandering_soul_perk_name: "Connaître l'âme errante" #NT!
- no_mind_kata_perk_name: "No Mind Kata" #NT!
- brambles_on_the_road_perk_name: "Des ronces sur la route" #NT!
- ghost_walking_method_perk_name: "Méthode de marche fantôme" #NT!
- projection_of_inward_being_perk_name: "Projection de l'être intérieur" #NT!
- shield_of_fortune_perk_name: "Bouclier de Fortune" #NT!
- blur_the_mind_perk_name: "Brouiller l'esprit" #NT!
- protect_against_the_demon_perk_name: "Protégez-vous contre le démon" #NT!
- scroll_of_the_minds_eye_perk_name: "Parchemin de l'oeil de l'esprit" #NT!
- whispering_stones_perk_name: "Pierres murmurantes" #NT!
- death_touch_perk_name: "Touché mortel" #NT!
- eye_of_the_tempest_perk_name: "Oeil de la tempête" #NT!
- tread_the_dragon_tracks_perk_name: "Parcourez les traces du dragon" #NT!
- advanced_lung_tan_perk_name: "Corps Divin de l'Empereur Céleste" #NT!
- advanced_feng_tan_perk_name: "Corps Divin de l'Empereur Céleste" #NT!
-  
-  #Gifts : Homid 
- persuasion_perk_name: "Persuasion" #NT!
- apecraftsblessings_perk_name: "Les bénédictions d'Apecraft" #NT!
- divide_perk_name: "Diviser" #NT!
- speech_of_the_world_perk_name: "Discours du monde" #NT!
- staredown_perk_name: "Regarder vers le bas" #NT!
- reshape_objects_perk_name: "Remodeler les objets" #NT!
- assimilation_perk_name: "Assimilation" #NT!
- beyond_human_perk_name: "Au-delà de l'humain" #NT!
-  
-  #Gifts : Lupus 
- predators_arsenal_perk_name: "Arsenal des prédateurs" #NT!
- axis_mundi_perk_name: "Axe Mundi" #NT!
- wyld_ferocity_perk_name: "Férocité sauvage" #NT!
- catfeet_perk_name: "Pieds de chat" #NT!
- beast_life_perk_name: "Vie de bête" #NT!
- terror_direwolf_perk_name: "Terreur du terrible loup" #NT!
- boon_fathers_perk_name: "Bénédiction des pères animaux" #NT!
- elemental_gift_perk_name: "Don élémentaire" #NT!
-  
-  #Gifts : Metis 
- primal_anger_perk_name: "Colère primordiale" #NT!
- shed_perk_name: "Hangar" #NT!
- curse_of_hatred_perk_name: "Malédiction de la haine" #NT!
- chameleon_perk_name: "Caméléon" #NT!
- shell_perk_name: "Coquille" #NT!
- wither_limb_perk_name: "Membre flétri" #NT!
- protean_form_perk_name: "Forme protéiforme" #NT!
- umbral_body_perk_name: "Corps ombral" #NT!
-  
-  #Gifts : Ahroun 
- battlesense_perk_name: "Sens du combat" #NT!
- inspiration_perk_name: "Inspiration" #NT!
- pack_tactics_perk_name: "Tactiques de meute" #NT!
- true_fear_perk_name: "Vraie peur" #NT!
- shake_earth_perk_name: "Secouez la Terre" #NT!
- challenge_combat_perk_name: "Défi du combat singulier" #NT!
- strenght_will_perk_name: "Force de volonté" #NT!
- shared_strength_perk_name: "Force partagée" #NT!
- unstoppable_warrior_perk_name: "Guerrier imparable" #NT!
-  
-  #Gifts : Galliard 
- primal_song_perk_name: "Chanson primordiale" #NT!
- howls_night_perk_name: "Hurle dans la nuit" #NT!
- mimic_perk_name: "Imiter" #NT!
- song_heroes_perk_name: "Chanson des héros" #NT!
- veil_mother_perk_name: "Voile de la Mère" #NT!
- song_rage_perk_name: "Chanson de rage" #NT!
- bridge_walker_perk_name: "Marcheur de pont" #NT!
- song_siren_perk_name: "Le chant de la sirène" #NT!
- storyteller_perk_name: "Conteur" #NT!
-  
-  #Gifts : Philodox 
- truth_gaia_perk_name: "Vérité de Gaia" #NT!
- aura_leadership_perk_name: "Aura de leadership" #NT!
- fangs_judgment_perk_name: "Crocs du jugement" #NT!
- command_gathering_perk_name: "Commandez le rassemblement" #NT!
- bonds_us_perk_name: "Des liens qui nous lient" #NT!
- undisputed_ruler_perk_name: "Souverain incontesté" #NT!
- scent_beyond_perk_name: "Parfum d'au-delà" #NT!
- roll_over_perk_name: "Rouler sur" #NT!
- release_from_bondage_perk_name: "Libération de la servitude" #NT!
-  
-  #Gifts : Ragabash 
- liar_face_perk_name: "Le visage du menteur" #NT!
- snow_running_perk_name: "Course sur neige" #NT!
- obscure_truth_perk_name: "Obscurcir la vérité" #NT!
- peace_counselor_perk_name: "Paix du Conseiller" #NT!
- sticky_fingers_perk_name: "Doigts collants" #NT!
- deliberate_misinformation_perk_name: "Désinformation délibérée" #NT!
- reynard_lie_perk_name: "Le mensonge de Reynard" #NT!
- fool_luck_perk_name: "La chance du fou" #NT!
- firebringer_perk_name: "Porteur de feu" #NT!
-  
-  #Gifts : Theurge 
- spirit_speech_perk_name: "Discours de l'Esprit" #NT!
- sense_wyrm_perk_name: "Wyrm de détection" #NT!
- hear_silence_perk_name: "Écoutez le silence" #NT!
- sense_chiminage_perk_name: "Sens Chiminage" #NT!
- spirit_skin_perk_name: "Apparence d'esprit" #NT!
- name_spirit_perk_name: "Nommer l'Esprit" #NT!
- prophetic_vision_perk_name: "Vision prophétique" #NT!
- spirit_vessel_perk_name: "Récipient spirituel" #NT!
- rebirthing_perk_name: "Renaissance" #NT!
-  
-  #Gifts : Hengeyokai 
- create_element_perk_name: "Créer un élément" #NT!
- mindspeak_perk_name: "Parler mental" #NT!
- sense_imbalance_perk_name: "Déséquilibre des sens" #NT!
- blaze_talons_perk_name: "Serres de feu" #NT!
- courtly_speech_perk_name: "Discours courtois" #NT!
- waking_dream_of_unity_perk_name: "Rêve éveillé d’unité" #NT!
- exorcism_perk_name: "Exorcisme" #NT!
- part_the_wall_perk_name: "Séparer le mur" #NT!
-  
-  #Gifts : Hakken 
- dream_of_a_thousand_cranes_perk_name: "Rêve de mille grues" #NT!
- fair_path_perk_name: "Chemin équitable" #NT!
- storm_winds_slash_perk_name: "Coup de vent de tempête" #NT!
- dark_of_night_perk_name: "L'obscurité de la nuit" #NT!
- living_treasure_perk_name: "Trésor vivant" #NT!
- divine_wind_perk_name: "Vent divin" #NT!
-  
-  #Gifts : Kumo 
- nimbleness_perk_name: "Agilité" #NT!
- shadow_step_perk_name: "Étape de l'ombre" #NT!
- spittle_of_corruption_perk_name: "Crachat de corruption" #NT!
- snare_of_beauty_perk_name: "Piège de beauté" #NT!
- web_tremors_perk_name: "Tremblements Web" #NT!
- elder_wisdom_perk_name: "Sagesse des aînés" #NT!
-  
-  #Gifts : Ajaba 
- feral_grin_perk_name: "Sourire sauvage" #NT!
- gift_of_terror_perk_name: "Don de la terreur" #NT!
- crushing_jaws_perk_name: "Mâchoires de broyage" #NT!
- clan_loyalty_perk_name: "Loyauté du clan" #NT!
- laughter_of_the_soul_perk_name: "Le rire de l'âme" #NT!
- culling_the_weak_perk_name: "Éliminer les faibles" #NT!
- gorge_perk_name: "Gorge" #NT!
- ajaba_survivor_perk_name: "Survivant" #NT!
-  
-  #Gifts : Nuwisha 
- song_of_kokopelli_perk_name: "Chanson de Kokopelli" #NT!
- xochipillis_touch_perk_name: "Le contact de Xochipilli" #NT!
- umbral_map_perk_name: "Carte de l'Umbra" #NT!
- dance_of_abandon_perk_name: "Danse de l'abandon" #NT!
- shadow_walk_perk_name: "Promenade dans l'ombre" #NT!
- tricksters_skin_perk_name: "Peau de filou" #NT!
- coyotes_mask_perk_name: "Masque de Coyote" #NT!
- umbral_target_perk_name: "Cible ombrale" #NT!
- coyotes_howl_perk_name: "Hurlement du coyote" #NT!
-  
-  #Gifts : Apis 
- gift_of_flesh_perk_name: "Don de chair" #NT!
- scent_of_changing_blood_perk_name: "Parfum de sang changeant" #NT!
- sun_and_moon_signs_perk_name: "Signes du Soleil et de la Lune" #NT!
- ties_of_destiny_perk_name: "Les liens du destin" #NT!
- hathors_blessing_perk_name: "La bénédiction d'Hathor" #NT!
- strength_of_the_brazen_bull_perk_name: "Force du taureau d'airain" #NT!
- finding_the_blood_perk_name: "Trouver le sang" #NT!
- form_of_the_land_titan_perk_name: "Forme du Titan terrestre" #NT!
- mercy_for_the_misbegotten_perk_name: "Miséricorde pour les mal engendrés" #NT!
-  
-  #Gifts : Camazotz 
- private_whispers_perk_name: "Chuchotements privés" #NT!
- shadow_skin_perk_name: "Peau d'ombre" #NT!
- bloodletting_bite_perk_name: "Morsure saignante" #NT!
- into_the_sun_perk_name: "Dans le soleil" #NT!
- lunas_favor_perk_name: "La faveur de Luna" #NT!
- bats_shriek_perk_name: "Le cri de la chauve-souris" #NT!
- blinding_spittle_perk_name: "Crachat aveuglant" #NT!
- thousand_wings_form_perk_name: "Forme mille ailes" #NT!
- night_carried_messages_perk_name: "Messages portés la nuit" #NT!
- reading_the_dark_heart_perk_name: "Lire le cœur noir" #NT!
- shadows_of_mictlan_perk_name: "Les ombres de Mictlán" #NT!
-  
-  #Gifts : Grondr 
- root_perk_name: "Racine" #NT!
- taint_eating_perk_name: "Manger des souillures" #NT!
- furrow_perk_name: "Sillon" #NT!
- thunderous_charge_perk_name: "Charge tonitruante" #NT!
- cleansing_tusks_perk_name: "Défenses nettoyantes" #NT!
- uproot_perk_name: "Déraciner" #NT!
- taint_evaporation_perk_name: "Évaporation des contaminants" #NT!
- touch_of_restoration_perk_name: "Touche de restauration" #NT!
- manifesting_the_lands_wounds_perk_name: "Manifester les blessures de la terre" #NT!
+    #Choleric: Potence
+    lethal_body_perk_name: "Corps mortel"
+    soaring_leap_perk_name: "Saut en flèche"
+    prowess_perk_name: "Prouesse"
+    brutal_feed_perk_name: "Alimentation brutale"
+    spark_of_rage_perk_name: "Étincelle de rage"
+    uncanny_grip_perk_name: "Prise étrange"
+    draught_of_might_perk_name: "Brouillon de puissance"
+    earthshock_perk_name: "Choc terrestre"
+    fist_of_caine_perk_name: "Poing de Caïn"
+    potenceadvanced_perk_name: "Puissance avancée"
+    relentless_pursuit_perk_name: "Poursuite implacable"
+    crush_perk_name: "Écraser"
+    fist_of_the_titans_perk_name: "Poing des Titans"
+    the_forgers_hammer_perk_name: "Le marteau du faussaire"
+    lend_the_supernatural_vigor_perk_name: "Donnez la vigueur surnaturelle"
+    might_of_the_heroes_perk_name:
+        "La puissance des héros"
+
+        #Choleric: Celerity
+    cats_grace_perk_name: "Grâce aux chats"
+    rapid_reflexes_perk_name: "Réflexes rapides"
+    fleetness_perk_name: "Flotte"
+    blink_perk_name: "Clignoter"
+    traversal_perk_name: "Traversée"
+    draught_of_elegance_perk_name: "Brouillon d'élégance"
+    unerring_aim_perk_name: "Objectif infaillible"
+    lightning_strike_perk_name: "Coup de foudre"
+    split_second_perk_name: "Fraction de seconde"
+    celerityadvanced_perk_name: "Célérité avancée"
+    precision_perk_name: "Précision"
+    tireless_tread_perk_name: "Bande de roulement infatigable"
+    quickness_perk_name: "Rapidité"
+    physical_defiance_perk_name: "Défi physique"
+    time_out_of_time_perk_name: "Temps hors du temps"
+    between_the_ticks_perk_name:
+        "Entre les tiques"
+
+        #Choleric: Vicissitude
+    malleable_visage_perk_name: "Visage malléable"
+    transmogrify_the_mortal_clay_perk_name: "Transmogrifier l'argile mortelle"
+    rend_the_osseous_frame_perk_name: "Déchirez le cadre osseux"
+    awaken_the_zulo_shape_perk_name: "Réveillez la forme Zulo"
+    protean_flesh_perk_name: "Chair protéiforme"
+    bloodform_perk_name: "Forme de sang"
+    the_body_impolitic_perk_name: "Le corps impolitique"
+    vicissitudeadvanced_perk_name: "Vicissitude avancée"
+    chiropteran_marauder_perk_name: "Maraudeur chiroptère"
+    living_testudo_perk_name: "Testudo vivant"
+    liquefy_the_mortal_coil_perk_name: "Liquéfier la bobine mortelle"
+    will_over_form_perk_name: "La volonté sur la forme"
+    oathbreaker_perk_name: "Briseur de serment"
+    the_last_dracul_perk_name:
+        "Le dernier Dracul"
+
+        #Melancholy: Fortitude
+    resilence_perk_name: "Résilience"
+    unswayable_mind_perk_name: "Esprit inébranlable"
+    toughness_perk_name: "Dureté"
+    enduring_beasts_perk_name: "Bêtes endurantes"
+    defy_bane_perk_name: "Défier le fléau"
+    fortify_the_inner_facade_perk_name: "Fortifier la façade intérieure"
+    draught_of_endurance_perk_name: "Brouillon d'endurance"
+    spiritual_reservoir_perk_name: "Réservoir spirituel"
+    flesh_of_marble_perk_name: "Chair de marbre"
+    prowess_from_pain_perk_name: "Prouesse face à la douleur"
+    fortitudeadvanced_perk_name: "Courage avancé"
+    blessing_of_vitality_perk_name: "Bénédiction de vitalité"
+    knights_bane_perk_name: "Le Fléau du Chevalier"
+    curse_the_laurel_perk_name: "Maudit le laurier"
+    wrath_of_the_martyr_perk_name: "La colère du martyr"
+    armoured_flesh_perk_name: "Chair blindée"
+    resilient_mind_perk_name:
+        "Esprit résilient"
+
+        #Melancholicy: Obfuscate
+    cloak_of_shadows_perk_name: "Cape des ombres"
+    silence_of_death_perk_name: "Silence de mort"
+    unseen_passage_perk_name: "Passage invisible"
+    mask_of_a_thousand_faces_perk_name: "Masque aux mille visages"
+    ghost_in_the_machine_perk_name: "Fantôme dans la machine"
+    conceal_perk_name: "Cacher"
+    vanish_perk_name: "Disparaître"
+    cloak_the_gathering_perk_name: "Masquer le rassemblement"
+    impostors_guise_perk_name: "Le déguisement de l'imposteur"
+    obfuscateadvanced_perk_name: "Obscurcissement avancé"
+    mask_of_janus_perk_name: "Masque de Janus"
+    veil_the_legions_perk_name: "Voilez les Légions"
+    visit_faerieland_perk_name: "Visitez le Pays des Fées"
+    horrid_countenance_perk_name: "Visage horrible"
+    old_friend_perk_name: "Vieil ami"
+    create_name_perk_name:
+        "Créer un nom"
+
+        #Melancholy: Visceratika
+    skinofchameleon_perk_name: "Peau du caméléon"
+    scrythehearthstone_perk_name: "Scryer le Hearthstone"
+    bondwiththemountain_perk_name: "Lien avec la Montagne"
+    armorofterra_perk_name: "Armure de Terra"
+    flowwiththemountain_perk_name: "Couler avec la montagne"
+    visceratikaadvanced_perk_name: "Viscératika avancé"
+    darkstatue_perk_name: "Statue sombre"
+    rockheart_perk_name: "Coeur de roche"
+    crawlingchamber_perk_name:
+        "Chambre rampante"
+
+        #Melancholy: Chimerstry
+    ignis_fatuus_perk_name: "Ignis Fatuus"
+    fata_morgana_perk_name: "Morgana"
+    dweomer_perk_name: "Dweomer"
+    apparition_perk_name: "Apparition"
+    permanency_perk_name: "Permanence"
+    horrid_reality_perk_name: "Horrible réalité"
+    chimerstryadvanced_perk_name: "Chimie avancée"
+    horrid_blade_of_the_demons_perk_name: "Horrible lame des démons"
+    mass_horror_perk_name: "Horreur de masse"
+    aid_of_the_gandharvas_perk_name: "Aide des Gandharvas"
+    mirros_visage_perk_name: "Visage du miroir"
+    pseudo_blindness_perk_name: "Pseudo-cécité"
+    sensory_deprivation_perk_name:
+        "Privation sensorielle"
+
+        #Melancholy: Bardo
+    restore_humanitas_perk_name: "Restaurer l’humanité"
+    banishing_sign_of_thoth_perk_name: "Bannissement du signe de Thot"
+    gift_of_apis_perk_name: "Don d'Apis"
+    pillar_of_osiris_perk_name: "Pilier d'Osiris"
+    paradox_perk_name: "Paradoxe"
+    bardoadvanced_perk_name: "Bardo Avancé"
+    boon_of_anubis_perk_name: "Bénédiction d'Anubis"
+    bring_forth_the_dawn_perk_name: "Faire naître l'aube"
+    mummification_ritual_perk_name: "Rituel de momification"
+    ras_blessing_perk_name:
+        "La bénédiction de Ra"
+
+        #Melancholy: Necromancy
+    cappadociannecromancyadvanced_perk_name: "Nécromancie cappadocienne avancée"
+    giovanninecromancyadvanced_perk_name: "Nécromancie avancée de Giovanni"
+    harbingernecromancyadvanced_perk_name: "Nécromancie avancée des Harbingers"
+    lamianecromancyadvanced_perk_name: "Nécromancie Lamia avancée"
+    impundulunecromancyadvanced_perk_name: "Nécromancie Impundulu avancée"
+    nagarajanecromancyadvanced_perk_name: "Nécromancie Nagaraja avancée"
+    insight_perk_name: "Regarder à travers le Linceul"
+    summon_soul_perk_name: "Invoquer une âme"
+    compel_soul_perk_name: "Contraindre l'âme"
+    haunting_perk_name: "Hanté"
+    torment_perk_name: "Tourmenter"
+    seal_of_abamixtra_perk_name: "Sceau d'Abamixtra"
+    awaken_the_homoncular_servant_perk_name: "Réveillez le serviteur homonculaire"
+    shambling_hordes_perk_name: "Hordes traînantes"
+    soul_stealing_perk_name: "Exorcisme funeste"
+    necromancy_possession_perk_name: "Possession démoniaque"
+    shroudsight_perk_name: "Linceul"
+    lifeless_tongues_perk_name: "Langue des Royaumes Ténèbres"
+    touch_the_nether_perk_name: "Touchez le Nether"
+    ex_nihilo_perk_name: "Ex nihilo"
+    shroud_mastery_perk_name: "Maîtrise du Linceul"
+    necromancy_ashes_to_ashes_perk_name: "Cendres aux cendres"
+    rigor_mortis_perk_name: "Rigidité cadavérique"
+    ashen_ladys_embrace_perk_name: "Étreinte de la dame cendrée"
+    gift_of_melancholia_perk_name: "Don de mélancolie"
+    necromancy_dust_to_dust_perk_name: "La poussière à la poussière"
+    mortuus_in_vultus_perk_name: "Mortuus dans Vultus"
+    algor_mortis_perk_name: "Algor Mortis"
+    intimations_of_mortality_perk_name: "Indications de mortalité"
+    benedictio_mortem_perk_name: "Benoît Mortem"
+    benedictio_vitae_perk_name: "Benedictio Vitae"
+    calvaria_emissius_perk_name: "Calvaria Emissus"
+    consilium_mortuus_perk_name: "Consilium Mortuus"
+    ammorsus_vicarius_perk_name: "Ammorsus Vicaire"
+    exedo_animus_perk_name: "Exedo Animus"
+    degulo_perk_name: "Dégulo"
+    whispers_of_the_soul_perk_name: "Murmures de l'âme"
+    kiss_of_the_dark_mother_perk_name: "Baiser de la Mère Noire"
+    dark_humours_perk_name: "Humeurs noires"
+    caul_of_the_neverborn_perk_name: "Caul du jamais-né"
+    lament_of_dhainu_perk_name: "Lamentation de D'hainu"
+    tend_the_body_garden_perk_name: "Entretenir le jardin du corps"
+    witchs_fruit_perk_name: "Fruit de la sorcière"
+    raise_the_green_one_perk_name: "Élevons le vert"
+    wails_and_whispers_perk_name: "Lamentations et murmures"
+    cthonic_womb_perk_name: "Ventre Chthonien"
+    eyes_of_the_wraith_perk_name: "Les yeux du spectre"
+    aura_of_decay_perk_name: "Aura de décomposition"
+    soul_feasting_perk_name: "La fête de Pischacha"
+    curse_of_the_maelstrom_perk_name: "Malédiction du Maelström"
+    nightcry_perk_name: "Cri de nuit"
+    song_of_the_dead_perk_name: "Chanson des morts"
+    summon_wisp_perk_name: "Invoquer un feu follet"
+    harrowing_perk_name: "Poignant"
+    phantasms_perk_name: "Fantasmes"
+    spectral_menacing_perk_name: "Menaçant spectral"
+    touch_of_death_perk_name: "Toucher de la mort"
+    reveal_the_catene_perk_name: "Révéler la Catène"
+    tread_upon_the_grave_perk_name: "Marchez sur la tombe"
+    death_knell_perk_name: "Le glas"
+    ephemeral_binding_perk_name:
+        "Reliure éphémère"
+
+        #Phlegmatic: Auspex
+    heightened_senses_perk_name: "Sens accrus"
+    sense_the_unseen_perk_name: "Ressentez l'invisible"
+    premonition_perk_name: "Prémonition"
+    scry_the_soul_perk_name: "Scry l'âme"
+    share_the_senses_perk_name: "Partagez les sens"
+    spirits_touch_perk_name: "Toucher les esprits"
+    clairvoyance_perk_name: "Voyance"
+    telepathy_perk_name: "La télépathie"
+    psychic_projection_perk_name: "Projection psychique"
+    auspexadvanced_perk_name: "Auspex avancé"
+    discern_the_aura_perk_name: "Discerner l'Aura"
+    the_mind_revealed_perk_name: "L'esprit révélé"
+    personality_metamorph_perk_name: "Métamorphose de la personnalité"
+    supernal_awareness_perk_name: "Conscience Suprême"
+    omniscience_perk_name: "Omniscience"
+    master_of_the_dom_perk_name:
+        "Maître du Dom"
+
+        #Phlegmatic: Dominate
+    cloud_memory_perk_name: "Mémoire cloud"
+    compel_perk_name: "Contraindre"
+    mesmerize_perk_name: "Hypnotiser"
+    dementation_perk_name: "Démence"
+    the_forgetful_mind_perk_name: "L'esprit oublieux"
+    submerged_directive_perk_name: "Directive submergée"
+    SCHEME_SUBMERGED_DIRECTIVE: "[GetPerk('submerged_directive_perk').GetName(GetPlayer)] : $VALUE|+0=$"
+    rationalize_perk_name: "Rationaliser"
+    mass_manipulation_perk_name: "Manipulation de masse"
+    terminal_decree_perk_name: "Décret terminal"
+    deep_memories_perk_name: "Souvenirs profonds"
+    conditioning_perk_name: "Conditionnement"
+    dominateadvanced_perk_name: "Domination avancée"
+    will_conquers_perk_name: "Va conquérir"
+    rewrite_personality_perk_name: "Réécrire la personnalité"
+    concord_of_submission_perk_name: "Concorde de soumission"
+    mold_humours_perk_name: "Humeurs de moisissures"
+    speak_through_the_blood_perk_name:
+        "Parlez à travers le sang"
+
+        #Phlegmatic: Temporis
+    time_sense_perk_name: "Sens du temps"
+    internal_recursion_perk_name: "Récursion interne"
+    ramble_on_perk_name: "Promenez-vous"
+    lapse_perk_name: "Laps"
+    cowalker_perk_name: "Cowalker"
+    subjective_suspension_perk_name: "Suspension subjective"
+    clothos_gift_perk_name: "Le cadeau de Clotho"
+    frozen_object_perk_name: "Objet gelé"
+    temporisadvanced_perk_name: "Temporis avancés"
+    temporis_insight_perk_name: "Aperçu"
+    kiss_of_lachesis_perk_name: "Baiser de Lachesis"
+    hall_of_hades_court_perk_name: "Salle de la cour d'Hadès"
+    clios_kiss_perk_name: "Le baiser de Clio"
+    temporal_understanding_perk_name: "Compréhension temporelle"
+    summon_history_perk_name:
+        "Historique d'invocation"
+
+        #Phlegmatic: Dementation
+    incubus_passion_perk_name: "Passion Incube"
+    passion_perk_name: "Passion"
+    the_haunting_perk_name: "La hantise"
+    eyes_of_chaos_perk_name: "Les yeux du chaos"
+    silence_the_sane_mind_perk_name: "Faire taire l'esprit sain d'esprit"
+    fire_voice_perk_name: "Voix de feu"
+    total_insanity_perk_name: "Folie totale"
+    dementationadvanced_perk_name: "Démence avancée"
+    stain_the_soul_perk_name: "Tache l'âme"
+    childmind_perk_name: "Garde d'enfants"
+    cobble_the_road_perk_name: "Paver la route"
+    prison_of_the_mind_perk_name: "Prison de l'esprit"
+    lunatic_eruption_perk_name: "Éruption lunatique"
+    touch_of_the_saints_perk_name:
+        "Toucher des Saints"
+
+        #Phlegmatic: Dementation
+    the_missing_voice_perk_name: "La voix manquante"
+    phantom_speaker_perk_name: "Haut-parleur fantôme"
+    toreadors_bane_perk_name: "Le Fléau du Toréador"
+    madrigal_perk_name: "Madrigal"
+    sirens_beckoning_perk_name: "Le signe de la sirène"
+    mosh_pit_perk_name: "Fosse Mosh"
+    primal_scream_perk_name: "Cri primal"
+    melpomineeadvanced_perk_name: "Melpominee avancé"
+    blessed_audience_perk_name: "Public béni"
+    shattering_crescendo_perk_name: "Crescendo fracassant"
+    persistent_echo_perk_name: "Écho persistant"
+    haunting_melody_perk_name: "Mélodie obsédante"
+    calling_song_perk_name:
+        "Chanson d'appel"
+
+        #Sanguine: Blood Sorcery
+    corrosive_vitae_perk_name: "Vie corrosive"
+    a_taste_of_blood_perk_name: "Un goût de sang"
+    extinguish_vitae_perk_name: "Éteindre Vitae"
+    blood_of_potency_perk_name: "Sang de puissance"
+    scorpions_touch_perk_name: "Le contact du scorpion"
+    theft_of_vitae_perk_name: "Vol de Vitae"
+    baals_curse_perk_name: "La malédiction de Baal"
+    cauldron_of_blood_perk_name: "Chaudron de sang"
+    bloodsorceryadvanced_perk_name:
+        "Sorcellerie de sang avancée"
+
+        #Sanguine: Presence
+    awe_perk_name: "Admiration"
+    daunt_perk_name: "Décourager"
+    eyes_of_the_serpent_perk_name: "Les yeux du serpent"
+    lingering_kiss_perk_name: "Baiser persistant"
+    dread_gaze_perk_name: "Regard d'effroi"
+    entrancement_perk_name: "Entrée"
+    irresistable_voice_perk_name: "Voix irrésistible"
+    summon_perk_name: "Convoquer"
+    majesty_perk_name: "Majesté"
+    presenceadvanced_perk_name: "Présence avancée"
+    ironclad_command_perk_name: "Commandement à toute épreuve"
+    cooperation_perk_name: "Coopération"
+    phobia_perk_name: "Phobie"
+    mask_of_empathy_perk_name: "Masque d'empathie"
+    bloodlust_perk_name: "Soif de sang"
+    perfect_world_perk_name:
+        "Monde parfait"
+
+        #Animal: Protean
+    eyes_of_the_beast_perk_name: "Les yeux de la bête"
+    weight_of_the_feather_perk_name: "Poids de la plume"
+    feral_weapons_perk_name: "Armes sauvages"
+    earth_meld_perk_name: "Fusion de la Terre"
+    shapechange_perk_name: "Changement de forme"
+    metamorphosis_perk_name: "Métamorphose"
+    mist_form_perk_name: "Forme de brume"
+    the_unfettered_heart_perk_name: "Cœur sans entrave"
+    proteanadvanced_perk_name: "Protéen avancé"
+    adaptability_perk_name: "Adaptabilité"
+    homunculus_perk_name: "Homunculus"
+    turnabout_perk_name: "Demi-tour"
+    mythic_form_perk_name: "Forme mythique"
+    adaptation_perk_name: "Adaptation"
+    draught_of_phoenix_blood_perk_name:
+        "Brouillon de sang de phénix"
+
+        #Animal: Animalism
+    bond_famulus_perk_name: "Famille d'obligations"
+    sense_the_beast_perk_name: "Sentez la bête"
+    feral_whispers_perk_name: "Murmures sauvages"
+    animal_succulence_perk_name: "Succulence animale"
+    quell_the_beast_perk_name: "Réprimer la bête"
+    call_of_the_wild_perk_name: "Appel de la nature"
+    subsume_the_spirit_perk_name: "Subsumer l'Esprit"
+    unliving_hive_perk_name: "Ruche non-vivante"
+    tongue_of_beasts_perk_name: "La langue des bêtes"
+    drawing_out_the_beast_perk_name: "Dessiner la bête"
+    animal_dominion_perk_name: "Domination animale"
+    send_the_eighth_plague_perk_name: "Envoyez la huitième peste"
+    crimson_fury_perk_name: "Fureur cramoisie"
+    eyes_of_the_forest_perk_name: "Les yeux de la forêt"
+    plague_of_beasts_perk_name: "Peste des bêtes"
+    animalismadvanced_perk_name:
+        "Animalisme avancé"
+
+        #Melancholy: Obtenebration
+    eyes_of_the_abyss_perk_name: "Les yeux de l'abîme"
+    shadow_play_perk_name: "Théâtre d'ombres"
+    nocturne_perk_name: "Nocturne"
+    night_shades_perk_name: "Nuances de nuit"
+    arms_of_ahriman_perk_name: "Armes d'Ahriman"
+    tenebrous_avatar_perk_name: "Avatar ténébreux"
+    the_darkness_within_perk_name: "L'obscurité intérieure"
+    oubliette_perk_name: "Oubliette"
+    walk_the_abyss_perk_name: "Parcourez les abysses"
+    dark_whispers_perk_name: "Murmures sombres"
+    drain_the_life_perk_name: "Vider la vie"
+    god_in_darkness_perk_name: "Dieu dans les ténèbres"
+    obtenebrationadvanced_perk_name: "Obténébration avancée"
+    shadowstep_perk_name: "Pas de l'Ombre"
+    aegis_of_shadows_perk_name: "Égide des ombres"
+    shadow_twin_perk_name: "Jumeau de l'Ombre"
+    darksight_perk_name: "Vision sombre"
+    devour_all_hope_perk_name: "Dévorer tout espoir"
+    ahrimans_demesne_perk_name:
+        "Domaine d'Ahriman"
+
+        #Animal: Spiritus
+
+    speak_with_spirits_perk_name: "Parler avec les esprits"
+    aid_from_spirits_perk_name: "Aide des esprits"
+    summon_spirit_beasts_perk_name: "Invoquer des bêtes spirituelles"
+    aspect_of_the_beast_perk_name: "Aspect de la bête"
+    engling_fury_perk_name: "Fureur anglaise"
+    beastly_hunger_perk_name: "Faim bestiale"
+    the_wild_beast_perk_name: "La bête sauvage"
+    spiritusadvanced_perk_name: "Spiritus avancé"
+    the_spirit_beast_perk_name:
+        "La bête spirituelle"
+
+        #Animal: Abombwe
+
+    predators_communion_perk_name: "Communion du prédateur"
+    invoking_the_predator_perk_name: "Invoquer le prédateur"
+    taming_the_beast_perk_name: "Apprivoiser la bête"
+    unseen_hibernation_perk_name: "Hibernation invisible"
+    whistling_up_the_beast_perk_name: "Siffler la bête"
+    power_from_darkness_perk_name: "Le pouvoir des ténèbres"
+    predators_transformation_perk_name: "Transformation du prédateur"
+    stalking_darkness_perk_name: "Traquer les ténèbres"
+    predators_mastery_perk_name: "Maîtrise du prédateur"
+    incarnate_darkness_perk_name: "Ténèbres incarnées"
+    abombweadvanced_perk_name:
+        "Abombwe Avancé"
+
+        #Choleric: Valeren
+
+    obeah_panacea_perk_name: "Panacée"
+    sense_death_perk_name: "Ressentir la mort"
+    sense_cycle_perk_name: "Cycle sensoriel"
+    auguring_the_sickness_perk_name: "Augmentation de la maladie"
+    gift_of_sleep_perk_name: "Don de sommeil"
+    peaceful_touch_perk_name: "Toucher paisible"
+    healers_touch_perk_name: "Toucher du guérisseur"
+    neutral_guard_perk_name: "Garde neutre"
+    burning_touch_perk_name: "Toucher brûlant"
+    pariahs_caress_perk_name: "La caresse du paria"
+    king_davids_blessing_perk_name: "La bénédiction du roi David"
+    shepherds_watch_perk_name: "Montre de berger"
+    armor_of_caines_fury_perk_name: "Armure de la fureur de Caïn"
+    watcher_peacemaker_perk_name: "Pacificateur"
+    unburden_the_bestial_soul_perk_name: "Déchargez l'âme bestiale"
+    ending_the_watch_perk_name: "Mettre fin à la surveillance"
+    vengeance_of_samiel_perk_name: "La vengeance de Samiel"
+    souls_breath_perk_name: "Le souffle de l'âme"
+    healervalerenadvanced_perk_name: "Valeren, guérisseur avancé"
+    warriorvalerenadvanced_perk_name: "Guerrier avancé Valren"
+    watchervalerenadvanced_perk_name: "Observateur avancé Valren"
+    fathers_judgement_perk_name: "Le jugement du père"
+    repulsion_perk_name: "Répulsion"
+    rayzeels_song_perk_name: "La chanson de Rayzeel"
+    heavens_gate_perk_name: "La porte du Paradis"
+    blissful_agony_perk_name: "Agonie bienheureuse"
+    sword_of_the_righteous_perk_name: "Épée des Justes"
+    song_of_the_blooded_perk_name: "Chanson des Sanglants"
+    safe_passage_perk_name: "Passage sûr"
+    aversion_perk_name: "Aversion"
+    watcher_purification_perk_name: "Purification"
+    watcher_soul_exchange_perk_name:
+        "Échange d'âmes"
+
+        #Sanguine: Quietus
+
+    sorcerer_silence_of_death_perk_name: "Silence de mort"
+    scorpions_curse_perk_name: "La malédiction du scorpion"
+    sorcerer_dagons_call_perk_name: "L'appel de Dagon"
+    sorcerer_baals_caress_perk_name: "La caresse de Baal"
+    taste_of_death_perk_name: "Goût de la mort"
+    warrior_silence_of_death_perk_name: "Silence de mort"
+    blood_essence_perk_name: "Essence de sang"
+    warrior_scorpions_touch_perk_name: "Le contact du scorpion"
+    warrior_dagons_call_perk_name: "L'appel de Dagon"
+    warrior_baals_caress_perk_name: "La caresse de Baal"
+    quicken_the_mortals_blood_perk_name: "Accélérez le sang du mortel"
+    blood_tempering_perk_name: "Trempe du sang"
+    truth_of_blood_perk_name: "Vérité du sang"
+    ishtars_touch_perk_name: "Le contact d'Ishtar"
+    cleansed_in_blood_perk_name: "Purifié dans le sang"
+    ripples_of_the_heart_perk_name: "Ondulations du coeur"
+    blood_sweat_perk_name: "Sueur de sang"
+    taste_of_bliss_perk_name: "Goût du bonheur"
+    sorcererquietusadvanced_perk_name: "Sorcier avancé Quietus"
+    warriorquietusadvanced_perk_name: "Guerrier avancé Quietus"
+    vizierquietusadvanced_perk_name: "Vizir avancé Quietus"
+    quietus_purification_perk_name: "Purification"
+    thin_blood_perk_name: "Sang mince"
+    foul_blood_perk_name: "Sang fétide"
+    blood_of_destruction_perk_name: "Sang de destruction"
+    condemn_the_sins_of_the_father_perk_name: "Condamner les péchés du Père"
+    erosion_perk_name:
+        "Érosion"
+
+        #Sanguine: Mytherceria
+
+    fey_sight_perk_name: "Vue féerique"
+    folderol_perk_name: "Dossier"
+    fae_sight_perk_name: "Vue des fées"
+    darkling_trickery_perk_name: "La supercherie des ténèbres"
+    goblinism_perk_name: "Gobelinisme"
+    aura_absorption_perk_name: "Absorption d'aura"
+    chanjelin_ward_perk_name: "Quartier Chanjelin"
+    riddle_phantastique_perk_name: "Devinette Phantastique"
+    mytherceriaadvanced_perk_name: "Mythercérie avancée"
+    stone_travel_perk_name: "Voyage en pierre"
+    steal_the_mind_perk_name: "Voler l'esprit"
+    earth_sword_perk_name: "Épée de terre"
+    absorb_the_mind_perk_name: "Absorber l'esprit"
+    basilisks_touch_perk_name:
+        "Toucher du basilic"
+
+        #Faith: True Faith
+    dominus_vobiscum_perk_name: "Dominus Vobiscum"
+    intercession_perk_name: "Intercession"
+    holy_bulwark_perk_name: "Rempart sacré"
+    lay_of_hands_perk_name: "Imposer les mains"
+    penance_perk_name: "Pénitence"
+    conversion_perk_name: "Conversion"
+    shield_of_faith_perk_name: "Bouclier de foi"
+    beatific_perk_name:
+        "Béatifique"
+
+        #Holy Arts: Sophia Patris
+
+    pry_open_perk_name: "Pry ouvrez l'œil de l'esprit"
+    unwavering_vision_perk_name: "Vision inébranlable"
+    unearth_perk_name: "Dénicher"
+    lifting_the_veil_perk_name: "Lever le voile des mensonges"
+    revelation_perk_name:
+        "Révélation"
+
+        #Holy Arts: Sedulitas Filius
+
+    sunder_perk_name: "Séparer"
+    censure_perk_name: "Censurer"
+    gods_armour_perk_name: "L'armure de Dieu"
+    rod_and_staff_perk_name: "Canne et bâton"
+    wrath_of_god_perk_name:
+        "Colère de Dieu"
+
+        #Holy Arts: Boni Spiritus
+
+    tears_of_the_martyr_perk_name: "Les larmes du martyr"
+    touch_of_peace_perk_name: "Touche de paix"
+    aura_of_sanctity_perk_name: "Aura de sainteté"
+    restoration_perk_name: "Restauration"
+    judgement_of_heaven_perk_name:
+        "Jugement du Ciel"
+
+        #Endowments: Oculi Dei
+    oculi_shepherd_perk_name: "Berger céleste"
+    oculi_sight_perk_name: "Seconde vue"
+    oculi_liturgy_perk_name: "Divine Liturgie"
+    oculi_trust_perk_name: "J'ai confiance en toi"
+    oculi_wine_perk_name:
+        "De l'eau au vin"
+
+        #Endowments: Knights of Acre
+    acre_catechumen_perk_name: "Catéchumène"
+    acre_flesh_perk_name: "Transfiguration de la chair"
+    acre_flight_perk_name: "Vol des anges"
+    acre_resurrection_perk_name: "Esprit de Résurrection"
+    acre_auto_perk_name:
+        "Auto da Fé"
+
+        #Endowments: House Murnau
+    murnau_knowledge_perk_name: "Connaissance interdite"
+    murnau_oblige_perk_name: "Noblesse oblige"
+    murnau_wreathed_perk_name: "Auréolé d'ombres"
+    murnau_mirror_perk_name: "Miroir du Mal"
+    murnau_arcana_perk_name:
+        "Arcanes"
+
+        #Endowments: Sisters of St John
+    sisters_gospel_perk_name: "Gospel"
+    sisters_lux_perk_name: "Fiat Lux"
+    sisters_chorale_perk_name: "Choral"
+    sisters_hosanna_perk_name: "Hosanna"
+    sisters_oratorio_perk_name:
+        "Oratorio"
+
+        #Endowments: Red Order
+    red_vigil_perk_name: "Vigilance bénie"
+    red_sunstone_perk_name: "Pierre de soleil"
+    red_march_perk_name: "Marche forcée"
+    red_fortunes_perk_name: "Fortunes de guerre"
+    red_forge_perk_name:
+        "Forge de Dieu"
+
+        #Godbody: Metal
+    the_bright_metal_sheet_perk_name: "La tôle brillante"
+    metal_within_perk_name: "Métal à l'intérieur"
+    dark_metal_self_perk_name: "Soi en métal sombre"
+    metal_rain_perk_name: "Pluie de métal"
+    yin_metal_soul_perk_name:
+        "Âme métallique Yin"
+
+        #Godbody: Wood
+    pruning_the_self_perk_name: "Se tailler soi-même"
+    transplanting_the_self_perk_name: "Transplanter soi-même"
+    the_world_garden_perk_name: "Le jardin du monde"
+    the_vital_command_perk_name: "Le commandement vital"
+    the_spark_of_life_perk_name:
+        "L'étincelle de la vie"
+
+        #Godbody: Water
+    command_the_flow_in_self_perk_name: "Commandez le flux en vous-même"
+    command_the_flow_in_others_perk_name: "Contrôlez le flux chez les autres"
+    the_self_of_water_perk_name: "Le Soi de l'Eau"
+    the_water_lash_perk_name: "Le fouet d'eau"
+    the_soul_tide_perk_name:
+        "La marée de l'âme"
+
+        #Godbody: Fire
+    fire_in_the_eye_perk_name: "Le feu dans les yeux"
+    fire_in_the_hand_perk_name: "Le feu dans la main"
+    self_in_the_fire_perk_name: "Soi dans le feu"
+    draining_the_fire_perk_name: "Vider le feu"
+    the_tempered_soul_perk_name:
+        "L'âme tempérée"
+
+        #Godbody: Earth
+    understanding_with_the_earth_perk_name: "Comprendre avec la Terre"
+    harmony_with_the_earth_perk_name: "Harmonie avec la Terre"
+    unity_with_the_earth_perk_name: "Unité avec la Terre"
+    moving_with_the_earth_perk_name: "Se déplacer avec la Terre"
+    the_elemental_self_perk_name:
+        "Le Soi Élémentaire"
+
+        #Shintai: Bone
+    corpse_skin_perk_name: "Peau de cadavre"
+    white_tiger_corpse_perk_name: "Cadavre du Tigre Blanc"
+    bone_obedience_perk_name: "Obéissance osseuse"
+    five_poison_cloud_perk_name: "Nuage de cinq poisons"
+    ching_shih_perk_name: "Ch'ing Shih"
+    ikehone_perk_name: "Ikéhone"
+    skeletal_sculpting_perk_name: "Sculpture squelettique"
+    corpse_awakening_perk_name: "L'éveil du cadavre"
+    form_of_infernal_favor_perk_name:
+        "Forme de faveur infernale"
+
+        #Shintai: Flesh
+    long_neck_perk_name: "Long cou"
+    detach_limb_perk_name: "Détacher le membre"
+    lotus_breath_perk_name: "Souffle de Lotus"
+    pelesit_perk_name: "Pelesit"
+    ten_thousand_forms_perk_name: "Dix mille formes"
+    body_of_the_mouse_perk_name: "Corps de la souris"
+    body_of_the_serpent_perk_name: "Corps du Serpent"
+    bloat_perk_name: "Gonfler"
+    unchaining_the_form_perk_name:
+        "Libérer le formulaire"
+
+        #Shintai: Blood
+    permeate_perk_name: "Pénétrer"
+    blood_atemi_perk_name: "Atemi de sang/Crachement de sang"
+    flow_like_blood_perk_name: "Couler comme le sang"
+    bloodlash_perk_name: "Coup de sang"
+    blood_awakening_perk_name: "L'éveil du sang"
+    blood_blade_perk_name: "Lame de sang"
+    blood_of_the_scorpion_perk_name: "Sang du Scorpion"
+    corruption_of_the_blood_perk_name: "Corruption du sang"
+    blood_leeching_perk_name:
+        "Sangsue de sang"
+
+        #Shintai: Ghost-Flame
+    goblin_face_perk_name: "Visage de gobelin"
+    goblin_spark_perk_name: "Étincelle gobeline"
+    goblin_shapes_perk_name: "Formes gobelines"
+    goblin_scorch_perk_name: "Brûlure des gobelins"
+    goblin_lantern_perk_name: "Lanterne gobeline"
+    goblin_sword_perk_name: "Épée gobeline"
+    goblin_portal_perk_name: "Portail gobelin"
+    goblin_call_perk_name: "Appel gobelin"
+    mantle_of_the_flame_emperor_perk_name:
+        "Manteau de l'Empereur de la Flamme"
+
+        #Shintai: Jade
+    stand_upon_the_dragons_back_perk_name: "Tenez-vous sur le dos du dragon"
+    tread_the_thrashing_dragons_tail_perk_name: "Marchez sur la queue du dragon battant"
+    placate_the_earth_dragon_perk_name: "Apaiser le dragon de terre"
+    harnessing_the_dragons_breath_perk_name: "Exploiter le souffle du dragon"
+    jade_servant_of_the_august_personage_perk_name: "Serviteur de Jade du personnage d'août"
+    stone_fish_perk_name: "Poisson pierre"
+    blade_of_stone_perk_name: "Lame de pierre"
+    taste_of_jade_perk_name: "Goût de Jade"
+    augment_perk_name:
+        "Augmenter"
+
+        #Chi arts: Yin prana
+    shrouded_moon_perk_name: "Lune enveloppée"
+    yin_mantle_perk_name: "Manteau Yin"
+    bone_dance_perk_name: "Danse des os"
+    eightfold_yin_mantle_perk_name: "Manteau Yin octuple"
+    semblance_of_the_ebon_dragon_perk_name: "Semblance du dragon d'ébène"
+    yin_shield_perk_name: "Yin Shield"
+    yin_nihilus_perk_name: "Yin Nihilus"
+    touch_of_rust_perk_name: "Touche de rouille"
+    iron_corpse_perk_name:
+        "Cadavre de fer"
+
+        #Chi arts: Yang prana
+    principle_of_motion_perk_name: "Principe du mouvement"
+    yang_mantle_perk_name: "Manteau Yang"
+    dragon_dance_perk_name: "Danse du dragon"
+    eightfold_yang_mantle_perk_name: "Manteau Yang octuple"
+    semblance_of_the_scalet_queen_perk_name: "Semblance de la reine écarlate"
+    yang_shield_perk_name: "Bouclier Yang"
+    yang_phoenix_perk_name: "Yang Phénix"
+    touch_of_corruption_perk_name: "Touche de corruption"
+    oaken_corpse_perk_name:
+        "Cadavre de chêne"
+
+        #Chi arts: Equilibrium
+    master_flow_perk_name: "Flux principal"
+    adjust_balance_perk_name: "Ajuster l'équilibre"
+    shift_the_balance_perk_name: "Changer l’équilibre"
+    chi_interrupt_perk_name: "Interruption du Chi"
+    chi_mastery_perk_name: "Maîtrise du Chi"
+    soothing_the_soul_perk_name: "Apaiser l'âme"
+    accentuate_chi_perk_name: "Accentuer le Chi"
+    opening_the_gates_perk_name: "Ouvrir les portes"
+    adjust_the_true_balance_perk_name:
+        "Ajustez le véritable équilibre"
+
+        #Chi arts: Tapestry
+    spirit_call_perk_name: "Appel spirituel"
+    chi_ward_perk_name: "Quartier Chi"
+    chi_shaping_perk_name: "Chi-Shaping"
+    ride_the_dragon_perk_name: "Chevauchez le dragon"
+    chi_rift_perk_name: "Faille du Chi"
+    celestial_needle_perk_name: "Aiguille céleste"
+    dragon_chariot_perk_name: "Char Dragon"
+    chi_castle_perk_name: "Château de Chi"
+    the_dragons_rapine_perk_name:
+        "La Rapine du Dragon"
+
+        #Chi arts: Feng Shui
+    wind_water_eye_perk_name: "Oeil d'eau et de vent"
+    broom_of_heaven_perk_name: "Balai du Ciel"
+    hand_of_darkness_perk_name: "Main des ténèbres"
+    inharmonious_aligment_perk_name: "Alignement inharmonieux"
+    fengshui_chi_ward_perk_name: "Quartier Chi"
+    beneficent_celestial_mirror_perk_name: "Miroir céleste bienfaisant"
+    dancing_spirits_perk_name: "Esprits dansants"
+    veil_of_defilement_perk_name: "Voile de souillure"
+    transcendend_portal_perk_name:
+        "Portail transcendantal"
+
+        #Soul arts: Chi'iu Muh
+    rasa_perk_name: "Rasa"
+    chi_sight_perk_name: "Chi vue"
+    dragon_ward_perk_name: "Garde du dragon"
+    purification_perk_name: "Purification"
+    spirit_eating_perk_name: "Mangeur d'esprit"
+    shield_of_the_soul_perk_name: "Bouclier de l'âme"
+    banking_the_fire_calming_the_waves_perk_name: "Encaisser le feu, calmer les vagues"
+    soul_taint_perk_name: "Souillure d'âme"
+    soul_exchange_perk_name:
+        "Échange d'âmes"
+
+        #Soul arts: Cultivation
+    scrutinize_perk_name: "Scruter"
+    cleave_the_demon_perk_name: "Couper le démon"
+    lash_the_demon_perk_name: "Fouetter le démon"
+    yoke_the_demon_perk_name: "joug le démon"
+    two_become_one_perk_name: "Deux deviennent un"
+    evocation_of_madness_perk_name: "Évocation de la folie"
+    degradation_perk_name: "Dégradation"
+    strengthening_the_demon_perk_name: "Renforcer le démon"
+    darkling_mirror_perk_name:
+        "Miroir sombre"
+
+        #Soul arts: Internalize
+    no_mind_perk_name: "Pas d'esprit"
+    blood_yoga_perk_name: "Yoga du sang"
+    distant_death_kata_perk_name: "Kata de mort lointaine"
+    iron_soul_perk_name: "Âme de fer"
+    harmony_with_the_all_perk_name: "Harmonie avec le Tout"
+    reaping_the_dragons_road_perk_name: "Récolter la route du dragon"
+    steel_soul_perk_name: "Âme d'acier"
+    armor_of_enlightenment_perk_name: "Armure de l'Illumination"
+    holding_the_green_demon_at_bay_perk_name:
+        "Tenir le démon vert à distance"
+
+        #Soul arts: Obligation
+    evaluate_perk_name: "Évaluer"
+    soul_bridge_perk_name: "Pont d'âme"
+    authority_perk_name: "Autorité"
+    thousand_hell_stare_perk_name: "Mille regards d'enfer"
+    soul_shackles_perk_name: "Chaînes d'âme"
+    taming_the_fire_perk_name: "Apprivoiser le feu"
+    corrupt_the_will_perk_name: "Corrompre la volonté"
+    voice_of_the_emperor_perk_name: "Voix de l'Empereur"
+    divine_fetters_perk_name:
+        "Entraves divines"
+
+        #Soul arts: Mibasham
+    the_lens_of_the_self_perk_name: "La lentille du soi"
+    porsdan_perk_name: "Pors'dan"
+    stepping_stones_perk_name: "Tremplins"
+    a_stumble_on_the_path_perk_name: "Un trébuchement sur le chemin"
+    riddle_of_maya_perk_name: "L'énigme de Maya"
+    veil_of_maya_perk_name: "Voile de Maya"
+    bakus_quandary_perk_name: "Le dilemme de Bakou"
+    beyond_the_door_perk_name: "Au-delà de la porte"
+    revisionist_reality_perk_name:
+        "Réalité révisionniste"
+
+        #Soul arts: Tzu Wei
+    fate_of_the_one_perk_name: "Le destin de l'Un"
+    joss_weaving_perk_name: "Tissage de Joss"
+    fate_of_the_wu_perk_name: "Le destin du Wu"
+    grand_dukes_theorem_perk_name: "Théorème du Grand-Duc"
+    realigning_the_stars_perk_name: "Réaligner les étoiles"
+    pantheon_of_ancestors_perk_name: "Panthéon des Ancêtres"
+    fate_of_the_court_perk_name: "Le sort de la Cour"
+    celestial_curse_perk_name: "Malédiction céleste"
+    substitution_of_the_twelve_perk_name:
+        "Remplacement des Douze"
+
+        #Demon arts: Black Wind
+    black_wind_1_perk_name: "Vent noir 1"
+    black_wind_2_perk_name: "Vent noir 2"
+    black_wind_3_perk_name: "Vent noir 3"
+    black_wind_4_perk_name: "Vent noir 4"
+    black_wind_5_perk_name: "Vent noir 5"
+    a_thousand_cuts_perk_name: "Mille coupures"
+    treading_the_tide_dragons_back_perk_name: "Marcher sur le dos du dragon des marées"
+    divine_whirlwind_perk_name: "Tourbillon divin"
+    transcending_po_perk_name:
+        "Transcender P'o"
+
+        #Demon arts: Demon Shintai
+    demon_shintai_1_perk_name: "Demon Shintai 1"
+    demon_shintai_2_perk_name: "Demon Shintai 2"
+    demon_shintai_3_perk_name: "Demon Shintai 3"
+    demon_shintai_4_perk_name: "Demon Shintai 4"
+    demon_shintai_5_perk_name: "Demon Shintai 5"
+    flesh_mastery_of_the_demon_form_perk_name: "Maîtrise de la chair de la forme démoniaque"
+    bone_mastery_of_the_demon_form_perk_name: "Maîtrise osseuse de la forme démoniaque"
+    blood_mastery_of_the_demon_form_perk_name: "Maîtrise du sang de la forme démoniaque"
+    jade_mastery_of_the_demon_form_perk_name:
+        "Maîtrise de Jade de la Forme Démon"
+
+        #Demon arts: Iron Mountain
+    iron_mountain_1_perk_name: "Montagne de fer 1"
+    iron_mountain_2_perk_name: "Montagne de fer 2"
+    iron_mountain_3_perk_name: "Montagne de fer 3"
+    iron_mountain_4_perk_name: "Montagne de fer 4"
+    iron_mountain_5_perk_name: "Montagne de fer 5"
+    flaying_the_demon_perk_name: "Écorcher le démon"
+    torturous_transcendence_perk_name: "Transcendance tortueuse"
+    striking_the_fire_perk_name: "Atteindre le feu"
+    exalted_resilience_of_the_heavenly_perk_name:
+        "Résilience Exaltée du Céleste"
+
+        #Demon arts: Kiai
+    focusing_shout_perk_name: "Cri de concentration"
+    aspect_of_the_timid_sparrow_perk_name: "Aspect du moineau timide"
+    ngilai_perk_name: "Ngilaï"
+    the_song_of_the_tormented_soul_perk_name: "Le chant de l'âme tourmentée"
+    greater_ngilai_perk_name: "Grand Ngilaï"
+    cry_of_blood_perk_name: "Cri de sang"
+    tigers_roar_perk_name: "Le rugissement du tigre"
+    cry_of_the_phantasm_perk_name: "Cri du fantasme"
+    shout_opening_the_way_to_heaven_perk_name:
+        "Crier ouvrant la voie au paradis"
+
+        #Demon arts: Hellweaving
+    glimpse_of_yomi_perk_name: "Aperçu de Yomi"
+    razor_winds_perk_name: "Vents de rasoir"
+    favour_of_the_yama_kings_perk_name: "Faveur des rois Yama"
+    remembrance_of_yomi_perk_name: "Souvenir de Yomi"
+    weaving_the_yomi_world_perk_name:
+        "Tisser le monde Yomi"
+
+        #Alternate Techniques: Combo
+    taking_the_face_perk_name: "Prendre le visage"
+    blush_of_life_restored_perk_name: "Blush de vie restauré"
+    the_fire_which_illuminates_perk_name: "Le feu qui illumine"
+    clothed_in_life_perk_name:
+        "Vêtu de vie"
+
+        #Alternate Techniques: Boneflowers
+    gentle_yielding_perk_name: "Rendement doux"
+    taking_what_is_given_perk_name: "Prendre ce qui est donné"
+    spiders_blessing_perk_name: "La bénédiction de l'araignée"
+    bitter_yin_caress_perk_name: "Caresse amère du Yin"
+    bitter_yin_cloud_perk_name: "Nuage Yin amer"
+    dance_of_shiva_perk_name:
+        "Danse de Shiva"
+
+        #Alternate Techniques: Thrashing Dragons
+    gender_change_perk_name: "Changement de sexe"
+    fur_and_fangs_perk_name: "Fourrure et crocs"
+    thousand_lice_spies_perk_name: "Mille poux espions"
+    polong_perk_name: "Polong"
+    animal_form_dragon_dance_perk_name: "Danse du dragon sous forme animale"
+    eightfold_yang_barrier_perk_name:
+        "Barrière Yang octuple"
+
+        #Alternate Techniques: Prayer-Eating
+    hear_prayer_perk_name: "Écoutez la prière"
+    prayer_appraisal_perk_name: "Évaluation de la prière"
+    fulfill_prayer_perk_name: "Accomplissez la prière"
+    prayer_eating_perk_name: "Manger la prière"
+    unbreakable_soul_bonds_perk_name:
+        "Liens d'âme incassables"
+
+        #Alternate Techniques: Inward Way
+    inner_balance_perk_name: "Équilibre intérieur"
+    rest_upon_the_blade_perk_name: "Reposez-vous sur la lame"
+    scales_of_need_perk_name: "Échelles de besoin"
+    feed_the_soul_perk_name: "Nourrir l'âme"
+    flowing_with_the_down_perk_name:
+        "Couler avec le duvet"
+
+        #Alternate Techniques: Tempest of Inward Focus
+    swirling_winds_style_perk_name: "Style de vents tourbillonnants"
+    meditations_of_metal_perk_name: "Méditations de métal"
+    kata_of_mountain_fury_perk_name: "Kata de Fureur des Montagnes"
+    fighting_cloud_style_perk_name: "Combattre le style cloud"
+    illusion_shattering_strike_perk_name:
+        "Frappe briseant les illusions"
+
+        #Sanguine: Daimonion
+    sense_the_sin_perk_name: "Ressentir le péché"
+    fear_of_the_void_perk_name: "Peur du vide"
+    whispers_from_the_dark_perk_name: "Chuchotements du noir"
+    tormented_essence_perk_name: "Essence tourmentée"
+    blood_of_a_demon_perk_name: "Sang d'un démon"
+    devilish_charm_perk_name: "Charme diabolique"
+    as_below_so_above_perk_name: "Comme ci-dessous donc ci-dessus"
+    psychomachia_perk_name: "Psychomachie"
+    poisoned_virtue_perk_name: "Vertu empoisonnée"
+    kneel_before_my_throne_perk_name: "Agenouillez-vous devant mon trône"
+    face_hell_perk_name: "Affronter l'enfer"
+    dark_allure_perk_name: "Allure sombre"
+    advanceddaimonion_perk_name: "Démonion avancé"
+    adramelechs_wrath_perk_name: "La colère d'Adramelech"
+    master_of_subversion_perk_name: "Maître de la subversion"
+    lure_diabolik_perk_name: "Leurre Diabolik"
+    devils_hide_perk_name: "Peau du diable"
+
+    hell_lord_perk_name: "Seigneur de l'enfer"
+    investure_perk_name: "Investiture"
+    bring_the_plague_perk_name:
+        "Apportez la peste"
+
+        #Animal: Serpentis
+    enchanting_gaze_perk_name: "Regard enchanteur"
+    serpents_flesh_perk_name: "Chair de serpent"
+    typhonic_maw_perk_name: "Gueule Typhonique"
+    master_of_snakes_perk_name: "Maître des serpents"
+    form_of_the_snake_perk_name: "Forme du serpent"
+    typhonic_avatar_perk_name: "Avatar typhonique"
+    smooth_scales_perk_name: "Écailles lisses"
+    serpent_eyes_perk_name: "Yeux de serpent"
+    mother_of_monsters_perk_name: "Mère des monstres"
+    form_of_the_storm_perk_name: "Forme de la tempête"
+    echidnas_venom_perk_name: "Venin d'Échidné"
+    the_heart_of_darkness_perk_name: "Le cœur des ténèbres"
+    serpentisadvanced_perk_name: "Serpentis Avancé"
+    cobra_fangs_perk_name: "Crocs de cobra"
+    apophis_perk_name: "Apophis"
+    heart_thief_perk_name: "Voleur de coeur"
+    temptation_perk_name: "Tentation"
+    breath_of_the_basilisk_perk_name: "Souffle du basilic"
+    godhead_perk_name:
+        "Divinité"
+
+        # Qiao
+
+    celestial_punishment_perk_name: "Châtiment céleste"
+    divine_bindings_perk_name: "Liens divins"
+    heavenly_flames_perk_name: "Flammes célestes"
+    celestial_fires_perk_name: "Feux Célestes"
+    heavens_thunder_perk_name: "Le tonnerre du ciel"
+    steel_skin_perk_name: "Peau d'acier"
+    dragons_speed_perk_name: "Vitesse du dragon"
+    tigers_strength_perk_name: "La force du tigre"
+    celestial_eyes_perk_name: "Yeux célestes"
+    body_of_the_dragon_perk_name: "Corps du Dragon"
+    opened_eyes_perk_name: "Yeux ouverts"
+    divine_perceptions_perk_name: "Perceptions divines"
+    wind_talk_perk_name: "Discussion sur le vent"
+    celestial_window_perk_name: "Fenêtre céleste"
+    celestial_doorway_perk_name: "Porte céleste"
+    barrier_of_pain_perk_name: "Barrière de douleur"
+    the_closing_wound_perk_name: "La blessure qui se referme"
+    spiritual_healing_perk_name: "Guérison spirituelle"
+    escape_from_death_perk_name: "Échapper à la mort"
+    flames_of_the_phoenix_perk_name: "Flammes du Phénix"
+    thousand_fists_perk_name: "Mille poings"
+    spear_hand_perk_name: "Main de lance"
+    burning_ghosts_perk_name: "Fantômes brûlants"
+    steel_body_perk_name: "Corps en acier"
+    thousand_swords_perk_name: "Mille épées"
+    frozen_river_perk_name: "Rivière gelée"
+    stolen_serpent_perk_name: "Serpent volé"
+    celestial_barrier_perk_name: "Barrière céleste"
+    clutch_of_the_wan_kuei_perk_name: "Pochette du Wan Kuei"
+    bite_of_the_mu_perk_name: "Morsure du Mu"
+    eyes_of_the_dragon_perk_name: "Les yeux du dragon"
+    dark_reflection_perk_name: "Reflet sombre"
+    hunted_eyes_perk_name: "Yeux traqués"
+    voice_of_the_yama_kings_perk_name: "Voix des rois Yama"
+    divine_ordinance_perk_name: "Ordonnance divine"
+    balance_of_the_spirit_perk_name: "Équilibre de l'Esprit"
+    focus_of_the_mind_perk_name: "Concentration de l'esprit"
+    nightmare_exorcism_perk_name: "Exorcisme cauchemardesque"
+    self_exorcism_perk_name: "Auto-exorcisme"
+    mental_dominion_perk_name: "Domination mentale"
+    cloud_walking_perk_name: "Marche dans les nuages"
+    water_treading_perk_name: "Marcher sur l'eau"
+    wind_strike_perk_name: "Coup de vent"
+    mountain_stance_perk_name: "Position de montagne"
+    celestial_wind_perk_name: "Vent céleste"
+    heavens_judgment_perk_name: "Le jugement du ciel"
+    divine_prohibition_perk_name: "Interdiction divine"
+    ten_ox_strength_perk_name: "Force de dix bœufs"
+    diamond_body_perk_name: "Corps de diamant"
+    sight_without_eyes_perk_name: "La vue sans les yeux"
+    the_eye_of_heaven_perk_name: "L'oeil du ciel"
+    the_lizards_tail_perk_name: "La queue du lézard"
+    ashes_of_the_phoenix_perk_name: "Cendres du Phénix"
+    hundred_warriors_strike_perk_name: "Frappe des Cent Guerriers"
+    heaven_thunder_strike_perk_name: "Frappe du tonnerre céleste"
+    righteous_hungry_spirit_perk_name: "Esprit juste et affamé"
+    demon_eating_techniquet_perk_name: "Technique de consommation de démons"
+    mantle_of_heaven_perk_name: "Manteau du Ciel"
+    divine_mandate_perk_name: "Mandat Divin"
+    mountain_meditation_perk_name: "Méditation en montagne"
+    walking_in_balance_perk_name: "Marcher en équilibre"
+    arrow_cutting_perk_name: "Coupe de flèche"
+    wind_racing_prana_perk_name:
+        "Prana de course au vent"
+
+        # Alchemy
+
+    analyze_material_perk_name: "Analyser le matériel"
+    cloud_of_smoke_perk_name: "Nuage de fumée"
+    drink_of_seven_days_rest_perk_name: "Boisson de sept jours de repos"
+    mild_poison_perk_name: "Poison léger"
+    potion_of_resilience_perk_name: "Potion de résilience"
+    simple_elixir_perk_name: "Élixir simple"
+    simple_philtre_perk_name: "Philtre simple"
+    simple_tonic_perk_name: "Tonique simple"
+    stasis_perk_name: "Stase"
+    blood_of_the_snake_perk_name: "Sang du serpent"
+    cobra_spit_perk_name: "Crachat Cobra"
+    essence_longing_perk_name: "Désir d'essence"
+    eyes_of_the_ka_perk_name: "Les yeux du Ka"
+    ice_of_the_desert_perk_name: "Glace du Désert"
+    lesser_quiddity_perk_name: "Quiddité moindre"
+    reed_of_hidden_currents_perk_name: "Roseau des courants cachés"
+    spark_of_ra_perk_name: "Étincelle de Râ"
+    complex_elixir_perk_name: "Élixir complexe"
+    complex_philtre_perk_name: "Philtre complexe"
+    complex_tonic_perk_name: "Tonique Complexe"
+    dangerous_poison_perk_name: "Poison dangereux"
+    one_hundred_thousand_tongues_perk_name: "Cent mille langues"
+    potion_of_valor_perk_name: "Potion de vaillance"
+    salts_of_the_dead_perk_name: "Sels des morts"
+    tears_of_isis_perk_name: "Les larmes d'Isis"
+    ashes_to_ashes_perk_name: "Cendres aux cendres"
+    greater_quiddity_perk_name: "Grande Quiddité"
+    panacea_perk_name: "Panacée"
+    philosophers_stone_perk_name: "Pierre philosophale"
+    potion_of_separable_ka_perk_name: "Potion de Ka séparable"
+    catalyst_crucible_perk_name: "Creuset de catalyseur"
+    deadly_poison_perk_name: "Poison mortel"
+    dust_to_dust_perk_name: "La poussière à la poussière"
+    flesh_of_the_gods_perk_name: "Chair des dieux"
+    potent_elixir_perk_name: "Élixir puissant"
+    potent_philtre_perk_name: "Philtre puissant"
+    potent_tonic_perk_name: "Tonique puissant"
+    potion_of_the_divine_perk_name: "Potion du Divin"
+    potion_of_the_vile_body_perk_name: "Potion du corps vil"
+    distill_the_wisdom_of_maat_perk_name: "Distiller la sagesse de Maât"
+    draught_of_perfect_memory_perk_name: "Brouillon de Mémoire Parfaite"
+    personal_poison_perk_name: "Poison personnel"
+    princely_elixir_perk_name: "Élixir princier"
+    princely_tonic_perk_name: "Tonique Princier"
+    princely_quiddity_perk_name: "Quiddité princière"
+    renewal_of_the_horus_perk_name: "Renouvellement d'Horus"
+    water_of_life_perk_name: "Eau de Vie"
+    elixir_of_thoths_aptitude_perk_name: "Élixir d'aptitude de Thot"
+    kingly_elixir_perk_name: "Élixir royal"
+    kingly_tonic_perk_name: "Tonique Royal"
+    kingly_quiddity_perk_name: "Quiddité royale"
+    philtre_of_the_blackened_sands_perk_name: "Philtre des Sables Noircis"
+    divine_elixir_perk_name: "Élixir divin"
+    divine_tonic_perk_name: "Tonique Divin"
+    divine_quiddity_perk_name: "Quiddité divine"
+    draught_of_the_stalwart_ab_perk_name:
+        "Draft du Stalwart Ab"
+
+        # Amulets
+
+    ashen_shroud_perk_name: "Linceul de cendre"
+    #bundle_perk_name: "Paquet"
+    eye_of_the_horizon_perk_name: "L'oeil de l'horizon"
+    simple_ward_perk_name: "Quartier simple"
+    warding_sign_perk_name: "Panneau de protection"
+    wood_ward_perk_name: "Quartier du Bois"
+    amulet_of_cloud_walking_perk_name: "Amulette de marche dans les nuages"
+    lesser_talisman_perk_name: "Talisman inférieur"
+    lesser_ward_perk_name: "Quartier inférieur"
+    #mask_perk_name: "Masque"
+    prayer_of_the_aken_perk_name: "Prière de l'Aken"
+    scarab_of_life_perk_name: "Scarabée de la vie"
+    metal_ward_perk_name: "Salle de métal"
+    major_ward_perk_name: "Quartier majeur"
+    sign_of_luck_perk_name: "Signe de chance"
+    veil_of_amaunet_perk_name: "Voile d'Amaunet"
+    wrapping_of_imhotep_perk_name: "Emballage d'Imhotep"
+    ebon_binding_perk_name: "Lien d'ébène"
+    eye_of_sakhmet_perk_name: "Oeil de Sakhmet"
+    gebs_blessing_perk_name: "La bénédiction de Geb"
+    greater_veil_of_amaunet_perk_name: "Grand Voile d'Amaunet"
+    greater_talisman_perk_name: "Talisman majeur"
+    greater_ward_perk_name: "Quartier majeur"
+    buckle_of_isis_perk_name: "Boucle d'Isis"
+    princely_talisman_perk_name: "Talisman princier"
+    princely_ward_perk_name: "Garde princière"
+    scarab_of_death_perk_name: "Scarabée de la mort"
+    ward_of_permanence_perk_name: "Quartier de permanence"
+    wrappings_of_osiris_perk_name: "Enveloppements d'Osiris"
+    kingly_ward_perk_name: "Garde royale"
+    lesser_seal_of_maat_perk_name: "Sceau inférieur de Maât"
+    nyarashahims_banishing_sign_perk_name: "Signe de bannissement de Nyarashahim"
+    nyarashahims_screaming_scarab_perk_name: "Scarabée hurlant de Nyarashahim"
+    piercing_eye_of_thoth_perk_name: "Oeil perçant de Thot"
+    serqets_sting_perk_name: "Dard de Serket"
+    shatter_the_glyph_perk_name: "Brisez le glyphe"
+    talisman_of_the_vulture_perk_name: "Talisman du Vautour"
+    viziers_talisman_perk_name: "Talisman du vizir"
+    whisper_between_two_hearts_perk_name: "Chuchotement entre deux coeurs"
+    ramoses_armor_perk_name: "Armure de Ramosé"
+    conduit_of_shadow_perk_name: "Conduit de l'Ombre"
+    kingly_talisman_perk_name: "Talisman royal"
+    seal_of_maat_perk_name: "Sceau de Maât"
+    shatter_the_greater_glyph_perk_name: "Briser le glyphe majeur"
+    shield_of_the_pharaohs_perk_name: "Bouclier des Pharaons"
+    vault_of_inner_strength_perk_name: "Coffre de force intérieure"
+    divine_talisman_perk_name: "Talisman Divin"
+    greater_seal_of_maat_perk_name: "Grand Sceau de Maât"
+    hardening_sign_of_geb_perk_name: "Signe de durcissement de Geb"
+    heart_of_maat_perk_name: "Cœur de Maât"
+    inscribe_the_flesh_perk_name: "Inscrire la chair"
+    shatter_the_princely_glyph_perk_name: "Brisez le glyphe princier"
+    talisman_of_the_asp_perk_name: "Talisman de l'Asp"
+    voracious_scarab_of_nyarashahim_perk_name:
+        "Scarabée vorace de Nyarashahim"
+
+        # Celestial
+
+    becalm_perk_name: "Sois calme"
+    grip_the_water_perk_name: "Saisissez l'eau"
+    hanging_the_stars_perk_name: "Accrocher les étoiles"
+    hiding_the_stars_perk_name: "Cacher les étoiles"
+    simple_weather_magic_perk_name: "Magie météo simple"
+    weather_sight_perk_name: "Vue météo"
+    book_of_thoth_perk_name: "Livre de Thot"
+    lesser_weather_magic_perk_name: "Magie météo moindre"
+    read_the_stars_perk_name: "Lire les étoiles"
+    sahu_ra_perk_name: "Sahu-Ra"
+    weather_whispers_perk_name: "Chuchotements météorologiques"
+    call_the_stars_perk_name: "Appelez les étoiles"
+    divine_forms_perk_name: "Formes divines"
+    major_weather_magic_perk_name: "Magie météorologique majeure"
+    greater_weather_magic_perk_name: "Magie météo supérieure"
+    ras_awakening_perk_name: "L'éveil de Ra"
+    read_the_tree_of_life_perk_name: "Lire l'Arbre de Vie"
+    sandstorm_perk_name: "Tempête de sable"
+    wisdom_of_isis_perk_name: "La sagesse d'Isis"
+    divine_greatness_perk_name: "Grandeur divine"
+    plague_of_maat_perk_name: "Peste de Maât"
+    potent_weather_magic_perk_name: "Magie météorologique puissante"
+    rousing_apophis_perk_name: "Réveiller Apophis"
+    call_of_the_north_star_perk_name: "L'appel de l'étoile polaire"
+    gebs_grasp_perk_name: "L'emprise de Geb"
+    festival_of_maat_perk_name: "Fête de Maât"
+    inundation_of_the_nile_perk_name: "Inondation du Nil"
+    arch_of_nuit_perk_name: "Arc de Nuit"
+    cycle_of_ra_perk_name: "Cycle de Râ"
+    star_of_the_messiah_perk_name: "Étoile du Messie"
+    crossed_by_the_stars_perk_name: "Traversé par les étoiles"
+    whispers_of_the_tree_of_life_perk_name:
+        "Murmures de l'Arbre de Vie"
+
+        # Effigy
+
+    command_simple_implement_perk_name: "Commande Simple Implémentation"
+    simple_inertion_perk_name: "Inertion simple"
+    simple_creature_perk_name: "Créature simple"
+    simple_servitor_perk_name: "Serviteur simple"
+    simple_wrest_perk_name: "Lutte simple"
+    command_lesser_implement_perk_name: "Outil inférieur de commande"
+    false_door_perk_name: "Fausse porte"
+    lesser_inertion_perk_name: "Moindre inertion"
+    lesser_chattel_perk_name: "Meubles mineurs"
+    lesser_creature_perk_name: "Créature inférieure"
+    lesser_wrest_perk_name: "Petite lutte"
+    command_complex_implement_perk_name: "Implémentation du complexe de commande"
+    major_inertion_perk_name: "Inertion majeure"
+    complex_chattel_perk_name: "Biens complexes"
+    sekhem_vessel_perk_name: "Navire Sekhem"
+    major_bond_of_fate_perk_name: "Lien majeur du destin"
+    effigy_overseer_perk_name: "Surveillant"
+    major_creature_perk_name: "Créature majeure"
+    modest_reflection_perk_name: "Réflexion modeste"
+    major_relic_perk_name: "Relique majeure"
+    major_wrest_perk_name: "Lutte majeure"
+    majestic_reflection_perk_name: "Réflexion majestueuse"
+    superior_chattel_perk_name: "Biens meubles supérieurs"
+    greater_relic_perk_name: "Relique supérieure"
+    superior_creature_perk_name: "Créature supérieure"
+    guard_perk_name: "Garde"
+    superior_inertion_perk_name: "Inertion supérieure"
+    superior_bond_of_fate_perk_name: "Lien du destin supérieur"
+    superior_wrest_perk_name: "Lutte supérieure"
+    ka_vessel_perk_name: "Récipient Ka"
+    princely_chattel_perk_name: "Biens princiers"
+    princely_inertion_perk_name: "Inertion princière"
+    princely_reflection_perk_name: "Réflexion princière"
+    princely_creature_perk_name: "Créature princière"
+    princely_relic_perk_name: "Relique princière"
+    living_bond_of_fate_perk_name: "Lien vivant du destin"
+    princely_wrest_perk_name: "Lutte princière"
+    the_crawling_eye_perk_name: "L'œil rampant"
+    major_restoration_perk_name: "Restauration majeure"
+    greater_sekhem_vessel_perk_name: "Navire du Grand Sekhem"
+    viziers_beast_perk_name: "La bête du vizir"
+    sanctify_chattel_perk_name: "Sanctifier les biens meubles"
+    scepter_of_the_vizier_perk_name: "Sceptre du Vizir"
+    viziers_wrest_perk_name: "La lutte du vizir"
+    greater_restoration_perk_name: "Restauration majeure"
+    spirit_scepter_perk_name: "Sceptre spirituel"
+    kingly_beast_perk_name: "Bête royale"
+    greater_scepter_of_the_vizier_perk_name: "Grand Sceptre du Vizir"
+    stalking_hound_of_typhon_perk_name: "Traquer le chien de Typhon"
+    kingly_wrest_perk_name: "Lutte royale"
+    effigy_of_sin_perk_name: "Effigie du péché"
+    princely_restoration_perk_name: "Restauration Princière"
+    divine_beast_perk_name: "Bête divine"
+    princely_scepter_of_the_vizier_perk_name: "Sceptre princier du vizir"
+    divine_wrest_perk_name:
+        "Lutte divine"
+
+        # Necromancy
+
+    body_preservation_perk_name: "Préservation du corps"
+    deaths_shroud_perk_name: "Linceul de la mort"
+    ghost_lantern_perk_name: "Lanterne fantôme"
+    judge_the_soul_perk_name: "Juger l'âme"
+    separate_ka_perk_name: "Ka séparé"
+    stormwalk_perk_name: "Marche-tempête"
+    summon_the_dead_perk_name: "Invoquer les morts"
+    banish_the_dead_perk_name: "Bannir les morts"
+    bind_the_dead_perk_name: "Lier les morts"
+    fertility_of_osiris_perk_name: "Fertilité d'Osiris"
+    revisit_death_perk_name: "Revisitez la mort"
+    sense_the_dead_perk_name: "Sentir les morts"
+    storm_shield_perk_name: "Bouclier Tempête"
+    bind_the_living_perk_name: "Lier les vivants"
+    deaths_hand_perk_name: "La main de la mort"
+    manifestation_perk_name: "Manifestation"
+    separate_ba_perk_name: "Ba séparé"
+    shadow_portal_perk_name: "Portail de l'Ombre"
+    amentis_grace_perk_name: "La grâce d'Amenti"
+    khaibits_embrace_perk_name: "L'étreinte de Khaibit"
+    sever_soul_perk_name: "Couper l'âme"
+    sin_eating_perk_name: "Manger du péché"
+    call_the_khaibit_perk_name: "Appelez le Khaibit"
+    entrap_the_ba_perk_name: "Piéger le Ba"
+    heart_of_life_perk_name: "Cœur de Vie"
+    panoply_of_shadow_perk_name: "Panoplie de l'Ombre"
+    reshape_the_lost_soul_perk_name: "Remodeler l'âme perdue"
+    scouring_oblivion_perk_name: "Récurer l'oubli"
+    aspect_of_duat_perk_name: "Aspect de Duat"
+    call_forth_the_reavers_of_ur_perk_name: "Appelez les saccageurs d'Ur"
+    eating_the_heart_perk_name: "Manger le coeur"
+    gift_of_purpose_perk_name: "Don de but"
+    khu_of_two_lands_perk_name: "Khu des Deux Terres"
+    lighten_the_shadow_perk_name: "Éclaircir l'ombre"
+    loyal_companion_perk_name: "Compagnon fidèle"
+    open_the_sebkhet_perk_name: "Ouvrir le Sebkhet"
+    shadow_talisman_perk_name: "Talisman de l'Ombre"
+    spear_of_anubis_perk_name: "Lance d'Anubis"
+    walking_in_the_shadow_of_anubis_perk_name: "Marcher dans l'ombre d'Anubis"
+    casting_away_perk_name: "Le rejet"
+    dark_wall_of_hatshepsut_perk_name: "Mur sombre d'Hatchepsout"
+    empower_ba_perk_name: "Autonomiser Ba"
+    empower_ka_perk_name: "Donnez du pouvoir à Ka"
+    heart_of_reincarnation_perk_name: "Cœur de Réincarnation"
+    separate_khaibit_perk_name: "Khaibit séparé"
+    spirit_the_body_away_perk_name: "L'esprit du corps loin"
+    transfixing_gaze_perk_name: "Regard transperçant"
+    barring_the_gates_perk_name: "Barrant les portes"
+    call_of_oblivion_perk_name: "L'appel de l'oubli"
+    promise_made_before_ammuts_scales_perk_name: "Promesse faite avant la balance d'Ammut"
+    unmaking_perk_name:
+        "Défaire"
+
+        # Nomenclature
+
+    asking_the_trees_perk_name: "Demander aux arbres"
+    forgetting_the_stone_perk_name: "Oublier la pierre"
+    forgetting_the_tree_perk_name: "Oublier l'arbre"
+    name_the_secret_perk_name: "Nommez le secret"
+    naming_the_warning_perk_name: "Nommer l'avertissement"
+    becoming_the_stone_perk_name: "Devenir la pierre"
+    becoming_the_tree_perk_name: "Devenir l'arbre"
+    cloud_the_name_perk_name: "Numérisez le nom"
+    command_the_beast_perk_name: "Commandez la bête"
+    mend_flesh_perk_name: "Réparer la chair"
+    become_animal_perk_name: "Devenez un animal"
+    command_thought_perk_name: "Pensée de commandement"
+    name_the_hekau_perk_name: "Nommez le Hekau"
+    whispers_to_the_heart_perk_name: "Chuchotements au coeur"
+    hekau_enslave_perk_name: "Asservir"
+    fortify_flesh_perk_name: "Fortifier la chair"
+    naming_the_bodys_destruction_perk_name: "Nommer la destruction du corps"
+    speaking_all_names_perk_name: "Prononcer tous les noms"
+    forgetting_the_name_perk_name: "Oublier le nom"
+    ptahs_word_perk_name: "La parole de Ptah"
+    whispers_to_the_body_perk_name: "Chuchotements au corps"
+    words_of_authority_perk_name: "Mots d'autorité"
+    echo_the_lesser_name_perk_name: "Faites écho au petit nom"
+    name_of_sekhem_perk_name: "Nom de Sekhem"
+    name_of_skill_perk_name: "Nom de la compétence"
+    riddle_of_the_sphinx_perk_name: "L'énigme du Sphinx"
+    becoming_the_person_perk_name: "Devenir la personne"
+    echo_the_greater_name_perk_name: "Faites écho au plus grand nom"
+    name_of_the_attribute_perk_name: "Nom de l'attribut"
+    names_of_the_forgotten_perk_name: "Noms des oubliés"
+    name_of_the_will_perk_name: "Nom du testament"
+    renaming_the_hekau_perk_name:
+        "Renommer le Hekau"
+
+        # Tan
+
+    feng_tan_1_perk_name: "Feng Tan niveau un"
+    feng_tan_2_perk_name: "Feng Tan niveau deux"
+    feng_tan_3_perk_name: "Feng Tan de niveau trois"
+    feng_tan_4_perk_name: "Niveau quatre Feng Tan"
+    feng_tan_5_perk_name: "Feng Tan de niveau cinq"
+    lung_tan_1_perk_name: "Bronzage pulmonaire de niveau un"
+    lung_tan_2_perk_name: "Bronzage pulmonaire de niveau deux"
+    lung_tan_3_perk_name: "Bronzage pulmonaire de niveau trois"
+    lung_tan_4_perk_name: "Bronzage pulmonaire de niveau quatre"
+    lung_tan_5_perk_name: "Bronzage pulmonaire de niveau cinq"
+    body_mending_technique_perk_name: "Technique de guérison du corps"
+    lingering_aid_of_the_caregiver_perk_name: "Aide persistante du soignant"
+    see_the_lands_of_the_spirit_perk_name: "Voir les terres des esprits"
+    sense_lucks_flow_perk_name: "Ressentez le flux de la chance"
+    snake_fist_strike_perk_name: "Coup de poing de serpent"
+    sweet_dreamss_caress_perk_name: "La caresse de Sweet Dream"
+    call_the_spirits_perk_name: "Appelez les esprits"
+    drunken_monkey_dance_perk_name: "Danse du singe ivre"
+    leaping_tiger_pounce_perk_name: "Bond du tigre bondissant"
+    spirit_lantern_perk_name: "Lanterne spirituelle"
+    stormwind_prana_perk_name: "Prana de Hurlevent"
+    bind_the_demons_servant_perk_name: "Liez le serviteur du démon"
+    elegant_crane_deftness_perk_name: "Habileté élégante de la grue"
+    the_clearing_of_the_way_perk_name: "Le dégagement du chemin"
+    opening_the_thied_eye_perk_name: "Ouvrir le troisième œil"
+    flame_hand_strike_perk_name: "Frappe de la main enflammée"
+    mantle_of_divine_authority_perk_name: "Manteau d'autorité divine"
+    plague_curing_method_perk_name: "Méthode de guérison de la peste"
+    ten_paces_strike_perk_name: "Frappe à dix pas"
+    walk_the_barriers_perk_name: "Franchir les barrières"
+    gentle_typhoons_passing_perk_name: "Le doux passage du typhon"
+    restoration_of_youths_vigor_perk_name: "Restauration de la vigueur de la jeunesse"
+    transcendant_living_flame_perk_name: "Flamme vivante transcendante"
+    hundred_shadow_cloud_perk_name: "Nuage de cent ombres"
+    iron_body_meditation_perk_name: "Méditation du corps de fer"
+    lesser_spirit_projection_perk_name: "Projection d'esprit inférieur"
+    still_the_fluttering_wing_perk_name: "Toujours le vent flottant"
+    lungtan_unseen_passage_perk_name: "Passage invisible"
+    the_way_of_the_calm_soul_perk_name: "La voie de l'âme calme"
+    ebon_bonds_perk_name: "Obligations d'ébène"
+    ice_hand_strike_perk_name: "Frappe de la main de glace"
+    know_the_wandering_soul_perk_name: "Connaître l'âme errante"
+    no_mind_kata_perk_name: "No Mind Kata"
+    brambles_on_the_road_perk_name: "Des ronces sur la route"
+    ghost_walking_method_perk_name: "Méthode de marche fantôme"
+    projection_of_inward_being_perk_name: "Projection de l'être intérieur"
+    shield_of_fortune_perk_name: "Bouclier de Fortune"
+    blur_the_mind_perk_name: "Brouiller l'esprit"
+    protect_against_the_demon_perk_name: "Protégez-vous contre le démon"
+    scroll_of_the_minds_eye_perk_name: "Parchemin de l'oeil de l'esprit"
+    whispering_stones_perk_name: "Pierres murmurantes"
+    death_touch_perk_name: "Touché mortel"
+    eye_of_the_tempest_perk_name: "Oeil de la tempête"
+    tread_the_dragon_tracks_perk_name: "Parcourez les traces du dragon"
+    advanced_lung_tan_perk_name: "Corps Divin de l'Empereur Céleste"
+    advanced_feng_tan_perk_name:
+        "Corps Divin de l'Empereur Céleste"
+
+        #Gifts : Homid
+    persuasion_perk_name: "Persuasion"
+    apecraftsblessings_perk_name: "Les bénédictions d'Apecraft"
+    divide_perk_name: "Diviser"
+    speech_of_the_world_perk_name: "Discours du monde"
+    staredown_perk_name: "Regarder vers le bas"
+    reshape_objects_perk_name: "Remodeler les objets"
+    assimilation_perk_name: "Assimilation"
+    beyond_human_perk_name:
+        "Au-delà de l'humain"
+
+        #Gifts : Lupus
+    predators_arsenal_perk_name: "Arsenal des prédateurs"
+    axis_mundi_perk_name: "Axe Mundi"
+    wyld_ferocity_perk_name: "Férocité sauvage"
+    catfeet_perk_name: "Pieds de chat"
+    beast_life_perk_name: "Vie de bête"
+    terror_direwolf_perk_name: "Terreur du terrible loup"
+    boon_fathers_perk_name: "Bénédiction des pères animaux"
+    elemental_gift_perk_name:
+        "Don élémentaire"
+
+        #Gifts : Metis
+    primal_anger_perk_name: "Colère primordiale"
+    shed_perk_name: "Hangar"
+    curse_of_hatred_perk_name: "Malédiction de la haine"
+    chameleon_perk_name: "Caméléon"
+    shell_perk_name: "Coquille"
+    wither_limb_perk_name: "Membre flétri"
+    protean_form_perk_name: "Forme protéiforme"
+    umbral_body_perk_name:
+        "Corps ombral"
+
+        #Gifts : Ahroun
+    battlesense_perk_name: "Sens du combat"
+    inspiration_perk_name: "Inspiration"
+    pack_tactics_perk_name: "Tactiques de meute"
+    true_fear_perk_name: "Vraie peur"
+    shake_earth_perk_name: "Secouez la Terre"
+    challenge_combat_perk_name: "Défi du combat singulier"
+    strenght_will_perk_name: "Force de volonté"
+    shared_strength_perk_name: "Force partagée"
+    unstoppable_warrior_perk_name:
+        "Guerrier imparable"
+
+        #Gifts : Galliard
+    primal_song_perk_name: "Chanson primordiale"
+    howls_night_perk_name: "Hurle dans la nuit"
+    mimic_perk_name: "Imiter"
+    song_heroes_perk_name: "Chanson des héros"
+    veil_mother_perk_name: "Voile de la Mère"
+    song_rage_perk_name: "Chanson de rage"
+    bridge_walker_perk_name: "Marcheur de pont"
+    song_siren_perk_name: "Le chant de la sirène"
+    storyteller_perk_name:
+        "Conteur"
+
+        #Gifts : Philodox
+    truth_gaia_perk_name: "Vérité de Gaia"
+    aura_leadership_perk_name: "Aura de leadership"
+    fangs_judgment_perk_name: "Crocs du jugement"
+    command_gathering_perk_name: "Commandez le rassemblement"
+    bonds_us_perk_name: "Des liens qui nous lient"
+    undisputed_ruler_perk_name: "Souverain incontesté"
+    scent_beyond_perk_name: "Parfum d'au-delà"
+    roll_over_perk_name: "Rouler sur"
+    release_from_bondage_perk_name:
+        "Libération de la servitude"
+
+        #Gifts : Ragabash
+    liar_face_perk_name: "Le visage du menteur"
+    snow_running_perk_name: "Course sur neige"
+    obscure_truth_perk_name: "Obscurcir la vérité"
+    peace_counselor_perk_name: "Paix du Conseiller"
+    sticky_fingers_perk_name: "Doigts collants"
+    deliberate_misinformation_perk_name: "Désinformation délibérée"
+    reynard_lie_perk_name: "Le mensonge de Reynard"
+    fool_luck_perk_name: "La chance du fou"
+    firebringer_perk_name:
+        "Porteur de feu"
+
+        #Gifts : Theurge
+    spirit_speech_perk_name: "Discours de l'Esprit"
+    sense_wyrm_perk_name: "Wyrm de détection"
+    hear_silence_perk_name: "Écoutez le silence"
+    sense_chiminage_perk_name: "Sens Chiminage"
+    spirit_skin_perk_name: "Apparence d'esprit"
+    name_spirit_perk_name: "Nommer l'Esprit"
+    prophetic_vision_perk_name: "Vision prophétique"
+    spirit_vessel_perk_name: "Récipient spirituel"
+    rebirthing_perk_name:
+        "Renaissance"
+
+        #Gifts : Hengeyokai
+    create_element_perk_name: "Créer un élément"
+    mindspeak_perk_name: "Parler mental"
+    sense_imbalance_perk_name: "Déséquilibre des sens"
+    blaze_talons_perk_name: "Serres de feu"
+    courtly_speech_perk_name: "Discours courtois"
+    waking_dream_of_unity_perk_name: "Rêve éveillé d’unité"
+    exorcism_perk_name: "Exorcisme"
+    part_the_wall_perk_name:
+        "Séparer le mur"
+
+        #Gifts : Hakken
+    dream_of_a_thousand_cranes_perk_name: "Rêve de mille grues"
+    fair_path_perk_name: "Chemin équitable"
+    storm_winds_slash_perk_name: "Coup de vent de tempête"
+    dark_of_night_perk_name: "L'obscurité de la nuit"
+    living_treasure_perk_name: "Trésor vivant"
+    divine_wind_perk_name:
+        "Vent divin"
+
+        #Gifts : Kumo
+    nimbleness_perk_name: "Agilité"
+    shadow_step_perk_name: "Étape de l'ombre"
+    spittle_of_corruption_perk_name: "Crachat de corruption"
+    snare_of_beauty_perk_name: "Piège de beauté"
+    web_tremors_perk_name: "Tremblements Web"
+    elder_wisdom_perk_name:
+        "Sagesse des aînés"
+
+        #Gifts : Ajaba
+    feral_grin_perk_name: "Sourire sauvage"
+    gift_of_terror_perk_name: "Don de la terreur"
+    crushing_jaws_perk_name: "Mâchoires de broyage"
+    clan_loyalty_perk_name: "Loyauté du clan"
+    laughter_of_the_soul_perk_name: "Le rire de l'âme"
+    culling_the_weak_perk_name: "Éliminer les faibles"
+    gorge_perk_name: "Gorge"
+    ajaba_survivor_perk_name:
+        "Survivant"
+
+        #Gifts : Nuwisha
+    song_of_kokopelli_perk_name: "Chanson de Kokopelli"
+    xochipillis_touch_perk_name: "Le contact de Xochipilli"
+    umbral_map_perk_name: "Carte de l'Umbra"
+    dance_of_abandon_perk_name: "Danse de l'abandon"
+    shadow_walk_perk_name: "Promenade dans l'ombre"
+    tricksters_skin_perk_name: "Peau de filou"
+    coyotes_mask_perk_name: "Masque de Coyote"
+    umbral_target_perk_name: "Cible ombrale"
+    coyotes_howl_perk_name:
+        "Hurlement du coyote"
+
+        #Gifts : Apis
+    gift_of_flesh_perk_name: "Don de chair"
+    scent_of_changing_blood_perk_name: "Parfum de sang changeant"
+    sun_and_moon_signs_perk_name: "Signes du Soleil et de la Lune"
+    ties_of_destiny_perk_name: "Les liens du destin"
+    hathors_blessing_perk_name: "La bénédiction d'Hathor"
+    strength_of_the_brazen_bull_perk_name: "Force du taureau d'airain"
+    finding_the_blood_perk_name: "Trouver le sang"
+    form_of_the_land_titan_perk_name: "Forme du Titan terrestre"
+    mercy_for_the_misbegotten_perk_name:
+        "Miséricorde pour les mal engendrés"
+
+        #Gifts : Camazotz
+    private_whispers_perk_name: "Chuchotements privés"
+    shadow_skin_perk_name: "Peau d'ombre"
+    bloodletting_bite_perk_name: "Morsure saignante"
+    into_the_sun_perk_name: "Dans le soleil"
+    lunas_favor_perk_name: "La faveur de Luna"
+    bats_shriek_perk_name: "Le cri de la chauve-souris"
+    blinding_spittle_perk_name: "Crachat aveuglant"
+    thousand_wings_form_perk_name: "Forme mille ailes"
+    night_carried_messages_perk_name: "Messages portés la nuit"
+    reading_the_dark_heart_perk_name: "Lire le cœur noir"
+    shadows_of_mictlan_perk_name:
+        "Les ombres de Mictlán"
+
+        #Gifts : Grondr
+    root_perk_name: "Racine"
+    taint_eating_perk_name: "Manger des souillures"
+    furrow_perk_name: "Sillon"
+    thunderous_charge_perk_name: "Charge tonitruante"
+    cleansing_tusks_perk_name: "Défenses nettoyantes"
+    uproot_perk_name: "Déraciner"
+    taint_evaporation_perk_name: "Évaporation des contaminants"
+    touch_of_restoration_perk_name: "Touche de restauration"
+    manifesting_the_lands_wounds_perk_name: "Manifester les blessures de la terre"

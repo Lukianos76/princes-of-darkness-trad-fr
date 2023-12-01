@@ -1,41 +1,41 @@
 ﻿l_french:
- POD_singing_sword_of_madog_cynydd_interaction: "Épée chantante de Madog Cynydd" #NT!
- POD_singing_sword_of_madog_cynydd_interaction_desc: "Démarrez un [single_combat_duel|E] pour donner un modificateur [GetModifier('artifact_life_expectancy_40_modifier').GetNameWithTooltip] à l'épée." #NT!
- POD_fae_interactions.101.t: "Épée chantante de Madog Cynydd" #NT!
- POD_fae_interactions.101.desc: "Chaque ennemi abattu au combat par l'épée de Madog Cynydd donne à son tueur ce qui lui reste de sa durée de vie naturelle." #NT!
- POD_fae_interactions.101.option.a: "Je peux le faire tomber." #NT!
-  
- POD_caladbolg_interaction: "Appelez la foudre" #NT!
- POD_caladbolg_interaction_desc: "Appelez des éclairs du ciel pour frapper les chevaliers [recipient.GetFirstNamePossessive]." #NT!
-  
- POD_red_apple_of_avalon_interaction: "Pomme rouge d'Avalon" #NT!
- POD_red_apple_of_avalon_interaction_desc: "Faites en sorte que [recipient.GetFirstName] acquière un trait mental négatif." #NT!
- POD_red_apple_of_avalon_murder_interaction: "Pomme rouge d'Avalon #Weak (Meurtre)#!" #NT!
- POD_red_apple_of_avalon_murder_interaction_desc: "Faites [recipient.GetFirstName] meurtre [recipient.GetHerHis] ami ou amant." #NT!
- recipient_secondary_POD_red_apple_of_avalon_murder_interaction: "Victime" #NT!
- POD_white_apple_of_avalon_interaction: "Pomme blanche d'Avalon" #NT!
- POD_white_apple_of_avalon_interaction_desc: "Guérissez tous les traits mentaux négatifs du [recipient.GetFirstName]." #NT!
-  
- POD_activate_arrow_of_midnight_sun_interaction: "Activer la flèche du soleil de minuit" #NT!
- POD_activate_arrow_of_midnight_sun_interaction_desc: "Activez Flèche du soleil de minuit, cela coûtera 10 points de durabilité à chaque utilisation." #NT!
- POD_deactivate_arrow_of_midnight_sun_interaction: "Désactiver la flèche du soleil de minuit" #NT!
- POD_deactivate_arrow_of_midnight_sun_interaction_desc: "Désactivez Flèche du soleil de minuit pour économiser sa durabilité." #NT!
-  
- POD_lesser_artifact_heal_interaction: "Guérison d'artefact #Weak (Moin)#!" #NT!
- POD_artifact_heal_interaction: "Guérison d’artefact" #NT!
- POD_artifact_heal_interaction_desc: "Utilisez l'artefact pour soigner [recipient.GetFirstName]." #NT!
- POD_artifact_heal_interaction_options_heading: "Que dois-je faire appel à un artefact pour guérir ?" #NT!
-  
- POD_logis_ashes_interaction: "Les cendres de Logi" #NT!
- POD_logis_ashes_interaction_desc: "Libération du [GetModifier('POD_county_great_famine_modifier').GetNameWithTooltip] sur le royaume [recipient.GetFirstNamePossessive]." #NT!
-  
- POD_artiact_teleportation_interaction: "Téléportation d'artefacts" #NT!
- POD_artiact_teleportation_interaction_desc: "Utilisez l'artefact pour vous téléporter à l'emplacement [recipient.GetFirstNamePossessive]." #NT!
-  
- POD_create_artifact_warhorse_interaction: "Monter" #NT!
- POD_create_artifact_warhorse_interaction_desc: "Montez sur votre cheval de guerre." #NT!
-  
- POD_soulforge_interaction: "Utilisez la Soulforge" #NT!
- POD_soulforge_interaction_desc: "Utilisez la Soulforge pour tuer tout le monde dans le royaume [recipient.GetFirstNamePossessive]." #NT!
- recipient_secondary_POD_soulforge_interaction: "Sacrifier" #NT!
- any_fallen_prisoner: "Vous n'avez #bold pas#! de prisonnier qui est [GetTrait('truefallen').GetName( GetPlayer )]." #NT!
+    POD_singing_sword_of_madog_cynydd_interaction: "Épée chantante de Madog Cynydd"
+    POD_singing_sword_of_madog_cynydd_interaction_desc: "Démarrez un [single_combat_duel|E] pour donner un modificateur [GetModifier('artifact_life_expectancy_40_modifier').GetNameWithTooltip] à l'épée."
+    POD_fae_interactions.101.t: "Épée chantante de Madog Cynydd"
+    POD_fae_interactions.101.desc: "Chaque ennemi abattu au combat par l'épée de Madog Cynydd donne à son tueur ce qui lui reste de sa durée de vie naturelle."
+    POD_fae_interactions.101.option.a: "Je peux le faire tomber."
+
+    POD_caladbolg_interaction: "Appelez la foudre"
+    POD_caladbolg_interaction_desc: "Appelez des éclairs du ciel pour frapper les chevaliers [recipient.GetFirstNamePossessive]."
+
+    POD_red_apple_of_avalon_interaction: "Pomme rouge d'Avalon"
+    POD_red_apple_of_avalon_interaction_desc: "Faites en sorte que [recipient.GetFirstName] acquière un trait mental négatif."
+    POD_red_apple_of_avalon_murder_interaction: "Pomme rouge d'Avalon #Weak (Meurtre)#!"
+    POD_red_apple_of_avalon_murder_interaction_desc: "Faites [recipient.GetFirstName] meurtre [recipient.GetHerHis] ami ou amant."
+    recipient_secondary_POD_red_apple_of_avalon_murder_interaction: "Victime"
+    POD_white_apple_of_avalon_interaction: "Pomme blanche d'Avalon"
+    POD_white_apple_of_avalon_interaction_desc: "Guérissez tous les traits mentaux négatifs du [recipient.GetFirstName]."
+
+    POD_activate_arrow_of_midnight_sun_interaction: "Activer la flèche du soleil de minuit"
+    POD_activate_arrow_of_midnight_sun_interaction_desc: "Activez Flèche du soleil de minuit, cela coûtera 10 points de durabilité à chaque utilisation."
+    POD_deactivate_arrow_of_midnight_sun_interaction: "Désactiver la flèche du soleil de minuit"
+    POD_deactivate_arrow_of_midnight_sun_interaction_desc: "Désactivez Flèche du soleil de minuit pour économiser sa durabilité."
+
+    POD_lesser_artifact_heal_interaction: "Guérison d'artefact #Weak (Moin)#!"
+    POD_artifact_heal_interaction: "Guérison d’artefact"
+    POD_artifact_heal_interaction_desc: "Utilisez l'artefact pour soigner [recipient.GetFirstName]."
+    POD_artifact_heal_interaction_options_heading: "Que dois-je faire appel à un artefact pour guérir ?"
+
+    POD_logis_ashes_interaction: "Les cendres de Logi"
+    POD_logis_ashes_interaction_desc: "Libération du [GetModifier('POD_county_great_famine_modifier').GetNameWithTooltip] sur le royaume [recipient.GetFirstNamePossessive]."
+
+    POD_artiact_teleportation_interaction: "Téléportation d'artefacts"
+    POD_artiact_teleportation_interaction_desc: "Utilisez l'artefact pour vous téléporter à l'emplacement [recipient.GetFirstNamePossessive]."
+
+    POD_create_artifact_warhorse_interaction: "Monter"
+    POD_create_artifact_warhorse_interaction_desc: "Montez sur votre cheval de guerre."
+
+    POD_soulforge_interaction: "Utilisez la Soulforge"
+    POD_soulforge_interaction_desc: "Utilisez la Soulforge pour tuer tout le monde dans le royaume [recipient.GetFirstNamePossessive]."
+    recipient_secondary_POD_soulforge_interaction: "Sacrifier"
+    any_fallen_prisoner: "Vous n'avez #bold pas#! de prisonnier qui est [GetTrait('truefallen').GetName( GetPlayer )]."

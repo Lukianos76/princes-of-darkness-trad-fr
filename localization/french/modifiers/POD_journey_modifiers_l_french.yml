@@ -1,12 +1,13 @@
 ﻿l_french:
- vatican_hunter_tf_modifier: "Agressé par la vraie foi" #NT!
- vatican_hunter_tf_modifier_desc: "Ce personnage a été entravé par les pouvoirs d'un fidèle inquisiteur." #NT!
- vatican_hunter4_tf_modifier: "Agressé par des miracles" #NT!
-  # Revelation 6:1 KJV 
- vatican_hunter4_tf_modifier_desc: "Et je vis quand l'Agneau ouvrit l'un des sceaux, et j'entendis comme un bruit de tonnerre, l'une des quatre bêtes disant : Viens et vois." #NT!
-  
- golconda_focusing_inward_modifier: "Se concentrer vers l'intérieur" #NT!
- golconda_comforted_modifier: "Réconforté" #NT!
- golconda_guilt_modifier: "Contempler la culpabilité" #NT!
- golconda_confusion_modifier: "Contempler la confusion" #NT!
- golconda_rage_modifier: "Contempler la rage" #NT!
+    vatican_hunter_tf_modifier: "Agressé par la vraie foi"
+    vatican_hunter_tf_modifier_desc: "Ce personnage a été entravé par les pouvoirs d'un fidèle inquisiteur."
+    vatican_hunter4_tf_modifier:
+        "Agressé par des miracles"
+        # Revelation 6:1 KJV
+    vatican_hunter4_tf_modifier_desc: "Et je vis quand l'Agneau ouvrit l'un des sceaux, et j'entendis comme un bruit de tonnerre, l'une des quatre bêtes disant : Viens et vois."
+
+    golconda_focusing_inward_modifier: "Se concentrer vers l'intérieur"
+    golconda_comforted_modifier: "Réconforté"
+    golconda_guilt_modifier: "Contempler la culpabilité"
+    golconda_confusion_modifier: "Contempler la confusion"
+    golconda_rage_modifier: "Contempler la rage"
