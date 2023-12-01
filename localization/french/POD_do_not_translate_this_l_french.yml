@@ -1,22 +1,21 @@
 ﻿l_french:
- # Vamp
- potence_name:1 "potence_visible" 
- celerity_name:1 "celerity_visible" 
+ potence_name:1 "potence_visible"
+ celerity_name:1 "celerity_visible"
  vicissitude_name:1 "vicissitude_visible"
- fortitude_name:1 "fortitude_visible" 
- obfuscate_name:1 "obfuscate_visible" 
- oblivion_name:1 "oblivion_visible" 
- obtenebration_name:1 "obtenebration_visible" 
- melancholy_necromancy_name:1 "melancholynecromancy_visible" 
+ fortitude_name:1 "fortitude_visible"
+ obfuscate_name:1 "obfuscate_visible"
+ oblivion_name:1 "oblivion_visible"
+ obtenebration_name:1 "obtenebration_visible"
+ melancholy_necromancy_name:1 "melancholynecromancy_visible"
  auspex_name:1 "auspex_visible"
  dominate_name:1 "dominate_visible"
- bloodsorcery_name:1 "bloodsorcery_visible" 
+ bloodsorcery_name:1 "bloodsorcery_visible"
  presence_name:1 "presence_visible"
- thinblood_alchemy_name:1 "thinbloodalchemy_visible" 
- animalism_name:1 "animalism_visible" 
+ thinblood_alchemy_name:1 "thinbloodalchemy_visible"
+ animalism_name:1 "animalism_visible"
  protean_name:1 "protean_visible"
  daimonion_name:1 "daimonion_visible"
- serpentis_name:1 "serpentis_visible" 
+ serpentis_name:1 "serpentis_visible"
  abombwe_name:1 "abombwe_visible"
  visceratika_name:1 "visceratika_visible"
  chimerstry_name:1 "chimerstry_visible"
@@ -28,13 +27,11 @@
  valeren_name:1 "valeren_visible"
  quietus_name:1 "quietus_visible"
  mytherceria_name:1 "mytherceria_visible"
- # Hunter
  red_name:1 "ritae_visible"
  acre_name:1 "investitures_visible"
  sisters_name:1 "psalms_visible"
  murnau_name:1 "legacies_visible"
  oculi_name:1 "blessings_visible"
- # KJ
  boneshintai_name:1 "boneshintai_visible"
  fleshshintai_name:1 "fleshshintai_visible"
  bloodshintai_name:1 "bloodshintai_visible"
@@ -46,7 +43,6 @@
  obligation_name:1 "obligation_visible"
  mibasham_name:1 "mibasham_visible"
  tzuwei_name:1 "tzuwei_visible"
- # Shih
  i_shen_name:1 "i_shen_visible"
  mo_kung_name:1 "mo_kung_visible"
  yu_an_name:1 "yu_an_visible"
@@ -56,7 +52,6 @@
  long_ling_name:1 "long_ling_visible"
  meng_name:1 "meng_visible"
  zhu_mao_name:1 "zhu_mao_visible"
- # Mummy
  amulets_name:1 "amulets_visible"
  alchemy_name:1 "alchemy_visible"
  celestial_name:1 "celestial_visible"
@@ -65,7 +60,6 @@
  nomenclature_name:1 "nomenclature_visible"
  feng_tan_name:1 "fengtan_visible"
  lung_tan_name:1 "lungtan_visible"
- # Wraith
  argos_name:1 "argos_visible"
  castigate_name:1 "castigate_visible"
  embody_name:1 "embody_visible"
@@ -80,7 +74,6 @@
  puppetry_name:1 "puppetry_visible"
  usury_name:1 "usury_visible"
  thorn_name:1 "thorn_visible"
- # Numina
  truefaith_name:1 "truefaith_visible"
  psi_name:1 "psi_visible"
  sorcery_name:1 "sorcery_visible"
@@ -92,12 +85,10 @@
  wisp_name:1 "wisp_visible"
  orphan_grinder_name:1 "orphan_grinder_visible"
  marrow_name:1 "marrow_visible"
- # Possessed
  fomori_name:1 "fomori_visible"
  gorgon_name:1 "gorgon_visible"
  drone_name:1 "drone_visible"
  kami_name:1 "kami_visible"
- # Demon
  form_name:1 "form_visible"
  glory_name:1 "glory_visible"
  mind_soul_name:1 "mind_soul_visible"
@@ -107,9 +98,8 @@
  humanity_name:1 "humanity_visible"
  chaos_name:1 "chaos_visible"
  contamination_name:1 "contamination_visible"
- violation_name:1 "violation_visible" 
+ violation_name:1 "violation_visible"
  demonic_investment_name:1 "demonic_investment_visible"
- # Mage
  forces_name:0 "forces_visible"
  life_name:0 "life_visible"
  matter_name:0 "matter_visible"
@@ -118,7 +108,6 @@
  prime_name:0 "prime_visible"
  time_name:0 "time_visible"
  correspondence_name:0 "correspondence_visible"
- # Planet Gift
  eshtarragifts_name:1 "eshtarragifts_visible"
  sokhtagifts_name:1 "sokhtagifts_visible"
  katankasonnakgifts_name:1 "katankasonnakgifts_visible"
@@ -132,7 +121,6 @@
  ruatmagifts_name:1 "ruatmagifts_visible"
  shantargifts_name:1 "shantargifts_visible"
  merosgifts_name:1 "merosgifts_visible"
- # WW
  ahroungifts_name:1 "ahroungifts_visible"
  galliardgifts_name:1 "galliardgifts_visible"
  ragabashgifts_name:1 "ragabashgifts_visible"
@@ -153,7 +141,6 @@
  stargazergifts_name:1 "stargazergifts_visible"
  glasswalkergifts_name:1 "glasswalkergifts_visible"
  blackspiraldancergifts_name:1 "blackspiraldancergifts_visible"
- # Fera
  ajabagifts_name:1 "ajabagifts_visible"
  bastetgifts_name:1 "bastetgifts_visible"
  bastethomidgifts_name:1 "bastethomidgifts_visible"
