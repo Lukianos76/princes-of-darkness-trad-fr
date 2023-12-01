@@ -1,226 +1,226 @@
 ﻿l_french:
-  # Vamp 
- potence_name: "potence_visible" #NT!
- celerity_name: "celerity_visible" #NT!
- vicissitude_name: "vicissitude_visible" #NT!
- fortitude_name: "courage_visible" #NT!
- obfuscate_name: "obfuscate_visible" #NT!
- oblivion_name: "oubli_visible" #NT!
- obtenebration_name: "obténébration_visible" #NT!
- melancholy_necromancy_name: "mélancoliecromancie_visible" #NT!
- auspex_name: "auspex_visible" #NT!
- dominate_name: "dominer_visible" #NT!
- bloodsorcery_name: "bloodsorcery_visible" #NT!
- presence_name: "présence_visible" #NT!
- thinblood_alchemy_name: "Thinbloodalchemy_visible" #NT!
- animalism_name: "animalisme_visible" #NT!
- protean_name: "protéan_visible" #NT!
- daimonion_name: "daimonion_visible" #NT!
- serpentis_name: "serpentis_visible" #NT!
- abombwe_name: "abombwe_visible" #NT!
- visceratika_name: "viscératika_visible" #NT!
- chimerstry_name: "chimère_visible" #NT!
- bardo_name: "bardo_visible" #NT!
- temporis_name: "temporis_visible" #NT!
- dementation_name: "démentation_visible" #NT!
- melpominee_name: "melpominee_visible" #NT!
- animal_spiritus_name: "animal_spiritus_visible" #NT!
- valeren_name: "valeren_visible" #NT!
- quietus_name: "quietus_visible" #NT!
- mytherceria_name: "mytherceria_visible" #NT!
-  # Hunter 
- red_name: "ritae_visible" #NT!
- acre_name: "investitures_visible" #NT!
- sisters_name: "psaumes_visible" #NT!
- murnau_name: "legs_visible" #NT!
- oculi_name: "bénédictions_visible" #NT!
-  # KJ 
- boneshintai_name: "boneshintai_visible" #NT!
- fleshshintai_name: "chairshintai_visible" #NT!
- bloodshintai_name: "sangshintai_visible" #NT!
- ghostflameshintai_name: "ghostflameshintai_visible" #NT!
- jadeshintai_name: "jadeshintai_visible" #NT!
- chiiumuh_name: "chiiumuh_visible" #NT!
- cultivation_name: "culture_visible" #NT!
- internalize_name: "internaliser_visible" #NT!
- obligation_name: "obligation_visible" #NT!
- mibasham_name: "mibasham_visible" #NT!
- tzuwei_name: "tzuwei_visible" #NT!
-  # Shih 
- i_shen_name: "je_shen_visible" #NT!
- mo_kung_name: "mo_kung_visible" #NT!
- yu_an_name: "yu_an_visible" #NT!
- feng_name: "feng_visible" #NT!
- shi_name: "shi_visible" #NT!
- chien_name: "chien_visible" #NT!
- long_ling_name: "long_ling_visible" #NT!
- meng_name: "meng_visible" #NT!
- zhu_mao_name: "zhu_mao_visible" #NT!
-  # Mummy 
- amulets_name: "amulettes_visible" #NT!
- alchemy_name: "alchimie_visible" #NT!
- celestial_name: "céleste_visible" #NT!
- effigy_name: "effigie_visible" #NT!
- necromancy_name: "nécromancie_visible" #NT!
- nomenclature_name: "nomenclature_visible" #NT!
- feng_tan_name: "fengtan_visible" #NT!
- lung_tan_name: "poumon_visible" #NT!
-  # Wraith 
- argos_name: "argos_visible" #NT!
- castigate_name: "castigate_visible" #NT!
- embody_name: "incarner_visible" #NT!
- fatalism_name: "fatalisme_visible" #NT!
- inhabit_name: "habit_visible" #NT!
- keening_name: "keing_visible" #NT!
- lifeweb_name: "vieweb_visible" #NT!
- moliate_name: "moliate_visible" #NT!
- outrage_name: "outrage_visible" #NT!
- pandemonium_name: "pandémonium_visible" #NT!
- phantasm_name: "fantasme_visible" #NT!
- puppetry_name: "marionnettes_visible" #NT!
- usury_name: "usure_visible" #NT!
- thorn_name: "épine_visible" #NT!
-  # Numina 
- truefaith_name: "vraiefaith_visible" #NT!
- psi_name: "psi_visible" #NT!
- sorcery_name: "sorcellerie_visible" #NT!
- theurgy_name: "theurgie_visible" #NT!
- banshee_name: "banshee_visible" #NT!
- haunter_name: "hanter_visible" #NT!
- poltergeist_name: "poltergeist_visible" #NT!
- skinrider_name: "skinrider_visible" #NT!
- wisp_name: "wisp_visible" #NT!
- orphan_grinder_name: "orphelin_grinder_visible" #NT!
- marrow_name: "moelle_visible" #NT!
-  # Possessed 
- fomori_name: "fomori_visible" #NT!
- gorgon_name: "gorgone_visible" #NT!
- drone_name: "drone_visible" #NT!
- kami_name: "kami_visible" #NT!
-  # Demon 
- form_name: "formulaire_visible" #NT!
- glory_name: "gloire_visible" #NT!
- mind_soul_name: "mind_soul_visible" #NT!
- fate_portals_name: "fate_portals_visible" #NT!
- force_element_name: "force_element_visible" #NT!
- fundament_name: "fondamental_visible" #NT!
- humanity_name: "humanité_visible" #NT!
- chaos_name: "chaos_visible" #NT!
- contamination_name: "contamination_visible" #NT!
- violation_name: "violation_visible" #NT!
- demonic_investment_name: "démonic_investment_visible" #NT!
-  # Mage 
- forces_name: "forces_visibles" #NT!
- life_name: "vie_visible" #NT!
- matter_name: "matière_visible" #NT!
- mind_name: "esprit_visible" #NT!
- entropy_name: "entropie_visible" #NT!
- prime_name: "prime_visible" #NT!
- time_name: "heure_visible" #NT!
- correspondence_name: "correspondance_visible" #NT!
-  # Planet Gift 
- eshtarragifts_name: "esttarragifts_visible" #NT!
- sokhtagifts_name: "sokhtagifts_visible" #NT!
- katankasonnakgifts_name: "katankasonnakgifts_visible" #NT!
- mitanugifts_name: "mitanugifts_visible" #NT!
- hakahegifts_name: "hakahegifts_visible" #NT!
- tambiyahgifts_name: "tamiyahgifts_visible" #NT!
- nerigalgifts_name: "nerigalgifts_visible" #NT!
- rorggifts_name: "rorggifts_visible" #NT!
- zarokgifts_name: "zarokgifts_visible" #NT!
- lubatgifts_name: "lubatgifts_visible" #NT!
- ruatmagifts_name: "ruatmagifts_visible" #NT!
- shantargifts_name: "shantargifts_visible" #NT!
- merosgifts_name: "merosgifts_visible" #NT!
-  # WW 
- ahroungifts_name: "ahroungifts_visible" #NT!
- galliardgifts_name: "galliardgifts_visible" #NT!
- ragabashgifts_name: "ragabashgifts_visible" #NT!
- philodoxgifts_name: "philodoxgifts_visible" #NT!
- theurgegifts_name: "theurgegifts_visible" #NT!
- homidgifts_name: "homidgifts_visible" #NT!
- lupusgifts_name: "lupusgifts_visible" #NT!
- metisgifts_name: "metisgifts_visible" #NT!
- blackfurygifts_name: "blackfurygifts_visible" #NT!
- bonegnawergifts_name: "bonegnawergifts_visible" #NT!
- childofgaiagifts_name: "enfantdegaiagifts_visible" #NT!
- fiannagifts_name: "fiannagifts_visible" #NT!
- getoffenrisgifts_name: "getoffenrisgifts_visible" #NT!
- redtalongifts_name: "redtalongifts_visible" #NT!
- shadowlordgifts_name: "shadowlordgifts_visible" #NT!
- silentstridergifts_name: "Silentstridergifts_visible" #NT!
- silverfanggifts_name: "silverfanggifts_visible" #NT!
- stargazergifts_name: "stargazergifts_visible" #NT!
- glasswalkergifts_name: "glasswalkergifts_visible" #NT!
- blackspiraldancergifts_name: "blackspiraldancergifts_visible" #NT!
-  # Fera 
- ajabagifts_name: "ajabagifts_visible" #NT!
- bastetgifts_name: "bastetgifts_visible" #NT!
- bastethomidgifts_name: "bastethomidgifts_visible" #NT!
- felinegifts_name: "felinegifts_visible" #NT!
- bastetmetisgifts_name: "bastetmetisgifts_visible" #NT!
- coraxgifts_name: "coraxgifts_visible" #NT!
- gurahlgifts_name: "gurahlgifts_visible" #NT!
- gurahlhomidgifts_name: "gurahlhomidgifts_visible" #NT!
- ursinegifts_name: "ursinegifts_visible" #NT!
- kitsunegifts_name: "kitsunegifts_visible" #NT!
- kojingifts_name: "kojingifts_visible" #NT!
- rokogifts_name: "rokogifts_visible" #NT!
- shinjugifts_name: "shinjugifts_visible" #NT!
- mokolegifts_name: "mokolegifts_visible" #NT!
- nagahgifts_name: "nagahgifts_visible" #NT!
- balaramgifts_name: "balaramgifts_visible" #NT!
- vasukigifts_name: "vasukigifts_visible" #NT!
- ahigifts_name: "ahigifts_visible" #NT!
- nuwishagifts_name: "nuwishagifts_visible" #NT!
- ratkingifts_name: "ratkingifts_visible" #NT!
- ratkinhomidgifts_name: "ratkinhomidgifts_visible" #NT!
- rodensgifts_name: "rodensgifts_visible" #NT!
- ratkinmetisgifts_name: "ratkinmetisgifts_visible" #NT!
- rokeagifts_name: "rokeagifts_visible" #NT!
- apisgifts_name: "apisgifts_visible" #NT!
- camazotzgifts_name: "camazotzgifts_visible" #NT!
- grondrgifts_name: "grondrgifts_visible" #NT!
- ananasigifts_name: "ananasigifts_visible" #NT!
- ananasihomidgifts_name: "ananasihomidgifts_visible" #NT!
- arachnidgifts_name: "arachnidegifts_visible" #NT!
- generalhengeyokaigifts_name: "généralhengeyokaigifts_visible" #NT!
- hakkengifts_name: "hakkengifts_visible" #NT!
- kumogifts_name: "kumogifts_visible" #NT!
- tengugifts_name: "tengugifts_visible" #NT!
- ju_fugifts_name: "ju_fugifts_visible" #NT!
- zhong_lunggifts_name: "zhong_lunggifts_visible" #NT!
- nezumigifts_name: "nezumigifts_visible" #NT!
- same_bitogifts_name: "meme_bitogifts_visible" #NT!
- arcasgifts_name: "arcasgifts_visible" #NT!
- uzmatigifts_name: "uzmatigifts_visible" #NT!
- kojubatgifts_name: "kojubatgifts_visible" #NT!
- kiehgifts_name: "kiehgifts_visible" #NT!
- rishigifts_name: "rishigifts_visible" #NT!
- doshigifts_name: "doshigifts_visible" #NT!
- ejigifts_name: "ejigifts_visible" #NT!
- kataribegifts_name: "kataribegifts_visible" #NT!
- gukutsushigifts_name: "gukutsushigifts_visible" #NT!
- rising_sungifts_name: "Rising_sungifts_visible" #NT!
- noonday_sungifts_name: "midi_sungifts_visible" #NT!
- setting_sungifts_name: "paramètre_sungifts_visible" #NT!
- midnight_sungifts_name: "minuit_sungifts_visible" #NT!
- shrouded_sungifts_name: "shrouded_sungifts_visible" #NT!
- decorated_sungifts_name: "décoré_sungifts_visible" #NT!
- eclipsed_sungifts_name: "eclipsed_sungifts_visible" #NT!
- kamakshigifts_name: "kamakshigifts_visible" #NT!
- kartikeyagifts_name: "kartikeyagifts_visible" #NT!
- kamsagifts_name: "kamsagifts_visible" #NT!
- kaligifts_name: "kaligifts_visible" #NT!
- tunnel_runnergifts_name: "tunnel_runnergifts_visible" #NT!
- shadow_seergifts_name: "shadow_seergifts_visible" #NT!
- knife_skulkergifts_name: "knife_skulkergifts_visible" #NT!
- bardgifts_name: "bardgifts_visible" #NT!
- warriorgifts_name: "cadeaux_guerriers_visible" #NT!
- engineergifts_name: "Engineergifts_visible" #NT!
- plague_lordgifts_name: "peste_lordgifts_visible" #NT!
- munchmausengifts_name: "munchmausengifts_visible" #NT!
- twitchergifts_name: "twitchergifts_visible" #NT!
- brightwatergifts_name: "Brightwatergifts_visible" #NT!
- dimwatergifts_name: "dimwatergifts_visible" #NT!
- darkwatergifts_name: "darkwatergifts_visible" #NT!
+ # Vamp
+ potence_name:1 "potence_visible" 
+ celerity_name:1 "celerity_visible" 
+ vicissitude_name:1 "vicissitude_visible"
+ fortitude_name:1 "fortitude_visible" 
+ obfuscate_name:1 "obfuscate_visible" 
+ oblivion_name:1 "oblivion_visible" 
+ obtenebration_name:1 "obtenebration_visible" 
+ melancholy_necromancy_name:1 "melancholynecromancy_visible" 
+ auspex_name:1 "auspex_visible"
+ dominate_name:1 "dominate_visible"
+ bloodsorcery_name:1 "bloodsorcery_visible" 
+ presence_name:1 "presence_visible"
+ thinblood_alchemy_name:1 "thinbloodalchemy_visible" 
+ animalism_name:1 "animalism_visible" 
+ protean_name:1 "protean_visible"
+ daimonion_name:1 "daimonion_visible"
+ serpentis_name:1 "serpentis_visible" 
+ abombwe_name:1 "abombwe_visible"
+ visceratika_name:1 "visceratika_visible"
+ chimerstry_name:1 "chimerstry_visible"
+ bardo_name:1 "bardo_visible"
+ temporis_name:1 "temporis_visible"
+ dementation_name:1 "dementation_visible"
+ melpominee_name:1 "melpominee_visible"
+ animal_spiritus_name:1 "animal_spiritus_visible"
+ valeren_name:1 "valeren_visible"
+ quietus_name:1 "quietus_visible"
+ mytherceria_name:1 "mytherceria_visible"
+ # Hunter
+ red_name:1 "ritae_visible"
+ acre_name:1 "investitures_visible"
+ sisters_name:1 "psalms_visible"
+ murnau_name:1 "legacies_visible"
+ oculi_name:1 "blessings_visible"
+ # KJ
+ boneshintai_name:1 "boneshintai_visible"
+ fleshshintai_name:1 "fleshshintai_visible"
+ bloodshintai_name:1 "bloodshintai_visible"
+ ghostflameshintai_name:1 "ghostflameshintai_visible"
+ jadeshintai_name:1 "jadeshintai_visible"
+ chiiumuh_name:1 "chiiumuh_visible"
+ cultivation_name:1 "cultivation_visible"
+ internalize_name:1 "internalize_visible"
+ obligation_name:1 "obligation_visible"
+ mibasham_name:1 "mibasham_visible"
+ tzuwei_name:1 "tzuwei_visible"
+ # Shih
+ i_shen_name:1 "i_shen_visible"
+ mo_kung_name:1 "mo_kung_visible"
+ yu_an_name:1 "yu_an_visible"
+ feng_name:1 "feng_visible"
+ shi_name:1 "shi_visible"
+ chien_name:1 "chien_visible"
+ long_ling_name:1 "long_ling_visible"
+ meng_name:1 "meng_visible"
+ zhu_mao_name:1 "zhu_mao_visible"
+ # Mummy
+ amulets_name:1 "amulets_visible"
+ alchemy_name:1 "alchemy_visible"
+ celestial_name:1 "celestial_visible"
+ effigy_name:1 "effigy_visible"
+ necromancy_name:1 "necromancy_visible"
+ nomenclature_name:1 "nomenclature_visible"
+ feng_tan_name:1 "fengtan_visible"
+ lung_tan_name:1 "lungtan_visible"
+ # Wraith
+ argos_name:1 "argos_visible"
+ castigate_name:1 "castigate_visible"
+ embody_name:1 "embody_visible"
+ fatalism_name:1 "fatalism_visible"
+ inhabit_name:1 "inhabit_visible"
+ keening_name:1 "keening_visible"
+ lifeweb_name:1 "lifeweb_visible"
+ moliate_name:1 "moliate_visible"
+ outrage_name:1 "outrage_visible"
+ pandemonium_name:1 "pandemonium_visible"
+ phantasm_name:1 "phantasm_visible"
+ puppetry_name:1 "puppetry_visible"
+ usury_name:1 "usury_visible"
+ thorn_name:1 "thorn_visible"
+ # Numina
+ truefaith_name:1 "truefaith_visible"
+ psi_name:1 "psi_visible"
+ sorcery_name:1 "sorcery_visible"
+ theurgy_name:1 "theurgy_visible"
+ banshee_name:1 "banshee_visible"
+ haunter_name:1 "haunter_visible"
+ poltergeist_name:1 "poltergeist_visible"
+ skinrider_name:1 "skinrider_visible"
+ wisp_name:1 "wisp_visible"
+ orphan_grinder_name:1 "orphan_grinder_visible"
+ marrow_name:1 "marrow_visible"
+ # Possessed
+ fomori_name:1 "fomori_visible"
+ gorgon_name:1 "gorgon_visible"
+ drone_name:1 "drone_visible"
+ kami_name:1 "kami_visible"
+ # Demon
+ form_name:1 "form_visible"
+ glory_name:1 "glory_visible"
+ mind_soul_name:1 "mind_soul_visible"
+ fate_portals_name:1 "fate_portals_visible"
+ force_element_name:1 "force_element_visible"
+ fundament_name:1 "fundament_visible"
+ humanity_name:1 "humanity_visible"
+ chaos_name:1 "chaos_visible"
+ contamination_name:1 "contamination_visible"
+ violation_name:1 "violation_visible" 
+ demonic_investment_name:1 "demonic_investment_visible"
+ # Mage
+ forces_name:0 "forces_visible"
+ life_name:0 "life_visible"
+ matter_name:0 "matter_visible"
+ mind_name:0 "mind_visible"
+ entropy_name:0 "entropy_visible"
+ prime_name:0 "prime_visible"
+ time_name:0 "time_visible"
+ correspondence_name:0 "correspondence_visible"
+ # Planet Gift
+ eshtarragifts_name:1 "eshtarragifts_visible"
+ sokhtagifts_name:1 "sokhtagifts_visible"
+ katankasonnakgifts_name:1 "katankasonnakgifts_visible"
+ mitanugifts_name:1 "mitanugifts_visible"
+ hakahegifts_name:1 "hakahegifts_visible"
+ tambiyahgifts_name:1 "tambiyahgifts_visible"
+ nerigalgifts_name:1 "nerigalgifts_visible"
+ rorggifts_name:1 "rorggifts_visible"
+ zarokgifts_name:1 "zarokgifts_visible"
+ lubatgifts_name:1 "lubatgifts_visible"
+ ruatmagifts_name:1 "ruatmagifts_visible"
+ shantargifts_name:1 "shantargifts_visible"
+ merosgifts_name:1 "merosgifts_visible"
+ # WW
+ ahroungifts_name:1 "ahroungifts_visible"
+ galliardgifts_name:1 "galliardgifts_visible"
+ ragabashgifts_name:1 "ragabashgifts_visible"
+ philodoxgifts_name:1 "philodoxgifts_visible"
+ theurgegifts_name:1 "theurgegifts_visible"
+ homidgifts_name:1 "homidgifts_visible"
+ lupusgifts_name:1 "lupusgifts_visible"
+ metisgifts_name:1 "metisgifts_visible"
+ blackfurygifts_name:1 "blackfurygifts_visible"
+ bonegnawergifts_name:1 "bonegnawergifts_visible"
+ childofgaiagifts_name:1 "childofgaiagifts_visible"
+ fiannagifts_name:1 "fiannagifts_visible"
+ getoffenrisgifts_name:1 "getoffenrisgifts_visible"
+ redtalongifts_name:1 "redtalongifts_visible"
+ shadowlordgifts_name:1 "shadowlordgifts_visible"
+ silentstridergifts_name:1 "silentstridergifts_visible"
+ silverfanggifts_name:1 "silverfanggifts_visible"
+ stargazergifts_name:1 "stargazergifts_visible"
+ glasswalkergifts_name:1 "glasswalkergifts_visible"
+ blackspiraldancergifts_name:1 "blackspiraldancergifts_visible"
+ # Fera
+ ajabagifts_name:1 "ajabagifts_visible"
+ bastetgifts_name:1 "bastetgifts_visible"
+ bastethomidgifts_name:1 "bastethomidgifts_visible"
+ felinegifts_name:1 "felinegifts_visible"
+ bastetmetisgifts_name:1 "bastetmetisgifts_visible"
+ coraxgifts_name:1 "coraxgifts_visible"
+ gurahlgifts_name:1 "gurahlgifts_visible"
+ gurahlhomidgifts_name:1 "gurahlhomidgifts_visible"
+ ursinegifts_name:1 "ursinegifts_visible"
+ kitsunegifts_name:1 "kitsunegifts_visible"
+ kojingifts_name:1 "kojingifts_visible"
+ rokogifts_name:1 "rokogifts_visible"
+ shinjugifts_name:1 "shinjugifts_visible"
+ mokolegifts_name:1 "mokolegifts_visible"
+ nagahgifts_name:1 "nagahgifts_visible"
+ balaramgifts_name:1 "balaramgifts_visible"
+ vasukigifts_name:1 "vasukigifts_visible"
+ ahigifts_name:1 "ahigifts_visible"
+ nuwishagifts_name:1 "nuwishagifts_visible"
+ ratkingifts_name:1 "ratkingifts_visible"
+ ratkinhomidgifts_name:1 "ratkinhomidgifts_visible"
+ rodensgifts_name:1 "rodensgifts_visible"
+ ratkinmetisgifts_name:1 "ratkinmetisgifts_visible"
+ rokeagifts_name:1 "rokeagifts_visible"
+ apisgifts_name:1 "apisgifts_visible"
+ camazotzgifts_name:1 "camazotzgifts_visible"
+ grondrgifts_name:1 "grondrgifts_visible"
+ ananasigifts_name:1 "ananasigifts_visible"
+ ananasihomidgifts_name:1 "ananasihomidgifts_visible"
+ arachnidgifts_name:1 "arachnidgifts_visible"
+ generalhengeyokaigifts_name:1 "generalhengeyokaigifts_visible"
+ hakkengifts_name:1 "hakkengifts_visible"
+ kumogifts_name:1 "kumogifts_visible"
+ tengugifts_name:1 "tengugifts_visible"
+ ju_fugifts_name:1 "ju_fugifts_visible"
+ zhong_lunggifts_name:1 "zhong_lunggifts_visible"
+ nezumigifts_name:1 "nezumigifts_visible"
+ same_bitogifts_name:1 "same_bitogifts_visible"
+ arcasgifts_name:1 "arcasgifts_visible"
+ uzmatigifts_name:1 "uzmatigifts_visible"
+ kojubatgifts_name:1 "kojubatgifts_visible"
+ kiehgifts_name:1 "kiehgifts_visible"
+ rishigifts_name:1 "rishigifts_visible"
+ doshigifts_name:1 "doshigifts_visible"
+ ejigifts_name:1 "ejigifts_visible"
+ kataribegifts_name:1 "kataribegifts_visible"
+ gukutsushigifts_name:1 "gukutsushigifts_visible"
+ rising_sungifts_name:1 "rising_sungifts_visible"
+ noonday_sungifts_name:1 "noonday_sungifts_visible"
+ setting_sungifts_name:1 "setting_sungifts_visible"
+ midnight_sungifts_name:1 "midnight_sungifts_visible"
+ shrouded_sungifts_name:1 "shrouded_sungifts_visible"
+ decorated_sungifts_name:1 "decorated_sungifts_visible"
+ eclipsed_sungifts_name:1 "eclipsed_sungifts_visible"
+ kamakshigifts_name:1 "kamakshigifts_visible"
+ kartikeyagifts_name:1 "kartikeyagifts_visible"
+ kamsagifts_name:1 "kamsagifts_visible"
+ kaligifts_name:1 "kaligifts_visible"
+ tunnel_runnergifts_name:1 "tunnel_runnergifts_visible"
+ shadow_seergifts_name:1 "shadow_seergifts_visible"
+ knife_skulkergifts_name:1 "knife_skulkergifts_visible"
+ bardgifts_name:1 "bardgifts_visible"
+ warriorgifts_name:1 "warriorgifts_visible"
+ engineergifts_name:1 "engineergifts_visible"
+ plague_lordgifts_name:1 "plague_lordgifts_visible"
+ munchmausengifts_name:1 "munchmausengifts_visible"
+ twitchergifts_name:1 "twitchergifts_visible"
+ brightwatergifts_name:1 "brightwatergifts_visible"
+ dimwatergifts_name:1 "dimwatergifts_visible"
+ darkwatergifts_name:1 "darkwatergifts_visible"
