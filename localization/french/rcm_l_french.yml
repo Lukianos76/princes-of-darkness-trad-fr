@@ -1,2 +1,3 @@
-﻿l_french: rcm_override_interaction:0 "Déplacer la capitale du royaume"
-    rcm_override_interaction_desc:0 "#F Déplacez la capitale de votre royaume ici.#!"
+﻿l_french:
+ rcm_override_interaction:0 "Déplacer la capitale du royaume"
+ rcm_override_interaction_desc:0 "#F Déplacez la capitale de votre royaume ici.#!"

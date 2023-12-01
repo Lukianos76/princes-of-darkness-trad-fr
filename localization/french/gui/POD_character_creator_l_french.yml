@@ -1,5 +1,6 @@
-﻿l_french: CHARACTER_CREATOR_WINDOW_TITLE:0 "Créateur de personnages"
-    CHARACTER_CREATOR_WINDOW_CHANGE:0 "Confirmer"
-    CHARACTER_CREATOR_WINDOW_CHOOSE_NEW:0 "Statistique disponible"
-    CHARACTER_CREATOR_WINDOW_GENDER_FEMALE_CHANCE:0 "Chance féminine"
-    CHARACTER_CREATOR_WINDOW_POINTS:0 "Point : [GetPlayer.MakeScope.GetVariable('character_creator_points').GetValue|0]"
+﻿l_french:
+ CHARACTER_CREATOR_WINDOW_TITLE:0 "Créateur de personnages"
+ CHARACTER_CREATOR_WINDOW_CHANGE:0 "Confirmer"
+ CHARACTER_CREATOR_WINDOW_CHOOSE_NEW:0 "Statistique disponible"
+ CHARACTER_CREATOR_WINDOW_GENDER_FEMALE_CHANCE:0 "Chance féminine"
+ CHARACTER_CREATOR_WINDOW_POINTS:0 "Point : [GetPlayer.MakeScope.GetVariable('character_creator_points').GetValue|0]"

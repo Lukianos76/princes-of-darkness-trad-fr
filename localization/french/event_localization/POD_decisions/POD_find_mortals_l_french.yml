@@ -1,5 +1,6 @@
-﻿l_french: POD_find_mortals.100.t:0 "Nouveau sang"
-    POD_find_mortals.100.desc:0 "En fouillant la zone, vous trouvez un certain nombre de mortels à proximité qui seraient vulnérables à vos machinations."
-    POD_find_mortals.100.option.a:0 "Que dois-je en faire ?"
-    POD_find_mortals.100.option.a.tt.beast:0 "#R Mangeons-les !#!"
-    POD_find_mortals.youcanhunt:0 "Vous pouvez chasser n'importe quel mortel à votre emplacement actuel en faisant un clic droit dessus et en choisissant Chasse [character_interaction|E]."
+﻿l_french:
+ POD_find_mortals.100.t:0 "Nouveau sang"
+ POD_find_mortals.100.desc:0 "En fouillant la zone, vous trouvez un certain nombre de mortels à proximité qui seraient vulnérables à vos machinations."
+ POD_find_mortals.100.option.a:0 "Que dois-je en faire ?"
+ POD_find_mortals.100.option.a.tt.beast:0 "#R Mangeons-les !#!"
+ POD_find_mortals.youcanhunt:0 "Vous pouvez chasser n'importe quel mortel à votre emplacement actuel en faisant un clic droit dessus et en choisissant Chasse [character_interaction|E]."

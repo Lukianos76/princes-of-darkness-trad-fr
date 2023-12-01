@@ -1,6 +1,7 @@
-﻿l_french: POD_selling_beer_modifier:0 "Vendre de la bière"
-    POD_selling_beer_modifier_desc:0 "Une délicieuse bière fabriquée par des moines est vendue dans ce comté."
-    POD_disrupted_contacts_modifier:0 "Contacts perturbés"
-    POD_disrupted_contacts_modifier_desc:0 "Les dirigeants communautaires agissant comme intermédiaires auprès des forces néfastes de ce comté se sont cachés."
-    POD_frenzy_terrified_populace_modifier:0 "Une population terrifiée"
-    POD_frenzy_terrified_populace_modifier_desc:0 "Un terrible monstre a provoqué un horrible massacre dans la région"
+﻿l_french:
+ POD_selling_beer_modifier:0 "Vendre de la bière"
+ POD_selling_beer_modifier_desc:0 "Une délicieuse bière fabriquée par des moines est vendue dans ce comté."
+ POD_disrupted_contacts_modifier:0 "Contacts perturbés"
+ POD_disrupted_contacts_modifier_desc:0 "Les dirigeants communautaires agissant comme intermédiaires auprès des forces néfastes de ce comté se sont cachés."
+ POD_frenzy_terrified_populace_modifier:0 "Une population terrifiée"
+ POD_frenzy_terrified_populace_modifier_desc:0 "Un terrible monstre a provoqué un horrible massacre dans la région"

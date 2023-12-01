@@ -1,4 +1,5 @@
-﻿l_french: POD_spiritus.100.t:0 "Choisissez votre animal spirituel"
-    POD_spiritus.100.desc:0 "Vous gagnez un animal spirituel de votre choix."
-    POD_spiritus.200.t:0 "Acheter Aspect de la Bête"
-    POD_spiritus.200.desc:0 "Vous pouvez imiter un nouvel aspect d’un esprit animal."
+﻿l_french:
+ POD_spiritus.100.t:0 "Choisissez votre animal spirituel"
+ POD_spiritus.100.desc:0 "Vous gagnez un animal spirituel de votre choix."
+ POD_spiritus.200.t:0 "Acheter Aspect de la Bête"
+ POD_spiritus.200.desc:0 "Vous pouvez imiter un nouvel aspect d’un esprit animal."
