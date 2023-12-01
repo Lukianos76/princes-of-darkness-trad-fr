@@ -1,27 +1,26 @@
 ﻿l_french:
-  
- POD_ashen_prospect.001.t: "Inviter un prospect Ashen" #NT!
- POD_ashen_prospect.001.desc: "Votre statut et votre influence dans les mondes de Kindred et de Kine vous permettent d'amener des serviteurs potentiels à votre cour." #NT!
- POD_ashen_prospect.001.option.a: "Noble perspective" #NT!
- POD_ashen_prospect.001.option.a.tt: "Invoquez [cainites|E] du noble héritage qui pourrait vous servir." #NT!
- POD_ashen_prospect.001.option.b: "Perspective chevalier" #NT!
- POD_ashen_prospect.001.option.b.tt: "Envoyez un appel pour [cainites|E] de prouesses martiales et de force des armes." #NT!
- POD_ashen_prospect.001.option.c: "Perspective sénéchale" #NT!
- POD_ashen_prospect.001.option.c.tt: "Attirez les intendants et les sénéchaux à votre cour avec des promesses de richesse et de stature." #NT!
- POD_ashen_prospect.001.option.d: "Perspective de voleur" #NT!
- POD_ashen_prospect.001.option.d.tt: "Invitez [cainites|E] habile à rester invisible et à négliger l'autorité du prince" #NT!
- POD_ashen_prospect.001.option.e: "Perspective culte" #NT!
- POD_ashen_prospect.001.option.e.tt: "Contactez les [cainites|E] ambitieux qui contrôlent les mortels dans les sectes" #NT!
-  
- POD_ashen_prospect.101.t: "Les convocations sont répondues !" #NT!
- POD_ashen_prospect.101.desc.noble: "Tous les membres de la noblesse ne cherchent pas à régner ; certains se contentent de servir à proximité des sièges du pouvoir. Moyennant un certain prix, leurs conseils peuvent être les vôtres." #NT!
- POD_ashen_prospect.101.desc.knight: "Les guerres des mortels créent un monde rempli de [cainites|E] experts dans les techniques de la guerre et prêts à promettre leur épée et leur service à un prince généreux, pour le juste prix." #NT!
- POD_ashen_prospect.101.desc.seneschal: "Bien que les stocks et les inventaires puissent différer de ceux du monde des mortels, un seigneur [cainite|E] sensé apprécie un bon sénéchal pour administrer ses propriétés." #NT!
- POD_ashen_prospect.101.desc.thief: "Même vos proches ne peuvent pas vivre une vie honorable. Lorsqu'ils sont opprimés par ceux qui gouvernent, avoir l'un d'eux à votre service peut s'avérer utile." #NT!
- POD_ashen_prospect.101.desc.cult: "La religion est très importante pour les mortels. C'est pourquoi certains [cainites|E] portent un masque de Dieux ou de leurs serviteurs pour manipuler les proches afin qu'ils deviennent leurs serviteurs." #NT!
- POD_ashen_prospect.101.option.a: "Je choisis [prospect_one.GetFirstName]" #NT!
- POD_ashen_prospect.101.option.a.tt: "[prospect_one.GetFirstName] rejoint votre terrain, [prospect_two.GetFirstName] et [prospect_three.GetFirstName] sont renvoyés" #NT!
- POD_ashen_prospect.101.option.b: "Je choisis [prospect_two.GetFirstName]" #NT!
- POD_ashen_prospect.101.option.b.tt: "[prospect_two.GetFirstName] rejoint votre terrain, [prospect_one.GetFirstName] et [prospect_three.GetFirstName] sont renvoyés" #NT!
- POD_ashen_prospect.101.option.c: "Je choisis [prospect_three.GetFirstName]" #NT!
- POD_ashen_prospect.101.option.c.tt: "[prospect_three.GetFirstName] rejoint votre terrain, [prospect_one.GetFirstName] et [prospect_two.GetFirstName] sont renvoyés" #NT!
+    POD_ashen_prospect.001.t: "Inviter un prospect Ashen"
+    POD_ashen_prospect.001.desc: "Votre statut et votre influence dans les mondes de Kindred et de Kine vous permettent d'amener des serviteurs potentiels à votre cour."
+    POD_ashen_prospect.001.option.a: "Noble perspective"
+    POD_ashen_prospect.001.option.a.tt: "Invoquez [cainites|E] du noble héritage qui pourrait vous servir."
+    POD_ashen_prospect.001.option.b: "Perspective chevalier"
+    POD_ashen_prospect.001.option.b.tt: "Envoyez un appel pour [cainites|E] de prouesses martiales et de force des armes."
+    POD_ashen_prospect.001.option.c: "Perspective sénéchale"
+    POD_ashen_prospect.001.option.c.tt: "Attirez les intendants et les sénéchaux à votre cour avec des promesses de richesse et de stature."
+    POD_ashen_prospect.001.option.d: "Perspective de voleur"
+    POD_ashen_prospect.001.option.d.tt: "Invitez [cainites|E] habile à rester invisible et à négliger l'autorité du prince"
+    POD_ashen_prospect.001.option.e: "Perspective culte"
+    POD_ashen_prospect.001.option.e.tt: "Contactez les [cainites|E] ambitieux qui contrôlent les mortels dans les sectes"
+
+    POD_ashen_prospect.101.t: "Les convocations sont répondues !"
+    POD_ashen_prospect.101.desc.noble: "Tous les membres de la noblesse ne cherchent pas à régner ; certains se contentent de servir à proximité des sièges du pouvoir. Moyennant un certain prix, leurs conseils peuvent être les vôtres."
+    POD_ashen_prospect.101.desc.knight: "Les guerres des mortels créent un monde rempli de [cainites|E] experts dans les techniques de la guerre et prêts à promettre leur épée et leur service à un prince généreux, pour le juste prix."
+    POD_ashen_prospect.101.desc.seneschal: "Bien que les stocks et les inventaires puissent différer de ceux du monde des mortels, un seigneur [cainite|E] sensé apprécie un bon sénéchal pour administrer ses propriétés."
+    POD_ashen_prospect.101.desc.thief: "Même vos proches ne peuvent pas vivre une vie honorable. Lorsqu'ils sont opprimés par ceux qui gouvernent, avoir l'un d'eux à votre service peut s'avérer utile."
+    POD_ashen_prospect.101.desc.cult: "La religion est très importante pour les mortels. C'est pourquoi certains [cainites|E] portent un masque de Dieux ou de leurs serviteurs pour manipuler les proches afin qu'ils deviennent leurs serviteurs."
+    POD_ashen_prospect.101.option.a: "Je choisis [prospect_one.GetFirstName]"
+    POD_ashen_prospect.101.option.a.tt: "[prospect_one.GetFirstName] rejoint votre terrain, [prospect_two.GetFirstName] et [prospect_three.GetFirstName] sont renvoyés"
+    POD_ashen_prospect.101.option.b: "Je choisis [prospect_two.GetFirstName]"
+    POD_ashen_prospect.101.option.b.tt: "[prospect_two.GetFirstName] rejoint votre terrain, [prospect_one.GetFirstName] et [prospect_three.GetFirstName] sont renvoyés"
+    POD_ashen_prospect.101.option.c: "Je choisis [prospect_three.GetFirstName]"
+    POD_ashen_prospect.101.option.c.tt: "[prospect_three.GetFirstName] rejoint votre terrain, [prospect_one.GetFirstName] et [prospect_two.GetFirstName] sont renvoyés"

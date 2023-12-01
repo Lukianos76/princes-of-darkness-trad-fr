@@ -1,86 +1,86 @@
 ﻿l_french:
   
- podgiovanni.1.t: "Familia sait mieux" #NT!
- podgiovanni.1.desc: "Bien qu'ils aient considérablement élargi leur horizon depuis leurs humbles débuts en tant que mystérieux nécromanciens vénitiens, les Giovanni restent avant tout une famille. Beaucoup diraient que c'est toujours leur plus grande force, avoir la capacité de s'appuyer à tout moment sur une famille puissante et bien connectée est un luxe dont d'autres ne peuvent que rêver.\nDepuis leur introduction dans le monde des vampires, les Giovanni gardent toujours un œil attentif sur leurs parents mortels, les préparant soigneusement à la grandeur avant d'offrir le [Embrace|E] à ceux qui en sont vraiment dignes. Cependant, quelques Giovanni rejettent cette pratique et choisissent exclusivement des enfants potentiels en dehors de la famille et abandonnent leurs parents mortels à leur sort.\nEn tant que Giovanni estimé vous-même, il est temps pour vous de faire connaître votre position sur cette tradition." #NT!
- podgiovanni.1.a: "J'ai déjà les yeux rivés sur quelques prospects..." #NT!
- podgiovanni.1.b: "Une tradition respectable, mais je n'en ai pas besoin pour le moment." #NT!
- podgiovanni.1.c: "Laissez la famille tranquille." #NT!
- start_giovanni_content_tt: "Plusieurs choix vous seront présentés qui définiront votre type préféré pour un enfant Giovanni. Une fois qu'un candidat approprié est trouvé, vous en serez informé." #NT!
- delayed_start_giovanni_content_tt: "Ce choix vous sera à nouveau présenté pour la prochaine génération de prospects mortels Giovanni, dans environ 20 à 40 ans." #NT!
- end_giovanni_content_tt: "Cette possibilité ne vous sera plus jamais présentée." #NT!
+ podgiovanni.1.t: "Familia sait mieux"
+ podgiovanni.1.desc: "Bien qu'ils aient considérablement élargi leur horizon depuis leurs humbles débuts en tant que mystérieux nécromanciens vénitiens, les Giovanni restent avant tout une famille. Beaucoup diraient que c'est toujours leur plus grande force, avoir la capacité de s'appuyer à tout moment sur une famille puissante et bien connectée est un luxe dont d'autres ne peuvent que rêver.\nDepuis leur introduction dans le monde des vampires, les Giovanni gardent toujours un œil attentif sur leurs parents mortels, les préparant soigneusement à la grandeur avant d'offrir le [Embrace|E] à ceux qui en sont vraiment dignes. Cependant, quelques Giovanni rejettent cette pratique et choisissent exclusivement des enfants potentiels en dehors de la famille et abandonnent leurs parents mortels à leur sort.\nEn tant que Giovanni estimé vous-même, il est temps pour vous de faire connaître votre position sur cette tradition."
+ podgiovanni.1.a: "J'ai déjà les yeux rivés sur quelques prospects..."
+ podgiovanni.1.b: "Une tradition respectable, mais je n'en ai pas besoin pour le moment."
+ podgiovanni.1.c: "Laissez la famille tranquille."
+ start_giovanni_content_tt: "Plusieurs choix vous seront présentés qui définiront votre type préféré pour un enfant Giovanni. Une fois qu'un candidat approprié est trouvé, vous en serez informé."
+ delayed_start_giovanni_content_tt: "Ce choix vous sera à nouveau présenté pour la prochaine génération de prospects mortels Giovanni, dans environ 20 à 40 ans."
+ end_giovanni_content_tt: "Cette possibilité ne vous sera plus jamais présentée."
   
- podgiovanni.2.t: "Fils et filles des Giovanni" #NT!
- podgiovanni.2.desc: "Bien que très patriarcaux depuis leurs débuts en tant que famille de marchands romains, les Giovanni ont rapidement appris une vérité du vampirisme : les femmes sont facilement les égales des hommes. Ce changement soudain de mentalité a été une aubaine pour les filles de la Familia, qui se retrouvent valorisées autant que leurs frères pour le potentiel qu'elles pourraient apporter aux Giovanni. Certaines sont allées jusqu’à les donner la priorité à leurs homologues masculins, car beaucoup sont très désireuses de montrer que cette nouvelle appréciation est effectivement justifiée. D'autres ont un peu plus de difficulté à sortir de leur état d'esprit mortel désuet et se tourneront naturellement vers les jeunes hommes Giovanni.\nEn fin de compte cependant, il n'y a pas de mauvais choix ici." #NT!
- podgiovanni.2.a: "Fils..." #NT!
- podgiovanni.2.b: "...ou des filles." #NT!
+ podgiovanni.2.t: "Fils et filles des Giovanni"
+ podgiovanni.2.desc: "Bien que très patriarcaux depuis leurs débuts en tant que famille de marchands romains, les Giovanni ont rapidement appris une vérité du vampirisme : les femmes sont facilement les égales des hommes. Ce changement soudain de mentalité a été une aubaine pour les filles de la Familia, qui se retrouvent valorisées autant que leurs frères pour le potentiel qu'elles pourraient apporter aux Giovanni. Certaines sont allées jusqu’à les donner la priorité à leurs homologues masculins, car beaucoup sont très désireuses de montrer que cette nouvelle appréciation est effectivement justifiée. D'autres ont un peu plus de difficulté à sortir de leur état d'esprit mortel désuet et se tourneront naturellement vers les jeunes hommes Giovanni.\nEn fin de compte cependant, il n'y a pas de mauvais choix ici."
+ podgiovanni.2.a: "Fils..."
+ podgiovanni.2.b: "...ou des filles."
   
- giovanni_content_risks_increase_tt: "Plus vous en demandez, plus il sera difficile et potentiellement coûteux de protéger votre prospect contre d'autres concurrents." #NT!
+ giovanni_content_risks_increase_tt: "Plus vous en demandez, plus il sera difficile et potentiellement coûteux de protéger votre prospect contre d'autres concurrents."
   
- podgiovanni.3.t: "Beauté familiale" #NT!
- podgiovanni.3.desc: "Leur héritage romain a rendu les Giovanni assez fiers de leurs bons gènes. Se considérant d'abord comme les seuls habitants non barbares de la péninsule après la chute de Rome, puis comme le mélange parfait de la perfection romaine classique et de la beauté italienne moderne, ils ont continuellement valorisé (et utilisé) ce que la nature leur a donné. Pourtant, malgré leurs affirmations audacieuses, il n'y a aucune preuve réelle que la Familia est plus ou moins bénie dans le domaine de l'apparence que les autres et, en tant que tels, les descendants de la famille qui affichent réellement des figures aussi vantées sont particulièrement recherchés pour servir d'exemples immortels. de la manière Giovanni." #NT!
- podgiovanni.3.a: "Seul un Apollon renaissant fera l’affaire !" #NT!
- podgiovanni.3.b: "Je peux me contenter de presque la perfection." #NT!
- podgiovanni.3.c: "Certaines courbes gracieuses ne font de mal à personne." #NT!
- podgiovanni.3.d: "La beauté est surfaite." #NT!
+ podgiovanni.3.t: "Beauté familiale"
+ podgiovanni.3.desc: "Leur héritage romain a rendu les Giovanni assez fiers de leurs bons gènes. Se considérant d'abord comme les seuls habitants non barbares de la péninsule après la chute de Rome, puis comme le mélange parfait de la perfection romaine classique et de la beauté italienne moderne, ils ont continuellement valorisé (et utilisé) ce que la nature leur a donné. Pourtant, malgré leurs affirmations audacieuses, il n'y a aucune preuve réelle que la Familia est plus ou moins bénie dans le domaine de l'apparence que les autres et, en tant que tels, les descendants de la famille qui affichent réellement des figures aussi vantées sont particulièrement recherchés pour servir d'exemples immortels. de la manière Giovanni."
+ podgiovanni.3.a: "Seul un Apollon renaissant fera l’affaire !"
+ podgiovanni.3.b: "Je peux me contenter de presque la perfection."
+ podgiovanni.3.c: "Certaines courbes gracieuses ne font de mal à personne."
+ podgiovanni.3.d: "La beauté est surfaite."
   
- podgiovanni.4.t: "Intelligence familiale" #NT!
- podgiovanni.4.desc: "Plus que les muscles ou la beauté, les Giovanni valorisent l'intellect plus que toute autre chose. En tant que marchands et nécromanciens secrets en Italie depuis des siècles, ils ont vite compris que leurs membres, trop lents à apprendre à ne pas parler de leur famille à des étrangers, pouvaient constituer un handicap très menaçant. En tant que tel, si vous ne faites pas preuve au moins d'un minimum d'intelligence, vous serez rapidement relégué au rang de muscle familial ou pire, aux frontières.\nC'est l'une des "conditions cachées" les plus connues parmi la Familia mortelle et les ambitieux. les uns tentent rapidement de se surpasser par de grands exploits commerciaux habiles ou une diplomatie astucieuse dans des pays lointains pour attirer l'attention de leurs clients immortels." #NT!
- podgiovanni.4.a: "Je veux le meilleur du meilleur." #NT!
- podgiovanni.4.b: "Compétent, mais pas parfait." #NT!
- podgiovanni.4.c: "Au moins assez intelligent pour être intéressant." #NT!
- podgiovanni.4.d: "Un intellect avancé n’est pas requis pour cette perspective spécifique." #NT!
+ podgiovanni.4.t: "Intelligence familiale"
+ podgiovanni.4.desc: "Plus que les muscles ou la beauté, les Giovanni valorisent l'intellect plus que toute autre chose. En tant que marchands et nécromanciens secrets en Italie depuis des siècles, ils ont vite compris que leurs membres, trop lents à apprendre à ne pas parler de leur famille à des étrangers, pouvaient constituer un handicap très menaçant. En tant que tel, si vous ne faites pas preuve au moins d'un minimum d'intelligence, vous serez rapidement relégué au rang de muscle familial ou pire, aux frontières.\nC'est l'une des "conditions cachées" les plus connues parmi la Familia mortelle et les ambitieux. les uns tentent rapidement de se surpasser par de grands exploits commerciaux habiles ou une diplomatie astucieuse dans des pays lointains pour attirer l'attention de leurs clients immortels."
+ podgiovanni.4.a: "Je veux le meilleur du meilleur."
+ podgiovanni.4.b: "Compétent, mais pas parfait."
+ podgiovanni.4.c: "Au moins assez intelligent pour être intéressant."
+ podgiovanni.4.d: "Un intellect avancé n’est pas requis pour cette perspective spécifique."
   
- podgiovanni.5.t: "Muscle familial" #NT!
- podgiovanni.5.desc: "La Familia a toujours eu besoin de force au cours de son histoire, que ce soit pour protéger ses atouts durement gagnés ou pour « s'emparer » de ceux de certains rivaux. Le conflit avec la famille Rossellini a mis en évidence ce besoin critique très tôt dans l'existence des Giovanni et il s'est perpétué depuis lors. Plusieurs aînés ambitieux ont fait des propositions concernant la création d'une sorte de "sous-famille" qui ne s'occuperait que de ces questions physiques, garantissant ainsi que les descendants de Giovanni pourraient continuer à travailler sur des activités plus élevées, mais jusqu'à présent, cela n'a pas donné de résultats. En tant que tels, les fils et filles puissants et bien bâtis de la Familia sont estimés et recherchés par ceux qui recherchent le punch nécessaire à ajouter à leur portefeuille de capacités." #NT!
- podgiovanni.5.a: "Seul un corps parfait fera l’affaire." #NT!
- podgiovanni.5.b: "Fort et endurant." #NT!
- podgiovanni.5.c: "Un physique solide est toujours utile." #NT!
- podgiovanni.5.d: "Ce n'est pas nécessaire." #NT!
+ podgiovanni.5.t: "Muscle familial"
+ podgiovanni.5.desc: "La Familia a toujours eu besoin de force au cours de son histoire, que ce soit pour protéger ses atouts durement gagnés ou pour « s'emparer » de ceux de certains rivaux. Le conflit avec la famille Rossellini a mis en évidence ce besoin critique très tôt dans l'existence des Giovanni et il s'est perpétué depuis lors. Plusieurs aînés ambitieux ont fait des propositions concernant la création d'une sorte de "sous-famille" qui ne s'occuperait que de ces questions physiques, garantissant ainsi que les descendants de Giovanni pourraient continuer à travailler sur des activités plus élevées, mais jusqu'à présent, cela n'a pas donné de résultats. En tant que tels, les fils et filles puissants et bien bâtis de la Familia sont estimés et recherchés par ceux qui recherchent le punch nécessaire à ajouter à leur portefeuille de capacités."
+ podgiovanni.5.a: "Seul un corps parfait fera l’affaire."
+ podgiovanni.5.b: "Fort et endurant."
+ podgiovanni.5.c: "Un physique solide est toujours utile."
+ podgiovanni.5.d: "Ce n'est pas nécessaire."
   
- podgiovanni.6.t: "La recherche commence" #NT!
- podgiovanni.6.desc: "Vous avez fait connaître votre demande à la Familia et il ne vous reste plus qu'à attendre. Les mortels vivent et meurent à une vitesse amusante, comme vous le savez, mais même eux ont encore besoin de plusieurs décennies avant de commencer à devenir utiles. Si vous demandez quelqu'un de très spécifique, cela peut prendre beaucoup de temps avant que les Giovanni ne produisent un tel individu." #NT!
- podgiovanni.6.a: "Le temps est de mon côté." #NT!
- giovanni_wait_time_tt: "Plus vous en demandez, plus il faudra de temps avant qu'un candidat approprié se présente." #NT!
+ podgiovanni.6.t: "La recherche commence"
+ podgiovanni.6.desc: "Vous avez fait connaître votre demande à la Familia et il ne vous reste plus qu'à attendre. Les mortels vivent et meurent à une vitesse amusante, comme vous le savez, mais même eux ont encore besoin de plusieurs décennies avant de commencer à devenir utiles. Si vous demandez quelqu'un de très spécifique, cela peut prendre beaucoup de temps avant que les Giovanni ne produisent un tel individu."
+ podgiovanni.6.a: "Le temps est de mon côté."
+ giovanni_wait_time_tt: "Plus vous en demandez, plus il faudra de temps avant qu'un candidat approprié se présente."
   
- podgiovanni.8.t: "Un candidat digne ?" #NT!
- podgiovanni.8.desc: "Un descendant de la famille des mortels Giovanni a finalement été porté à votre attention pour satisfaire votre demande actuelle. Vous avez utilisé votre gravitas familiale accumulée pour vous assurer que vous êtes le premier à pouvoir évaluer leurs capacités. Celui-ci est impatient de servir, ravi d'avoir été choisi comme un digne candidat au véritable pouvoir chez les Giovanni mais, en fin de compte, ce que vous en ferez ne dépend que de vous et de vous seul." #NT!
- podgiovanni.8.a: "Ne me déçois pas." #NT!
- giovanni_content_end_tt: "Un certain prestige vous a été retiré pour "payer" l'influence nécessaire pour sécuriser ce candidat.\nL'option de demander un autre enfant potentiel vous sera présentée dans plusieurs décennies." #NT!
+ podgiovanni.8.t: "Un candidat digne ?"
+ podgiovanni.8.desc: "Un descendant de la famille des mortels Giovanni a finalement été porté à votre attention pour satisfaire votre demande actuelle. Vous avez utilisé votre gravitas familiale accumulée pour vous assurer que vous êtes le premier à pouvoir évaluer leurs capacités. Celui-ci est impatient de servir, ravi d'avoir été choisi comme un digne candidat au véritable pouvoir chez les Giovanni mais, en fin de compte, ce que vous en ferez ne dépend que de vous et de vous seul."
+ podgiovanni.8.a: "Ne me déçois pas."
+ giovanni_content_end_tt: "Un certain prestige vous a été retiré pour "payer" l'influence nécessaire pour sécuriser ce candidat.\nL'option de demander un autre enfant potentiel vous sera présentée dans plusieurs décennies."
   
- podgiovanni.9.t: "Querelles familiales" #NT!
- podgiovanni.9.desc: "Alors que vous surveillez divers mortels potentiels Giovanni qui pourraient correspondre à votre demande, vous devez malheureusement participer plus que d'habitude aux affaires familiales. Ce n'est pas la partie la plus attrayante de la vie de Giovanni, car les petites inquiétudes concernant ce qu'un grand-oncle a fait à un autre grand-cousin ne disparaissent jamais ici. C'est franchement ennuyeux, mais vous devez au moins essayer de rester intéressé si vous voulez que la famille reste de votre côté et ne sabote pas vos perspectives d'avenir, ce qui est connu pour arriver à ceux qui "manquent" trop souvent. les réunions de famille." #NT!
- podgiovanni.9.a: "Donner une excuse." #NT!
- podgiovanni.9.b: "Je vais aller..." #NT!
- podgiovanni.9.c: "J'ai des choses bien plus importantes à régler !" #NT!
- giovanni_head_tt: "Être chef de famille a ses avantages." #NT!
+ podgiovanni.9.t: "Querelles familiales"
+ podgiovanni.9.desc: "Alors que vous surveillez divers mortels potentiels Giovanni qui pourraient correspondre à votre demande, vous devez malheureusement participer plus que d'habitude aux affaires familiales. Ce n'est pas la partie la plus attrayante de la vie de Giovanni, car les petites inquiétudes concernant ce qu'un grand-oncle a fait à un autre grand-cousin ne disparaissent jamais ici. C'est franchement ennuyeux, mais vous devez au moins essayer de rester intéressé si vous voulez que la famille reste de votre côté et ne sabote pas vos perspectives d'avenir, ce qui est connu pour arriver à ceux qui "manquent" trop souvent. les réunions de famille."
+ podgiovanni.9.a: "Donner une excuse."
+ podgiovanni.9.b: "Je vais aller..."
+ podgiovanni.9.c: "J'ai des choses bien plus importantes à régler !"
+ giovanni_head_tt: "Être chef de famille a ses avantages."
   
- podgiovanni.10.t: "Destin familial" #NT!
- podgiovanni.10.desc: "Un descendant prometteur de la famille a attiré votre attention et pourrait être celui qui vous est destiné. Cependant, ils sont encore jeunes et, en tant que tels, sont encore très susceptibles d’échouer à une étape importante. Vous n'avez pas hâte d'attendre le prochain candidat un tant soit peu compétent et vous envisagez maintenant d'ouvrir clairement la voie à la grandeur de ce jeune.\nEn utilisant votre influence durement gagnée, vous pourriez vous assurer qu'il fréquente les meilleures universités italiennes et les meilleurs professeurs particuliers que Giovanni peut se permettre. Cela devrait certainement les aider à réaliser leur potentiel." #NT!
- podgiovanni.10.a: "Faire en sorte." #NT!
- podgiovanni.10.b: "Ils peuvent le faire eux-mêmes." #NT!
- podgiovanni.10.c: "La Famille a de nombreuses faveurs en attente qui peuvent être utilisées à cette fin." #NT!
- giovanni_adopt_boosted_tt: "Votre candidat aura +3 à chaque statistique à la fin de sa jeunesse." #NT!
+ podgiovanni.10.t: "Destin familial"
+ podgiovanni.10.desc: "Un descendant prometteur de la famille a attiré votre attention et pourrait être celui qui vous est destiné. Cependant, ils sont encore jeunes et, en tant que tels, sont encore très susceptibles d’échouer à une étape importante. Vous n'avez pas hâte d'attendre le prochain candidat un tant soit peu compétent et vous envisagez maintenant d'ouvrir clairement la voie à la grandeur de ce jeune.\nEn utilisant votre influence durement gagnée, vous pourriez vous assurer qu'il fréquente les meilleures universités italiennes et les meilleurs professeurs particuliers que Giovanni peut se permettre. Cela devrait certainement les aider à réaliser leur potentiel."
+ podgiovanni.10.a: "Faire en sorte."
+ podgiovanni.10.b: "Ils peuvent le faire eux-mêmes."
+ podgiovanni.10.c: "La Famille a de nombreuses faveurs en attente qui peuvent être utilisées à cette fin."
+ giovanni_adopt_boosted_tt: "Votre candidat aura +3 à chaque statistique à la fin de sa jeunesse."
   
- podgiovanni.11.t: "Duel familial" #NT!
- podgiovanni.11.desc: "L'escrime et les duels font fureur ces derniers temps dans les villes italiennes. Bien qu'il s'agisse principalement d'une tradition noble, la frontière entre noblesse et marchands est souvent floue en Italie et, en tant que tel, de nombreux jeunes Giovanni s'essayent avec impatience à cet art mortel. L’un des jeunes prometteurs que vous suivez apprécie ce passe-temps et s’est montré très compétent dans ce domaine. Cela vous a amené à vous demander s'il fallait ou non les pousser encore plus loin dans cette voie, avec des professeurs particuliers, etc. Après tout, un escrimeur mortel peut également être une force avec laquelle il faut compter au combat, et pas seulement dans les salons polis." #NT!
- podgiovanni.11.a: "Faire en sorte." #NT!
- podgiovanni.11.b: "Ce n'est pas nécessaire." #NT!
- podgiovanni.11.c: "La Famille dispose de plusieurs maîtres duellistes de garde." #NT!
- giovanni_adopt_blademaster_tt: "Votre candidat aura le trait maître-lame à la fin de sa jeunesse." #NT!
+ podgiovanni.11.t: "Duel familial"
+ podgiovanni.11.desc: "L'escrime et les duels font fureur ces derniers temps dans les villes italiennes. Bien qu'il s'agisse principalement d'une tradition noble, la frontière entre noblesse et marchands est souvent floue en Italie et, en tant que tel, de nombreux jeunes Giovanni s'essayent avec impatience à cet art mortel. L’un des jeunes prometteurs que vous suivez apprécie ce passe-temps et s’est montré très compétent dans ce domaine. Cela vous a amené à vous demander s'il fallait ou non les pousser encore plus loin dans cette voie, avec des professeurs particuliers, etc. Après tout, un escrimeur mortel peut également être une force avec laquelle il faut compter au combat, et pas seulement dans les salons polis."
+ podgiovanni.11.a: "Faire en sorte."
+ podgiovanni.11.b: "Ce n'est pas nécessaire."
+ podgiovanni.11.c: "La Famille dispose de plusieurs maîtres duellistes de garde."
+ giovanni_adopt_blademaster_tt: "Votre candidat aura le trait maître-lame à la fin de sa jeunesse."
   
- podgiovanni.12.t: "Intrigants familiaux" #NT!
- podgiovanni.12.desc: "Les cités-états italiennes ont élevé l'intrigue au rang d'art, avec certaines des plus grandes œuvres artistiques de l'époque « célébrant » les tristement célèbres traîtres et les nobles et marchands ambitieux de la péninsule. Les jeunes Giovanni sont nés et ont grandi dans cet environnement, avec l'inconvénient supplémentaire de faire partie d'une famille immortelle de nécromanciens récompensant la cruauté à l'extrême. En tant que tels, les lents et les paresseux sont souvent éliminés avant même d’atteindre l’attention des immortels, écrasés par leurs pairs les plus ambitieux. Pourtant, la véritable excellence dans le jeu de cape et de poignard nécessite une formation et une expertise et vous envisagez en tant que tel de préparer des « tests » que votre futur protégé devra gérer, en espérant lui enseigner de précieuses leçons dans le processus." #NT!
- podgiovanni.12.a: "Faire en sorte." #NT!
- podgiovanni.12.b: "Ce n'est pas nécessaire." #NT!
- podgiovanni.12.c: "La Famille peut proposer de nombreux tests « ludiques »." #NT!
- giovanni_adopt_schemer_tt: "Votre candidat aura le trait d’intrigant à la fin de sa jeunesse." #NT!
+ podgiovanni.12.t: "Intrigants familiaux"
+ podgiovanni.12.desc: "Les cités-états italiennes ont élevé l'intrigue au rang d'art, avec certaines des plus grandes œuvres artistiques de l'époque « célébrant » les tristement célèbres traîtres et les nobles et marchands ambitieux de la péninsule. Les jeunes Giovanni sont nés et ont grandi dans cet environnement, avec l'inconvénient supplémentaire de faire partie d'une famille immortelle de nécromanciens récompensant la cruauté à l'extrême. En tant que tels, les lents et les paresseux sont souvent éliminés avant même d’atteindre l’attention des immortels, écrasés par leurs pairs les plus ambitieux. Pourtant, la véritable excellence dans le jeu de cape et de poignard nécessite une formation et une expertise et vous envisagez en tant que tel de préparer des « tests » que votre futur protégé devra gérer, en espérant lui enseigner de précieuses leçons dans le processus."
+ podgiovanni.12.a: "Faire en sorte."
+ podgiovanni.12.b: "Ce n'est pas nécessaire."
+ podgiovanni.12.c: "La Famille peut proposer de nombreux tests « ludiques »."
+ giovanni_adopt_schemer_tt: "Votre candidat aura le trait d’intrigant à la fin de sa jeunesse."
   
- podgiovanni.13.t: "Sorcellerie familiale" #NT!
- podgiovanni.13.desc: "Avant leur renaissance en tant que vampires, les Giovanni étaient connus comme de compétents nécromanciens mortels. Pourtant, ils ne se sont jamais considérés comme de « vrais mages » comme le prétendent les Tremere et étaient plus à l'aise avec ce qu'ils appellent la « magie linéaire », une forme de volonté très codifiée et structurée qui leur permettait d'augmenter lentement mais régulièrement leur maîtrise nécromantique. au fil des âges, mais sans jamais vraiment s'étendre à d'autres sphères d'expertise magiques.\nÀ ce soir, certains jeunes de la famille naissent encore avec cette capacité de magie linéaire et sont très appréciés par la famille dans son ensemble. Cependant, ces quelques élus deviennent de plus en plus rares la nuit, poussant apparemment la Familia à passer complètement à la sorcellerie nécromantique à un moment donné de son existence. Cependant, d'ici là, ces jeunes Giovanni si talentueux constituent la récompense la plus élevée recherchée par les futurs étalons." #NT!
- podgiovanni.13.a: "J'ai besoin d'un tel talent !" #NT!
- podgiovanni.13.b: "Ce n'est pas nécessaire." #NT!
- podgiovanni.13.c: "La Famille ne peut pas me refuser." #NT!
- giovanni_adopt_sorcerer_tt: "Votre candidat aura le trait de sorcier à la fin de sa jeunesse." #NT!
+ podgiovanni.13.t: "Sorcellerie familiale"
+ podgiovanni.13.desc: "Avant leur renaissance en tant que vampires, les Giovanni étaient connus comme de compétents nécromanciens mortels. Pourtant, ils ne se sont jamais considérés comme de « vrais mages » comme le prétendent les Tremere et étaient plus à l'aise avec ce qu'ils appellent la « magie linéaire », une forme de volonté très codifiée et structurée qui leur permettait d'augmenter lentement mais régulièrement leur maîtrise nécromantique. au fil des âges, mais sans jamais vraiment s'étendre à d'autres sphères d'expertise magiques.\nÀ ce soir, certains jeunes de la famille naissent encore avec cette capacité de magie linéaire et sont très appréciés par la famille dans son ensemble. Cependant, ces quelques élus deviennent de plus en plus rares la nuit, poussant apparemment la Familia à passer complètement à la sorcellerie nécromantique à un moment donné de son existence. Cependant, d'ici là, ces jeunes Giovanni si talentueux constituent la récompense la plus élevée recherchée par les futurs étalons."
+ podgiovanni.13.a: "J'ai besoin d'un tel talent !"
+ podgiovanni.13.b: "Ce n'est pas nécessaire."
+ podgiovanni.13.c: "La Famille ne peut pas me refuser."
+ giovanni_adopt_sorcerer_tt: "Votre candidat aura le trait de sorcier à la fin de sa jeunesse."
   
   
   

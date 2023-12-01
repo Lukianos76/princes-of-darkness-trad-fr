@@ -1,125 +1,124 @@
 ﻿l_french:
-  
- POD_contact_animals_interaction: "Contacter les animaux" #NT!
- POD_contact_animals_interaction_desc: "Faites d'un animal votre animal de compagnie." #NT!
- POD_contact_animals_interaction_options_heading: "Quel animal dois-je caresser ?" #NT!
- POD_train_psi_interaction: "Formation Psi" #NT!
- POD_train_psi_interaction_desc: "Apprenez à [recipient.GetFirstName] l'un de vos pouvoirs psychiques." #NT!
- POD_determine_psi_interaction: "Déterminer les talents psi" #NT!
- POD_determine_psi_interaction_desc: "Testez le potentiel [recipient.GetFirstNamePossessive] pour les talents psychiques." #NT!
- POD_determine_psi_interaction_sucess: "Il semble que [recipient.GetFirstName] ait des talents psychiques." #NT!
- POD_determine_psi_interaction_fail: "Il semble que [recipient.GetFirstName] n'ait aucun talent psychique, donc [recipient.GetFirstName] ne pourra pas le tester à nouveau." #NT!
- POD_test_psi_interaction: "Demandez des tests psychiques" #NT!
- POD_test_psi_interaction_desc: "Vous pouvez demander à un ami, un amant ou une âme sœur de tester votre potentiel de talents psychiques." #NT!
- POD_test_psi_interaction_tooltip: "Chance basée sur l'apprentissage [recipient.GetFirstNamePossessive]." #NT!
- POD_test_psi_interaction_sucess: "Il semble que [actor.GetFirstName] ait des talents psychiques." #NT!
- POD_test_psi_interaction_fail: "Il semble que [actor.GetFirstName] n'ait aucun talent psychique, donc [actor.GetFirstName] ne pourra pas le tester à nouveau." #NT!
- POD_psychoportation_interaction: "Psychoportation" #NT!
- POD_psychoportation_interaction_desc: "Téléportez-vous à l'emplacement [recipient.GetFirstNamePossessive]." #NT!
- POD_psi_heal_interaction: "Guérison Psi" #NT!
- POD_psi_heal_interaction_desc: "Utilisez des pouvoirs psychiques pour guérir les blessures [recipient.GetFirstNamePossessive]." #NT!
- POD_psi_heal_interaction_options_heading: "Que dois-je guérir ?" #NT!
- POD_psi_leech_interaction: "Sangsue Psi" #NT!
- POD_psi_leech_interaction_desc: "Émotion de sangsue ou même force vitale du [recipient.GetFirstName] pour votre propre usage." #NT!
- POD_psi_leech_interaction_options_heading: "Que dois-je vidanger ?" #NT!
- POD_psi_leech_interaction_willpower: "Volonté" #NT!
- POD_psi_leech_interaction_lifeforce: "Force de vie" #NT!
- POD_psi_leech_interaction_gnosis: "Gnose" #NT!
- POD_psi_mind_control_interaction: "Contrôle mental psi" #NT!
- POD_psi_mind_control_interaction_desc: "Utilisez des pouvoirs psychiques pour dominer l’esprit de [recipient.GetFirstName]." #NT!
- POD_psi_mind_control_interaction_options_heading: "Quelle puissance dois-je utiliser ?" #NT!
- POD_psi_mind_control_interaction_hypnosis: "Hypnose" #NT!
- POD_psi_mind_control_interaction_telepathy: "La télépathie" #NT!
-  
- POD_sorcery_summon_interaction: "Convoquer" #NT!
- POD_sorcery_summon_interaction_desc: "Par la force de la magie, invoquez [recipient.GetFirstName] dans votre cour." #NT!
- POD_sorcery_summon_interaction_sucess: "[recipient.GetFirstName] a été convoqué devant votre tribunal." #NT!
- POD_sorcery_summon_interaction_fail: "[recipient.GetFirstName] a résisté." #NT!
- POD_sorcery_transport_interaction: "Téléportation" #NT!
- POD_sorcery_transport_interaction_desc: "Téléportez-vous à l'emplacement [recipient.GetFirstNamePossessive]." #NT!
- POD_sorcery_bless_interaction: "Bénir" #NT!
- POD_sorcery_bless_interaction_desc: "Bénis [recipient.GetFirstName] ainsi que [recipient.GetHerHis] les proches." #NT!
- blessed_by_sorcery_modifier: "Bénir" #NT!
- POD_sorcery_curse_interaction: "Malédiction" #NT!
- POD_sorcery_curse_interaction_desc: "Malédiction [recipient.GetFirstName] ainsi que [recipient.GetHerHis] proches." #NT!
- cursed_by_sorcery_modifier: "Malédiction" #NT!
- POD_sorcery_weather_control_interaction: "Météorologie" #NT!
- POD_sorcery_shapeshift_interaction: "Se métamorphoser" #NT!
- POD_sorcery_shapeshift_interaction_desc: "Utilisez votre pouvoir pour transformer votre forme." #NT!
- POD_sorcery_heal_interaction: "Guérir" #NT!
- POD_sorcery_heal_interaction_desc: "Utilisez des pouvoirs de sorcellerie pour soigner [recipient.GetFirstNamePossessive] blessures." #NT!
- POD_sorcery_heal_interaction_options_heading: "Que dois-je guérir ?" #NT!
- POD_sorcery_auto_resurrection_interaction: "Protéger contre la mort" #NT!
- POD_sorcery_auto_resurrection_interaction_desc: "Ramenez automatiquement une personne qui a été récemment tuée, à un coût de piété énorme." #NT!
- POD_sorcery_auto_resurrection_interaction_options_heading: "Quelles personnes dois-je empêcher de mourir d’une mort accidentelle ?" #NT!
- POD_sorcery_auto_resurrection_interaction_knight: "Mon chevalier actuel" #NT!
- POD_sorcery_auto_resurrection_interaction_councillor: "Mon conseiller actuel" #NT!
- POD_sorcery_auto_resurrection_interaction_family: "Mon membre actuel de la maison" #NT!
- POD_sorcery_auto_resurrection_interaction_consort: "Mon épouse actuelle" #NT!
- POD_sorcery_auto_resurrection_interaction_friend: "Mon ami actuel" #NT!
- POD_sorcery_auto_resurrection_interaction_lover: "Mon amant actuel" #NT!
- resurrection_cost_notification: "Coût de la résurrection" #NT!
- POD_sorcery_create_potion_interaction: "Créer une potion" #NT!
- POD_sorcery_create_potion_interaction_desc: "Créez des concoctions pour améliorer la compétence [recipient.GetFirstNamePossessive]." #NT!
- POD_sorcery_create_potion_interaction_options_heading: "Quelle potion dois-je créer ?" #NT!
- POD_sorcery_create_potion_interaction_social: "Potion de charme" #NT!
- POD_sorcery_create_potion_interaction_mental: "Potion d'intelligence" #NT!
- POD_sorcery_create_potion_interaction_physical: "Potion d'endurance" #NT!
- social_potion_by_sorcery_modifier: "Potion de charme" #NT!
- mental_potion_by_sorcery_modifier: "Potion d'intelligence" #NT!
- physical_potion_by_sorcery_modifier: "Potion d'endurance" #NT!
- POD_sorcery_create_talisman_interaction: "Créer un talisman" #NT!
- POD_sorcery_create_talisman_interaction_desc: "Créez un talisman magique mineur." #NT!
- POD_sorcery_create_talisman_interaction_tooltip: "Le talisman gagne un modificateur aléatoire en fonction de votre intendance." #NT!
- talisman_by_sorcery_artifact: "Talisman Magique" #NT!
- POD_train_sorcery_interaction: "Entraînement à la sorcellerie" #NT!
- POD_train_sorcery_interaction_desc: "Apprenez à [recipient.GetFirstName] l'un de vos chemins de sorcellerie." #NT!
- POD_initiate_sorcery_interaction: "Initier la sorcellerie" #NT!
- POD_initiate_sorcery_interaction_desc: "Enseignez la sorcellerie [recipient.GetFirstName]." #NT!
- POD_learn_sorcery_interaction: "Demandez du mentorat" #NT!
- POD_learn_sorcery_interaction_desc: "Vous pouvez demander à un ami, un amant ou une âme sœur de vous apprendre la sorcellerie." #NT!
-  
- POD_theurgy_heal_interaction: "Guérir" #NT!
- POD_theurgy_heal_interaction_desc: "Utilisez des pouvoirs de sorcellerie pour soigner [recipient.GetFirstNamePossessive] blessures." #NT!
- POD_theurgy_heal_interaction_options_heading: "Que dois-je guérir ?" #NT!
- POD_train_theurgy_interaction: "Formation en Théurgie" #NT!
- POD_train_theurgy_interaction_desc: "Enseignez au [recipient.GetFirstName] un de vos chemins de théurgie." #NT!
- POD_initiate_theurgy_interaction: "Initier la Théurgie" #NT!
- POD_initiate_theurgy_interaction_desc: "Enseigner la théurgie [recipient.GetFirstName]." #NT!
- POD_learn_theurgy_interaction: "Demandez du mentorat" #NT!
- POD_learn_theurgy_interaction_desc: "Vous pouvez demander à un ami, un amant ou une âme sœur de vous enseigner la théurgie." #NT!
-  
- POD_animal_control_interaction: "Contrôle animalier" #NT!
- POD_animal_control_interaction_desc: "Faites d'un animal votre animal de compagnie." #NT!
- POD_animal_control_interaction_options_heading: "Quel animal dois-je caresser ?" #NT!
- POD_possessed_shapeshift_interaction: "Se métamorphoser" #NT!
- POD_possessed_shapeshift_interaction_desc: "Utilisez votre pouvoir pour transformer votre forme." #NT!
- POD_brain_eating_interaction: "Manger le cerveau" #NT!
- POD_brain_eating_interaction_desc: "Absorbez [recipient.GetFirstNamePossessive] facultés mentales d'un simple toucher et utilisez-les pour vous améliorer." #NT!
- POD_command_the_earth_interaction: "Commandez la Terre" #NT!
- POD_curse_of_gaia_interaction: "Malédiction de Gaïa" #NT!
- POD_curse_of_gaia_interaction_desc: "Donnez à [recipient.GetFirstName] une malédiction de Gaia en fonction du péché de [recipient.GetHerHis]." #NT!
- POD_infectious_bite_touch_interaction: "Infliger une maladie" #NT!
- POD_infectious_bite_touch_interaction_desc: "Utilisez votre pouvoir pour infecter [recipient.GetFirstName] avec une maladie." #NT!
- POD_infectious_bite_touch_interaction_options_heading: "Quelle maladie dois-je utiliser pour infecter ?" #NT!
- POD_mask_presence_interaction: "Présence du masque" #NT!
- POD_mask_presence_interaction_desc: "Utilisez vos pouvoirs pour arrêter tous les complots qui vous visent." #NT!
- POD_fomori_mind_rape_interaction: "Viol mental" #NT!
- POD_nightmare_command_interaction: "Commande Cauchemar" #NT!
- POD_sanity_rending_interaction: "Rupture de santé mentale" #NT!
- POD_sanity_rending_interaction_desc: "Utilisez le pouvoir de donner [recipient.GetFirstName] au trait de stress." #NT!
- POD_sanity_rending_interaction_options_heading: "Quel trait dois-je utiliser pour donner ?" #NT!
- POD_size_interaction: "Redimensionner" #NT!
- POD_size_interaction_desc: "Utilisez ce pouvoir pour changer votre taille." #NT!
- POD_size_interaction_options_heading: "Quelle taille dois-je atteindre ?" #NT!
- POD_succubus_veil_interaction: "Voile de succube" #NT!
- POD_train_possessed_power_interaction: "Entraînement de puissance" #NT!
- POD_train_possessed_power_interaction_desc: "Enseignez au [recipient.GetFirstName] l'un de vos pouvoirs spirituels." #NT!
- POD_create_fomori_interaction: "Possession du fléau" #NT!
- POD_create_fomori_interaction_desc: "Appelez un esprit du fléau pour posséder [recipient.GetFirstName]." #NT!
- POD_create_gorgon_interaction: "Possession de l'esprit sauvage" #NT!
- POD_create_gorgon_interaction_desc: "Appelez un esprit sauvage pour posséder [recipient.GetFirstName]." #NT!
- POD_create_drone_interaction: "Possession de l'esprit tisserand" #NT!
- POD_create_drone_interaction_desc: "Appelez un esprit tisserand pour posséder [recipient.GetFirstName]." #NT!
- POD_create_kami_interaction: "Possession de l'esprit Gaïen" #NT!
- POD_create_kami_interaction_desc: "Appelez un esprit Gaïen pour posséder [recipient.GetFirstName]." #NT!
+    POD_contact_animals_interaction: "Contacter les animaux"
+    POD_contact_animals_interaction_desc: "Faites d'un animal votre animal de compagnie."
+    POD_contact_animals_interaction_options_heading: "Quel animal dois-je caresser ?"
+    POD_train_psi_interaction: "Formation Psi"
+    POD_train_psi_interaction_desc: "Apprenez à [recipient.GetFirstName] l'un de vos pouvoirs psychiques."
+    POD_determine_psi_interaction: "Déterminer les talents psi"
+    POD_determine_psi_interaction_desc: "Testez le potentiel [recipient.GetFirstNamePossessive] pour les talents psychiques."
+    POD_determine_psi_interaction_sucess: "Il semble que [recipient.GetFirstName] ait des talents psychiques."
+    POD_determine_psi_interaction_fail: "Il semble que [recipient.GetFirstName] n'ait aucun talent psychique, donc [recipient.GetFirstName] ne pourra pas le tester à nouveau."
+    POD_test_psi_interaction: "Demandez des tests psychiques"
+    POD_test_psi_interaction_desc: "Vous pouvez demander à un ami, un amant ou une âme sœur de tester votre potentiel de talents psychiques."
+    POD_test_psi_interaction_tooltip: "Chance basée sur l'apprentissage [recipient.GetFirstNamePossessive]."
+    POD_test_psi_interaction_sucess: "Il semble que [actor.GetFirstName] ait des talents psychiques."
+    POD_test_psi_interaction_fail: "Il semble que [actor.GetFirstName] n'ait aucun talent psychique, donc [actor.GetFirstName] ne pourra pas le tester à nouveau."
+    POD_psychoportation_interaction: "Psychoportation"
+    POD_psychoportation_interaction_desc: "Téléportez-vous à l'emplacement [recipient.GetFirstNamePossessive]."
+    POD_psi_heal_interaction: "Guérison Psi"
+    POD_psi_heal_interaction_desc: "Utilisez des pouvoirs psychiques pour guérir les blessures [recipient.GetFirstNamePossessive]."
+    POD_psi_heal_interaction_options_heading: "Que dois-je guérir ?"
+    POD_psi_leech_interaction: "Sangsue Psi"
+    POD_psi_leech_interaction_desc: "Émotion de sangsue ou même force vitale du [recipient.GetFirstName] pour votre propre usage."
+    POD_psi_leech_interaction_options_heading: "Que dois-je vidanger ?"
+    POD_psi_leech_interaction_willpower: "Volonté"
+    POD_psi_leech_interaction_lifeforce: "Force de vie"
+    POD_psi_leech_interaction_gnosis: "Gnose"
+    POD_psi_mind_control_interaction: "Contrôle mental psi"
+    POD_psi_mind_control_interaction_desc: "Utilisez des pouvoirs psychiques pour dominer l’esprit de [recipient.GetFirstName]."
+    POD_psi_mind_control_interaction_options_heading: "Quelle puissance dois-je utiliser ?"
+    POD_psi_mind_control_interaction_hypnosis: "Hypnose"
+    POD_psi_mind_control_interaction_telepathy: "La télépathie"
+
+    POD_sorcery_summon_interaction: "Convoquer"
+    POD_sorcery_summon_interaction_desc: "Par la force de la magie, invoquez [recipient.GetFirstName] dans votre cour."
+    POD_sorcery_summon_interaction_sucess: "[recipient.GetFirstName] a été convoqué devant votre tribunal."
+    POD_sorcery_summon_interaction_fail: "[recipient.GetFirstName] a résisté."
+    POD_sorcery_transport_interaction: "Téléportation"
+    POD_sorcery_transport_interaction_desc: "Téléportez-vous à l'emplacement [recipient.GetFirstNamePossessive]."
+    POD_sorcery_bless_interaction: "Bénir"
+    POD_sorcery_bless_interaction_desc: "Bénis [recipient.GetFirstName] ainsi que [recipient.GetHerHis] les proches."
+    blessed_by_sorcery_modifier: "Bénir"
+    POD_sorcery_curse_interaction: "Malédiction"
+    POD_sorcery_curse_interaction_desc: "Malédiction [recipient.GetFirstName] ainsi que [recipient.GetHerHis] proches."
+    cursed_by_sorcery_modifier: "Malédiction"
+    POD_sorcery_weather_control_interaction: "Météorologie"
+    POD_sorcery_shapeshift_interaction: "Se métamorphoser"
+    POD_sorcery_shapeshift_interaction_desc: "Utilisez votre pouvoir pour transformer votre forme."
+    POD_sorcery_heal_interaction: "Guérir"
+    POD_sorcery_heal_interaction_desc: "Utilisez des pouvoirs de sorcellerie pour soigner [recipient.GetFirstNamePossessive] blessures."
+    POD_sorcery_heal_interaction_options_heading: "Que dois-je guérir ?"
+    POD_sorcery_auto_resurrection_interaction: "Protéger contre la mort"
+    POD_sorcery_auto_resurrection_interaction_desc: "Ramenez automatiquement une personne qui a été récemment tuée, à un coût de piété énorme."
+    POD_sorcery_auto_resurrection_interaction_options_heading: "Quelles personnes dois-je empêcher de mourir d’une mort accidentelle ?"
+    POD_sorcery_auto_resurrection_interaction_knight: "Mon chevalier actuel"
+    POD_sorcery_auto_resurrection_interaction_councillor: "Mon conseiller actuel"
+    POD_sorcery_auto_resurrection_interaction_family: "Mon membre actuel de la maison"
+    POD_sorcery_auto_resurrection_interaction_consort: "Mon épouse actuelle"
+    POD_sorcery_auto_resurrection_interaction_friend: "Mon ami actuel"
+    POD_sorcery_auto_resurrection_interaction_lover: "Mon amant actuel"
+    resurrection_cost_notification: "Coût de la résurrection"
+    POD_sorcery_create_potion_interaction: "Créer une potion"
+    POD_sorcery_create_potion_interaction_desc: "Créez des concoctions pour améliorer la compétence [recipient.GetFirstNamePossessive]."
+    POD_sorcery_create_potion_interaction_options_heading: "Quelle potion dois-je créer ?"
+    POD_sorcery_create_potion_interaction_social: "Potion de charme"
+    POD_sorcery_create_potion_interaction_mental: "Potion d'intelligence"
+    POD_sorcery_create_potion_interaction_physical: "Potion d'endurance"
+    social_potion_by_sorcery_modifier: "Potion de charme"
+    mental_potion_by_sorcery_modifier: "Potion d'intelligence"
+    physical_potion_by_sorcery_modifier: "Potion d'endurance"
+    POD_sorcery_create_talisman_interaction: "Créer un talisman"
+    POD_sorcery_create_talisman_interaction_desc: "Créez un talisman magique mineur."
+    POD_sorcery_create_talisman_interaction_tooltip: "Le talisman gagne un modificateur aléatoire en fonction de votre intendance."
+    talisman_by_sorcery_artifact: "Talisman Magique"
+    POD_train_sorcery_interaction: "Entraînement à la sorcellerie"
+    POD_train_sorcery_interaction_desc: "Apprenez à [recipient.GetFirstName] l'un de vos chemins de sorcellerie."
+    POD_initiate_sorcery_interaction: "Initier la sorcellerie"
+    POD_initiate_sorcery_interaction_desc: "Enseignez la sorcellerie [recipient.GetFirstName]."
+    POD_learn_sorcery_interaction: "Demandez du mentorat"
+    POD_learn_sorcery_interaction_desc: "Vous pouvez demander à un ami, un amant ou une âme sœur de vous apprendre la sorcellerie."
+
+    POD_theurgy_heal_interaction: "Guérir"
+    POD_theurgy_heal_interaction_desc: "Utilisez des pouvoirs de sorcellerie pour soigner [recipient.GetFirstNamePossessive] blessures."
+    POD_theurgy_heal_interaction_options_heading: "Que dois-je guérir ?"
+    POD_train_theurgy_interaction: "Formation en Théurgie"
+    POD_train_theurgy_interaction_desc: "Enseignez au [recipient.GetFirstName] un de vos chemins de théurgie."
+    POD_initiate_theurgy_interaction: "Initier la Théurgie"
+    POD_initiate_theurgy_interaction_desc: "Enseigner la théurgie [recipient.GetFirstName]."
+    POD_learn_theurgy_interaction: "Demandez du mentorat"
+    POD_learn_theurgy_interaction_desc: "Vous pouvez demander à un ami, un amant ou une âme sœur de vous enseigner la théurgie."
+
+    POD_animal_control_interaction: "Contrôle animalier"
+    POD_animal_control_interaction_desc: "Faites d'un animal votre animal de compagnie."
+    POD_animal_control_interaction_options_heading: "Quel animal dois-je caresser ?"
+    POD_possessed_shapeshift_interaction: "Se métamorphoser"
+    POD_possessed_shapeshift_interaction_desc: "Utilisez votre pouvoir pour transformer votre forme."
+    POD_brain_eating_interaction: "Manger le cerveau"
+    POD_brain_eating_interaction_desc: "Absorbez [recipient.GetFirstNamePossessive] facultés mentales d'un simple toucher et utilisez-les pour vous améliorer."
+    POD_command_the_earth_interaction: "Commandez la Terre"
+    POD_curse_of_gaia_interaction: "Malédiction de Gaïa"
+    POD_curse_of_gaia_interaction_desc: "Donnez à [recipient.GetFirstName] une malédiction de Gaia en fonction du péché de [recipient.GetHerHis]."
+    POD_infectious_bite_touch_interaction: "Infliger une maladie"
+    POD_infectious_bite_touch_interaction_desc: "Utilisez votre pouvoir pour infecter [recipient.GetFirstName] avec une maladie."
+    POD_infectious_bite_touch_interaction_options_heading: "Quelle maladie dois-je utiliser pour infecter ?"
+    POD_mask_presence_interaction: "Présence du masque"
+    POD_mask_presence_interaction_desc: "Utilisez vos pouvoirs pour arrêter tous les complots qui vous visent."
+    POD_fomori_mind_rape_interaction: "Viol mental"
+    POD_nightmare_command_interaction: "Commande Cauchemar"
+    POD_sanity_rending_interaction: "Rupture de santé mentale"
+    POD_sanity_rending_interaction_desc: "Utilisez le pouvoir de donner [recipient.GetFirstName] au trait de stress."
+    POD_sanity_rending_interaction_options_heading: "Quel trait dois-je utiliser pour donner ?"
+    POD_size_interaction: "Redimensionner"
+    POD_size_interaction_desc: "Utilisez ce pouvoir pour changer votre taille."
+    POD_size_interaction_options_heading: "Quelle taille dois-je atteindre ?"
+    POD_succubus_veil_interaction: "Voile de succube"
+    POD_train_possessed_power_interaction: "Entraînement de puissance"
+    POD_train_possessed_power_interaction_desc: "Enseignez au [recipient.GetFirstName] l'un de vos pouvoirs spirituels."
+    POD_create_fomori_interaction: "Possession du fléau"
+    POD_create_fomori_interaction_desc: "Appelez un esprit du fléau pour posséder [recipient.GetFirstName]."
+    POD_create_gorgon_interaction: "Possession de l'esprit sauvage"
+    POD_create_gorgon_interaction_desc: "Appelez un esprit sauvage pour posséder [recipient.GetFirstName]."
+    POD_create_drone_interaction: "Possession de l'esprit tisserand"
+    POD_create_drone_interaction_desc: "Appelez un esprit tisserand pour posséder [recipient.GetFirstName]."
+    POD_create_kami_interaction: "Possession de l'esprit Gaïen"
+    POD_create_kami_interaction_desc: "Appelez un esprit Gaïen pour posséder [recipient.GetFirstName]."

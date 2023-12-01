@@ -1,79 +1,78 @@
 ﻿l_french:
-  
-  #Common Calomena's Forsaken Localization 
- orthodox_religious_head_title_female: "Matrone" #NT!
- calomenasforsaken_religion: "Les Réprouvés de Calomena" #NT!
- calomenasforsaken_religion_adj: "Les Réprouvés de Calomena" #NT!
- calomenasforsaken_religion_adherent: "Gnostiques du sang" #NT!
- calomenasforsaken_religion_adherent_plural: "Gnostiques" #NT!
- calomenasforsaken_religion_desc: "Chasseurs influencés par le gnosticisme" #NT!
- calomenasforsaken_high_god_name: "Calomène" #NT!
- calomenasforsaken_high_god_name_possessive: "de Calomène" #NT!
- calomenasforsaken_high_god_name_alternate: "Calomène" #NT!
- calomenasforsaken_high_god_name_alternate_possessive: "de Calomène" #NT!
- calomenasforsaken_good_god_jesus: "Calomène" #NT!
- calomenasforsaken_good_god_christ: "Calomène" #NT!
- calomenasforsaken_devil_name: "Caïn" #NT!
- calomenasforsaken_devil_name_possessive: "Caïn" #NT!
- calomenasforsaken_evil_god_lucifer: "Caïn" #NT!
- calomenasforsaken_evil_god_beelzebub: "Caïn" #NT!
- calomenasforsaken_evil_god_mephistopheles: "Caïn" #NT!
- calomenasforsaken_death_deity_name: "Destruction" #NT!
- calomenasforsaken_death_deity_name_possessive: "Destruction" #NT!
- calomenasforsaken_house_of_worship: "chapelle" #NT!
- calomenasforsaken_house_of_worship_plural: "chapelles" #NT!
- calomenasforsaken_religious_symbol: "croix" #NT!
- calomenasforsaken_religious_text: "Euagetaematikon" #NT!
- calomenasforsaken_religious_head_title: "principe de foi" #NT!
- calomenasforsaken_religious_head_title_name: "principe de foi" #NT!
- calomenasforsaken_devotee_male: "principe de foi" #NT!
- calomenasforsaken_devotee_male_plural: "principes de foi" #NT!
- calomenasforsaken_devotee_female: "principe de foi" #NT!
- calomenasforsaken_devotee_female_plural: "principes de foi" #NT!
- calomenasforsaken_devotee_neuter: "principe de foi" #NT!
- calomenasforsaken_devotee_neuter_plural: "principes de foi" #NT!
- calomenasforsaken_priest_male: "principe de foi" #NT!
- calomenasforsaken_priest_male_plural: "principes de foi" #NT!
- calomenasforsaken_priest_alternate_plural: "principes de foi" #NT!
- calomenasforsaken_bishop: "évêque" #NT!
- calomenasforsaken_bishop_plural: "évêques" #NT!
- calomenasforsaken_bishop_male: "évêque" #NT!
- calomenasforsaken_bishop_male_plural: "évêques" #NT!
- calomenasforsaken_divine_realm: "paradis" #NT!
- calomenasforsaken_positive_afterlife: "paradis" #NT!
- calomenasforsaken_negative_afterlife: "les abysses" #NT!
- calomenasforsaken_witchgodname_the_horned_god: "Ialdabaoth" #NT!
- calomenasforsaken_witchgodname_the_horned_god_possessive: "Ialdabaoth" #NT!
-  
- calomenasforsaken_creator_god_name: "$calomenasforsaken_high_god_name$" #NT!
- calomenasforsaken_creator_god_name_possessive: "$calomenasforsaken_high_god_name_possessive$" #NT!
- calomenasforsaken_health_god_name: "Dieu" #NT!
- calomenasforsaken_health_god_name_possessive: "Dieux" #NT!
- calomenasforsaken_fertility_god_name: "$calomenasforsaken_high_god_name$" #NT!
- calomenasforsaken_fertility_god_name_possessive: "$calomenasforsaken_high_god_name_possessive$" #NT!
- calomenasforsaken_wealth_god_name: "$calomenasforsaken_high_god_name$" #NT!
- calomenasforsaken_wealth_god_name_possessive: "$calomenasforsaken_high_god_name_possessive$" #NT!
- calomenasforsaken_household_god_name: "Calomène" #NT!
- calomenasforsaken_household_god_name_possessive: "de Calomène" #NT!
- calomenasforsaken_fate_god_name: "$calomenasforsaken_high_god_name$" #NT!
- calomenasforsaken_fate_god_name_possessive: "$calomenasforsaken_high_god_name_possessive$" #NT!
- calomenasforsaken_knowledge_god_name: "$calomenasforsaken_high_god_name$" #NT!
- calomenasforsaken_knowledge_god_name_possessive: "$calomenasforsaken_high_god_name_possessive$" #NT!
- calomenasforsaken_war_god_name: "$calomenasforsaken_high_god_name$" #NT!
- calomenasforsaken_war_god_name_possessive: "$calomenasforsaken_high_god_name_possessive$" #NT!
- calomenasforsaken_trickster_god_name: "Calomène" #NT!
- calomenasforsaken_trickster_god_name_possessive: "de Calomène" #NT!
- calomenasforsaken_night_god_name: "$calomenasforsaken_high_god_name$" #NT!
- calomenasforsaken_night_god_name_possessive: "$calomenasforsaken_high_god_name_possessive$" #NT!
- calomenasforsaken_water_god_name: "Calomène" #NT!
- calomenasforsaken_water_god_name_possessive: "de Calomène" #NT!
-  
-  #Group Faiths 
-  
- calomenasforsaken: "Les Réprouvés de Calomena" #NT!
- calomenasforsaken_adj: "Abandonné" #NT!
- calomenasforsaken_adherent: "Abandonné" #NT!
- calomenasforsaken_adherent_plural: "Abandonné" #NT!
- calomenasforsaken_desc: "Fléaux de la race [cainite|E], les Réprouvés sont un groupe de chasseurs croyant à l'hérésie Bogomil. Ils croient que Calomena était la sœur de Caïn et doivent provoquer la destruction des enfants de Caïn, les vampires. Ils croient en une philosophie dualiste et observent également la dure pauvreté défendue par la plupart des Bogomiles." #NT!
- holy_order_forsaken_militant: "Militant abandonné" #NT!
-  
+    #Common Calomena's Forsaken Localization
+    orthodox_religious_head_title_female: "Matrone"
+    calomenasforsaken_religion: "Les Réprouvés de Calomena"
+    calomenasforsaken_religion_adj: "Les Réprouvés de Calomena"
+    calomenasforsaken_religion_adherent: "Gnostiques du sang"
+    calomenasforsaken_religion_adherent_plural: "Gnostiques"
+    calomenasforsaken_religion_desc: "Chasseurs influencés par le gnosticisme"
+    calomenasforsaken_high_god_name: "Calomène"
+    calomenasforsaken_high_god_name_possessive: "de Calomène"
+    calomenasforsaken_high_god_name_alternate: "Calomène"
+    calomenasforsaken_high_god_name_alternate_possessive: "de Calomène"
+    calomenasforsaken_good_god_jesus: "Calomène"
+    calomenasforsaken_good_god_christ: "Calomène"
+    calomenasforsaken_devil_name: "Caïn"
+    calomenasforsaken_devil_name_possessive: "Caïn"
+    calomenasforsaken_evil_god_lucifer: "Caïn"
+    calomenasforsaken_evil_god_beelzebub: "Caïn"
+    calomenasforsaken_evil_god_mephistopheles: "Caïn"
+    calomenasforsaken_death_deity_name: "Destruction"
+    calomenasforsaken_death_deity_name_possessive: "Destruction"
+    calomenasforsaken_house_of_worship: "chapelle"
+    calomenasforsaken_house_of_worship_plural: "chapelles"
+    calomenasforsaken_religious_symbol: "croix"
+    calomenasforsaken_religious_text: "Euagetaematikon"
+    calomenasforsaken_religious_head_title: "principe de foi"
+    calomenasforsaken_religious_head_title_name: "principe de foi"
+    calomenasforsaken_devotee_male: "principe de foi"
+    calomenasforsaken_devotee_male_plural: "principes de foi"
+    calomenasforsaken_devotee_female: "principe de foi"
+    calomenasforsaken_devotee_female_plural: "principes de foi"
+    calomenasforsaken_devotee_neuter: "principe de foi"
+    calomenasforsaken_devotee_neuter_plural: "principes de foi"
+    calomenasforsaken_priest_male: "principe de foi"
+    calomenasforsaken_priest_male_plural: "principes de foi"
+    calomenasforsaken_priest_alternate_plural: "principes de foi"
+    calomenasforsaken_bishop: "évêque"
+    calomenasforsaken_bishop_plural: "évêques"
+    calomenasforsaken_bishop_male: "évêque"
+    calomenasforsaken_bishop_male_plural: "évêques"
+    calomenasforsaken_divine_realm: "paradis"
+    calomenasforsaken_positive_afterlife: "paradis"
+    calomenasforsaken_negative_afterlife: "les abysses"
+    calomenasforsaken_witchgodname_the_horned_god: "Ialdabaoth"
+    calomenasforsaken_witchgodname_the_horned_god_possessive: "Ialdabaoth"
+
+    calomenasforsaken_creator_god_name: "$calomenasforsaken_high_god_name$"
+    calomenasforsaken_creator_god_name_possessive: "$calomenasforsaken_high_god_name_possessive$"
+    calomenasforsaken_health_god_name: "Dieu"
+    calomenasforsaken_health_god_name_possessive: "Dieux"
+    calomenasforsaken_fertility_god_name: "$calomenasforsaken_high_god_name$"
+    calomenasforsaken_fertility_god_name_possessive: "$calomenasforsaken_high_god_name_possessive$"
+    calomenasforsaken_wealth_god_name: "$calomenasforsaken_high_god_name$"
+    calomenasforsaken_wealth_god_name_possessive: "$calomenasforsaken_high_god_name_possessive$"
+    calomenasforsaken_household_god_name: "Calomène"
+    calomenasforsaken_household_god_name_possessive: "de Calomène"
+    calomenasforsaken_fate_god_name: "$calomenasforsaken_high_god_name$"
+    calomenasforsaken_fate_god_name_possessive: "$calomenasforsaken_high_god_name_possessive$"
+    calomenasforsaken_knowledge_god_name: "$calomenasforsaken_high_god_name$"
+    calomenasforsaken_knowledge_god_name_possessive: "$calomenasforsaken_high_god_name_possessive$"
+    calomenasforsaken_war_god_name: "$calomenasforsaken_high_god_name$"
+    calomenasforsaken_war_god_name_possessive: "$calomenasforsaken_high_god_name_possessive$"
+    calomenasforsaken_trickster_god_name: "Calomène"
+    calomenasforsaken_trickster_god_name_possessive: "de Calomène"
+    calomenasforsaken_night_god_name: "$calomenasforsaken_high_god_name$"
+    calomenasforsaken_night_god_name_possessive: "$calomenasforsaken_high_god_name_possessive$"
+    calomenasforsaken_water_god_name: "Calomène"
+    calomenasforsaken_water_god_name_possessive:
+        "de Calomène"
+
+        #Group Faiths
+
+    calomenasforsaken: "Les Réprouvés de Calomena"
+    calomenasforsaken_adj: "Abandonné"
+    calomenasforsaken_adherent: "Abandonné"
+    calomenasforsaken_adherent_plural: "Abandonné"
+    calomenasforsaken_desc: "Fléaux de la race [cainite|E], les Réprouvés sont un groupe de chasseurs croyant à l'hérésie Bogomil. Ils croient que Calomena était la sœur de Caïn et doivent provoquer la destruction des enfants de Caïn, les vampires. Ils croient en une philosophie dualiste et observent également la dure pauvreté défendue par la plupart des Bogomiles."
+    holy_order_forsaken_militant: "Militant abandonné"

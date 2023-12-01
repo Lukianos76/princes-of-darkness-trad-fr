@@ -1,51 +1,50 @@
 ﻿l_french:
-  
- POD_werewolves_spirit_quest.1.t: "None" #NT!
- POD_werewolves_spirit_quest.1.desc: "Vous avez consulté les esprits et plusieurs d'entre eux ont une quête à vous proposer. Accomplir l'une d'entre elles vous permettra de progresser dans votre voyage spirituel pour acquérir plus de pouvoirs, mais vous affaiblira également de diverses manières car chaque quête a ses propres défis.\nSi vous refusez ces propositions, vous pouvez en redemander (peut-être) différentes. quêtes en cinq ans." #NT!
- POD_werewolves_spirit_quest.1.option.a: "La quête de l'esprit de guerre" #NT!
- POD_werewolves_spirit_quest.1.option.b: "La quête de l’esprit de leadership" #NT!
- POD_werewolves_spirit_quest.1.option.c: "L'esprit de la quête des dirigeants" #NT!
- POD_werewolves_spirit_quest.1.option.d: "La quête de l'esprit du corbeau" #NT!
- POD_werewolves_spirit_quest.1.option.e: "La quête de l'esprit du hibou" #NT!
- POD_werewolves_spirit_quest.1.option.f: "Ce n'est pas le bon moment pour une quête" #NT!
-  
- spirit_quest_decision: "Quête spirituelle" #NT!
- spirit_quest_decision_tooltip: "Écoutez leurs supplications et découvrez leurs pouvoirs." #NT!
- spirit_quest_decision_desc: "Les esprits sont les enseignants du monde Garou, mais apprendre leurs dons a un prix." #NT!
- spirit_quest_decision_confirm: "Quelle est ma prochaine quête ?" #NT!
- spirit_quest_decision_effect: "Un choix de différentes méthodes vous sera présenté pour acquérir de l'expérience dans votre mode de vie de loup-garou." #NT!
-  
- war_quest_knight_modifier: "Quête de guerre" #NT!
- war_quest_knight_modifier_desc: "Plusieurs de vos meilleurs champions sont envoyés en quête spirituelle." #NT!
- war_quest_prowess_modifier: "Quête de prouesse" #NT!
- war_quest_prowess_modifier_desc: "Vous êtes constamment mis au défi par des prétendants au cours de votre quête spirituelle, une situation épuisante." #NT!
- war_quest_province_modifier: "Quête de guerre" #NT!
- war_quest_province_modifier_desc: "Votre comté est constamment attaqué dans le cadre de votre quête spirituelle de guerre, ce qui entraîne de nombreuses pertes parmi la population." #NT!
-  
- leadership_quest_vassal_modifier: "Quête de leadership" #NT!
- leadership_quest_vassal_modifier_desc: "Vos qualités de leadership sont constamment remises en question dans le cadre de votre quête spirituelle." #NT!
- leadership_quest_diplomacy_modifier: "Quête de leadership" #NT!
- leadership_quest_diplomacy_modifier_desc: "Votre quête spirituelle met votre humeur à rude épreuve, vous obligeant à vous déchaîner au hasard." #NT!
- leadership_quest_opinion_modifier: "Quête de leadership" #NT!
- leadership_quest_opinion_modifier_desc: "Votre quête spirituelle met votre humeur à rude épreuve, vous obligeant à vous déchaîner au hasard." #NT!
-  
- stewardship_quest_domain_modifier: "Quête de domination" #NT!
- stewardship_quest_domain_modifier_desc: "Votre quête spirituelle vous prend beaucoup de temps, vous faisant perdre de vue d’autres problèmes urgents." #NT!
- stewardship_quest_vassal_modifier: "Quête de domination" #NT!
- stewardship_quest_vassal_modifier_desc: "Votre quête spirituelle vous prend beaucoup de temps, vous faisant perdre de vue d’autres problèmes urgents." #NT!
- stewardship_quest_province_modifier: "Quête de domination" #NT!
- stewardship_quest_province_modifier_desc: "Votre quête spirituelle vous prend beaucoup de temps, vous faisant perdre de vue d’autres problèmes urgents." #NT!
-  
- intrigue_quest_scheme_modifier: "Quête des ombres" #NT!
- intrigue_quest_scheme_modifier_desc: "Vous vous sentez... surveillé. Peut-être juste un test de votre quête spirituelle ?" #NT!
- intrigue_quest_owned_scheme_modifier: "Quête des ombres" #NT!
- intrigue_quest_owned_scheme_modifier_desc: "Vous vous sentez... observé. Peut-être juste un test de votre quête spirituelle ?" #NT!
- intrigue_quest_owned_secrecy_modifier: "Quête des ombres" #NT!
- intrigue_quest_owned_secrecy_modifier_desc: "Vous vous sentez... surveillé. Peut-être juste un test de votre quête spirituelle ?" #NT!
-  
- learning_quest_piety_modifier: "Quête d'apprentissage" #NT!
- learning_quest_piety_modifier_desc: "Tant d'énigmes ! L'esprit hibou remet constamment en question votre engagement envers la cause." #NT!
- learning_quest_stress_modifier: "Quête d'apprentissage" #NT!
- learning_quest_stress_modifier_desc: "Tant d'énigmes ! L'esprit hibou remet constamment en question votre engagement envers la cause." #NT!
- learning_quest_stress_lifestyle_modifier: "Quête d'apprentissage" #NT!
- learning_quest_stress_lifestyle_modifier_desc: "Tant d'énigmes ! L'esprit hibou remet constamment en question votre engagement envers la cause." #NT!
+    POD_werewolves_spirit_quest.1.t: "None"
+    POD_werewolves_spirit_quest.1.desc: "Vous avez consulté les esprits et plusieurs d'entre eux ont une quête à vous proposer. Accomplir l'une d'entre elles vous permettra de progresser dans votre voyage spirituel pour acquérir plus de pouvoirs, mais vous affaiblira également de diverses manières car chaque quête a ses propres défis.\nSi vous refusez ces propositions, vous pouvez en redemander (peut-être) différentes. quêtes en cinq ans."
+    POD_werewolves_spirit_quest.1.option.a: "La quête de l'esprit de guerre"
+    POD_werewolves_spirit_quest.1.option.b: "La quête de l’esprit de leadership"
+    POD_werewolves_spirit_quest.1.option.c: "L'esprit de la quête des dirigeants"
+    POD_werewolves_spirit_quest.1.option.d: "La quête de l'esprit du corbeau"
+    POD_werewolves_spirit_quest.1.option.e: "La quête de l'esprit du hibou"
+    POD_werewolves_spirit_quest.1.option.f: "Ce n'est pas le bon moment pour une quête"
+
+    spirit_quest_decision: "Quête spirituelle"
+    spirit_quest_decision_tooltip: "Écoutez leurs supplications et découvrez leurs pouvoirs."
+    spirit_quest_decision_desc: "Les esprits sont les enseignants du monde Garou, mais apprendre leurs dons a un prix."
+    spirit_quest_decision_confirm: "Quelle est ma prochaine quête ?"
+    spirit_quest_decision_effect: "Un choix de différentes méthodes vous sera présenté pour acquérir de l'expérience dans votre mode de vie de loup-garou."
+
+    war_quest_knight_modifier: "Quête de guerre"
+    war_quest_knight_modifier_desc: "Plusieurs de vos meilleurs champions sont envoyés en quête spirituelle."
+    war_quest_prowess_modifier: "Quête de prouesse"
+    war_quest_prowess_modifier_desc: "Vous êtes constamment mis au défi par des prétendants au cours de votre quête spirituelle, une situation épuisante."
+    war_quest_province_modifier: "Quête de guerre"
+    war_quest_province_modifier_desc: "Votre comté est constamment attaqué dans le cadre de votre quête spirituelle de guerre, ce qui entraîne de nombreuses pertes parmi la population."
+
+    leadership_quest_vassal_modifier: "Quête de leadership"
+    leadership_quest_vassal_modifier_desc: "Vos qualités de leadership sont constamment remises en question dans le cadre de votre quête spirituelle."
+    leadership_quest_diplomacy_modifier: "Quête de leadership"
+    leadership_quest_diplomacy_modifier_desc: "Votre quête spirituelle met votre humeur à rude épreuve, vous obligeant à vous déchaîner au hasard."
+    leadership_quest_opinion_modifier: "Quête de leadership"
+    leadership_quest_opinion_modifier_desc: "Votre quête spirituelle met votre humeur à rude épreuve, vous obligeant à vous déchaîner au hasard."
+
+    stewardship_quest_domain_modifier: "Quête de domination"
+    stewardship_quest_domain_modifier_desc: "Votre quête spirituelle vous prend beaucoup de temps, vous faisant perdre de vue d’autres problèmes urgents."
+    stewardship_quest_vassal_modifier: "Quête de domination"
+    stewardship_quest_vassal_modifier_desc: "Votre quête spirituelle vous prend beaucoup de temps, vous faisant perdre de vue d’autres problèmes urgents."
+    stewardship_quest_province_modifier: "Quête de domination"
+    stewardship_quest_province_modifier_desc: "Votre quête spirituelle vous prend beaucoup de temps, vous faisant perdre de vue d’autres problèmes urgents."
+
+    intrigue_quest_scheme_modifier: "Quête des ombres"
+    intrigue_quest_scheme_modifier_desc: "Vous vous sentez... surveillé. Peut-être juste un test de votre quête spirituelle ?"
+    intrigue_quest_owned_scheme_modifier: "Quête des ombres"
+    intrigue_quest_owned_scheme_modifier_desc: "Vous vous sentez... observé. Peut-être juste un test de votre quête spirituelle ?"
+    intrigue_quest_owned_secrecy_modifier: "Quête des ombres"
+    intrigue_quest_owned_secrecy_modifier_desc: "Vous vous sentez... surveillé. Peut-être juste un test de votre quête spirituelle ?"
+
+    learning_quest_piety_modifier: "Quête d'apprentissage"
+    learning_quest_piety_modifier_desc: "Tant d'énigmes ! L'esprit hibou remet constamment en question votre engagement envers la cause."
+    learning_quest_stress_modifier: "Quête d'apprentissage"
+    learning_quest_stress_modifier_desc: "Tant d'énigmes ! L'esprit hibou remet constamment en question votre engagement envers la cause."
+    learning_quest_stress_lifestyle_modifier: "Quête d'apprentissage"
+    learning_quest_stress_lifestyle_modifier_desc: "Tant d'énigmes ! L'esprit hibou remet constamment en question votre engagement envers la cause."

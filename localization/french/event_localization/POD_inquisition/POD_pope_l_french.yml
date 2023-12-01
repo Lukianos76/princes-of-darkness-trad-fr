@@ -1,71 +1,68 @@
 ﻿l_french:
-  
- inquisition_full_support_modifier: "Soutien papal total" #NT!
- inquisition_full_support_modifier_desc: "Vous avez le plein soutien de Sa Sainteté et donc de l'Église elle-même. Gloire à Dieu!" #NT!
-  
- PODask_pope.1.t: "Sa Sainteté : Grégoire IX" #NT!
- PODask_pope.1.desc: "L’Inquisition de l’Ombre est à bien des égards une extension directe de l’Église catholique, la majeure partie de son financement et de son soutien provenant directement d’elle. Le pape Grégoire est un fervent défenseur de cet effort, à tel point qu'il envisage de créer une Inquisition « publique » pour s'attaquer à des menaces moins surnaturelles à l'avenir. Avoir l'oreille directe d'un individu aussi puissant est une aubaine à ne pas gaspiller à la légère par l'Inquisition de l'Ombre en plein essor.\nDe nombreux Inquisiteurs craignent que les successeurs de Gregory ne soient pas aussi enthousiastes à l'idée de soutenir vos efforts, peut-être en raison d'une interférence surnaturelle ou simplement d'un désintérêt (ou d'une incrédulité). de la menace) de leur part. Si cela devait se produire, il est probable que l’organisation dans son ensemble en pâtirait. Des voix inquiètes parmi les Inquisiteurs prévoient de faire tout ce qu'ils peuvent à court terme et de prier pour la vie longue et saine de Gregory." #NT!
- PODask_pope.1.a: "Vive Sa Sainteté !" #NT!
-  
- PODask_pope.3.t: "Fumée blanche, nuages ​​blancs" #NT!
- PODask_pope.3.desc: "Sa Sainteté est décédé récemment, laissant les estimés cardinaux faire leur choix pour le prochain occupant du siège de Saint-Pierre. Il s'agit d'un événement suivi de près par l'Inquisition de l'Ombre, non seulement pour des questions de dévotion chrétienne, mais aussi parce que le soutien du Pape est primordial pour la santé à long terme de l'organisation.\nLes cardinaux ont bien choisi cette fois, et le nouveau Pope soutient pleinement l'Inquisition de l'Ombre, utilisant tout son influence considérable pour s'assurer que vous ne manquerez de rien qui pourrait vous aider à combattre la véritable menace." #NT!
-  
- PODask_pope.4.t: "Fumée blanche, ciel dégagé" #NT!
- PODask_pope.4.desc: "Sa Sainteté est décédé récemment, laissant les estimés cardinaux faire leur choix pour le prochain occupant du siège de Saint-Pierre. Il s'agit d'un événement suivi de près par l'Inquisition de l'Ombre, non seulement pour des questions de dévotion chrétienne, mais aussi parce que le soutien du Pape est primordial pour la santé à long terme de l'organisation.\nLe nouveau Pape a choisi de ne pas s'immiscer dans les affaires. de l'Inquisition de l'Ombre sous quelque forme que ce soit. Même si vous auriez apprécié un soutien plus clair de la part de Rome, il n’y a au moins aucun défi à l’encontre de votre ordre. Cela devra suffire pour l’instant." #NT!
- PODask_pope.4.a: "Vive Sa Sainteté." #NT!
-  
- inquisition_no_support_modifier: "Interdiction papale" #NT!
- inquisition_no_support_modifier_desc: "Vous ne faites plus officiellement partie de l'Église catholique. Seuls quelques membres de haut rang de la Curie vous soutiennent encore." #NT!
-  
- PODask_pope.5.t: "Fumée blanche, nuages ​​noirs" #NT!
- PODask_pope.5.desc: "Sa Sainteté est décédé récemment, laissant les estimés cardinaux faire leur choix pour le prochain occupant du siège de Saint-Pierre. Il s'agit d'un événement suivi de près par l'Inquisition de l'Ombre, non seulement pour des questions de dévotion chrétienne, mais aussi parce que le soutien du Pape est primordial pour la santé à long terme de l'organisation.\nDe manière inquiétante, le nouveau Pape a été horrifié lorsqu'il a été informé de l'existence de l'Inquisition de l'Ombre. Accusant cela d'être l'un des sales secrets dont il veut se débarrasser durant son mandat, Sa Sainteté a officiellement retiré tout soutien à l'Église. C'est une situation désastreuse, mais il pourrait y avoir une solution : certains cardinaux soutiennent toujours votre cause et, avec un soutien approprié de votre part, ils pourraient toujours maintenir la ligne de communication ouverte entre vous et l'Église." #NT!
- PODask_pope.5.a: "Vive Sa Sainteté..." #NT!
- PODask_pope.5.b: "Nous savons mieux." #NT!
-  
- PODask_pope.6.t: "Fumée blanche, ombres changeantes" #NT!
- PODask_pope.6.desc: "Sa Sainteté est décédé récemment, laissant les estimés cardinaux faire leur choix pour le prochain occupant du siège de Saint-Pierre. Il s'agit d'un événement suivi de près par l'Inquisition de l'Ombre, non seulement pour des questions de dévotion chrétienne, mais aussi parce que le soutien du Pape est primordial pour la santé à long terme de l'organisation.\nLe nouveau Pape est un homme de tendance spirituelle, et ne vous préoccupez pas beaucoup des questions temporelles telles que votre organisation. Il semble que les cardinaux auront une importance démesurée pendant son mandat et c'est une nouvelle inquiétante pour vous, car ils sont souvent la cible d'une influence surnaturelle. Vous pourriez essayer de lancer une enquête à grande échelle sur eux, mais cela ne manquerait pas de faire bouger quelques plumes." #NT!
- PODask_pope.6.a: "Ciblons ceux qui sont vraiment corrompus." #NT!
- PODask_pope.6.b: "Les hérétiques seront purgés !" #NT!
- PODask_pope.6.effect.success.desc: "Une enquête réussie !" #NT!
- PODask_pope.6.critical.failure.effect.desc: "Waylaid à chaque tournant…" #NT!
-  
- PODask_pope.7.t: "Fumée blanche, ombres blanches" #NT!
- PODask_pope.7.desc: "Sa Sainteté est décédé récemment, laissant les estimés cardinaux faire leur choix pour le prochain occupant du siège de Saint-Pierre. Il s'agit d'un événement suivi de près par l'Inquisition de l'Ombre, non seulement pour des questions de dévotion chrétienne, mais aussi parce que le soutien du Pape est primordial pour la santé à long terme de l'organisation.\nPour aider l'Inquisition de l'Ombre, le nouveau Pape prévoit une action diplomatique auprès des autres confessions et de leurs propres organisations de chasseurs. Vous êtes évidemment censés vous joindre à nous et contribuer à dissiper tout malentendu passé entre eux et l’Église catholique afin de faciliter le processus. Sa Sainteté étant enclin à l'aider, vous pourriez également le convaincre que ce serait un effort inutile et rediriger les fonds ailleurs." #NT!
- PODask_pope.7.a: "Une brillante idée, Votre Sainteté." #NT!
- PODask_pope.7.b: "On ne peut pas faire confiance à ces hérétiques." #NT!
- PODask_pope.7.effect.success.desc: "Une négociation réussie !" #NT!
- PODask_pope.7.critical.failure.effect.desc: "Réussi, mais coûteux." #NT!
-  
- PODask_pope.8.t: "Fumée blanche, vents dorés" #NT!
- PODask_pope.8.desc: "Sa Sainteté est décédé récemment, laissant les estimés cardinaux faire leur choix pour le prochain occupant du siège de Saint-Pierre. Il s'agit d'un événement suivi de près par l'Inquisition de l'Ombre, non seulement pour des questions de dévotion chrétienne, mais aussi parce que le soutien du Pape est primordial pour la santé à long terme de l'organisation.\nBien qu'il ne soit pas totalement hostile à l'Inquisition de l'Ombre, le nouveau Pope est convaincu que vous exagérez la menace réelle. A ce titre, il a décrété une réduction massive des fonds qui vous sont alloués, fonds qui vous aident à mettre en place la plupart des travaux que vous effectuez sur le terrain. Vous devrez revoir tous vos processus existants et probablement procéder à des coupes difficiles si vous souhaitez continuer comme vous le faites actuellement." #NT!
- PODask_pope.8.a: "Il est temps de se réorganiser." #NT!
- PODask_pope.8.b: "Il est temps de réduire les coûts." #NT!
- PODask_pope.8.effect.success.desc: "Une réorganisation réussie !" #NT!
- PODask_pope.8.critical.failure.effect.desc: "Cela a aggravé les choses..." #NT!
-  
- inquisition_disorganized_levies_modifier: "Désireux et inexpérimenté" #NT!
- inquisition_disorganized_levies_modifier_desc: "De nombreuses nouvelles recrues rejoignent le bon combat. Leur nombre et leur inexpérience totale posent cependant problème." #NT!
-  
- PODask_pope.9.t: "Fumée blanche, vents de sang" #NT!
- PODask_pope.9.desc: "Sa Sainteté est décédé récemment, laissant les estimés cardinaux faire leur choix pour le prochain occupant du siège de Saint-Pierre. Il s'agit d'un événement suivi de près par l'Inquisition de l'Ombre, non seulement pour des questions de dévotion chrétienne, mais aussi parce que le soutien du Pape est primordial pour la santé à long terme de l'organisation.\nLe nouveau Pape est désireux d'aider l'Inquisition de l'Ombre et a donc lancé un appel à tous les hommes capables de rejoindre vos rangs sans vous en informer au préalable. Bien que certainement bien intentionné, ce geste a provoqué une certaine désorganisation dans vos rangs car ces nouvelles recrues sont très loin des standards que vous attendez des champions de l'Inquisition. Il faudra un certain effort pour régler cela." #NT!
- PODask_pope.9.a: "Il est temps de se réorganiser." #NT!
- PODask_pope.9.b: "Acceptez simplement tout le monde et réglez-le plus tard." #NT!
-  
- PODask_pope.10.t: "Fumée blanche, vents blancs" #NT!
- PODask_pope.10.desc: "Sa Sainteté est décédé récemment, laissant les estimés cardinaux faire leur choix pour le prochain occupant du siège de Saint-Pierre. Il s'agit d'un événement suivi de près par l'Inquisition de l'Ombre, non seulement pour des questions de dévotion chrétienne, mais aussi parce que le soutien du Pape est primordial pour la santé à long terme de l'organisation.\nBien qu'il ne rejette pas l'utilisation de l'Inquisition de l'Ombre, le Le nouveau pape s'inquiète de la moralité de certaines actions entreprises en son nom. Théologien avisé, il a demandé à parler avec vous pour vous aider tous les deux à évaluer si les résultats en valent vraiment la peine. Vous êtes évidemment convaincu que la réponse est oui, mais faire accepter à Sa Sainteté cela pourrait être plus difficile." #NT!
- PODask_pope.10.a: "Il est temps de débattre." #NT!
- PODask_pope.10.b: "Sa Sainteté a évidemment raison." #NT!
- PODask_pope.10.effect.success.desc: "Sa Sainteté est d'accord !" #NT!
- PODask_pope.10.critical.failure.effect.desc: "Suis-je vraiment condamné ?" #NT!
-  
- PODask_pope.11.t: "Fumée blanche, brouillard blanc" #NT!
- PODask_pope.11.desc: "Sa Sainteté est décédé récemment, laissant les estimés cardinaux faire leur choix pour le prochain occupant du siège de Saint-Pierre. Il s'agit d'un événement suivi de près par l'Inquisition de l'Ombre, non seulement pour des questions de dévotion chrétienne, mais aussi parce que le soutien du Pape est primordial pour la santé à long terme de l'organisation.\nLe nouveau Pape ne conteste pas l'importance de l'Inquisition de l'Ombre. Shadow Inquisition mais s'inquiète de l'image publique que cela pourrait lui donner. Après tout, votre organisation n’est pas sous supervision directe et pourrait dérailler à tout moment. Car les répercussions sur l’Église seraient désastreuses et Sa Sainteté vous demande de rompre la plupart de vos liens avec lui. Cela signifierait que l’Inquisition de l’Ombre se retirerait encore plus derrière le rideau, ce qui peut être une arme à double tranchant." #NT!
- PODask_pope.11.a: "Sa Sainteté a parlé." #NT!
- PODask_pope.11.b: "Nous avons besoin de ces liens avec l’Église !" #NT!
-  
- PODask_pope.12.t: "Fumée blanche, ciel nuageux" #NT!
- PODask_pope.12.desc: "Sa Sainteté est décédé récemment, laissant les estimés cardinaux faire leur choix pour le prochain occupant du siège de Saint-Pierre. Il s'agit d'un événement suivi de près par l'Inquisition de l'Ombre, non seulement pour des questions de dévotion chrétienne, mais aussi parce que le soutien du Pape est primordial pour la santé à long terme de l'organisation.\nHeureusement, le nouveau Pape soutient l'Inquisition de l'Ombre. bien qu'il semble particulièrement apprécier votre commande spécifique. Accepter les nombreux titres et autres marques d’éloges qu’il essaie de décerner aurait certainement une bonne image de votre peuple, mais moins de votre propre personne." #NT!
- PODask_pope.12.a: "Sa Sainteté nous flatte." #NT!
- PODask_pope.12.b: "c'est un effort d'équipe." #NT!
-  
-  
+    inquisition_full_support_modifier: "Soutien papal total"
+    inquisition_full_support_modifier_desc: "Vous avez le plein soutien de Sa Sainteté et donc de l'Église elle-même. Gloire à Dieu!"
+
+    PODask_pope.1.t: "Sa Sainteté : Grégoire IX"
+    PODask_pope.1.desc: "L’Inquisition de l’Ombre est à bien des égards une extension directe de l’Église catholique, la majeure partie de son financement et de son soutien provenant directement d’elle. Le pape Grégoire est un fervent défenseur de cet effort, à tel point qu'il envisage de créer une Inquisition « publique » pour s'attaquer à des menaces moins surnaturelles à l'avenir. Avoir l'oreille directe d'un individu aussi puissant est une aubaine à ne pas gaspiller à la légère par l'Inquisition de l'Ombre en plein essor.\nDe nombreux Inquisiteurs craignent que les successeurs de Gregory ne soient pas aussi enthousiastes à l'idée de soutenir vos efforts, peut-être en raison d'une interférence surnaturelle ou simplement d'un désintérêt (ou d'une incrédulité). de la menace) de leur part. Si cela devait se produire, il est probable que l’organisation dans son ensemble en pâtirait. Des voix inquiètes parmi les Inquisiteurs prévoient de faire tout ce qu'ils peuvent à court terme et de prier pour la vie longue et saine de Gregory."
+    PODask_pope.1.a: "Vive Sa Sainteté !"
+
+    PODask_pope.3.t: "Fumée blanche, nuages ​​blancs"
+    PODask_pope.3.desc: "Sa Sainteté est décédé récemment, laissant les estimés cardinaux faire leur choix pour le prochain occupant du siège de Saint-Pierre. Il s'agit d'un événement suivi de près par l'Inquisition de l'Ombre, non seulement pour des questions de dévotion chrétienne, mais aussi parce que le soutien du Pape est primordial pour la santé à long terme de l'organisation.\nLes cardinaux ont bien choisi cette fois, et le nouveau Pope soutient pleinement l'Inquisition de l'Ombre, utilisant tout son influence considérable pour s'assurer que vous ne manquerez de rien qui pourrait vous aider à combattre la véritable menace."
+
+    PODask_pope.4.t: "Fumée blanche, ciel dégagé"
+    PODask_pope.4.desc: "Sa Sainteté est décédé récemment, laissant les estimés cardinaux faire leur choix pour le prochain occupant du siège de Saint-Pierre. Il s'agit d'un événement suivi de près par l'Inquisition de l'Ombre, non seulement pour des questions de dévotion chrétienne, mais aussi parce que le soutien du Pape est primordial pour la santé à long terme de l'organisation.\nLe nouveau Pape a choisi de ne pas s'immiscer dans les affaires. de l'Inquisition de l'Ombre sous quelque forme que ce soit. Même si vous auriez apprécié un soutien plus clair de la part de Rome, il n’y a au moins aucun défi à l’encontre de votre ordre. Cela devra suffire pour l’instant."
+    PODask_pope.4.a: "Vive Sa Sainteté."
+
+    inquisition_no_support_modifier: "Interdiction papale"
+    inquisition_no_support_modifier_desc: "Vous ne faites plus officiellement partie de l'Église catholique. Seuls quelques membres de haut rang de la Curie vous soutiennent encore."
+
+    PODask_pope.5.t: "Fumée blanche, nuages ​​noirs"
+    PODask_pope.5.desc: "Sa Sainteté est décédé récemment, laissant les estimés cardinaux faire leur choix pour le prochain occupant du siège de Saint-Pierre. Il s'agit d'un événement suivi de près par l'Inquisition de l'Ombre, non seulement pour des questions de dévotion chrétienne, mais aussi parce que le soutien du Pape est primordial pour la santé à long terme de l'organisation.\nDe manière inquiétante, le nouveau Pape a été horrifié lorsqu'il a été informé de l'existence de l'Inquisition de l'Ombre. Accusant cela d'être l'un des sales secrets dont il veut se débarrasser durant son mandat, Sa Sainteté a officiellement retiré tout soutien à l'Église. C'est une situation désastreuse, mais il pourrait y avoir une solution : certains cardinaux soutiennent toujours votre cause et, avec un soutien approprié de votre part, ils pourraient toujours maintenir la ligne de communication ouverte entre vous et l'Église."
+    PODask_pope.5.a: "Vive Sa Sainteté..."
+    PODask_pope.5.b: "Nous savons mieux."
+
+    PODask_pope.6.t: "Fumée blanche, ombres changeantes"
+    PODask_pope.6.desc: "Sa Sainteté est décédé récemment, laissant les estimés cardinaux faire leur choix pour le prochain occupant du siège de Saint-Pierre. Il s'agit d'un événement suivi de près par l'Inquisition de l'Ombre, non seulement pour des questions de dévotion chrétienne, mais aussi parce que le soutien du Pape est primordial pour la santé à long terme de l'organisation.\nLe nouveau Pape est un homme de tendance spirituelle, et ne vous préoccupez pas beaucoup des questions temporelles telles que votre organisation. Il semble que les cardinaux auront une importance démesurée pendant son mandat et c'est une nouvelle inquiétante pour vous, car ils sont souvent la cible d'une influence surnaturelle. Vous pourriez essayer de lancer une enquête à grande échelle sur eux, mais cela ne manquerait pas de faire bouger quelques plumes."
+    PODask_pope.6.a: "Ciblons ceux qui sont vraiment corrompus."
+    PODask_pope.6.b: "Les hérétiques seront purgés !"
+    PODask_pope.6.effect.success.desc: "Une enquête réussie !"
+    PODask_pope.6.critical.failure.effect.desc: "Waylaid à chaque tournant…"
+
+    PODask_pope.7.t: "Fumée blanche, ombres blanches"
+    PODask_pope.7.desc: "Sa Sainteté est décédé récemment, laissant les estimés cardinaux faire leur choix pour le prochain occupant du siège de Saint-Pierre. Il s'agit d'un événement suivi de près par l'Inquisition de l'Ombre, non seulement pour des questions de dévotion chrétienne, mais aussi parce que le soutien du Pape est primordial pour la santé à long terme de l'organisation.\nPour aider l'Inquisition de l'Ombre, le nouveau Pape prévoit une action diplomatique auprès des autres confessions et de leurs propres organisations de chasseurs. Vous êtes évidemment censés vous joindre à nous et contribuer à dissiper tout malentendu passé entre eux et l’Église catholique afin de faciliter le processus. Sa Sainteté étant enclin à l'aider, vous pourriez également le convaincre que ce serait un effort inutile et rediriger les fonds ailleurs."
+    PODask_pope.7.a: "Une brillante idée, Votre Sainteté."
+    PODask_pope.7.b: "On ne peut pas faire confiance à ces hérétiques."
+    PODask_pope.7.effect.success.desc: "Une négociation réussie !"
+    PODask_pope.7.critical.failure.effect.desc: "Réussi, mais coûteux."
+
+    PODask_pope.8.t: "Fumée blanche, vents dorés"
+    PODask_pope.8.desc: "Sa Sainteté est décédé récemment, laissant les estimés cardinaux faire leur choix pour le prochain occupant du siège de Saint-Pierre. Il s'agit d'un événement suivi de près par l'Inquisition de l'Ombre, non seulement pour des questions de dévotion chrétienne, mais aussi parce que le soutien du Pape est primordial pour la santé à long terme de l'organisation.\nBien qu'il ne soit pas totalement hostile à l'Inquisition de l'Ombre, le nouveau Pope est convaincu que vous exagérez la menace réelle. A ce titre, il a décrété une réduction massive des fonds qui vous sont alloués, fonds qui vous aident à mettre en place la plupart des travaux que vous effectuez sur le terrain. Vous devrez revoir tous vos processus existants et probablement procéder à des coupes difficiles si vous souhaitez continuer comme vous le faites actuellement."
+    PODask_pope.8.a: "Il est temps de se réorganiser."
+    PODask_pope.8.b: "Il est temps de réduire les coûts."
+    PODask_pope.8.effect.success.desc: "Une réorganisation réussie !"
+    PODask_pope.8.critical.failure.effect.desc: "Cela a aggravé les choses..."
+
+    inquisition_disorganized_levies_modifier: "Désireux et inexpérimenté"
+    inquisition_disorganized_levies_modifier_desc: "De nombreuses nouvelles recrues rejoignent le bon combat. Leur nombre et leur inexpérience totale posent cependant problème."
+
+    PODask_pope.9.t: "Fumée blanche, vents de sang"
+    PODask_pope.9.desc: "Sa Sainteté est décédé récemment, laissant les estimés cardinaux faire leur choix pour le prochain occupant du siège de Saint-Pierre. Il s'agit d'un événement suivi de près par l'Inquisition de l'Ombre, non seulement pour des questions de dévotion chrétienne, mais aussi parce que le soutien du Pape est primordial pour la santé à long terme de l'organisation.\nLe nouveau Pape est désireux d'aider l'Inquisition de l'Ombre et a donc lancé un appel à tous les hommes capables de rejoindre vos rangs sans vous en informer au préalable. Bien que certainement bien intentionné, ce geste a provoqué une certaine désorganisation dans vos rangs car ces nouvelles recrues sont très loin des standards que vous attendez des champions de l'Inquisition. Il faudra un certain effort pour régler cela."
+    PODask_pope.9.a: "Il est temps de se réorganiser."
+    PODask_pope.9.b: "Acceptez simplement tout le monde et réglez-le plus tard."
+
+    PODask_pope.10.t: "Fumée blanche, vents blancs"
+    PODask_pope.10.desc: "Sa Sainteté est décédé récemment, laissant les estimés cardinaux faire leur choix pour le prochain occupant du siège de Saint-Pierre. Il s'agit d'un événement suivi de près par l'Inquisition de l'Ombre, non seulement pour des questions de dévotion chrétienne, mais aussi parce que le soutien du Pape est primordial pour la santé à long terme de l'organisation.\nBien qu'il ne rejette pas l'utilisation de l'Inquisition de l'Ombre, le Le nouveau pape s'inquiète de la moralité de certaines actions entreprises en son nom. Théologien avisé, il a demandé à parler avec vous pour vous aider tous les deux à évaluer si les résultats en valent vraiment la peine. Vous êtes évidemment convaincu que la réponse est oui, mais faire accepter à Sa Sainteté cela pourrait être plus difficile."
+    PODask_pope.10.a: "Il est temps de débattre."
+    PODask_pope.10.b: "Sa Sainteté a évidemment raison."
+    PODask_pope.10.effect.success.desc: "Sa Sainteté est d'accord !"
+    PODask_pope.10.critical.failure.effect.desc: "Suis-je vraiment condamné ?"
+
+    PODask_pope.11.t: "Fumée blanche, brouillard blanc"
+    PODask_pope.11.desc: "Sa Sainteté est décédé récemment, laissant les estimés cardinaux faire leur choix pour le prochain occupant du siège de Saint-Pierre. Il s'agit d'un événement suivi de près par l'Inquisition de l'Ombre, non seulement pour des questions de dévotion chrétienne, mais aussi parce que le soutien du Pape est primordial pour la santé à long terme de l'organisation.\nLe nouveau Pape ne conteste pas l'importance de l'Inquisition de l'Ombre. Shadow Inquisition mais s'inquiète de l'image publique que cela pourrait lui donner. Après tout, votre organisation n’est pas sous supervision directe et pourrait dérailler à tout moment. Car les répercussions sur l’Église seraient désastreuses et Sa Sainteté vous demande de rompre la plupart de vos liens avec lui. Cela signifierait que l’Inquisition de l’Ombre se retirerait encore plus derrière le rideau, ce qui peut être une arme à double tranchant."
+    PODask_pope.11.a: "Sa Sainteté a parlé."
+    PODask_pope.11.b: "Nous avons besoin de ces liens avec l’Église !"
+
+    PODask_pope.12.t: "Fumée blanche, ciel nuageux"
+    PODask_pope.12.desc: "Sa Sainteté est décédé récemment, laissant les estimés cardinaux faire leur choix pour le prochain occupant du siège de Saint-Pierre. Il s'agit d'un événement suivi de près par l'Inquisition de l'Ombre, non seulement pour des questions de dévotion chrétienne, mais aussi parce que le soutien du Pape est primordial pour la santé à long terme de l'organisation.\nHeureusement, le nouveau Pape soutient l'Inquisition de l'Ombre. bien qu'il semble particulièrement apprécier votre commande spécifique. Accepter les nombreux titres et autres marques d’éloges qu’il essaie de décerner aurait certainement une bonne image de votre peuple, mais moins de votre propre personne."
+    PODask_pope.12.a: "Sa Sainteté nous flatte."
+    PODask_pope.12.b: "c'est un effort d'équipe."

@@ -1,139 +1,139 @@
 ﻿l_french:
- POD_wraith_passion_gaining_passions_decision: "Gagner des passions" #NT!
- POD_wraith_passion_gaining_passions_decision_desc: "Vos passions sont au cœur de votre être et font partie de ce qui vous maintient accroché à l’existence. Vous n’arrêtez jamais de chercher à cause de votre amour irrésistible, ou le feu de la vengeance continue de brûler, et vous ne vous arrêterez pas tant que vous n’aurez pas rendu justice. Quels que soient les détails, ils vous obligent à persister." #NT!
- POD_wraith_passion_gaining_passions_decision_tooltip: "Vous choisirez de nouvelles Passions." #NT!
- POD_wraith_passion_gaining_passions_decision_confirm: "Permettez-moi de commencer par……" #NT!
-  
- POD_wraith_passion_find_killer_decision: "Passion : trouver mon tueur" #NT!
- POD_wraith_passion_find_killer_decision_desc: ""
- POD_wraith_passion_find_killer_decision_tooltip: "Vous finirez cette Passion." #NT!
- POD_wraith_passion_find_killer_decision_confirm: "Résolu!" #NT!
- POD_wraith_passion_find_killer_decision_condition: "Votre tueur, [TARGET_CHARACTER.GetFirstName], doit être mort." #NT!
-  
- POD_wraith_passion_amass_wealth_decision: "Passion : amasser des richesses" #NT!
- POD_wraith_passion_amass_wealth_decision_desc: ""
- POD_wraith_passion_amass_wealth_decision_tooltip: "Vous finirez cette Passion." #NT!
- POD_wraith_passion_amass_wealth_decision_confirm: "Résolu!" #NT!
-  
- POD_wraith_passion_become_exalted_decision: "Passion : Devenez exalté parmi les morts" #NT!
- POD_wraith_passion_become_exalted_decision_desc: ""
- POD_wraith_passion_become_exalted_decision_tooltip: "Vous finirez cette Passion." #NT!
- POD_wraith_passion_become_exalted_decision_confirm: "Résolu!" #NT!
-  
- POD_wraith_passion_become_paragon_decision: "Passion : devenez le modèle de la transcendance" #NT!
- POD_wraith_passion_become_paragon_decision_desc: ""
- POD_wraith_passion_become_paragon_decision_tooltip: "Vous finirez cette Passion." #NT!
- POD_wraith_passion_become_paragon_decision_confirm: "Résolu!" #NT!
-  
- POD_wraith_passion_create_a_treasury_decision: "Passion : créer une trésorerie" #NT!
- POD_wraith_passion_create_a_treasury_decision_desc: ""
- POD_wraith_passion_create_a_treasury_decision_tooltip: "Vous finirez cette Passion." #NT!
- POD_wraith_passion_create_a_treasury_decision_confirm: "Résolu!" #NT!
- POD_wraith_passion_create_a_treasury_decision_conditiona: "Vous devez avoir #V 3#! artefact de rareté commune ou supérieure en votre possession" #NT!
- POD_wraith_passion_create_a_treasury_decision_conditionb: "Vous devez avoir en votre possession un chef-d'œuvre #V 3#! ou un artefact de rareté supérieure." #NT!
- POD_wraith_passion_create_a_treasury_decision_conditionc: "Vous devez avoir #V 3#! artefact célèbre ou de rareté supérieure en votre possession." #NT!
- POD_wraith_passion_create_a_treasury_decision_conditiond: "Vous devez avoir #V 3#! artefact illustre en votre possession" #NT!
-  
- POD_wraith_passion_build_a_great_work_decision: "Passion : Construire une merveille" #NT!
- POD_wraith_passion_build_a_great_work_decision_desc: ""
- POD_wraith_passion_build_a_great_work_decision_tooltip: "Vous finirez cette Passion." #NT!
- POD_wraith_passion_build_a_great_work_decision_confirm: "Résolu!" #NT!
- POD_wraith_passion_build_a_great_work_decision_condition: "Le bâtiment spécial, au [TARGET_TITLE.GetNameNoTier], doit être construit." #NT!
-  
- POD_wraith_passion_make_a_friend_decision: "Passion : se faire un meilleur ami" #NT!
- POD_wraith_passion_make_a_friend_decision_desc: ""
- POD_wraith_passion_make_a_friend_decision_tooltip: "Vous finirez cette Passion." #NT!
- POD_wraith_passion_make_a_friend_decision_confirm: "Résolu!" #NT!
-  
- POD_wraith_passion_protect_family_decision: "Passion : Protéger ma famille" #NT!
- POD_wraith_passion_protect_family_decision_desc: ""
- POD_wraith_passion_protect_family_decision_tooltip: "Vous finirez cette Passion." #NT!
- POD_wraith_passion_protect_family_decision_confirm: "Résolu!" #NT!
- POD_wraith_passion_protect_family_decision_condition: "Aucun membre de votre famille n'est décédé depuis #V 1#! an." #NT!
- passion_fail_notification: "Passion détruite" #NT!
- passion_fail_protect_family_tooltip: "Un membre de votre famille est décédé." #NT!
-  
- POD_wraith_passion_kill_rival_decision: "Passion : Tuer mon rival" #NT!
- POD_wraith_passion_kill_rival_decision_desc: ""
- POD_wraith_passion_kill_rival_decision_tooltip: "Vous finirez cette Passion." #NT!
- POD_wraith_passion_kill_rival_decision_confirm: "Résolu!" #NT!
- POD_wraith_passion_kill_rival_decision_condition: "Votre rival, [TARGET_CHARACTER.GetFirstName], doit être mort." #NT!
-  
- POD_wraith_fetter_adquire_fetters_decision: "Acquisition [Fetters|E]" #NT!
- POD_wraith_fetter_adquire_fetters_decision_desc: "Il est rare qu'un spectre développe un niveau d'attachement suffisamment profond à une nouvelle personne ou chose dans le [skinlands|E] pour créer un véritable [Fetter|E], mais ce n'est pas impossible." #NT!
- POD_wraith_fetter_adquire_fetters_decision_tooltip: "Achat d'un nouveau [Fetter|E]." #NT!
- POD_wraith_fetter_adquire_fetters_decision_confirm: "Justifié !" #NT!
-  
- POD_wraith_dark_passion_start_a_hostile_scheme_decision: "Dark Passion : lancez un plan hostile" #NT!
- POD_wraith_dark_passion_start_a_hostile_scheme_decision_desc: ""
- POD_wraith_dark_passion_start_a_hostile_scheme_decision_tooltip: "Vous terminerez cette Dark Passion." #NT!
- POD_wraith_dark_passion_start_a_hostile_scheme_decision_confirm: "Es-tu sûr?" #NT!
-  
- POD_wraith_dark_passion_start_a_seduction_decision: "Dark Passion : démarrez un plan de séduction" #NT!
- POD_wraith_dark_passion_start_a_seduction_decision_desc: ""
- POD_wraith_dark_passion_start_a_seduction_decision_tooltip: "Vous terminerez cette Dark Passion." #NT!
- POD_wraith_dark_passion_start_a_seduction_decision_confirm: "Es-tu sûr?" #NT!
-  
- POD_wraith_dark_passion_start_a_war_decision: "Dark Passion : démarrez une guerre" #NT!
- POD_wraith_dark_passion_start_a_war_decision_desc: ""
- POD_wraith_dark_passion_start_a_war_decision_tooltip: "Vous terminerez cette Dark Passion." #NT!
- POD_wraith_dark_passion_start_a_war_decision_confirm: "Es-tu sûr?" #NT!
-  
- POD_wraith_dark_passion_raise_tyranny_decision: "Dark Passion : Élevez la tyrannie" #NT!
- POD_wraith_dark_passion_raise_tyranny_decision_desc: ""
- POD_wraith_dark_passion_raise_tyranny_decision_tooltip: "Vous terminerez cette Dark Passion." #NT!
- POD_wraith_dark_passion_raise_tyranny_decision_confirm: "Es-tu sûr?" #NT!
-  
- POD_wraith_dark_passion_exceeding_the_domain_limit_decision: "Dark Passion : Dépasser la limite de domaine" #NT!
- POD_wraith_dark_passion_exceeding_the_domain_limit_decision_desc: ""
- POD_wraith_dark_passion_exceeding_the_domain_limit_decision_tooltip: "Vous terminerez cette Dark Passion." #NT!
- POD_wraith_dark_passion_exceeding_the_domain_limit_decision_confirm: "Es-tu sûr?" #NT!
-  
- POD_wraith_dark_passion_exceeding_the_vassal_limit_decision: "Dark Passion : Dépasser la limite vassale" #NT!
- POD_wraith_dark_passion_exceeding_the_vassal_limit_decision_desc: ""
- POD_wraith_dark_passion_exceeding_the_vassal_limit_decision_tooltip: "Vous terminerez cette Dark Passion." #NT!
- POD_wraith_dark_passion_exceeding_the_vassal_limit_decision_confirm: "Es-tu sûr?" #NT!
-  
- POD_wraith_dark_passion_blackmail_decision: "Dark Passion : chantage" #NT!
- POD_wraith_dark_passion_blackmail_decision_desc: ""
- POD_wraith_dark_passion_blackmail_decision_tooltip: "Vous terminerez cette Dark Passion." #NT!
- POD_wraith_dark_passion_blackmail_decision_confirm: "Es-tu sûr?" #NT!
- POD_wraith_dark_passion_blackmail_decision_condition: "Vous avez utilisé le chantage [character_interaction|E]." #NT!
-  
- POD_wraith_dark_passion_revoke_title_decision: "Dark Passion : Révoquer le titre" #NT!
- POD_wraith_dark_passion_revoke_title_decision_desc: ""
- POD_wraith_dark_passion_revoke_title_decision_tooltip: "Vous terminerez cette Dark Passion." #NT!
- POD_wraith_dark_passion_revoke_title_decision_confirm: "Es-tu sûr?" #NT!
- POD_wraith_dark_passion_revoke_title_decision_condition: "Vous avez utilisé la révocation du titre [character_interaction|E]." #NT!
-  
- POD_wraith_dark_passion_execute_prisoner_decision: "Dark Passion : Exécuter un prisonnier" #NT!
- POD_wraith_dark_passion_execute_prisoner_decision_desc: ""
- POD_wraith_dark_passion_execute_prisoner_decision_tooltip: "Vous terminerez cette Dark Passion." #NT!
- POD_wraith_dark_passion_execute_prisoner_decision_confirm: "Es-tu sûr?" #NT!
- POD_wraith_dark_passion_execute_prisoner_decision_condition: "Vous avez utilisé exécuter le prisonnier [character_interaction|E]." #NT!
-  
- POD_wraith_dark_passion_banish_prisoner_decision: "Dark Passion : bannir le prisonnier" #NT!
- POD_wraith_dark_passion_banish_prisoner_decision_desc: ""
- POD_wraith_dark_passion_banish_prisoner_decision_tooltip: "Vous terminerez cette Dark Passion." #NT!
- POD_wraith_dark_passion_banish_prisoner_decision_confirm: "Es-tu sûr?" #NT!
- POD_wraith_dark_passion_banish_prisoner_decision_condition: "Vous avez utilisé le bannissement du prisonnier [character_interaction|E]." #NT!
-  
- POD_wraith_devils_dare_spend_gold_decision: "Défi du Diable : Oboli des déchets" #NT!
- POD_wraith_devils_dare_spend_gold_decision_desc: "Votre Ombre vous met au défi de gaspiller votre Oboli, si vous n'acceptez pas ce défi, vous gagnerez #N 150#! [stress|E]." #NT!
- POD_wraith_devils_dare_spend_gold_decision_tooltip: "Vous accepterez ce défi du diable." #NT!
- POD_wraith_devils_dare_spend_gold_decision_confirm: "J'ose!" #NT!
-  
- POD_wraith_devils_dare_spend_piety_decision: "Devil's Dare : arrêtez votre transcendance" #NT!
- POD_wraith_devils_dare_spend_piety_decision_desc: "Votre Ombre vous met au défi d'arrêter votre progression de transcendance, si vous n'acceptez pas ce défi, vous gagnerez #N 150#! [stress|E]." #NT!
- POD_wraith_devils_dare_spend_piety_decision_tooltip: "Vous accepterez ce défi du diable." #NT!
- POD_wraith_devils_dare_spend_piety_decision_confirm: "J'ose!" #NT!
-  
- POD_wraith_devils_dare_spend_prestige_decision: "Devil's Dare : ruinez votre réputation" #NT!
- POD_wraith_devils_dare_spend_prestige_decision_desc: "Votre Ombre vous met au défi de ruiner votre réputation, si vous n'acceptez pas ce défi, vous gagnerez #N 150#! [stress|E]." #NT!
- POD_wraith_devils_dare_spend_prestige_decision_tooltip: "Vous accepterez ce défi du diable." #NT!
- POD_wraith_devils_dare_spend_prestige_decision_confirm: "J'ose!" #NT!
-  
- POD_wraith_find_mortal_lineage_decision: "Lignée mortelle" #NT!
- POD_wraith_find_mortal_lineage_decision_desc: "Il y a des rumeurs selon lesquelles une lignée mortelle de votre famille existerait encore dans le monde, vous n'y croyiez pas au début, mais ce gamin vous ressemble !" #NT!
- POD_wraith_find_mortal_lineage_decision_tooltip: "Vous acquerrez un mortel comme votre enfant." #NT!
- POD_wraith_find_mortal_lineage_decision_confirm: "Pourrait être..." #NT!
+    POD_wraith_passion_gaining_passions_decision: "Gagner des passions"
+    POD_wraith_passion_gaining_passions_decision_desc: "Vos passions sont au cœur de votre être et font partie de ce qui vous maintient accroché à l’existence. Vous n’arrêtez jamais de chercher à cause de votre amour irrésistible, ou le feu de la vengeance continue de brûler, et vous ne vous arrêterez pas tant que vous n’aurez pas rendu justice. Quels que soient les détails, ils vous obligent à persister."
+    POD_wraith_passion_gaining_passions_decision_tooltip: "Vous choisirez de nouvelles Passions."
+    POD_wraith_passion_gaining_passions_decision_confirm: "Permettez-moi de commencer par……"
+
+    POD_wraith_passion_find_killer_decision: "Passion : trouver mon tueur"
+    POD_wraith_passion_find_killer_decision_desc: ""
+    POD_wraith_passion_find_killer_decision_tooltip: "Vous finirez cette Passion."
+    POD_wraith_passion_find_killer_decision_confirm: "Résolu!"
+    POD_wraith_passion_find_killer_decision_condition: "Votre tueur, [TARGET_CHARACTER.GetFirstName], doit être mort."
+
+    POD_wraith_passion_amass_wealth_decision: "Passion : amasser des richesses"
+    POD_wraith_passion_amass_wealth_decision_desc: ""
+    POD_wraith_passion_amass_wealth_decision_tooltip: "Vous finirez cette Passion."
+    POD_wraith_passion_amass_wealth_decision_confirm: "Résolu!"
+
+    POD_wraith_passion_become_exalted_decision: "Passion : Devenez exalté parmi les morts"
+    POD_wraith_passion_become_exalted_decision_desc: ""
+    POD_wraith_passion_become_exalted_decision_tooltip: "Vous finirez cette Passion."
+    POD_wraith_passion_become_exalted_decision_confirm: "Résolu!"
+
+    POD_wraith_passion_become_paragon_decision: "Passion : devenez le modèle de la transcendance"
+    POD_wraith_passion_become_paragon_decision_desc: ""
+    POD_wraith_passion_become_paragon_decision_tooltip: "Vous finirez cette Passion."
+    POD_wraith_passion_become_paragon_decision_confirm: "Résolu!"
+
+    POD_wraith_passion_create_a_treasury_decision: "Passion : créer une trésorerie"
+    POD_wraith_passion_create_a_treasury_decision_desc: ""
+    POD_wraith_passion_create_a_treasury_decision_tooltip: "Vous finirez cette Passion."
+    POD_wraith_passion_create_a_treasury_decision_confirm: "Résolu!"
+    POD_wraith_passion_create_a_treasury_decision_conditiona: "Vous devez avoir #V 3#! artefact de rareté commune ou supérieure en votre possession"
+    POD_wraith_passion_create_a_treasury_decision_conditionb: "Vous devez avoir en votre possession un chef-d'œuvre #V 3#! ou un artefact de rareté supérieure."
+    POD_wraith_passion_create_a_treasury_decision_conditionc: "Vous devez avoir #V 3#! artefact célèbre ou de rareté supérieure en votre possession."
+    POD_wraith_passion_create_a_treasury_decision_conditiond: "Vous devez avoir #V 3#! artefact illustre en votre possession"
+
+    POD_wraith_passion_build_a_great_work_decision: "Passion : Construire une merveille"
+    POD_wraith_passion_build_a_great_work_decision_desc: ""
+    POD_wraith_passion_build_a_great_work_decision_tooltip: "Vous finirez cette Passion."
+    POD_wraith_passion_build_a_great_work_decision_confirm: "Résolu!"
+    POD_wraith_passion_build_a_great_work_decision_condition: "Le bâtiment spécial, au [TARGET_TITLE.GetNameNoTier], doit être construit."
+
+    POD_wraith_passion_make_a_friend_decision: "Passion : se faire un meilleur ami"
+    POD_wraith_passion_make_a_friend_decision_desc: ""
+    POD_wraith_passion_make_a_friend_decision_tooltip: "Vous finirez cette Passion."
+    POD_wraith_passion_make_a_friend_decision_confirm: "Résolu!"
+
+    POD_wraith_passion_protect_family_decision: "Passion : Protéger ma famille"
+    POD_wraith_passion_protect_family_decision_desc: ""
+    POD_wraith_passion_protect_family_decision_tooltip: "Vous finirez cette Passion."
+    POD_wraith_passion_protect_family_decision_confirm: "Résolu!"
+    POD_wraith_passion_protect_family_decision_condition: "Aucun membre de votre famille n'est décédé depuis #V 1#! an."
+    passion_fail_notification: "Passion détruite"
+    passion_fail_protect_family_tooltip: "Un membre de votre famille est décédé."
+
+    POD_wraith_passion_kill_rival_decision: "Passion : Tuer mon rival"
+    POD_wraith_passion_kill_rival_decision_desc: ""
+    POD_wraith_passion_kill_rival_decision_tooltip: "Vous finirez cette Passion."
+    POD_wraith_passion_kill_rival_decision_confirm: "Résolu!"
+    POD_wraith_passion_kill_rival_decision_condition: "Votre rival, [TARGET_CHARACTER.GetFirstName], doit être mort."
+
+    POD_wraith_fetter_adquire_fetters_decision: "Acquisition [Fetters|E]"
+    POD_wraith_fetter_adquire_fetters_decision_desc: "Il est rare qu'un spectre développe un niveau d'attachement suffisamment profond à une nouvelle personne ou chose dans le [skinlands|E] pour créer un véritable [Fetter|E], mais ce n'est pas impossible."
+    POD_wraith_fetter_adquire_fetters_decision_tooltip: "Achat d'un nouveau [Fetter|E]."
+    POD_wraith_fetter_adquire_fetters_decision_confirm: "Justifié !"
+
+    POD_wraith_dark_passion_start_a_hostile_scheme_decision: "Dark Passion : lancez un plan hostile"
+    POD_wraith_dark_passion_start_a_hostile_scheme_decision_desc: ""
+    POD_wraith_dark_passion_start_a_hostile_scheme_decision_tooltip: "Vous terminerez cette Dark Passion."
+    POD_wraith_dark_passion_start_a_hostile_scheme_decision_confirm: "Es-tu sûr?"
+
+    POD_wraith_dark_passion_start_a_seduction_decision: "Dark Passion : démarrez un plan de séduction"
+    POD_wraith_dark_passion_start_a_seduction_decision_desc: ""
+    POD_wraith_dark_passion_start_a_seduction_decision_tooltip: "Vous terminerez cette Dark Passion."
+    POD_wraith_dark_passion_start_a_seduction_decision_confirm: "Es-tu sûr?"
+
+    POD_wraith_dark_passion_start_a_war_decision: "Dark Passion : démarrez une guerre"
+    POD_wraith_dark_passion_start_a_war_decision_desc: ""
+    POD_wraith_dark_passion_start_a_war_decision_tooltip: "Vous terminerez cette Dark Passion."
+    POD_wraith_dark_passion_start_a_war_decision_confirm: "Es-tu sûr?"
+
+    POD_wraith_dark_passion_raise_tyranny_decision: "Dark Passion : Élevez la tyrannie"
+    POD_wraith_dark_passion_raise_tyranny_decision_desc: ""
+    POD_wraith_dark_passion_raise_tyranny_decision_tooltip: "Vous terminerez cette Dark Passion."
+    POD_wraith_dark_passion_raise_tyranny_decision_confirm: "Es-tu sûr?"
+
+    POD_wraith_dark_passion_exceeding_the_domain_limit_decision: "Dark Passion : Dépasser la limite de domaine"
+    POD_wraith_dark_passion_exceeding_the_domain_limit_decision_desc: ""
+    POD_wraith_dark_passion_exceeding_the_domain_limit_decision_tooltip: "Vous terminerez cette Dark Passion."
+    POD_wraith_dark_passion_exceeding_the_domain_limit_decision_confirm: "Es-tu sûr?"
+
+    POD_wraith_dark_passion_exceeding_the_vassal_limit_decision: "Dark Passion : Dépasser la limite vassale"
+    POD_wraith_dark_passion_exceeding_the_vassal_limit_decision_desc: ""
+    POD_wraith_dark_passion_exceeding_the_vassal_limit_decision_tooltip: "Vous terminerez cette Dark Passion."
+    POD_wraith_dark_passion_exceeding_the_vassal_limit_decision_confirm: "Es-tu sûr?"
+
+    POD_wraith_dark_passion_blackmail_decision: "Dark Passion : chantage"
+    POD_wraith_dark_passion_blackmail_decision_desc: ""
+    POD_wraith_dark_passion_blackmail_decision_tooltip: "Vous terminerez cette Dark Passion."
+    POD_wraith_dark_passion_blackmail_decision_confirm: "Es-tu sûr?"
+    POD_wraith_dark_passion_blackmail_decision_condition: "Vous avez utilisé le chantage [character_interaction|E]."
+
+    POD_wraith_dark_passion_revoke_title_decision: "Dark Passion : Révoquer le titre"
+    POD_wraith_dark_passion_revoke_title_decision_desc: ""
+    POD_wraith_dark_passion_revoke_title_decision_tooltip: "Vous terminerez cette Dark Passion."
+    POD_wraith_dark_passion_revoke_title_decision_confirm: "Es-tu sûr?"
+    POD_wraith_dark_passion_revoke_title_decision_condition: "Vous avez utilisé la révocation du titre [character_interaction|E]."
+
+    POD_wraith_dark_passion_execute_prisoner_decision: "Dark Passion : Exécuter un prisonnier"
+    POD_wraith_dark_passion_execute_prisoner_decision_desc: ""
+    POD_wraith_dark_passion_execute_prisoner_decision_tooltip: "Vous terminerez cette Dark Passion."
+    POD_wraith_dark_passion_execute_prisoner_decision_confirm: "Es-tu sûr?"
+    POD_wraith_dark_passion_execute_prisoner_decision_condition: "Vous avez utilisé exécuter le prisonnier [character_interaction|E]."
+
+    POD_wraith_dark_passion_banish_prisoner_decision: "Dark Passion : bannir le prisonnier"
+    POD_wraith_dark_passion_banish_prisoner_decision_desc: ""
+    POD_wraith_dark_passion_banish_prisoner_decision_tooltip: "Vous terminerez cette Dark Passion."
+    POD_wraith_dark_passion_banish_prisoner_decision_confirm: "Es-tu sûr?"
+    POD_wraith_dark_passion_banish_prisoner_decision_condition: "Vous avez utilisé le bannissement du prisonnier [character_interaction|E]."
+
+    POD_wraith_devils_dare_spend_gold_decision: "Défi du Diable : Oboli des déchets"
+    POD_wraith_devils_dare_spend_gold_decision_desc: "Votre Ombre vous met au défi de gaspiller votre Oboli, si vous n'acceptez pas ce défi, vous gagnerez #N 150#! [stress|E]."
+    POD_wraith_devils_dare_spend_gold_decision_tooltip: "Vous accepterez ce défi du diable."
+    POD_wraith_devils_dare_spend_gold_decision_confirm: "J'ose!"
+
+    POD_wraith_devils_dare_spend_piety_decision: "Devil's Dare : arrêtez votre transcendance"
+    POD_wraith_devils_dare_spend_piety_decision_desc: "Votre Ombre vous met au défi d'arrêter votre progression de transcendance, si vous n'acceptez pas ce défi, vous gagnerez #N 150#! [stress|E]."
+    POD_wraith_devils_dare_spend_piety_decision_tooltip: "Vous accepterez ce défi du diable."
+    POD_wraith_devils_dare_spend_piety_decision_confirm: "J'ose!"
+
+    POD_wraith_devils_dare_spend_prestige_decision: "Devil's Dare : ruinez votre réputation"
+    POD_wraith_devils_dare_spend_prestige_decision_desc: "Votre Ombre vous met au défi de ruiner votre réputation, si vous n'acceptez pas ce défi, vous gagnerez #N 150#! [stress|E]."
+    POD_wraith_devils_dare_spend_prestige_decision_tooltip: "Vous accepterez ce défi du diable."
+    POD_wraith_devils_dare_spend_prestige_decision_confirm: "J'ose!"
+
+    POD_wraith_find_mortal_lineage_decision: "Lignée mortelle"
+    POD_wraith_find_mortal_lineage_decision_desc: "Il y a des rumeurs selon lesquelles une lignée mortelle de votre famille existerait encore dans le monde, vous n'y croyiez pas au début, mais ce gamin vous ressemble !"
+    POD_wraith_find_mortal_lineage_decision_tooltip: "Vous acquerrez un mortel comme votre enfant."
+    POD_wraith_find_mortal_lineage_decision_confirm: "Pourrait être..."

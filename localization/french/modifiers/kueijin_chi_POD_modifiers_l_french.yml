@@ -1,86 +1,86 @@
 ﻿l_french:
- # yin chi 
- yinchi0_modifier: "Yin Chi 0" #NT!
- yinchi1_modifier: "Yin Chi 1" #NT!
- yinchi2_modifier: "Yin Chi 2" #NT!
- yinchi3_modifier: "Yin Chi 3" #NT!
- yinchi4_modifier: "Yin Chi 4" #NT!
- yinchi5_modifier: "Yin Chi 5" #NT!
- yinchi6_modifier: "Yin Chi 6" #NT!
- yinchi7_modifier: "Yin Chi 7" #NT!
- yinchi8_modifier: "Yin Chi 8" #NT!
- yinchi9_modifier: "Yin Chi 9" #NT!
- yinchi10_modifier: "Yin Chi 10" #NT!
- # yang chi 
- yangchi0_modifier: "Yang Chi 0" #NT!
- yangchi1_modifier: "Yang Chi 1" #NT!
- yangchi2_modifier: "Yang Chi 2" #NT!
- yangchi3_modifier: "Yang Chi 3" #NT!
- yangchi4_modifier: "Yang Chi 4" #NT!
- yangchi5_modifier: "Yang Chi 5" #NT!
- yangchi6_modifier: "Yang Chi 6" #NT!
- yangchi7_modifier: "Yang Chi 7" #NT!
- yangchi8_modifier: "Yang Chi 8" #NT!
- yangchi9_modifier: "Yang Chi 9" #NT!
- yangchi10_modifier: "Yang Chi 10" #NT!
- # yin virtue 
- yinvirtue0_modifier: "Yin Virtue 0" #NT!
- yinvirtue1_modifier: "Yin Virtue 1" #NT!
- yinvirtue2_modifier: "Yin Virtue 2" #NT!
- yinvirtue3_modifier: "Yin Virtue 3" #NT!
- yinvirtue4_modifier: "Yin Virtue 4" #NT!
- yinvirtue5_modifier: "Yin Virtue 5" #NT!
- yinvirtue6_modifier: "Yin Virtue 6" #NT!
- yinvirtue7_modifier: "Yin Virtue 7" #NT!
- yinvirtue8_modifier: "Yin Virtue 8" #NT!
- yinvirtue9_modifier: "Yin Virtue 9" #NT!
- yinvirtue10_modifier: "Yin Virtue 10" #NT!
- yinvirtue11_modifier: "Yin Virtue 11" #NT!
- yinvirtue12_modifier: "Yin Virtue 12" #NT!
- yinvirtue13_modifier: "Yin Virtue 13" #NT!
- yinvirtue14_modifier: "Yin Virtue 14" #NT!
- yinvirtue15_modifier: "Yin Virtue 15" #NT!
- yinvirtue16_modifier: "Yin Virtue 16" #NT!
- yinvirtue17_modifier: "Yin Virtue 17" #NT!
- yinvirtue18_modifier: "Yin Virtue 18" #NT!
- yinvirtue19_modifier: "Yin Virtue 19" #NT!
- yinvirtue20_modifier: "Yin Virtue 20" #NT!
- # yang virtue 
- yangvirtue0_modifier: "Vertu Yang 0" #NT!
- yangvirtue1_modifier: "Vertu Yang 1" #NT!
- yangvirtue2_modifier: "Vertu Yang 2" #NT!
- yangvirtue3_modifier: "Vertu Yang 3" #NT!
- yangvirtue4_modifier: "Vertu Yang 4" #NT!
- yangvirtue5_modifier: "Vertu Yang 5" #NT!
- yangvirtue6_modifier: "Vertu Yang 6" #NT!
- yangvirtue7_modifier: "Vertu Yang 7" #NT!
- yangvirtue8_modifier: "Vertu Yang 8" #NT!
- yangvirtue9_modifier: "Vertu Yang 9" #NT!
- yangvirtue10_modifier: "Vertu Yang 10" #NT!
- yangvirtue11_modifier: "Vertu Yang 11" #NT!
- yangvirtue12_modifier: "Vertu Yang 12" #NT!
- yangvirtue13_modifier: "Vertu Yang 13" #NT!
- yangvirtue14_modifier: "Vertu Yang 14" #NT!
- yangvirtue15_modifier: "Vertu Yang 15" #NT!
- yangvirtue16_modifier: "Vertu Yang 16" #NT!
- yangvirtue17_modifier: "Vertu Yang 17" #NT!
- yangvirtue18_modifier: "Vertu Yang 18" #NT!
- yangvirtue19_modifier: "Vertu Yang 19" #NT!
- yangvirtue20_modifier: "Vertu Yang 20" #NT!
- # God Slayer 
- yinvirtue50_modifier: "Yin Virtue 50" #NT!
- yangvirtue50_modifier: "Vertu Yang 50" #NT!
- # Chi hunger 
- chi_hungry_modifier: "Faim de Chi" #NT!
- chi_ravenous_modifier: "Avide de Chi" #NT!
- # Chi reserve 
- chi_rest_modifier: "Chi reste" #NT!
-  
- temporary_yin_imbalance_toast: "Vous dépensez tout votre aspect Chi du Yin" #NT!
- temporary_yang_imbalance_toast: "Vous dépensez tout votre aspect Chi de Yang" #NT!
- yin_overdose_toast: "Vous avez plus de Yin Chi que votre vertu Yin" #NT!
- yang_overdose_toast: "Vous avez plus de Yang Chi que votre vertu Yang" #NT!
- gain_chi_hunger_toast: "Votre Chi total est inférieur à 6" #NT!
- gain_chi_ravenous_toast: "Votre Chi total est inférieur à 3" #NT!
- lose_chi_hunger_toast: "Votre Chi total est supérieur à 6" #NT!
- lose_chi_ravenous_toast: "Votre Chi total est supérieur à 3" #NT!
+    # yin chi
+    yinchi0_modifier: "Yin Chi 0"
+    yinchi1_modifier: "Yin Chi 1"
+    yinchi2_modifier: "Yin Chi 2"
+    yinchi3_modifier: "Yin Chi 3"
+    yinchi4_modifier: "Yin Chi 4"
+    yinchi5_modifier: "Yin Chi 5"
+    yinchi6_modifier: "Yin Chi 6"
+    yinchi7_modifier: "Yin Chi 7"
+    yinchi8_modifier: "Yin Chi 8"
+    yinchi9_modifier: "Yin Chi 9"
+    yinchi10_modifier: "Yin Chi 10"
+    # yang chi
+    yangchi0_modifier: "Yang Chi 0"
+    yangchi1_modifier: "Yang Chi 1"
+    yangchi2_modifier: "Yang Chi 2"
+    yangchi3_modifier: "Yang Chi 3"
+    yangchi4_modifier: "Yang Chi 4"
+    yangchi5_modifier: "Yang Chi 5"
+    yangchi6_modifier: "Yang Chi 6"
+    yangchi7_modifier: "Yang Chi 7"
+    yangchi8_modifier: "Yang Chi 8"
+    yangchi9_modifier: "Yang Chi 9"
+    yangchi10_modifier: "Yang Chi 10"
+    # yin virtue
+    yinvirtue0_modifier: "Yin Virtue 0"
+    yinvirtue1_modifier: "Yin Virtue 1"
+    yinvirtue2_modifier: "Yin Virtue 2"
+    yinvirtue3_modifier: "Yin Virtue 3"
+    yinvirtue4_modifier: "Yin Virtue 4"
+    yinvirtue5_modifier: "Yin Virtue 5"
+    yinvirtue6_modifier: "Yin Virtue 6"
+    yinvirtue7_modifier: "Yin Virtue 7"
+    yinvirtue8_modifier: "Yin Virtue 8"
+    yinvirtue9_modifier: "Yin Virtue 9"
+    yinvirtue10_modifier: "Yin Virtue 10"
+    yinvirtue11_modifier: "Yin Virtue 11"
+    yinvirtue12_modifier: "Yin Virtue 12"
+    yinvirtue13_modifier: "Yin Virtue 13"
+    yinvirtue14_modifier: "Yin Virtue 14"
+    yinvirtue15_modifier: "Yin Virtue 15"
+    yinvirtue16_modifier: "Yin Virtue 16"
+    yinvirtue17_modifier: "Yin Virtue 17"
+    yinvirtue18_modifier: "Yin Virtue 18"
+    yinvirtue19_modifier: "Yin Virtue 19"
+    yinvirtue20_modifier: "Yin Virtue 20"
+    # yang virtue
+    yangvirtue0_modifier: "Vertu Yang 0"
+    yangvirtue1_modifier: "Vertu Yang 1"
+    yangvirtue2_modifier: "Vertu Yang 2"
+    yangvirtue3_modifier: "Vertu Yang 3"
+    yangvirtue4_modifier: "Vertu Yang 4"
+    yangvirtue5_modifier: "Vertu Yang 5"
+    yangvirtue6_modifier: "Vertu Yang 6"
+    yangvirtue7_modifier: "Vertu Yang 7"
+    yangvirtue8_modifier: "Vertu Yang 8"
+    yangvirtue9_modifier: "Vertu Yang 9"
+    yangvirtue10_modifier: "Vertu Yang 10"
+    yangvirtue11_modifier: "Vertu Yang 11"
+    yangvirtue12_modifier: "Vertu Yang 12"
+    yangvirtue13_modifier: "Vertu Yang 13"
+    yangvirtue14_modifier: "Vertu Yang 14"
+    yangvirtue15_modifier: "Vertu Yang 15"
+    yangvirtue16_modifier: "Vertu Yang 16"
+    yangvirtue17_modifier: "Vertu Yang 17"
+    yangvirtue18_modifier: "Vertu Yang 18"
+    yangvirtue19_modifier: "Vertu Yang 19"
+    yangvirtue20_modifier: "Vertu Yang 20"
+    # God Slayer
+    yinvirtue50_modifier: "Yin Virtue 50"
+    yangvirtue50_modifier: "Vertu Yang 50"
+    # Chi hunger
+    chi_hungry_modifier: "Faim de Chi"
+    chi_ravenous_modifier: "Avide de Chi"
+    # Chi reserve
+    chi_rest_modifier: "Chi reste"
+
+    temporary_yin_imbalance_toast: "Vous dépensez tout votre aspect Chi du Yin"
+    temporary_yang_imbalance_toast: "Vous dépensez tout votre aspect Chi de Yang"
+    yin_overdose_toast: "Vous avez plus de Yin Chi que votre vertu Yin"
+    yang_overdose_toast: "Vous avez plus de Yang Chi que votre vertu Yang"
+    gain_chi_hunger_toast: "Votre Chi total est inférieur à 6"
+    gain_chi_ravenous_toast: "Votre Chi total est inférieur à 3"
+    lose_chi_hunger_toast: "Votre Chi total est supérieur à 6"
+    lose_chi_ravenous_toast: "Votre Chi total est supérieur à 3"

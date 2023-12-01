@@ -1,259 +1,250 @@
 ﻿l_french:
-  
- open_bs_menu: "Ouvre le menu de sorcellerie du sang, vous permettant d'acheter et de lancer des sorts de magie du sang." #NT!
- blood_sorcery_interaction: "Sorcellerie du sang" #NT!
- blood_sorcery_interaction_desc: "Ouvre le menu de sorcellerie du sang avec votre cible comme sujet du sort." #NT!
- blood_sorcery_open.ct: "Le menu de la sorcellerie du sang est déjà ouvert." #NT!
-  
- nothingloc: "Choisissez un chemin" #NT!
- use_willpower: "Utiliser la volonté" #NT!
- title_bs: "[bloodsorcery|E]" #NT!
- cost_loc: "Coût à augmenter :" #NT!
- purchase: "Achat" #NT!
- execute_loc: "Exécuter" #NT!
- effects_loc: "Effets" #NT!
- caster_loc: "Roulette" #NT!
- target_loc: "Cible" #NT!
- current_exp: "Actuel [bloodsorcery_exp_short|E] point :" #NT!
-  
- path_of_bloodloc: "Chemin du sang" #NT!
- path_of_cursesloc: "Chemin des malédictions" #NT!
- path_of_marsloc: "Chemin de Mars" #NT!
- path_of_fathersvengence_loc: "Le chemin de la vengeance du père" #NT!
- path_of_neptunes_mightloc: "Chemin de la puissance de Neptune" #NT!
- path_of_focused_mindloc: "La voie de l'esprit concentré" #NT!
- path_of_ritualsloc: "Rituels" #NT!
- path_of_praaptiloc: "Chemin de Praapti" #NT!
- path_of_music_of_the_shperesloc: "Musique des Sphères" #NT!
-  
- NOT_SAME_PLACE: "Vous et la cible devez être au même endroit, sur le même terrain ou sur le même champ de bataille." #NT!
- NOT_I_need_rating: "Je n'ai pas encore ce pouvoir !" #NT!
- NOT_can_only_be_used_once_on_target: "Ne peut être utilisé qu'une seule fois par cible." #NT!
- POWER_COOLDOWN: "Ce pouvoir est en temps de recharge." #NT!
- path_maxed: "J'ai déjà appris tout ce qu'il y a à savoir sur ce chemin." #NT!
- not_enough_points: "Je n'ai pas assez d'XP pour acheter le prochain pouvoir." #NT!
- not_adept_enough: "Je dois avancer plus loin dans l’arbre du mode de vie de la sorcellerie du sang avant de pouvoir percer les secrets les plus profonds du sang." #NT!
-  
- path_buy_toast: "Chemin augmenté !" #NT!
- spell_botch: "Sort bâclé !" #NT!
-  
-  
- path_of_blood_botch_ct: "#R Bâclé ; Votre sang explose dans une démonstration de sang et de douleur qui vous retourne les intestins, vous blessant et augmentant votre faim.#!" #NT!
- power_a_taste_of_blood: "Un goût de sang" #NT!
- power_blood_of_potency: "Sang de puissance" #NT!
- power_theft_of_vitae: "Vol de Vitae" #NT!
- taste_of_blood_works: "Vous apprendrez les secrets du sang [target.GetTitledFirstNamePossessive], tels que la génération, [diablerie|E], le type surnaturel et plus encore." #NT!
- taste_of_blood_works.toast: "Sort réussi !" #NT!
- taste_of_blood_works.toast.ct: "Vous avez glané tout ce que vous pouviez dans le sang." #NT!
- taste_of_blood_fail: "Votre sort échouera." #NT!
- taste_of_blood_fail.toast: "Échec du sort" #NT!
- taste_of_blood_fail.toast.ct: "Les secrets de Vitae restent cachés pour vous." #NT!
-  
- blood_of_potency.toast.3: "Sort réussi !" #NT!
- blood_of_potency.toast.3.ct: "Votre puissance sanguine a augmenté de 3 !" #NT!
- BS_bp_increase_3: "Votre puissance sanguine augmente de 3" #NT!
- path_of_blood.1000.toast: "Le sang fluidifie" #NT!
- path_of_blood.1000.toast.blood_potency_reduced: "Le sort qui a épaissi votre sang s'estompe....." #NT!
- blood_of_potency.toast.2: "Sort réussi !" #NT!
- blood_of_potency.toast.2.ct: "Votre puissance sanguine a augmenté de 2 !" #NT!
- BS_bp_increase_2: "Votre puissance sanguine augmente de 2" #NT!
-  
- blood_of_potency.toast.1: "Sort réussi !" #NT!
- blood_of_potency.toast.1.ct: "Votre puissance sanguine a augmenté de 1 !" #NT!
- BS_bp_increase_1: "Votre puissance sanguine augmente de 1" #NT!
- blood_of_potency_fail.toast: "Échec du sort" #NT!
- blood_of_potency_fail.toast.ct: "Les secrets de Vitae restent cachés pour vous." #NT!
- BS_bp_fail: "Vous ne parvenez pas à épaissir votre sang." #NT!
-  
- theft_of_vitae_hunger_increase: "[target.GetTitledFirstNamePossessive] la faim va augmenter." #NT!
- theft_of_vitae_fail: "Vous ne parvenez pas à vous faire couler du sang." #NT!
- theft_of_vitae_fail.toast.1: "Le sort a échoué !" #NT!
- theft_of_vitae_fail.toast.1.ct: "Vous ne parvenez pas à vous faire couler du sang." #NT!
- theft_of_vitae.toast.1: "Sort réussi !" #NT!
- theft_of_vitae.toast.1.ct: "Le sang est épais et puissant lorsqu'il atteint vos crocs..." #NT!
- theft_of_vitae_steal_blood: "Vous volerez une partie du sang [target.GetTitledFirstNamePossessive] et vous en nourrirez, reconstituant ainsi vos propres réserves tout en vidant les leurs." #NT!
-  
- power_strike_true: "Frapper vrai" #NT!
- power_wind_dance: "Danse du vent" #NT!
- power_comrades_in_arms: "Camarades d'armes" #NT!
- path_of_mars_botch_ct: "#R Bâclé ; Le sort entravera vos efforts de guerre au lieu de les aider.#!" #NT!
- path_of_mars_botch_modifier: "Flétrissement magique" #NT!
-  
- strike_true.toast.1: "Sort réussi !" #NT!
- strike_true.toast.1.ct: "L'épée [target.GetTitledFirstNamePossessive] trouvera toujours sa marque." #NT!
- strike_true_fail.toast.1: "Le sort a échoué !" #NT!
- strike_true_fail.toast.1.ct: "Votre bénédiction n’a pas réussi à s’implanter." #NT!
- strike_true_fail: "L’épée ne doit PAS frapper juste." #NT!
-  
- wind_dance.toast.1: "Sort réussi !" #NT!
- wind_dance.toast.1.ct: "Le vent lui-même a du mal à dépasser [target.GetTitledFirstName]." #NT!
- wind_dance_fail.toast.1: "Le sort a échoué !" #NT!
- wind_dance_fail.toast.1.ct: "Trop lent, trop maladroit" #NT!
- wind_dance_fail: "Votre sort échouera." #NT!
-  
- comrades_in_arms_knight_ct: "[target.GetTitledFirstNamePossessive] Les chevaliers deviendront plus puissants pendant toute la durée du sort." #NT!
- comrades_in_arms.toast.1: "Sort réussi !" #NT!
- comrades_in_arms.toast.1.ct: "L'essence du courage a été donnée à vos guerriers." #NT!
- comrades_in_arms_fail.toast.1: "Le sort a échoué !" #NT!
- comrades_in_arms_fail.toast.1.ct: "Vous n’avez pas réussi à inspirer un véritable courage dans le cœur de vos partisans." #NT!
- comrades_in_arms_fail: "Aucun courage ne sera donné à vos partisans et vous n’aurez pas non plus leur loyauté." #NT!
- path_of_mars_1_modifier: "Frapper vrai" #NT!
- path_of_mars_2_modifier: "Danse du vent" #NT!
- path_of_mars_3_modifier: "Camarades d'armes" #NT!
- path_of_mars_3_knights_modifier: "Renforcé par la sorcellerie" #NT!
-  
-  
-  
- power_eyes_of_the_sea: "Les yeux de la mer" #NT!
- power_prison_of_water: "Prison d'Eau" #NT!
- power_dehydrate: "Déshydrater" #NT!
- path_of_neptunes_might_botch_ct: "#R Bâclé ; On dessine un peu trop la mer, et le résultat est... désagréable. Pire encore, l'eau pourrait se retourner contre vous !#!" #NT!
- path_of_neptunes_might_botch_modifier: "De poisson" #NT!
-  
- eyes_of_the_sea_works: "L'eau vous murmure un secret aléatoire de la cour, s'il en existe un." #NT!
- eyes_of_the_sea_fail: "La mer est silencieuse." #NT!
- eyes_of_the_sea.toast.1: "Sort réussi !" #NT!
- eyes_of_the_sea_fail.toast.1: "Le sort a échoué !" #NT!
- eyes_of_the_sea_fail.toast.1.ct: "Vous n'apprenez aucun secret." #NT!
-  
- prison_of_water_works: "Vous enchaînez [target.GetTitledFirstName] dans des liens d'eau incassables, et ils sont emportés dans vos donjons." #NT!
- prison_of_water.toast.1: "Sort réussi !" #NT!
- prison_of_water_fail: "La force de la cible submergera votre magie." #NT!
- prison_of_water_fail.toast.1: "Le sort a échoué !" #NT!
- prison_of_water_fail.toast.1.ct: "Peut-être que les chaînes d’eau n’étaient pas la meilleure idée ?" #NT!
-  
- dehydrate_3: "Le sang [target.GetTitledFirstNamePossessive] va sécher presque complètement et les laisser faibles. S’ils sont mortels, cela les blessera gravement, voire les tuera ! Sinon, cela pourrait nuire à leurs réserves de sang." #NT!
- dehydrate_2: "[target.GetTitledFirstName] perdra une quantité importante de sang. S’ils sont mortels, cela les blessera gravement, voire les tuera !" #NT!
- dehydrate.toast.2: "Sort réussi !" #NT!
- dehydrate.toast.1: "Sort réussi !" #NT!
- dehydrate_fail: "Votre magie ne parviendra pas à atteindre [target.GetTitledFirstNamePossessive] de sang." #NT!
- dehydrate_fail.toast.1.ct: "Votre attaque n'a pas suffi à nuire considérablement à la cible." #NT!
- dehydrate_fail.toast.1: "Le sort a échoué !" #NT!
-  
- power_stigma: "Stigmate" #NT!
- power_malady: "Maladie" #NT!
- power_acedia: "Acédie" #NT!
-  
- power_template.toast.1: ""
- power_template_fail.toast.1: ""
- power_template_fail.toast.1.: ""
-  
- stigma_modifier: "Malédiction de la stigmatisation" #NT!
- malady_modifier: "Malédiction de la maladie" #NT!
- acedia_modifier: "Malédiction de l'Acédie" #NT!
- path_of_curses_botch_ct: "#R Bâclé ; La malédiction se retourne contre vous !#!" #NT!
-  
- stigma_works: "La victime sera détestée par tous ceux que [target.GetSheHe] rencontre et verra les plus proches de [target.GetHerHim] devenir les plus grands rivaux de [target.GetHerHis]." #NT!
- stigma_fail: "La victime ignore votre malédiction." #NT!
- stigma.toast.1: "Sort réussi !" #NT!
- stigma_fail.toast.1: "Le sort a échoué !" #NT!
- stigma_fail.toast.1.ct: "[target.GetTitledFirstName] a vaincu votre ignoble malédiction." #NT!
-  
- malady_works: "[target.GetTitledFirstName] sera atteint d'une maladie, l'affaiblissant et le perturbant." #NT!
- malady_fail: "[target.GetTitledFirstName] s'avère trop puissant pour être abattu avec de petites malédictions." #NT!
- malady.toast.1: "Sort réussi !" #NT!
- malady_fail.toast.1: "Le sort a échoué !" #NT!
- malady_fail.toast.1.ct: "[target.GetTitledFirstName] a vaincu votre ignoble malédiction." #NT!
-  
- acedia_works: "La malédiction ultime : rien de ce que fait [target.GetTitledFirstName] ne sera épargné par votre sombre influence. Toutes leurs statistiques seront réduites." #NT!
- acedia_fail: "[target.GetTitledFirstName] procède avec une pure volonté et une force mentale, brisant votre malédiction." #NT!
- acedia.toast.1: "Sort réussi !" #NT!
- acedia.toast.1.ct: "Durant les deux prochaines années, la victime ne connaîtra que souffrance." #NT!
- acedia_fail.toast.1: "Le sort a échoué !" #NT!
- acedia_fail.toast.1.ct: "[target.GetTitledFirstName] a vaincu votre ignoble malédiction." #NT!
-  
-  
- murder_save.toast.1: "Sauvé du meurtre" #NT!
- murder_save.toast.1.ct: "Vous avez été sauvé de la mort grâce au sort de préparation !" #NT!
-  
- power_readiness: "Préparation" #NT!
- power_centering: "Centrage" #NT!
- power_perfect_clarity: "Clarté parfaite" #NT!
- path_of_focused_mind_botch_ct: "#R Bâclé ; Votre esprit est ravagé ; Vous gagnerez soit un trait mental négatif, soit une énorme quantité de stress.#!" #NT!
-  
- readiness_works: "Vous ne serez jamais surpris et toujours préparé avec une réplique vive. Votre conscience perpétuelle vous sauvera même de ceux qui complotent un meurtre contre vous – une fois." #NT!
- readiness_fail: "Votre esprit ne parvient pas à faire face à une conscience complète et constante." #NT!
- readiness.toast.1: "Sort réussi !" #NT!
- readiness_fail.toast.1: "Le sort a échoué !" #NT!
- readiness_fail.toast.1.ct: "Vous n'avez pas réussi à enchanter votre esprit." #NT!
-  
-  
- centering_works_1: "Vous érigez une faible barrière entre votre esprit et le monde extérieur, repoussant certaines distractions." #NT!
- centering_works_2: "Vous vous enfoncez plus profondément dans votre psychisme, protégeant votre moi intérieur et éliminant un stress important." #NT!
- centering_works_3: "Il y a toi, et puis il y a tout le reste. Aucun stress ni aucune distraction ne peuvent survenir et vous disposez d'un espace pour méditer sur les mystères les plus profonds." #NT!
- centering_fail: "Vous ne parvenez pas à vous concentrer sur votre moi intérieur." #NT!
- centering.toast.1: "Sort réussi !" #NT!
- centering_fail.toast.1: "Le sort a échoué !" #NT!
- centering_fail.toast.1.ct: "Il y avait trop de distractions...." #NT!
-  
- perfect_clarity_works: "Votre compréhension du monde friserait le divin – vous deviendrez plus intelligent, meilleur. Surtout, vous transcenderez votre bête pendant un temps et serez immunisé contre la frénésie." #NT!
- perfect_clarity_fail: "Votre troisième œil (métaphorique) reste proche et ignorant du beau potentiel de la clarté totale." #NT!
- perfect_clarity.toast.1: "Sort réussi !" #NT!
- perfect_clarity_fail.toast.1: "Le sort a échoué !" #NT!
- perfect_clarity_fail.toast.1.ct: "Une compréhension complète vous échappe encore une fois." #NT!
-  
-  
- centering_1_modifier: "Centré 1" #NT!
- centering_2_modifier: "Centré 2" #NT!
- centering_3_modifier: "Centré 3" #NT!
-  
- perfect_clarity_modifier: "Clarté parfaite" #NT!
- readiness_modifier: "Conscient" #NT!
-  
- power_emergency_recall: "Rappel d'urgence" #NT!
- emergency_recall.toast.1: "Sort réussi !" #NT!
- emergency_recall_fail.toast.1.ct: "Coincé en place...." #NT!
- emergency_recall_fail.toast.1: "Échec du sort" #NT!
- emergency_recall_works: "Vous serez transporté, avec toute votre armée, vers votre capitale." #NT!
- emergency_recall_fail: "Vos appels restent sans réponse et vous vous retrouvez bloqué dans votre lieu de péril." #NT!
- path_of_praapti_botch_ct: "#R Lorsque vous déformez l'espace lui-même, les choses peuvent devenir vraiment incontrôlables.... Faites attention à ne pas vous téléporter au mauvais endroit.#!" #NT!
- praapti_3_botch_modifier: "Coincé sur place" #NT!
- emergency_recall_succ.ct: "Votre armée rentre chez elle en toute sécurité à travers le vortex" #NT!
-  
- power_bind_in_vine_and_sand: "Lier dans la vigne et le sable" #NT!
- bind_in_vine_and_sand_fail: "Vous ne parvenez pas à faire une différence notable" #NT!
- bind_in_vine_and_sand_fail.toast.1: "Le sort a échoué !" #NT!
- bind_in_vine_and_sand_fail.toast.1.ct: "Seth n'a pas béni vos efforts ce soir...." #NT!
- bind_in_vine_and_sand_works: "Vous épaississez l'espace autour de votre cible, ralentissant considérablement ses armées" #NT!
- praapti_2_modifier: "Espace épaissi" #NT!
-  
- power_travel_on_mythic_strings: "Voyagez sur des cordes mythiques" #NT!
- travel_on_mythic_strings_works: "Vous tirez sur les fils qui relient tout dans la réalité et vous rendez à l'emplacement de la cible, entraînant votre armée avec vous. Ce pouvoir a un temps de recharge de 5 ans." #NT!
- travel_on_mythic_strings.toast.1: "Sort réussi !" #NT!
- travel_on_mythic_strings_fail: "Vous restez enraciné sur place comme un petit mortel, incapable de voyager dans les dimensions supérieures." #NT!
- travel_on_mythic_strings_fail.toast.1: "Le sort a échoué !" #NT!
- travel_on_mythic_strings_fail.toast.1.ct: "Les fils de la réalité sont fermés devant toi" #NT!
- travel_on_mythic_strings_succ.ct: "Vous arrivez au [target.GetCurrentLocation.GetName]" #NT!
- emergency_recall_botch.ct: "Vous vous débattez impuissant à travers l'espace de distorsion, tombant dans un comté aléatoire" #NT!
-  
-  
- path_of_music_of_the_shperes_botch_ct: "#R Lorsqu'un sorcier met en colère les sphères célestes, les résultats ont tendance à être ironiques. Le mystique peut perdre sa voix, voir le chant inversé sur lui, ou même voir ses droits magiques révoqués.#!" #NT!
- power_song_of_venus: "Chanson de Vénus" #NT!
- song_of_venus_works: "Avec le chant doux et céleste de Vénus, un pratiquant peut inspirer des sentiments d'affection ou réduire les émotions de haine ou de méchanceté. Ce sort fait avancer la cible vers l'amitié ou s'efforce d'atténuer une rivalité. Ne peut être utilisé qu'une seule fois par sujet." #NT!
- song_of_venus_fail: "Votre sujet rejette le chant céleste." #NT!
- song_of_venus.toast.1: "Sort réussi !" #NT!
- song_of_venus_fail.toast.1: "Le sort a échoué !" #NT!
- song_of_venus_fail.toast.1.ct: "Les cieux ont refusé ta demande d'affection" #NT!
- song_of_venus_botch_modifier: "En sourdine" #NT!
- song_of_venus_rival: "Votre cible n'est plus qu'un simple rival" #NT!
- song_of_venus_potential_rival: "Votre cible n'est plus qu'un rival potentiel" #NT!
- song_of_venus_neutral: "Votre cible est désormais neutre envers vous" #NT!
-  
- power_song_of_saturn: "Chanson de Saturne" #NT!
- song_of_saturn_modifier: "Chanson de Saturne" #NT!
- song_of_saturn_works: "Vous beuglez une profonde rafale de vent glacial et de noirceur d’encre, invoquant la peur de l’inconnu. Tous ceux qui sont témoins de votre cible sont remplis de cette peur, leur conférant une aura palpable de terreur et de majesté." #NT!
- song_of_saturn_fail: "Vous ne parvenez pas à générer l’émotion profonde requise pour le chant funèbre." #NT!
- song_of_saturn.toast.1: "Sort réussi !" #NT!
- song_of_saturn_fail.toast.1: "Le sort échoue !" #NT!
- song_of_saturn_fail.toast.1.ct: "Le cri qui sort de votre bouche est plus drôle qu’affreux." #NT!
- song_of_saturn_botch_modifier: "Moquerie de Saturne" #NT!
-  
- power_song_of_jupiter: "Chanson de Jupiter" #NT!
- song_of_jupiter_works: "Le mystique chante les grands héros, les gens qui ont résisté à la tentation et ont vaincu l'envie. Les sons forment une cacophonie qui s'enroule autour de l'aura de la cible, la protégeant du [disciplines|EL] qui contrôle la présence et domine l'esprit." #NT!
- song_of_jupiter_fail: "Vous hésitez face à la belle histoire que vous essayez de canaliser." #NT!
- song_of_jupiter.toast.1: "Sort réussi !" #NT!
- song_of_jupiter_succ.ct: "Votre couronne votre protection sur votre cible" #NT!
- song_of_jupiter_fail.toast.1: "Le sort a échoué !" #NT!
- song_of_jupiter_fail.toast.1.ct: "Votre voix vous a submergé et n'a pas entouré votre cible" #NT!
- song_of_jupiter_botch.ct: "Les dieux sont en colère. Pendant cinq ans, vous ne pourrez pas pratiquer la magie du sang." #NT!
-  
+    open_bs_menu: "Ouvre le menu de sorcellerie du sang, vous permettant d'acheter et de lancer des sorts de magie du sang."
+    blood_sorcery_interaction: "Sorcellerie du sang"
+    blood_sorcery_interaction_desc: "Ouvre le menu de sorcellerie du sang avec votre cible comme sujet du sort."
+    blood_sorcery_open.ct: "Le menu de la sorcellerie du sang est déjà ouvert."
+
+    nothingloc: "Choisissez un chemin"
+    use_willpower: "Utiliser la volonté"
+    title_bs: "[bloodsorcery|E]"
+    cost_loc: "Coût à augmenter :"
+    purchase: "Achat"
+    execute_loc: "Exécuter"
+    effects_loc: "Effets"
+    caster_loc: "Roulette"
+    target_loc: "Cible"
+    current_exp: "Actuel [bloodsorcery_exp_short|E] point :"
+
+    path_of_bloodloc: "Chemin du sang"
+    path_of_cursesloc: "Chemin des malédictions"
+    path_of_marsloc: "Chemin de Mars"
+    path_of_fathersvengence_loc: "Le chemin de la vengeance du père"
+    path_of_neptunes_mightloc: "Chemin de la puissance de Neptune"
+    path_of_focused_mindloc: "La voie de l'esprit concentré"
+    path_of_ritualsloc: "Rituels"
+    path_of_praaptiloc: "Chemin de Praapti"
+    path_of_music_of_the_shperesloc: "Musique des Sphères"
+
+    NOT_SAME_PLACE: "Vous et la cible devez être au même endroit, sur le même terrain ou sur le même champ de bataille."
+    NOT_I_need_rating: "Je n'ai pas encore ce pouvoir !"
+    NOT_can_only_be_used_once_on_target: "Ne peut être utilisé qu'une seule fois par cible."
+    POWER_COOLDOWN: "Ce pouvoir est en temps de recharge."
+    path_maxed: "J'ai déjà appris tout ce qu'il y a à savoir sur ce chemin."
+    not_enough_points: "Je n'ai pas assez d'XP pour acheter le prochain pouvoir."
+    not_adept_enough: "Je dois avancer plus loin dans l’arbre du mode de vie de la sorcellerie du sang avant de pouvoir percer les secrets les plus profonds du sang."
+
+    path_buy_toast: "Chemin augmenté !"
+    spell_botch: "Sort bâclé !"
+
+    path_of_blood_botch_ct: "#R Bâclé ; Votre sang explose dans une démonstration de sang et de douleur qui vous retourne les intestins, vous blessant et augmentant votre faim.#!"
+    power_a_taste_of_blood: "Un goût de sang"
+    power_blood_of_potency: "Sang de puissance"
+    power_theft_of_vitae: "Vol de Vitae"
+    taste_of_blood_works: "Vous apprendrez les secrets du sang [target.GetTitledFirstNamePossessive], tels que la génération, [diablerie|E], le type surnaturel et plus encore."
+    taste_of_blood_works.toast: "Sort réussi !"
+    taste_of_blood_works.toast.ct: "Vous avez glané tout ce que vous pouviez dans le sang."
+    taste_of_blood_fail: "Votre sort échouera."
+    taste_of_blood_fail.toast: "Échec du sort"
+    taste_of_blood_fail.toast.ct: "Les secrets de Vitae restent cachés pour vous."
+
+    blood_of_potency.toast.3: "Sort réussi !"
+    blood_of_potency.toast.3.ct: "Votre puissance sanguine a augmenté de 3 !"
+    BS_bp_increase_3: "Votre puissance sanguine augmente de 3"
+    path_of_blood.1000.toast: "Le sang fluidifie"
+    path_of_blood.1000.toast.blood_potency_reduced: "Le sort qui a épaissi votre sang s'estompe....."
+    blood_of_potency.toast.2: "Sort réussi !"
+    blood_of_potency.toast.2.ct: "Votre puissance sanguine a augmenté de 2 !"
+    BS_bp_increase_2: "Votre puissance sanguine augmente de 2"
+
+    blood_of_potency.toast.1: "Sort réussi !"
+    blood_of_potency.toast.1.ct: "Votre puissance sanguine a augmenté de 1 !"
+    BS_bp_increase_1: "Votre puissance sanguine augmente de 1"
+    blood_of_potency_fail.toast: "Échec du sort"
+    blood_of_potency_fail.toast.ct: "Les secrets de Vitae restent cachés pour vous."
+    BS_bp_fail: "Vous ne parvenez pas à épaissir votre sang."
+
+    theft_of_vitae_hunger_increase: "[target.GetTitledFirstNamePossessive] la faim va augmenter."
+    theft_of_vitae_fail: "Vous ne parvenez pas à vous faire couler du sang."
+    theft_of_vitae_fail.toast.1: "Le sort a échoué !"
+    theft_of_vitae_fail.toast.1.ct: "Vous ne parvenez pas à vous faire couler du sang."
+    theft_of_vitae.toast.1: "Sort réussi !"
+    theft_of_vitae.toast.1.ct: "Le sang est épais et puissant lorsqu'il atteint vos crocs..."
+    theft_of_vitae_steal_blood: "Vous volerez une partie du sang [target.GetTitledFirstNamePossessive] et vous en nourrirez, reconstituant ainsi vos propres réserves tout en vidant les leurs."
+
+    power_strike_true: "Frapper vrai"
+    power_wind_dance: "Danse du vent"
+    power_comrades_in_arms: "Camarades d'armes"
+    path_of_mars_botch_ct: "#R Bâclé ; Le sort entravera vos efforts de guerre au lieu de les aider.#!"
+    path_of_mars_botch_modifier: "Flétrissement magique"
+
+    strike_true.toast.1: "Sort réussi !"
+    strike_true.toast.1.ct: "L'épée [target.GetTitledFirstNamePossessive] trouvera toujours sa marque."
+    strike_true_fail.toast.1: "Le sort a échoué !"
+    strike_true_fail.toast.1.ct: "Votre bénédiction n’a pas réussi à s’implanter."
+    strike_true_fail: "L’épée ne doit PAS frapper juste."
+
+    wind_dance.toast.1: "Sort réussi !"
+    wind_dance.toast.1.ct: "Le vent lui-même a du mal à dépasser [target.GetTitledFirstName]."
+    wind_dance_fail.toast.1: "Le sort a échoué !"
+    wind_dance_fail.toast.1.ct: "Trop lent, trop maladroit"
+    wind_dance_fail: "Votre sort échouera."
+
+    comrades_in_arms_knight_ct: "[target.GetTitledFirstNamePossessive] Les chevaliers deviendront plus puissants pendant toute la durée du sort."
+    comrades_in_arms.toast.1: "Sort réussi !"
+    comrades_in_arms.toast.1.ct: "L'essence du courage a été donnée à vos guerriers."
+    comrades_in_arms_fail.toast.1: "Le sort a échoué !"
+    comrades_in_arms_fail.toast.1.ct: "Vous n’avez pas réussi à inspirer un véritable courage dans le cœur de vos partisans."
+    comrades_in_arms_fail: "Aucun courage ne sera donné à vos partisans et vous n’aurez pas non plus leur loyauté."
+    path_of_mars_1_modifier: "Frapper vrai"
+    path_of_mars_2_modifier: "Danse du vent"
+    path_of_mars_3_modifier: "Camarades d'armes"
+    path_of_mars_3_knights_modifier: "Renforcé par la sorcellerie"
+
+    power_eyes_of_the_sea: "Les yeux de la mer"
+    power_prison_of_water: "Prison d'Eau"
+    power_dehydrate: "Déshydrater"
+    path_of_neptunes_might_botch_ct: "#R Bâclé ; On dessine un peu trop la mer, et le résultat est... désagréable. Pire encore, l'eau pourrait se retourner contre vous !#!"
+    path_of_neptunes_might_botch_modifier: "De poisson"
+
+    eyes_of_the_sea_works: "L'eau vous murmure un secret aléatoire de la cour, s'il en existe un."
+    eyes_of_the_sea_fail: "La mer est silencieuse."
+    eyes_of_the_sea.toast.1: "Sort réussi !"
+    eyes_of_the_sea_fail.toast.1: "Le sort a échoué !"
+    eyes_of_the_sea_fail.toast.1.ct: "Vous n'apprenez aucun secret."
+
+    prison_of_water_works: "Vous enchaînez [target.GetTitledFirstName] dans des liens d'eau incassables, et ils sont emportés dans vos donjons."
+    prison_of_water.toast.1: "Sort réussi !"
+    prison_of_water_fail: "La force de la cible submergera votre magie."
+    prison_of_water_fail.toast.1: "Le sort a échoué !"
+    prison_of_water_fail.toast.1.ct: "Peut-être que les chaînes d’eau n’étaient pas la meilleure idée ?"
+
+    dehydrate_3: "Le sang [target.GetTitledFirstNamePossessive] va sécher presque complètement et les laisser faibles. S’ils sont mortels, cela les blessera gravement, voire les tuera ! Sinon, cela pourrait nuire à leurs réserves de sang."
+    dehydrate_2: "[target.GetTitledFirstName] perdra une quantité importante de sang. S’ils sont mortels, cela les blessera gravement, voire les tuera !"
+    dehydrate.toast.2: "Sort réussi !"
+    dehydrate.toast.1: "Sort réussi !"
+    dehydrate_fail: "Votre magie ne parviendra pas à atteindre [target.GetTitledFirstNamePossessive] de sang."
+    dehydrate_fail.toast.1.ct: "Votre attaque n'a pas suffi à nuire considérablement à la cible."
+    dehydrate_fail.toast.1: "Le sort a échoué !"
+
+    power_stigma: "Stigmate"
+    power_malady: "Maladie"
+    power_acedia: "Acédie"
+
+    power_template.toast.1: ""
+    power_template_fail.toast.1: ""
+    power_template_fail.toast.1.: ""
+
+    stigma_modifier: "Malédiction de la stigmatisation"
+    malady_modifier: "Malédiction de la maladie"
+    acedia_modifier: "Malédiction de l'Acédie"
+    path_of_curses_botch_ct: "#R Bâclé ; La malédiction se retourne contre vous !#!"
+
+    stigma_works: "La victime sera détestée par tous ceux que [target.GetSheHe] rencontre et verra les plus proches de [target.GetHerHim] devenir les plus grands rivaux de [target.GetHerHis]."
+    stigma_fail: "La victime ignore votre malédiction."
+    stigma.toast.1: "Sort réussi !"
+    stigma_fail.toast.1: "Le sort a échoué !"
+    stigma_fail.toast.1.ct: "[target.GetTitledFirstName] a vaincu votre ignoble malédiction."
+
+    malady_works: "[target.GetTitledFirstName] sera atteint d'une maladie, l'affaiblissant et le perturbant."
+    malady_fail: "[target.GetTitledFirstName] s'avère trop puissant pour être abattu avec de petites malédictions."
+    malady.toast.1: "Sort réussi !"
+    malady_fail.toast.1: "Le sort a échoué !"
+    malady_fail.toast.1.ct: "[target.GetTitledFirstName] a vaincu votre ignoble malédiction."
+
+    acedia_works: "La malédiction ultime : rien de ce que fait [target.GetTitledFirstName] ne sera épargné par votre sombre influence. Toutes leurs statistiques seront réduites."
+    acedia_fail: "[target.GetTitledFirstName] procède avec une pure volonté et une force mentale, brisant votre malédiction."
+    acedia.toast.1: "Sort réussi !"
+    acedia.toast.1.ct: "Durant les deux prochaines années, la victime ne connaîtra que souffrance."
+    acedia_fail.toast.1: "Le sort a échoué !"
+    acedia_fail.toast.1.ct: "[target.GetTitledFirstName] a vaincu votre ignoble malédiction."
+
+    murder_save.toast.1: "Sauvé du meurtre"
+    murder_save.toast.1.ct: "Vous avez été sauvé de la mort grâce au sort de préparation !"
+
+    power_readiness: "Préparation"
+    power_centering: "Centrage"
+    power_perfect_clarity: "Clarté parfaite"
+    path_of_focused_mind_botch_ct: "#R Bâclé ; Votre esprit est ravagé ; Vous gagnerez soit un trait mental négatif, soit une énorme quantité de stress.#!"
+
+    readiness_works: "Vous ne serez jamais surpris et toujours préparé avec une réplique vive. Votre conscience perpétuelle vous sauvera même de ceux qui complotent un meurtre contre vous – une fois."
+    readiness_fail: "Votre esprit ne parvient pas à faire face à une conscience complète et constante."
+    readiness.toast.1: "Sort réussi !"
+    readiness_fail.toast.1: "Le sort a échoué !"
+    readiness_fail.toast.1.ct: "Vous n'avez pas réussi à enchanter votre esprit."
+
+    centering_works_1: "Vous érigez une faible barrière entre votre esprit et le monde extérieur, repoussant certaines distractions."
+    centering_works_2: "Vous vous enfoncez plus profondément dans votre psychisme, protégeant votre moi intérieur et éliminant un stress important."
+    centering_works_3: "Il y a toi, et puis il y a tout le reste. Aucun stress ni aucune distraction ne peuvent survenir et vous disposez d'un espace pour méditer sur les mystères les plus profonds."
+    centering_fail: "Vous ne parvenez pas à vous concentrer sur votre moi intérieur."
+    centering.toast.1: "Sort réussi !"
+    centering_fail.toast.1: "Le sort a échoué !"
+    centering_fail.toast.1.ct: "Il y avait trop de distractions...."
+
+    perfect_clarity_works: "Votre compréhension du monde friserait le divin – vous deviendrez plus intelligent, meilleur. Surtout, vous transcenderez votre bête pendant un temps et serez immunisé contre la frénésie."
+    perfect_clarity_fail: "Votre troisième œil (métaphorique) reste proche et ignorant du beau potentiel de la clarté totale."
+    perfect_clarity.toast.1: "Sort réussi !"
+    perfect_clarity_fail.toast.1: "Le sort a échoué !"
+    perfect_clarity_fail.toast.1.ct: "Une compréhension complète vous échappe encore une fois."
+
+    centering_1_modifier: "Centré 1"
+    centering_2_modifier: "Centré 2"
+    centering_3_modifier: "Centré 3"
+
+    perfect_clarity_modifier: "Clarté parfaite"
+    readiness_modifier: "Conscient"
+
+    power_emergency_recall: "Rappel d'urgence"
+    emergency_recall.toast.1: "Sort réussi !"
+    emergency_recall_fail.toast.1.ct: "Coincé en place...."
+    emergency_recall_fail.toast.1: "Échec du sort"
+    emergency_recall_works: "Vous serez transporté, avec toute votre armée, vers votre capitale."
+    emergency_recall_fail: "Vos appels restent sans réponse et vous vous retrouvez bloqué dans votre lieu de péril."
+    path_of_praapti_botch_ct: "#R Lorsque vous déformez l'espace lui-même, les choses peuvent devenir vraiment incontrôlables.... Faites attention à ne pas vous téléporter au mauvais endroit.#!"
+    praapti_3_botch_modifier: "Coincé sur place"
+    emergency_recall_succ.ct: "Votre armée rentre chez elle en toute sécurité à travers le vortex"
+
+    power_bind_in_vine_and_sand: "Lier dans la vigne et le sable"
+    bind_in_vine_and_sand_fail: "Vous ne parvenez pas à faire une différence notable"
+    bind_in_vine_and_sand_fail.toast.1: "Le sort a échoué !"
+    bind_in_vine_and_sand_fail.toast.1.ct: "Seth n'a pas béni vos efforts ce soir...."
+    bind_in_vine_and_sand_works: "Vous épaississez l'espace autour de votre cible, ralentissant considérablement ses armées"
+    praapti_2_modifier: "Espace épaissi"
+
+    power_travel_on_mythic_strings: "Voyagez sur des cordes mythiques"
+    travel_on_mythic_strings_works: "Vous tirez sur les fils qui relient tout dans la réalité et vous rendez à l'emplacement de la cible, entraînant votre armée avec vous. Ce pouvoir a un temps de recharge de 5 ans."
+    travel_on_mythic_strings.toast.1: "Sort réussi !"
+    travel_on_mythic_strings_fail: "Vous restez enraciné sur place comme un petit mortel, incapable de voyager dans les dimensions supérieures."
+    travel_on_mythic_strings_fail.toast.1: "Le sort a échoué !"
+    travel_on_mythic_strings_fail.toast.1.ct: "Les fils de la réalité sont fermés devant toi"
+    travel_on_mythic_strings_succ.ct: "Vous arrivez au [target.GetCurrentLocation.GetName]"
+    emergency_recall_botch.ct: "Vous vous débattez impuissant à travers l'espace de distorsion, tombant dans un comté aléatoire"
+
+    path_of_music_of_the_shperes_botch_ct: "#R Lorsqu'un sorcier met en colère les sphères célestes, les résultats ont tendance à être ironiques. Le mystique peut perdre sa voix, voir le chant inversé sur lui, ou même voir ses droits magiques révoqués.#!"
+    power_song_of_venus: "Chanson de Vénus"
+    song_of_venus_works: "Avec le chant doux et céleste de Vénus, un pratiquant peut inspirer des sentiments d'affection ou réduire les émotions de haine ou de méchanceté. Ce sort fait avancer la cible vers l'amitié ou s'efforce d'atténuer une rivalité. Ne peut être utilisé qu'une seule fois par sujet."
+    song_of_venus_fail: "Votre sujet rejette le chant céleste."
+    song_of_venus.toast.1: "Sort réussi !"
+    song_of_venus_fail.toast.1: "Le sort a échoué !"
+    song_of_venus_fail.toast.1.ct: "Les cieux ont refusé ta demande d'affection"
+    song_of_venus_botch_modifier: "En sourdine"
+    song_of_venus_rival: "Votre cible n'est plus qu'un simple rival"
+    song_of_venus_potential_rival: "Votre cible n'est plus qu'un rival potentiel"
+    song_of_venus_neutral: "Votre cible est désormais neutre envers vous"
+
+    power_song_of_saturn: "Chanson de Saturne"
+    song_of_saturn_modifier: "Chanson de Saturne"
+    song_of_saturn_works: "Vous beuglez une profonde rafale de vent glacial et de noirceur d’encre, invoquant la peur de l’inconnu. Tous ceux qui sont témoins de votre cible sont remplis de cette peur, leur conférant une aura palpable de terreur et de majesté."
+    song_of_saturn_fail: "Vous ne parvenez pas à générer l’émotion profonde requise pour le chant funèbre."
+    song_of_saturn.toast.1: "Sort réussi !"
+    song_of_saturn_fail.toast.1: "Le sort échoue !"
+    song_of_saturn_fail.toast.1.ct: "Le cri qui sort de votre bouche est plus drôle qu’affreux."
+    song_of_saturn_botch_modifier: "Moquerie de Saturne"
+
+    power_song_of_jupiter: "Chanson de Jupiter"
+    song_of_jupiter_works: "Le mystique chante les grands héros, les gens qui ont résisté à la tentation et ont vaincu l'envie. Les sons forment une cacophonie qui s'enroule autour de l'aura de la cible, la protégeant du [disciplines|EL] qui contrôle la présence et domine l'esprit."
+    song_of_jupiter_fail: "Vous hésitez face à la belle histoire que vous essayez de canaliser."
+    song_of_jupiter.toast.1: "Sort réussi !"
+    song_of_jupiter_succ.ct: "Votre couronne votre protection sur votre cible"
+    song_of_jupiter_fail.toast.1: "Le sort a échoué !"
+    song_of_jupiter_fail.toast.1.ct: "Votre voix vous a submergé et n'a pas entouré votre cible"
+    song_of_jupiter_botch.ct: "Les dieux sont en colère. Pendant cinq ans, vous ne pourrez pas pratiquer la magie du sang."

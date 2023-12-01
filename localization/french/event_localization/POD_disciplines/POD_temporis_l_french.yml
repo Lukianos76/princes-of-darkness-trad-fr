@@ -1,14 +1,13 @@
 ﻿l_french:
-  
- POD_temporis.100.t: "Manipuler l’âge physique" #NT!
- POD_temporis.100.desc: "[recipient.GetTitledFirstName] est sous votre contrôle, vous pouvez désormais modifier librement l'âge de [recipient.GetHerHis]." #NT!
- POD_temporis.100.a: "Réinitialiser à 16" #NT!
- POD_temporis.100.b: "Ajouter 100 ans" #NT!
- POD_temporis.100.c: "Ajouter 10 ans" #NT!
- POD_temporis.100.d: "Ajouter 1 an" #NT!
- POD_temporis.100.e: "Supprimer 100 ans" #NT!
- POD_temporis.100.f: "Supprimer 10 ans" #NT!
- POD_temporis.100.g: "Supprimer 1 an" #NT!
- POD_temporis.100.h: "Conserver l'âge actuel" #NT!
-  
- artifact_summoned_historical_unique_artifact_name: "Écho du [newly_created_artifact.GetNameNoTooltip]" #NT!
+    POD_temporis.100.t: "Manipuler l’âge physique"
+    POD_temporis.100.desc: "[recipient.GetTitledFirstName] est sous votre contrôle, vous pouvez désormais modifier librement l'âge de [recipient.GetHerHis]."
+    POD_temporis.100.a: "Réinitialiser à 16"
+    POD_temporis.100.b: "Ajouter 100 ans"
+    POD_temporis.100.c: "Ajouter 10 ans"
+    POD_temporis.100.d: "Ajouter 1 an"
+    POD_temporis.100.e: "Supprimer 100 ans"
+    POD_temporis.100.f: "Supprimer 10 ans"
+    POD_temporis.100.g: "Supprimer 1 an"
+    POD_temporis.100.h: "Conserver l'âge actuel"
+
+    artifact_summoned_historical_unique_artifact_name: "Écho du [newly_created_artifact.GetNameNoTooltip]"

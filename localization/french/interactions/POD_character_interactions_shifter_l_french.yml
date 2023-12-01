@@ -1,508 +1,506 @@
 ﻿l_french:
-  
- POD_inspiration_interaction: "Inspiration" #NT!
- POD_inspiration_interaction_desc: "En tant qu'Alpha de ce pack, il est de votre devoir de montrer votre force afin d'inspirer vos followers." #NT!
- inspiration_modifier: "Inspiration" #NT!
- inspiration_modifier_desc: "Avec votre Alpha à proximité, vos prouesses au combat ont été améliorées." #NT!
- pack_tactics_modifier: "Tactiques de meute" #NT!
- pack_tactics_modifier_desc: "Pour un œil extérieur, votre meute se déplace comme une seule." #NT!
- strength_will_modifier: "Force de volonté" #NT!
- strength_will_modifier_desc: "Une force imparable, une meute unie dans un seul but : la destruction de leurs ennemis." #NT!
-  
- POD_divide_interaction: "Diviser" #NT!
- POD_divide_interaction_desc: "Vous semerez la discorde dans ce royaume, laissant les vassaux mécontents de leur suzerain." #NT!
- divide_modifier: "Diviser" #NT!
- divide_modifier_desc: "Tout ce que vous faites ou dites semble être mal interprété par vos vassaux. Comme si une force maligne déformait vos mots d'une manière ou d'une autre..." #NT!
-  
- POD_primal_song_interaction: "Chanson primordiale" #NT!
- POD_primal_song_interaction_desc: "Vous choisirez entre l'une des chansons que vous connaissez, gagnant divers bonus en fonction de votre choix." #NT!
- POD_werewolves_interactions.1.t: "Chansons primordiales" #NT!
- POD_werewolves_interactions.1.desc: "Les loups-garous Galliard sont la voix du peuple, les appelant au combat et les inspirant à la grandeur dans la vie et dans la mort. Ils sont également les gardiens des traditions, transportant les traditions des tribus depuis le début.\nEn tant que conteurs autour du feu de camp, Galliard transmet des histoires et des chansons racontées depuis la nuit des temps. Ce sera lequel aujourd'hui ?" #NT!
- POD_werewolves_interactions.1.option.a: "Une chanson d'unité tribale." #NT!
- primal_song_modifier: "Chanson de l'unité" #NT!
- primal_song_modifier_desc: "Comme les héros d’autrefois, nous devons être unis !" #NT!
- POD_werewolves_interactions.1.option.b: "Un récit d'anciennes victoires." #NT!
- song_heroes_modifier: "Chanson des héros" #NT!
- song_heroes_modifier_desc: "Il y a de la sagesse dans les victoires, et même dans les défaites, de nos ancêtres." #NT!
- POD_werewolves_interactions.1.option.c: "Une histoire de sang et de bataille." #NT!
- song_rage_modifier: "Chanson de rage" #NT!
- song_rage_modifier_desc: "Nous sommes avant tout des guerriers et devons toujours garder à l’esprit notre combativité." #NT!
- POD_werewolves_interactions.1.option.d: "Une histoire d'unité et de courage." #NT!
- song_siren_modifier: "Le chant de la sirène" #NT!
- song_siren_modifier_desc: "En suivant l’appel, nous devenons plus forts." #NT!
-  
- POD_wereshapeshift: "Se métamorphoser" #NT!
- POD_wereshapeshift_interaction: "Se métamorphoser" #NT!
- POD_wereshapeshift_interaction_desc: "Utilisez votre rage ou votre gnose pour transformer votre forme." #NT!
- POD_wereshapeshift_interaction_options_heading: "Sous quelle forme dois-je me métamorphoser ?" #NT!
- POD_wereshapeshift_interaction_homid: "Retournez à un formulaire Homid." #NT!
- POD_wereshapeshift_interaction_crinos: "Changement de forme en forme de Crinos." #NT!
- POD_wereshapeshift_interaction_lupus: "Changement de forme en forme de Lupus." #NT!
- POD_wereshapeshift_interaction_glabro: "Changement de forme en forme Glabro." #NT!
- POD_wereshapeshift_interaction_hispo: "Changement de forme en forme Hispo." #NT!
- POD_wereshapeshift_interaction_sokto: "Changement de forme en forme Sokto." #NT!
- POD_wereshapeshift_interaction_chatro: "Changement de forme vers la forme Chatro." #NT!
- POD_wereshapeshift_interaction_feline: "Changement de forme en forme féline." #NT!
- POD_wereshapeshift_interaction_anthros: "Changement de forme vers la forme Anthros." #NT!
- POD_wereshapeshift_interaction_crocas: "Changement de forme en forme de Crocas." #NT!
- POD_wereshapeshift_interaction_hyaenid: "Changement de forme en forme hyénide." #NT!
- POD_wereshapeshift_interaction_corvid: "Changement de forme en forme de corvidé" #NT!
- POD_wereshapeshift_interaction_arthren: "Changement de forme vers la forme Arthren" #NT!
- POD_wereshapeshift_interaction_bjornen: "Changement de forme vers la forme Bjornen" #NT!
- POD_wereshapeshift_interaction_urus: "Changement de forme vers la forme Urus" #NT!
- POD_wereshapeshift_interaction_koto: "Changement de forme en forme Koto" #NT!
- POD_wereshapeshift_interaction_sambu_henge: "Changement de forme vers la forme Sambu-henge" #NT!
- POD_wereshapeshift_interaction_juko: "Shapeshift to Juko Form" #NT!
- POD_wereshapeshift_interaction_kyubi: "Shapeshift to Kyubi Form" #NT!
- POD_wereshapeshift_interaction_reptoid: "Changement de forme en forme reptoïde" #NT!
- POD_wereshapeshift_interaction_archid: "Changement de forme vers la forme Archid" #NT!
- POD_wereshapeshift_interaction_suchid: "Changement de forme en forme Suchid" #NT!
- POD_wereshapeshift_interaction_drachid: "Changement de forme en forme de drachid" #NT!
- POD_wereshapeshift_interaction_azhi_dahaka: "Changement de forme vers la forme Azhi Dahaka" #NT!
- POD_wereshapeshift_interaction_silkaram: "Changement de forme vers la forme Silkaram" #NT!
- POD_wereshapeshift_interaction_kali_dahaka: "Changement de forme vers la forme Kali Dahaka" #NT!
- POD_wereshapeshift_interaction_vasuki: "Changement de forme en forme Vasuki" #NT!
- POD_wereshapeshift_interaction_mana_bozho: "Changement de forme en forme Mana-bozho" #NT!
- POD_wereshapeshift_interaction_tsitsu: "Shapeshift to Tsitsu Form" #NT!
- POD_wereshapeshift_interaction_sendeh: "Changement de forme vers le formulaire Sendeh" #NT!
- POD_wereshapeshift_interaction_latrani: "Changement de forme vers la forme Latrani" #NT!
- POD_wereshapeshift_interaction_ratman: "Changement de forme en forme Ratman" #NT!
- POD_wereshapeshift_interaction_rat_thing: "Changement de forme en forme de chose de rat" #NT!
- POD_wereshapeshift_interaction_rodens: "Changement de forme vers la forme Rodens" #NT!
- POD_wereshapeshift_interaction_itchy: "Changement de forme vers une forme qui démange" #NT!
- POD_wereshapeshift_interaction_gladius: "Changement de forme en forme Gladius" #NT!
- POD_wereshapeshift_interaction_grabrus: "Changement de forme vers la forme Grabrus" #NT!
- POD_wereshapeshift_interaction_chasmus: "Changement de forme en forme de Chasmus" #NT!
- POD_wereshapeshift_interaction_squamus: "Changement de forme en forme Squamus" #NT!
- POD_wereshapeshift_interaction_aurochs: "Changement de forme en forme d'aurochs" #NT!
- POD_wereshapeshift_interaction_apterous: "Changement de forme en forme aptère" #NT!
- POD_wereshapeshift_interaction_megachiroptera: "Changement de forme en forme de mégachiroptères" #NT!
- POD_wereshapeshift_interaction_microchiroptera: "Changement de forme en forme de microchiroptères" #NT!
- POD_wereshapeshift_interaction_aperius: "Changement de forme vers la forme Aperius" #NT!
- POD_wereshapeshift_interaction_daeodon: "Changement de forme en forme de Daeodon" #NT!
- POD_wereshapeshift_interaction_scrofa: "Changement de forme en forme Scrofa" #NT!
- POD_wereshapeshift_interaction_lilian: "Changement de forme en forme de Lilian" #NT!
- POD_wereshapeshift_interaction_pithus: "Changement de forme en forme Pithus" #NT!
- POD_wereshapeshift_interaction_crawlerling: "Changement de forme en forme de rampant" #NT!
- POD_wereshapeshift_interaction_araneid: "Changement de forme en forme aranéide" #NT!
- POD_wereshapeshift_interaction_titaniform: "Changement de forme en forme de Titan" #NT!
-  
- POD_ajabashapeshift_interaction: "Se métamorphoser" #NT!
- POD_bastetshapeshift_interaction: "Se métamorphoser" #NT!
- POD_coraxshapeshift_interaction: "Se métamorphoser" #NT!
- POD_gurahlshapeshift_interaction: "Se métamorphoser" #NT!
- POD_kitsuneshapeshift_interaction: "Se métamorphoser" #NT!
- POD_mokoleshapeshift_interaction: "Se métamorphoser" #NT!
- POD_nagahshapeshift_interaction: "Se métamorphoser" #NT!
- POD_nuwishashapeshift_interaction: "Se métamorphoser" #NT!
- POD_ratkinshapeshift_interaction: "Se métamorphoser" #NT!
- POD_rokeashapeshift_interaction: "Se métamorphoser" #NT!
- POD_apisshapeshift_interaction: "Se métamorphoser" #NT!
- POD_camazotzshapeshift_interaction: "Se métamorphoser" #NT!
- POD_grondrshapeshift_interaction: "Se métamorphoser" #NT!
- POD_ananasishapeshift_interaction: "Se métamorphoser" #NT!
-  
- POD_wereshapeshift_diseae_heal.0001.desc: "Je me suis remis de ma maladie" #NT!
-  
- POD_ebon_binding_interaction: "Lien d'ébène" #NT!
- POD_ebon_binding_interaction_desc: "Liez une punition appropriée au [recipient.GetFirstName]. [recipient.GetFirstName] souffrira d'une douleur paralysante lorsque [recipient.GetSheHe] pensera à se livrer à l'action interdite." #NT!
- ebon_binding_modifier: "Lien d'ébène" #NT!
-  
- POD_rouse_to_anger_interaction: "Réveiller la colère" #NT!
- POD_rouse_to_anger_interaction_desc: "Dépensez Gnosis pour rafraîchir [recipient.GetFirstName] Rage intérieure." #NT!
- POD_primal_anger_interaction: "Colère primordiale" #NT!
- POD_primal_anger_interaction_desc: "Infligez-vous pour augmenter la rage." #NT!
-  
- POD_savagery_of_the_taloned_hunter_interaction: "Sauvagerie du chasseur à griffes" #NT!
- POD_savagery_of_the_taloned_hunter_interaction_desc: "Dépensez une rage et de la volonté pour gagner deux rage." #NT!
-  
- POD_burden_of_knowledge_interaction: "Fardeau de la connaissance" #NT!
- POD_burden_of_knowledge_interaction_desc: "Faire le [recipient.GetFirstName] gain [GetModifier('murderous_frenzy_modifier').GetNameWithTooltip], [GetModifier('change_for_better_modifier').GetNameWithTooltip] ou suicide" #NT!
-  
- POD_essential_transformation_interaction: "Transformation essentielle" #NT!
- POD_essential_transformation_interaction_desc: "Augmentez les blessures pour gagner la Gnose." #NT!
-  
- POD_unleash_storm_of_mothers_wrath_interaction: "Déchaînez la tempête de colère maternelle" #NT!
- POD_unleash_storm_of_mothers_wrath_interaction_desc: "Déchaîner une tempête de colère maternelle qui fera des ravages dans une zone." #NT!
- POD_unleash_storm_of_mothers_wrath_interaction.tt: "Vous déclencherez une tempête de colère maternelle sur le royaume [recipient.GetFirstNamePossessive]." #NT!
- POD_unleash_storm_of_mothers_wrath_interaction.duel.success: "Vous avez réussi à provoquer la tempête" #NT!
- POD_unleash_storm_of_mothers_wrath_interaction.duel.tt.attacker_wins: "Le royaume [recipient.GetFirstNamePossessive] est submergé par une tempête de colère maternelle qui fait des ravages partout où il passe." #NT!
- POD_unleash_storm_of_mothers_wrath_interaction.duel.failure: "Vous ne parvenez pas à provoquer la tempête" #NT!
- POD_unleash_storm_of_mothers_wrath_interaction.duel.tt.attacker_lost: "Vous échouez" #NT!
- POD_unleash_storm_of_mothers_wrath_interaction_actor_toast: "Vous avez réussi à déclencher une tempête de colère maternelle sur le royaume [recipient.GetFirstNamePossessive]." #NT!
- POD_unleash_storm_of_mothers_wrath_interaction_recipient_toast: "Une tempête de colère maternelle a été déclenchée sur votre capitale par [actor.GetFirstName]" #NT!
- POD_unleash_storm_of_mothers_wrath_interaction_failed_toast: "Vous ne pouviez pas déclencher une tempête de colère maternelle sur le royaume [recipient.GetFirstNamePossessive]." #NT!
- storm_of_mothers_wrath_modifier: "Endommagé par une tempête de colère maternelle" #NT!
- storm_of_mothers_wrath_modifier_desc: "Cette zone est endommagée par une terrible tempête de grêle sombre, qui se lève même par temps clair." #NT!
-  
- POD_break_the_bonds_interaction: "Rompre les liens" #NT!
- POD_break_the_bonds_interaction_desc: "Utilisez la gnose pour que [recipient.GetFirstName] dépense un crochet que [recipient.GetSheHe] a sur vous." #NT!
-  
- POD_shared_strength_interaction: "Partager la force" #NT!
- POD_shared_strength_interaction_desc: "Transférez votre compétence au [recipient.GetFirstName]." #NT!
- shared_strength_diplomacy_gain_modifier: "Force partagée : gain de diplomatie" #NT!
- shared_strength_diplomacy_loss_modifier: "Force partagée : perte de diplomatie" #NT!
- shared_strength_martial_gain_modifier: "Force partagée : gain martial" #NT!
- shared_strength_martial_loss_modifier: "Force partagée : perte martiale" #NT!
- shared_strength_stewardship_gain_modifier: "Force partagée : gain d’intendance" #NT!
- shared_strength_stewardship_loss_modifier: "Force partagée : perte d’intendance" #NT!
- shared_strength_intrigue_gain_modifier: "Force partagée : gain d'intrigue" #NT!
- shared_strength_intrigue_loss_modifier: "Force partagée : perte d’intrigue" #NT!
- shared_strength_learning_gain_modifier: "Force partagée : gain d’apprentissage" #NT!
- shared_strength_learning_loss_modifier: "Force partagée : perte d’apprentissage" #NT!
- shared_strength_prowess_gain_modifier: "Force partagée : gain de prouesse" #NT!
- shared_strength_prowess_loss_modifier: "Force partagée : perte de prouesse" #NT!
-  
- POD_storyteller_interaction: "Raconter des histoires" #NT!
- POD_storyteller_interaction_desc: "Utilisez la gnose pour avoir une chance qu'un événement aléatoire se produise." #NT!
- POD_storyteller_interaction.tt: "25 % de chances qu'un événement aléatoire se produise." #NT!
-  
- POD_tagalong_interaction: "Suivre" #NT!
- POD_tagalong_interaction_desc: "Obtenez les bénédictions du totem du [recipient.GetFirstName]." #NT!
-  
- POD_beg_interaction: "Mendier" #NT!
- POD_beg_interaction_desc: "Mendiez [recipient.GetFirstName] pour quelques restes." #NT!
-  
- POD_riot_interaction: "Provoquer une émeute" #NT!
- POD_riot_interaction_desc: "Invoque une horde d'esprits malveillants pour provoquer de violentes émeutes parmi les habitants du comté de la capitale [recipient.GetFirstNamePossessive]." #NT!
-  
- POD_moon_bridge_interaction: "Pont de la Lune" #NT!
- POD_moon_bridge_interaction_desc: "Parcourez le chemin de la lune à travers les brumes de l'Umbra, vous permettant de vous téléporter dans le caern de l'emplacement [recipient.GetFirstNamePossessive]." #NT!
-  
- POD_dumpster_diving_interaction: "Plongée dans les déchets" #NT!
- POD_dumpster_diving_interaction_desc: "Aventurez-vous d’un sanctuaire du Grand Tas d’ordures à un autre, vous permettant de vous téléporter à l’emplacement [recipient.GetFirstNamePossessive]." #NT!
-  
- POD_airitechs_daughters_interaction: "Transformez-vous en loup-garou Crinos" #NT!
- POD_airitechs_daughters_interaction_desc: "Forcer le visage d'un loup-garou Crinos sur [recipient.GetFirstName]." #NT!
-  
- POD_home_in_all_lands_perk_interaction: "Apparaître" #NT!
- POD_home_in_all_lands_perk_interaction_desc: "Faites un pas de côté et apparaissez à l'emplacement [recipient.GetFirstNamePossessive] où les loups pourraient être trouvés naturellement." #NT!
-  
- POD_shadow_pack_interaction: "Invocation de duplicata ténébreux" #NT!
- POD_shadow_brethren_interaction: "Invocation de duplicata ténébreux" #NT!
- POD_shadow_pack_interaction_desc: "Invoque des doubles sombres de vous-même." #NT!
- POD_shadow_pack_interaction.tt: "Vous essaierez d’invoquer des doubles obscurs de vous-même." #NT!
- POD_werewolves_interactions.11.t: "Invoque des doublons ténébreux" #NT!
- POD_werewolves_interactions.11.desc: "Grâce à votre maîtrise du Don de l'esprit nocturne, vous pouvez essayer d'invoquer des doubles sombres de vous-même pour le combat." #NT!
- POD_werewolves_interactions.11.option.a: "Je t'invoque !" #NT!
- POD_werewolves_interactions.11.option.a.tt: "Vous essaierez d'invoquer des doublons obscurs" #NT!
- POD_werewolves_interactions.11.option.a.desc: "Une lutte avec votre volonté" #NT!
- POD_werewolves_interactions.11.option.a.tt.success: "Votre double fantôme a été invoqué avec succès" #NT!
- POD_werewolves_interactions.11.option.a.tt.failure: "Vous ne parvenez pas à invoquer votre double fantôme" #NT!
- POD_werewolves_interactions.11.option.b: "Ce n'est pas le bon moment" #NT!
- POD_werewolves_interactions.11.option.b.tt: "Vous abandonnerez votre idée d'invoquer des doublons obscurs" #NT!
- POD_werewolves_interactions.12.t: "Invocation Shadowy Duplicate II" #NT!
- POD_werewolves_interactions.12.desc: "Grâce à votre maîtrise du Don de l'esprit nocturne, vous avez réussi à invoquer des doubles sombres de vous-même. Il est maintenant temps de donner des ordres." #NT!
- POD_werewolves_interactions.12.option.a: "Défends-moi au combat" #NT!
- POD_werewolves_interactions.12.option.a.tt: "Votre double fantôme est invoqué avec succès." #NT!
- POD_werewolves_interactions.13.t: "Invocation Shadowy Duplicate II" #NT!
- POD_werewolves_interactions.13.desc: "Même votre maîtrise du Don de l'esprit nocturne ne suffit pas à invoquer votre double fantôme... pour l'instant." #NT!
- POD_werewolves_interactions.13.option.a: "je ne suis pas encore prêt" #NT!
- POD_werewolves_interactions.13.option.a.tt: "Vous n'avez pas réussi à invoquer votre double fantôme" #NT!
- POD_werewolves_interactions.14.t: "Fondu de doublon ombragé" #NT!
- POD_werewolves_interactions.14.desc: "Votre double fantôme a subi un incident et s'est évanoui." #NT!
- POD_werewolves_interactions.14.option.a: "Mon double fantôme est détruit" #NT!
- POD_werewolves_interactions.14.option.a.tt: "Votre double fantôme n'est plus" #NT!
- POD_werewolves_interactions.15.t: "Baptême du feu" #NT!
- POD_werewolves_interactions.15.desc: "La plupart des tribus tentent de retrouver tous les enfants nés de leurs parents dans le mois suivant la naissance des enfants pour voir s'ils « partagent le sang ». Ceux qui sont Garou sont « baptisés » à la lumière de leur lune auspice, près d'un feu rituel. Un tel baptême consiste le plus souvent à mélanger des cendres avec quelques gouttes de sang Garou ; le mélange est ensuite appliqué sur les oreilles, le nez, les paupières et la langue de l'enfant." #NT!
- POD_werewolves_interactions.15.option.a: "Mon enfant partage-t-il le sang ?" #NT!
- POD_werewolves_interactions.15.a.sucess: "Baptisé" #NT!
- POD_werewolves_interactions.15.a.sucess.tt: "Votre enfant sera un loup-garou une fois adulte." #NT!
- POD_werewolves_interactions.15.a.failure: "Baptisé" #NT!
- POD_werewolves_interactions.15.a.failure.tt: "Votre enfant ne sera plus un loup-garou une fois adulte." #NT!
- POD_werewolves_interactions.15.option.b: "je n'ai pas le temps" #NT!
- POD_werewolves_interactions.16.t: "Renonciation aux auspices" #NT!
- POD_werewolves_interactions.16.desc: "Dans ce rite rare, un loup-garou rejette les auspices sous lesquels il est né et en choisit un nouveau. Vous souhaitez adopter..." #NT!
-  
-  
- POD_renew_the_cycle_interaction: "Renouveler le cycle" #NT!
- POD_renew_the_cycle_interaction_desc: "Réduisez [recipient.GetFirstName] à son état naturel (se transformez en poussière ou perdez simplement son animation)." #NT!
-  
- POD_thought_form_of_the_twelve_ministers_interaction: "Atteindre le véritable équilibre spirituel" #NT!
- POD_thought_form_of_the_twelve_ministers_interaction_desc: "Par un mantra parlé, vous atteignez le véritable équilibre spirituel pendant un seul instant." #NT!
-  
- POD_dagger_of_the_mind_interaction: "Émotion de graine" #NT!
-  
- POD_deny_the_hungry_perk_interaction: "Nier les affamés" #NT!
- POD_deny_the_hungry_perk_interaction_desc: "Le comté cible gagne [GetModifier( 'deny_the_hungry_perk_modifier' ).GetNameWithTooltip|L]." #NT!
- deny_the_hungry_perk_modifier: "Nier les affamés" #NT!
-  
- POD_madness_perk_interaction: "Folie" #NT!
- POD_kitsune_madness_perk_interaction: "Folie" #NT!
- POD_madness_perk_interaction_desc: "Utilisez ce pouvoir pour donner à [recipient.GetFirstName] un trait mental négatif." #NT!
- POD_madness_perk_interaction_options_heading: "Quel trait dois-je donner ?" #NT!
-  
- POD_absorb_disease_interaction: "Absorber la maladie" #NT!
- POD_absorb_disease_interaction_desc: "Absorbe une maladie du [recipient.GetFirstName] pour une utilisation ultérieure." #NT!
-  
- POD_release_disease_interaction: "Libérer la maladie" #NT!
- POD_release_disease_interaction_desc: "Libérez une maladie possédée devant le tribunal [recipient.GetFirstNamePossessive]." #NT!
- POD_release_disease_interaction_options_heading: "Quelle maladie dois-je libérer ?" #NT!
-  
- POD_ojas_surge_perk_interaction: "Surge d'Ojas" #NT!
- POD_ojas_surge_perk_interaction_desc: "Améliore temporairement un attribut." #NT!
- POD_ojas_surge_perk_interaction_options_heading: "Quel attribut dois-je améliorer ?" #NT!
-  
- POD_earth_heal_interaction: "Guérison de la Terre" #NT!
- POD_earth_heal_interaction_desc: "Utilisez votre gnose pour soigner la souillure du wyrm à l'emplacement [recipient.GetFirstNamePossessive]." #NT!
-  
- POD_rallying_challenge_perk_interaction: "Défi de rallye" #NT!
- POD_rallying_challenge_perk_interaction_desc: "Améliore temporairement un attribut." #NT!
- POD_rallying_challenge_perk_interaction_options_heading: "Quel attribut dois-je améliorer ?" #NT!
-  
- POD_ghost_caress_perk_interaction: "Caresse fantôme" #NT!
- POD_ghost_caress_perk_interaction_desc: "Causer du mal de loin à [recipient.GetFirstName]." #NT!
-  
- POD_mothers_blessing_curse_perk_interaction: "Bénédiction/Malédiction de la Mère" #NT!
- POD_mothers_blessing_curse_perk_interaction_desc: "Donnez [GetModifier( 'mothers_blessing_perk_modifier' ).GetNameWithTooltip|L] ou [GetModifier( 'mothers_curse_perk_modifier' ).GetNameWithTooltip|L] à [recipient.GetFirstName]." #NT!
- mothers_blessing_perk_modifier: "La bénédiction de la mère" #NT!
- mothers_curse_perk_modifier: "La malédiction de la mère" #NT!
-  
- POD_sorcerers_blade_perk_interaction: "Lame du sorcier" #NT!
- POD_sorcerers_blade_perk_interaction_desc: "Utilisez la gnose pour augmenter les prouesses de l’artefact d’arme ciblé." #NT!
-  
- POD_the_madness_of_crowds_interaction: "La folie des foules" #NT!
- POD_the_madness_of_crowds_interaction_desc: "Attisez le côté sauvage de tous ceux qui se trouvent à proximité pour faire des enchères [recipient.GetFirstName]." #NT!
-  
- POD_train_gift_interaction: "Cadeau de train" #NT!
- POD_train_gift_interaction_desc: "Enseigne à [recipient.GetFirstName] un de tes Dons" #NT!
-  
- POD_create_ananata_interaction: "Créer Ananata" #NT!
- POD_create_ananata_interaction_desc: "Utilisez un rituel pour créer votre propre Ananata." #NT!
- POD_create_ananata_interaction_options_heading: "Quelle quantité de ressources souhaitez-vous consacrer au rituel ?" #NT!
-  
- POD_bears_bounty_interaction: "La prime de l'ours" #NT!
- POD_bears_bounty_interaction_desc: "Plaidez directement auprès de votre totem, gagnant ainsi une partie de sa puissance." #NT!
-  
- POD_long_strike_interaction: "Longue frappe" #NT!
- POD_long_strike_interaction_desc: "Frappez à distance." #NT!
-  
- POD_belly_ride_interaction: "Tour du ventre" #NT!
- POD_belly_ride_interaction_desc: "Vous essayez d'entrer dans l'estomac [recipient.GetFirstNamePossessive] en vous tortillant dans la gorge [recipient.GetHerHis]." #NT!
- POD_belly_ride_interaction.crit_success: "Succès critique : À l’envers, explosion du ventre !" #NT!
- POD_belly_ride_interaction.success: "Succès : À l’envers !" #NT!
- POD_belly_ride_interaction.failure: "Échec : vous êtes vomi. Ça pique." #NT!
- POD_belly_ride_interaction.crit_failure: "Échec critique : vous êtes mangé. Mauvaise fin." #NT!
-  
- POD_dance_of_shiva_interaction: "Danse de Shiva" #NT!
- POD_dance_of_shiva_interaction_desc: "Brûlez une région entière et toute sa population." #NT!
-  
- POD_storm_winds_slash_interaction: "Coup de vent de tempête" #NT!
- POD_storm_winds_slash_interaction_desc: "Utilisez votre katana pour blesser [recipient.GetFirstName] à distance." #NT!
-  
- POD_unleash_divine_wind_interaction: "Libérez le vent divin" #NT!
- POD_unleash_divine_wind_interaction_desc: "Libérer un vent divin qui fera des ravages dans une zone." #NT!
- POD_unleash_divine_wind_interaction.tt: "Vous libérerez un vent divin sur le royaume [recipient.GetFirstNamePossessive]" #NT!
- POD_unleash_divine_wind_interaction.duel.success: "Vous avez réussi à provoquer la tempête" #NT!
- POD_unleash_divine_wind_interaction.duel.tt.attacker_wins: "Le royaume [recipient.GetFirstNamePossessive] est submergé par un vent divin qui fait des ravages partout où il passe." #NT!
- POD_unleash_divine_wind_interaction.duel.failure: "Vous ne parvenez pas à provoquer la tempête" #NT!
- POD_unleash_divine_wind_interaction.duel.tt.attacker_lost: "Vous échouez" #NT!
- POD_unleash_divine_wind_interaction_actor_toast: "Vous avez réussi à libérer un vent divin sur le royaume [recipient.GetFirstNamePossessive]." #NT!
- POD_unleash_divine_wind_interaction_recipient_toast: "Un vent divin a été libéré sur votre capitale par [actor.GetFirstName]" #NT!
- POD_unleash_divine_wind_interaction_failed_toast: "Vous ne pouviez pas libérer un vent divin sur le royaume [recipient.GetFirstNamePossessive]" #NT!
- divine_wind_modifier: "Endommagé par un vent divin" #NT!
- divine_wind_modifier_desc: "Cette zone est endommagée par une puissante tempête, déracine des arbres et renverse des bateaux dans sa fureur." #NT!
-  
- POD_wither_limb_interaction: "Membre flétri" #NT!
- POD_ratkin_wither_limb_interaction: "Membre flétri" #NT!
- POD_wither_limb_interaction_desc: "Utilisez le pouvoir du Don pour mutiler [recipient.GetFirstName]." #NT!
-  
- POD_dance_of_abandon_interaction: "Danse de l'abandon" #NT!
- POD_dance_of_abandon_interaction_desc: "Obligez [recipient.GetFirstName] à tout oublier sauf le besoin de célébrer." #NT!
- POD_tricksters_skin_interaction: "Peau de filou" #NT!
- POD_tricksters_skin_interaction_desc: "Copiez ou échangez l'apparence de [recipient.GetFirstName]." #NT!
- POD_coyotes_mask_interaction: "Masque de Coyote" #NT!
- POD_coyotes_mask_interaction_desc: "Utiliser votre Don comme bouclier contre la mort." #NT!
- POD_umbral_target_interaction: "Cible ombrale" #NT!
- POD_umbral_target_interaction_desc: "Jette littéralement [recipient.GetFirstName] dans l'Umbra et dans n'importe quel endroit de votre choix à l'intérieur." #NT!
- POD_umbral_target_interaction_options_heading: "Permettez-moi d'ajuster mon objectif vers..." #NT!
- POD_coyotes_howl_interaction: "Hurlement du coyote" #NT!
- POD_coyotes_howl_interaction_desc: "Invoquez une petite partie du pouvoir destructeur de Coyote et libérez cette énergie sur les chevaliers [recipient.GetFirstNamePossessive]." #NT!
-  
- POD_ease_the_fevered_mind_interaction: "Apaiser l'esprit fiévreux" #NT!
- POD_ease_the_fevered_mind_interaction_desc: "Guérissez [recipient.GetFirstName] du dérangement et de tout ce qui affecte l'esprit [recipient.GetHerHis]." #NT!
- POD_ease_the_fevered_mind_interaction_options_heading: "Que dois-je faire appel à la gnose pour guérir ?" #NT!
-  
- POD_gaias_breath_interaction: "Le souffle de Gaïa" #NT!
- POD_gaias_breath_interaction_desc: "Ramenez automatiquement une personne qui a récemment été tuée, au prix d'une gnose." #NT!
-  
- POD_possession_interaction: "Possession" #NT!
- POD_possession_interaction_desc: "Possédez ce personnage, prenez le contrôle des actions [recipient.GetHerHis] et leur confèrez une partie de votre pouvoir. Les utilisations ultérieures approfondissent le niveau de contrôle et renforcent les pouvoirs que vous donnez à la cible." #NT!
- POD_end_possession_interaction: "Mettre fin à la possession" #NT!
- POD_end_possession_interaction_desc: "Quittez ce corps à la recherche d’un autre, ou d’une simple indépendance." #NT!
- POD_marionette_interaction: "Marionnette" #NT!
-  
- POD_plague_bite_interaction: "Morsure de peste" #NT!
- POD_plague_bite_interaction_desc: "Utilisez le pouvoir de Gift pour infecter [recipient.GetFirstName] avec une maladie." #NT!
- POD_plague_bite_interaction_options_heading: "Quelle maladie dois-je faire appel à Gift pour l'infecter ?" #NT!
-  
- POD_moons_gateway_interaction: "La porte de la Lune" #NT!
- POD_moons_gateway_interaction_desc: "En faisant appel à l'aide d'une Lune, vous ouvrez un pont lunaire entre Caerns ou Den-Realms, vous permettant de vous téléporter à l'emplacement [recipient.GetFirstNamePossessive]." #NT!
-  
- POD_unleash_wrath_of_nala_interaction: "Libérez la colère de Nala" #NT!
- POD_unleash_wrath_of_nala_interaction_desc: "Déclencher une tempête qui fera des ravages dans une zone." #NT!
- POD_unleash_wrath_of_nala_interaction.tt: "Vous déclencherez une tempête sur le royaume [recipient.GetFirstNamePossessive]" #NT!
- POD_unleash_wrath_of_nala_interaction.duel.success: "Vous avez réussi à provoquer la tempête" #NT!
- POD_unleash_wrath_of_nala_interaction.duel.tt.attacker_wins: "Le royaume [recipient.GetFirstNamePossessive] est submergé par une tempête qui fait des ravages partout où il passe." #NT!
- POD_unleash_wrath_of_nala_interaction.duel.failure: "Vous ne parvenez pas à provoquer la tempête" #NT!
- POD_unleash_wrath_of_nala_interaction.duel.tt.attacker_lost: "Vous échouez" #NT!
- POD_unleash_wrath_of_nala_interaction_actor_toast: "Vous avez réussi à déclencher une tempête sur le royaume [recipient.GetFirstNamePossessive]." #NT!
- POD_unleash_wrath_of_nala_interaction_recipient_toast: "Une tempête s'est déclenchée sur votre capitale par [actor.GetFirstName]" #NT!
- POD_unleash_wrath_of_nala_interaction_failed_toast: "Vous ne pouviez pas déclencher une tempête sur le royaume [recipient.GetFirstNamePossessive]" #NT!
- wrath_of_nala_modifier: "Endommagé par une tempête" #NT!
- wrath_of_nala_modifier_desc: "Cette zone est endommagée par une tempête." #NT!
-  
- POD_dragons_milk_interaction: "Lait de dragon" #NT!
- POD_dragons_milk_interaction_desc: "Guérissez les blessures du [recipient.GetFirstName], simplement en posant les mains sur la zone touchée." #NT!
- POD_dragons_milk_interaction_options_heading: "Que dois-je faire appel à la gnose pour guérir ?" #NT!
- POD_a_thousand_secret_faces_interaction: "Mille visages secrets" #NT!
- POD_a_thousand_secret_faces_interaction_desc: "Copiez l'apparence du [recipient.GetFirstName]." #NT!
-  
- POD_unseas_blessing_interaction: "La bénédiction d'Unsea" #NT!
- POD_unseas_blessing_interaction_desc: "Touchez l'Unsea, le fond marin, pour panser vos blessures." #NT!
- POD_channel_rage_interaction: "Canaliser la rage" #NT!
- POD_channel_rage_interaction_desc: "Canalisez votre rage non seulement vers la vitesse, mais également vers l'endurance et la puissance." #NT!
- POD_channel_rage_interaction_options_heading: "Combien de Rage voulez-vous dépenser ?" #NT!
-  
- POD_gift_of_eyes_interaction: "Don des yeux" #NT!
- POD_gift_of_eyes_interaction_desc: "Avec Gift of Eyes, vous pouvez transmettre une vision des yeux des tués (en les mangeant) à n'importe quel non-Corax." #NT!
- POD_gift_of_eyes_interaction_options_heading: "Quels yeux morts dois-je manger ?" #NT!
- POD_plague_feather_interaction: "Plume de peste" #NT!
- POD_plague_feather_interaction_desc: "Utilisez le pouvoir de ce Don pour infecter [recipient.GetFirstName] avec une maladie." #NT!
- POD_plague_feather_interaction_options_heading: "Quelle maladie dois-je faire appel à ce Don pour infecter ?" #NT!
-  
- POD_freyjas_blessing_interaction: "La bénédiction de Freyja" #NT!
- POD_freyjas_blessing_interaction_desc: "Invoque un esprit de fertilité en vous. En posant vos mains sur le ventre du [recipient.GetFirstNamePossessive], vous pouvez passer l'esprit dans le [recipient.GetFirstName]." #NT!
- POD_withering_stare_interaction: "Regard flétri" #NT!
- POD_withering_stare_interaction_desc: "Fixe les yeux de la cible et inflige des dégâts au [recipient.GetFirstName]." #NT!
-  
- POD_rat_mothers_touch_interaction: "Le contact de la mère des rats" #NT!
- POD_rat_mothers_touch_interaction_desc: "Guérissez les blessures du [recipient.GetFirstName]." #NT!
- POD_rat_mothers_touch_interaction_options_heading: "Que dois-je faire appel à la gnose pour guérir ?" #NT!
- POD_whelp_body_interaction: "Corps de dragonnet" #NT!
- POD_whelp_body_interaction_desc: "Lancez une malédiction dévastatrice sur le corps du [recipient.GetFirstNamePossessive], le rendant affaibli ou paralysé." #NT!
-  
- POD_hathors_blessing_interaction: "La bénédiction d'Hathor" #NT!
- POD_hathors_blessing_interaction_desc: "L'Apis bénit [recipient.GetFirstName] au niveau du front, du sternum et juste en dessous du nombril." #NT!
- POD_mercy_for_the_misbegotten_interaction: "Miséricorde pour les mal engendrés" #NT!
- POD_mercy_for_the_misbegotten_interaction_desc: "Accorde la fertilité à ceux qui sont normalement incapables de donner naissance à une progéniture." #NT!
-  
- POD_reading_the_dark_heart_interaction: "Lire le cœur noir" #NT!
- POD_reading_the_dark_heart_interaction_desc: "Utilisez votre don pour découvrir tous les secrets et schémas de [recipient.GetFirstName]." #NT!
-  
- POD_hunt_engling_interaction: "Chasse à l'Angleterre" #NT!
- POD_hunt_engling_interaction_desc: "Invoquez et chassez Engling pour obtenir la Gnose." #NT!
- POD_discarded_dreams_interaction: "Rêves abandonnés" #NT!
- POD_discarded_dreams_no_dlc_interaction: "Rêves abandonnés" #NT!
- POD_geas_interaction: "Geas" #NT!
- POD_geas_interaction_desc: "Punissez [recipient.GetFirstName] en forçant [recipient.GetHerHim] à entreprendre une quête." #NT!
-  
- POD_death_ray_interaction: "Rayon de la mort" #NT!
- POD_death_ray_interaction_desc: "Déchargez l'énergie du bout des doigts." #NT!
-  
- POD_catgut_interaction: "Catgut" #NT!
- POD_catgut_interaction_desc: "En traitant soigneusement la peau ou les organes internes du [recipient.GetFirstName], vous pouvez tisser un écheveau très résistant. Avec un peu de travail, cela peut être transformé en une armure ajustée." #NT!
- POD_epidemic_contagion_interaction: "Contagion épidémique" #NT!
- POD_epidemic_contagion_interaction_desc: "Déchaînez un terrible fléau magique sur le monde." #NT!
-  
- POD_sanctify_interaction: "Sanctifier" #NT!
- POD_sanctify_interaction_desc: "Dépensez une rage et murmurez le plus grand crome que vous avez l'intention de confier à la lame. Vous pouvez ensuite exécuter le Rite du Poignard de la Douleur dessus pour invoquer un esprit de la Douleur et le lier à l'intérieur." #NT!
- POD_all_hell_interaction: "Tout l'enfer" #NT!
- POD_all_hell_interaction_desc: "En invoquant un essaim d’esprits sauvages et d’esprits de rat, vous pouvez invoquer un véritable pandémonium." #NT!
-  
- POD_diagnose_interaction: "Diagnostiquer" #NT!
- POD_diagnose_interaction_desc: "Utilisez le pouvoir du Don pour guérir la maladie [recipient.GetFirstNamePossessive]." #NT!
- POD_diagnose_interaction_options_heading: "Quelle maladie dois-je faire appel à la Gnose pour guérir ?" #NT!
- POD_restore_sanity_interaction: "Restaurer la santé mentale" #NT!
- POD_restore_sanity_interaction_desc: "Guérissez [recipient.GetFirstName] du dérangement et de tout ce qui affecte l'esprit [recipient.GetHerHis]." #NT!
- POD_restore_sanity_interaction_options_heading: "Que dois-je faire appel à la Gnose pour guérir ?" #NT!
- POD_image_of_the_sky_bear_interaction: "Image de l'ours du ciel" #NT!
- POD_image_of_the_sky_bear_interaction_desc: "Utilisez le pouvoir du Don pour guérir les blessures [recipient.GetFirstNamePossessive]." #NT!
- POD_image_of_the_sky_bear_interaction_options_heading: "Que dois-je faire appel à la Gnose pour guérir ?" #NT!
-  
- POD_oath_of_the_great_bear_interaction: "Serment de la Grande Ourse" #NT!
- POD_oath_of_the_great_bear_interaction_desc: "Faites un serment qui, selon [recipient.GetFirstName], est contraignant." #NT!
- POD_bestow_ursas_blessing_interaction: "Accordez la bénédiction d'Ursa" #NT!
- POD_bestow_ursas_blessing_interaction_desc: "Appelez la faveur de la Grande Ourse sur [recipient.GetFirstName], accordant à [recipient.GetFirstName] un bonus tangible ou un morceau de bonne fortune." #NT!
- POD_bestow_ursas_blessing_interaction_options_heading: "Quel bonus dois-je appeler ?" #NT!
- POD_words_of_doom_interaction: "Mots de malheur" #NT!
- POD_words_of_doom_interaction_desc: "Malédiction [recipient.GetFirstName], les punissant pour un méfait grossier." #NT!
- POD_words_of_doom_interaction_options_heading: "Quelle malédiction dois-je donner ?" #NT!
-  
- POD_kind_death_interaction: "Activer/Désactiver la mort en nature" #NT!
- POD_kind_death_interaction_desc: "Activez ou désactivez le pouvoir Kind Death." #NT!
- POD_assassins_insistence_interaction: "L'insistance de l'assassin" #NT!
- POD_assassins_insistence_interaction_desc: "Utilisez le pouvoir du Don pour guérir les blessures [recipient.GetFirstNamePossessive]." #NT!
- POD_denial_of_wellbeing_interaction: "Déni de bien-être" #NT!
- POD_denial_of_wellbeing_interaction_desc: "Donnez un modificateur qui rend [recipient.GetFirstName] incapable de guérir [recipient.GetHerHis] blessure." #NT!
- POD_hydra_warrior_interaction: "Guerrier Hydra" #NT!
- POD_hydra_warrior_interaction_desc: "Combinez la puissance du $POD_player_coterie$." #NT!
-  
- POD_heartstrings_interaction: "Cordes sensibles" #NT!
- POD_summon_the_accused_interaction: "Convoquer l'accusé" #NT!
- POD_summon_the_accused_interaction_desc: "Par la force du Don, convoquez [recipient.GetFirstName] à votre cour." #NT!
-  
- POD_blessing_the_blade_interaction: "Bénédiction de la lame" #NT!
- POD_blessing_the_blade_interaction_desc: "Améliorez le modificateur d'artefact ou donnez-lui un nouveau modificateur." #NT!
-  
- POD_mothers_touch_interaction: "Le contact de la mère" #NT!
- POD_mothers_touch_interaction_desc: "Guérissez les blessures du [recipient.GetFirstName]." #NT!
- POD_mothers_touch_interaction_options_heading: "Que dois-je faire appel à la gnose pour guérir ?" #NT!
- POD_jointsnakes_mojo_interaction: "Mojo de Jointsnake" #NT!
- POD_jointsnakes_mojo_interaction_desc: "Guérissez les mutilations du [recipient.GetFirstName]." #NT!
- POD_jointsnakes_mojo_interaction_options_heading: "Que dois-je faire appel à la gnose pour guérir ?" #NT!
- POD_fossilize_interaction: "Fossiliser" #NT!
- POD_fossilize_interaction_desc: "Vous pointez un os vers [recipient.GetFirstName]." #NT!
-  
- POD_sun_bridge_interaction: "Pont du Soleil" #NT!
- POD_sun_bridge_interaction_desc: "Parcourez le chemin du soleil à travers les brumes de l'Umbra, vous permettant de vous téléporter dans la caern de l'emplacement [recipient.GetFirstNamePossessive]." #NT!
- POD_take_the_true_form_interaction: "Prenez la vraie forme" #NT!
- POD_take_the_true_form_interaction_desc: "Revenir [recipient.GetFirstName] sous forme de race." #NT!
- POD_recapitulate_interaction: "Récapituler" #NT!
- POD_recapitulate_interaction_desc: "Vous criez le nom du [recipient.GetFirstNamePossessive] et certains Mots hors du temps. L'ennemi se transforme à travers une étape de son existence en un mammifère primitif ressemblant à un rat." #NT!
- POD_gorgons_gaze_interaction: "Le regard de la Gorgone" #NT!
- POD_gorgons_gaze_interaction_desc: "Transformez [recipient.GetFirstName] en pierre d'un simple regard." #NT!
- POD_stop_continental_drift_interaction: "Stopper la dérive des continents" #NT!
- POD_stop_continental_drift_interaction_desc: "Invoque les esprits des continents alors qu'ils flottent sur le visage de Gaia et à travers les millénaires. Vous pouvez agir comme si la dérive des continents n’existait pas, en voyageant comme le faisaient les rois." #NT!
- POD_dream_semblance_interaction: "Semblance de rêve" #NT!
- POD_dream_semblance_interaction_desc: "Vous devenez un vrai dragon. Une fois l’affrontement terminé, le rêve s’en va." #NT!
-  
- POD_store_gnosis_interaction: "Gnose du magasin" #NT!
- POD_store_gnosis_interaction_desc: "Stockez Gnosis dans votre vaisseau Gnosis." #NT!
- POD_store_gnosis_interaction_options_heading: "Combien souhaitez-vous stocker ?" #NT!
- POD_extract_gnosis_interaction: "Extraire la gnose stockée" #NT!
- POD_extract_gnosis_interaction_desc: "Extrayez la Gnosis stockée du vaisseau Gnosis pour vous ravitailler." #NT!
- POD_extract_gnosis_interaction_options_heading: "Combien voulez-vous extraire ?" #NT!
- POD_extract_gnosis: "Dépenser $VALUE|0V$ Gnose stockée" #NT!
- POD_extracted_gnosis: "Dépensé $VALUE|0V$ Gnose stockée" #NT!
- POD_you_extract_gnosis: "Vous dépensez $VALUE|0V$ Gnose stockée" #NT!
- POD_you_extracted_gnosis: "Vous avez dépensé $VALUE|0V$ Gnose stockée" #NT!
- POD_they_extract_gnosis: "[CHARACTER.GetShortUIName] dépense $VALUE|0V$ Gnose stockée" #NT!
- POD_they_extracted_gnosis: "[CHARACTER.GetShortUIName] dépensé $VALUE|0V$ Gnose stockée" #NT!
- POD_store_gnosis: "Le magasin $VALUE|0V$ a obtenu la Gnose" #NT!
- POD_stored_gnosis: "Stocké $VALUE|0V$ a gagné la Gnose" #NT!
- POD_you_store_gnosis: "Vous stockez $VALUE|0V$ Gnose gagnée" #NT!
- POD_you_stored_gnosis: "Vous avez stocké $VALUE|0V$ et avez gagné la Gnose" #NT!
- POD_they_store_gnosis: "[CHARACTER.GetShortUIName] magasin $VALUE|0V$ a obtenu la Gnose" #NT!
- POD_they_stored_gnosis: "[CHARACTER.GetShortUIName] stocké $VALUE|0V$ gagné Gnose" #NT!
- gnosis_vessel_damaged: "Vaisseau de Gnose endommagé" #NT!
-  
- POD_cause_sea_accident_interaction: "Provoquer un accident de mer" #NT!
- POD_cause_sea_accident_interaction_desc: "Couler un navire contenant [recipient.GetFirstName], faisant couler [recipient.GetHerHim]." #NT!
- POD_common_foe_interaction: "Ennemi commun" #NT!
- POD_common_foe_interaction_desc: "Appelez [recipient.GetFirstName] en service contre les créatures corrompues du Wyrm." #NT!
- POD_swim_underseas_bloodstream_interaction: "Nager dans le sang sous-marin" #NT!
- POD_swim_underseas_bloodstream_interaction_desc: "Entrez dans la circulation sanguine sous-marine (la série de tunnels mystiques qui relient les grottes) dans n'importe quelle grotte et émergez dans une autre presque partout ailleurs dans le monde." #NT!
-  
- POD_wound_undersea_interaction: "Blessure sous-marine" #NT!
- POD_wound_undersea_interaction_desc: "Déclencher un séisme qui fera des ravages dans une zone côtière." #NT!
- POD_wound_undersea_interaction.tt: "Vous déclencherez un séisme sur la côte du royaume [recipient.GetFirstNamePossessive]." #NT!
- POD_wound_undersea_interaction.duel.success: "Vous avez réussi à provoquer le séisme" #NT!
- POD_wound_undersea_interaction.duel.tt.attacker_wins: "La côte du royaume [recipient.GetFirstNamePossessive] est submergée par un séisme qui fait des ravages partout où il passe." #NT!
- POD_wound_undersea_interaction.duel.failure: "Vous ne parvenez pas à provoquer le séisme" #NT!
- POD_wound_undersea_interaction.duel.tt.attacker_lost: "Vous échouez" #NT!
- POD_wound_undersea_interaction_actor_toast: "Vous avez réussi à déclencher un séisme sur la côte [recipient.GetFirstNamePossessive]." #NT!
- POD_wound_undersea_interaction_recipient_toast: "Un séisme a été déclenché sur la côte de votre royaume par [actor.GetFirstName]" #NT!
- POD_wound_undersea_interaction_failed_toast: "Vous ne pouviez pas déclencher un séisme sur la côte [recipient.GetFirstNamePossessive]" #NT!
- wound_undersea_modifier: "Endommagé par un séisme" #NT!
- wound_undersea_modifier_desc: "Cette zone a été endommagée par un séisme." #NT!
+    POD_inspiration_interaction: "Inspiration"
+    POD_inspiration_interaction_desc: "En tant qu'Alpha de ce pack, il est de votre devoir de montrer votre force afin d'inspirer vos followers."
+    inspiration_modifier: "Inspiration"
+    inspiration_modifier_desc: "Avec votre Alpha à proximité, vos prouesses au combat ont été améliorées."
+    pack_tactics_modifier: "Tactiques de meute"
+    pack_tactics_modifier_desc: "Pour un œil extérieur, votre meute se déplace comme une seule."
+    strength_will_modifier: "Force de volonté"
+    strength_will_modifier_desc: "Une force imparable, une meute unie dans un seul but : la destruction de leurs ennemis."
+
+    POD_divide_interaction: "Diviser"
+    POD_divide_interaction_desc: "Vous semerez la discorde dans ce royaume, laissant les vassaux mécontents de leur suzerain."
+    divide_modifier: "Diviser"
+    divide_modifier_desc: "Tout ce que vous faites ou dites semble être mal interprété par vos vassaux. Comme si une force maligne déformait vos mots d'une manière ou d'une autre..."
+
+    POD_primal_song_interaction: "Chanson primordiale"
+    POD_primal_song_interaction_desc: "Vous choisirez entre l'une des chansons que vous connaissez, gagnant divers bonus en fonction de votre choix."
+    POD_werewolves_interactions.1.t: "Chansons primordiales"
+    POD_werewolves_interactions.1.desc: "Les loups-garous Galliard sont la voix du peuple, les appelant au combat et les inspirant à la grandeur dans la vie et dans la mort. Ils sont également les gardiens des traditions, transportant les traditions des tribus depuis le début.\nEn tant que conteurs autour du feu de camp, Galliard transmet des histoires et des chansons racontées depuis la nuit des temps. Ce sera lequel aujourd'hui ?"
+    POD_werewolves_interactions.1.option.a: "Une chanson d'unité tribale."
+    primal_song_modifier: "Chanson de l'unité"
+    primal_song_modifier_desc: "Comme les héros d’autrefois, nous devons être unis !"
+    POD_werewolves_interactions.1.option.b: "Un récit d'anciennes victoires."
+    song_heroes_modifier: "Chanson des héros"
+    song_heroes_modifier_desc: "Il y a de la sagesse dans les victoires, et même dans les défaites, de nos ancêtres."
+    POD_werewolves_interactions.1.option.c: "Une histoire de sang et de bataille."
+    song_rage_modifier: "Chanson de rage"
+    song_rage_modifier_desc: "Nous sommes avant tout des guerriers et devons toujours garder à l’esprit notre combativité."
+    POD_werewolves_interactions.1.option.d: "Une histoire d'unité et de courage."
+    song_siren_modifier: "Le chant de la sirène"
+    song_siren_modifier_desc: "En suivant l’appel, nous devenons plus forts."
+
+    POD_wereshapeshift: "Se métamorphoser"
+    POD_wereshapeshift_interaction: "Se métamorphoser"
+    POD_wereshapeshift_interaction_desc: "Utilisez votre rage ou votre gnose pour transformer votre forme."
+    POD_wereshapeshift_interaction_options_heading: "Sous quelle forme dois-je me métamorphoser ?"
+    POD_wereshapeshift_interaction_homid: "Retournez à un formulaire Homid."
+    POD_wereshapeshift_interaction_crinos: "Changement de forme en forme de Crinos."
+    POD_wereshapeshift_interaction_lupus: "Changement de forme en forme de Lupus."
+    POD_wereshapeshift_interaction_glabro: "Changement de forme en forme Glabro."
+    POD_wereshapeshift_interaction_hispo: "Changement de forme en forme Hispo."
+    POD_wereshapeshift_interaction_sokto: "Changement de forme en forme Sokto."
+    POD_wereshapeshift_interaction_chatro: "Changement de forme vers la forme Chatro."
+    POD_wereshapeshift_interaction_feline: "Changement de forme en forme féline."
+    POD_wereshapeshift_interaction_anthros: "Changement de forme vers la forme Anthros."
+    POD_wereshapeshift_interaction_crocas: "Changement de forme en forme de Crocas."
+    POD_wereshapeshift_interaction_hyaenid: "Changement de forme en forme hyénide."
+    POD_wereshapeshift_interaction_corvid: "Changement de forme en forme de corvidé"
+    POD_wereshapeshift_interaction_arthren: "Changement de forme vers la forme Arthren"
+    POD_wereshapeshift_interaction_bjornen: "Changement de forme vers la forme Bjornen"
+    POD_wereshapeshift_interaction_urus: "Changement de forme vers la forme Urus"
+    POD_wereshapeshift_interaction_koto: "Changement de forme en forme Koto"
+    POD_wereshapeshift_interaction_sambu_henge: "Changement de forme vers la forme Sambu-henge"
+    POD_wereshapeshift_interaction_juko: "Shapeshift to Juko Form"
+    POD_wereshapeshift_interaction_kyubi: "Shapeshift to Kyubi Form"
+    POD_wereshapeshift_interaction_reptoid: "Changement de forme en forme reptoïde"
+    POD_wereshapeshift_interaction_archid: "Changement de forme vers la forme Archid"
+    POD_wereshapeshift_interaction_suchid: "Changement de forme en forme Suchid"
+    POD_wereshapeshift_interaction_drachid: "Changement de forme en forme de drachid"
+    POD_wereshapeshift_interaction_azhi_dahaka: "Changement de forme vers la forme Azhi Dahaka"
+    POD_wereshapeshift_interaction_silkaram: "Changement de forme vers la forme Silkaram"
+    POD_wereshapeshift_interaction_kali_dahaka: "Changement de forme vers la forme Kali Dahaka"
+    POD_wereshapeshift_interaction_vasuki: "Changement de forme en forme Vasuki"
+    POD_wereshapeshift_interaction_mana_bozho: "Changement de forme en forme Mana-bozho"
+    POD_wereshapeshift_interaction_tsitsu: "Shapeshift to Tsitsu Form"
+    POD_wereshapeshift_interaction_sendeh: "Changement de forme vers le formulaire Sendeh"
+    POD_wereshapeshift_interaction_latrani: "Changement de forme vers la forme Latrani"
+    POD_wereshapeshift_interaction_ratman: "Changement de forme en forme Ratman"
+    POD_wereshapeshift_interaction_rat_thing: "Changement de forme en forme de chose de rat"
+    POD_wereshapeshift_interaction_rodens: "Changement de forme vers la forme Rodens"
+    POD_wereshapeshift_interaction_itchy: "Changement de forme vers une forme qui démange"
+    POD_wereshapeshift_interaction_gladius: "Changement de forme en forme Gladius"
+    POD_wereshapeshift_interaction_grabrus: "Changement de forme vers la forme Grabrus"
+    POD_wereshapeshift_interaction_chasmus: "Changement de forme en forme de Chasmus"
+    POD_wereshapeshift_interaction_squamus: "Changement de forme en forme Squamus"
+    POD_wereshapeshift_interaction_aurochs: "Changement de forme en forme d'aurochs"
+    POD_wereshapeshift_interaction_apterous: "Changement de forme en forme aptère"
+    POD_wereshapeshift_interaction_megachiroptera: "Changement de forme en forme de mégachiroptères"
+    POD_wereshapeshift_interaction_microchiroptera: "Changement de forme en forme de microchiroptères"
+    POD_wereshapeshift_interaction_aperius: "Changement de forme vers la forme Aperius"
+    POD_wereshapeshift_interaction_daeodon: "Changement de forme en forme de Daeodon"
+    POD_wereshapeshift_interaction_scrofa: "Changement de forme en forme Scrofa"
+    POD_wereshapeshift_interaction_lilian: "Changement de forme en forme de Lilian"
+    POD_wereshapeshift_interaction_pithus: "Changement de forme en forme Pithus"
+    POD_wereshapeshift_interaction_crawlerling: "Changement de forme en forme de rampant"
+    POD_wereshapeshift_interaction_araneid: "Changement de forme en forme aranéide"
+    POD_wereshapeshift_interaction_titaniform: "Changement de forme en forme de Titan"
+
+    POD_ajabashapeshift_interaction: "Se métamorphoser"
+    POD_bastetshapeshift_interaction: "Se métamorphoser"
+    POD_coraxshapeshift_interaction: "Se métamorphoser"
+    POD_gurahlshapeshift_interaction: "Se métamorphoser"
+    POD_kitsuneshapeshift_interaction: "Se métamorphoser"
+    POD_mokoleshapeshift_interaction: "Se métamorphoser"
+    POD_nagahshapeshift_interaction: "Se métamorphoser"
+    POD_nuwishashapeshift_interaction: "Se métamorphoser"
+    POD_ratkinshapeshift_interaction: "Se métamorphoser"
+    POD_rokeashapeshift_interaction: "Se métamorphoser"
+    POD_apisshapeshift_interaction: "Se métamorphoser"
+    POD_camazotzshapeshift_interaction: "Se métamorphoser"
+    POD_grondrshapeshift_interaction: "Se métamorphoser"
+    POD_ananasishapeshift_interaction: "Se métamorphoser"
+
+    POD_wereshapeshift_diseae_heal.0001.desc: "Je me suis remis de ma maladie"
+
+    POD_ebon_binding_interaction: "Lien d'ébène"
+    POD_ebon_binding_interaction_desc: "Liez une punition appropriée au [recipient.GetFirstName]. [recipient.GetFirstName] souffrira d'une douleur paralysante lorsque [recipient.GetSheHe] pensera à se livrer à l'action interdite."
+    ebon_binding_modifier: "Lien d'ébène"
+
+    POD_rouse_to_anger_interaction: "Réveiller la colère"
+    POD_rouse_to_anger_interaction_desc: "Dépensez Gnosis pour rafraîchir [recipient.GetFirstName] Rage intérieure."
+    POD_primal_anger_interaction: "Colère primordiale"
+    POD_primal_anger_interaction_desc: "Infligez-vous pour augmenter la rage."
+
+    POD_savagery_of_the_taloned_hunter_interaction: "Sauvagerie du chasseur à griffes"
+    POD_savagery_of_the_taloned_hunter_interaction_desc: "Dépensez une rage et de la volonté pour gagner deux rage."
+
+    POD_burden_of_knowledge_interaction: "Fardeau de la connaissance"
+    POD_burden_of_knowledge_interaction_desc: "Faire le [recipient.GetFirstName] gain [GetModifier('murderous_frenzy_modifier').GetNameWithTooltip], [GetModifier('change_for_better_modifier').GetNameWithTooltip] ou suicide"
+
+    POD_essential_transformation_interaction: "Transformation essentielle"
+    POD_essential_transformation_interaction_desc: "Augmentez les blessures pour gagner la Gnose."
+
+    POD_unleash_storm_of_mothers_wrath_interaction: "Déchaînez la tempête de colère maternelle"
+    POD_unleash_storm_of_mothers_wrath_interaction_desc: "Déchaîner une tempête de colère maternelle qui fera des ravages dans une zone."
+    POD_unleash_storm_of_mothers_wrath_interaction.tt: "Vous déclencherez une tempête de colère maternelle sur le royaume [recipient.GetFirstNamePossessive]."
+    POD_unleash_storm_of_mothers_wrath_interaction.duel.success: "Vous avez réussi à provoquer la tempête"
+    POD_unleash_storm_of_mothers_wrath_interaction.duel.tt.attacker_wins: "Le royaume [recipient.GetFirstNamePossessive] est submergé par une tempête de colère maternelle qui fait des ravages partout où il passe."
+    POD_unleash_storm_of_mothers_wrath_interaction.duel.failure: "Vous ne parvenez pas à provoquer la tempête"
+    POD_unleash_storm_of_mothers_wrath_interaction.duel.tt.attacker_lost: "Vous échouez"
+    POD_unleash_storm_of_mothers_wrath_interaction_actor_toast: "Vous avez réussi à déclencher une tempête de colère maternelle sur le royaume [recipient.GetFirstNamePossessive]."
+    POD_unleash_storm_of_mothers_wrath_interaction_recipient_toast: "Une tempête de colère maternelle a été déclenchée sur votre capitale par [actor.GetFirstName]"
+    POD_unleash_storm_of_mothers_wrath_interaction_failed_toast: "Vous ne pouviez pas déclencher une tempête de colère maternelle sur le royaume [recipient.GetFirstNamePossessive]."
+    storm_of_mothers_wrath_modifier: "Endommagé par une tempête de colère maternelle"
+    storm_of_mothers_wrath_modifier_desc: "Cette zone est endommagée par une terrible tempête de grêle sombre, qui se lève même par temps clair."
+
+    POD_break_the_bonds_interaction: "Rompre les liens"
+    POD_break_the_bonds_interaction_desc: "Utilisez la gnose pour que [recipient.GetFirstName] dépense un crochet que [recipient.GetSheHe] a sur vous."
+
+    POD_shared_strength_interaction: "Partager la force"
+    POD_shared_strength_interaction_desc: "Transférez votre compétence au [recipient.GetFirstName]."
+    shared_strength_diplomacy_gain_modifier: "Force partagée : gain de diplomatie"
+    shared_strength_diplomacy_loss_modifier: "Force partagée : perte de diplomatie"
+    shared_strength_martial_gain_modifier: "Force partagée : gain martial"
+    shared_strength_martial_loss_modifier: "Force partagée : perte martiale"
+    shared_strength_stewardship_gain_modifier: "Force partagée : gain d’intendance"
+    shared_strength_stewardship_loss_modifier: "Force partagée : perte d’intendance"
+    shared_strength_intrigue_gain_modifier: "Force partagée : gain d'intrigue"
+    shared_strength_intrigue_loss_modifier: "Force partagée : perte d’intrigue"
+    shared_strength_learning_gain_modifier: "Force partagée : gain d’apprentissage"
+    shared_strength_learning_loss_modifier: "Force partagée : perte d’apprentissage"
+    shared_strength_prowess_gain_modifier: "Force partagée : gain de prouesse"
+    shared_strength_prowess_loss_modifier: "Force partagée : perte de prouesse"
+
+    POD_storyteller_interaction: "Raconter des histoires"
+    POD_storyteller_interaction_desc: "Utilisez la gnose pour avoir une chance qu'un événement aléatoire se produise."
+    POD_storyteller_interaction.tt: "25 % de chances qu'un événement aléatoire se produise."
+
+    POD_tagalong_interaction: "Suivre"
+    POD_tagalong_interaction_desc: "Obtenez les bénédictions du totem du [recipient.GetFirstName]."
+
+    POD_beg_interaction: "Mendier"
+    POD_beg_interaction_desc: "Mendiez [recipient.GetFirstName] pour quelques restes."
+
+    POD_riot_interaction: "Provoquer une émeute"
+    POD_riot_interaction_desc: "Invoque une horde d'esprits malveillants pour provoquer de violentes émeutes parmi les habitants du comté de la capitale [recipient.GetFirstNamePossessive]."
+
+    POD_moon_bridge_interaction: "Pont de la Lune"
+    POD_moon_bridge_interaction_desc: "Parcourez le chemin de la lune à travers les brumes de l'Umbra, vous permettant de vous téléporter dans le caern de l'emplacement [recipient.GetFirstNamePossessive]."
+
+    POD_dumpster_diving_interaction: "Plongée dans les déchets"
+    POD_dumpster_diving_interaction_desc: "Aventurez-vous d’un sanctuaire du Grand Tas d’ordures à un autre, vous permettant de vous téléporter à l’emplacement [recipient.GetFirstNamePossessive]."
+
+    POD_airitechs_daughters_interaction: "Transformez-vous en loup-garou Crinos"
+    POD_airitechs_daughters_interaction_desc: "Forcer le visage d'un loup-garou Crinos sur [recipient.GetFirstName]."
+
+    POD_home_in_all_lands_perk_interaction: "Apparaître"
+    POD_home_in_all_lands_perk_interaction_desc: "Faites un pas de côté et apparaissez à l'emplacement [recipient.GetFirstNamePossessive] où les loups pourraient être trouvés naturellement."
+
+    POD_shadow_pack_interaction: "Invocation de duplicata ténébreux"
+    POD_shadow_brethren_interaction: "Invocation de duplicata ténébreux"
+    POD_shadow_pack_interaction_desc: "Invoque des doubles sombres de vous-même."
+    POD_shadow_pack_interaction.tt: "Vous essaierez d’invoquer des doubles obscurs de vous-même."
+    POD_werewolves_interactions.11.t: "Invoque des doublons ténébreux"
+    POD_werewolves_interactions.11.desc: "Grâce à votre maîtrise du Don de l'esprit nocturne, vous pouvez essayer d'invoquer des doubles sombres de vous-même pour le combat."
+    POD_werewolves_interactions.11.option.a: "Je t'invoque !"
+    POD_werewolves_interactions.11.option.a.tt: "Vous essaierez d'invoquer des doublons obscurs"
+    POD_werewolves_interactions.11.option.a.desc: "Une lutte avec votre volonté"
+    POD_werewolves_interactions.11.option.a.tt.success: "Votre double fantôme a été invoqué avec succès"
+    POD_werewolves_interactions.11.option.a.tt.failure: "Vous ne parvenez pas à invoquer votre double fantôme"
+    POD_werewolves_interactions.11.option.b: "Ce n'est pas le bon moment"
+    POD_werewolves_interactions.11.option.b.tt: "Vous abandonnerez votre idée d'invoquer des doublons obscurs"
+    POD_werewolves_interactions.12.t: "Invocation Shadowy Duplicate II"
+    POD_werewolves_interactions.12.desc: "Grâce à votre maîtrise du Don de l'esprit nocturne, vous avez réussi à invoquer des doubles sombres de vous-même. Il est maintenant temps de donner des ordres."
+    POD_werewolves_interactions.12.option.a: "Défends-moi au combat"
+    POD_werewolves_interactions.12.option.a.tt: "Votre double fantôme est invoqué avec succès."
+    POD_werewolves_interactions.13.t: "Invocation Shadowy Duplicate II"
+    POD_werewolves_interactions.13.desc: "Même votre maîtrise du Don de l'esprit nocturne ne suffit pas à invoquer votre double fantôme... pour l'instant."
+    POD_werewolves_interactions.13.option.a: "je ne suis pas encore prêt"
+    POD_werewolves_interactions.13.option.a.tt: "Vous n'avez pas réussi à invoquer votre double fantôme"
+    POD_werewolves_interactions.14.t: "Fondu de doublon ombragé"
+    POD_werewolves_interactions.14.desc: "Votre double fantôme a subi un incident et s'est évanoui."
+    POD_werewolves_interactions.14.option.a: "Mon double fantôme est détruit"
+    POD_werewolves_interactions.14.option.a.tt: "Votre double fantôme n'est plus"
+    POD_werewolves_interactions.15.t: "Baptême du feu"
+    POD_werewolves_interactions.15.desc: "La plupart des tribus tentent de retrouver tous les enfants nés de leurs parents dans le mois suivant la naissance des enfants pour voir s'ils « partagent le sang ». Ceux qui sont Garou sont « baptisés » à la lumière de leur lune auspice, près d'un feu rituel. Un tel baptême consiste le plus souvent à mélanger des cendres avec quelques gouttes de sang Garou ; le mélange est ensuite appliqué sur les oreilles, le nez, les paupières et la langue de l'enfant."
+    POD_werewolves_interactions.15.option.a: "Mon enfant partage-t-il le sang ?"
+    POD_werewolves_interactions.15.a.sucess: "Baptisé"
+    POD_werewolves_interactions.15.a.sucess.tt: "Votre enfant sera un loup-garou une fois adulte."
+    POD_werewolves_interactions.15.a.failure: "Baptisé"
+    POD_werewolves_interactions.15.a.failure.tt: "Votre enfant ne sera plus un loup-garou une fois adulte."
+    POD_werewolves_interactions.15.option.b: "je n'ai pas le temps"
+    POD_werewolves_interactions.16.t: "Renonciation aux auspices"
+    POD_werewolves_interactions.16.desc: "Dans ce rite rare, un loup-garou rejette les auspices sous lesquels il est né et en choisit un nouveau. Vous souhaitez adopter..."
+
+    POD_renew_the_cycle_interaction: "Renouveler le cycle"
+    POD_renew_the_cycle_interaction_desc: "Réduisez [recipient.GetFirstName] à son état naturel (se transformez en poussière ou perdez simplement son animation)."
+
+    POD_thought_form_of_the_twelve_ministers_interaction: "Atteindre le véritable équilibre spirituel"
+    POD_thought_form_of_the_twelve_ministers_interaction_desc: "Par un mantra parlé, vous atteignez le véritable équilibre spirituel pendant un seul instant."
+
+    POD_dagger_of_the_mind_interaction: "Émotion de graine"
+
+    POD_deny_the_hungry_perk_interaction: "Nier les affamés"
+    POD_deny_the_hungry_perk_interaction_desc: "Le comté cible gagne [GetModifier( 'deny_the_hungry_perk_modifier' ).GetNameWithTooltip|L]."
+    deny_the_hungry_perk_modifier: "Nier les affamés"
+
+    POD_madness_perk_interaction: "Folie"
+    POD_kitsune_madness_perk_interaction: "Folie"
+    POD_madness_perk_interaction_desc: "Utilisez ce pouvoir pour donner à [recipient.GetFirstName] un trait mental négatif."
+    POD_madness_perk_interaction_options_heading: "Quel trait dois-je donner ?"
+
+    POD_absorb_disease_interaction: "Absorber la maladie"
+    POD_absorb_disease_interaction_desc: "Absorbe une maladie du [recipient.GetFirstName] pour une utilisation ultérieure."
+
+    POD_release_disease_interaction: "Libérer la maladie"
+    POD_release_disease_interaction_desc: "Libérez une maladie possédée devant le tribunal [recipient.GetFirstNamePossessive]."
+    POD_release_disease_interaction_options_heading: "Quelle maladie dois-je libérer ?"
+
+    POD_ojas_surge_perk_interaction: "Surge d'Ojas"
+    POD_ojas_surge_perk_interaction_desc: "Améliore temporairement un attribut."
+    POD_ojas_surge_perk_interaction_options_heading: "Quel attribut dois-je améliorer ?"
+
+    POD_earth_heal_interaction: "Guérison de la Terre"
+    POD_earth_heal_interaction_desc: "Utilisez votre gnose pour soigner la souillure du wyrm à l'emplacement [recipient.GetFirstNamePossessive]."
+
+    POD_rallying_challenge_perk_interaction: "Défi de rallye"
+    POD_rallying_challenge_perk_interaction_desc: "Améliore temporairement un attribut."
+    POD_rallying_challenge_perk_interaction_options_heading: "Quel attribut dois-je améliorer ?"
+
+    POD_ghost_caress_perk_interaction: "Caresse fantôme"
+    POD_ghost_caress_perk_interaction_desc: "Causer du mal de loin à [recipient.GetFirstName]."
+
+    POD_mothers_blessing_curse_perk_interaction: "Bénédiction/Malédiction de la Mère"
+    POD_mothers_blessing_curse_perk_interaction_desc: "Donnez [GetModifier( 'mothers_blessing_perk_modifier' ).GetNameWithTooltip|L] ou [GetModifier( 'mothers_curse_perk_modifier' ).GetNameWithTooltip|L] à [recipient.GetFirstName]."
+    mothers_blessing_perk_modifier: "La bénédiction de la mère"
+    mothers_curse_perk_modifier: "La malédiction de la mère"
+
+    POD_sorcerers_blade_perk_interaction: "Lame du sorcier"
+    POD_sorcerers_blade_perk_interaction_desc: "Utilisez la gnose pour augmenter les prouesses de l’artefact d’arme ciblé."
+
+    POD_the_madness_of_crowds_interaction: "La folie des foules"
+    POD_the_madness_of_crowds_interaction_desc: "Attisez le côté sauvage de tous ceux qui se trouvent à proximité pour faire des enchères [recipient.GetFirstName]."
+
+    POD_train_gift_interaction: "Cadeau de train"
+    POD_train_gift_interaction_desc: "Enseigne à [recipient.GetFirstName] un de tes Dons"
+
+    POD_create_ananata_interaction: "Créer Ananata"
+    POD_create_ananata_interaction_desc: "Utilisez un rituel pour créer votre propre Ananata."
+    POD_create_ananata_interaction_options_heading: "Quelle quantité de ressources souhaitez-vous consacrer au rituel ?"
+
+    POD_bears_bounty_interaction: "La prime de l'ours"
+    POD_bears_bounty_interaction_desc: "Plaidez directement auprès de votre totem, gagnant ainsi une partie de sa puissance."
+
+    POD_long_strike_interaction: "Longue frappe"
+    POD_long_strike_interaction_desc: "Frappez à distance."
+
+    POD_belly_ride_interaction: "Tour du ventre"
+    POD_belly_ride_interaction_desc: "Vous essayez d'entrer dans l'estomac [recipient.GetFirstNamePossessive] en vous tortillant dans la gorge [recipient.GetHerHis]."
+    POD_belly_ride_interaction.crit_success: "Succès critique : À l’envers, explosion du ventre !"
+    POD_belly_ride_interaction.success: "Succès : À l’envers !"
+    POD_belly_ride_interaction.failure: "Échec : vous êtes vomi. Ça pique."
+    POD_belly_ride_interaction.crit_failure: "Échec critique : vous êtes mangé. Mauvaise fin."
+
+    POD_dance_of_shiva_interaction: "Danse de Shiva"
+    POD_dance_of_shiva_interaction_desc: "Brûlez une région entière et toute sa population."
+
+    POD_storm_winds_slash_interaction: "Coup de vent de tempête"
+    POD_storm_winds_slash_interaction_desc: "Utilisez votre katana pour blesser [recipient.GetFirstName] à distance."
+
+    POD_unleash_divine_wind_interaction: "Libérez le vent divin"
+    POD_unleash_divine_wind_interaction_desc: "Libérer un vent divin qui fera des ravages dans une zone."
+    POD_unleash_divine_wind_interaction.tt: "Vous libérerez un vent divin sur le royaume [recipient.GetFirstNamePossessive]"
+    POD_unleash_divine_wind_interaction.duel.success: "Vous avez réussi à provoquer la tempête"
+    POD_unleash_divine_wind_interaction.duel.tt.attacker_wins: "Le royaume [recipient.GetFirstNamePossessive] est submergé par un vent divin qui fait des ravages partout où il passe."
+    POD_unleash_divine_wind_interaction.duel.failure: "Vous ne parvenez pas à provoquer la tempête"
+    POD_unleash_divine_wind_interaction.duel.tt.attacker_lost: "Vous échouez"
+    POD_unleash_divine_wind_interaction_actor_toast: "Vous avez réussi à libérer un vent divin sur le royaume [recipient.GetFirstNamePossessive]."
+    POD_unleash_divine_wind_interaction_recipient_toast: "Un vent divin a été libéré sur votre capitale par [actor.GetFirstName]"
+    POD_unleash_divine_wind_interaction_failed_toast: "Vous ne pouviez pas libérer un vent divin sur le royaume [recipient.GetFirstNamePossessive]"
+    divine_wind_modifier: "Endommagé par un vent divin"
+    divine_wind_modifier_desc: "Cette zone est endommagée par une puissante tempête, déracine des arbres et renverse des bateaux dans sa fureur."
+
+    POD_wither_limb_interaction: "Membre flétri"
+    POD_ratkin_wither_limb_interaction: "Membre flétri"
+    POD_wither_limb_interaction_desc: "Utilisez le pouvoir du Don pour mutiler [recipient.GetFirstName]."
+
+    POD_dance_of_abandon_interaction: "Danse de l'abandon"
+    POD_dance_of_abandon_interaction_desc: "Obligez [recipient.GetFirstName] à tout oublier sauf le besoin de célébrer."
+    POD_tricksters_skin_interaction: "Peau de filou"
+    POD_tricksters_skin_interaction_desc: "Copiez ou échangez l'apparence de [recipient.GetFirstName]."
+    POD_coyotes_mask_interaction: "Masque de Coyote"
+    POD_coyotes_mask_interaction_desc: "Utiliser votre Don comme bouclier contre la mort."
+    POD_umbral_target_interaction: "Cible ombrale"
+    POD_umbral_target_interaction_desc: "Jette littéralement [recipient.GetFirstName] dans l'Umbra et dans n'importe quel endroit de votre choix à l'intérieur."
+    POD_umbral_target_interaction_options_heading: "Permettez-moi d'ajuster mon objectif vers..."
+    POD_coyotes_howl_interaction: "Hurlement du coyote"
+    POD_coyotes_howl_interaction_desc: "Invoquez une petite partie du pouvoir destructeur de Coyote et libérez cette énergie sur les chevaliers [recipient.GetFirstNamePossessive]."
+
+    POD_ease_the_fevered_mind_interaction: "Apaiser l'esprit fiévreux"
+    POD_ease_the_fevered_mind_interaction_desc: "Guérissez [recipient.GetFirstName] du dérangement et de tout ce qui affecte l'esprit [recipient.GetHerHis]."
+    POD_ease_the_fevered_mind_interaction_options_heading: "Que dois-je faire appel à la gnose pour guérir ?"
+
+    POD_gaias_breath_interaction: "Le souffle de Gaïa"
+    POD_gaias_breath_interaction_desc: "Ramenez automatiquement une personne qui a récemment été tuée, au prix d'une gnose."
+
+    POD_possession_interaction: "Possession"
+    POD_possession_interaction_desc: "Possédez ce personnage, prenez le contrôle des actions [recipient.GetHerHis] et leur confèrez une partie de votre pouvoir. Les utilisations ultérieures approfondissent le niveau de contrôle et renforcent les pouvoirs que vous donnez à la cible."
+    POD_end_possession_interaction: "Mettre fin à la possession"
+    POD_end_possession_interaction_desc: "Quittez ce corps à la recherche d’un autre, ou d’une simple indépendance."
+    POD_marionette_interaction: "Marionnette"
+
+    POD_plague_bite_interaction: "Morsure de peste"
+    POD_plague_bite_interaction_desc: "Utilisez le pouvoir de Gift pour infecter [recipient.GetFirstName] avec une maladie."
+    POD_plague_bite_interaction_options_heading: "Quelle maladie dois-je faire appel à Gift pour l'infecter ?"
+
+    POD_moons_gateway_interaction: "La porte de la Lune"
+    POD_moons_gateway_interaction_desc: "En faisant appel à l'aide d'une Lune, vous ouvrez un pont lunaire entre Caerns ou Den-Realms, vous permettant de vous téléporter à l'emplacement [recipient.GetFirstNamePossessive]."
+
+    POD_unleash_wrath_of_nala_interaction: "Libérez la colère de Nala"
+    POD_unleash_wrath_of_nala_interaction_desc: "Déclencher une tempête qui fera des ravages dans une zone."
+    POD_unleash_wrath_of_nala_interaction.tt: "Vous déclencherez une tempête sur le royaume [recipient.GetFirstNamePossessive]"
+    POD_unleash_wrath_of_nala_interaction.duel.success: "Vous avez réussi à provoquer la tempête"
+    POD_unleash_wrath_of_nala_interaction.duel.tt.attacker_wins: "Le royaume [recipient.GetFirstNamePossessive] est submergé par une tempête qui fait des ravages partout où il passe."
+    POD_unleash_wrath_of_nala_interaction.duel.failure: "Vous ne parvenez pas à provoquer la tempête"
+    POD_unleash_wrath_of_nala_interaction.duel.tt.attacker_lost: "Vous échouez"
+    POD_unleash_wrath_of_nala_interaction_actor_toast: "Vous avez réussi à déclencher une tempête sur le royaume [recipient.GetFirstNamePossessive]."
+    POD_unleash_wrath_of_nala_interaction_recipient_toast: "Une tempête s'est déclenchée sur votre capitale par [actor.GetFirstName]"
+    POD_unleash_wrath_of_nala_interaction_failed_toast: "Vous ne pouviez pas déclencher une tempête sur le royaume [recipient.GetFirstNamePossessive]"
+    wrath_of_nala_modifier: "Endommagé par une tempête"
+    wrath_of_nala_modifier_desc: "Cette zone est endommagée par une tempête."
+
+    POD_dragons_milk_interaction: "Lait de dragon"
+    POD_dragons_milk_interaction_desc: "Guérissez les blessures du [recipient.GetFirstName], simplement en posant les mains sur la zone touchée."
+    POD_dragons_milk_interaction_options_heading: "Que dois-je faire appel à la gnose pour guérir ?"
+    POD_a_thousand_secret_faces_interaction: "Mille visages secrets"
+    POD_a_thousand_secret_faces_interaction_desc: "Copiez l'apparence du [recipient.GetFirstName]."
+
+    POD_unseas_blessing_interaction: "La bénédiction d'Unsea"
+    POD_unseas_blessing_interaction_desc: "Touchez l'Unsea, le fond marin, pour panser vos blessures."
+    POD_channel_rage_interaction: "Canaliser la rage"
+    POD_channel_rage_interaction_desc: "Canalisez votre rage non seulement vers la vitesse, mais également vers l'endurance et la puissance."
+    POD_channel_rage_interaction_options_heading: "Combien de Rage voulez-vous dépenser ?"
+
+    POD_gift_of_eyes_interaction: "Don des yeux"
+    POD_gift_of_eyes_interaction_desc: "Avec Gift of Eyes, vous pouvez transmettre une vision des yeux des tués (en les mangeant) à n'importe quel non-Corax."
+    POD_gift_of_eyes_interaction_options_heading: "Quels yeux morts dois-je manger ?"
+    POD_plague_feather_interaction: "Plume de peste"
+    POD_plague_feather_interaction_desc: "Utilisez le pouvoir de ce Don pour infecter [recipient.GetFirstName] avec une maladie."
+    POD_plague_feather_interaction_options_heading: "Quelle maladie dois-je faire appel à ce Don pour infecter ?"
+
+    POD_freyjas_blessing_interaction: "La bénédiction de Freyja"
+    POD_freyjas_blessing_interaction_desc: "Invoque un esprit de fertilité en vous. En posant vos mains sur le ventre du [recipient.GetFirstNamePossessive], vous pouvez passer l'esprit dans le [recipient.GetFirstName]."
+    POD_withering_stare_interaction: "Regard flétri"
+    POD_withering_stare_interaction_desc: "Fixe les yeux de la cible et inflige des dégâts au [recipient.GetFirstName]."
+
+    POD_rat_mothers_touch_interaction: "Le contact de la mère des rats"
+    POD_rat_mothers_touch_interaction_desc: "Guérissez les blessures du [recipient.GetFirstName]."
+    POD_rat_mothers_touch_interaction_options_heading: "Que dois-je faire appel à la gnose pour guérir ?"
+    POD_whelp_body_interaction: "Corps de dragonnet"
+    POD_whelp_body_interaction_desc: "Lancez une malédiction dévastatrice sur le corps du [recipient.GetFirstNamePossessive], le rendant affaibli ou paralysé."
+
+    POD_hathors_blessing_interaction: "La bénédiction d'Hathor"
+    POD_hathors_blessing_interaction_desc: "L'Apis bénit [recipient.GetFirstName] au niveau du front, du sternum et juste en dessous du nombril."
+    POD_mercy_for_the_misbegotten_interaction: "Miséricorde pour les mal engendrés"
+    POD_mercy_for_the_misbegotten_interaction_desc: "Accorde la fertilité à ceux qui sont normalement incapables de donner naissance à une progéniture."
+
+    POD_reading_the_dark_heart_interaction: "Lire le cœur noir"
+    POD_reading_the_dark_heart_interaction_desc: "Utilisez votre don pour découvrir tous les secrets et schémas de [recipient.GetFirstName]."
+
+    POD_hunt_engling_interaction: "Chasse à l'Angleterre"
+    POD_hunt_engling_interaction_desc: "Invoquez et chassez Engling pour obtenir la Gnose."
+    POD_discarded_dreams_interaction: "Rêves abandonnés"
+    POD_discarded_dreams_no_dlc_interaction: "Rêves abandonnés"
+    POD_geas_interaction: "Geas"
+    POD_geas_interaction_desc: "Punissez [recipient.GetFirstName] en forçant [recipient.GetHerHim] à entreprendre une quête."
+
+    POD_death_ray_interaction: "Rayon de la mort"
+    POD_death_ray_interaction_desc: "Déchargez l'énergie du bout des doigts."
+
+    POD_catgut_interaction: "Catgut"
+    POD_catgut_interaction_desc: "En traitant soigneusement la peau ou les organes internes du [recipient.GetFirstName], vous pouvez tisser un écheveau très résistant. Avec un peu de travail, cela peut être transformé en une armure ajustée."
+    POD_epidemic_contagion_interaction: "Contagion épidémique"
+    POD_epidemic_contagion_interaction_desc: "Déchaînez un terrible fléau magique sur le monde."
+
+    POD_sanctify_interaction: "Sanctifier"
+    POD_sanctify_interaction_desc: "Dépensez une rage et murmurez le plus grand crome que vous avez l'intention de confier à la lame. Vous pouvez ensuite exécuter le Rite du Poignard de la Douleur dessus pour invoquer un esprit de la Douleur et le lier à l'intérieur."
+    POD_all_hell_interaction: "Tout l'enfer"
+    POD_all_hell_interaction_desc: "En invoquant un essaim d’esprits sauvages et d’esprits de rat, vous pouvez invoquer un véritable pandémonium."
+
+    POD_diagnose_interaction: "Diagnostiquer"
+    POD_diagnose_interaction_desc: "Utilisez le pouvoir du Don pour guérir la maladie [recipient.GetFirstNamePossessive]."
+    POD_diagnose_interaction_options_heading: "Quelle maladie dois-je faire appel à la Gnose pour guérir ?"
+    POD_restore_sanity_interaction: "Restaurer la santé mentale"
+    POD_restore_sanity_interaction_desc: "Guérissez [recipient.GetFirstName] du dérangement et de tout ce qui affecte l'esprit [recipient.GetHerHis]."
+    POD_restore_sanity_interaction_options_heading: "Que dois-je faire appel à la Gnose pour guérir ?"
+    POD_image_of_the_sky_bear_interaction: "Image de l'ours du ciel"
+    POD_image_of_the_sky_bear_interaction_desc: "Utilisez le pouvoir du Don pour guérir les blessures [recipient.GetFirstNamePossessive]."
+    POD_image_of_the_sky_bear_interaction_options_heading: "Que dois-je faire appel à la Gnose pour guérir ?"
+
+    POD_oath_of_the_great_bear_interaction: "Serment de la Grande Ourse"
+    POD_oath_of_the_great_bear_interaction_desc: "Faites un serment qui, selon [recipient.GetFirstName], est contraignant."
+    POD_bestow_ursas_blessing_interaction: "Accordez la bénédiction d'Ursa"
+    POD_bestow_ursas_blessing_interaction_desc: "Appelez la faveur de la Grande Ourse sur [recipient.GetFirstName], accordant à [recipient.GetFirstName] un bonus tangible ou un morceau de bonne fortune."
+    POD_bestow_ursas_blessing_interaction_options_heading: "Quel bonus dois-je appeler ?"
+    POD_words_of_doom_interaction: "Mots de malheur"
+    POD_words_of_doom_interaction_desc: "Malédiction [recipient.GetFirstName], les punissant pour un méfait grossier."
+    POD_words_of_doom_interaction_options_heading: "Quelle malédiction dois-je donner ?"
+
+    POD_kind_death_interaction: "Activer/Désactiver la mort en nature"
+    POD_kind_death_interaction_desc: "Activez ou désactivez le pouvoir Kind Death."
+    POD_assassins_insistence_interaction: "L'insistance de l'assassin"
+    POD_assassins_insistence_interaction_desc: "Utilisez le pouvoir du Don pour guérir les blessures [recipient.GetFirstNamePossessive]."
+    POD_denial_of_wellbeing_interaction: "Déni de bien-être"
+    POD_denial_of_wellbeing_interaction_desc: "Donnez un modificateur qui rend [recipient.GetFirstName] incapable de guérir [recipient.GetHerHis] blessure."
+    POD_hydra_warrior_interaction: "Guerrier Hydra"
+    POD_hydra_warrior_interaction_desc: "Combinez la puissance du $POD_player_coterie$."
+
+    POD_heartstrings_interaction: "Cordes sensibles"
+    POD_summon_the_accused_interaction: "Convoquer l'accusé"
+    POD_summon_the_accused_interaction_desc: "Par la force du Don, convoquez [recipient.GetFirstName] à votre cour."
+
+    POD_blessing_the_blade_interaction: "Bénédiction de la lame"
+    POD_blessing_the_blade_interaction_desc: "Améliorez le modificateur d'artefact ou donnez-lui un nouveau modificateur."
+
+    POD_mothers_touch_interaction: "Le contact de la mère"
+    POD_mothers_touch_interaction_desc: "Guérissez les blessures du [recipient.GetFirstName]."
+    POD_mothers_touch_interaction_options_heading: "Que dois-je faire appel à la gnose pour guérir ?"
+    POD_jointsnakes_mojo_interaction: "Mojo de Jointsnake"
+    POD_jointsnakes_mojo_interaction_desc: "Guérissez les mutilations du [recipient.GetFirstName]."
+    POD_jointsnakes_mojo_interaction_options_heading: "Que dois-je faire appel à la gnose pour guérir ?"
+    POD_fossilize_interaction: "Fossiliser"
+    POD_fossilize_interaction_desc: "Vous pointez un os vers [recipient.GetFirstName]."
+
+    POD_sun_bridge_interaction: "Pont du Soleil"
+    POD_sun_bridge_interaction_desc: "Parcourez le chemin du soleil à travers les brumes de l'Umbra, vous permettant de vous téléporter dans la caern de l'emplacement [recipient.GetFirstNamePossessive]."
+    POD_take_the_true_form_interaction: "Prenez la vraie forme"
+    POD_take_the_true_form_interaction_desc: "Revenir [recipient.GetFirstName] sous forme de race."
+    POD_recapitulate_interaction: "Récapituler"
+    POD_recapitulate_interaction_desc: "Vous criez le nom du [recipient.GetFirstNamePossessive] et certains Mots hors du temps. L'ennemi se transforme à travers une étape de son existence en un mammifère primitif ressemblant à un rat."
+    POD_gorgons_gaze_interaction: "Le regard de la Gorgone"
+    POD_gorgons_gaze_interaction_desc: "Transformez [recipient.GetFirstName] en pierre d'un simple regard."
+    POD_stop_continental_drift_interaction: "Stopper la dérive des continents"
+    POD_stop_continental_drift_interaction_desc: "Invoque les esprits des continents alors qu'ils flottent sur le visage de Gaia et à travers les millénaires. Vous pouvez agir comme si la dérive des continents n’existait pas, en voyageant comme le faisaient les rois."
+    POD_dream_semblance_interaction: "Semblance de rêve"
+    POD_dream_semblance_interaction_desc: "Vous devenez un vrai dragon. Une fois l’affrontement terminé, le rêve s’en va."
+
+    POD_store_gnosis_interaction: "Gnose du magasin"
+    POD_store_gnosis_interaction_desc: "Stockez Gnosis dans votre vaisseau Gnosis."
+    POD_store_gnosis_interaction_options_heading: "Combien souhaitez-vous stocker ?"
+    POD_extract_gnosis_interaction: "Extraire la gnose stockée"
+    POD_extract_gnosis_interaction_desc: "Extrayez la Gnosis stockée du vaisseau Gnosis pour vous ravitailler."
+    POD_extract_gnosis_interaction_options_heading: "Combien voulez-vous extraire ?"
+    POD_extract_gnosis: "Dépenser $VALUE|0V$ Gnose stockée"
+    POD_extracted_gnosis: "Dépensé $VALUE|0V$ Gnose stockée"
+    POD_you_extract_gnosis: "Vous dépensez $VALUE|0V$ Gnose stockée"
+    POD_you_extracted_gnosis: "Vous avez dépensé $VALUE|0V$ Gnose stockée"
+    POD_they_extract_gnosis: "[CHARACTER.GetShortUIName] dépense $VALUE|0V$ Gnose stockée"
+    POD_they_extracted_gnosis: "[CHARACTER.GetShortUIName] dépensé $VALUE|0V$ Gnose stockée"
+    POD_store_gnosis: "Le magasin $VALUE|0V$ a obtenu la Gnose"
+    POD_stored_gnosis: "Stocké $VALUE|0V$ a gagné la Gnose"
+    POD_you_store_gnosis: "Vous stockez $VALUE|0V$ Gnose gagnée"
+    POD_you_stored_gnosis: "Vous avez stocké $VALUE|0V$ et avez gagné la Gnose"
+    POD_they_store_gnosis: "[CHARACTER.GetShortUIName] magasin $VALUE|0V$ a obtenu la Gnose"
+    POD_they_stored_gnosis: "[CHARACTER.GetShortUIName] stocké $VALUE|0V$ gagné Gnose"
+    gnosis_vessel_damaged: "Vaisseau de Gnose endommagé"
+
+    POD_cause_sea_accident_interaction: "Provoquer un accident de mer"
+    POD_cause_sea_accident_interaction_desc: "Couler un navire contenant [recipient.GetFirstName], faisant couler [recipient.GetHerHim]."
+    POD_common_foe_interaction: "Ennemi commun"
+    POD_common_foe_interaction_desc: "Appelez [recipient.GetFirstName] en service contre les créatures corrompues du Wyrm."
+    POD_swim_underseas_bloodstream_interaction: "Nager dans le sang sous-marin"
+    POD_swim_underseas_bloodstream_interaction_desc: "Entrez dans la circulation sanguine sous-marine (la série de tunnels mystiques qui relient les grottes) dans n'importe quelle grotte et émergez dans une autre presque partout ailleurs dans le monde."
+
+    POD_wound_undersea_interaction: "Blessure sous-marine"
+    POD_wound_undersea_interaction_desc: "Déclencher un séisme qui fera des ravages dans une zone côtière."
+    POD_wound_undersea_interaction.tt: "Vous déclencherez un séisme sur la côte du royaume [recipient.GetFirstNamePossessive]."
+    POD_wound_undersea_interaction.duel.success: "Vous avez réussi à provoquer le séisme"
+    POD_wound_undersea_interaction.duel.tt.attacker_wins: "La côte du royaume [recipient.GetFirstNamePossessive] est submergée par un séisme qui fait des ravages partout où il passe."
+    POD_wound_undersea_interaction.duel.failure: "Vous ne parvenez pas à provoquer le séisme"
+    POD_wound_undersea_interaction.duel.tt.attacker_lost: "Vous échouez"
+    POD_wound_undersea_interaction_actor_toast: "Vous avez réussi à déclencher un séisme sur la côte [recipient.GetFirstNamePossessive]."
+    POD_wound_undersea_interaction_recipient_toast: "Un séisme a été déclenché sur la côte de votre royaume par [actor.GetFirstName]"
+    POD_wound_undersea_interaction_failed_toast: "Vous ne pouviez pas déclencher un séisme sur la côte [recipient.GetFirstNamePossessive]"
+    wound_undersea_modifier: "Endommagé par un séisme"
+    wound_undersea_modifier_desc: "Cette zone a été endommagée par un séisme."

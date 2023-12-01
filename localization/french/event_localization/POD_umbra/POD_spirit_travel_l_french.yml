@@ -1,181 +1,189 @@
 ﻿l_french:
- spirit_travel_header: "Atteindre :" #NT!
-  
-  # Pass 
-  
- POD_umbra_pass.101.t: "Ouvrir un Nihil" #NT!
- POD_umbra_pass.101.desc: "Une membrane existe entre le [shadowlands|E] et le [tempest|E], on ne peut pas entrer dans le [tempest|E] sans ouvrir un Nihil" #NT!
- POD_umbra_pass.101.a: "Je ferai un sacrifice pour l'ouvrir." #NT!
- POD_umbra_pass.101.b: "Pas grave." #NT!
-  
- POD_umbra_pass.102.t: "Passez le Temple Obscura" #NT!
- POD_umbra_pass.102.desc: "Le Temple Obscura est un emplacement du [malfeas|E] à l'entrée du [black_spiral_labyrinth|E]. C'est un mélange colossal de mosquée et de cathédrale, de minarets orientaux et de cannelures occidentales." #NT!
- POD_umbra_pass.102.a: "Je vais demander à passer." #NT!
- POD_umbra_pass.102.a.tt: "Cette option est disponible car vous servez le Wyrm." #NT!
- POD_umbra_pass.102.b: "Je veux me faufiler" #NT!
- POD_umbra_pass.102.b.duel.tt.success: "C'était solide." #NT!
- POD_umbra_pass.102.b.duel.tt.failure: "None" #NT!
- POD_umbra_pass.102.c: "Je ferais mieux de ne pas entrer ici." #NT!
-  
- POD_umbra_pass.103.t: "Arrêtez de traîner" #NT!
- POD_umbra_pass.103.desc: "Vous n'êtes pas du tout lié au monde vivant et pouvez faire un aller simple vers le [underworld|E] quand vous le souhaitez. La seule raison pour laquelle vous êtes toujours là, c'est parce que vous voulez être ici, pas parce que vous devez aimer la plupart des fantômes. Êtes-vous sûr de vouloir faire ce voyage maintenant ?" #NT!
- POD_umbra_pass.103.a: "Il est temps de franchir le [tempest|E]." #NT!
- POD_umbra_pass.103.b: "J'ai encore des choses à faire." #NT!
-  
- POD_umbra_pass.104.t: "Traverser le Linceul" #NT!
- POD_umbra_pass.104.desc: "Etes-vous sûr de pouvoir vous projeter à travers le Linceul à la même vitesse qu'un projectile ? Cela nuira à votre [Corpus|E] (au même niveau que le Linceul local)." #NT!
- POD_umbra_pass.104.a: "Oui!" #NT!
- POD_umbra_pass.104.b: "Non." #NT!
-  
- POD_umbra_pass.105.t: "Arrêt!" #NT!
- POD_umbra_pass.105.desc: "Vous êtes arrêté par des gardes, ils ne vous reconnaissent pas comme faisant partie du royaume fantomatique de Stygia, comment allez-vous procéder ?" #NT!
- POD_umbra_pass.105.a: "Je suis venu ici pour rejoindre la légion." #NT!
- POD_umbra_pass.105.b: "Je veux faire partie de la guilde." #NT!
- POD_umbra_pass.105.c: "Je suis déjà l'un des vôtres !" #NT!
- POD_umbra_pass.105.d: "Je vais juste me retourner." #NT!
-  
- POD_umbra_pass.106.t: "Arrêt!" #NT!
- POD_umbra_pass.106.desc: "Vous êtes arrêté par des gardes, ils ne vous reconnaissent pas comme faisant partie du Far Shore, comment allez-vous procéder ?" #NT!
- POD_umbra_pass.106.a: "Je suis venu ici pour louer les Brillants." #NT!
- POD_umbra_pass.106.b: "Je suis déjà l'un des vôtres !" #NT!
- POD_umbra_pass.106.c: "Je vais juste me retourner." #NT!
-  
- POD_umbra_pass.107.t: "Arrêt!" #NT!
- POD_umbra_pass.107.desc: "Dis est protégé par un labyrinthe d’épaves de navires, habité par des poches de Spectres réduits en esclavage par l’Étreinte de Nhudri pour tenir à distance les spectres curieux et hostiles. Les chemins à travers le labyrinthe changent constamment et il est presque impossible d'entrer dans Dis sans le consentement de la Société des Bateliers. Comment allez-vous procéder ?" #NT!
- POD_umbra_pass.107.a: "Je veux te prêter serment." #NT!
- POD_umbra_pass.107.b: "Je vais juste me retourner." #NT!
- POD_umbra_pass.107.a.duel.desc: "Rituel de séparation" #NT!
-  
- POD_umbra_pass.108.t: "Marchez vers le soleil" #NT!
- POD_umbra_pass.108.desc: "La zone de l'Umbra Profonde qui abrite Hélios n'est que chaleur et lumière blanche brillante. Toute surface dans le royaume d’Hélios est trop chaude pour rester debout ou rester à proximité trop longtemps. Seuls les esprits volants pénètrent dans cette zone de l'Umbra profonde, et les voyageurs incapables de voler brûlent dans le feu avant d'avoir la chance de réaliser leur erreur.\n\nÊtes-vous sûr de vouloir toucher le soleil lui-même ?" #NT!
- POD_umbra_pass.108.a: "Oh oui, je toucherai le soleil lui-même." #NT!
- POD_umbra_pass.108.b: "Hélios protégera mon âme." #NT!
- POD_umbra_pass.108.c: "Courir!" #NT!
-  
-  # Lost 
-  
- POD_umbra_lost.100.t: "#X Tomber dans l'oubli#!" #NT!
- POD_umbra_lost.100.desc: "#X Vous tombez dans l'oubli...#!" #NT!
- POD_umbra_lost.100.a: "#X ...#!" #NT!
-  
- POD_umbra_lost.101.t: "Perdu dans la tempête" #NT!
- POD_umbra_lost.101.desc: "Vous ne pouviez pas vous orienter dans la tempête toujours changeante, vous avez terminé au même endroit que votre point de départ." #NT!
- POD_umbra_lost.101.a: "Bien." #NT!
-  
- POD_umbra_lost.102.t: "Pris au piège dans le labyrinthe" #NT!
- POD_umbra_lost.102.desc: "Vous ne pouviez pas vous orienter dans le Labyrinthe absurde, vous avez terminé au même endroit que votre point de départ." #NT!
- POD_umbra_lost.102.a: "Je suis perdu." #NT!
- POD_umbra_lost.102.b: "Sauve-moi, Grand Serpent !" #NT!
-  
- POD_umbra_lost.104.t: "Pris au piège dans les abysses" #NT!
- POD_umbra_lost.104.desc_demon: "Vous tombez à nouveau dans la prison éternelle créée pour votre espèce après la rébellion de Lucifer. Il semblerait que Dieu ait encore le dernier mot." #NT!
- POD_umbra_lost.104.desc_infernalist: "Vous tombez dans la fosse et vous ne semblez pas pouvoir en sortir à moins de promettre de faire un sacrifice à un seigneur démon..." #NT!
- POD_umbra_lost.104.a: "Je vais m'échapper !" #NT!
- POD_umbra_lost.104.b: "Je sacrifierai un prisonnier." #NT!
- POD_umbra_lost.104.c: "Je ne fais pas d'accord avec les démons !" #NT!
- trapped_in_abyss_modifier: "Pris au piège dans les abysses" #NT!
-  
-  # Fallback 
-  
- POD_umbra_diplomacy.success: "Défi diplomatique : succès" #NT!
- POD_umbra_diplomacy.fail: "Défi diplomatique : échouer" #NT!
- POD_umbra_diplomacy.desc: "Vous êtes arrêté par quelqu'un qui habite dans cette zone, peut-être pourrez-vous le convaincre de vous montrer comment dépasser ce point ? Les habitants de l’Umbra sont notoirement difficiles à comprendre et encore plus difficiles à convaincre." #NT!
- POD_umbra_martial.success: "Défi martial : succès" #NT!
- POD_umbra_martial.fail: "Défi martial : échec" #NT!
- POD_umbra_martial.desc: "Vous êtes arrêté par une énigme sous forme de wargame. Il est temps de montrer à quel point vous êtes bon dans ce domaine. Jouer avec des pièces « d'action réelle » sous la forme d'esprits liés est cependant assez difficile à comprendre au début, ce qui en fait une expérience dérangeante et surréaliste." #NT!
- POD_umbra_stewardship.success: "Défi d’intendance : succès" #NT!
- POD_umbra_stewardship.fail: "Défi d’intendance : échec" #NT!
- POD_umbra_stewardship.desc: "Vous êtes arrêté par une énigme sous forme d'équation, êtes-vous bon en maths ? Vous devrez d’abord déchiffrer les nombres utilisés par les esprits filous, ce qui rend le problème encore plus difficile à résoudre." #NT!
- POD_umbra_intrigue.success: "Défi Intrigue : Succès" #NT!
- POD_umbra_intrigue.fail: "Défi d'intrigue : échec" #NT!
- POD_umbra_intrigue.desc: "Vous rencontrez un puissant gardien spirituel sur votre chemin, peut-être pourriez-vous le distraire avec une astuce ? Mais il vaut mieux le rendre convaincant, il n’a vraiment pas l’air amical." #NT!
- POD_umbra_learning.success: "Défi d'apprentissage : réussite" #NT!
- POD_umbra_learning.fail: "Défi d'apprentissage : échec" #NT!
- POD_umbra_learning.desc: "Vous êtes arrêté par une énigme, pouvez-vous la résoudre ? L'Umbra étant une version tordue du monde « réel », vous pouvez trouver des modèles et des indices qui ont au moins un minimum de sens pour vous." #NT!
-  
-  # Gauntlet 
-  
- POD_gauntlet.101.t: "Le gant" #NT!
- POD_gauntlet.101.desc: "Le Gantelet, également appelé Mur dans l'Empire du Milieu, est la barrière entourant la réalité matérielle, la séparant de l'Umbra.\n\nLe Gantelet ne peut jamais être abaissé en dessous de 1, et s'il est élevé à 10, les esprits du les environs doivent dépenser de la Volonté ou fuir la zone." #NT!
- POD_gauntlet.101.a: "Renforcer le gantelet." #NT!
- POD_gauntlet.101.b: "Affaiblir le gantelet." #NT!
- POD_gauntlet.101.c: "Abattez le gantelet !" #NT!
- POD_gauntlet.101.d: "Pas grave." #NT!
-  
- POD_gauntlet.102.t: "Le mur" #NT!
- POD_gauntlet.102.desc: "Les royaumes spirituels sont séparés de l’Empire du Milieu par une barrière mystique connue sous le nom de Mur. Il empêche le contact entre les mondes des mortels et des esprits. Il est plus fort dans certaines zones, plus faible dans d'autres, mais il n'est jamais totalement absent.\n\nLe Mur ne peut jamais être abaissé en dessous de 1, et s'il est élevé à 10, aucun être dans la zone ne peut utiliser de pouvoirs Chi d'aucune sorte. . Les esprits à proximité avec un indice de Mur de 10 doivent dépenser de la Volonté ou fuir la zone ; dans tous les cas, ils seront extrêmement mal à l’aise et incapables de dépenser leur Chi." #NT!
- POD_gauntlet.102.a: "Renforcer le mur." #NT!
- POD_gauntlet.102.b: "Affaiblir le mur." #NT!
- POD_gauntlet.102.c: "Abattre le mur!" #NT!
- POD_gauntlet.102.d: "Pas grave." #NT!
-  
- POD_shroud.101.t: "Le Linceul" #NT!
- POD_shroud.101.desc: "Le [underworld|E] est séparé du [skinlands|E] par une barrière mystique connue sous le nom de Linceul. Le Linceul rend le [shadowlands|E] imperceptible pour la plupart des créatures vivantes et obscurcit l'activité du [skinlands|E] pour les morts. Il est plus fort dans certaines zones et plus faible dans d'autres, mais il n'est jamais totalement absent.\n\nLe Linceul ne peut jamais être abaissé en dessous de 1, et s'il est élevé à 10, les esprits à proximité doivent dépenser de la Volonté ou fuir la zone." #NT!
- POD_shroud.101.a: "Renforcer le Linceul." #NT!
- POD_shroud.101.b: "Affaiblir le Linceul." #NT!
- POD_shroud.101.c: "Démolissez le Linceul !" #NT!
- POD_shroud.101.d: "Pas grave." #NT!
-  
-  # KJ only event 
-  
- POD_umbra_kj.1001.t: "Inspiration" #NT!
- POD_umbra_kj.1001.desc: "Les zones des mondes spirituels proches du Mur sont appelées les Terres Miroirs, ainsi nommées parce qu'elles apparaissent comme des reflets fantomatiques de l'Empire du Milieu voisin.\n\nRegarder cette vue extraordinaire vous inspire." #NT!
- POD_umbra_kj.1001.a: "C'est incroyable!" #NT!
-  
- POD_umbra_kj.1002.t: "Enseignement des Esprits" #NT!
- POD_umbra_kj.1002.desc_opening: "Vous êtes entré dans le Monde des Esprits, aussi profondément que possible, puis vous avez reçu des instructions d'un" #NT!
- POD_umbra_kj.1002.desc_high: "Wan Kuei, ancien et historique, un grand ancêtre" #NT!
- POD_umbra_kj.1002.desc_yin: "Roi Yama" #NT!
- POD_umbra_kj.1002.desc_yang: "esprit puissant" #NT!
- POD_umbra_kj.1002.desc_low: "esprit normal" #NT!
- POD_umbra_kj.1002.desc_ending: "qui partageait une certaine compréhension du dharma." #NT!
- POD_umbra_kj.1002.a: "Mon mentor spirituel." #NT!
-  
-  # Action event 
-  
- POD_umbra_action.1001.t: "Champ de bataille" #NT!
- POD_umbra_action.1001.desc: "Le champ de bataille est un royaume dédié à la violence et à la rage, et le chaos y règne alors que les armées se mélangent et que les soldats Qin finissent par se battre contre les légions romaines et que les croisés s'allient aux barbares vikings contre les troupes mayas. Tant qu'on n'entre pas dans l'un des conflits, le visiteur chemine sur une « piste » appropriée à la bataille dont il est témoin (un bateau pour une bataille navale, une voie romaine pour un conflit lors des guerres puniques etc.). Tant qu'ils ne quittent pas la piste, ils ne seront pas attaqués directement.\nC'est un excellent moyen d'apprendre des stratégies nouvelles (ou anciennes) qui pourraient être pertinentes pour votre époque d'une manière ou d'une autre." #NT!
-  
-  # Calm Spirit 
-  
- POD_umbra_local.101.t: "Esprit calme" #NT!
- POD_umbra_local.101.desc: "Vous essayez de faire valoir votre opinion auprès des esprits locaux afin qu'ils vous écoutent.\nVous pouvez essayer l'approche diplomatique ou être plus énergique. Les esprits ont tendance à être des créatures fantaisistes et se disputer avec eux peut prendre beaucoup de temps." #NT!
- POD_umbra_local.101.a: "Mes amis, écoutez-moi." #NT!
- POD_umbra_local.101.b: "D'esprit en esprit..." #NT!
- POD_umbra_local.101.c: "Obéissez à votre supérieur !" #NT!
- POD_umbra_local.101.d: "Peut-être une autre fois." #NT!
-  
- POD_umbra_local.102.t: "Spectre calme" #NT!
- POD_umbra_local.102.desc: "Vous essayez de faire valoir votre opinion auprès des spectres locaux afin qu'ils vous écoutent.\nVous pouvez essayer l'approche diplomatique ou être plus énergique. Les spectres ont tendance à être des créatures égocentriques et se disputer avec eux peut prendre beaucoup de temps." #NT!
- POD_umbra_local.102.a: "Mes amis, écoutez-moi." #NT!
- POD_umbra_local.102.b: "De spectres en spectres..." #NT!
- POD_umbra_local.102.c: "Je t'ordonne de t'agenouiller !" #NT!
- POD_umbra_local.102.d: "Peut-être une autre fois." #NT!
-  
-  # Usurp 
-  
- POD_umbra_local.201.t: "La colonisation" #NT!
- POD_umbra_local.201.desc: "Vous tenterez de revendiquer cette partie du [spirit_wilds|E] qui n'a pas de règle, il vous suffira d'affronter des locaux hostiles. La diplomatie ou la force pourraient les convaincre de vous reconnaître comme le nouveau propriétaire de ce royaume spirituel." #NT!
- POD_umbra_local.201.a: "Sortez de chez moi." #NT!
- POD_umbra_local.201.b: "Faisons un marché." #NT!
- POD_umbra_local.201.c: "Peut-être une autre fois." #NT!
-  
- POD_umbra_local.202.t: "La colonisation" #NT!
- POD_umbra_local.202.desc: "Vous tenterez de revendiquer cette partie du [shadowlands|E] qui n'a pas de règle, il vous suffira d'affronter des locaux hostiles. La diplomatie ou la force pourraient les convaincre de vous reconnaître comme le nouveau propriétaire de ce royaume spirituel." #NT!
- POD_umbra_local.202.a: "Sortez de chez moi." #NT!
- POD_umbra_local.202.b: "Faisons un marché." #NT!
- POD_umbra_local.202.c: "Peut-être une autre fois." #NT!
-  
- POD_umbra_local.301.t: "Conquête" #NT!
- POD_umbra_local.301.desc: "Vous allez essayer de réclamer cette partie du [spirit_wilds|E] au [victim.GetFirstName]. La diplomatie ou la force pourraient les convaincre de vous reconnaître comme le nouveau propriétaire de ce royaume spirituel." #NT!
- POD_umbra_local.301.a: "Bel endroit, je le prends." #NT!
- POD_umbra_local.301.b: "Faisons un marché." #NT!
- POD_umbra_local.301.c: "Je t'ordonne de me le donner !" #NT!
- POD_umbra_local.301.d: "Peut-être une autre fois." #NT!
-  
- POD_umbra_local.302.t: "Conquête" #NT!
- POD_umbra_local.302.desc: "Vous allez essayer de réclamer cette partie du [shadowlands|E] au [victim.GetFirstName]." #NT!
- POD_umbra_local.302.a: "Bel endroit, je le prends." #NT!
- POD_umbra_local.302.b: "Faisons un marché." #NT!
- POD_umbra_local.302.c: "Je t'ordonne de me le donner !" #NT!
- POD_umbra_local.302.d: "Peut-être une autre fois." #NT!
+    spirit_travel_header:
+        "Atteindre :"
+
+        # Pass
+
+    POD_umbra_pass.101.t: "Ouvrir un Nihil"
+    POD_umbra_pass.101.desc: "Une membrane existe entre le [shadowlands|E] et le [tempest|E], on ne peut pas entrer dans le [tempest|E] sans ouvrir un Nihil"
+    POD_umbra_pass.101.a: "Je ferai un sacrifice pour l'ouvrir."
+    POD_umbra_pass.101.b: "Pas grave."
+
+    POD_umbra_pass.102.t: "Passez le Temple Obscura"
+    POD_umbra_pass.102.desc: "Le Temple Obscura est un emplacement du [malfeas|E] à l'entrée du [black_spiral_labyrinth|E]. C'est un mélange colossal de mosquée et de cathédrale, de minarets orientaux et de cannelures occidentales."
+    POD_umbra_pass.102.a: "Je vais demander à passer."
+    POD_umbra_pass.102.a.tt: "Cette option est disponible car vous servez le Wyrm."
+    POD_umbra_pass.102.b: "Je veux me faufiler"
+    POD_umbra_pass.102.b.duel.tt.success: "C'était solide."
+    POD_umbra_pass.102.b.duel.tt.failure: "None"
+    POD_umbra_pass.102.c: "Je ferais mieux de ne pas entrer ici."
+
+    POD_umbra_pass.103.t: "Arrêtez de traîner"
+    POD_umbra_pass.103.desc: "Vous n'êtes pas du tout lié au monde vivant et pouvez faire un aller simple vers le [underworld|E] quand vous le souhaitez. La seule raison pour laquelle vous êtes toujours là, c'est parce que vous voulez être ici, pas parce que vous devez aimer la plupart des fantômes. Êtes-vous sûr de vouloir faire ce voyage maintenant ?"
+    POD_umbra_pass.103.a: "Il est temps de franchir le [tempest|E]."
+    POD_umbra_pass.103.b: "J'ai encore des choses à faire."
+
+    POD_umbra_pass.104.t: "Traverser le Linceul"
+    POD_umbra_pass.104.desc: "Etes-vous sûr de pouvoir vous projeter à travers le Linceul à la même vitesse qu'un projectile ? Cela nuira à votre [Corpus|E] (au même niveau que le Linceul local)."
+    POD_umbra_pass.104.a: "Oui!"
+    POD_umbra_pass.104.b: "Non."
+
+    POD_umbra_pass.105.t: "Arrêt!"
+    POD_umbra_pass.105.desc: "Vous êtes arrêté par des gardes, ils ne vous reconnaissent pas comme faisant partie du royaume fantomatique de Stygia, comment allez-vous procéder ?"
+    POD_umbra_pass.105.a: "Je suis venu ici pour rejoindre la légion."
+    POD_umbra_pass.105.b: "Je veux faire partie de la guilde."
+    POD_umbra_pass.105.c: "Je suis déjà l'un des vôtres !"
+    POD_umbra_pass.105.d: "Je vais juste me retourner."
+
+    POD_umbra_pass.106.t: "Arrêt!"
+    POD_umbra_pass.106.desc: "Vous êtes arrêté par des gardes, ils ne vous reconnaissent pas comme faisant partie du Far Shore, comment allez-vous procéder ?"
+    POD_umbra_pass.106.a: "Je suis venu ici pour louer les Brillants."
+    POD_umbra_pass.106.b: "Je suis déjà l'un des vôtres !"
+    POD_umbra_pass.106.c: "Je vais juste me retourner."
+
+    POD_umbra_pass.107.t: "Arrêt!"
+    POD_umbra_pass.107.desc: "Dis est protégé par un labyrinthe d’épaves de navires, habité par des poches de Spectres réduits en esclavage par l’Étreinte de Nhudri pour tenir à distance les spectres curieux et hostiles. Les chemins à travers le labyrinthe changent constamment et il est presque impossible d'entrer dans Dis sans le consentement de la Société des Bateliers. Comment allez-vous procéder ?"
+    POD_umbra_pass.107.a: "Je veux te prêter serment."
+    POD_umbra_pass.107.b: "Je vais juste me retourner."
+    POD_umbra_pass.107.a.duel.desc: "Rituel de séparation"
+
+    POD_umbra_pass.108.t: "Marchez vers le soleil"
+    POD_umbra_pass.108.desc: "La zone de l'Umbra Profonde qui abrite Hélios n'est que chaleur et lumière blanche brillante. Toute surface dans le royaume d’Hélios est trop chaude pour rester debout ou rester à proximité trop longtemps. Seuls les esprits volants pénètrent dans cette zone de l'Umbra profonde, et les voyageurs incapables de voler brûlent dans le feu avant d'avoir la chance de réaliser leur erreur.\n\nÊtes-vous sûr de vouloir toucher le soleil lui-même ?"
+    POD_umbra_pass.108.a: "Oh oui, je toucherai le soleil lui-même."
+    POD_umbra_pass.108.b: "Hélios protégera mon âme."
+    POD_umbra_pass.108.c:
+        "Courir!"
+
+        # Lost
+
+    POD_umbra_lost.100.t: "#X Tomber dans l'oubli#!"
+    POD_umbra_lost.100.desc: "#X Vous tombez dans l'oubli...#!"
+    POD_umbra_lost.100.a: "#X ...#!"
+
+    POD_umbra_lost.101.t: "Perdu dans la tempête"
+    POD_umbra_lost.101.desc: "Vous ne pouviez pas vous orienter dans la tempête toujours changeante, vous avez terminé au même endroit que votre point de départ."
+    POD_umbra_lost.101.a: "Bien."
+
+    POD_umbra_lost.102.t: "Pris au piège dans le labyrinthe"
+    POD_umbra_lost.102.desc: "Vous ne pouviez pas vous orienter dans le Labyrinthe absurde, vous avez terminé au même endroit que votre point de départ."
+    POD_umbra_lost.102.a: "Je suis perdu."
+    POD_umbra_lost.102.b: "Sauve-moi, Grand Serpent !"
+
+    POD_umbra_lost.104.t: "Pris au piège dans les abysses"
+    POD_umbra_lost.104.desc_demon: "Vous tombez à nouveau dans la prison éternelle créée pour votre espèce après la rébellion de Lucifer. Il semblerait que Dieu ait encore le dernier mot."
+    POD_umbra_lost.104.desc_infernalist: "Vous tombez dans la fosse et vous ne semblez pas pouvoir en sortir à moins de promettre de faire un sacrifice à un seigneur démon..."
+    POD_umbra_lost.104.a: "Je vais m'échapper !"
+    POD_umbra_lost.104.b: "Je sacrifierai un prisonnier."
+    POD_umbra_lost.104.c: "Je ne fais pas d'accord avec les démons !"
+    trapped_in_abyss_modifier:
+        "Pris au piège dans les abysses"
+
+        # Fallback
+
+    POD_umbra_diplomacy.success: "Défi diplomatique : succès"
+    POD_umbra_diplomacy.fail: "Défi diplomatique : échouer"
+    POD_umbra_diplomacy.desc: "Vous êtes arrêté par quelqu'un qui habite dans cette zone, peut-être pourrez-vous le convaincre de vous montrer comment dépasser ce point ? Les habitants de l’Umbra sont notoirement difficiles à comprendre et encore plus difficiles à convaincre."
+    POD_umbra_martial.success: "Défi martial : succès"
+    POD_umbra_martial.fail: "Défi martial : échec"
+    POD_umbra_martial.desc: "Vous êtes arrêté par une énigme sous forme de wargame. Il est temps de montrer à quel point vous êtes bon dans ce domaine. Jouer avec des pièces « d'action réelle » sous la forme d'esprits liés est cependant assez difficile à comprendre au début, ce qui en fait une expérience dérangeante et surréaliste."
+    POD_umbra_stewardship.success: "Défi d’intendance : succès"
+    POD_umbra_stewardship.fail: "Défi d’intendance : échec"
+    POD_umbra_stewardship.desc: "Vous êtes arrêté par une énigme sous forme d'équation, êtes-vous bon en maths ? Vous devrez d’abord déchiffrer les nombres utilisés par les esprits filous, ce qui rend le problème encore plus difficile à résoudre."
+    POD_umbra_intrigue.success: "Défi Intrigue : Succès"
+    POD_umbra_intrigue.fail: "Défi d'intrigue : échec"
+    POD_umbra_intrigue.desc: "Vous rencontrez un puissant gardien spirituel sur votre chemin, peut-être pourriez-vous le distraire avec une astuce ? Mais il vaut mieux le rendre convaincant, il n’a vraiment pas l’air amical."
+    POD_umbra_learning.success: "Défi d'apprentissage : réussite"
+    POD_umbra_learning.fail: "Défi d'apprentissage : échec"
+    POD_umbra_learning.desc:
+        "Vous êtes arrêté par une énigme, pouvez-vous la résoudre ? L'Umbra étant une version tordue du monde « réel », vous pouvez trouver des modèles et des indices qui ont au moins un minimum de sens pour vous."
+
+        # Gauntlet
+
+    POD_gauntlet.101.t: "Le gant"
+    POD_gauntlet.101.desc: "Le Gantelet, également appelé Mur dans l'Empire du Milieu, est la barrière entourant la réalité matérielle, la séparant de l'Umbra.\n\nLe Gantelet ne peut jamais être abaissé en dessous de 1, et s'il est élevé à 10, les esprits du les environs doivent dépenser de la Volonté ou fuir la zone."
+    POD_gauntlet.101.a: "Renforcer le gantelet."
+    POD_gauntlet.101.b: "Affaiblir le gantelet."
+    POD_gauntlet.101.c: "Abattez le gantelet !"
+    POD_gauntlet.101.d: "Pas grave."
+
+    POD_gauntlet.102.t: "Le mur"
+    POD_gauntlet.102.desc: "Les royaumes spirituels sont séparés de l’Empire du Milieu par une barrière mystique connue sous le nom de Mur. Il empêche le contact entre les mondes des mortels et des esprits. Il est plus fort dans certaines zones, plus faible dans d'autres, mais il n'est jamais totalement absent.\n\nLe Mur ne peut jamais être abaissé en dessous de 1, et s'il est élevé à 10, aucun être dans la zone ne peut utiliser de pouvoirs Chi d'aucune sorte. . Les esprits à proximité avec un indice de Mur de 10 doivent dépenser de la Volonté ou fuir la zone ; dans tous les cas, ils seront extrêmement mal à l’aise et incapables de dépenser leur Chi."
+    POD_gauntlet.102.a: "Renforcer le mur."
+    POD_gauntlet.102.b: "Affaiblir le mur."
+    POD_gauntlet.102.c: "Abattre le mur!"
+    POD_gauntlet.102.d: "Pas grave."
+
+    POD_shroud.101.t: "Le Linceul"
+    POD_shroud.101.desc: "Le [underworld|E] est séparé du [skinlands|E] par une barrière mystique connue sous le nom de Linceul. Le Linceul rend le [shadowlands|E] imperceptible pour la plupart des créatures vivantes et obscurcit l'activité du [skinlands|E] pour les morts. Il est plus fort dans certaines zones et plus faible dans d'autres, mais il n'est jamais totalement absent.\n\nLe Linceul ne peut jamais être abaissé en dessous de 1, et s'il est élevé à 10, les esprits à proximité doivent dépenser de la Volonté ou fuir la zone."
+    POD_shroud.101.a: "Renforcer le Linceul."
+    POD_shroud.101.b: "Affaiblir le Linceul."
+    POD_shroud.101.c: "Démolissez le Linceul !"
+    POD_shroud.101.d:
+        "Pas grave."
+
+        # KJ only event
+
+    POD_umbra_kj.1001.t: "Inspiration"
+    POD_umbra_kj.1001.desc: "Les zones des mondes spirituels proches du Mur sont appelées les Terres Miroirs, ainsi nommées parce qu'elles apparaissent comme des reflets fantomatiques de l'Empire du Milieu voisin.\n\nRegarder cette vue extraordinaire vous inspire."
+    POD_umbra_kj.1001.a: "C'est incroyable!"
+
+    POD_umbra_kj.1002.t: "Enseignement des Esprits"
+    POD_umbra_kj.1002.desc_opening: "Vous êtes entré dans le Monde des Esprits, aussi profondément que possible, puis vous avez reçu des instructions d'un"
+    POD_umbra_kj.1002.desc_high: "Wan Kuei, ancien et historique, un grand ancêtre"
+    POD_umbra_kj.1002.desc_yin: "Roi Yama"
+    POD_umbra_kj.1002.desc_yang: "esprit puissant"
+    POD_umbra_kj.1002.desc_low: "esprit normal"
+    POD_umbra_kj.1002.desc_ending: "qui partageait une certaine compréhension du dharma."
+    POD_umbra_kj.1002.a:
+        "Mon mentor spirituel."
+
+        # Action event
+
+    POD_umbra_action.1001.t: "Champ de bataille"
+    POD_umbra_action.1001.desc:
+        "Le champ de bataille est un royaume dédié à la violence et à la rage, et le chaos y règne alors que les armées se mélangent et que les soldats Qin finissent par se battre contre les légions romaines et que les croisés s'allient aux barbares vikings contre les troupes mayas. Tant qu'on n'entre pas dans l'un des conflits, le visiteur chemine sur une « piste » appropriée à la bataille dont il est témoin (un bateau pour une bataille navale, une voie romaine pour un conflit lors des guerres puniques etc.). Tant qu'ils ne quittent pas la piste, ils ne seront pas attaqués directement.\nC'est un excellent moyen d'apprendre des stratégies nouvelles (ou anciennes) qui pourraient être pertinentes pour votre époque d'une manière ou d'une autre."
+
+        # Calm Spirit
+
+    POD_umbra_local.101.t: "Esprit calme"
+    POD_umbra_local.101.desc: "Vous essayez de faire valoir votre opinion auprès des esprits locaux afin qu'ils vous écoutent.\nVous pouvez essayer l'approche diplomatique ou être plus énergique. Les esprits ont tendance à être des créatures fantaisistes et se disputer avec eux peut prendre beaucoup de temps."
+    POD_umbra_local.101.a: "Mes amis, écoutez-moi."
+    POD_umbra_local.101.b: "D'esprit en esprit..."
+    POD_umbra_local.101.c: "Obéissez à votre supérieur !"
+    POD_umbra_local.101.d: "Peut-être une autre fois."
+
+    POD_umbra_local.102.t: "Spectre calme"
+    POD_umbra_local.102.desc: "Vous essayez de faire valoir votre opinion auprès des spectres locaux afin qu'ils vous écoutent.\nVous pouvez essayer l'approche diplomatique ou être plus énergique. Les spectres ont tendance à être des créatures égocentriques et se disputer avec eux peut prendre beaucoup de temps."
+    POD_umbra_local.102.a: "Mes amis, écoutez-moi."
+    POD_umbra_local.102.b: "De spectres en spectres..."
+    POD_umbra_local.102.c: "Je t'ordonne de t'agenouiller !"
+    POD_umbra_local.102.d:
+        "Peut-être une autre fois."
+
+        # Usurp
+
+    POD_umbra_local.201.t: "La colonisation"
+    POD_umbra_local.201.desc: "Vous tenterez de revendiquer cette partie du [spirit_wilds|E] qui n'a pas de règle, il vous suffira d'affronter des locaux hostiles. La diplomatie ou la force pourraient les convaincre de vous reconnaître comme le nouveau propriétaire de ce royaume spirituel."
+    POD_umbra_local.201.a: "Sortez de chez moi."
+    POD_umbra_local.201.b: "Faisons un marché."
+    POD_umbra_local.201.c: "Peut-être une autre fois."
+
+    POD_umbra_local.202.t: "La colonisation"
+    POD_umbra_local.202.desc: "Vous tenterez de revendiquer cette partie du [shadowlands|E] qui n'a pas de règle, il vous suffira d'affronter des locaux hostiles. La diplomatie ou la force pourraient les convaincre de vous reconnaître comme le nouveau propriétaire de ce royaume spirituel."
+    POD_umbra_local.202.a: "Sortez de chez moi."
+    POD_umbra_local.202.b: "Faisons un marché."
+    POD_umbra_local.202.c: "Peut-être une autre fois."
+
+    POD_umbra_local.301.t: "Conquête"
+    POD_umbra_local.301.desc: "Vous allez essayer de réclamer cette partie du [spirit_wilds|E] au [victim.GetFirstName]. La diplomatie ou la force pourraient les convaincre de vous reconnaître comme le nouveau propriétaire de ce royaume spirituel."
+    POD_umbra_local.301.a: "Bel endroit, je le prends."
+    POD_umbra_local.301.b: "Faisons un marché."
+    POD_umbra_local.301.c: "Je t'ordonne de me le donner !"
+    POD_umbra_local.301.d: "Peut-être une autre fois."
+
+    POD_umbra_local.302.t: "Conquête"
+    POD_umbra_local.302.desc: "Vous allez essayer de réclamer cette partie du [shadowlands|E] au [victim.GetFirstName]."
+    POD_umbra_local.302.a: "Bel endroit, je le prends."
+    POD_umbra_local.302.b: "Faisons un marché."
+    POD_umbra_local.302.c: "Je t'ordonne de me le donner !"
+    POD_umbra_local.302.d: "Peut-être une autre fois."

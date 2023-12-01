@@ -1,123 +1,120 @@
 ﻿l_french:
-  
-  #Common Road of Metamorphosis Localization 
- roadofmetamorphosis_religion: "La route de la métamorphose" #NT!
- roadofmetamorphosis_religion_adj: "Koldun" #NT!
- roadofmetamorphosis_religion_adherent: "Chercheur" #NT!
- roadofmetamorphosis_religion_adherent_plural: "Chercheurs" #NT!
- roadofmetamorphosis_religion_desc: "Ces vampires recherchent la connaissance par la maîtrise de la chair. Suivies presque exclusivement par [Clan|E] Tzimisce, leurs expériences sont la prémisse de nombreux cauchemars." #NT!
- roadofmetamorphosis_high_god_name: "Chair" #NT!
- roadofmetamorphosis_high_god_name_possessive: "La chair" #NT!
- roadofmetamorphosis_high_god_name_alternate: "La chair" #NT!
- roadofmetamorphosis_high_god_name_alternate_possessive: "La chair" #NT!
- roadofmetamorphosis_good_god_jesus: "$roadofmetamorphosis_health_god_name$" #NT!
- roadofmetamorphosis_good_god_christ: "L'aîné" #NT!
- roadofmetamorphosis_devil_name: "La bête" #NT!
- roadofmetamorphosis_devil_name_possessive: "Les bêtes" #NT!
- roadofmetamorphosis_evil_god_lucifer: "La bête" #NT!
- roadofmetamorphosis_evil_god_beelzebub: "La bête" #NT!
- roadofmetamorphosis_evil_god_mephistopheles: "La bête" #NT!
- roadofmetamorphosis_death_deity_name: "Destruction" #NT!
- roadofmetamorphosis_death_deity_name_possessive: "Destruction" #NT!
- roadofmetamorphosis_house_of_worship: "refuge" #NT!
- roadofmetamorphosis_house_of_worship_plural: "refuges" #NT!
- roadofmetamorphosis_religious_symbol: "Macrolépidoptères" #NT!
- roadofmetamorphosis_religious_text: "tomes de chair" #NT!
- roadofmetamorphosis_religious_head_title: "Maître Koldun" #NT!
- roadofmetamorphosis_religious_head_title_name: "Maître Koldun" #NT!
- roadofmetamorphosis_devotee_male: "Koldun" #NT!
- roadofmetamorphosis_devotee_male_plural: "Kolduns" #NT!
- roadofmetamorphosis_devotee_female: "Koldun" #NT!
- roadofmetamorphosis_devotee_female_plural: "Kolduns" #NT!
- roadofmetamorphosis_devotee_neuter: "Koldun" #NT!
- roadofmetamorphosis_devotee_neuter_plural: "Kolduns" #NT!
- roadofmetamorphosis_priest_male: "Koldun" #NT!
- roadofmetamorphosis_priest_male_plural: "Kolduns" #NT!
- roadofmetamorphosis_priest_alternate_plural: "Kolduns" #NT!
- roadofmetamorphosis_bishop: "Koldun" #NT!
- roadofmetamorphosis_bishop_plural: "Kolduns" #NT!
- roadofmetamorphosis_bishop_male: "Koldun" #NT!
- roadofmetamorphosis_bishop_male_plural: "Kolduns" #NT!
- roadofmetamorphosis_koldun: "Koldun" #NT!
- roadofmetamorphosis_koldun_plural: "Kolduns" #NT!
- roadofmetamorphosis_divine_realm: "Métamorphose" #NT!
- roadofmetamorphosis_positive_afterlife: "Métamorphose" #NT!
- roadofmetamorphosis_negative_afterlife: "Destruction" #NT!
- roadofmetamorphosis_witchgodname_the_horned_god: "la bête" #NT!
- roadofmetamorphosis_witchgodname_the_horned_god_possessive: "Les bêtes" #NT!
-  
- roadofmetamorphosis_creator_god_name: "$roadofmetamorphosis_high_god_name$" #NT!
- roadofmetamorphosis_creator_god_name_possessive: "$roadofmetamorphosis_high_god_name_possessive$" #NT!
- roadofmetamorphosis_health_god_name: "sang" #NT!
- roadofmetamorphosis_health_god_name_possessive: "du sang" #NT!
- roadofmetamorphosis_fertility_god_name: "$roadofmetamorphosis_high_god_name$" #NT!
- roadofmetamorphosis_fertility_god_name_possessive: "$roadofmetamorphosis_high_god_name_possessive$" #NT!
- roadofmetamorphosis_wealth_god_name: "$roadofmetamorphosis_high_god_name$" #NT!
- roadofmetamorphosis_wealth_god_name_possessive: "$roadofmetamorphosis_high_god_name_possessive$" #NT!
- roadofmetamorphosis_household_god_name: "$roadofmetamorphosis_health_god_name$" #NT!
- roadofmetamorphosis_household_god_name_possessive: "$roadofmetamorphosis_health_god_name_possessive$" #NT!
- roadofmetamorphosis_fate_god_name: "$roadofmetamorphosis_high_god_name$" #NT!
- roadofmetamorphosis_fate_god_name_possessive: "$roadofmetamorphosis_high_god_name_possessive$" #NT!
- roadofmetamorphosis_knowledge_god_name: "$roadofmetamorphosis_high_god_name$" #NT!
- roadofmetamorphosis_knowledge_god_name_possessive: "$roadofmetamorphosis_high_god_name_possessive$" #NT!
- roadofmetamorphosis_war_god_name: "$roadofmetamorphosis_high_god_name$" #NT!
- roadofmetamorphosis_war_god_name_possessive: "$roadofmetamorphosis_high_god_name_possessive$" #NT!
- roadofmetamorphosis_trickster_god_name: "Koupala" #NT!
- roadofmetamorphosis_trickster_god_name_possessive: "de Kupala" #NT!
- roadofmetamorphosis_night_god_name: "$roadofmetamorphosis_high_god_name$" #NT!
- roadofmetamorphosis_night_god_name_possessive: "$roadofmetamorphosis_high_god_name_possessive$" #NT!
- roadofmetamorphosis_water_god_name: "$roadofmetamorphosis_health_god_name$" #NT!
- roadofmetamorphosis_water_god_name_possessive: "$roadofmetamorphosis_health_god_name_possessive$" #NT!
-  
-  #Seeker-Group Faiths 
- viamutationis: "Via Mutationis" #NT!
- viamutationis_adj: "Koldun" #NT!
- viamutationis_adherent: "Chercheur" #NT!
- viamutationis_adherent_plural: "Chercheurs" #NT!
- viamutationis_desc: "Les adeptes de la Route de la Métamorphose utilisent leurs connaissances non pas pour les autres, mais pour eux-mêmes. Ceux qui deviennent des chercheurs vivent une vie solitaire et introvertie tout en découvrant leurs propres capacités. Ils s’appuient sur des énigmes et des fragments d’informations et donnent généralement des réponses similaires en retour." #NT!
-  
- pathoftheflesh: "Chemin de la chair" #NT!
- pathoftheflesh_adj: "Koldun" #NT!
- pathoftheflesh_adherent: "Chercheur de chair" #NT!
- pathoftheflesh_adherent_plural: "Chercheurs de chair" #NT!
- pathoftheflesh_desc: "Le véritable objectif de la route est entièrement physique. Transformation corporelle menant à l'acquisition d'un vaste pouvoir dans le monde matériel. Le spirituel n’est considéré comme important que lorsqu’il contribue à cette transformation physique." #NT!
-  
- pathofthespirit: "Chemin de l'Esprit" #NT!
- pathofthespirit_adj: "Koldun" #NT!
- pathofthespirit_adherent: "Chercheur d'esprit" #NT!
- pathofthespirit_adherent_plural: "Chercheurs d'esprit" #NT!
- pathofthespirit_desc: "Le véritable objectif du chemin est une transformation entièrement spirituelle. Ils voient le monde physique comme une illusion et une distraction, au mieux un simple outil de croissance spirituelle." #NT!
-  
- viaapotheosis: "Via l'apothéose" #NT!
- viaapotheosis_adj: "Apothéose" #NT!
- viaapotheosis_adherent: "Apothéose" #NT!
- viaapotheosis_adherent_plural: "Apothéoses" #NT!
- viaapotheosis_desc: "Cette religion non canonique a été commandée par un patron.\nLes adeptes s'efforcent de transcender leurs limitations biologiques, en améliorant leurs capacités mentales et physiques jusqu'à ce qu'elles ne puissent plus être distinguées de la divinité. Les rituels compétitifs impliquent de ramper et d'apprendre auprès des supérieurs en échange d'un sacrifice de sang. La vicissitude est le [discipline|E] le plus couramment utilisé dans la quête de la perfection (non) permanente, bien que les pratiquants soient encouragés à utiliser presque tous les pouvoirs disponibles pour atteindre leurs objectifs idéalistes et égoïstes (même les pactes démoniaques et le [diablerie|E])." #NT!
- viaapotheosis_religious_head_title: "Dieu-Roi" #NT!
- viaapotheosis_religious_head_title_name: "Dieu-Roi" #NT!
- viaapotheosis_priest_male: "lecteur" #NT!
- viaapotheosis_priest_male_plural: "lecteur" #NT!
- viaapotheosis_priest_alternate_plural: "lecteurs" #NT!
- viaapotheosis_devotee_male: "novice" #NT!
- viaapotheosis_devotee_male_plural: "novices" #NT!
- viaapotheosis_devotee_female: "novice" #NT!
- viaapotheosis_devotee_female_plural: "novices" #NT!
- viaapotheosis_devotee_neuter: "novice" #NT!
- viaapotheosis_devotee_neuter_plural: "novices" #NT!
- viaapotheosis_bishop_male: "archélecteur" #NT!
- viaapotheosis_bishop_plural_male: "archélecteur" #NT!
- viaapotheosis_bishop_female: "archélecteur" #NT!
- viaapotheosis_bishop_plural_female: "archélecteur" #NT!
-  
- holy_order_order_of_oradea: "L'Ordre d'Oradea" #NT!
- holy_order_knez_of_dacia: "Knez de Dacia" #NT!
- holy_order_dragons_of_wallachia: "Dragons de Valachie" #NT!
-  
- pathofasakku: "Chemin d'Asakku" #NT!
- pathofasakku_adj: "Corrompu" #NT!
- pathofasakku_adherent: "Corrompu" #NT!
- pathofasakku_adherent_plural: "Corrompu" #NT!
- pathofasakku_desc: "Cette version du chemin n'est pas canonique et a été commandée par un mécène.\nUn mystique errant, Dragastes a utilisé sa Vicissitude pour soigner les malades et les blessés des Kines et des Vampires. Cependant, à chaque guérison, son sang contaminé se répandit dans les masses, les pourrissant de l’intérieur et les corrompant en de simples extensions de la volonté d’Asakku. Il est possible que la malédiction de Dragaste se soit répandue dans une grande partie de la Méditerranée. Cependant, les Asakku, ou plus exactement les Observateurs qui dominaient sa volonté, avaient sous-estimé les autres Vampires de la Ville. Le Dracon, un ancien Tzimisce dont la connaissance de la Vicissitude éclipsait même celle des Asakku, extirpa de nombreux cultes et poussa rapidement le voyou Tzimisce à fuir la ville. Cependant, certains vestiges de la folie de Dragaste sont restés en marge de l’ancienne Byzance, bien que des siècles de préparation et de complot aient été défaits en quelques années. Le culte a depuis migré vers les déserts de Sibérie, dirigé par leur hiérophante Matthaios Yelbeghen." #NT!
-  
-  
-  
+    #Common Road of Metamorphosis Localization
+    roadofmetamorphosis_religion: "La route de la métamorphose"
+    roadofmetamorphosis_religion_adj: "Koldun"
+    roadofmetamorphosis_religion_adherent: "Chercheur"
+    roadofmetamorphosis_religion_adherent_plural: "Chercheurs"
+    roadofmetamorphosis_religion_desc: "Ces vampires recherchent la connaissance par la maîtrise de la chair. Suivies presque exclusivement par [Clan|E] Tzimisce, leurs expériences sont la prémisse de nombreux cauchemars."
+    roadofmetamorphosis_high_god_name: "Chair"
+    roadofmetamorphosis_high_god_name_possessive: "La chair"
+    roadofmetamorphosis_high_god_name_alternate: "La chair"
+    roadofmetamorphosis_high_god_name_alternate_possessive: "La chair"
+    roadofmetamorphosis_good_god_jesus: "$roadofmetamorphosis_health_god_name$"
+    roadofmetamorphosis_good_god_christ: "L'aîné"
+    roadofmetamorphosis_devil_name: "La bête"
+    roadofmetamorphosis_devil_name_possessive: "Les bêtes"
+    roadofmetamorphosis_evil_god_lucifer: "La bête"
+    roadofmetamorphosis_evil_god_beelzebub: "La bête"
+    roadofmetamorphosis_evil_god_mephistopheles: "La bête"
+    roadofmetamorphosis_death_deity_name: "Destruction"
+    roadofmetamorphosis_death_deity_name_possessive: "Destruction"
+    roadofmetamorphosis_house_of_worship: "refuge"
+    roadofmetamorphosis_house_of_worship_plural: "refuges"
+    roadofmetamorphosis_religious_symbol: "Macrolépidoptères"
+    roadofmetamorphosis_religious_text: "tomes de chair"
+    roadofmetamorphosis_religious_head_title: "Maître Koldun"
+    roadofmetamorphosis_religious_head_title_name: "Maître Koldun"
+    roadofmetamorphosis_devotee_male: "Koldun"
+    roadofmetamorphosis_devotee_male_plural: "Kolduns"
+    roadofmetamorphosis_devotee_female: "Koldun"
+    roadofmetamorphosis_devotee_female_plural: "Kolduns"
+    roadofmetamorphosis_devotee_neuter: "Koldun"
+    roadofmetamorphosis_devotee_neuter_plural: "Kolduns"
+    roadofmetamorphosis_priest_male: "Koldun"
+    roadofmetamorphosis_priest_male_plural: "Kolduns"
+    roadofmetamorphosis_priest_alternate_plural: "Kolduns"
+    roadofmetamorphosis_bishop: "Koldun"
+    roadofmetamorphosis_bishop_plural: "Kolduns"
+    roadofmetamorphosis_bishop_male: "Koldun"
+    roadofmetamorphosis_bishop_male_plural: "Kolduns"
+    roadofmetamorphosis_koldun: "Koldun"
+    roadofmetamorphosis_koldun_plural: "Kolduns"
+    roadofmetamorphosis_divine_realm: "Métamorphose"
+    roadofmetamorphosis_positive_afterlife: "Métamorphose"
+    roadofmetamorphosis_negative_afterlife: "Destruction"
+    roadofmetamorphosis_witchgodname_the_horned_god: "la bête"
+    roadofmetamorphosis_witchgodname_the_horned_god_possessive: "Les bêtes"
+
+    roadofmetamorphosis_creator_god_name: "$roadofmetamorphosis_high_god_name$"
+    roadofmetamorphosis_creator_god_name_possessive: "$roadofmetamorphosis_high_god_name_possessive$"
+    roadofmetamorphosis_health_god_name: "sang"
+    roadofmetamorphosis_health_god_name_possessive: "du sang"
+    roadofmetamorphosis_fertility_god_name: "$roadofmetamorphosis_high_god_name$"
+    roadofmetamorphosis_fertility_god_name_possessive: "$roadofmetamorphosis_high_god_name_possessive$"
+    roadofmetamorphosis_wealth_god_name: "$roadofmetamorphosis_high_god_name$"
+    roadofmetamorphosis_wealth_god_name_possessive: "$roadofmetamorphosis_high_god_name_possessive$"
+    roadofmetamorphosis_household_god_name: "$roadofmetamorphosis_health_god_name$"
+    roadofmetamorphosis_household_god_name_possessive: "$roadofmetamorphosis_health_god_name_possessive$"
+    roadofmetamorphosis_fate_god_name: "$roadofmetamorphosis_high_god_name$"
+    roadofmetamorphosis_fate_god_name_possessive: "$roadofmetamorphosis_high_god_name_possessive$"
+    roadofmetamorphosis_knowledge_god_name: "$roadofmetamorphosis_high_god_name$"
+    roadofmetamorphosis_knowledge_god_name_possessive: "$roadofmetamorphosis_high_god_name_possessive$"
+    roadofmetamorphosis_war_god_name: "$roadofmetamorphosis_high_god_name$"
+    roadofmetamorphosis_war_god_name_possessive: "$roadofmetamorphosis_high_god_name_possessive$"
+    roadofmetamorphosis_trickster_god_name: "Koupala"
+    roadofmetamorphosis_trickster_god_name_possessive: "de Kupala"
+    roadofmetamorphosis_night_god_name: "$roadofmetamorphosis_high_god_name$"
+    roadofmetamorphosis_night_god_name_possessive: "$roadofmetamorphosis_high_god_name_possessive$"
+    roadofmetamorphosis_water_god_name: "$roadofmetamorphosis_health_god_name$"
+    roadofmetamorphosis_water_god_name_possessive:
+        "$roadofmetamorphosis_health_god_name_possessive$"
+
+        #Seeker-Group Faiths
+    viamutationis: "Via Mutationis"
+    viamutationis_adj: "Koldun"
+    viamutationis_adherent: "Chercheur"
+    viamutationis_adherent_plural: "Chercheurs"
+    viamutationis_desc: "Les adeptes de la Route de la Métamorphose utilisent leurs connaissances non pas pour les autres, mais pour eux-mêmes. Ceux qui deviennent des chercheurs vivent une vie solitaire et introvertie tout en découvrant leurs propres capacités. Ils s’appuient sur des énigmes et des fragments d’informations et donnent généralement des réponses similaires en retour."
+
+    pathoftheflesh: "Chemin de la chair"
+    pathoftheflesh_adj: "Koldun"
+    pathoftheflesh_adherent: "Chercheur de chair"
+    pathoftheflesh_adherent_plural: "Chercheurs de chair"
+    pathoftheflesh_desc: "Le véritable objectif de la route est entièrement physique. Transformation corporelle menant à l'acquisition d'un vaste pouvoir dans le monde matériel. Le spirituel n’est considéré comme important que lorsqu’il contribue à cette transformation physique."
+
+    pathofthespirit: "Chemin de l'Esprit"
+    pathofthespirit_adj: "Koldun"
+    pathofthespirit_adherent: "Chercheur d'esprit"
+    pathofthespirit_adherent_plural: "Chercheurs d'esprit"
+    pathofthespirit_desc: "Le véritable objectif du chemin est une transformation entièrement spirituelle. Ils voient le monde physique comme une illusion et une distraction, au mieux un simple outil de croissance spirituelle."
+
+    viaapotheosis: "Via l'apothéose"
+    viaapotheosis_adj: "Apothéose"
+    viaapotheosis_adherent: "Apothéose"
+    viaapotheosis_adherent_plural: "Apothéoses"
+    viaapotheosis_desc: "Cette religion non canonique a été commandée par un patron.\nLes adeptes s'efforcent de transcender leurs limitations biologiques, en améliorant leurs capacités mentales et physiques jusqu'à ce qu'elles ne puissent plus être distinguées de la divinité. Les rituels compétitifs impliquent de ramper et d'apprendre auprès des supérieurs en échange d'un sacrifice de sang. La vicissitude est le [discipline|E] le plus couramment utilisé dans la quête de la perfection (non) permanente, bien que les pratiquants soient encouragés à utiliser presque tous les pouvoirs disponibles pour atteindre leurs objectifs idéalistes et égoïstes (même les pactes démoniaques et le [diablerie|E])."
+    viaapotheosis_religious_head_title: "Dieu-Roi"
+    viaapotheosis_religious_head_title_name: "Dieu-Roi"
+    viaapotheosis_priest_male: "lecteur"
+    viaapotheosis_priest_male_plural: "lecteur"
+    viaapotheosis_priest_alternate_plural: "lecteurs"
+    viaapotheosis_devotee_male: "novice"
+    viaapotheosis_devotee_male_plural: "novices"
+    viaapotheosis_devotee_female: "novice"
+    viaapotheosis_devotee_female_plural: "novices"
+    viaapotheosis_devotee_neuter: "novice"
+    viaapotheosis_devotee_neuter_plural: "novices"
+    viaapotheosis_bishop_male: "archélecteur"
+    viaapotheosis_bishop_plural_male: "archélecteur"
+    viaapotheosis_bishop_female: "archélecteur"
+    viaapotheosis_bishop_plural_female: "archélecteur"
+
+    holy_order_order_of_oradea: "L'Ordre d'Oradea"
+    holy_order_knez_of_dacia: "Knez de Dacia"
+    holy_order_dragons_of_wallachia: "Dragons de Valachie"
+
+    pathofasakku: "Chemin d'Asakku"
+    pathofasakku_adj: "Corrompu"
+    pathofasakku_adherent: "Corrompu"
+    pathofasakku_adherent_plural: "Corrompu"
+    pathofasakku_desc: "Cette version du chemin n'est pas canonique et a été commandée par un mécène.\nUn mystique errant, Dragastes a utilisé sa Vicissitude pour soigner les malades et les blessés des Kines et des Vampires. Cependant, à chaque guérison, son sang contaminé se répandit dans les masses, les pourrissant de l’intérieur et les corrompant en de simples extensions de la volonté d’Asakku. Il est possible que la malédiction de Dragaste se soit répandue dans une grande partie de la Méditerranée. Cependant, les Asakku, ou plus exactement les Observateurs qui dominaient sa volonté, avaient sous-estimé les autres Vampires de la Ville. Le Dracon, un ancien Tzimisce dont la connaissance de la Vicissitude éclipsait même celle des Asakku, extirpa de nombreux cultes et poussa rapidement le voyou Tzimisce à fuir la ville. Cependant, certains vestiges de la folie de Dragaste sont restés en marge de l’ancienne Byzance, bien que des siècles de préparation et de complot aient été défaits en quelques années. Le culte a depuis migré vers les déserts de Sibérie, dirigé par leur hiérophante Matthaios Yelbeghen."

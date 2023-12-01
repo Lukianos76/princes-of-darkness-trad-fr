@@ -1,132 +1,132 @@
 ﻿l_french:
   
- POD_gehenna_omens.1231.notification: "Présage de la Géhenne" #NT!
- POD_gehenna_omens.1231.desc: "Une vache à deux têtes est née." #NT!
- POD_gehenna_omens_1231_notification_tooltip: "En réalité, une vache à deux têtes est née." #NT!
+ POD_gehenna_omens.1231.notification: "Présage de la Géhenne"
+ POD_gehenna_omens.1231.desc: "Une vache à deux têtes est née."
+ POD_gehenna_omens_1231_notification_tooltip: "En réalité, une vache à deux têtes est née."
   
- POD_gehenna_omens.1240.t: "Présage de la Géhenne" #NT!
- POD_gehenna_omens.1240.opening: "Les nouvelles viennent de Russie :" #NT!
- POD_gehenna_omens.1240.desc: "Les jumeaux lupins Silver Fang, Yuri Tvarivich et Sophia Tvarivich, ont mené un certain nombre de loups-garous contre le Zmei Sharkala le Cruel en Russie, dont cinq Silver Fangs – Georges d'Armenai, Boris, Foma, Vassili et Utra. Ils étaient également accompagnés de Pyotor, celui des Glass Walkers ; Ulu, celui des Stargazers ; le rongeur d'os Igor Valkof ; Mehmet, celui des Silent Striders ; Katja, elle des Black Furies, et le héros Get of Fenris, Ragnor. Utra, Ragnor, Boris et Katja sont tous morts dans la bataille, tout comme Sophia, et Yuri a été écrasé par Sharkala alors qu'il portait le coup final." #NT!
- POD_gehenna_omens.1240.a: "Les Zmei sont en colère !" #NT!
- POD_gehenna_omens.1240.a.tt.beast: "#R Rage fait de la merde !#!" #NT!
+ POD_gehenna_omens.1240.t: "Présage de la Géhenne"
+ POD_gehenna_omens.1240.opening: "Les nouvelles viennent de Russie :"
+ POD_gehenna_omens.1240.desc: "Les jumeaux lupins Silver Fang, Yuri Tvarivich et Sophia Tvarivich, ont mené un certain nombre de loups-garous contre le Zmei Sharkala le Cruel en Russie, dont cinq Silver Fangs – Georges d'Armenai, Boris, Foma, Vassili et Utra. Ils étaient également accompagnés de Pyotor, celui des Glass Walkers ; Ulu, celui des Stargazers ; le rongeur d'os Igor Valkof ; Mehmet, celui des Silent Striders ; Katja, elle des Black Furies, et le héros Get of Fenris, Ragnor. Utra, Ragnor, Boris et Katja sont tous morts dans la bataille, tout comme Sophia, et Yuri a été écrasé par Sharkala alors qu'il portait le coup final."
+ POD_gehenna_omens.1240.a: "Les Zmei sont en colère !"
+ POD_gehenna_omens.1240.a.tt.beast: "#R Rage fait de la merde !#!"
   
- POD_gehenna_omens.1241.t: "Présage de la Géhenne" #NT!
- POD_gehenna_omens.1241.opening: "Les nouvelles viennent de Russie :" #NT!
- POD_gehenna_omens.1241.desc: "La Horde mongole arrive des steppes comme un grand déluge, déferlant sur les terres de Russie, ses rois mortels balayés dans un flot de violence. Mais les histoires de meutes de lupins mêlées à la marée humaine sont encore plus troublantes. Cette tribu de loups-garous s'appelle les Seigneurs de l'Ombre et laisse les corps de ses proches dans son sillage. Le déchaînement des bêtes lunaires préfigure-t-il l'arrivée de la Géhenne ?" #NT!
- POD_gehenna_omens.1241.a: "Jusqu'où iront ces Mongols et leurs chiens !?" #NT!
+ POD_gehenna_omens.1241.t: "Présage de la Géhenne"
+ POD_gehenna_omens.1241.opening: "Les nouvelles viennent de Russie :"
+ POD_gehenna_omens.1241.desc: "La Horde mongole arrive des steppes comme un grand déluge, déferlant sur les terres de Russie, ses rois mortels balayés dans un flot de violence. Mais les histoires de meutes de lupins mêlées à la marée humaine sont encore plus troublantes. Cette tribu de loups-garous s'appelle les Seigneurs de l'Ombre et laisse les corps de ses proches dans son sillage. Le déchaînement des bêtes lunaires préfigure-t-il l'arrivée de la Géhenne ?"
+ POD_gehenna_omens.1241.a: "Jusqu'où iront ces Mongols et leurs chiens !?"
   
- POD_gehenna_omens.1242.t: "Amour et damnation" #NT!
- POD_gehenna_omens.1242.desc: "Enkara, une guerrière respectée des Banu Haqim, n'est pas revenue de sa récente expédition pour sauver son [Sire|E], Izhim autrefois héroïque. Pire encore, les craintes nourries par les sorciers avant son départ se sont révélées n'être que l'ombre de la terrible vérité.\nIzhim a été corrompu par le démon Namtaru et, utilisant apparemment Enkara comme sacrifice ultime, son éveil a maudit la volonté de Banu Haqim. toute la force du rituel Baali qui leur a été imposé il y a si longtemps. Les guerriers autrefois fiers et disciplinés de Haqim ressentent désormais un besoin intense de sang vampirique et l'acte détesté du [diablerie|E] devient de plus en plus courant. Même résister au simple appel du sang doux est désormais une affaire difficile et stressante pour le [Clan|E].\nLes Banu Haqim sont cependant ingénieux, et les trois castes travaillent dur pour trouver une solution avant qu'il ne soit trop tard." #NT!
- POD_gehenna_omens.1242.a: "Il faut endurer !" #NT!
- POD_gehenna_omens.1242.a.tt: "Izhim ur-Baal s'est réveillé avec une armée puissante dans le nord-est de la Perse.\nTous les Banu Haqim reçoivent un modificateur négatif représentant la malédiction du sang actuelle.\nSi les chefs des trois factions principales (Jamal, Al-Ashrad et Thetmes) sont toujours en vie Dans 10 ans, ils proposeront des solutions pour y faire face." #NT!
- POD_cult_of_izhim_ur_baal: "Culte d'Izhim ur-Baal" #NT!
+ POD_gehenna_omens.1242.t: "Amour et damnation"
+ POD_gehenna_omens.1242.desc: "Enkara, une guerrière respectée des Banu Haqim, n'est pas revenue de sa récente expédition pour sauver son [Sire|E], Izhim autrefois héroïque. Pire encore, les craintes nourries par les sorciers avant son départ se sont révélées n'être que l'ombre de la terrible vérité.\nIzhim a été corrompu par le démon Namtaru et, utilisant apparemment Enkara comme sacrifice ultime, son éveil a maudit la volonté de Banu Haqim. toute la force du rituel Baali qui leur a été imposé il y a si longtemps. Les guerriers autrefois fiers et disciplinés de Haqim ressentent désormais un besoin intense de sang vampirique et l'acte détesté du [diablerie|E] devient de plus en plus courant. Même résister au simple appel du sang doux est désormais une affaire difficile et stressante pour le [Clan|E].\nLes Banu Haqim sont cependant ingénieux, et les trois castes travaillent dur pour trouver une solution avant qu'il ne soit trop tard."
+ POD_gehenna_omens.1242.a: "Il faut endurer !"
+ POD_gehenna_omens.1242.a.tt: "Izhim ur-Baal s'est réveillé avec une armée puissante dans le nord-est de la Perse.\nTous les Banu Haqim reçoivent un modificateur négatif représentant la malédiction du sang actuelle.\nSi les chefs des trois factions principales (Jamal, Al-Ashrad et Thetmes) sont toujours en vie Dans 10 ans, ils proposeront des solutions pour y faire face."
+ POD_cult_of_izhim_ur_baal: "Culte d'Izhim ur-Baal"
   
- POD_gehenna_omens.6667.t: "Le destin d'Enkara" #NT!
- POD_gehenna_omens.6667.desc: "Dans un passé ancien, Enkara, la célèbre guerrière Banu Haqim, a combattu aux côtés de son [Sire|E] Izhim pendant les mémorables guerres Baali. Izhim a été perdu lors de la dernière bataille, se sacrifiant pour empêcher le démon Namtaru de traverser le monde. Depuis, Enkara travaille sans relâche pour trouver un moyen de sauver son bien-aimé [Sire|E]. Et elle semble l'avoir enfin trouvé.\nIl y a une grande appréhension à Alamut, la capitale des Banu Haqim, alors qu'Enkara se prépare à sauver l'héroïque Izhim. Mais quelque chose ne va pas, certains des plus grands dirigeants des Banu Haqim, dont le très respecté Al-Ashrad, se disputent avec Enkara, lui disant de ne plus chercher son [Sire|E] sous peine de risquer une grande catastrophe. Mais plus ils la poussent, plus elle est déterminée à partir et la situation semble bloquée.\nSi rien n'est fait bientôt, Enkara partira, et le sort des Banu Haqim pourrait changer à jamais." #NT!
- POD_gehenna_omens.6667.a: "Enkara s'il te plaît, écoute raison." #NT!
- POD_gehenna_omens.6667.effect.success.desc: "Enkara recule !" #NT!
- POD_gehenna_omens.6667.critical.failure.effect.desc: "Le destin suit son cours..." #NT!
- POD_gehenna_omens.6668.a: "Seule la force l'arrêtera." #NT!
- POD_gehenna_omens.6668.effect.success.desc: "Enkara est âprement battu." #NT!
- POD_gehenna_omens.6668.critical.failure.effect.desc: "Le destin suit son cours..." #NT!
- POD_gehenna_omens.6667.c: "Les imbéciles flétris et les vieilles prophéties n'ont pas d'importance." #NT!
+ POD_gehenna_omens.6667.t: "Le destin d'Enkara"
+ POD_gehenna_omens.6667.desc: "Dans un passé ancien, Enkara, la célèbre guerrière Banu Haqim, a combattu aux côtés de son [Sire|E] Izhim pendant les mémorables guerres Baali. Izhim a été perdu lors de la dernière bataille, se sacrifiant pour empêcher le démon Namtaru de traverser le monde. Depuis, Enkara travaille sans relâche pour trouver un moyen de sauver son bien-aimé [Sire|E]. Et elle semble l'avoir enfin trouvé.\nIl y a une grande appréhension à Alamut, la capitale des Banu Haqim, alors qu'Enkara se prépare à sauver l'héroïque Izhim. Mais quelque chose ne va pas, certains des plus grands dirigeants des Banu Haqim, dont le très respecté Al-Ashrad, se disputent avec Enkara, lui disant de ne plus chercher son [Sire|E] sous peine de risquer une grande catastrophe. Mais plus ils la poussent, plus elle est déterminée à partir et la situation semble bloquée.\nSi rien n'est fait bientôt, Enkara partira, et le sort des Banu Haqim pourrait changer à jamais."
+ POD_gehenna_omens.6667.a: "Enkara s'il te plaît, écoute raison."
+ POD_gehenna_omens.6667.effect.success.desc: "Enkara recule !"
+ POD_gehenna_omens.6667.critical.failure.effect.desc: "Le destin suit son cours..."
+ POD_gehenna_omens.6668.a: "Seule la force l'arrêtera."
+ POD_gehenna_omens.6668.effect.success.desc: "Enkara est âprement battu."
+ POD_gehenna_omens.6668.critical.failure.effect.desc: "Le destin suit son cours..."
+ POD_gehenna_omens.6667.c: "Les imbéciles flétris et les vieilles prophéties n'ont pas d'importance."
   
- POD_gehenna_omens.6669.t: "Vivre avec la malédiction" #NT!
- POD_gehenna_omens.6669.desc: "Cela fait dix longues années que la folle expédition d'Enkara a condamné les Banu Haqim à subir de plein fouet la malédiction de Baali. Ce fut une période difficile pour le [Clan|E] avec de nombreux événements malheureux du [diablerie|E] ternissant sa réputation autrefois excellente. Pourtant, les Enfants de Haqim ont enduré, comme ils le font toujours.\nLa Malédiction ne disparaîtra peut-être jamais vraiment et a laissé de vicieuses cicatrices dans la culture du clan, mais elle est désormais acceptée comme un fait de la non-vie, et chaque Banu Haqim découvre leur propre façon de faire face à cet obstacle.\nLes Banu Haqim ne seront plus jamais les mêmes, mais ils sont toujours là pour apprendre et grandir, comme l'avait prévu leur géniteur." #NT!
- POD_gehenna_omens.6669.a: "Nous avons enduré." #NT!
- POD_gehenna_omens.6669.a.tt: "Les Banu Haqim souffrent désormais d'un modificateur de malédiction Baali moins sévère." #NT!
- POD_gehenna_omens.6669.b: "Trouver du réconfort dans la foi peut m’aider." #NT!
- POD_gehenna_omens.6669.b.tt: "Jamal, le calife, enseigne aux autres Banu Haqim à se prémunir contre la malédiction Baali en trouvant du réconfort dans le Divin, quelle que soit la forme qu'ils prennent. Vous pourriez suivre son exemple." #NT!
- POD_gehenna_omens.6669.c: "L'Amr a une solution efficace." #NT!
- POD_gehenna_omens.6669.c.tt: "Al-Ashrad, l'Amr, a développé un rituel de « fausse diablerie » qui permet à l'utilisateur de s'adonner à la Malédiction sans effets négatifs. Il s’agit d’un rituel difficile et, en tant que tel, réservé à quelques privilégiés." #NT!
- POD_gehenna_omens.6669.d: "Il y a une autre possibilité..." #NT!
- POD_gehenna_omens.6669.d.tt: "Thetmes prêche pour embrasser la malédiction. Pourquoi le combattre ? Si quelqu'un est assez faible pour se laisser diaboliser, cela signifie que son âme vous a probablement été plus utile comme repas que pour lui." #NT!
+ POD_gehenna_omens.6669.t: "Vivre avec la malédiction"
+ POD_gehenna_omens.6669.desc: "Cela fait dix longues années que la folle expédition d'Enkara a condamné les Banu Haqim à subir de plein fouet la malédiction de Baali. Ce fut une période difficile pour le [Clan|E] avec de nombreux événements malheureux du [diablerie|E] ternissant sa réputation autrefois excellente. Pourtant, les Enfants de Haqim ont enduré, comme ils le font toujours.\nLa Malédiction ne disparaîtra peut-être jamais vraiment et a laissé de vicieuses cicatrices dans la culture du clan, mais elle est désormais acceptée comme un fait de la non-vie, et chaque Banu Haqim découvre leur propre façon de faire face à cet obstacle.\nLes Banu Haqim ne seront plus jamais les mêmes, mais ils sont toujours là pour apprendre et grandir, comme l'avait prévu leur géniteur."
+ POD_gehenna_omens.6669.a: "Nous avons enduré."
+ POD_gehenna_omens.6669.a.tt: "Les Banu Haqim souffrent désormais d'un modificateur de malédiction Baali moins sévère."
+ POD_gehenna_omens.6669.b: "Trouver du réconfort dans la foi peut m’aider."
+ POD_gehenna_omens.6669.b.tt: "Jamal, le calife, enseigne aux autres Banu Haqim à se prémunir contre la malédiction Baali en trouvant du réconfort dans le Divin, quelle que soit la forme qu'ils prennent. Vous pourriez suivre son exemple."
+ POD_gehenna_omens.6669.c: "L'Amr a une solution efficace."
+ POD_gehenna_omens.6669.c.tt: "Al-Ashrad, l'Amr, a développé un rituel de « fausse diablerie » qui permet à l'utilisateur de s'adonner à la Malédiction sans effets négatifs. Il s’agit d’un rituel difficile et, en tant que tel, réservé à quelques privilégiés."
+ POD_gehenna_omens.6669.d: "Il y a une autre possibilité..."
+ POD_gehenna_omens.6669.d.tt: "Thetmes prêche pour embrasser la malédiction. Pourquoi le combattre ? Si quelqu'un est assez faible pour se laisser diaboliser, cela signifie que son âme vous a probablement été plus utile comme repas que pour lui."
   
- #POD_gehenna_omens.1244.t: "Géhenne : fin annoncée de l’échidné !" #NT!
- #POD_gehenna_omens.1244.desc: "Il y a longtemps, les [scylla.GetHouse.GetBaseName] ont prophétisé la fin des [last_of_the_glycon.GetHouse.GetBaseName] ainsi que leur propre disparition. Dans un vain effort pour détourner la prophétie, les guerriers cherchèrent à détruire les sorcières. Le dernier des Glycon, [last_of_the_glycon.GetFirstName], a tué l'enfant d'Echidna. Alors que le [scylla.GetFirstName] tombait en poussière, elle gémit une dernière prophétie : « Sous le pied d'un esclave se tordront les serpents du Nil. » \n\nDes rumeurs courent selon lesquelles quelques sorcières d'Echidna survivent encore." #NT!
- #POD_gehenna_omens.1244.a: "Incitez le guerrier à rejoindre ma cour." #NT!
- #POD_gehenna_omens.1244.a_success_glycon_1: "[last_of_the_glycon.GetFirstName] rejoint votre terrain." #NT!
- #POD_gehenna_omens.1244.a.tt.beast: "#R Non ! Il a faim de notre sang ! On connaît bien la faim !#!" #NT!
- #POD_gehenna_omens.1244.b: "Offrez un refuge aux sorcières" #NT!
- #POD_gehenna_omens.1244.b_success_witch_1: "[witch_of_echidna_1.GetFirstName] rejoint votre terrain." #NT!
- #POD_gehenna_omens.1244.b_success_witch_2: "[witch_of_echidna_2.GetFirstName] rejoint votre terrain." #NT!
- #POD_gehenna_omens.1244.b_success_witch_3: "[witch_of_echidna_3.GetFirstName] rejoint votre terrain." #NT!
- #POD_gehenna_omens.1244.b.tt.beast: "#R Oui ! Attirez-les ici puis prenez leur sang !#!" #NT!
- #POD_gehenna_omens.1244.c: "La prophétie s'accomplit ! Les derniers Typhonistes ne me concernent pas." #NT!
- #POD_gehenna_omens.1244.c.tt.beast: "#R Bon débarras ! Nous ne versons aucune larme sur ces sectateurs condamnés.#!" #NT!
+ #POD_gehenna_omens.1244.t: "Géhenne : fin annoncée de l’échidné !"
+ #POD_gehenna_omens.1244.desc: "Il y a longtemps, les [scylla.GetHouse.GetBaseName] ont prophétisé la fin des [last_of_the_glycon.GetHouse.GetBaseName] ainsi que leur propre disparition. Dans un vain effort pour détourner la prophétie, les guerriers cherchèrent à détruire les sorcières. Le dernier des Glycon, [last_of_the_glycon.GetFirstName], a tué l'enfant d'Echidna. Alors que le [scylla.GetFirstName] tombait en poussière, elle gémit une dernière prophétie : « Sous le pied d'un esclave se tordront les serpents du Nil. » \n\nDes rumeurs courent selon lesquelles quelques sorcières d'Echidna survivent encore."
+ #POD_gehenna_omens.1244.a: "Incitez le guerrier à rejoindre ma cour."
+ #POD_gehenna_omens.1244.a_success_glycon_1: "[last_of_the_glycon.GetFirstName] rejoint votre terrain."
+ #POD_gehenna_omens.1244.a.tt.beast: "#R Non ! Il a faim de notre sang ! On connaît bien la faim !#!"
+ #POD_gehenna_omens.1244.b: "Offrez un refuge aux sorcières"
+ #POD_gehenna_omens.1244.b_success_witch_1: "[witch_of_echidna_1.GetFirstName] rejoint votre terrain."
+ #POD_gehenna_omens.1244.b_success_witch_2: "[witch_of_echidna_2.GetFirstName] rejoint votre terrain."
+ #POD_gehenna_omens.1244.b_success_witch_3: "[witch_of_echidna_3.GetFirstName] rejoint votre terrain."
+ #POD_gehenna_omens.1244.b.tt.beast: "#R Oui ! Attirez-les ici puis prenez leur sang !#!"
+ #POD_gehenna_omens.1244.c: "La prophétie s'accomplit ! Les derniers Typhonistes ne me concernent pas."
+ #POD_gehenna_omens.1244.c.tt.beast: "#R Bon débarras ! Nous ne versons aucune larme sur ces sectateurs condamnés.#!"
   
- setite_infighting_modifier: "Luttes intestines" #NT!
- setite_infighting_modifier_desc: "La répression des mouvements hérétiques au sein du clan Setite s'est retournée contre eux, ce qui a fait que les sorcières d'Echidna et les guerriers de Glycon sont devenus incontrôlables." #NT!
- setite_infighting_glycon_modifier: "Les guerriers Séthites triomphent" #NT!
- setite_infighting_glycon_modifier_desc: "Les nuits de luttes intestines sont terminées pour les Séthites, les Glycons se sont reformés en une nouvelle faction plus loyale de Guerriers Séthites tandis que les Sorcières semblent parties pour de bon." #NT!
- setite_infighting_echidna_modifier: "Les sorcières d'Echidna triomphantes" #NT!
- setite_infighting_echidna_modifier_desc: "Les nuits de luttes intestines sont terminées pour les Setites, les brutaux Glycon sont (apparemment) partis pour de bon tandis que les sorcières d'Echidna ont été pleinement réintégrées dans le culte de Set." #NT!
+ setite_infighting_modifier: "Luttes intestines"
+ setite_infighting_modifier_desc: "La répression des mouvements hérétiques au sein du clan Setite s'est retournée contre eux, ce qui a fait que les sorcières d'Echidna et les guerriers de Glycon sont devenus incontrôlables."
+ setite_infighting_glycon_modifier: "Les guerriers Séthites triomphent"
+ setite_infighting_glycon_modifier_desc: "Les nuits de luttes intestines sont terminées pour les Séthites, les Glycons se sont reformés en une nouvelle faction plus loyale de Guerriers Séthites tandis que les Sorcières semblent parties pour de bon."
+ setite_infighting_echidna_modifier: "Les sorcières d'Echidna triomphantes"
+ setite_infighting_echidna_modifier_desc: "Les nuits de luttes intestines sont terminées pour les Setites, les brutaux Glycon sont (apparemment) partis pour de bon tandis que les sorcières d'Echidna ont été pleinement réintégrées dans le culte de Set."
   
- POD_gehenna_omens.1244.t: "Escrocs et sorcières" #NT!
- POD_gehenna_omens.1244.desc: "Le clan Setite est divisé entre de nombreuses factions. Ce qui était autrefois une force se transforme désormais en faiblesse.\nD'un côté, les Guerriers de Glycon, brutaux et avides de pouvoir, sévissent, ternissant la réputation de subtilité du clan avec leur attitude insensible à la suite des Croisades. Alors qu'elles constituaient autrefois une partie importante du triumvirat au pouvoir (Prêtres, Guerriers, Sorcières), elles sont désormais considérées par beaucoup comme un handicap.\nDe l'autre côté, les Sorcières d'Echidna ont prédit leur destin imminent et celui des Guerriers ainsi que eh bien, quelque chose qu'ils semblent pressés de provoquer avec leur dévouement hérétique au rôle de "mère des monstres".\nLes Hiérophantes ont récemment décrété une purge de ces deux factions, conduisant à de violentes luttes intestines dans les rangs. Cela les amène également à chercher des alliés partout où ils peuvent les trouver, promettant de rembourser leurs dettes plus tard." #NT!
- POD_gehenna_omens.1244.a: "Les Warriors ont mon soutien." #NT!
- POD_gehenna_omens.1244.b: "Les sorcières doivent être protégées." #NT!
- POD_gehenna_omens.1244.c: "Bon débarras." #NT!
- setite_faction_choice_tt: "Cette faction se souviendra que vous lui êtes venu en aide." #NT!
+ POD_gehenna_omens.1244.t: "Escrocs et sorcières"
+ POD_gehenna_omens.1244.desc: "Le clan Setite est divisé entre de nombreuses factions. Ce qui était autrefois une force se transforme désormais en faiblesse.\nD'un côté, les Guerriers de Glycon, brutaux et avides de pouvoir, sévissent, ternissant la réputation de subtilité du clan avec leur attitude insensible à la suite des Croisades. Alors qu'elles constituaient autrefois une partie importante du triumvirat au pouvoir (Prêtres, Guerriers, Sorcières), elles sont désormais considérées par beaucoup comme un handicap.\nDe l'autre côté, les Sorcières d'Echidna ont prédit leur destin imminent et celui des Guerriers ainsi que eh bien, quelque chose qu'ils semblent pressés de provoquer avec leur dévouement hérétique au rôle de "mère des monstres".\nLes Hiérophantes ont récemment décrété une purge de ces deux factions, conduisant à de violentes luttes intestines dans les rangs. Cela les amène également à chercher des alliés partout où ils peuvent les trouver, promettant de rembourser leurs dettes plus tard."
+ POD_gehenna_omens.1244.a: "Les Warriors ont mon soutien."
+ POD_gehenna_omens.1244.b: "Les sorcières doivent être protégées."
+ POD_gehenna_omens.1244.c: "Bon débarras."
+ setite_faction_choice_tt: "Cette faction se souviendra que vous lui êtes venu en aide."
   
- POD_gehenna_omens.6670.t: "Des escrocs aux Cobras" #NT!
- POD_gehenna_omens.6670.desc: "Les luttes intestines entre les différentes factions au sein du clan Setite se sont apaisées après la purge (apparemment) complète des sorcières d'Echidna. Les Guerriers de Glycon ont cependant réussi à sortir de cette épreuve étonnamment plus forts qu'avant, ayant freiné leurs pires excès pour se réinventer en "Guerrier Setites". Désormais surnommés les "Cobras", ils fournissent au clan une source fidèle de muscle souvent indispensable.\nIl faudra un certain temps à tout le monde pour digérer pleinement ce changement important, mais le clan Setite est désormais plus fort grâce à cette unité retrouvée.\nNon oubliant le soutien que vous leur avez apporté pendant ces moments difficiles, les Guerriers ont envoyé un membre de leur culte pour vous servir en guise de récompense." #NT!
- POD_gehenna_omens.6670.a: "Les sorcières ont réalisé leur propre prophétie." #NT!
+ POD_gehenna_omens.6670.t: "Des escrocs aux Cobras"
+ POD_gehenna_omens.6670.desc: "Les luttes intestines entre les différentes factions au sein du clan Setite se sont apaisées après la purge (apparemment) complète des sorcières d'Echidna. Les Guerriers de Glycon ont cependant réussi à sortir de cette épreuve étonnamment plus forts qu'avant, ayant freiné leurs pires excès pour se réinventer en "Guerrier Setites". Désormais surnommés les "Cobras", ils fournissent au clan une source fidèle de muscle souvent indispensable.\nIl faudra un certain temps à tout le monde pour digérer pleinement ce changement important, mais le clan Setite est désormais plus fort grâce à cette unité retrouvée.\nNon oubliant le soutien que vous leur avez apporté pendant ces moments difficiles, les Guerriers ont envoyé un membre de leur culte pour vous servir en guise de récompense."
+ POD_gehenna_omens.6670.a: "Les sorcières ont réalisé leur propre prophétie."
   
- POD_gehenna_omens.6671.t: "Sorcellerie" #NT!
- POD_gehenna_omens.6671.desc: "Les luttes intestines entre les différentes factions au sein du clan Setite se sont calmées suite à la purge (apparemment) complète des Guerriers de Glycon. Les Sorcières d'Echidna réussirent cependant à sortir de cette épreuve étonnamment plus fortes qu'avant, ayant freiné leurs pires excès pour se réinventer en prêtresses des différents masques de Seth. Ils fournissent désormais au clan une source fidèle de sens culturel, souvent indispensable, permettant aux Setites de s'adapter à de nouvelles religions et à de nouveaux pays beaucoup plus facilement qu'auparavant.\nIl faudra un certain temps à tout le monde pour digérer pleinement ce changement important, mais le clan Setite est maintenant plus forts grâce à cette nouvelle unité.\nSans oublier le soutien que vous leur avez apporté pendant ces moments difficiles, les Sorcières ont envoyé un membre de leur culte pour vous servir en guise de récompense." #NT!
- POD_gehenna_omens.6671.a: "Les Warriors ont fait rage jusqu'à leur propre fin." #NT!
+ POD_gehenna_omens.6671.t: "Sorcellerie"
+ POD_gehenna_omens.6671.desc: "Les luttes intestines entre les différentes factions au sein du clan Setite se sont calmées suite à la purge (apparemment) complète des Guerriers de Glycon. Les Sorcières d'Echidna réussirent cependant à sortir de cette épreuve étonnamment plus fortes qu'avant, ayant freiné leurs pires excès pour se réinventer en prêtresses des différents masques de Seth. Ils fournissent désormais au clan une source fidèle de sens culturel, souvent indispensable, permettant aux Setites de s'adapter à de nouvelles religions et à de nouveaux pays beaucoup plus facilement qu'auparavant.\nIl faudra un certain temps à tout le monde pour digérer pleinement ce changement important, mais le clan Setite est maintenant plus forts grâce à cette nouvelle unité.\nSans oublier le soutien que vous leur avez apporté pendant ces moments difficiles, les Sorcières ont envoyé un membre de leur culte pour vous servir en guise de récompense."
+ POD_gehenna_omens.6671.a: "Les Warriors ont fait rage jusqu'à leur propre fin."
   
- POD_gehenna_omens.6672.t: "Purge des serpents" #NT!
- POD_gehenna_omens.6672.desc: "Les luttes intestines entre les différentes factions du clan Setite se sont apaisées après la purge (apparemment) complète des Guerriers de Glycon et des Sorcières d'Echidna. Les Hiérophantes ont récemment déclaré que la purge était terminée et le clan Setite est à nouveau uni derrière son seul véritable objectif. Certains déplorent tranquillement la perte de puissance musculaire et d'expertise prophétique autrefois assurée par ces deux factions importantes.\nIl faudra un certain temps à tout le monde pour digérer pleinement ce changement important, mais le clan Setite est désormais plus fort grâce à cette nouvelle unité." #NT!
- POD_gehenna_omens.6672.a: "Guerriers et sorcières se sont réunis dans la mort." #NT!
+ POD_gehenna_omens.6672.t: "Purge des serpents"
+ POD_gehenna_omens.6672.desc: "Les luttes intestines entre les différentes factions du clan Setite se sont apaisées après la purge (apparemment) complète des Guerriers de Glycon et des Sorcières d'Echidna. Les Hiérophantes ont récemment déclaré que la purge était terminée et le clan Setite est à nouveau uni derrière son seul véritable objectif. Certains déplorent tranquillement la perte de puissance musculaire et d'expertise prophétique autrefois assurée par ces deux factions importantes.\nIl faudra un certain temps à tout le monde pour digérer pleinement ce changement important, mais le clan Setite est désormais plus fort grâce à cette nouvelle unité."
+ POD_gehenna_omens.6672.a: "Guerriers et sorcières se sont réunis dans la mort."
   
- POD_gehenna_omens.1251.notification: "Gehenna Omen : deuxième grand incendie de Lübeck" #NT!
- POD_gehenna_omens.1251.desc: "La ville de Lübeck subit un deuxième grand incendie. Ses nombreux bâtiments en bois se sont transformés en cendres et en cendres.\n\nPeut-être devraient-ils essayer de construire en pierre ?" #NT!
+ POD_gehenna_omens.1251.notification: "Gehenna Omen : deuxième grand incendie de Lübeck"
+ POD_gehenna_omens.1251.desc: "La ville de Lübeck subit un deuxième grand incendie. Ses nombreux bâtiments en bois se sont transformés en cendres et en cendres.\n\nPeut-être devraient-ils essayer de construire en pierre ?"
   
- POD_gehenna_omens.1252.notification: "Gehenna Omen : Inquisition de l’Ombre" #NT!
- POD_gehenna_omens.1252.desc: "L'Inquisition de l'Ombre de l'Église catholique a découvert et détruit un vampire Ventrue.\n\nIl était bien trop arrogant pour un si jeune." #NT!
+ POD_gehenna_omens.1252.notification: "Gehenna Omen : Inquisition de l’Ombre"
+ POD_gehenna_omens.1252.desc: "L'Inquisition de l'Ombre de l'Église catholique a découvert et détruit un vampire Ventrue.\n\nIl était bien trop arrogant pour un si jeune."
   
- POD_gehenna_omens.1253.notification: "Gehenna Omen : Incendie d'Utrecht" #NT!
- POD_gehenna_omens.1253.desc: "Un grand incendie fait rage dans la ville d'Utrecht dans le comté de Nedersticht pendant neuf nuits, détruisant la majeure partie de la ville.\n\nL'Inquisition de l'Ombre brûle-t-elle les villes pour purger les Vampires ?" #NT!
+ POD_gehenna_omens.1253.notification: "Gehenna Omen : Incendie d'Utrecht"
+ POD_gehenna_omens.1253.desc: "Un grand incendie fait rage dans la ville d'Utrecht dans le comté de Nedersticht pendant neuf nuits, détruisant la majeure partie de la ville.\n\nL'Inquisition de l'Ombre brûle-t-elle les villes pour purger les Vampires ?"
   
- POD_gehenna_omens.1257.notification: "Géhenne Omen : éruption de Samalas" #NT!
- POD_gehenna_omens.1257.desc: "Loin à l'est sur la petite île de Lombrok, la montagne de Samalas a explosé ! Comme Pompéi avant elle, la ville de Pamatan a été entièrement détruite. À plus de 200 milles de là, des cendres tombent sur Java. La fumée cache le soleil." #NT!
+ POD_gehenna_omens.1257.notification: "Géhenne Omen : éruption de Samalas"
+ POD_gehenna_omens.1257.desc: "Loin à l'est sur la petite île de Lombrok, la montagne de Samalas a explosé ! Comme Pompéi avant elle, la ville de Pamatan a été entièrement détruite. À plus de 200 milles de là, des cendres tombent sur Java. La fumée cache le soleil."
   
- POD_gehenna_omens.1258.notification: "Géhenne Omen : saccage de Bagdad" #NT!
- POD_gehenna_omens.1258.desc: "L'Ilkhanat mongol a mis à sac la grande ville de Bagdad. La ville est dépeuplée et ruinée. La Maison de la Sagesse est détruite. Le Tigre est rouge de sang et noir de l’encre des livres détruits. Avec la mort d'Al-Musta'sim, le califat abbasside meurt également." #NT!
+ POD_gehenna_omens.1258.notification: "Géhenne Omen : saccage de Bagdad"
+ POD_gehenna_omens.1258.desc: "L'Ilkhanat mongol a mis à sac la grande ville de Bagdad. La ville est dépeuplée et ruinée. La Maison de la Sagesse est détruite. Le Tigre est rouge de sang et noir de l’encre des livres détruits. Avec la mort d'Al-Musta'sim, le califat abbasside meurt également."
   
- POD_gehenna_omens.1259.notification: "Gehenna Omen : Le grand hiver d’Avalon" #NT!
- POD_gehenna_omens.1259.desc: "Tout a commencé avec un mystérieux brouillard sec et un nuage persistant. L'hiver dans le nord a été particulièrement rigoureux. Une famine s'est propagée dans les terres du nord, la Grande-Bretagne étant particulièrement touchée. Vingt mille mortels meurent de faim à Londres. Est-ce l'hiver éternel à venir des Fae ?" #NT!
+ POD_gehenna_omens.1259.notification: "Gehenna Omen : Le grand hiver d’Avalon"
+ POD_gehenna_omens.1259.desc: "Tout a commencé avec un mystérieux brouillard sec et un nuage persistant. L'hiver dans le nord a été particulièrement rigoureux. Une famine s'est propagée dans les terres du nord, la Grande-Bretagne étant particulièrement touchée. Vingt mille mortels meurent de faim à Londres. Est-ce l'hiver éternel à venir des Fae ?"
   
- POD_gehenna_omens.1260.notification: "Gehenna Omen : la purge de Baybars" #NT!
- POD_gehenna_omens.1260.desc: "En Egypte, le sultan des Mamelouks entame une purge implacable contre les surnaturels non musulmans. Les serpents se cachent dans leurs trous." #NT!
+ POD_gehenna_omens.1260.notification: "Gehenna Omen : la purge de Baybars"
+ POD_gehenna_omens.1260.desc: "En Egypte, le sultan des Mamelouks entame une purge implacable contre les surnaturels non musulmans. Les serpents se cachent dans leurs trous."
   
- POD_gehenna_omens.1268.notification: "Géhenne Omen : tremblement de terre de Cilicie" #NT!
- POD_gehenna_omens.1268.desc: "Le sol lui-même a tremblé, provoquant la ruine de la ville d'Adana. Plus de soixante mille mortels ont été écrasés à mort. Tous les bâtiments se sont effondrés." #NT!
+ POD_gehenna_omens.1268.notification: "Géhenne Omen : tremblement de terre de Cilicie"
+ POD_gehenna_omens.1268.desc: "Le sol lui-même a tremblé, provoquant la ruine de la ville d'Adana. Plus de soixante mille mortels ont été écrasés à mort. Tous les bâtiments se sont effondrés."
   
- POD_gehenna_omens.1271.notification: "Gehenna Omen : Troisième grand incendie de Lübeck" #NT!
- POD_gehenna_omens.1271.desc: "Un troisième grand incendie brûle une partie de la ville de Lübeck. Les bâtiments en pierre s’en sortent bien mieux que ceux en bois." #NT!
+ POD_gehenna_omens.1271.notification: "Gehenna Omen : Troisième grand incendie de Lübeck"
+ POD_gehenna_omens.1271.desc: "Un troisième grand incendie brûle une partie de la ville de Lübeck. Les bâtiments en pierre s’en sortent bien mieux que ceux en bois."
   
- POD_gehenna_omens.1287.t: "Géhenne : au lendemain du déluge lucien" #NT!
- POD_gehenna_omens.1287.desc: "Le soir de Sainte-Lucie, une violente tempête inonde la côte de la Frise. Quatre-vingt mille personnes ont été emportées par la noyade. Des centaines de villages perdus. Étant donné le solstice d'hiver pour les terres du Nord, les inondations et les morts massives se sont produites à un moment des plus inquiétants, lorsque la barrière entre les vivants et les morts est la plus mince. Plusieurs prophètes apparentés sont apparus dans ce chaos avec l’intention de s’emparer de la praxis. Curieusement, ils s’appellent tous Lucy." #NT!
- POD_gehenna_omens.1287.a: "Les catastrophes naturelles arrivent, ce n’est pas la volonté des dieux, anciens ou nouveaux." #NT!
- POD_gehenna_omens.1287.a.tt: "Ceux qui s'en souviennent disent que cette inondation était pire que la grande inondation de la mer du Nord en Hollande du Nord de 1212. L'inondation de la Hollande du Nord a duré six mois, mais la catastrophe de Sainte-Lucie est survenue en une seule nuit. Il s'agit de la pire inondation de l'histoire de l'Europe. Une nouvelle mer se forme qui s'appellera une nuit « Zuiderzee »." #NT!
- POD_gehenna_omens.1287.a.tt.malk: "#MALKBLUE IL Y A EU COMME UNE PLAGE DE TROIS À DIX-SEPT JUSQU'À CE QUE DANS CE SIGNET !#!" #NT!
- POD_gehenna_omens.1287.b: "Lucia est revenue pour apporter la rédemption ou la destruction. Je serai racheté !" #NT!
- POD_gehenna_omens.1287.b.tt: "Au 4ème siècle après JC, Sainte-Lucie apportait de la nourriture aux chrétiens cachés dans les catacombes sous Rome, mais nous, les morts-vivants, avons d'autres idées sur ce qui s'y passait. Lucia a été guérie comme par magie d'une maladie grâce aux prières de Lucia. Lucie refusa alors d'épouser un païen avec qui elle était fiancée. Les païens essayèrent de la brûler sur le bûcher, mais échouèrent. Ils l'ont poignardée à la gorge avec une lance, mais elle n'a pas arrêté de parler. Ils lui ont arraché les yeux, mais ils ont été miraculeusement restaurés. Elle ne mourrait pas tant qu'un prêtre ne lui aurait pas accordé ses derniers droits chrétiens.\n\nSon corps resta intact en Sicile pendant 400 ans. Ensuite, les reliques ont été déplacées à Constantinople pour être protégées des incursions sarrasines. Puis son cadavre disparut lors du sac de Constantinople en 1204 et de la ruine du rêve de Michel.\n\nPourquoi Dieu est-il revenu aux voies de l'Ancien Testament en punissant les méchants de Frise avec ce déluge épique lors de la nuit sainte de Sainte-Lucie ? Beaucoup de ces âmes ont accepté la foi des pêcheurs et cherchent à voyager au paradis des Rivages Lointains. Sainte Lucie nous appelle à retourner sur la Route du Ciel." #NT!
- POD_gehenna_omens.1287.b.tt.malk: "#MALKBLUE CHAUDS CROIX BUNS ! Petits pains croisés CHAUDS ! Un un centime, deux un centime, des petits pains croisés chauds ! Si vous n'avez pas de filles, donnez-les à vos fils. Un un centime, deux un centime, des petits pains croisés !#!" #NT!
- POD_gehenna_omens.1287.c: "La balade Lussiferda à nouveau ! Préparez mon destrier à la rejoindre !" #NT!
- POD_gehenna_omens.1287.c.tt: "Les Hommes du Nord ont un autre nom pour cette terrible nuit : « Lussinatta ». On disait que la Lussi, une sorte de surnaturel féminin maléfique, chevauchait dans les airs avec ses disciples, les Lussiferda. Les trolls, les mauvais esprits et les morts se réveilleraient en masse pour s'attaquer aux mortels imprudents au cours de cette longue et sombre nuit. Les enfants sont leurs plats préférés, car ils sont arrachés à leur domicile. Les hommes du Nord restent éveillés toute la nuit pour garder leur maison. Aujourd'hui, avec cette dévastation, beaucoup de ces hommes du Nord sont morts. Les gens pratiquant les anciennes méthodes sentent que leur destin est de servir Hel à Niflheim où leurs âmes construiront sa flotte pour le Ragnarok." #NT!
- POD_gehenna_omens.1287.c.tt.malk: "#MALKBLUE Mon CASQUE DE LANCE ET DE MAGIE ! VOTRE CASQUE DE LANCE ET DE MAGIE ? LANCE ET CASQUE MAGIQUE ! CASQUE MAGIQUE ? CASQUE MAGIQUE ! casque magique... OUI ! CASQUE MAGIQUE ET JE VOUS DONNERAI UN ÉCHANTILLON !#!" #NT!
- POD_gehenna_omens.1287.d: "Alina est un avatar de Lilith, voyez son génie !" #NT!
- POD_gehenna_omens.1287.d.tt: "Lucy vient du mot latin « lux » pour porteur de lumière. Son nom grec est Alina. Lucia, Lussi, Lucifer ou Alina — toutes des manifestations de la divine Lilith. Avec la magie de Lilith créant ce déluge en moquerie du Démiurge, la prêtresse de Lilith est venue réclamer leurs âmes damnées. Les Lamia répondent à l'appel aux armes dans ce monde et le [shadowlands|E]." #NT!
- POD_gehenna_omens.1287.d.tt.malk: "#MALKBLUE PAS de blagues à propos de LiL ! MDR! D'accord. Peut-être UN PETIT JO... ACK ! Euh! GuLP !#!" #NT!
- POD_gehenna_omens.1287.e: "La Frise sera gouvernée par les princes et la loi, et non par les adeptes d'un dieu mort." #NT!
- POD_gehenna_omens.1287.e.tt: "La Frise sera gouvernée par les princes et la loi, et non par les adeptes d'un dieu mort." #NT!
- POD_gehenna_omens.1287.e.tt.malk: "#MALKBLUE CHAQUE COUR A BESOIN D'UN JESTER DE COUR !#!" #NT!
- POD_gehenna_omens.1287.f: "Mystique ou pas, cela n'a pas d'importance pour moi. Je vais mon propre chemin." #NT!
- POD_gehenna_omens.1287.f.tt.malk: "#MALKBLUE Ramez, ramez, ramez votre bateau, descendez doucement le cri#!" #NT!
+ POD_gehenna_omens.1287.t: "Géhenne : au lendemain du déluge lucien"
+ POD_gehenna_omens.1287.desc: "Le soir de Sainte-Lucie, une violente tempête inonde la côte de la Frise. Quatre-vingt mille personnes ont été emportées par la noyade. Des centaines de villages perdus. Étant donné le solstice d'hiver pour les terres du Nord, les inondations et les morts massives se sont produites à un moment des plus inquiétants, lorsque la barrière entre les vivants et les morts est la plus mince. Plusieurs prophètes apparentés sont apparus dans ce chaos avec l’intention de s’emparer de la praxis. Curieusement, ils s’appellent tous Lucy."
+ POD_gehenna_omens.1287.a: "Les catastrophes naturelles arrivent, ce n’est pas la volonté des dieux, anciens ou nouveaux."
+ POD_gehenna_omens.1287.a.tt: "Ceux qui s'en souviennent disent que cette inondation était pire que la grande inondation de la mer du Nord en Hollande du Nord de 1212. L'inondation de la Hollande du Nord a duré six mois, mais la catastrophe de Sainte-Lucie est survenue en une seule nuit. Il s'agit de la pire inondation de l'histoire de l'Europe. Une nouvelle mer se forme qui s'appellera une nuit « Zuiderzee »."
+ POD_gehenna_omens.1287.a.tt.malk: "#MALKBLUE IL Y A EU COMME UNE PLAGE DE TROIS À DIX-SEPT JUSQU'À CE QUE DANS CE SIGNET !#!"
+ POD_gehenna_omens.1287.b: "Lucia est revenue pour apporter la rédemption ou la destruction. Je serai racheté !"
+ POD_gehenna_omens.1287.b.tt: "Au 4ème siècle après JC, Sainte-Lucie apportait de la nourriture aux chrétiens cachés dans les catacombes sous Rome, mais nous, les morts-vivants, avons d'autres idées sur ce qui s'y passait. Lucia a été guérie comme par magie d'une maladie grâce aux prières de Lucia. Lucie refusa alors d'épouser un païen avec qui elle était fiancée. Les païens essayèrent de la brûler sur le bûcher, mais échouèrent. Ils l'ont poignardée à la gorge avec une lance, mais elle n'a pas arrêté de parler. Ils lui ont arraché les yeux, mais ils ont été miraculeusement restaurés. Elle ne mourrait pas tant qu'un prêtre ne lui aurait pas accordé ses derniers droits chrétiens.\n\nSon corps resta intact en Sicile pendant 400 ans. Ensuite, les reliques ont été déplacées à Constantinople pour être protégées des incursions sarrasines. Puis son cadavre disparut lors du sac de Constantinople en 1204 et de la ruine du rêve de Michel.\n\nPourquoi Dieu est-il revenu aux voies de l'Ancien Testament en punissant les méchants de Frise avec ce déluge épique lors de la nuit sainte de Sainte-Lucie ? Beaucoup de ces âmes ont accepté la foi des pêcheurs et cherchent à voyager au paradis des Rivages Lointains. Sainte Lucie nous appelle à retourner sur la Route du Ciel."
+ POD_gehenna_omens.1287.b.tt.malk: "#MALKBLUE CHAUDS CROIX BUNS ! Petits pains croisés CHAUDS ! Un un centime, deux un centime, des petits pains croisés chauds ! Si vous n'avez pas de filles, donnez-les à vos fils. Un un centime, deux un centime, des petits pains croisés !#!"
+ POD_gehenna_omens.1287.c: "La balade Lussiferda à nouveau ! Préparez mon destrier à la rejoindre !"
+ POD_gehenna_omens.1287.c.tt: "Les Hommes du Nord ont un autre nom pour cette terrible nuit : « Lussinatta ». On disait que la Lussi, une sorte de surnaturel féminin maléfique, chevauchait dans les airs avec ses disciples, les Lussiferda. Les trolls, les mauvais esprits et les morts se réveilleraient en masse pour s'attaquer aux mortels imprudents au cours de cette longue et sombre nuit. Les enfants sont leurs plats préférés, car ils sont arrachés à leur domicile. Les hommes du Nord restent éveillés toute la nuit pour garder leur maison. Aujourd'hui, avec cette dévastation, beaucoup de ces hommes du Nord sont morts. Les gens pratiquant les anciennes méthodes sentent que leur destin est de servir Hel à Niflheim où leurs âmes construiront sa flotte pour le Ragnarok."
+ POD_gehenna_omens.1287.c.tt.malk: "#MALKBLUE Mon CASQUE DE LANCE ET DE MAGIE ! VOTRE CASQUE DE LANCE ET DE MAGIE ? LANCE ET CASQUE MAGIQUE ! CASQUE MAGIQUE ? CASQUE MAGIQUE ! casque magique... OUI ! CASQUE MAGIQUE ET JE VOUS DONNERAI UN ÉCHANTILLON !#!"
+ POD_gehenna_omens.1287.d: "Alina est un avatar de Lilith, voyez son génie !"
+ POD_gehenna_omens.1287.d.tt: "Lucy vient du mot latin « lux » pour porteur de lumière. Son nom grec est Alina. Lucia, Lussi, Lucifer ou Alina — toutes des manifestations de la divine Lilith. Avec la magie de Lilith créant ce déluge en moquerie du Démiurge, la prêtresse de Lilith est venue réclamer leurs âmes damnées. Les Lamia répondent à l'appel aux armes dans ce monde et le [shadowlands|E]."
+ POD_gehenna_omens.1287.d.tt.malk: "#MALKBLUE PAS de blagues à propos de LiL ! MDR! D'accord. Peut-être UN PETIT JO... ACK ! Euh! GuLP !#!"
+ POD_gehenna_omens.1287.e: "La Frise sera gouvernée par les princes et la loi, et non par les adeptes d'un dieu mort."
+ POD_gehenna_omens.1287.e.tt: "La Frise sera gouvernée par les princes et la loi, et non par les adeptes d'un dieu mort."
+ POD_gehenna_omens.1287.e.tt.malk: "#MALKBLUE CHAQUE COUR A BESOIN D'UN JESTER DE COUR !#!"
+ POD_gehenna_omens.1287.f: "Mystique ou pas, cela n'a pas d'importance pour moi. Je vais mon propre chemin."
+ POD_gehenna_omens.1287.f.tt.malk: "#MALKBLUE Ramez, ramez, ramez votre bateau, descendez doucement le cri#!"
   
   
   

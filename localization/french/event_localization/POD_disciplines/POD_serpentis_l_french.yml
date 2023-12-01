@@ -1,39 +1,38 @@
 ﻿l_french:
-  
- POD_heart_of_darkness.001.t: "Cœur des ténèbres" #NT!
- POD_heart_of_darkness.001.desc: "Il est temps de s’éloigner encore plus de l’humanité. Tout est prêt pour un sombre rituel qui vous permettra de retirer votre propre cœur, devenant ainsi maître de votre propre destin, votre Bête ayant moins d'influence sur vous. Mais avez-vous assez de courage pour continuer ?" #NT!
- POD_heart_of_darkness.001.option.a: "Le temps est venu" #NT!
- POD_heart_of_darkness.001.option.a.tt: "Tu enlèveras ton cœur" #NT!
- POD_heart_of_darkness.001.option.a.tt.beast: "#R Une grosse erreur !#!" #NT!
- POD_heart_of_darkness.001.option.b: "je ne suis pas prêt" #NT!
- POD_heart_of_darkness.001.option.b.tt: "Vous abandonnez votre tentative de subir un rituel" #NT!
- POD_heart_of_darkness.001.option.b.tt.beast: "#R C'est vrai ! Tu ne peux pas survivre sans moi !#!" #NT!
-  
- POD_heart_of_darkness.002.t: "Sans coeur" #NT!
- POD_heart_of_darkness.002.desc: "C'est enfin fait, le rituel est terminé. Vous sentez que vos émotions deviennent plus sourdes, ce qui facilite votre survie. L’inconvénient est qu’il devient plus difficile pour vous de comprendre les gens et que vos ennemis pourraient désormais trouver votre cœur et le détruire. Mais le plus gros bénéfice concerne la Bête, elle est désormais plus silencieuse, plus facile à dompter." #NT!
- POD_heart_of_darkness.002.option.a: "Les émotions n'ont aucun contrôle sur moi !" #NT!
- POD_heart_of_darkness.002.option.a.tt: "Vous avez réussi à retirer votre cœur, mais vous pouvez toujours le remettre dans votre poitrine" #NT!
-  
- POD_heart_of_darkness.003.t: "Voler des coeurs" #NT!
- POD_heart_of_darkness.003.desc: "Le moment est venu, vous êtes prêt à effectuer votre sombre rituel sur [heart_victim.GetFirstName]. [heart_victim.GetSheHe] ne saura même pas ce qui s'est passé jusqu'à ce qu'il soit trop tard et que vous possédez le cœur [heart_victim.GetHerHis] ! Il ne vous reste plus qu’à mettre en œuvre votre sombre plan." #NT!
- POD_heart_of_darkness.003.option.a: "[heart_victim.GetHerHis|U] cœur sera à moi !" #NT!
- POD_heart_of_darkness.003.option.a.tt: "Vous essayez de voler [heart_victim.GetFirstNamePossessive] cœur" #NT!
- POD_heart_of_darkness.003.option.a.tt.beast: "#R Nous allons posséder [heart_victim.GetHerHim] !#!" #NT!
- POD_heart_of_darkness.003.option.a.desc: "Le plan se met en marche." #NT!
- POD_heart_of_darkness.003.option.a.success: "Vous avez réussi à voler le cœur." #NT!
- POD_heart_of_darkness.003.option.a.failure: "Vous ne parvenez pas à voler le cœur." #NT!
- POD_heart_of_darkness.003.option.a.tt.attacker_wins: "Vous possédez le cœur de [heart_victim.GetFirstName]" #NT!
- POD_heart_of_darkness.003.option.a.tt.defender_wins: "Vous échouez de façon spectaculaire et devez maintenant en assumer les conséquences." #NT!
- POD_heart_of_darkness.003.option.b: "Ce n'est pas encore le moment..." #NT!
- POD_heart_of_darkness.003.option.b.tt: "Vous abandonnez votre projet de voler [heart_victim.GetFirstNamePossessive] cœur." #NT!
- POD_heart_of_darkness.003.option.b.tt.beast: "#R Vous me décevez !#!" #NT!
-  
- POD_heart_of_darkness.004.t: "Cœur conquis" #NT!
- POD_heart_of_darkness.004.desc: "Votre sombre rituel a réussi ! [heart_victim.GetFirstName], impuissant, vous a regardé prendre le cœur de [heart_victim.GetHerHis], sans pouvoir arrêter le rituel. Et maintenant, il ne peut qu'espérer que vous ne déciderez pas de mettre fin au [heart_victim.GetHerHis] non-vie. Vous rentrez chez vous avec une nouvelle pièce de votre collection sombre." #NT!
- POD_heart_of_darkness.004.option.a: "Votre vie est entre mes mains maintenant." #NT!
- POD_heart_of_darkness.004.option.a.tt: "Vous avez réussi à voler [heart_victim.GetFirstNamePossessive] cœur." #NT!
-  
- POD_heart_of_darkness.005.t: "Cœur invaincu" #NT!
- POD_heart_of_darkness.005.desc: "[heart_victim.GetFirstName] voit clair dans votre plan et vous échappe. Le rituel n'est pas terminé et peu de choses peuvent se comparer à la colère du [heart_victim.GetFirstNamePossessive]. A peine échappé à votre vie, vous craignez ce que [heart_victim.GetFirstName] pourrait entreprendre pour se venger de vous." #NT!
- POD_heart_of_darkness.005.option.a: "Il est temps de courir !" #NT!
- POD_heart_of_darkness.005.option.a.tt: "Votre plan n'a pas réussi." #NT!
+    POD_heart_of_darkness.001.t: "Cœur des ténèbres"
+    POD_heart_of_darkness.001.desc: "Il est temps de s’éloigner encore plus de l’humanité. Tout est prêt pour un sombre rituel qui vous permettra de retirer votre propre cœur, devenant ainsi maître de votre propre destin, votre Bête ayant moins d'influence sur vous. Mais avez-vous assez de courage pour continuer ?"
+    POD_heart_of_darkness.001.option.a: "Le temps est venu"
+    POD_heart_of_darkness.001.option.a.tt: "Tu enlèveras ton cœur"
+    POD_heart_of_darkness.001.option.a.tt.beast: "#R Une grosse erreur !#!"
+    POD_heart_of_darkness.001.option.b: "je ne suis pas prêt"
+    POD_heart_of_darkness.001.option.b.tt: "Vous abandonnez votre tentative de subir un rituel"
+    POD_heart_of_darkness.001.option.b.tt.beast: "#R C'est vrai ! Tu ne peux pas survivre sans moi !#!"
+
+    POD_heart_of_darkness.002.t: "Sans coeur"
+    POD_heart_of_darkness.002.desc: "C'est enfin fait, le rituel est terminé. Vous sentez que vos émotions deviennent plus sourdes, ce qui facilite votre survie. L’inconvénient est qu’il devient plus difficile pour vous de comprendre les gens et que vos ennemis pourraient désormais trouver votre cœur et le détruire. Mais le plus gros bénéfice concerne la Bête, elle est désormais plus silencieuse, plus facile à dompter."
+    POD_heart_of_darkness.002.option.a: "Les émotions n'ont aucun contrôle sur moi !"
+    POD_heart_of_darkness.002.option.a.tt: "Vous avez réussi à retirer votre cœur, mais vous pouvez toujours le remettre dans votre poitrine"
+
+    POD_heart_of_darkness.003.t: "Voler des coeurs"
+    POD_heart_of_darkness.003.desc: "Le moment est venu, vous êtes prêt à effectuer votre sombre rituel sur [heart_victim.GetFirstName]. [heart_victim.GetSheHe] ne saura même pas ce qui s'est passé jusqu'à ce qu'il soit trop tard et que vous possédez le cœur [heart_victim.GetHerHis] ! Il ne vous reste plus qu’à mettre en œuvre votre sombre plan."
+    POD_heart_of_darkness.003.option.a: "[heart_victim.GetHerHis|U] cœur sera à moi !"
+    POD_heart_of_darkness.003.option.a.tt: "Vous essayez de voler [heart_victim.GetFirstNamePossessive] cœur"
+    POD_heart_of_darkness.003.option.a.tt.beast: "#R Nous allons posséder [heart_victim.GetHerHim] !#!"
+    POD_heart_of_darkness.003.option.a.desc: "Le plan se met en marche."
+    POD_heart_of_darkness.003.option.a.success: "Vous avez réussi à voler le cœur."
+    POD_heart_of_darkness.003.option.a.failure: "Vous ne parvenez pas à voler le cœur."
+    POD_heart_of_darkness.003.option.a.tt.attacker_wins: "Vous possédez le cœur de [heart_victim.GetFirstName]"
+    POD_heart_of_darkness.003.option.a.tt.defender_wins: "Vous échouez de façon spectaculaire et devez maintenant en assumer les conséquences."
+    POD_heart_of_darkness.003.option.b: "Ce n'est pas encore le moment..."
+    POD_heart_of_darkness.003.option.b.tt: "Vous abandonnez votre projet de voler [heart_victim.GetFirstNamePossessive] cœur."
+    POD_heart_of_darkness.003.option.b.tt.beast: "#R Vous me décevez !#!"
+
+    POD_heart_of_darkness.004.t: "Cœur conquis"
+    POD_heart_of_darkness.004.desc: "Votre sombre rituel a réussi ! [heart_victim.GetFirstName], impuissant, vous a regardé prendre le cœur de [heart_victim.GetHerHis], sans pouvoir arrêter le rituel. Et maintenant, il ne peut qu'espérer que vous ne déciderez pas de mettre fin au [heart_victim.GetHerHis] non-vie. Vous rentrez chez vous avec une nouvelle pièce de votre collection sombre."
+    POD_heart_of_darkness.004.option.a: "Votre vie est entre mes mains maintenant."
+    POD_heart_of_darkness.004.option.a.tt: "Vous avez réussi à voler [heart_victim.GetFirstNamePossessive] cœur."
+
+    POD_heart_of_darkness.005.t: "Cœur invaincu"
+    POD_heart_of_darkness.005.desc: "[heart_victim.GetFirstName] voit clair dans votre plan et vous échappe. Le rituel n'est pas terminé et peu de choses peuvent se comparer à la colère du [heart_victim.GetFirstNamePossessive]. A peine échappé à votre vie, vous craignez ce que [heart_victim.GetFirstName] pourrait entreprendre pour se venger de vous."
+    POD_heart_of_darkness.005.option.a: "Il est temps de courir !"
+    POD_heart_of_darkness.005.option.a.tt: "Votre plan n'a pas réussi."

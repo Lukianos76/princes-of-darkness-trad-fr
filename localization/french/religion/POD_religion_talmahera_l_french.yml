@@ -1,96 +1,94 @@
 ﻿l_french:
-  
-  #Common Road of Paradox Localization 
- talmahera_religion: "Tal'Mahe'Ra" #NT!
- talmahera_religion_adj: "Tal'Mahe'Ra" #NT!
- talmahera_religion_adherent: "Croisé de l'Ombre" #NT!
- talmahera_religion_adherent_plural: "Croisés de l'Ombre" #NT!
- talmahera_religion_desc: "Également connu sous le nom de Vraie Main Noire ou Manus Nigrum, il s'agit d'un ancien culte de la mort consacré au culte d'une cabale d'êtres connus sous le nom d'Aralu, que le culte croit être [antediluvians|E], qui dorment dans la ville fantôme d'Enoch. au plus profond des terres des morts." #NT!
- talmahera_high_god_name: "L'Aralu" #NT!
- talmahera_high_god_name_possessive: "Les Aralu" #NT!
- talmahera_high_god_name_alternate: "Les Antédiluviens" #NT!
- talmahera_high_god_name_alternate_possessive: "Les Antédiluviens" #NT!
- talmahera_good_god_jesus: "$talmahera_health_god_name$" #NT!
- talmahera_good_god_christ: "Nergal" #NT!
- talmahera_devil_name: "Populace" #NT!
- talmahera_devil_name_possessive: "La canaille" #NT!
- talmahera_evil_god_lucifer: "Populace" #NT!
- talmahera_evil_god_beelzebub: "Populace" #NT!
- talmahera_evil_god_mephistopheles: "Populace" #NT!
- talmahera_death_deity_name: "Destruction" #NT!
- talmahera_death_deity_name_possessive: "Destruction" #NT!
- talmahera_house_of_worship: "temple secret" #NT!
- talmahera_house_of_worship_plural: "temples secrets" #NT!
- talmahera_religious_symbol: "Main noire" #NT!
- talmahera_religious_text: "Livre de signe de tête" #NT!
- talmahera_religious_head_title: "Del'Roh" #NT!
- talmahera_religious_head_title_name: "Del'Roh" #NT!
- talmahera_devotee_male: "Rawi" #NT!
- talmahera_devotee_male_plural: "Rawi" #NT!
- talmahera_devotee_female: "Rawi" #NT!
- talmahera_devotee_female_plural: "Rawi" #NT!
- talmahera_devotee_neuter: "Rawi" #NT!
- talmahera_devotee_neuter_plural: "Rawi" #NT!
- talmahera_priest_male: "Rawi" #NT!
- talmahera_priest_male_plural: "Rawi" #NT!
- talmahera_priest_alternate_plural: "Rawi" #NT!
- talmahera_bishop: "Qadis" #NT!
- talmahera_bishop_plural: "Qadis" #NT!
- talmahera_divine_realm: "Hénoc" #NT!
- talmahera_positive_afterlife: "Hénoc" #NT!
- talmahera_negative_afterlife: "Oubli" #NT!
- talmahera_witchgodname_the_horned_god: "la bête" #NT!
- talmahera_witchgodname_the_horned_god_possessive: "Les bêtes" #NT!
-  
- talmahera_creator_god_name: "$talmahera_high_god_name$" #NT!
- talmahera_creator_god_name_possessive: "$talmahera_high_god_name_possessive$" #NT!
- talmahera_health_god_name: "Loz" #NT!
- talmahera_health_god_name_possessive: "celui de Loz" #NT!
- talmahera_fertility_god_name: "$talmahera_high_god_name$" #NT!
- talmahera_fertility_god_name_possessive: "$talmahera_high_god_name_possessive$" #NT!
- talmahera_wealth_god_name: "$talmahera_high_god_name$" #NT!
- talmahera_wealth_god_name_possessive: "$talmahera_high_god_name_possessive$" #NT!
- talmahera_household_god_name: "$talmahera_health_god_name$" #NT!
- talmahera_household_god_name_possessive: "$talmahera_health_god_name_possessive$" #NT!
- talmahera_fate_god_name: "$talmahera_high_god_name$" #NT!
- talmahera_fate_god_name_possessive: "$talmahera_high_god_name_possessive$" #NT!
- talmahera_knowledge_god_name: "$talmahera_high_god_name$" #NT!
- talmahera_knowledge_god_name_possessive: "$talmahera_high_god_name_possessive$" #NT!
- talmahera_war_god_name: "$talmahera_high_god_name$" #NT!
- talmahera_war_god_name_possessive: "$talmahera_high_god_name_possessive$" #NT!
- talmahera_trickster_god_name: "Nimug" #NT!
- talmahera_trickster_god_name_possessive: "Ninmug" #NT!
- talmahera_night_god_name: "$talmahera_high_god_name$" #NT!
- talmahera_night_god_name_possessive: "$talmahera_high_god_name_possessive$" #NT!
- talmahera_water_god_name: "$talmahera_health_god_name$" #NT!
- talmahera_water_god_name_possessive: "$talmahera_health_god_name_possessive$" #NT!
-  
-  #Black-Hand-Group Faiths 
- talmahera: "Tal'Mahe'Ra" #NT!
- talmahera_adj: "Tal'Mahe'Ra" #NT!
- talmahera_adherent: "Croisé de l'Ombre" #NT!
- talmahera_adherent_plural: "Croisés de l'Ombre" #NT!
- talmahera_desc: "Le Tal'Mahe'Ra est une ancienne organisation formée par une alliance improbable entre des mages Chakravanti et plusieurs clans de vampires (notamment les Assamites), bien que ses membres comprennent également d'autres créatures surnaturelles en plus des vampires et des mages." #NT!
-  
- manusnigrum: "Manus Nigrum" #NT!
- manusnigrum_adj: "Manus Nigrum" #NT!
- manusnigrum_adherent: "Main noire" #NT!
- manusnigrum_adherent_plural: "Mains noires" #NT!
- manusnigrum_desc: "La branche occidentale d'un ancien culte de la mort consacré au culte d'une cabale d'êtres connus sous le nom d'Aralu, qu'ils croyaient être [antediluvians|E], qui dormait dans la ville fantôme d'Enoch au plus profond des terres des morts. Le culte s'est principalement impliqué dans la politique des vampires en planifiant l'anéantissement des Baali." #NT!
-  
- pathofselffocus: "Chemin de la concentration sur soi" #NT!
- pathofselffocus_adj: "Internaliste" #NT!
- pathofselffocus_adherent: "Internalistes" #NT!
- pathofselffocus_adherent_plural: "Internaliste" #NT!
- pathofselffocus_desc: "Les internalistes croient qu'en acceptant le cours de l'univers et en le suivant sans interférence, ils pourraient mettre fin aux conflits internes et ainsi arrêter la Bête. Parce que changer le monde est impossible, on ne peut que se changer soi-même pour s'adapter au monde, affirment-ils." #NT!
-  
- pathofthescorchedheart: "Chemin du Cœur Brûlé" #NT!
- pathofthescorchedheart_adj: "Rathmonicusi" #NT!
- pathofthescorchedheart_adherent: "Impitoyable" #NT!
- pathofthescorchedheart_adherent_plural: "Impitoyable" #NT!
- pathofthescorchedheart_desc: "Basé sur le Livre du Cœur Vide de Rathmonicus qui a été diffusé pour la première fois parmi quelques vampires de l'Église catholique ; ses écritures furent ensuite réunies et compilées par la Vraie Main Noire. La Voie du Cœur Brûlé contrôle la Bête en éradiquant systématiquement toute émotion dans le cœur du vampire." #NT!
-  
- holy_order_enoch_peacekeepers: "Enoch Casques bleus" #NT!
- holy_order_spenta_aurvat_column: "Colonne Spenta-Aurvat" #NT!
-  
-  
+    #Common Road of Paradox Localization
+    talmahera_religion: "Tal'Mahe'Ra"
+    talmahera_religion_adj: "Tal'Mahe'Ra"
+    talmahera_religion_adherent: "Croisé de l'Ombre"
+    talmahera_religion_adherent_plural: "Croisés de l'Ombre"
+    talmahera_religion_desc: "Également connu sous le nom de Vraie Main Noire ou Manus Nigrum, il s'agit d'un ancien culte de la mort consacré au culte d'une cabale d'êtres connus sous le nom d'Aralu, que le culte croit être [antediluvians|E], qui dorment dans la ville fantôme d'Enoch. au plus profond des terres des morts."
+    talmahera_high_god_name: "L'Aralu"
+    talmahera_high_god_name_possessive: "Les Aralu"
+    talmahera_high_god_name_alternate: "Les Antédiluviens"
+    talmahera_high_god_name_alternate_possessive: "Les Antédiluviens"
+    talmahera_good_god_jesus: "$talmahera_health_god_name$"
+    talmahera_good_god_christ: "Nergal"
+    talmahera_devil_name: "Populace"
+    talmahera_devil_name_possessive: "La canaille"
+    talmahera_evil_god_lucifer: "Populace"
+    talmahera_evil_god_beelzebub: "Populace"
+    talmahera_evil_god_mephistopheles: "Populace"
+    talmahera_death_deity_name: "Destruction"
+    talmahera_death_deity_name_possessive: "Destruction"
+    talmahera_house_of_worship: "temple secret"
+    talmahera_house_of_worship_plural: "temples secrets"
+    talmahera_religious_symbol: "Main noire"
+    talmahera_religious_text: "Livre de signe de tête"
+    talmahera_religious_head_title: "Del'Roh"
+    talmahera_religious_head_title_name: "Del'Roh"
+    talmahera_devotee_male: "Rawi"
+    talmahera_devotee_male_plural: "Rawi"
+    talmahera_devotee_female: "Rawi"
+    talmahera_devotee_female_plural: "Rawi"
+    talmahera_devotee_neuter: "Rawi"
+    talmahera_devotee_neuter_plural: "Rawi"
+    talmahera_priest_male: "Rawi"
+    talmahera_priest_male_plural: "Rawi"
+    talmahera_priest_alternate_plural: "Rawi"
+    talmahera_bishop: "Qadis"
+    talmahera_bishop_plural: "Qadis"
+    talmahera_divine_realm: "Hénoc"
+    talmahera_positive_afterlife: "Hénoc"
+    talmahera_negative_afterlife: "Oubli"
+    talmahera_witchgodname_the_horned_god: "la bête"
+    talmahera_witchgodname_the_horned_god_possessive: "Les bêtes"
+
+    talmahera_creator_god_name: "$talmahera_high_god_name$"
+    talmahera_creator_god_name_possessive: "$talmahera_high_god_name_possessive$"
+    talmahera_health_god_name: "Loz"
+    talmahera_health_god_name_possessive: "celui de Loz"
+    talmahera_fertility_god_name: "$talmahera_high_god_name$"
+    talmahera_fertility_god_name_possessive: "$talmahera_high_god_name_possessive$"
+    talmahera_wealth_god_name: "$talmahera_high_god_name$"
+    talmahera_wealth_god_name_possessive: "$talmahera_high_god_name_possessive$"
+    talmahera_household_god_name: "$talmahera_health_god_name$"
+    talmahera_household_god_name_possessive: "$talmahera_health_god_name_possessive$"
+    talmahera_fate_god_name: "$talmahera_high_god_name$"
+    talmahera_fate_god_name_possessive: "$talmahera_high_god_name_possessive$"
+    talmahera_knowledge_god_name: "$talmahera_high_god_name$"
+    talmahera_knowledge_god_name_possessive: "$talmahera_high_god_name_possessive$"
+    talmahera_war_god_name: "$talmahera_high_god_name$"
+    talmahera_war_god_name_possessive: "$talmahera_high_god_name_possessive$"
+    talmahera_trickster_god_name: "Nimug"
+    talmahera_trickster_god_name_possessive: "Ninmug"
+    talmahera_night_god_name: "$talmahera_high_god_name$"
+    talmahera_night_god_name_possessive: "$talmahera_high_god_name_possessive$"
+    talmahera_water_god_name: "$talmahera_health_god_name$"
+    talmahera_water_god_name_possessive:
+        "$talmahera_health_god_name_possessive$"
+
+        #Black-Hand-Group Faiths
+    talmahera: "Tal'Mahe'Ra"
+    talmahera_adj: "Tal'Mahe'Ra"
+    talmahera_adherent: "Croisé de l'Ombre"
+    talmahera_adherent_plural: "Croisés de l'Ombre"
+    talmahera_desc: "Le Tal'Mahe'Ra est une ancienne organisation formée par une alliance improbable entre des mages Chakravanti et plusieurs clans de vampires (notamment les Assamites), bien que ses membres comprennent également d'autres créatures surnaturelles en plus des vampires et des mages."
+
+    manusnigrum: "Manus Nigrum"
+    manusnigrum_adj: "Manus Nigrum"
+    manusnigrum_adherent: "Main noire"
+    manusnigrum_adherent_plural: "Mains noires"
+    manusnigrum_desc: "La branche occidentale d'un ancien culte de la mort consacré au culte d'une cabale d'êtres connus sous le nom d'Aralu, qu'ils croyaient être [antediluvians|E], qui dormait dans la ville fantôme d'Enoch au plus profond des terres des morts. Le culte s'est principalement impliqué dans la politique des vampires en planifiant l'anéantissement des Baali."
+
+    pathofselffocus: "Chemin de la concentration sur soi"
+    pathofselffocus_adj: "Internaliste"
+    pathofselffocus_adherent: "Internalistes"
+    pathofselffocus_adherent_plural: "Internaliste"
+    pathofselffocus_desc: "Les internalistes croient qu'en acceptant le cours de l'univers et en le suivant sans interférence, ils pourraient mettre fin aux conflits internes et ainsi arrêter la Bête. Parce que changer le monde est impossible, on ne peut que se changer soi-même pour s'adapter au monde, affirment-ils."
+
+    pathofthescorchedheart: "Chemin du Cœur Brûlé"
+    pathofthescorchedheart_adj: "Rathmonicusi"
+    pathofthescorchedheart_adherent: "Impitoyable"
+    pathofthescorchedheart_adherent_plural: "Impitoyable"
+    pathofthescorchedheart_desc: "Basé sur le Livre du Cœur Vide de Rathmonicus qui a été diffusé pour la première fois parmi quelques vampires de l'Église catholique ; ses écritures furent ensuite réunies et compilées par la Vraie Main Noire. La Voie du Cœur Brûlé contrôle la Bête en éradiquant systématiquement toute émotion dans le cœur du vampire."
+
+    holy_order_enoch_peacekeepers: "Enoch Casques bleus"
+    holy_order_spenta_aurvat_column: "Colonne Spenta-Aurvat"

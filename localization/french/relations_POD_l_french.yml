@@ -1,62 +1,62 @@
 ﻿l_french:
- shadow_twin_master: "[shadow_twin_master|E]" #NT!
- shadow_twin_servant: "[shadow_twin_servant|E]" #NT!
-  
- mirror_duplicate_master: "Original" #NT!
- mirror_duplicate_servant: "Dupliquer miroir" #NT!
-  
- darkling_mirror_master: "Rester corps" #NT!
- darkling_mirror_servant: "Split P'o" #NT!
-  
- shadowy_duplicate_master: "Original" #NT!
- shadowy_duplicate_servant: "Duplicata ténébreux" #NT!
-  
- phantom_shadow_master: "Original" #NT!
- phantom_shadow_servant: "Ombre fantôme" #NT!
-  
- separated_khaibit_master: "Créateur" #NT!
- separated_khaibit_servant: "Khaibit séparé" #NT!
-  
- separated_shadow_master: "Psyché" #NT!
- separated_shadow_servant: "Ombre" #NT!
-  
- unspeakable_servitor_master: "Possesseur" #NT!
- unspeakable_servitor_servant: "Corps hôte" #NT!
-  
- ghoul_domitor: "[domitor|E]" #NT!
- ghoul_thrall: "[Ghoul|E]" #NT!
-  
- herd_owner: "Propriétaire" #NT!
- herd_member: "Troupeau" #NT!
-  
- worshipped_reborn: "Idole" #NT!
- worshipping_neteru: "[neteru|E]" #NT!
-  
- effigy_creator: "Créateur" #NT!
- effigy_character: "Effigie" #NT!
-  
- animantis_creator: "Créateur" #NT!
- animantis_character: "Animantis" #NT!
-  
- possessesing_wraith: "Marionnettiste" #NT!
- possessed_target: "Fantoche" #NT!
-  
- necromancer: "Nécromancien" #NT!
- bound_wraith: "Spectre lié" #NT!
-  
- demonic_master: "Maître" #NT!
- demonic_thrall: "[thrall|E]" #NT!
-  
- diabolist: "Diaboliste" #NT!
- bound_demon: "Démon lié" #NT!
-  
- life_warden: "Gardien de la vie" #NT!
- warded_patient: "Patient gardé" #NT!
-  
- dreamer_owner: "Muse" #NT!
- dreamer_member: "[dreamer|E]" #NT!
-  
- umbra_employer: "Employeur" #NT!
- umbra_explorer: "Explorateur" #NT!
-  
- coterie_member: "[GetPlayer.Custom('PODCoterie')] Membre" #NT!
+    shadow_twin_master: "[shadow_twin_master|E]"
+    shadow_twin_servant: "[shadow_twin_servant|E]"
+
+    mirror_duplicate_master: "Original"
+    mirror_duplicate_servant: "Dupliquer miroir"
+
+    darkling_mirror_master: "Rester corps"
+    darkling_mirror_servant: "Split P'o"
+
+    shadowy_duplicate_master: "Original"
+    shadowy_duplicate_servant: "Duplicata ténébreux"
+
+    phantom_shadow_master: "Original"
+    phantom_shadow_servant: "Ombre fantôme"
+
+    separated_khaibit_master: "Créateur"
+    separated_khaibit_servant: "Khaibit séparé"
+
+    separated_shadow_master: "Psyché"
+    separated_shadow_servant: "Ombre"
+
+    unspeakable_servitor_master: "Possesseur"
+    unspeakable_servitor_servant: "Corps hôte"
+
+    ghoul_domitor: "[domitor|E]"
+    ghoul_thrall: "[Ghoul|E]"
+
+    herd_owner: "Propriétaire"
+    herd_member: "Troupeau"
+
+    worshipped_reborn: "Idole"
+    worshipping_neteru: "[neteru|E]"
+
+    effigy_creator: "Créateur"
+    effigy_character: "Effigie"
+
+    animantis_creator: "Créateur"
+    animantis_character: "Animantis"
+
+    possessesing_wraith: "Marionnettiste"
+    possessed_target: "Fantoche"
+
+    necromancer: "Nécromancien"
+    bound_wraith: "Spectre lié"
+
+    demonic_master: "Maître"
+    demonic_thrall: "[thrall|E]"
+
+    diabolist: "Diaboliste"
+    bound_demon: "Démon lié"
+
+    life_warden: "Gardien de la vie"
+    warded_patient: "Patient gardé"
+
+    dreamer_owner: "Muse"
+    dreamer_member: "[dreamer|E]"
+
+    umbra_employer: "Employeur"
+    umbra_explorer: "Explorateur"
+
+    coterie_member: "[GetPlayer.Custom('PODCoterie')] Membre"

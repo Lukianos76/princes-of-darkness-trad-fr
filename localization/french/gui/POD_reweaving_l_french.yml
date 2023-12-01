@@ -1,18 +1,18 @@
 ﻿l_french:
- TRAIT_CHANGE_WINDOW_TITLE: "Retissage" #NT!
- TRAIT_CHANGE_WINDOW_CHANGE: "Changer de caractéristique" #NT!
- TRAIT_CHANGE_WINDOW_CHOOSE_NEW: "Caractéristique disponible" #NT!
- TRAIT_CHANGE_WINDOW_TAB_PERSONALITY: "Personnalité" #NT!
- TRAIT_CHANGE_WINDOW_TAB_EDUCATION: "Éducation" #NT!
- TRAIT_CHANGE_WINDOW_TAB_COMMANDER: "Le commandant" #NT!
- TRAIT_CHANGE_WINDOW_TAB_LIFESTYLE: "Mode de vie" #NT!
- TRAIT_CHANGE_WINDOW_TAB_FAME: "Notoriété" #NT!
- TRAIT_CHANGE_WINDOW_TAB_STRESS: "Stresser" #NT!
- TRAIT_CHANGE_WINDOW_TAB_HEALTH: "Santé" #NT!
- TRAIT_CHANGE_WINDOW_TAB_PHYSICAL: "Physique" #NT!
- TRAIT_CHANGE_WINDOW_ENACT_COST: "Coût : [piety_i] [Character.MakeScope.ScriptValue('POD_trait_change_value')|0]" #NT!
- TRAIT_CHANGE_WINDOW_CURRENT_TRAIT: "#V Caractéristique actuelle#!" #NT!
- TRAIT_CHANGE_WINDOW_OPPOSITE_TRAIT: "A déjà ou a choisi le trait opposé." #NT!
- TRAIT_CHANGE_WINDOW_PERSONALITY_TRAIT_LIMIT: "Possède déjà ou a choisi le trait de personnalité #V 4#!." #NT!
- TRAIT_CHANGE_WINDOW_EDUCATION_TRAIT_LIMIT: "Possède déjà ou a choisi le trait d'éducation #V 1#!." #NT!
- TRAIT_CHANGE_WINDOW_COMMANDER_TRAIT_LIMIT: "Possède déjà ou a choisi le trait de commandant #V 3#!." #NT!
+    TRAIT_CHANGE_WINDOW_TITLE: "Retissage"
+    TRAIT_CHANGE_WINDOW_CHANGE: "Changer de caractéristique"
+    TRAIT_CHANGE_WINDOW_CHOOSE_NEW: "Caractéristique disponible"
+    TRAIT_CHANGE_WINDOW_TAB_PERSONALITY: "Personnalité"
+    TRAIT_CHANGE_WINDOW_TAB_EDUCATION: "Éducation"
+    TRAIT_CHANGE_WINDOW_TAB_COMMANDER: "Le commandant"
+    TRAIT_CHANGE_WINDOW_TAB_LIFESTYLE: "Mode de vie"
+    TRAIT_CHANGE_WINDOW_TAB_FAME: "Notoriété"
+    TRAIT_CHANGE_WINDOW_TAB_STRESS: "Stresser"
+    TRAIT_CHANGE_WINDOW_TAB_HEALTH: "Santé"
+    TRAIT_CHANGE_WINDOW_TAB_PHYSICAL: "Physique"
+    TRAIT_CHANGE_WINDOW_ENACT_COST: "Coût : [piety_i] [Character.MakeScope.ScriptValue('POD_trait_change_value')|0]"
+    TRAIT_CHANGE_WINDOW_CURRENT_TRAIT: "#V Caractéristique actuelle#!"
+    TRAIT_CHANGE_WINDOW_OPPOSITE_TRAIT: "A déjà ou a choisi le trait opposé."
+    TRAIT_CHANGE_WINDOW_PERSONALITY_TRAIT_LIMIT: "Possède déjà ou a choisi le trait de personnalité #V 4#!."
+    TRAIT_CHANGE_WINDOW_EDUCATION_TRAIT_LIMIT: "Possède déjà ou a choisi le trait d'éducation #V 1#!."
+    TRAIT_CHANGE_WINDOW_COMMANDER_TRAIT_LIMIT: "Possède déjà ou a choisi le trait de commandant #V 3#!."

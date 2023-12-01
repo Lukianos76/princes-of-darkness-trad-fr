@@ -1,5 +1,5 @@
 ﻿l_french:
- FAITH_DOCTRINES_VAMPIRIC: "Doctrines du Sang" #NT!
- FAITH_DOCTRINES_SPLATS: "Tolérances surnaturelles" #NT!
- FAITH_DOCTRINES_CLANS: "Tolérances des clans" #NT!
- FAITH_DOCTRINES_SHIFTERS: "Tolérances des métamorphes" #NT!
+    FAITH_DOCTRINES_VAMPIRIC: "Doctrines du Sang"
+    FAITH_DOCTRINES_SPLATS: "Tolérances surnaturelles"
+    FAITH_DOCTRINES_CLANS: "Tolérances des clans"
+    FAITH_DOCTRINES_SHIFTERS: "Tolérances des métamorphes"

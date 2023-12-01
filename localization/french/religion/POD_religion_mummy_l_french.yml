@@ -1,125 +1,124 @@
 ﻿l_french:
-  
-  #Common Mummies Localization 
- amenti_religion: "Amenti" #NT!
- amenti_religion_adj: "Amenti" #NT!
- amenti_religion_adherent: "Amentie" #NT!
- amenti_religion_adherent_plural: "Équipements" #NT!
- amenti_religion_desc: "Règles et directives des Amenties, les Momies créées par le Sort de Vie Egyptien." #NT!
- wutian_religion: "Wu Tian" #NT!
- wutian_religion_adj: "Wu Tian" #NT!
- wutian_religion_adherent: "Wu Tian" #NT!
- wutian_religion_adherent_plural: "Wu T'ians" #NT!
- wutian_religion_desc: "Règles et directives du Wu T'ians" #NT!
- mummies_high_god_name: "Amon-Rê" #NT!
- mummies_high_god_name_possessive: "Amon-Rê" #NT!
- mummies_high_god_name_alternate: "Ré-Horakhty" #NT!
- mummies_high_god_name_alternate_possessive: "Re-Horakhty" #NT!
- mummies_good_god_jesus: "Horus" #NT!
- mummies_good_god_christ: "Horus" #NT!
- mummies_devil_name: "Ape" #NT!
- mummies_devil_name_possessive: "Apépi" #NT!
- mummies_evil_god_lucifer: "Ape" #NT!
- mummies_evil_god_beelzebub: "Ape" #NT!
- mummies_evil_god_mephistopheles: "Ape" #NT!
- mummies_death_deity_name: "Osiris" #NT!
- mummies_death_deity_name_possessive: "Celui d'Osiris" #NT!
- mummies_house_of_worship: "Temple" #NT!
- mummies_house_of_worship_plural: "Temple" #NT!
- mummies_religious_symbol: "Ouadjet" #NT!
- mummies_religious_text: "écritures" #NT!
- mummies_religious_head_title: "Grand prêtre" #NT!
- mummies_religious_head_title_name: "Haute Prêtrise" #NT!
- mummies_devotee_male: "passionné" #NT!
- mummies_devotee_male_plural: "dévots" #NT!
- mummies_devotee_female: "passionné" #NT!
- mummies_devotee_female_plural: "dévots" #NT!
- mummies_devotee_neuter: "passionné" #NT!
- mummies_devotee_neuter_plural: "dévots" #NT!
- mummies_priest_male: "prêtre" #NT!
- mummies_priest_male_plural: "prêtres" #NT!
- mummies_priest_alternate_plural: "prêtres" #NT!
- mummies_bishop: "prêtre" #NT!
- mummies_bishop_plural: "prêtres" #NT!
- mummies_bishop_male: "prêtre" #NT!
- mummies_bishop_male_plural: "prêtres" #NT!
- mummies_divine_realm: "Douat" #NT!
- mummies_positive_afterlife: "Douat" #NT!
- mummies_negative_afterlife: "Religieuse" #NT!
- mummies_witchgodname_the_horned_god: "Ammit" #NT!
- mummies_witchgodname_the_horned_god_possessive: "Ammit" #NT!
-  
- mummies_creator_god_name: "$mummies_high_god_name$" #NT!
- mummies_creator_god_name_possessive: "$mummies_high_god_name_possessive$" #NT!
- mummies_health_god_name: "Hathor" #NT!
- mummies_health_god_name_possessive: "Hathor" #NT!
- mummies_fertility_god_name: "Taweret" #NT!
- mummies_fertility_god_name_possessive: "Taweret" #NT!
- mummies_wealth_god_name: "$mummies_health_god_name$" #NT!
- mummies_wealth_god_name_possessive: "$mummies_health_god_name_possessive$" #NT!
- mummies_household_god_name: "Bès" #NT!
- mummies_household_god_name_possessive: "celui de Bès" #NT!
- mummies_fate_god_name: "$mummies_high_god_name$" #NT!
- mummies_fate_god_name_possessive: "$mummies_high_god_name_possessive$" #NT!
- mummies_knowledge_god_name: "Ptah" #NT!
- mummies_knowledge_god_name_possessive: "Ptah" #NT!
- mummies_war_god_name: "Montu" #NT!
- mummies_war_god_name_possessive: "de Montu" #NT!
- mummies_trickster_god_name: "Bès" #NT!
- mummies_trickster_god_name_possessive: "Bès" #NT!
- mummies_night_god_name: "Nephthys" #NT!
- mummies_night_god_name_possessive: "Nephthys" #NT!
- mummies_water_god_name: "Hapi" #NT!
- mummies_water_god_name_possessive: "Hapi" #NT!
-  
-  #Mummy-Group Faiths 
-  
- code_of_horus: "Code d'Horus" #NT!
- code_of_horus_adj: "Wat Hor" #NT!
- code_of_horus_adherent: "Shemsu-Heru" #NT!
- code_of_horus_adherent_plural: "Shemsu-Heru" #NT!
- code_of_horus_desc: "Le Code d'Horus, également appelé Wat Hor, est un recueil de commandements d'Horus adressés à ses disciples. Il résume les enseignements et les expériences de sa vie et contient toutes les instructions qu'un Immortel nouvellement créé a été donnée à l'époque de l'ancienne Égypte." #NT!
-  
- ishmaelite: "Ismaélite" #NT!
- ishmaelite_adj: "Ismaélite" #NT!
- ishmaelite_adherent: "Ismaélite" #NT!
- ishmaelite_adherent_plural: "Ismaélites" #NT!
- ishmaelite_desc: "Les Ismaélites sont des Shemsu-Heru voyous qui ont abandonné la croisade d'Horus pour diverses raisons. Ils portent le nom d'Ismaël, le premier Shemsu-Heru qui s'est prononcé contre le leadership d'Horus et qui a été banni pour marcher seul pour l'éternité." #NT!
-  
- faces_of_apophis: "Visages d'Apophis" #NT!
- faces_of_apophis_adj: "Visages" #NT!
- faces_of_apophis_adherent: "Maman Fléau" #NT!
- faces_of_apophis_adherent_plural: "Momies du fléau" #NT!
- faces_of_apophis_desc: "Apophis est au cœur de tous les malheurs du monde, l'incarnation ultime d'Isfret. Depuis le début des temps, Apophis existe, souillant et détruisant les principes de Maât. C’est le filou ultime, l’obscurité écrasante et la perversion incessante qui tourmentent le monde." #NT!
-  
- cabiri: "Cabiri" #NT!
- cabiri_adj: "Cabiri" #NT!
- cabiri_adherent: "Cabirus" #NT!
- cabiri_adherent_plural: "Cabiri" #NT!
- cabiri_desc: "Longtemps après que le Sort de Vie ait été créé et qu'Horus et ses partisans aient mené leur guerre contre Sutekh et ses serviteurs, l'un des Ismaélites a enseigné à un mage doué nommé Cabirus les principes du Sort de Vie. Cabirus a utilisé cela pour créer son propre sort de vie et a créé ses propres immortels qui ne connaissent rien d'Osiris et de Ma'at - à la grande horreur du Shemsu-Heru." #NT!
-  
- ten_mandates_of_heaven: "Dix mandats du ciel" #NT!
- ten_mandates_of_heaven_adj: "Mandats" #NT!
- ten_mandates_of_heaven_adherent: "Wu Tian" #NT!
- ten_mandates_of_heaven_adherent_plural: "Wu Tian" #NT!
- ten_mandates_of_heaven_desc: "Les Dix Mandats du Ciel sont des règles et des lignes directrices pour le Wu T'ian, établies par les Huit Immortels sous la direction du Personnage auguste de Jade. Chaque Mandat est tout aussi important et chaque immortel a sa propre liste de priorités à suivre, en fonction de son caractère et de ses forces personnelles." #NT!
-  
- ten_mandates_of_hell: "Esclaves des rois Yama" #NT!
- ten_mandates_of_hell_adj: "Des esclaves" #NT!
- ten_mandates_of_hell_adherent: "Wu Kuei" #NT!
- ten_mandates_of_hell_adherent_plural: "Wu Kuei" #NT!
- ten_mandates_of_hell_desc: "Des rumeurs disent que les rois Yama ont créé leurs propres esclaves éternels pour s'opposer à la Famille Céleste." #NT!
-  
- holy_order_hand_of_thoth: "Main de Thot" #NT!
- holy_order_judges_of_maat: "Juges de Maât" #NT!
- holy_order_osirian_league: "Ligue osirienne" #NT!
-  
- holy_order_children_of_apophis: "Enfants d'Apophis" #NT!
-  
- holy_order_celestial_arrows: "Flèches célestes" #NT!
- holy_order_righteous_peach_blossoms: "Fleurs de pêcher vertueuses" #NT!
- holy_order_brotherhood_of_the_scarlet_lantern: "Confrérie de la Lanterne Écarlate" #NT!
- holy_order_white_lotus_society: "Société du Lotus Blanc" #NT!
- holy_order_twilight_scholars: "Érudits du Crépuscule" #NT!
- holy_order_jade_sentinels: "Sentinelles de Jade" #NT!
-  
+    #Common Mummies Localization
+    amenti_religion: "Amenti"
+    amenti_religion_adj: "Amenti"
+    amenti_religion_adherent: "Amentie"
+    amenti_religion_adherent_plural: "Équipements"
+    amenti_religion_desc: "Règles et directives des Amenties, les Momies créées par le Sort de Vie Egyptien."
+    wutian_religion: "Wu Tian"
+    wutian_religion_adj: "Wu Tian"
+    wutian_religion_adherent: "Wu Tian"
+    wutian_religion_adherent_plural: "Wu T'ians"
+    wutian_religion_desc: "Règles et directives du Wu T'ians"
+    mummies_high_god_name: "Amon-Rê"
+    mummies_high_god_name_possessive: "Amon-Rê"
+    mummies_high_god_name_alternate: "Ré-Horakhty"
+    mummies_high_god_name_alternate_possessive: "Re-Horakhty"
+    mummies_good_god_jesus: "Horus"
+    mummies_good_god_christ: "Horus"
+    mummies_devil_name: "Ape"
+    mummies_devil_name_possessive: "Apépi"
+    mummies_evil_god_lucifer: "Ape"
+    mummies_evil_god_beelzebub: "Ape"
+    mummies_evil_god_mephistopheles: "Ape"
+    mummies_death_deity_name: "Osiris"
+    mummies_death_deity_name_possessive: "Celui d'Osiris"
+    mummies_house_of_worship: "Temple"
+    mummies_house_of_worship_plural: "Temple"
+    mummies_religious_symbol: "Ouadjet"
+    mummies_religious_text: "écritures"
+    mummies_religious_head_title: "Grand prêtre"
+    mummies_religious_head_title_name: "Haute Prêtrise"
+    mummies_devotee_male: "passionné"
+    mummies_devotee_male_plural: "dévots"
+    mummies_devotee_female: "passionné"
+    mummies_devotee_female_plural: "dévots"
+    mummies_devotee_neuter: "passionné"
+    mummies_devotee_neuter_plural: "dévots"
+    mummies_priest_male: "prêtre"
+    mummies_priest_male_plural: "prêtres"
+    mummies_priest_alternate_plural: "prêtres"
+    mummies_bishop: "prêtre"
+    mummies_bishop_plural: "prêtres"
+    mummies_bishop_male: "prêtre"
+    mummies_bishop_male_plural: "prêtres"
+    mummies_divine_realm: "Douat"
+    mummies_positive_afterlife: "Douat"
+    mummies_negative_afterlife: "Religieuse"
+    mummies_witchgodname_the_horned_god: "Ammit"
+    mummies_witchgodname_the_horned_god_possessive: "Ammit"
+
+    mummies_creator_god_name: "$mummies_high_god_name$"
+    mummies_creator_god_name_possessive: "$mummies_high_god_name_possessive$"
+    mummies_health_god_name: "Hathor"
+    mummies_health_god_name_possessive: "Hathor"
+    mummies_fertility_god_name: "Taweret"
+    mummies_fertility_god_name_possessive: "Taweret"
+    mummies_wealth_god_name: "$mummies_health_god_name$"
+    mummies_wealth_god_name_possessive: "$mummies_health_god_name_possessive$"
+    mummies_household_god_name: "Bès"
+    mummies_household_god_name_possessive: "celui de Bès"
+    mummies_fate_god_name: "$mummies_high_god_name$"
+    mummies_fate_god_name_possessive: "$mummies_high_god_name_possessive$"
+    mummies_knowledge_god_name: "Ptah"
+    mummies_knowledge_god_name_possessive: "Ptah"
+    mummies_war_god_name: "Montu"
+    mummies_war_god_name_possessive: "de Montu"
+    mummies_trickster_god_name: "Bès"
+    mummies_trickster_god_name_possessive: "Bès"
+    mummies_night_god_name: "Nephthys"
+    mummies_night_god_name_possessive: "Nephthys"
+    mummies_water_god_name: "Hapi"
+    mummies_water_god_name_possessive:
+        "Hapi"
+
+        #Mummy-Group Faiths
+
+    code_of_horus: "Code d'Horus"
+    code_of_horus_adj: "Wat Hor"
+    code_of_horus_adherent: "Shemsu-Heru"
+    code_of_horus_adherent_plural: "Shemsu-Heru"
+    code_of_horus_desc: "Le Code d'Horus, également appelé Wat Hor, est un recueil de commandements d'Horus adressés à ses disciples. Il résume les enseignements et les expériences de sa vie et contient toutes les instructions qu'un Immortel nouvellement créé a été donnée à l'époque de l'ancienne Égypte."
+
+    ishmaelite: "Ismaélite"
+    ishmaelite_adj: "Ismaélite"
+    ishmaelite_adherent: "Ismaélite"
+    ishmaelite_adherent_plural: "Ismaélites"
+    ishmaelite_desc: "Les Ismaélites sont des Shemsu-Heru voyous qui ont abandonné la croisade d'Horus pour diverses raisons. Ils portent le nom d'Ismaël, le premier Shemsu-Heru qui s'est prononcé contre le leadership d'Horus et qui a été banni pour marcher seul pour l'éternité."
+
+    faces_of_apophis: "Visages d'Apophis"
+    faces_of_apophis_adj: "Visages"
+    faces_of_apophis_adherent: "Maman Fléau"
+    faces_of_apophis_adherent_plural: "Momies du fléau"
+    faces_of_apophis_desc: "Apophis est au cœur de tous les malheurs du monde, l'incarnation ultime d'Isfret. Depuis le début des temps, Apophis existe, souillant et détruisant les principes de Maât. C’est le filou ultime, l’obscurité écrasante et la perversion incessante qui tourmentent le monde."
+
+    cabiri: "Cabiri"
+    cabiri_adj: "Cabiri"
+    cabiri_adherent: "Cabirus"
+    cabiri_adherent_plural: "Cabiri"
+    cabiri_desc: "Longtemps après que le Sort de Vie ait été créé et qu'Horus et ses partisans aient mené leur guerre contre Sutekh et ses serviteurs, l'un des Ismaélites a enseigné à un mage doué nommé Cabirus les principes du Sort de Vie. Cabirus a utilisé cela pour créer son propre sort de vie et a créé ses propres immortels qui ne connaissent rien d'Osiris et de Ma'at - à la grande horreur du Shemsu-Heru."
+
+    ten_mandates_of_heaven: "Dix mandats du ciel"
+    ten_mandates_of_heaven_adj: "Mandats"
+    ten_mandates_of_heaven_adherent: "Wu Tian"
+    ten_mandates_of_heaven_adherent_plural: "Wu Tian"
+    ten_mandates_of_heaven_desc: "Les Dix Mandats du Ciel sont des règles et des lignes directrices pour le Wu T'ian, établies par les Huit Immortels sous la direction du Personnage auguste de Jade. Chaque Mandat est tout aussi important et chaque immortel a sa propre liste de priorités à suivre, en fonction de son caractère et de ses forces personnelles."
+
+    ten_mandates_of_hell: "Esclaves des rois Yama"
+    ten_mandates_of_hell_adj: "Des esclaves"
+    ten_mandates_of_hell_adherent: "Wu Kuei"
+    ten_mandates_of_hell_adherent_plural: "Wu Kuei"
+    ten_mandates_of_hell_desc: "Des rumeurs disent que les rois Yama ont créé leurs propres esclaves éternels pour s'opposer à la Famille Céleste."
+
+    holy_order_hand_of_thoth: "Main de Thot"
+    holy_order_judges_of_maat: "Juges de Maât"
+    holy_order_osirian_league: "Ligue osirienne"
+
+    holy_order_children_of_apophis: "Enfants d'Apophis"
+
+    holy_order_celestial_arrows: "Flèches célestes"
+    holy_order_righteous_peach_blossoms: "Fleurs de pêcher vertueuses"
+    holy_order_brotherhood_of_the_scarlet_lantern: "Confrérie de la Lanterne Écarlate"
+    holy_order_white_lotus_society: "Société du Lotus Blanc"
+    holy_order_twilight_scholars: "Érudits du Crépuscule"
+    holy_order_jade_sentinels: "Sentinelles de Jade"

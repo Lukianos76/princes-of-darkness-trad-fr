@@ -1,24 +1,23 @@
 ﻿l_french:
-  
- POD_worldgen.1.t: "Un monde de ténèbres" #NT!
- POD_worldgen.1.desc: "De quel genre de monde s’agit-il ?" #NT!
- POD_worldgen.1.option.a: "Surnaturel" #NT!
- POD_worldgen.1.option.a.tt: "Le monde surnaturel est représenté, tous les personnages du titre étant surnaturels ou chasseurs." #NT!
- POD_worldgen.1.option.b: "Mortel majoritaire" #NT!
- POD_worldgen.1.option.b.tt: "La plupart des personnages possédant un titre foncier sont des mortels, seule une minorité de 10 % est secrètement surnaturelle." #NT!
- POD_worldgen.1.option.c: "Je ne suis qu'un simple mortel !" #NT!
- POD_worldgen.1.option.c.tt: "Votre personnage commence en tant que mortel, seulement 5% des personnages possédant un titre débarqué sont surnaturels." #NT!
-  
- POD_worldgen.2.t: "Le monde surnaturel" #NT!
- POD_worldgen.2.desc: "Un type particulier de surnaturel est-il dominant ?" #NT!
- POD_worldgen.2.option.a: "Vampires" #NT!
- POD_worldgen.2.option.b: "Loups-garous" #NT!
- POD_worldgen.2.option.c: "Mages" #NT!
- POD_worldgen.2.option.d: "Fée" #NT!
- POD_worldgen.2.option.e: "Démons" #NT!
- POD_worldgen.2.option.f: "Chasseurs" #NT!
- POD_worldgen.2.option.g: "Vampires et loups-garous luttent pour la domination" #NT!
- POD_worldgen.2.option.h: "C'est un monde d'obscurité varié" #NT!
-  
- guest_description.learning_physician_trait.desc: "Apprentissage du trait de médecin" #NT!
- guest_description.learning_mystic_trait.desc: "Apprendre le trait mystique" #NT!
+    POD_worldgen.1.t: "Un monde de ténèbres"
+    POD_worldgen.1.desc: "De quel genre de monde s’agit-il ?"
+    POD_worldgen.1.option.a: "Surnaturel"
+    POD_worldgen.1.option.a.tt: "Le monde surnaturel est représenté, tous les personnages du titre étant surnaturels ou chasseurs."
+    POD_worldgen.1.option.b: "Mortel majoritaire"
+    POD_worldgen.1.option.b.tt: "La plupart des personnages possédant un titre foncier sont des mortels, seule une minorité de 10 % est secrètement surnaturelle."
+    POD_worldgen.1.option.c: "Je ne suis qu'un simple mortel !"
+    POD_worldgen.1.option.c.tt: "Votre personnage commence en tant que mortel, seulement 5% des personnages possédant un titre débarqué sont surnaturels."
+
+    POD_worldgen.2.t: "Le monde surnaturel"
+    POD_worldgen.2.desc: "Un type particulier de surnaturel est-il dominant ?"
+    POD_worldgen.2.option.a: "Vampires"
+    POD_worldgen.2.option.b: "Loups-garous"
+    POD_worldgen.2.option.c: "Mages"
+    POD_worldgen.2.option.d: "Fée"
+    POD_worldgen.2.option.e: "Démons"
+    POD_worldgen.2.option.f: "Chasseurs"
+    POD_worldgen.2.option.g: "Vampires et loups-garous luttent pour la domination"
+    POD_worldgen.2.option.h: "C'est un monde d'obscurité varié"
+
+    guest_description.learning_physician_trait.desc: "Apprentissage du trait de médecin"
+    guest_description.learning_mystic_trait.desc: "Apprendre le trait mystique"

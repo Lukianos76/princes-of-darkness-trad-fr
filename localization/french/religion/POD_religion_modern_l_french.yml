@@ -1,125 +1,128 @@
 ﻿l_french:
-  
-  #Common Modern Anarch Localization 
- modernanarch_religion: "Anarchs" #NT!
- modernanarch_religion_adj: "Anarch" #NT!
- modernanarch_religion_adherent: "Anarch" #NT!
- modernanarch_religion_adherent_plural: "Anarchs" #NT!
- modernanarch_religion_desc: "Les anarchs sont des vampires qui rejettent le statu quo de la société [cainite|E]." #NT!
- modernanarch_high_god_name: "Liberté" #NT!
- modernanarch_high_god_name_alternate: "Liberté" #NT!
- modernanarch_creator_god_name: "Liberté" #NT!
-  
-  #ModernAnarch-Group Faiths 
-  
- freeanarch: "Anarch gratuit" #NT!
- freeanarch_adj: "Anarch gratuit" #NT!
- freeanarch_adherent: "Anarch gratuit" #NT!
- freeanarch_adherent_plural: "Anarchs gratuits" #NT!
- freeanarch_desc: "Ces [cainites|E] ne se plieront jamais à une autorité autre que celle qu’ils choisissent eux-mêmes, quelles que soient les chances. Les bastions des Anarchs sont souvent sauvages et indisciplinés, mais constituent une lueur d'espoir et de liberté pour de nombreux jeunes vampires. Et de quoi écraser rapidement pour leurs aînés." #NT!
-  
-  #Common Camarilla Localization 
- camarilla_religion: "Camarilla" #NT!
- camarilla_religion_adj: "Camarilla" #NT!
- camarilla_religion_adherent: "Camarilla" #NT!
- camarilla_religion_adherent_plural: "Camarilla" #NT!
- camarilla_religion_desc: "En plus d'empêcher les masses croissantes de mortels de découvrir l'existence des vampires, la Camarilla vise à maintenir le statu quo de la société vampire ; en tant que telle, une grande partie de sa structure et de ses traditions reflètent celles de la société [cainite|E] de l’Europe féodale au Moyen Âge." #NT!
-  
-  #Camarilla-Group Faiths 
-  
- camahumanity: "Camarilla (Humanité)" #NT!
- camahumanity_adj: "Camarilla" #NT!
- camahumanity_adherent: "Camarilla" #NT!
- camahumanity_adherent_plural: "Camarilla" #NT!
- camahumanity_desc: "Les vampires sont encouragés à se fondre le mieux possible parmi les mortels et à conserver la courtoisie et le sang-froid qui découlent du fait de conserver ses caractéristiques humaines. Presque tous les membres de la Camarilla sont sur le « Chemin » de l'Humanité, les autres Voies de l'Éveil étant fortement déconseillées et généralement pratiquées uniquement par les anciens." #NT!
-  
- camaanarchs: "Camarilla (Anarchs)" #NT!
- camaanarchs_adj: "Anarch" #NT!
- camaanarchs_adherent: "Anarch" #NT!
- camaanarchs_adherent_plural: "Anarchs" #NT!
- camaanarchs_desc: "La plupart des Anarchs respectent et soutiennent la Mascarade et certaines autres Traditions, même s'ils ne respectent pas les vampires qui les font respecter ou le système qui en profite.\nSelon les termes de la Convention des Épines, les Anarchs sont considérés comme un faction de la Camarilla par ses membres, mais contrairement au Sabbat, elles sont tolérées." #NT!
-  
-  #Common Sabbat Localization 
- sabbat_religion: "Sabbat" #NT!
- sabbat_religion_adj: "Sabbat" #NT!
- sabbat_religion_adherent: "Sabbat" #NT!
- sabbat_religion_adherent_plural: "Sabbat" #NT!
- sabbat_religion_desc: "Le Sabbat est une organisation lâche de [cainites|E] qui rejette les Traditions. Contrairement à la Camarilla, le Sabbat croit au [antediluvians|E] et à Caine. Également connue sous le nom d'Épée de Caïn, car ils pensent que ce sera l'armée qu'il utilisera pour détruire le [antediluvians|E] une fois la Géhenne arrivée." #NT!
- sabbat_religious_head_title: "Priscus" #NT!
- sabbat_religious_head_title_name: "Priscus" #NT!
- sabbat_religious_text: "Livre de signe de tête" #NT!
-  
-  #Sabbat-Group Faiths 
-  
- pathofhonorableaccord: "Voie de l’accord honorable" #NT!
- pathofhonorableaccord_adj: "Patriotes du Sabbat" #NT!
- pathofhonorableaccord_adherent: "Patriote" #NT!
- pathofhonorableaccord_adherent_plural: "Patriotes" #NT!
- pathofhonorableaccord_desc: "La Voie de l'Accord Honorable est une Voie de l'Éveil qui exploite la Bête à travers la pratique rigoureuse d'un comportement honorable et chevaleresque.\n [cainites|E] sur la Voie de l'Accord Honorable accorde une grande valeur aux rituels et aux cérémonies. Les Chevaliers du Sabbat participent donc toujours aux fêtes de guerre, aux ritae, aux cérémonies et autres événements de meute. Dans l’ensemble, les adeptes de la Voie cherchent à rassembler les factions disparates de la secte sous la bannière commune de la loyauté envers une cause." #NT!
-  
- pathofdeathandthesoul: "Chemin de la mort et de l'âme" #NT!
- pathofdeathandthesoul_adj: "Nécronomes du Sabbat" #NT!
- pathofdeathandthesoul_adherent: "Nécronome" #NT!
- pathofdeathandthesoul_adherent_plural: "Nécronomes" #NT!
- pathofdeathandthesoul_desc: "La Voie de la Mort et de l'Âme est une Voie de l'Illumination qui supprime la Bête par une étude détachée de la mort, de la non-vie et de l'âme.\nComme l'une des voies les plus érudites, les Nécronomes voient l'existence vampirique comme un moyen d'explorer les mystères de la vie. et la mort. Ils divisent l’univers entre le domaine rationnel de la chair et de la physique et le domaine irrationnel de la douleur, des mystères et des phénomènes surnaturels. Pour explorer ces différences et trouver la réponse à leurs questions, un vampire doit explorer son propre état et la nature de son âme." #NT!
-  
- pathofpowerandtheinnervoice: "Voie du pouvoir et voix intérieure" #NT!
- pathofpowerandtheinnervoice_adj: "Unificateurs du Sabbat" #NT!
- pathofpowerandtheinnervoice_adherent: "Unificateurs" #NT!
- pathofpowerandtheinnervoice_adherent_plural: "Unificateurs" #NT!
- pathofpowerandtheinnervoice_desc: "La Voie du Pouvoir et de la Voix Intérieure est une Voie de l'Illumination qui contrôle la Bête grâce à une détermination rigoureuse et à l'accumulation de pouvoir mondain.\nLes adeptes de cette Voie croient que la vérité réside en eux-mêmes et qu'elle est mieux trouvée par une recherche intérieure d'illumination personnelle qui conduit finalement à l’accumulation du pouvoir. Le contrôle de soi et du monde extérieur est le seul objectif qui mérite d’être poursuivi. Pour cela, un vampire doit développer ses capacités, étendre son influence et poser ses pions." #NT!
-  
- pathofthebeast: "Chemin de la bête" #NT!
- pathofthebeast_adj: "Bêtes du Sabbat" #NT!
- pathofthebeast_adherent: "Bête" #NT!
- pathofthebeast_adherent_plural: "Bêtes" #NT!
- pathofthebeast_desc: "La Voie de la Bête est une Voie de l'Illumination cherchant à contrôler la Bête en acceptant ses pulsions comme naturelles et en acceptant son rôle de chasseur parmi les chasseurs.\nNon organisés et évitant les pièges de la civilisation, les adeptes de la Voie évitent souvent la technologie en faveur de leurs talents inhérents à leur forme de mort-vivant." #NT!
-  
- pathofmetamorphosis: "Chemin de la métamorphose" #NT!
- pathofmetamorphosis_adj: "Métamorphoses du Sabbat" #NT!
- pathofmetamorphosis_adherent: "Métamorphose" #NT!
- pathofmetamorphosis_adherent_plural: "Métamorphoses" #NT!
- pathofmetamorphosis_desc: "La Voie de la Métamorphose est une Voie de l'Illumination qui contrôle la Bête en étudiant ses limites et celles du vampirisme en général.\nIls croient que la prochaine étape est un état proche de l'apothéose, qu'ils appellent Azhi Dahaka, d'après le dragon de Perse. mythologie, et ils feront tout – n’importe quoi – pour y parvenir. C’est une philosophie lointaine et solitaire, éloignée de tout besoin autre que celui de la subsistance." #NT!
-  
- pathofcathari: "Chemin des Cathares" #NT!
- pathofcathari_adj: "Albigeois du Sabbat" #NT!
- pathofcathari_adherent: "Albigeois" #NT!
- pathofcathari_adherent_plural: "Albigeois" #NT!
- pathofcathari_desc: "La Voie des Cathares se présente comme le pendant direct des Cathares médiévaux : les vampires sont des esprits archontiques, geôliers du Démiurge, placés sur ce monde pour garantir que l'humanité ne le transcendera jamais. Caïn a été damné par le bon créateur à la physicalité et à la souffrance sans fin, mais placé au-dessus de l'humanité dans le processus, pour évaluer les humains et les éloigner de la gnose. A cette fin, les Albigeois (titre formel d'un adepte de la voie) encouragent les excès mortels et le matérialisme et brisent délibérément les nombreux tabous des anciens Cathares." #NT!
-  
- pathofcaine: "Chemin de Caïn" #NT!
- pathofcaine_adj: "Noddistes du Sabbat" #NT!
- pathofcaine_adherent: "Noddiste" #NT!
- pathofcaine_adherent_plural: "Noddistes" #NT!
- pathofcaine_desc: "La Voie de Caïn est une Voie de l'Illumination qui imite le Père Ténébreux afin de conjurer la Bête.\nLe cœur de la Voie de Caïn réside dans l'exemple de la nature vampirique : les questions de l'existence, les limites de la forme vampirique, et les changements provoqués par l'Étreinte poussent tous les Noddistes dans des spéculations, des débats, des études et des recherches sans fin. L'érudition et la perspicacité historique sont précieuses, mais le vampire doit simultanément se développer spirituellement et physiquement pour explorer les limites de sa forme de mort-vivant." #NT!
-  
- pathofharmony: "Chemin de l'harmonie" #NT!
- pathofharmony_adj: "Harmonistes du Sabbat" #NT!
- pathofharmony_adherent: "Harmoniste" #NT!
- pathofharmony_adherent_plural: "Harmonistes" #NT!
- pathofharmony_desc: "Une variante de la Voie de la Bête dans la mesure où elle accepte la Bête comme nécessaire à la survie du vampire.\nLes Harmonistes ne croient pas que tout ce qui existe soit contre nature. Être simplement signifie qu’un individu ou une force a une place. Cela inclut les vampires. Oui, le rôle du vampire dans l'ordre naturel est quelque peu désagréable, mais le lapin ressentirait probablement la même chose à l'égard du renard." #NT!
-  
- pathofnight: "Chemin de la nuit" #NT!
- pathofnight_adj: "Nihilistes du Sabbat" #NT!
- pathofnight_adherent: "Nihiliste" #NT!
- pathofnight_adherent_plural: "Nihilistes" #NT!
- pathofnight_desc: "Le Chemin de la Nuit, parfois appelé Chemin de la Nuit Alliée, est un Chemin de l'Illumination qui prêche l'acceptation de la malédiction de Caïn et de la Bête. Les Caïnites doivent exploiter leurs pouvoirs pour servir le but ordonné du vampirisme – faire des ravages sur les mortels et inspirer la terreur – et ainsi trouver le salut." #NT!
-  
- vasantasenadharma: "Vasantasenadharma" #NT!
- vasantasenadharma_adj: "Vasantasenadharma" #NT!
- vasantasenadharma_adherent: "Disciple de Vasantasena" #NT!
- vasantasenadharma_adherent_plural: "Disciples de Vasantasena" #NT!
- vasantasenadharma_desc: "Vasantasena et son père malkavien Unmada ont parcouru le monde tout au long du Moyen Âge, prêchant contre le Lien du Sang. Ils rejetèrent le vinculum, la hiérarchie traditionnelle des vampires et toute perte du libre arbitre. En fin de compte, ils condamnèrent les Antédiluviens pour leur tyrannie cruelle à travers le Jyhad, rejoignant le Sabbat lors de sa formation." #NT!
-  
- pathofredemption: "Chemin de la Rédemption" #NT!
- pathofredemption_adj: "Martyrs du Sabbat" #NT!
- pathofredemption_adherent: "Martyr" #NT!
- pathofredemption_adherent_plural: "Martyrs" #NT!
- pathofredemption_desc: "Le Chemin de la Rédemption est un Chemin de l’Illumination qui combat la Bête en luttant pour le salut au service de Dieu. Naturellement, ces affirmations sont quelque peu gênantes dans les sociétés actuelles des Damnés, mais les adeptes de la voie sont souvent plus déterminés à obtenir la grâce qu’à se soucier des autres." #NT!
-  
- pathofleviathansabbat: "La voie du Léviathan" #NT!
- pathofleviathansabbat_adj: "Léviathan" #NT!
- pathofleviathansabbat_adherent: "Léviathan" #NT!
- pathofleviathansabbat_adherent_plural: "Léviathans" #NT!
- pathofleviathansabbat_desc: "Cette religion non canonique a été commandée par un mécène.\n\nProvenant de l'uniformitarisme chinois ancien, elle se consacre à la construction d'un collectif de type Léviathan, créant un concept collectif du corps savant à travers un endoctrinement flexible et des lois strictes, et finalement créant un système unifié. volonté collective d'évoluer spirituellement comme un organisme unicellulaire vers un organisme multicellulaire." #NT!
-  
+    #Common Modern Anarch Localization
+    modernanarch_religion: "Anarchs"
+    modernanarch_religion_adj: "Anarch"
+    modernanarch_religion_adherent: "Anarch"
+    modernanarch_religion_adherent_plural: "Anarchs"
+    modernanarch_religion_desc: "Les anarchs sont des vampires qui rejettent le statu quo de la société [cainite|E]."
+    modernanarch_high_god_name: "Liberté"
+    modernanarch_high_god_name_alternate: "Liberté"
+    modernanarch_creator_god_name:
+        "Liberté"
+
+        #ModernAnarch-Group Faiths
+
+    freeanarch: "Anarch gratuit"
+    freeanarch_adj: "Anarch gratuit"
+    freeanarch_adherent: "Anarch gratuit"
+    freeanarch_adherent_plural: "Anarchs gratuits"
+    freeanarch_desc:
+        "Ces [cainites|E] ne se plieront jamais à une autorité autre que celle qu’ils choisissent eux-mêmes, quelles que soient les chances. Les bastions des Anarchs sont souvent sauvages et indisciplinés, mais constituent une lueur d'espoir et de liberté pour de nombreux jeunes vampires. Et de quoi écraser rapidement pour leurs aînés."
+
+        #Common Camarilla Localization
+    camarilla_religion: "Camarilla"
+    camarilla_religion_adj: "Camarilla"
+    camarilla_religion_adherent: "Camarilla"
+    camarilla_religion_adherent_plural: "Camarilla"
+    camarilla_religion_desc:
+        "En plus d'empêcher les masses croissantes de mortels de découvrir l'existence des vampires, la Camarilla vise à maintenir le statu quo de la société vampire ; en tant que telle, une grande partie de sa structure et de ses traditions reflètent celles de la société [cainite|E] de l’Europe féodale au Moyen Âge."
+
+        #Camarilla-Group Faiths
+
+    camahumanity: "Camarilla (Humanité)"
+    camahumanity_adj: "Camarilla"
+    camahumanity_adherent: "Camarilla"
+    camahumanity_adherent_plural: "Camarilla"
+    camahumanity_desc: "Les vampires sont encouragés à se fondre le mieux possible parmi les mortels et à conserver la courtoisie et le sang-froid qui découlent du fait de conserver ses caractéristiques humaines. Presque tous les membres de la Camarilla sont sur le « Chemin » de l'Humanité, les autres Voies de l'Éveil étant fortement déconseillées et généralement pratiquées uniquement par les anciens."
+
+    camaanarchs: "Camarilla (Anarchs)"
+    camaanarchs_adj: "Anarch"
+    camaanarchs_adherent: "Anarch"
+    camaanarchs_adherent_plural: "Anarchs"
+    camaanarchs_desc:
+        "La plupart des Anarchs respectent et soutiennent la Mascarade et certaines autres Traditions, même s'ils ne respectent pas les vampires qui les font respecter ou le système qui en profite.\nSelon les termes de la Convention des Épines, les Anarchs sont considérés comme un faction de la Camarilla par ses membres, mais contrairement au Sabbat, elles sont tolérées."
+
+        #Common Sabbat Localization
+    sabbat_religion: "Sabbat"
+    sabbat_religion_adj: "Sabbat"
+    sabbat_religion_adherent: "Sabbat"
+    sabbat_religion_adherent_plural: "Sabbat"
+    sabbat_religion_desc: "Le Sabbat est une organisation lâche de [cainites|E] qui rejette les Traditions. Contrairement à la Camarilla, le Sabbat croit au [antediluvians|E] et à Caine. Également connue sous le nom d'Épée de Caïn, car ils pensent que ce sera l'armée qu'il utilisera pour détruire le [antediluvians|E] une fois la Géhenne arrivée."
+    sabbat_religious_head_title: "Priscus"
+    sabbat_religious_head_title_name: "Priscus"
+    sabbat_religious_text:
+        "Livre de signe de tête"
+
+        #Sabbat-Group Faiths
+
+    pathofhonorableaccord: "Voie de l’accord honorable"
+    pathofhonorableaccord_adj: "Patriotes du Sabbat"
+    pathofhonorableaccord_adherent: "Patriote"
+    pathofhonorableaccord_adherent_plural: "Patriotes"
+    pathofhonorableaccord_desc: "La Voie de l'Accord Honorable est une Voie de l'Éveil qui exploite la Bête à travers la pratique rigoureuse d'un comportement honorable et chevaleresque.\n [cainites|E] sur la Voie de l'Accord Honorable accorde une grande valeur aux rituels et aux cérémonies. Les Chevaliers du Sabbat participent donc toujours aux fêtes de guerre, aux ritae, aux cérémonies et autres événements de meute. Dans l’ensemble, les adeptes de la Voie cherchent à rassembler les factions disparates de la secte sous la bannière commune de la loyauté envers une cause."
+
+    pathofdeathandthesoul: "Chemin de la mort et de l'âme"
+    pathofdeathandthesoul_adj: "Nécronomes du Sabbat"
+    pathofdeathandthesoul_adherent: "Nécronome"
+    pathofdeathandthesoul_adherent_plural: "Nécronomes"
+    pathofdeathandthesoul_desc: "La Voie de la Mort et de l'Âme est une Voie de l'Illumination qui supprime la Bête par une étude détachée de la mort, de la non-vie et de l'âme.\nComme l'une des voies les plus érudites, les Nécronomes voient l'existence vampirique comme un moyen d'explorer les mystères de la vie. et la mort. Ils divisent l’univers entre le domaine rationnel de la chair et de la physique et le domaine irrationnel de la douleur, des mystères et des phénomènes surnaturels. Pour explorer ces différences et trouver la réponse à leurs questions, un vampire doit explorer son propre état et la nature de son âme."
+
+    pathofpowerandtheinnervoice: "Voie du pouvoir et voix intérieure"
+    pathofpowerandtheinnervoice_adj: "Unificateurs du Sabbat"
+    pathofpowerandtheinnervoice_adherent: "Unificateurs"
+    pathofpowerandtheinnervoice_adherent_plural: "Unificateurs"
+    pathofpowerandtheinnervoice_desc: "La Voie du Pouvoir et de la Voix Intérieure est une Voie de l'Illumination qui contrôle la Bête grâce à une détermination rigoureuse et à l'accumulation de pouvoir mondain.\nLes adeptes de cette Voie croient que la vérité réside en eux-mêmes et qu'elle est mieux trouvée par une recherche intérieure d'illumination personnelle qui conduit finalement à l’accumulation du pouvoir. Le contrôle de soi et du monde extérieur est le seul objectif qui mérite d’être poursuivi. Pour cela, un vampire doit développer ses capacités, étendre son influence et poser ses pions."
+
+    pathofthebeast: "Chemin de la bête"
+    pathofthebeast_adj: "Bêtes du Sabbat"
+    pathofthebeast_adherent: "Bête"
+    pathofthebeast_adherent_plural: "Bêtes"
+    pathofthebeast_desc: "La Voie de la Bête est une Voie de l'Illumination cherchant à contrôler la Bête en acceptant ses pulsions comme naturelles et en acceptant son rôle de chasseur parmi les chasseurs.\nNon organisés et évitant les pièges de la civilisation, les adeptes de la Voie évitent souvent la technologie en faveur de leurs talents inhérents à leur forme de mort-vivant."
+
+    pathofmetamorphosis: "Chemin de la métamorphose"
+    pathofmetamorphosis_adj: "Métamorphoses du Sabbat"
+    pathofmetamorphosis_adherent: "Métamorphose"
+    pathofmetamorphosis_adherent_plural: "Métamorphoses"
+    pathofmetamorphosis_desc: "La Voie de la Métamorphose est une Voie de l'Illumination qui contrôle la Bête en étudiant ses limites et celles du vampirisme en général.\nIls croient que la prochaine étape est un état proche de l'apothéose, qu'ils appellent Azhi Dahaka, d'après le dragon de Perse. mythologie, et ils feront tout – n’importe quoi – pour y parvenir. C’est une philosophie lointaine et solitaire, éloignée de tout besoin autre que celui de la subsistance."
+
+    pathofcathari: "Chemin des Cathares"
+    pathofcathari_adj: "Albigeois du Sabbat"
+    pathofcathari_adherent: "Albigeois"
+    pathofcathari_adherent_plural: "Albigeois"
+    pathofcathari_desc: "La Voie des Cathares se présente comme le pendant direct des Cathares médiévaux : les vampires sont des esprits archontiques, geôliers du Démiurge, placés sur ce monde pour garantir que l'humanité ne le transcendera jamais. Caïn a été damné par le bon créateur à la physicalité et à la souffrance sans fin, mais placé au-dessus de l'humanité dans le processus, pour évaluer les humains et les éloigner de la gnose. A cette fin, les Albigeois (titre formel d'un adepte de la voie) encouragent les excès mortels et le matérialisme et brisent délibérément les nombreux tabous des anciens Cathares."
+
+    pathofcaine: "Chemin de Caïn"
+    pathofcaine_adj: "Noddistes du Sabbat"
+    pathofcaine_adherent: "Noddiste"
+    pathofcaine_adherent_plural: "Noddistes"
+    pathofcaine_desc: "La Voie de Caïn est une Voie de l'Illumination qui imite le Père Ténébreux afin de conjurer la Bête.\nLe cœur de la Voie de Caïn réside dans l'exemple de la nature vampirique : les questions de l'existence, les limites de la forme vampirique, et les changements provoqués par l'Étreinte poussent tous les Noddistes dans des spéculations, des débats, des études et des recherches sans fin. L'érudition et la perspicacité historique sont précieuses, mais le vampire doit simultanément se développer spirituellement et physiquement pour explorer les limites de sa forme de mort-vivant."
+
+    pathofharmony: "Chemin de l'harmonie"
+    pathofharmony_adj: "Harmonistes du Sabbat"
+    pathofharmony_adherent: "Harmoniste"
+    pathofharmony_adherent_plural: "Harmonistes"
+    pathofharmony_desc: "Une variante de la Voie de la Bête dans la mesure où elle accepte la Bête comme nécessaire à la survie du vampire.\nLes Harmonistes ne croient pas que tout ce qui existe soit contre nature. Être simplement signifie qu’un individu ou une force a une place. Cela inclut les vampires. Oui, le rôle du vampire dans l'ordre naturel est quelque peu désagréable, mais le lapin ressentirait probablement la même chose à l'égard du renard."
+
+    pathofnight: "Chemin de la nuit"
+    pathofnight_adj: "Nihilistes du Sabbat"
+    pathofnight_adherent: "Nihiliste"
+    pathofnight_adherent_plural: "Nihilistes"
+    pathofnight_desc: "Le Chemin de la Nuit, parfois appelé Chemin de la Nuit Alliée, est un Chemin de l'Illumination qui prêche l'acceptation de la malédiction de Caïn et de la Bête. Les Caïnites doivent exploiter leurs pouvoirs pour servir le but ordonné du vampirisme – faire des ravages sur les mortels et inspirer la terreur – et ainsi trouver le salut."
+
+    vasantasenadharma: "Vasantasenadharma"
+    vasantasenadharma_adj: "Vasantasenadharma"
+    vasantasenadharma_adherent: "Disciple de Vasantasena"
+    vasantasenadharma_adherent_plural: "Disciples de Vasantasena"
+    vasantasenadharma_desc: "Vasantasena et son père malkavien Unmada ont parcouru le monde tout au long du Moyen Âge, prêchant contre le Lien du Sang. Ils rejetèrent le vinculum, la hiérarchie traditionnelle des vampires et toute perte du libre arbitre. En fin de compte, ils condamnèrent les Antédiluviens pour leur tyrannie cruelle à travers le Jyhad, rejoignant le Sabbat lors de sa formation."
+
+    pathofredemption: "Chemin de la Rédemption"
+    pathofredemption_adj: "Martyrs du Sabbat"
+    pathofredemption_adherent: "Martyr"
+    pathofredemption_adherent_plural: "Martyrs"
+    pathofredemption_desc: "Le Chemin de la Rédemption est un Chemin de l’Illumination qui combat la Bête en luttant pour le salut au service de Dieu. Naturellement, ces affirmations sont quelque peu gênantes dans les sociétés actuelles des Damnés, mais les adeptes de la voie sont souvent plus déterminés à obtenir la grâce qu’à se soucier des autres."
+
+    pathofleviathansabbat: "La voie du Léviathan"
+    pathofleviathansabbat_adj: "Léviathan"
+    pathofleviathansabbat_adherent: "Léviathan"
+    pathofleviathansabbat_adherent_plural: "Léviathans"
+    pathofleviathansabbat_desc: "Cette religion non canonique a été commandée par un mécène.\n\nProvenant de l'uniformitarisme chinois ancien, elle se consacre à la construction d'un collectif de type Léviathan, créant un concept collectif du corps savant à travers un endoctrinement flexible et des lois strictes, et finalement créant un système unifié. volonté collective d'évoluer spirituellement comme un organisme unicellulaire vers un organisme multicellulaire."

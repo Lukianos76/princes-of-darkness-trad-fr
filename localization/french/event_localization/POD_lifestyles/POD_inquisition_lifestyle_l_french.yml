@@ -1,173 +1,173 @@
 ﻿l_french:
   
- beer_merchant.1.t: "Le marchand de bière" #NT!
- beer_merchant.1.desc: "Un marchand entre dans votre bureau, vous salue convenablement et vous explique le motif de sa visite : « En voyageant à travers ce pays, j'ai passé la nuit dans un monastère au nord d'ici. Les frères m'ont servi la bière la plus délicieuse que j'aie jamais goûtée. La bière étant mon métier, je me suis renseigné sur la possibilité de racheter une partie de leur stock important et en constante augmentation pour le revendre à mes clients. On m'a dit d'accepter cette offre « plus haut ». Mon enquête pour savoir qui est "plus haut placé" m'a conduit à vous, Votre Excellence. Pouvons-nous conclure un accord ?" #NT!
- beer_merchant.a: "Le plus délicieux, dites-vous ? Nous ferions mieux de le vendre nous-mêmes." #NT!
- beer_merchant.a.success.ctt: "Vous tenterez de construire votre propre réseau de distribution de bière." #NT!
- beer_merchant.a.success.tt: "Cela complétera nos revenus." #NT!
- beer_merchant.a.failure.ctt: "Votre aventure dans le monde des affaires n’apportera que de l’humiliation." #NT!
- beer_merchant.a.failure.tt: "Vous perdrez du prestige." #NT!
- beer_merchant.b: "Une cause plus sainte que la bière a besoin d'un homme doté de sens aiguisés et d'un talent pour l'argent." #NT!
- beer_merchant.b.success.ctt: "Vous recruterez le commerçant comme votre agent." #NT!
- beer_merchant.b.success.tt: "Un intendant qualifié rejoindra votre cour." #NT!
- beer_merchant.b.failure.ctt: "Le commerçant ne verra pas l’intérêt de vous rejoindre." #NT!
- beer_merchant.b.failure.tt: "Il poursuivra ses voyages." #NT!
- beer_merchant.c: "Nous n'avons pas besoin du commerçant, seulement de sa liste de clients." #NT!
- beer_merchant.c.success.ctt: "Vous allez enivrer le commerçant et lui faire dévoiler ses contacts." #NT!
- beer_merchant.c.success.tt: "Bénéfice facile." #NT!
- beer_merchant.c.failure.ctt: "Le commerçant ne se laisse pas exclure." #NT!
- beer_merchant.c.failure.tt: "Vos méthodes inconvenantes seront exposées." #NT!
- beer_merchant.d: "Nous pourrions toujours utiliser un don." #NT!
- beer_merchant.a.success.t: "Les gens n’en ont jamais assez." #NT!
- beer_merchant.a.success.desc: "Les instincts du marchand étaient corrects ; la bière est très populaire auprès des consommateurs et votre réseau de distribution peut à peine répondre à la demande." #NT!
- beer_merchant.a.success: "Pour la santé!" #NT!
- beer_merchant.a.failure.t: "Aucun acheteur trouvé." #NT!
- beer_merchant.a.failure.desc: "La foi et la conviction ne suffisent pas à elles seules à rendre une personne compétente en marketing ; vous ne parvenez pas à attirer l'attention sur votre produit." #NT!
- beer_merchant.a.failure: "La bière, ça vous tente ?" #NT!
- beer_merchant.b.success.t: "Une nouvelle vocation." #NT!
- beer_merchant.b.success.desc: "La conversation avec le commerçant révèle que, même s'il se considère comme un homme chanceux, il aspire toujours à faire partie de quelque chose de plus grand, de plus significatif que l'accumulation de richesses. Encouragé par cet aveu à lever le voile du secret, vous l'initiez à la cause qui l'appelle." #NT!
- beer_merchant.b.success: "Comme vous avez distribué de la bière, vous distribuerez désormais de l'espoir." #NT!
- beer_merchant.b.failure.t: "S'en tenir au commerce de la bière." #NT!
- beer_merchant.b.failure.desc: "Vos tentatives maladroites pour convaincre le commerçant de la vacuité de ses activités terrestres, associées à votre incapacité à lui proposer une alternative suffisamment tentante, l'ont amené à s'excuser de votre bureau, se sentant perplexe et offensé." #NT!
- beer_merchant.b.failure: "Aucune somme d’argent n’achètera le salut de cet imbécile." #NT!
- beer_merchant.c.success.t: "Directement aux acheteurs." #NT!
- beer_merchant.c.success.desc: "Votre inquiétude feinte pour les établissements où la bière des frères doit être servie, associée au remplissage constant de la tasse du marchand, transforme son assurance en audace. Avant de vider la bouteille, il liste ses clients comme une récitation. Votre plan a fonctionné à merveille, et le fait que votre secrétaire, cachée derrière la porte, prenne soigneusement des notes est le point primordial de votre soirée." #NT!
- beer_merchant.c.success: "Qu'est-ce que tu voulais, encore une fois ?" #NT!
- beer_merchant.c.failure.t: "Le marchand est conscient de votre supercherie." #NT!
- beer_merchant.c.failure.desc: "Alors que vous proposez un autre verre, le commerçant vous regarde soudain avec méfiance et vous rappelle la vertu de tempérance." #NT!
- beer_merchant.c.failure: "Eh bien, garde tes secrets." #NT!
- beer_merchant.d.t: "Un accord est conclu." #NT!
- beer_merchant.d.desc: "Vous avez des tâches plus importantes devant vous que vendre de la bière, et l’argent d’avance est votre type d’arrangement préféré." #NT!
- beer_merchant.d.done: "Au plaisir de faire affaire avec vous." #NT!
- heretic_event.1.t: "Hérétique minant la noblesse" #NT!
- heretic_event.1.desc: "Un noble local vous aborde avec une question qui, selon lui, requiert votre attention. Un prédicateur charismatique a élu domicile dans sa propriété et a commencé à soulever les serfs contre leur seigneur en citant la Sainte Bible comme étant censée condamner tout serment d'allégeance. Il estime que cette doctrine subversive porte atteinte au mandat de son pouvoir et souhaite que vous preniez soin de ce révolutionnaire gênant." #NT!
- heretic_event.1.a: "Traiter les hérétiques ne relève pas exactement de notre compétence." #NT!
- heretic_event.1.b: "Il prétend connaître les Écritures ? Voyons ça." #NT!
- heretic_event.1.c: "Tu veux qu'il soit brûlé ? Bien sûr, nous pouvons le brûler." #NT!
- heretic_event.1.a.success.ctt: "Vous éblouirez les nobles avec des descriptions nébuleuses de votre position supérieure dans la hiérarchie de l'Église." #NT!
- heretic_event.1.a.success.tt: "Vous gagnerez en prestige." #NT!
- heretic_event.1.a.failure.ctt: "Le noble conclura que vous êtes un détourneur paresseux des fonds de l'église." #NT!
- heretic_event.1.a.failure.tt: "Vous perdrez du prestige." #NT!
- heretic_event.2.t: "Un débat théologique" #NT!
- heretic_event.2.desc: "Le prédicateur croit que ses affirmations sont étayées par la Sainte Bible, mais l’alphabétisation à elle seule ne suffit pas à donner les connaissances nécessaires pour interpréter les Écritures en doctrine. Nous testerons ses connaissances en l’engageant dans un débat théologique sur ses idées. La question est de savoir ce que nous cherchons à accomplir." #NT!
- heretic_event.2.a: "Faites-le s’incriminer en l’acculant à un aveu d’hérésie." #NT!
- heretic_event.2.a.success.ctt: "Le prédicateur se présentera comme hérétique." #NT!
- heretic_event.2.a.success.tt: "Vous punirez l'hérétique et gagnerez en piété" #NT!
- heretic_event.2.a.failure.ctt: "Le prédicateur défendra ses thèses sans s’opposer à la doctrine établie de l’Église." #NT!
- heretic_event.2.a.failure.tt: "Il faudra prendre une décision." #NT!
- heretic_event.2.b: "Faites-lui voir les pièges d’une éducation insuffisante." #NT!
- heretic_event.2.b.success.ctt: "Vous impressionnerez le prédicateur par vos connaissances théologiques supérieures." #NT!
- heretic_event.2.b.success.tt: "Le prédicateur rejoindra votre cour." #NT!
- heretic_event.2.b.failure.ctt: "Vous ne parviendrez pas à faire comprendre au prédicateur l’erreur de ses voies." #NT!
- heretic_event.2.b.failure.tt: "Le pasteur sera libéré et vous perdrez votre prestige." #NT!
- heretic_event.211.t: "L'hérétique rencontre le bûcher" #NT!
- heretic_event.211.desc: "Utiliser les Saintes Écritures pour semer le trouble n’est pas une entreprise rentable." #NT!
- heretic_event.212.t: "Le prédicateur évite de s’incriminer." #NT!
- heretic_event.212.desc: "En choisissant soigneusement ses mots et en fondant ses arguments sur des hypothèses universellement acceptées, le prédicateur a réussi à faire valoir son point de vue sans s’aventurer sur le territoire de l’hérésie." #NT!
- heretic_event.212.a: "Les plus éloquents sont les pires, brûlez-le." #NT!
- heretic_event.212.a.tt: "Vous exécuterez le prédicateur sans justification formelle." #NT!
- heretic_event.212.b: "Je suppose que nous devrons le laisser partir." #NT!
- heretic_event.212.b.tt: "Le prédicateur sera libre." #NT!
- heretic_event.2121.t: "Coupable à moins d'être innocenté." #NT!
- heretic_event.2121.desc: "Le prédicateur est peut-être un orateur habile et prudent, mais il n’en demeure pas moins un hérétique. Vous savez à quel point les implications qui se cachent derrière ses allusions nébuleuses sont pécheresses. Il n’est peut-être pas disposé à admettre sa culpabilité, mais ses pitreries gênantes suffisent à le condamner à mort. Au moment où vous prononcez la sentence, quelque chose vous taraude, la situation vous rappelle quelque chose, mais vous n'arrivez pas à mettre le doigt dessus." #NT!
- heretic_event.2121.a: "Ce que j'ai écrit, je l'ai écrit." #NT!
- heretic_event.2122.t: "Le prédicateur est libre." #NT!
- heretic_event.2122.desc: "Sans preuve d’hérésie, vous n’avez aucun hérétique à condamner." #NT!
- heretic_event.221.t: "Le prédicateur rejoint votre cause." #NT!
- heretic_event.221.desc: "Impressionné par votre savoir et votre piété, le prédicateur décide de poursuivre ses études à vos côtés." #NT!
- heretic_event.222.t: "Le prédicateur repart triomphant." #NT!
- heretic_event.222.desc: "Vous avez perdu le contrôle de la discussion et une raison de garder le prédicateur captif." #NT!
- heretic_event.11.t: "Le noble est impressionné" #NT!
- heretic_event.11.desc: "Le noble est plus impressionné que contrarié par votre suggestion indirecte selon laquelle vous êtes trop important pour l'aider." #NT!
- heretic_event.12.t: "Le noble est déçu" #NT!
- heretic_event.12.desc: "Votre refus d’aider a diminué votre position auprès de la noblesse locale." #NT!
- heretic_event.3.t: "L'hérétique rencontre le bûcher" #NT!
- heretic_event.3.desc: "Nous ne saurons peut-être jamais avec certitude s’il répondait aux critères formels pour être qualifié d’hérétique, mais il brûle comme tel." #NT!
- defeated_general.1.t: "Le général vaincu" #NT!
- defeated_general.1.desc: "Un de vos employés de bureau vous aborde avec un sujet des plus délicats. Il est le confesseur d'un général autrefois éminent et célèbre, mais aujourd'hui en disgrâce. Depuis que la campagne qu'il était chargé de mener s'est avérée désastreuse, la tentation d'un péché grave le hante, le péché de se suicider. Le greffier se sent impuissant à l'en empêcher et se tourne vers vous, espérant que vous ferez mieux pour redonner espoir à cet homme vaincu. Vous visitez tous les deux sa résidence. Le domestique vous fait entrer dans le bureau du commandant, où vous le voyez affalé dans un fauteuil. Quelque temps après des présentations brèves et maladroites, le général vous dit : « Je ne peux tout simplement pas vivre comme ça, avec cette ombre de gloire perdue qui m'écrase. »." #NT!
- defeated_general.1.a: "Mon brave homme, les jours de vraie gloire sont encore devant vous !" #NT!
- defeated_general.a.success.ctt: "Vous revigorez l'esprit du général en le convainquant de s'engager pleinement pour votre cause." #NT!
- defeated_general.a.success.tt: "Le général vous rejoint sans désespoir." #NT!
- defeated_general.a.meh.ctt: "Le général vous donnera une chance de travailler pour vous, mais son moral restera brisé." #NT!
- defeated_general.a.meh.tt: "Le général vous rejoint en homme brisé." #NT!
- defeated_general.a.failure.ctt: "Rien ne convainc le général que rejoindre votre cause améliorera les choses." #NT!
- defeated_general.a.failure.tt: "Le général se suicidera." #NT!
- defeated_general.1.b: "Parlez-moi de cette campagne." #NT!
- defeated_general.b.success.ctt: "Vous engagerez le général dans une conversation sur des questions militaires qui lui permettra d'exprimer son chagrin." #NT!
- defeated_general.b.success.tt: "Vous gagnerez un mentor en matière de guerre." #NT!
- defeated_general.b.failure.ctt: "Le général sera découragé de s’ouvrir à cause de votre manque de compréhension." #NT!
- defeated_general.b.failure.tt: "Le général ne trouvera aucun réconfort en votre compagnie." #NT!
- defeated_general.1.c: "Nous pouvons vous assurer un enterrement chrétien moyennant un don." #NT!
- defeated_general.1.c.tt: "Vous faciliterez le suicide du général pour un gain financier." #NT!
- defeated_general.111.t: "Un nouvel objectif" #NT!
- defeated_general.111.desc: "« Des ennemis plus redoutables que les Sarrasins… Une guerre secrète menée depuis des millénaires… Une mission du Saint-Père lui-même… Oui, oui, je comprends à quel point cela rendrait mes faux pas de carrière passés relativement insignifiants. Votre Excellence, vous avez mon allégeance !'" #NT!
- defeated_general.111.a: "In hoc signo vinces!" #NT!
- defeated_general.112.t: "Service réticent" #NT!
- defeated_general.112.desc: "« Je ne connais rien à ces histoires de « but sacré », mais si vous avez besoin d'un commandant, j'imagine que commander des soldats vaut mieux pourrir ici." #NT!
- defeated_general.112.a: "Je suppose que oui aussi." #NT!
- defeated_general.113.t: "Quand l'espoir s'en va" #NT!
- defeated_general.113.desc: "'Reprise du service ? Pour que davantage d'hommes bons puissent mourir à cause de moi ? Jamais! Sortez de chez moi, maintenant !.'" #NT!
- defeated_general.113.a: "Ai-je entendu un tabouret tomber ?" #NT!
- defeated_general.21.t: "Apprendre des erreurs du passé" #NT!
- defeated_general.21.desc: "Le général commence son récit mais hésite lorsqu'il aborde la partie gênante de son histoire. L’opportunité d’avoir quelqu’un désireux de l’écouter et de l’écouter attentivement pour le convaincre de continuer. Vous rassurez le général que personne ne pouvait condamner ses décisions compte tenu des informations dont il disposait à ce moment-là. Entendre cela de la part d’une personne ayant apparemment une connaissance approfondie des questions militaires est un immense soulagement pour l’homme torturé. Une fois l’histoire terminée, vous passez des heures supplémentaires à discuter de stratégie militaire. Alors que vous partez enfin, le domestique murmure : « Merci, je ne l'ai pas vu sourire depuis la guerre." #NT!
- defeated_general.21.a: "Faisons en sorte que cela soit une chose régulière !" #NT!
- defeated_general.22.t: "Le sort du soldat incompris" #NT!
- defeated_general.22.desc: "Le général commence à raconter son histoire mais conclut rapidement que toute tentative d'expliquer sa tragédie est une perte de temps. L'air perplexe qui habite votre visage lorsque vous posez des questions trahissant votre manque de connaissances militaires trahit vos bonnes intentions. « Disons… que les choses ont mal tourné. Peut-être que je développerai une autre fois. Je vous demande pardon, mes honorables invités, mais je suis complètement épuisé pour le moment." #NT!
- defeated_general.22.a: "J'aurais peut-être dû venir mieux préparé." #NT!
- defeated_general.3.t: "Le festin d'un vautour" #NT!
- defeated_general.3.desc: "Le général semble brièvement choqué après avoir réalisé ce que vous proposez. Rapidement, le soulagement et la détermination surmontèrent l'air sombre de son visage. « Très bien, je t'inclurai dans mon testament. Je dois dire que je ne m'attendais pas à un tel résultat de cette réunion. Mais je suppose que j'ai toujours été un imbécile. Adieu." #NT!
- defeated_general.3.a: "Pecunia non olet, comme on dit." #NT!
- donors_daughter.1.t: "La fille du donneur" #NT!
- donors_daughter.1.desc: "Une abbaye abritant votre base d'opérations régionale reçoit la visite d'une jeune noble. Elle se présente comme la fille d'un ami de la cause récemment décédé, mais ignore pourquoi son père vous a fourni des fonds et a été chargé par ses frères et sœurs d'enquêter. En lisant entre les lignes de son introduction, il est clair que le donateur n'a pas réussi à préparer un testament écrit et que la décision de ses enfants d'honorer son dernier souhait de consacrer une part de leur héritage à votre cause dépendra de l'impression que cette fille aura de vous. n\n'Votre Excellence va-t-elle me faire visiter les lieux ? Je veux voir tout ce que vous faites ici. - elle demande." #NT!
- donors_daughter.1.a: "Avec plaisir, ma dame, mais voyez-vous, les ailes sont en rénovation..." #NT!
- donors_daughter.1.a.success.tt: "Vous convaincrez la fille de sauter les sections sensibles." #NT!
- donors_daughter.1.a.failure.tt: "La fille verra à travers vos excuses." #NT!
- donors_daughter.1.a.success.ctt: "La visite aura une issue plus favorable." #NT!
- donors_daughter.1.a.failure.ctt: "La visite aura une issue moins favorable." #NT!
- donors_daughter.1.b: "Euh... bien sûr." #NT!
- donors_daughter.1.c: "Nous accueillons les visiteurs dans le hall principal, tout le reste est interdit." #NT!
- donors_daughter.2.t: "La Fille du Donateur : Votre équipe talentueuse" #NT!
- donors_daughter.2.desc: "Alors que vous traversez le hall principal, la jeune noble remarque les moines scribes qui manipulent vos documents.\n'Oh, j'ai entendu une fois une chorale de moines chanter lors des funérailles de ma tante, c'était tellement beau ! S'il vous plaît, faites-les chanter pour moi. - plaide-t-elle." #NT!
- donors_daughter.2.a: "Crois-moi, mon enfant, ces moines sont de terribles chanteurs." #NT!
- donors_daughter.2.a.success.tt: "La jeune fille sera charmée par votre souci de ses oreilles." #NT!
- donors_daughter.2.a.failure.tt: "La jeune fille considérera ses souhaits comme non respectés." #NT!
- donors_daughter.2.a.success.ctt: "La visite aura une issue plus favorable." #NT!
- donors_daughter.2.a.failure.ctt: "La visite aura une issue moins favorable." #NT!
- donors_daughter.2.b: "Vous avez entendu la dame." #NT!
- donors_daughter.2.c: "Leur tâche ici n'est pas de divertir les invités." #NT!
- donors_daughter.3.t: "La fille du donneur : un vêtement tentant" #NT!
- donors_daughter.31.desc: "Lorsque vous arrivez à votre bureau, le regard du visiteur se tourne vers la coiffe de Sainte Wiborada, relique sacrée que vous exposez fièrement sur un stand dédié. « Quel vêtement particulier, je n'en ai jamais vu dans ce style. Cela doit être très vieux. Je veux l'essayer !' s'exclame-t-elle alors que les employés du bureau se tournent vers vous avec des expressions inquiètes." #NT!
- donors_daughter.32.desc: "Arrivé à votre bureau, le regard du visiteur se tourne vers le voile de Sainte Belina, une relique sacrée que vous exposez fièrement sur un stand dédié. « Quel vêtement particulier, je n'en ai jamais vu dans ce style. Cela doit être très vieux. Je veux l'essayer !' s'exclame-t-elle alors que les employés du bureau se tournent vers vous avec des expressions inquiètes." #NT!
- donors_daughter.33.desc: "Arrivé à votre bureau, le regard du visiteur se tourne vers le manteau de Sainte Ludmila, une relique sacrée que vous exposez fièrement sur un stand dédié. « Quel vêtement particulier, je n'en ai jamais vu dans ce style. Cela doit être très vieux. Je veux l'essayer !' s'exclame-t-elle alors que les employés du bureau se tournent vers vous avec des expressions inquiètes." #NT!
- donors_daughter.3.a: "Ma dame, cette chose est terriblement poussiéreuse." #NT!
- donors_daughter.3.a.success.tt: "La fille considérera cela comme une excuse." #NT!
- donors_daughter.3.a.failure.tt: "La jeune fille réévaluera l'attrait du vêtement." #NT!
- donors_daughter.3.a.success.ctt: "La visite aura une issue plus favorable." #NT!
- donors_daughter.3.a.failure.ctt: "La visite aura une issue moins favorable." #NT!
- donors_daughter.3.b: "Poursuivre." #NT!
- donors_daughter.3.c: "Oubliez ça, mademoiselle." #NT!
- donors_daughter.4.t: "La fille du donneur : l'heure de la décision" #NT!
- donors_daughter.4.desc: "Après avoir finalement réussi à ennuyer la jeune femme en énumérant toutes les initiatives caritatives que l'argent de son père a contribué à financer, aussi bien celles qui se déroulent réellement que celles qui servent de couverture à d'autres opérations, elle a décidé qu'elle en avait assez vu et entendu. Vous connaîtrez l'étendue de sa générosité avant son départ." #NT!
- donors_daughter.4.a: "Elle semblait aimer cet endroit." #NT!
- donors_daughter.4.b: "Espérons qu'elle ait apprécié son séjour." #NT!
- donors_daughter.4.c: "Espérons qu'elle ait apprécié son séjour." #NT!
- donors_daughter.4.d: "C'est probablement mieux qu'elle parte." #NT!
- donors_daughter.4.e: "Je m'en fiche si ce gamin passe un bon moment." #NT!
- donors_daughter.5.t: "La fille du donneur : charmée au-delà des attentes" #NT!
- donors_daughter.5.desc: "« Votre Excellence est le serviteur du Christ le plus magnanime que j'aie jamais rencontré. Je ne suis pas encore tout à fait sûr de ce que vous faites ici, mais quoi que ce soit, avec vous à la barre, cela mérite chaque pièce d'argent que ma famille a mise de côté, mais aussi un don personnel de ma part." #NT!
- donors_daughter.5.a: "C'était un plaisir, ma dame." #NT!
- donors_daughter.6.t: "La fille du donneur : une hospitalité adéquate" #NT!
- donors_daughter.6.desc: "« Votre Excellence est aussi pieuse que votre cause et il serait impie de ma part de partir d'ici sans donner la totalité de la somme dont j'étais autorisé à me séparer. Mon père a toujours bien géré notre argent et je vois que cela ne fait pas exception. Bonne chance." #NT!
- donors_daughter.6.a: "Adieu alors." #NT!
- donors_daughter.7.t: "La fille du donneur : manque d'hospitalité" #NT!
- donors_daughter.7.desc: "«Je pense que j'en ai assez vu. Je ne peux pas dire que je comprends vraiment le dévouement de mon père à soutenir vos efforts, mais si me séparer de cette somme me permet de rester en sécurité en sachant que son dernier souhait a été exaucé, qu'il en soit ainsi. Adieu, Votre Excellence." #NT!
- donors_daughter.7.a: "Cela valait à peine le temps." #NT!
- donors_daughter.8.t: "La fille du donneur : mauvaises impressions" #NT!
- donors_daughter.8.desc: "« L'hospitalité de Votre Excellence laisse beaucoup à désirer. Je n'ai jamais vu mon père s'associer avec des individus aussi désagréables et quelles que soient ses relations avec vous, ce n'est pas quelque chose que nous souhaitons continuer dans cette famille. Adieu à vous." #NT!
- donors_daughter.8.a: "Je devrais probablement en embaucher pour faire ça." #NT!
- donors_daughter.9.t: "La fille du donneur : changement de paradigme" #NT!
- donors_daughter.9.desc: ""Votre Excellence n'a pas tenu compte de chacune de mes demandes et n'a fait aucun effort pour m'accommoder d'une manière qui sied à une femme noble. Je sens que je devrais tourner les talons et vous laisser sans rien, mais en même temps, je suis impressionné par votre dignité et se concentrer. Toute ma vie, j'ai été choyé et entouré de courtisans qui cherchaient des restes de ma richesse familiale, vous êtes différent. Il est clair que votre vocation dirige votre regard au-dessus de cette mesquinerie et quoi qu'il en soit, je veux en faire partie. Rester ici n'a jamais fait partie de l'accord que j'ai passé avec mes frères et j'ai peur de ne pas pouvoir représenter la succession si je faisais ce choix, mais je vous en supplie, Votre Excellence, libérez-moi de cette insignifiance et de cette débauche. existence et laissez-moi vous servir." #NT!
- donors_daughter.9.a: "Tu as beaucoup à apprendre, mon enfant." #NT!
- donors_daughter.9.a.t: "La jeune noble rejoint votre cour." #NT!
- donors_daughter.9.a.desc: "[ddaughter.GetShortUIName] est prêt à servir la cause." #NT!
- donors_daughter.9.b: "Une poursuite louable, mais nous n’avons aucune ouverture." #NT!
+ beer_merchant.1.t: "Le marchand de bière"
+ beer_merchant.1.desc: "Un marchand entre dans votre bureau, vous salue convenablement et vous explique le motif de sa visite : « En voyageant à travers ce pays, j'ai passé la nuit dans un monastère au nord d'ici. Les frères m'ont servi la bière la plus délicieuse que j'aie jamais goûtée. La bière étant mon métier, je me suis renseigné sur la possibilité de racheter une partie de leur stock important et en constante augmentation pour le revendre à mes clients. On m'a dit d'accepter cette offre « plus haut ». Mon enquête pour savoir qui est "plus haut placé" m'a conduit à vous, Votre Excellence. Pouvons-nous conclure un accord ?"
+ beer_merchant.a: "Le plus délicieux, dites-vous ? Nous ferions mieux de le vendre nous-mêmes."
+ beer_merchant.a.success.ctt: "Vous tenterez de construire votre propre réseau de distribution de bière."
+ beer_merchant.a.success.tt: "Cela complétera nos revenus."
+ beer_merchant.a.failure.ctt: "Votre aventure dans le monde des affaires n’apportera que de l’humiliation."
+ beer_merchant.a.failure.tt: "Vous perdrez du prestige."
+ beer_merchant.b: "Une cause plus sainte que la bière a besoin d'un homme doté de sens aiguisés et d'un talent pour l'argent."
+ beer_merchant.b.success.ctt: "Vous recruterez le commerçant comme votre agent."
+ beer_merchant.b.success.tt: "Un intendant qualifié rejoindra votre cour."
+ beer_merchant.b.failure.ctt: "Le commerçant ne verra pas l’intérêt de vous rejoindre."
+ beer_merchant.b.failure.tt: "Il poursuivra ses voyages."
+ beer_merchant.c: "Nous n'avons pas besoin du commerçant, seulement de sa liste de clients."
+ beer_merchant.c.success.ctt: "Vous allez enivrer le commerçant et lui faire dévoiler ses contacts."
+ beer_merchant.c.success.tt: "Bénéfice facile."
+ beer_merchant.c.failure.ctt: "Le commerçant ne se laisse pas exclure."
+ beer_merchant.c.failure.tt: "Vos méthodes inconvenantes seront exposées."
+ beer_merchant.d: "Nous pourrions toujours utiliser un don."
+ beer_merchant.a.success.t: "Les gens n’en ont jamais assez."
+ beer_merchant.a.success.desc: "Les instincts du marchand étaient corrects ; la bière est très populaire auprès des consommateurs et votre réseau de distribution peut à peine répondre à la demande."
+ beer_merchant.a.success: "Pour la santé!"
+ beer_merchant.a.failure.t: "Aucun acheteur trouvé."
+ beer_merchant.a.failure.desc: "La foi et la conviction ne suffisent pas à elles seules à rendre une personne compétente en marketing ; vous ne parvenez pas à attirer l'attention sur votre produit."
+ beer_merchant.a.failure: "La bière, ça vous tente ?"
+ beer_merchant.b.success.t: "Une nouvelle vocation."
+ beer_merchant.b.success.desc: "La conversation avec le commerçant révèle que, même s'il se considère comme un homme chanceux, il aspire toujours à faire partie de quelque chose de plus grand, de plus significatif que l'accumulation de richesses. Encouragé par cet aveu à lever le voile du secret, vous l'initiez à la cause qui l'appelle."
+ beer_merchant.b.success: "Comme vous avez distribué de la bière, vous distribuerez désormais de l'espoir."
+ beer_merchant.b.failure.t: "S'en tenir au commerce de la bière."
+ beer_merchant.b.failure.desc: "Vos tentatives maladroites pour convaincre le commerçant de la vacuité de ses activités terrestres, associées à votre incapacité à lui proposer une alternative suffisamment tentante, l'ont amené à s'excuser de votre bureau, se sentant perplexe et offensé."
+ beer_merchant.b.failure: "Aucune somme d’argent n’achètera le salut de cet imbécile."
+ beer_merchant.c.success.t: "Directement aux acheteurs."
+ beer_merchant.c.success.desc: "Votre inquiétude feinte pour les établissements où la bière des frères doit être servie, associée au remplissage constant de la tasse du marchand, transforme son assurance en audace. Avant de vider la bouteille, il liste ses clients comme une récitation. Votre plan a fonctionné à merveille, et le fait que votre secrétaire, cachée derrière la porte, prenne soigneusement des notes est le point primordial de votre soirée."
+ beer_merchant.c.success: "Qu'est-ce que tu voulais, encore une fois ?"
+ beer_merchant.c.failure.t: "Le marchand est conscient de votre supercherie."
+ beer_merchant.c.failure.desc: "Alors que vous proposez un autre verre, le commerçant vous regarde soudain avec méfiance et vous rappelle la vertu de tempérance."
+ beer_merchant.c.failure: "Eh bien, garde tes secrets."
+ beer_merchant.d.t: "Un accord est conclu."
+ beer_merchant.d.desc: "Vous avez des tâches plus importantes devant vous que vendre de la bière, et l’argent d’avance est votre type d’arrangement préféré."
+ beer_merchant.d.done: "Au plaisir de faire affaire avec vous."
+ heretic_event.1.t: "Hérétique minant la noblesse"
+ heretic_event.1.desc: "Un noble local vous aborde avec une question qui, selon lui, requiert votre attention. Un prédicateur charismatique a élu domicile dans sa propriété et a commencé à soulever les serfs contre leur seigneur en citant la Sainte Bible comme étant censée condamner tout serment d'allégeance. Il estime que cette doctrine subversive porte atteinte au mandat de son pouvoir et souhaite que vous preniez soin de ce révolutionnaire gênant."
+ heretic_event.1.a: "Traiter les hérétiques ne relève pas exactement de notre compétence."
+ heretic_event.1.b: "Il prétend connaître les Écritures ? Voyons ça."
+ heretic_event.1.c: "Tu veux qu'il soit brûlé ? Bien sûr, nous pouvons le brûler."
+ heretic_event.1.a.success.ctt: "Vous éblouirez les nobles avec des descriptions nébuleuses de votre position supérieure dans la hiérarchie de l'Église."
+ heretic_event.1.a.success.tt: "Vous gagnerez en prestige."
+ heretic_event.1.a.failure.ctt: "Le noble conclura que vous êtes un détourneur paresseux des fonds de l'église."
+ heretic_event.1.a.failure.tt: "Vous perdrez du prestige."
+ heretic_event.2.t: "Un débat théologique"
+ heretic_event.2.desc: "Le prédicateur croit que ses affirmations sont étayées par la Sainte Bible, mais l’alphabétisation à elle seule ne suffit pas à donner les connaissances nécessaires pour interpréter les Écritures en doctrine. Nous testerons ses connaissances en l’engageant dans un débat théologique sur ses idées. La question est de savoir ce que nous cherchons à accomplir."
+ heretic_event.2.a: "Faites-le s’incriminer en l’acculant à un aveu d’hérésie."
+ heretic_event.2.a.success.ctt: "Le prédicateur se présentera comme hérétique."
+ heretic_event.2.a.success.tt: "Vous punirez l'hérétique et gagnerez en piété"
+ heretic_event.2.a.failure.ctt: "Le prédicateur défendra ses thèses sans s’opposer à la doctrine établie de l’Église."
+ heretic_event.2.a.failure.tt: "Il faudra prendre une décision."
+ heretic_event.2.b: "Faites-lui voir les pièges d’une éducation insuffisante."
+ heretic_event.2.b.success.ctt: "Vous impressionnerez le prédicateur par vos connaissances théologiques supérieures."
+ heretic_event.2.b.success.tt: "Le prédicateur rejoindra votre cour."
+ heretic_event.2.b.failure.ctt: "Vous ne parviendrez pas à faire comprendre au prédicateur l’erreur de ses voies."
+ heretic_event.2.b.failure.tt: "Le pasteur sera libéré et vous perdrez votre prestige."
+ heretic_event.211.t: "L'hérétique rencontre le bûcher"
+ heretic_event.211.desc: "Utiliser les Saintes Écritures pour semer le trouble n’est pas une entreprise rentable."
+ heretic_event.212.t: "Le prédicateur évite de s’incriminer."
+ heretic_event.212.desc: "En choisissant soigneusement ses mots et en fondant ses arguments sur des hypothèses universellement acceptées, le prédicateur a réussi à faire valoir son point de vue sans s’aventurer sur le territoire de l’hérésie."
+ heretic_event.212.a: "Les plus éloquents sont les pires, brûlez-le."
+ heretic_event.212.a.tt: "Vous exécuterez le prédicateur sans justification formelle."
+ heretic_event.212.b: "Je suppose que nous devrons le laisser partir."
+ heretic_event.212.b.tt: "Le prédicateur sera libre."
+ heretic_event.2121.t: "Coupable à moins d'être innocenté."
+ heretic_event.2121.desc: "Le prédicateur est peut-être un orateur habile et prudent, mais il n’en demeure pas moins un hérétique. Vous savez à quel point les implications qui se cachent derrière ses allusions nébuleuses sont pécheresses. Il n’est peut-être pas disposé à admettre sa culpabilité, mais ses pitreries gênantes suffisent à le condamner à mort. Au moment où vous prononcez la sentence, quelque chose vous taraude, la situation vous rappelle quelque chose, mais vous n'arrivez pas à mettre le doigt dessus."
+ heretic_event.2121.a: "Ce que j'ai écrit, je l'ai écrit."
+ heretic_event.2122.t: "Le prédicateur est libre."
+ heretic_event.2122.desc: "Sans preuve d’hérésie, vous n’avez aucun hérétique à condamner."
+ heretic_event.221.t: "Le prédicateur rejoint votre cause."
+ heretic_event.221.desc: "Impressionné par votre savoir et votre piété, le prédicateur décide de poursuivre ses études à vos côtés."
+ heretic_event.222.t: "Le prédicateur repart triomphant."
+ heretic_event.222.desc: "Vous avez perdu le contrôle de la discussion et une raison de garder le prédicateur captif."
+ heretic_event.11.t: "Le noble est impressionné"
+ heretic_event.11.desc: "Le noble est plus impressionné que contrarié par votre suggestion indirecte selon laquelle vous êtes trop important pour l'aider."
+ heretic_event.12.t: "Le noble est déçu"
+ heretic_event.12.desc: "Votre refus d’aider a diminué votre position auprès de la noblesse locale."
+ heretic_event.3.t: "L'hérétique rencontre le bûcher"
+ heretic_event.3.desc: "Nous ne saurons peut-être jamais avec certitude s’il répondait aux critères formels pour être qualifié d’hérétique, mais il brûle comme tel."
+ defeated_general.1.t: "Le général vaincu"
+ defeated_general.1.desc: "Un de vos employés de bureau vous aborde avec un sujet des plus délicats. Il est le confesseur d'un général autrefois éminent et célèbre, mais aujourd'hui en disgrâce. Depuis que la campagne qu'il était chargé de mener s'est avérée désastreuse, la tentation d'un péché grave le hante, le péché de se suicider. Le greffier se sent impuissant à l'en empêcher et se tourne vers vous, espérant que vous ferez mieux pour redonner espoir à cet homme vaincu. Vous visitez tous les deux sa résidence. Le domestique vous fait entrer dans le bureau du commandant, où vous le voyez affalé dans un fauteuil. Quelque temps après des présentations brèves et maladroites, le général vous dit : « Je ne peux tout simplement pas vivre comme ça, avec cette ombre de gloire perdue qui m'écrase. »."
+ defeated_general.1.a: "Mon brave homme, les jours de vraie gloire sont encore devant vous !"
+ defeated_general.a.success.ctt: "Vous revigorez l'esprit du général en le convainquant de s'engager pleinement pour votre cause."
+ defeated_general.a.success.tt: "Le général vous rejoint sans désespoir."
+ defeated_general.a.meh.ctt: "Le général vous donnera une chance de travailler pour vous, mais son moral restera brisé."
+ defeated_general.a.meh.tt: "Le général vous rejoint en homme brisé."
+ defeated_general.a.failure.ctt: "Rien ne convainc le général que rejoindre votre cause améliorera les choses."
+ defeated_general.a.failure.tt: "Le général se suicidera."
+ defeated_general.1.b: "Parlez-moi de cette campagne."
+ defeated_general.b.success.ctt: "Vous engagerez le général dans une conversation sur des questions militaires qui lui permettra d'exprimer son chagrin."
+ defeated_general.b.success.tt: "Vous gagnerez un mentor en matière de guerre."
+ defeated_general.b.failure.ctt: "Le général sera découragé de s’ouvrir à cause de votre manque de compréhension."
+ defeated_general.b.failure.tt: "Le général ne trouvera aucun réconfort en votre compagnie."
+ defeated_general.1.c: "Nous pouvons vous assurer un enterrement chrétien moyennant un don."
+ defeated_general.1.c.tt: "Vous faciliterez le suicide du général pour un gain financier."
+ defeated_general.111.t: "Un nouvel objectif"
+ defeated_general.111.desc: "« Des ennemis plus redoutables que les Sarrasins… Une guerre secrète menée depuis des millénaires… Une mission du Saint-Père lui-même… Oui, oui, je comprends à quel point cela rendrait mes faux pas de carrière passés relativement insignifiants. Votre Excellence, vous avez mon allégeance !'"
+ defeated_general.111.a: "In hoc signo vinces!"
+ defeated_general.112.t: "Service réticent"
+ defeated_general.112.desc: "« Je ne connais rien à ces histoires de « but sacré », mais si vous avez besoin d'un commandant, j'imagine que commander des soldats vaut mieux pourrir ici."
+ defeated_general.112.a: "Je suppose que oui aussi."
+ defeated_general.113.t: "Quand l'espoir s'en va"
+ defeated_general.113.desc: "'Reprise du service ? Pour que davantage d'hommes bons puissent mourir à cause de moi ? Jamais! Sortez de chez moi, maintenant !.'"
+ defeated_general.113.a: "Ai-je entendu un tabouret tomber ?"
+ defeated_general.21.t: "Apprendre des erreurs du passé"
+ defeated_general.21.desc: "Le général commence son récit mais hésite lorsqu'il aborde la partie gênante de son histoire. L’opportunité d’avoir quelqu’un désireux de l’écouter et de l’écouter attentivement pour le convaincre de continuer. Vous rassurez le général que personne ne pouvait condamner ses décisions compte tenu des informations dont il disposait à ce moment-là. Entendre cela de la part d’une personne ayant apparemment une connaissance approfondie des questions militaires est un immense soulagement pour l’homme torturé. Une fois l’histoire terminée, vous passez des heures supplémentaires à discuter de stratégie militaire. Alors que vous partez enfin, le domestique murmure : « Merci, je ne l'ai pas vu sourire depuis la guerre."
+ defeated_general.21.a: "Faisons en sorte que cela soit une chose régulière !"
+ defeated_general.22.t: "Le sort du soldat incompris"
+ defeated_general.22.desc: "Le général commence à raconter son histoire mais conclut rapidement que toute tentative d'expliquer sa tragédie est une perte de temps. L'air perplexe qui habite votre visage lorsque vous posez des questions trahissant votre manque de connaissances militaires trahit vos bonnes intentions. « Disons… que les choses ont mal tourné. Peut-être que je développerai une autre fois. Je vous demande pardon, mes honorables invités, mais je suis complètement épuisé pour le moment."
+ defeated_general.22.a: "J'aurais peut-être dû venir mieux préparé."
+ defeated_general.3.t: "Le festin d'un vautour"
+ defeated_general.3.desc: "Le général semble brièvement choqué après avoir réalisé ce que vous proposez. Rapidement, le soulagement et la détermination surmontèrent l'air sombre de son visage. « Très bien, je t'inclurai dans mon testament. Je dois dire que je ne m'attendais pas à un tel résultat de cette réunion. Mais je suppose que j'ai toujours été un imbécile. Adieu."
+ defeated_general.3.a: "Pecunia non olet, comme on dit."
+ donors_daughter.1.t: "La fille du donneur"
+ donors_daughter.1.desc: "Une abbaye abritant votre base d'opérations régionale reçoit la visite d'une jeune noble. Elle se présente comme la fille d'un ami de la cause récemment décédé, mais ignore pourquoi son père vous a fourni des fonds et a été chargé par ses frères et sœurs d'enquêter. En lisant entre les lignes de son introduction, il est clair que le donateur n'a pas réussi à préparer un testament écrit et que la décision de ses enfants d'honorer son dernier souhait de consacrer une part de leur héritage à votre cause dépendra de l'impression que cette fille aura de vous. n\n'Votre Excellence va-t-elle me faire visiter les lieux ? Je veux voir tout ce que vous faites ici. - elle demande."
+ donors_daughter.1.a: "Avec plaisir, ma dame, mais voyez-vous, les ailes sont en rénovation..."
+ donors_daughter.1.a.success.tt: "Vous convaincrez la fille de sauter les sections sensibles."
+ donors_daughter.1.a.failure.tt: "La fille verra à travers vos excuses."
+ donors_daughter.1.a.success.ctt: "La visite aura une issue plus favorable."
+ donors_daughter.1.a.failure.ctt: "La visite aura une issue moins favorable."
+ donors_daughter.1.b: "Euh... bien sûr."
+ donors_daughter.1.c: "Nous accueillons les visiteurs dans le hall principal, tout le reste est interdit."
+ donors_daughter.2.t: "La Fille du Donateur : Votre équipe talentueuse"
+ donors_daughter.2.desc: "Alors que vous traversez le hall principal, la jeune noble remarque les moines scribes qui manipulent vos documents.\n'Oh, j'ai entendu une fois une chorale de moines chanter lors des funérailles de ma tante, c'était tellement beau ! S'il vous plaît, faites-les chanter pour moi. - plaide-t-elle."
+ donors_daughter.2.a: "Crois-moi, mon enfant, ces moines sont de terribles chanteurs."
+ donors_daughter.2.a.success.tt: "La jeune fille sera charmée par votre souci de ses oreilles."
+ donors_daughter.2.a.failure.tt: "La jeune fille considérera ses souhaits comme non respectés."
+ donors_daughter.2.a.success.ctt: "La visite aura une issue plus favorable."
+ donors_daughter.2.a.failure.ctt: "La visite aura une issue moins favorable."
+ donors_daughter.2.b: "Vous avez entendu la dame."
+ donors_daughter.2.c: "Leur tâche ici n'est pas de divertir les invités."
+ donors_daughter.3.t: "La fille du donneur : un vêtement tentant"
+ donors_daughter.31.desc: "Lorsque vous arrivez à votre bureau, le regard du visiteur se tourne vers la coiffe de Sainte Wiborada, relique sacrée que vous exposez fièrement sur un stand dédié. « Quel vêtement particulier, je n'en ai jamais vu dans ce style. Cela doit être très vieux. Je veux l'essayer !' s'exclame-t-elle alors que les employés du bureau se tournent vers vous avec des expressions inquiètes."
+ donors_daughter.32.desc: "Arrivé à votre bureau, le regard du visiteur se tourne vers le voile de Sainte Belina, une relique sacrée que vous exposez fièrement sur un stand dédié. « Quel vêtement particulier, je n'en ai jamais vu dans ce style. Cela doit être très vieux. Je veux l'essayer !' s'exclame-t-elle alors que les employés du bureau se tournent vers vous avec des expressions inquiètes."
+ donors_daughter.33.desc: "Arrivé à votre bureau, le regard du visiteur se tourne vers le manteau de Sainte Ludmila, une relique sacrée que vous exposez fièrement sur un stand dédié. « Quel vêtement particulier, je n'en ai jamais vu dans ce style. Cela doit être très vieux. Je veux l'essayer !' s'exclame-t-elle alors que les employés du bureau se tournent vers vous avec des expressions inquiètes."
+ donors_daughter.3.a: "Ma dame, cette chose est terriblement poussiéreuse."
+ donors_daughter.3.a.success.tt: "La fille considérera cela comme une excuse."
+ donors_daughter.3.a.failure.tt: "La jeune fille réévaluera l'attrait du vêtement."
+ donors_daughter.3.a.success.ctt: "La visite aura une issue plus favorable."
+ donors_daughter.3.a.failure.ctt: "La visite aura une issue moins favorable."
+ donors_daughter.3.b: "Poursuivre."
+ donors_daughter.3.c: "Oubliez ça, mademoiselle."
+ donors_daughter.4.t: "La fille du donneur : l'heure de la décision"
+ donors_daughter.4.desc: "Après avoir finalement réussi à ennuyer la jeune femme en énumérant toutes les initiatives caritatives que l'argent de son père a contribué à financer, aussi bien celles qui se déroulent réellement que celles qui servent de couverture à d'autres opérations, elle a décidé qu'elle en avait assez vu et entendu. Vous connaîtrez l'étendue de sa générosité avant son départ."
+ donors_daughter.4.a: "Elle semblait aimer cet endroit."
+ donors_daughter.4.b: "Espérons qu'elle ait apprécié son séjour."
+ donors_daughter.4.c: "Espérons qu'elle ait apprécié son séjour."
+ donors_daughter.4.d: "C'est probablement mieux qu'elle parte."
+ donors_daughter.4.e: "Je m'en fiche si ce gamin passe un bon moment."
+ donors_daughter.5.t: "La fille du donneur : charmée au-delà des attentes"
+ donors_daughter.5.desc: "« Votre Excellence est le serviteur du Christ le plus magnanime que j'aie jamais rencontré. Je ne suis pas encore tout à fait sûr de ce que vous faites ici, mais quoi que ce soit, avec vous à la barre, cela mérite chaque pièce d'argent que ma famille a mise de côté, mais aussi un don personnel de ma part."
+ donors_daughter.5.a: "C'était un plaisir, ma dame."
+ donors_daughter.6.t: "La fille du donneur : une hospitalité adéquate"
+ donors_daughter.6.desc: "« Votre Excellence est aussi pieuse que votre cause et il serait impie de ma part de partir d'ici sans donner la totalité de la somme dont j'étais autorisé à me séparer. Mon père a toujours bien géré notre argent et je vois que cela ne fait pas exception. Bonne chance."
+ donors_daughter.6.a: "Adieu alors."
+ donors_daughter.7.t: "La fille du donneur : manque d'hospitalité"
+ donors_daughter.7.desc: "«Je pense que j'en ai assez vu. Je ne peux pas dire que je comprends vraiment le dévouement de mon père à soutenir vos efforts, mais si me séparer de cette somme me permet de rester en sécurité en sachant que son dernier souhait a été exaucé, qu'il en soit ainsi. Adieu, Votre Excellence."
+ donors_daughter.7.a: "Cela valait à peine le temps."
+ donors_daughter.8.t: "La fille du donneur : mauvaises impressions"
+ donors_daughter.8.desc: "« L'hospitalité de Votre Excellence laisse beaucoup à désirer. Je n'ai jamais vu mon père s'associer avec des individus aussi désagréables et quelles que soient ses relations avec vous, ce n'est pas quelque chose que nous souhaitons continuer dans cette famille. Adieu à vous."
+ donors_daughter.8.a: "Je devrais probablement en embaucher pour faire ça."
+ donors_daughter.9.t: "La fille du donneur : changement de paradigme"
+ donors_daughter.9.desc: ""Votre Excellence n'a pas tenu compte de chacune de mes demandes et n'a fait aucun effort pour m'accommoder d'une manière qui sied à une femme noble. Je sens que je devrais tourner les talons et vous laisser sans rien, mais en même temps, je suis impressionné par votre dignité et se concentrer. Toute ma vie, j'ai été choyé et entouré de courtisans qui cherchaient des restes de ma richesse familiale, vous êtes différent. Il est clair que votre vocation dirige votre regard au-dessus de cette mesquinerie et quoi qu'il en soit, je veux en faire partie. Rester ici n'a jamais fait partie de l'accord que j'ai passé avec mes frères et j'ai peur de ne pas pouvoir représenter la succession si je faisais ce choix, mais je vous en supplie, Votre Excellence, libérez-moi de cette insignifiance et de cette débauche. existence et laissez-moi vous servir."
+ donors_daughter.9.a: "Tu as beaucoup à apprendre, mon enfant."
+ donors_daughter.9.a.t: "La jeune noble rejoint votre cour."
+ donors_daughter.9.a.desc: "[ddaughter.GetShortUIName] est prêt à servir la cause."
+ donors_daughter.9.b: "Une poursuite louable, mais nous n’avons aucune ouverture."

@@ -1,53 +1,52 @@
 ﻿l_french:
-  
- POD_inquisition_face_sins.001.t: "Affrontez vos péchés" #NT!
- POD_inquisition_face_sins.001.desc: "Vous commencez à sentir que vous ne méritez pas la grâce que Dieu vous a accordée, avec la façon dont vous vivez votre vie. Votre foi était autrefois inébranlable, mais vous sentez des fissures apparaître tout autour de votre détermination mentale.\nLe monde est-il vraiment condamné ? Ou n’en faites-vous pas assez ? Le doute vous tourmente et cette crise affecte de plus en plus votre efficacité. Vous devez faire quelque chose, peut-être en commençant par devenir une meilleure personne." #NT!
- POD_inquisition_face_sins.001.option.a: "Je devrais essayer de mieux comprendre ses voies" #NT!
- POD_inquisition_face_sins.001.option.a.tt: "Vous essaierez de faire quelque chose, cela pourrait résoudre cette crise ou finir par la rendre encore plus coûteuse." #NT!
- POD_inquisition_face_sins.001.generic.tt: "#R Cette crise de foi s'est produite parce que votre personnage a au moins un des sept péchés chrétiens médiévaux (gloutonnerie, envie/vengeance, orgueil, luxure, colère, avidité, paresse).#!" #NT!
- POD_inquisition_face_sins.001.option.b: "Je m'en fiche..." #NT!
- POD_inquisition_face_sins.001.option.b.tt: "Vous ne ferez rien, ce qui a un coût" #NT!
-  
- POD_inquisition_face_sins.002.t: "Affrontez vos péchés II" #NT!
- POD_inquisition_face_sins.002.desc: "Après avoir réfléchi à la façon dont vous pouvez acquérir une compréhension plus profonde de la grâce de Dieu, vous vous êtes proposé deux options : en apprendre davantage sur les hommes vraiment pieux du passé ou chercher de l'aide auprès des serviteurs de Dieu." #NT!
- POD_inquisition_face_sins.002.option.a: "Je devrais rechercher la sagesse éternelle des saints du passé" #NT!
- POD_inquisition_face_sins.002.option.a.tt: "Vous essaierez d'en apprendre davantage sur les personnes pieuses du passé" #NT!
- POD_inquisition_face_sins.002.option.a.desc: "Apprentissage et détermination" #NT!
- POD_inquisition_face_sins.002.option.a.success: "Vous réussissez à mieux comprendre ses voies" #NT!
- POD_inquisition_face_sins.002.option.a.success.tt: "Je le comprends mieux" #NT!
- POD_inquisition_face_sins.002.option.a.failure: "Vous ne parvenez pas à mieux comprendre ses voies" #NT!
- POD_inquisition_face_sins.002.option.a.failure.tt: "Peut-être que je ne suis pas son serviteur après tout ?" #NT!
- POD_inquisition_face_sins.002.option.b: "Je devrais chercher de l'aide dans les églises proches" #NT!
- POD_inquisition_face_sins.002.option.b.tt: "Vous demanderez à des prêtres et des moines locaux de vous aider" #NT!
- POD_inquisition_face_sins.002.option.b.desc: "Diplomatie et détermination" #NT!
- POD_inquisition_face_sins.002.option.b.success: "Vous réussissez à mieux comprendre ses voies" #NT!
- POD_inquisition_face_sins.002.option.b.success.tt: "Je le comprends mieux" #NT!
- POD_inquisition_face_sins.002.option.b.failure: "Vous ne parvenez pas à mieux comprendre ses voies" #NT!
- POD_inquisition_face_sins.002.option.b.failure.tt: "Peut-être que je ne suis pas son serviteur après tout ?" #NT!
-  
- POD_inquisition_face_sins.102.t: "Restauration de la foi" #NT!
- POD_inquisition_face_sins.102.desc.learning: "Après avoir passé beaucoup de temps avec de vieux livres sur les personnes pieuses du passé, vous comprenez que les voies de Dieu sont différentes de celles des hommes. S’il vous accorde sa bénédiction, vous qui êtes un simple pécheur, vous devez le rendre fier." #NT!
- POD_inquisition_face_sins.102.desc.diplomacy: "Vous avez parlé avec de nombreux serviteurs de Dieu ces derniers jours et maintenant vous commencez enfin à comprendre que la façon dont vous vous percevez n'a pas d'importance, la seule chose qui compte est la façon dont Dieu vous perçoit. S’il pense que vous méritez votre bénédiction, vous veillerez à ce qu’elle ne soit pas gaspillée." #NT!
- POD_inquisition_face_sins.102.option.a: "Les voies du Seigneur sont impénétrables" #NT!
- POD_inquisition_face_sins.102.option.a.tt: "Vous gardez vos pouvoirs divins" #NT!
-  
- POD_inquisition_face_sins.003.t: "Crise de foi" #NT!
- POD_inquisition_face_sins.003.desc.learning: "Même après avoir passé beaucoup de temps à essayer de comprendre les gens pieux du passé en lisant de vieux livres, cela n’a tout simplement aucun sens. Peut-être que vous n’êtes pas Son serviteur, après tout. Ou, à tout le moins, imparfait. Priez simplement que ce soit suffisant." #NT!
- POD_inquisition_face_sins.003.desc.diplomacy: "Même les prêtres et les moines locaux ne vous ont pas aidé à comprendre Dieu et ses voies. Peut-être que vous n'êtes pas Son serviteur après tout. Ou du moins une version très imparfaite. Il vous suffit de prier pour que cela suffise." #NT!
- POD_inquisition_face_sins.003.option.a: "J'ai perdu mon chemin" #NT!
- POD_inquisition_face_sins.003.option.a.tt: "Vous perdez vos pouvoirs divins... pendant un certain temps" #NT!
-  
- POD_inquisition_face_sins.004.t: "Crise de la foi II" #NT!
- POD_inquisition_face_sins.004.desc: "Cela fait un moment que vous n'avez pas pu utiliser les pouvoirs divins donnés par Dieu. Peut-être que vous avez perdu votre foi, peut-être qu'Il a perdu la foi en vous. Mais vous pouvez essayer de retrouver vos pouvoirs, si vous le souhaitez.\nAprès tout, il n'est jamais trop tard pour les hommes de Vraie Foi. Il n’y a qu’un péché à ne pas essayer de suivre le chemin, et non à ne pas le suivre." #NT!
- POD_inquisition_face_sins.004.option.a: "Je donnerai tout ce que je peux pour restaurer ma foi" #NT!
- POD_inquisition_face_sins.004.option.a.tt: "Vous essaierez de restaurer votre foi, quoi qu'il en coûte" #NT!
- POD_inquisition_face_sins.004.option.b: "je ne peux pas abandonner" #NT!
- POD_inquisition_face_sins.004.option.b.tt: "Vous essaierez de mieux vous comprendre vous-même et Dieu" #NT!
- POD_inquisition_face_sins.004.option.b.desc: "Défi d'apprentissage" #NT!
- POD_inquisition_face_sins.004.option.b.success: "Vous réussissez à mieux le comprendre ainsi que vous-même" #NT!
- POD_inquisition_face_sins.004.option.b.failure: "Vous échouez dans votre quête pour mieux le comprendre et vous-même" #NT!
- POD_inquisition_face_sins.004.option.b.failure.tt: "Vous ne récupérerez pas vos pouvoirs... pour l'instant" #NT!
- POD_inquisition_face_sins.004.option.c: "Je n'ai pas le temps pour ce genre de choses en ce moment" #NT!
- POD_inquisition_face_sins.004.option.c.tt: "Tu n'essaieras pas de restaurer ta foi pour l'instant" #NT!
- POD_inquisition_face_sins.004.option.d: "Honnêtement? Je m'en fiche" #NT!
- POD_inquisition_face_sins.004.option.d.tt: "Vous ne pourrez jamais restaurer votre foi" #NT!
+    POD_inquisition_face_sins.001.t: "Affrontez vos péchés"
+    POD_inquisition_face_sins.001.desc: "Vous commencez à sentir que vous ne méritez pas la grâce que Dieu vous a accordée, avec la façon dont vous vivez votre vie. Votre foi était autrefois inébranlable, mais vous sentez des fissures apparaître tout autour de votre détermination mentale.\nLe monde est-il vraiment condamné ? Ou n’en faites-vous pas assez ? Le doute vous tourmente et cette crise affecte de plus en plus votre efficacité. Vous devez faire quelque chose, peut-être en commençant par devenir une meilleure personne."
+    POD_inquisition_face_sins.001.option.a: "Je devrais essayer de mieux comprendre ses voies"
+    POD_inquisition_face_sins.001.option.a.tt: "Vous essaierez de faire quelque chose, cela pourrait résoudre cette crise ou finir par la rendre encore plus coûteuse."
+    POD_inquisition_face_sins.001.generic.tt: "#R Cette crise de foi s'est produite parce que votre personnage a au moins un des sept péchés chrétiens médiévaux (gloutonnerie, envie/vengeance, orgueil, luxure, colère, avidité, paresse).#!"
+    POD_inquisition_face_sins.001.option.b: "Je m'en fiche..."
+    POD_inquisition_face_sins.001.option.b.tt: "Vous ne ferez rien, ce qui a un coût"
+
+    POD_inquisition_face_sins.002.t: "Affrontez vos péchés II"
+    POD_inquisition_face_sins.002.desc: "Après avoir réfléchi à la façon dont vous pouvez acquérir une compréhension plus profonde de la grâce de Dieu, vous vous êtes proposé deux options : en apprendre davantage sur les hommes vraiment pieux du passé ou chercher de l'aide auprès des serviteurs de Dieu."
+    POD_inquisition_face_sins.002.option.a: "Je devrais rechercher la sagesse éternelle des saints du passé"
+    POD_inquisition_face_sins.002.option.a.tt: "Vous essaierez d'en apprendre davantage sur les personnes pieuses du passé"
+    POD_inquisition_face_sins.002.option.a.desc: "Apprentissage et détermination"
+    POD_inquisition_face_sins.002.option.a.success: "Vous réussissez à mieux comprendre ses voies"
+    POD_inquisition_face_sins.002.option.a.success.tt: "Je le comprends mieux"
+    POD_inquisition_face_sins.002.option.a.failure: "Vous ne parvenez pas à mieux comprendre ses voies"
+    POD_inquisition_face_sins.002.option.a.failure.tt: "Peut-être que je ne suis pas son serviteur après tout ?"
+    POD_inquisition_face_sins.002.option.b: "Je devrais chercher de l'aide dans les églises proches"
+    POD_inquisition_face_sins.002.option.b.tt: "Vous demanderez à des prêtres et des moines locaux de vous aider"
+    POD_inquisition_face_sins.002.option.b.desc: "Diplomatie et détermination"
+    POD_inquisition_face_sins.002.option.b.success: "Vous réussissez à mieux comprendre ses voies"
+    POD_inquisition_face_sins.002.option.b.success.tt: "Je le comprends mieux"
+    POD_inquisition_face_sins.002.option.b.failure: "Vous ne parvenez pas à mieux comprendre ses voies"
+    POD_inquisition_face_sins.002.option.b.failure.tt: "Peut-être que je ne suis pas son serviteur après tout ?"
+
+    POD_inquisition_face_sins.102.t: "Restauration de la foi"
+    POD_inquisition_face_sins.102.desc.learning: "Après avoir passé beaucoup de temps avec de vieux livres sur les personnes pieuses du passé, vous comprenez que les voies de Dieu sont différentes de celles des hommes. S’il vous accorde sa bénédiction, vous qui êtes un simple pécheur, vous devez le rendre fier."
+    POD_inquisition_face_sins.102.desc.diplomacy: "Vous avez parlé avec de nombreux serviteurs de Dieu ces derniers jours et maintenant vous commencez enfin à comprendre que la façon dont vous vous percevez n'a pas d'importance, la seule chose qui compte est la façon dont Dieu vous perçoit. S’il pense que vous méritez votre bénédiction, vous veillerez à ce qu’elle ne soit pas gaspillée."
+    POD_inquisition_face_sins.102.option.a: "Les voies du Seigneur sont impénétrables"
+    POD_inquisition_face_sins.102.option.a.tt: "Vous gardez vos pouvoirs divins"
+
+    POD_inquisition_face_sins.003.t: "Crise de foi"
+    POD_inquisition_face_sins.003.desc.learning: "Même après avoir passé beaucoup de temps à essayer de comprendre les gens pieux du passé en lisant de vieux livres, cela n’a tout simplement aucun sens. Peut-être que vous n’êtes pas Son serviteur, après tout. Ou, à tout le moins, imparfait. Priez simplement que ce soit suffisant."
+    POD_inquisition_face_sins.003.desc.diplomacy: "Même les prêtres et les moines locaux ne vous ont pas aidé à comprendre Dieu et ses voies. Peut-être que vous n'êtes pas Son serviteur après tout. Ou du moins une version très imparfaite. Il vous suffit de prier pour que cela suffise."
+    POD_inquisition_face_sins.003.option.a: "J'ai perdu mon chemin"
+    POD_inquisition_face_sins.003.option.a.tt: "Vous perdez vos pouvoirs divins... pendant un certain temps"
+
+    POD_inquisition_face_sins.004.t: "Crise de la foi II"
+    POD_inquisition_face_sins.004.desc: "Cela fait un moment que vous n'avez pas pu utiliser les pouvoirs divins donnés par Dieu. Peut-être que vous avez perdu votre foi, peut-être qu'Il a perdu la foi en vous. Mais vous pouvez essayer de retrouver vos pouvoirs, si vous le souhaitez.\nAprès tout, il n'est jamais trop tard pour les hommes de Vraie Foi. Il n’y a qu’un péché à ne pas essayer de suivre le chemin, et non à ne pas le suivre."
+    POD_inquisition_face_sins.004.option.a: "Je donnerai tout ce que je peux pour restaurer ma foi"
+    POD_inquisition_face_sins.004.option.a.tt: "Vous essaierez de restaurer votre foi, quoi qu'il en coûte"
+    POD_inquisition_face_sins.004.option.b: "je ne peux pas abandonner"
+    POD_inquisition_face_sins.004.option.b.tt: "Vous essaierez de mieux vous comprendre vous-même et Dieu"
+    POD_inquisition_face_sins.004.option.b.desc: "Défi d'apprentissage"
+    POD_inquisition_face_sins.004.option.b.success: "Vous réussissez à mieux le comprendre ainsi que vous-même"
+    POD_inquisition_face_sins.004.option.b.failure: "Vous échouez dans votre quête pour mieux le comprendre et vous-même"
+    POD_inquisition_face_sins.004.option.b.failure.tt: "Vous ne récupérerez pas vos pouvoirs... pour l'instant"
+    POD_inquisition_face_sins.004.option.c: "Je n'ai pas le temps pour ce genre de choses en ce moment"
+    POD_inquisition_face_sins.004.option.c.tt: "Tu n'essaieras pas de restaurer ta foi pour l'instant"
+    POD_inquisition_face_sins.004.option.d: "Honnêtement? Je m'en fiche"
+    POD_inquisition_face_sins.004.option.d.tt: "Vous ne pourrez jamais restaurer votre foi"

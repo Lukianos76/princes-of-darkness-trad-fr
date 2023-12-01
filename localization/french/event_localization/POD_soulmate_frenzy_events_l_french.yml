@@ -1,80 +1,79 @@
 ﻿l_french:
-  
- POD_soulmate_frenzy.001.t: "L'âme effilochée" #NT!
- POD_soulmate_frenzy.001.desc: "Vous venez d'apprendre l'annonce et votre monde s'effondre. [lost_soulmate.GetFirstName] a embrassé la vraie mort. Votre esprit tremble et nie ce fait. Il faut des moments interminables avant de vraiment comprendre ce que cela signifie : une partie de vous a définitivement disparu. Vous êtes seul sous le ciel nocturne, et cette solitude vertigineuse vous étouffe l'esprit. Mais il y a un monstre qui surveille votre faiblesse. La Bête monte en vous, chevauchant votre douleur et votre désespoir. Bientôt, ses rugissements assiégeront votre âme. Parce qu'avec le chagrin vient la rage." #NT!
- POD_soulmate_frenzy.001.option.a: "Je dois résister de toutes mes forces" #NT!
- POD_soulmate_frenzy.001.option.a.tt: "#R Tu ne peux pas me résister !#!" #NT!
- POD_soulmate_frenzy.001.option.b: "Je dois résister assez longtemps pour quitter ma cour" #NT!
- POD_soulmate_frenzy.001.option.b.tt: "#R Vous ne pouvez pas me fuir !#!" #NT!
- POD_soulmate_frenzy.001.option.c: "J'accepte son étreinte ; la Bête ne souffre jamais" #NT!
- POD_soulmate_frenzy.001.option.c.tt: "#R C'est l'heure de se régaler !#!" #NT!
-  
- POD_soulmate_frenzy.002.t: "Essayez de résister" #NT!
- POD_soulmate_frenzy.002.desc: "Une présence terrifiante grandit en vous. C'est plein de passions rouges, de désirs mortels, et vous aimeriez céder. Vous pourriez oublier toutes vos souffrances, et trouver un soulagement en accueillant la Bête. Une respiration, pendant que tu étouffe de douleur. Mais vous avez vos propres raisons de résister. Vous savez que la Bête est un prédateur intérieur et que vous êtes sa proie.\nIl n'y a rien de bon qu'elle puisse vous apporter, si ce n'est plus du désespoir. Et donc, vous vous battez contre la Bête, vous vous battez contre vous-même et contre votre propre désir d'abandonner. Votre esprit est un champ de bataille et la lumière s'estompe. Vous êtes seul face à vos propres ténèbres, et celles-ci vous engloutissent." #NT!
- POD_soulmate_frenzy.002.option.a: "Continuer la lutte" #NT!
- POD_soulmate_frenzy.002.option.a.tt: "#R Vous avez le contrôle... pour l'instant#!" #NT!
-  
- POD_soulmate_frenzy.102.t: "Transcender la douleur" #NT!
- POD_soulmate_frenzy.102.desc: "Les nuits suivantes semblent ne jamais finir. La Bête est là, prête à exploiter la moindre contrariété, le moindre sanglot, pour s'emparer de vous. Vos courtisans sentent que quelque chose ne va pas chez vous et, espérons-le, ils vous évitent instinctivement. Votre regard est plein de carnage, et même un humain peut le voir. Mais petit à petit, vous repoussez votre monstre intérieur. Ses griffes ne parviennent plus à saisir votre conscience. Et ainsi, après des semaines de dur combat, vous enfermez à nouveau la bête dans sa cage. Vous avez gagné, mais au prix de gros efforts. Au moins, de nombreuses vies ont probablement été sauvées grâce à cela.\nVotre chagrin est toujours là et votre immortalité a un goût amer. Mais le temps est néanmoins votre allié. Peut-être qu'une nuit, le ciel sera à nouveau étoilé." #NT!
- POD_soulmate_frenzy.102.option.a: "C'est fini" #NT!
- POD_soulmate_frenzy.102.option.a.tt: "Vous avez réussi à résister à la frénésie, mais vous ressentez toujours le vide intérieur..." #NT!
-  
- POD_soulmate_frenzy.003.t: "Sous le ciel rouge" #NT!
- POD_soulmate_frenzy.003.desc: "Vous parvenez à garder la bride de la Bête, au moins pour un moment. Vous quittez votre domaine, comme si l'enfer était derrière vous. Vous vous engagez dans la nuit, le plus loin possible de chez vous, tandis que la Bête frappe en vous avec fureur. À un moment donné, on ne se souvient plus trop quand, on fait la seule chose qui reste à faire : ouvrir la cage. Et vous vous noyez dans le tourment de vos émotions trop longtemps contenues.\nBeaucoup de gens mourront probablement, mais ils ne seront pas vos courtisans." #NT!
- POD_soulmate_frenzy.003.option.a: "Le sang coulera ce soir" #NT!
- POD_soulmate_frenzy.003.option.a.tt: "#R Enfin ! Nous leur montrerons notre colère !#!" #NT!
-  
- POD_soulmate_frenzy.103.t: "Quand le peuple saigne" #NT!
- POD_soulmate_frenzy.103.desc: "La frénésie vous saisit pendant des semaines. Vous traversez votre domaine comme une tempête sanguinaire. Rapidement, des rumeurs parlent d'un monstre qui viendrait la nuit, tuant tout sur son passage. Les jours deviennent trop courts pour les gens, et les nuits, des promesses mortelles.\nVous ne vous souvenez plus quand ça s'arrête. Vous vous trouvez au centre d'un village et les morceaux de ses habitants sont dispersés tout autour de vous. Cette image vous est devenue familière, mais vous pouvez désormais en apprécier l’horreur. Enfin, vous arrivez à votre refuge. Votre vérité intérieure s’exprime par le sang séché qui recouvre votre visage et vos mains. Vous êtes le monstre des contes et les enfants grandiront en vous craignant." #NT!
- POD_soulmate_frenzy.103.option.a: "Vos crimes sont innombrables" #NT!
- POD_soulmate_frenzy.103.option.a.tt: "#R C'était une bonne fête#!" #NT!
-  
- POD_soulmate_frenzy.203.t: "Une cicatrice de douleur et de fureur" #NT!
- POD_soulmate_frenzy.203.desc: "La grande frénésie n’a pas apaisé votre douleur. Le deuil ne se fait pas avec rage et carnage. Vous vous sentez vide, assailli par une impression d'irréalité. Le meilleur a laissé sa marque dans votre esprit, d'une manière que vous ne comprenez pas encore. Vous ne serez plus jamais le même.\nMais vous survivrez, nuit après nuit. Tel est le sort des immortels." #NT!
- POD_soulmate_frenzy.203.option.a: "Désormais, tout a un goût de poussière" #NT!
- POD_soulmate_frenzy.203.option.a.tt: "Vous avez succombé à la frénésie, mais vous ressentez toujours le vide intérieur..." #NT!
-  
- POD_soulmate_frenzy.303.t: "Enfant du Wyrm" #NT!
- POD_soulmate_frenzy.303.desc: "Les frénésies s'emparent de vous pendant des semaines. Vous traversez votre domaine comme une tempête sanguinaire. Rapidement, des rumeurs parlent d'un monstre qui viendrait la nuit, tuant tout sur son passage. Les jours deviennent trop courts pour les gens, et les nuits, des promesses mortelles.\nMais parfois, même les monstres rencontrent leur propre croque-mitaine. Votre Bête a été trop bruyante, trop visible par son appétit de mort. Plusieurs êtres ont entendu les larmes de la terre. Ils ont senti l'odeur de votre carnage et ont suivi sa trace. Une nuit, ils vous trouvent enfin et vous devenez la proie. Une meute de loups-garous vous entoure soudainement et est déterminé à mettre fin à votre existence sacrilège. Malgré toute la puissance de votre rage, leurs crocs et leurs griffes sont de trop. Cela pourrait être votre dernier combat." #NT!
- POD_soulmate_frenzy.303.option.a: "Les monstres n'ont pas peur des chiots" #NT!
- POD_soulmate_frenzy.303.option.a.tt: "#R Allez-y !#!" #NT!
- POD_soulmate_frenzy.303.option.a.desc: "Un combat pour ta non-vie" #NT!
- POD_soulmate_frenzy.303.option.a.success: "Vous arrivez en tête" #NT!
- POD_soulmate_frenzy.303.option.a.tt.win: "Vous gagnez" #NT!
- POD_soulmate_frenzy.303.option.a.failure: "Tu es vaincu" #NT!
- POD_soulmate_frenzy.303.option.a.tt.lose: "Tu as perdu" #NT!
-  
- POD_soulmate_frenzy.403.t: "Après les griffes" #NT!
- POD_soulmate_frenzy.403.desc: "Les grognements des loups se mêlent aux vôtres et le terrible affrontement commence. Votre Bête n'a pas le moindre discernement, mais elle sait instinctivement comment tuer et survivre. Vous êtes au cœur de la bataille ; ta danse au milieu de la tempête sauvage. Vous esquivez certains coups, vous échouez pour d'autres, et à chaque nouvelle blessure, votre rage grandit encore et encore.\nDans votre esprit enfiévré, vous vous voyez saisir la chair qui passe à votre portée, crever les yeux, arracher les mâchoires et trancher les bras. comme les têtes. La douleur vient déchirer ces visions. Votre corps a des limites et toute la fureur du monde ne peut pas les dépasser. La fatigue et vos blessures deviennent bien trop importantes ; et la peur s'empare du monstre qui vous contrôle. Alors, vous vous enfuyez, malgré les loups-garous fous qui vous poursuivent. Après des heures de poursuite, par miracle, vous parvenez à leur échapper." #NT!
- POD_soulmate_frenzy.403.option.a: "J'ai besoin de repos maintenant" #NT!
- POD_soulmate_frenzy.403.option.a.tt: "#R Ils ne sont pas à la hauteur de notre puissance !#!" #NT!
-  
- POD_soulmate_frenzy.503.t: "Je fais partie de ceux qui restent" #NT!
- POD_soulmate_frenzy.503.desc: "Vous êtes enfin à la maison. La Bête est silencieuse et vous êtes seul. Votre amoureux n'est plus là, vous laissant seulement son absence et ses souvenirs. Vous êtes toujours en vie, mais à quel prix ? Votre existence semblera beaucoup plus longue." #NT!
- POD_soulmate_frenzy.503.option.a: "Désormais, tout a un goût de poussière" #NT!
- POD_soulmate_frenzy.503.option.a.tt: "Vous avez succombé à la frénésie, mais vous ressentez toujours le vide intérieur..." #NT!
-  
- POD_soulmate_frenzy.603.t: "L'amour peut sauver" #NT!
- POD_soulmate_frenzy.603.desc: "Les grognements des loups se mêlent aux vôtres et le terrible affrontement commence. Vous êtes au cœur de la bataille ; ta danse au milieu de la tempête sauvage. Vous esquivez certains coups, vous échouez pour d'autres, et à chaque nouvelle blessure, votre rage grandit encore et encore. La douleur vient déchirer ces visions. Votre corps a des limites et toute la fureur du monde ne peut pas les dépasser. La fatigue et vos blessures deviennent bien trop importantes. Soudain, la rage vous abandonne.\nLes guerriers de Gaia vous rattrapent brutalement. Leurs armes meurtrières frappent les organes flétris derrière la peau de votre ventre, écrasent vos os, réduisent votre être en une infinité de petits morceaux. Vous vous sentez vide alors que vous mourez, mais un bruit étrange attire votre attention. Malgré le sang sur vos yeux, vous pouvez voir quelque chose se précipiter vers vous et la meute. Vous reconnaissez [friend_savior.GetFirstName]. Une nouvelle bataille commence, mais vous êtes bien trop blessé pour la regarder. Tout est flou, jusqu'à ce que [friend_savior.GetFirstName] se penche sur vous. 'Je suis là. Je suis là pour toi, maintenant." #NT!
- POD_soulmate_frenzy.603.option.a: "Bonjour ténèbres, vieil ami" #NT!
- POD_soulmate_frenzy.603.option.a.tt: "Vous êtes enregistré par [friend_savior.GetFirstName]" #NT!
-  
- POD_soulmate_frenzy.703.t: "Embrassez votre fin" #NT!
- POD_soulmate_frenzy.703.desc: "Les grognements des loups se mêlent aux vôtres et le terrible affrontement commence. Vous êtes au cœur de la bataille ; ta danse au milieu de la tempête sauvage. Vous esquivez certains coups, vous échouez pour d'autres, et à chaque nouvelle blessure, votre rage grandit encore et encore. Dans votre esprit enfiévré, vous vous voyez saisir la chair qui passe à votre portée, crever les yeux, arracher les mâchoires et trancher les bras comme les têtes. La douleur vient déchirer ces visions.\nVotre corps a des limites et toute la rage du monde n'arrive pas à les dépasser. Soudain, la rage vous abandonne et il ne reste plus que la peur. Les guerriers de Gaia vous attrapent brutalement. Leurs armes meurtrières frappent les organes flétris derrière la peau de votre ventre, écrasent vos os, réduisent votre être en une infinité de petits morceaux. Vous vous sentez vide avant que votre tête ne quitte votre cou. Vous pouvez voir les étoiles pour la dernière fois, puis viennent les ténèbres." #NT!
- POD_soulmate_frenzy.703.option.a: "Le repos éternel vous attend" #NT!
- POD_soulmate_frenzy.703.option.a.tt: "Vous mourez dans une bataille inégale avec des loups-garous" #NT!
-  
- POD_soulmate_frenzy.004.t: "La bête déchaînée" #NT!
- POD_soulmate_frenzy.004.desc: "Votre flux de conscience est soudainement interrompu. Une fureur intense noie votre pensée et vous devenez comme une coquille vide, ne bougeant que pour la violence. Cette chose, qui est vous sans être vous, traverse votre domaine. Il est aveugle au regret, simplement soucieux de donner la mort, parce que la mort l'a enfanté. Alors ses griffes frappent les visages et écrasent les os ; et ses dents arrachent la gorge, comme les cœurs de la poitrine.\nVotre maison est maintenant submergée de sang et de cris. La nuit sera bientôt à nouveau silencieuse. C'est une promesse autant qu'une condamnation." #NT!
- POD_soulmate_frenzy.004.option.a: "La terre sera rouge à l'aube" #NT!
- POD_soulmate_frenzy.004.option.a.tt: "#R Commençons à nous régaler !#!" #NT!
-  
- POD_soulmate_frenzy.104.t: "Une gueule de bois sanglante" #NT!
- POD_soulmate_frenzy.104.desc: "Enfin, vous vous réveillez. Le voile sur vos yeux se lève et vous pouvez voir ce que vous avez fait pendant cette longue nuit. A vos pieds, une marée de sang. Vous êtes entouré de cadavres, de parties de corps tourmentés et d'autres choses non identifiables. Vous pouvez reconnaître nombre de vos gardes, de vos serviteurs, de vos courtisans, et certains visages vous sont moins anonymes. Tous sont désormais figés avec une expression de terreur. Votre maison est comme un cimetière ouvert et vous en êtes le fossoyeur." #NT!
- POD_soulmate_frenzy.104.option.a: "Vos crimes sont innombrables" #NT!
- POD_soulmate_frenzy.104.option.a.tt: "#R Tuer des courtisans, c'est amusant, on devrait recommencer !#!" #NT!
-  
- POD_soulmate_frenzy.204.t: "Une cicatrice de douleur et de fureur" #NT!
- POD_soulmate_frenzy.204.desc: "Les délires n’ont pas apaisé votre douleur. Le deuil ne se fait pas avec rage et carnage. Vous vous sentez vide, assailli par une impression d'irréalité. La Bête a laissé sa marque dans votre esprit, d'une manière que vous ne comprenez pas encore. Vous ne serez plus jamais le même. Mais vous survivrez, nuit après nuit. Tel est le sort des immortels." #NT!
- POD_soulmate_frenzy.204.option.a: "Désormais, tout a un goût de poussière" #NT!
- POD_soulmate_frenzy.204.option.a.tt: "Vous avez succombé à la frénésie, mais vous ressentez toujours le vide intérieur..." #NT!
+    POD_soulmate_frenzy.001.t: "L'âme effilochée"
+    POD_soulmate_frenzy.001.desc: "Vous venez d'apprendre l'annonce et votre monde s'effondre. [lost_soulmate.GetFirstName] a embrassé la vraie mort. Votre esprit tremble et nie ce fait. Il faut des moments interminables avant de vraiment comprendre ce que cela signifie : une partie de vous a définitivement disparu. Vous êtes seul sous le ciel nocturne, et cette solitude vertigineuse vous étouffe l'esprit. Mais il y a un monstre qui surveille votre faiblesse. La Bête monte en vous, chevauchant votre douleur et votre désespoir. Bientôt, ses rugissements assiégeront votre âme. Parce qu'avec le chagrin vient la rage."
+    POD_soulmate_frenzy.001.option.a: "Je dois résister de toutes mes forces"
+    POD_soulmate_frenzy.001.option.a.tt: "#R Tu ne peux pas me résister !#!"
+    POD_soulmate_frenzy.001.option.b: "Je dois résister assez longtemps pour quitter ma cour"
+    POD_soulmate_frenzy.001.option.b.tt: "#R Vous ne pouvez pas me fuir !#!"
+    POD_soulmate_frenzy.001.option.c: "J'accepte son étreinte ; la Bête ne souffre jamais"
+    POD_soulmate_frenzy.001.option.c.tt: "#R C'est l'heure de se régaler !#!"
+
+    POD_soulmate_frenzy.002.t: "Essayez de résister"
+    POD_soulmate_frenzy.002.desc: "Une présence terrifiante grandit en vous. C'est plein de passions rouges, de désirs mortels, et vous aimeriez céder. Vous pourriez oublier toutes vos souffrances, et trouver un soulagement en accueillant la Bête. Une respiration, pendant que tu étouffe de douleur. Mais vous avez vos propres raisons de résister. Vous savez que la Bête est un prédateur intérieur et que vous êtes sa proie.\nIl n'y a rien de bon qu'elle puisse vous apporter, si ce n'est plus du désespoir. Et donc, vous vous battez contre la Bête, vous vous battez contre vous-même et contre votre propre désir d'abandonner. Votre esprit est un champ de bataille et la lumière s'estompe. Vous êtes seul face à vos propres ténèbres, et celles-ci vous engloutissent."
+    POD_soulmate_frenzy.002.option.a: "Continuer la lutte"
+    POD_soulmate_frenzy.002.option.a.tt: "#R Vous avez le contrôle... pour l'instant#!"
+
+    POD_soulmate_frenzy.102.t: "Transcender la douleur"
+    POD_soulmate_frenzy.102.desc: "Les nuits suivantes semblent ne jamais finir. La Bête est là, prête à exploiter la moindre contrariété, le moindre sanglot, pour s'emparer de vous. Vos courtisans sentent que quelque chose ne va pas chez vous et, espérons-le, ils vous évitent instinctivement. Votre regard est plein de carnage, et même un humain peut le voir. Mais petit à petit, vous repoussez votre monstre intérieur. Ses griffes ne parviennent plus à saisir votre conscience. Et ainsi, après des semaines de dur combat, vous enfermez à nouveau la bête dans sa cage. Vous avez gagné, mais au prix de gros efforts. Au moins, de nombreuses vies ont probablement été sauvées grâce à cela.\nVotre chagrin est toujours là et votre immortalité a un goût amer. Mais le temps est néanmoins votre allié. Peut-être qu'une nuit, le ciel sera à nouveau étoilé."
+    POD_soulmate_frenzy.102.option.a: "C'est fini"
+    POD_soulmate_frenzy.102.option.a.tt: "Vous avez réussi à résister à la frénésie, mais vous ressentez toujours le vide intérieur..."
+
+    POD_soulmate_frenzy.003.t: "Sous le ciel rouge"
+    POD_soulmate_frenzy.003.desc: "Vous parvenez à garder la bride de la Bête, au moins pour un moment. Vous quittez votre domaine, comme si l'enfer était derrière vous. Vous vous engagez dans la nuit, le plus loin possible de chez vous, tandis que la Bête frappe en vous avec fureur. À un moment donné, on ne se souvient plus trop quand, on fait la seule chose qui reste à faire : ouvrir la cage. Et vous vous noyez dans le tourment de vos émotions trop longtemps contenues.\nBeaucoup de gens mourront probablement, mais ils ne seront pas vos courtisans."
+    POD_soulmate_frenzy.003.option.a: "Le sang coulera ce soir"
+    POD_soulmate_frenzy.003.option.a.tt: "#R Enfin ! Nous leur montrerons notre colère !#!"
+
+    POD_soulmate_frenzy.103.t: "Quand le peuple saigne"
+    POD_soulmate_frenzy.103.desc: "La frénésie vous saisit pendant des semaines. Vous traversez votre domaine comme une tempête sanguinaire. Rapidement, des rumeurs parlent d'un monstre qui viendrait la nuit, tuant tout sur son passage. Les jours deviennent trop courts pour les gens, et les nuits, des promesses mortelles.\nVous ne vous souvenez plus quand ça s'arrête. Vous vous trouvez au centre d'un village et les morceaux de ses habitants sont dispersés tout autour de vous. Cette image vous est devenue familière, mais vous pouvez désormais en apprécier l’horreur. Enfin, vous arrivez à votre refuge. Votre vérité intérieure s’exprime par le sang séché qui recouvre votre visage et vos mains. Vous êtes le monstre des contes et les enfants grandiront en vous craignant."
+    POD_soulmate_frenzy.103.option.a: "Vos crimes sont innombrables"
+    POD_soulmate_frenzy.103.option.a.tt: "#R C'était une bonne fête#!"
+
+    POD_soulmate_frenzy.203.t: "Une cicatrice de douleur et de fureur"
+    POD_soulmate_frenzy.203.desc: "La grande frénésie n’a pas apaisé votre douleur. Le deuil ne se fait pas avec rage et carnage. Vous vous sentez vide, assailli par une impression d'irréalité. Le meilleur a laissé sa marque dans votre esprit, d'une manière que vous ne comprenez pas encore. Vous ne serez plus jamais le même.\nMais vous survivrez, nuit après nuit. Tel est le sort des immortels."
+    POD_soulmate_frenzy.203.option.a: "Désormais, tout a un goût de poussière"
+    POD_soulmate_frenzy.203.option.a.tt: "Vous avez succombé à la frénésie, mais vous ressentez toujours le vide intérieur..."
+
+    POD_soulmate_frenzy.303.t: "Enfant du Wyrm"
+    POD_soulmate_frenzy.303.desc: "Les frénésies s'emparent de vous pendant des semaines. Vous traversez votre domaine comme une tempête sanguinaire. Rapidement, des rumeurs parlent d'un monstre qui viendrait la nuit, tuant tout sur son passage. Les jours deviennent trop courts pour les gens, et les nuits, des promesses mortelles.\nMais parfois, même les monstres rencontrent leur propre croque-mitaine. Votre Bête a été trop bruyante, trop visible par son appétit de mort. Plusieurs êtres ont entendu les larmes de la terre. Ils ont senti l'odeur de votre carnage et ont suivi sa trace. Une nuit, ils vous trouvent enfin et vous devenez la proie. Une meute de loups-garous vous entoure soudainement et est déterminé à mettre fin à votre existence sacrilège. Malgré toute la puissance de votre rage, leurs crocs et leurs griffes sont de trop. Cela pourrait être votre dernier combat."
+    POD_soulmate_frenzy.303.option.a: "Les monstres n'ont pas peur des chiots"
+    POD_soulmate_frenzy.303.option.a.tt: "#R Allez-y !#!"
+    POD_soulmate_frenzy.303.option.a.desc: "Un combat pour ta non-vie"
+    POD_soulmate_frenzy.303.option.a.success: "Vous arrivez en tête"
+    POD_soulmate_frenzy.303.option.a.tt.win: "Vous gagnez"
+    POD_soulmate_frenzy.303.option.a.failure: "Tu es vaincu"
+    POD_soulmate_frenzy.303.option.a.tt.lose: "Tu as perdu"
+
+    POD_soulmate_frenzy.403.t: "Après les griffes"
+    POD_soulmate_frenzy.403.desc: "Les grognements des loups se mêlent aux vôtres et le terrible affrontement commence. Votre Bête n'a pas le moindre discernement, mais elle sait instinctivement comment tuer et survivre. Vous êtes au cœur de la bataille ; ta danse au milieu de la tempête sauvage. Vous esquivez certains coups, vous échouez pour d'autres, et à chaque nouvelle blessure, votre rage grandit encore et encore.\nDans votre esprit enfiévré, vous vous voyez saisir la chair qui passe à votre portée, crever les yeux, arracher les mâchoires et trancher les bras. comme les têtes. La douleur vient déchirer ces visions. Votre corps a des limites et toute la fureur du monde ne peut pas les dépasser. La fatigue et vos blessures deviennent bien trop importantes ; et la peur s'empare du monstre qui vous contrôle. Alors, vous vous enfuyez, malgré les loups-garous fous qui vous poursuivent. Après des heures de poursuite, par miracle, vous parvenez à leur échapper."
+    POD_soulmate_frenzy.403.option.a: "J'ai besoin de repos maintenant"
+    POD_soulmate_frenzy.403.option.a.tt: "#R Ils ne sont pas à la hauteur de notre puissance !#!"
+
+    POD_soulmate_frenzy.503.t: "Je fais partie de ceux qui restent"
+    POD_soulmate_frenzy.503.desc: "Vous êtes enfin à la maison. La Bête est silencieuse et vous êtes seul. Votre amoureux n'est plus là, vous laissant seulement son absence et ses souvenirs. Vous êtes toujours en vie, mais à quel prix ? Votre existence semblera beaucoup plus longue."
+    POD_soulmate_frenzy.503.option.a: "Désormais, tout a un goût de poussière"
+    POD_soulmate_frenzy.503.option.a.tt: "Vous avez succombé à la frénésie, mais vous ressentez toujours le vide intérieur..."
+
+    POD_soulmate_frenzy.603.t: "L'amour peut sauver"
+    POD_soulmate_frenzy.603.desc: "Les grognements des loups se mêlent aux vôtres et le terrible affrontement commence. Vous êtes au cœur de la bataille ; ta danse au milieu de la tempête sauvage. Vous esquivez certains coups, vous échouez pour d'autres, et à chaque nouvelle blessure, votre rage grandit encore et encore. La douleur vient déchirer ces visions. Votre corps a des limites et toute la fureur du monde ne peut pas les dépasser. La fatigue et vos blessures deviennent bien trop importantes. Soudain, la rage vous abandonne.\nLes guerriers de Gaia vous rattrapent brutalement. Leurs armes meurtrières frappent les organes flétris derrière la peau de votre ventre, écrasent vos os, réduisent votre être en une infinité de petits morceaux. Vous vous sentez vide alors que vous mourez, mais un bruit étrange attire votre attention. Malgré le sang sur vos yeux, vous pouvez voir quelque chose se précipiter vers vous et la meute. Vous reconnaissez [friend_savior.GetFirstName]. Une nouvelle bataille commence, mais vous êtes bien trop blessé pour la regarder. Tout est flou, jusqu'à ce que [friend_savior.GetFirstName] se penche sur vous. 'Je suis là. Je suis là pour toi, maintenant."
+    POD_soulmate_frenzy.603.option.a: "Bonjour ténèbres, vieil ami"
+    POD_soulmate_frenzy.603.option.a.tt: "Vous êtes enregistré par [friend_savior.GetFirstName]"
+
+    POD_soulmate_frenzy.703.t: "Embrassez votre fin"
+    POD_soulmate_frenzy.703.desc: "Les grognements des loups se mêlent aux vôtres et le terrible affrontement commence. Vous êtes au cœur de la bataille ; ta danse au milieu de la tempête sauvage. Vous esquivez certains coups, vous échouez pour d'autres, et à chaque nouvelle blessure, votre rage grandit encore et encore. Dans votre esprit enfiévré, vous vous voyez saisir la chair qui passe à votre portée, crever les yeux, arracher les mâchoires et trancher les bras comme les têtes. La douleur vient déchirer ces visions.\nVotre corps a des limites et toute la rage du monde n'arrive pas à les dépasser. Soudain, la rage vous abandonne et il ne reste plus que la peur. Les guerriers de Gaia vous attrapent brutalement. Leurs armes meurtrières frappent les organes flétris derrière la peau de votre ventre, écrasent vos os, réduisent votre être en une infinité de petits morceaux. Vous vous sentez vide avant que votre tête ne quitte votre cou. Vous pouvez voir les étoiles pour la dernière fois, puis viennent les ténèbres."
+    POD_soulmate_frenzy.703.option.a: "Le repos éternel vous attend"
+    POD_soulmate_frenzy.703.option.a.tt: "Vous mourez dans une bataille inégale avec des loups-garous"
+
+    POD_soulmate_frenzy.004.t: "La bête déchaînée"
+    POD_soulmate_frenzy.004.desc: "Votre flux de conscience est soudainement interrompu. Une fureur intense noie votre pensée et vous devenez comme une coquille vide, ne bougeant que pour la violence. Cette chose, qui est vous sans être vous, traverse votre domaine. Il est aveugle au regret, simplement soucieux de donner la mort, parce que la mort l'a enfanté. Alors ses griffes frappent les visages et écrasent les os ; et ses dents arrachent la gorge, comme les cœurs de la poitrine.\nVotre maison est maintenant submergée de sang et de cris. La nuit sera bientôt à nouveau silencieuse. C'est une promesse autant qu'une condamnation."
+    POD_soulmate_frenzy.004.option.a: "La terre sera rouge à l'aube"
+    POD_soulmate_frenzy.004.option.a.tt: "#R Commençons à nous régaler !#!"
+
+    POD_soulmate_frenzy.104.t: "Une gueule de bois sanglante"
+    POD_soulmate_frenzy.104.desc: "Enfin, vous vous réveillez. Le voile sur vos yeux se lève et vous pouvez voir ce que vous avez fait pendant cette longue nuit. A vos pieds, une marée de sang. Vous êtes entouré de cadavres, de parties de corps tourmentés et d'autres choses non identifiables. Vous pouvez reconnaître nombre de vos gardes, de vos serviteurs, de vos courtisans, et certains visages vous sont moins anonymes. Tous sont désormais figés avec une expression de terreur. Votre maison est comme un cimetière ouvert et vous en êtes le fossoyeur."
+    POD_soulmate_frenzy.104.option.a: "Vos crimes sont innombrables"
+    POD_soulmate_frenzy.104.option.a.tt: "#R Tuer des courtisans, c'est amusant, on devrait recommencer !#!"
+
+    POD_soulmate_frenzy.204.t: "Une cicatrice de douleur et de fureur"
+    POD_soulmate_frenzy.204.desc: "Les délires n’ont pas apaisé votre douleur. Le deuil ne se fait pas avec rage et carnage. Vous vous sentez vide, assailli par une impression d'irréalité. La Bête a laissé sa marque dans votre esprit, d'une manière que vous ne comprenez pas encore. Vous ne serez plus jamais le même. Mais vous survivrez, nuit après nuit. Tel est le sort des immortels."
+    POD_soulmate_frenzy.204.option.a: "Désormais, tout a un goût de poussière"
+    POD_soulmate_frenzy.204.option.a.tt: "Vous avez succombé à la frénésie, mais vous ressentez toujours le vide intérieur..."

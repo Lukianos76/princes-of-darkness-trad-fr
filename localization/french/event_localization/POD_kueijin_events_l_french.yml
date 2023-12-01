@@ -1,633 +1,644 @@
 ﻿l_french:
-  
- podkueijin.1.t: "Un digne successeur ?" #NT!
- podkueijin.1.desc: "Vos serviteurs sont revenus avec les Hungry Dead prometteurs qu'ils ont pu trouver. Certains d’entre eux sont plus talentueux que d’autres, mais ils auront également besoin de plus de poids pour s’attacher à votre service. Ce sera quand même un pari, vous n'avez pas le temps de les examiner personnellement avant de faire votre choix, car l'attention soudaine que vous leur porterez attirera l'attention des rivaux." #NT!
- podkueijin.1.a: "Je n'ai pas besoin de quelqu'un de trop compétent. De peur qu'ils ne deviennent une menace..." #NT!
- podkueijin.1.a.tt: "Un nouvel héritier apparaîtra, considéré comme votre propre enfant." #NT!
- podkueijin.1.b: "Celui-ci semble au moins tolérable." #NT!
- podkueijin.1.c: "Nous suivrons sa carrière avec beaucoup d'intérêt." #NT!
- podkueijin.1.d: "Seul le meilleur prospect fera l’affaire." #NT!
-  
-  # Initial event 
-  
- podkueijin.100.t: "Dharma" #NT!
- podkueijin.100.desc: "Les Wan-Kuei ont été renvoyés pour accomplir leur objectif karmique, et il est impératif qu'ils découvrent quel est cet objectif. Chaque Wan-Kuei apprend à suivre un Dharma, une voie de non-vie par laquelle la Wan-Kuei cherche à découvrir son but dans le Grand Cycle. En suivant un Dharma, une Wan-Kuei apprend à canaliser le Chi, à comprendre sa nature de mort-vivant et à se réadapter à la roue karmique." #NT!
- podkueijin.100.a: "J'ai déjà atteint un niveau de Bodhisattva du Dharma." #NT!
- podkueijin.100.b: "J'aspire à être un Bodhisattva." #NT!
- podkueijin.100.c: "J'ai déjà atteint un niveau d'Ancêtre du Dharma." #NT!
- podkueijin.100.d: "J'ai déjà atteint un niveau de Dharma en mandarin." #NT!
- podkueijin.100.e: "J'ai déjà atteint un niveau Jina du Dharma." #NT!
-  
- podkueijin.110.t: "Yin Yang" #NT!
- podkueijin.110.desc: "Les Wan-Kuei à aspect Yin sont des réservoirs d'énergie négative orientée vers la mort. Ils ont tendance à être calmes, rationnels et cruels.\nLes Wan-Kuei à aspect Yang, en revanche, consomment avidement de l'énergie vitale. Ce sont des créatures passionnées, à l'écoute des mortels et des émotions.\nCertains Wan-Kuei sont des créatures d'équilibre, leur corps maintenant les énergies de vie et de mort en équilibre." #NT!
- podkueijin.110.a: "Je préfère Yin." #NT!
- podkueijin.110.b: "Je préfère être équilibré." #NT!
- podkueijin.110.c: "Je préfère Yang." #NT!
-  
- podkueijin.120.t: "Chi" #NT!
- podkueijin.120.desc: "Cette Roue des Âges tourne grâce aux interactions du Yin et du Yang, représentés par le divin Dragon d'Ébène et la Reine Écarlate. Les énergies de création imprègnent le monde, circulant vers et depuis les mondes Yin et Yang. Appelée Chi, cette énergie circule à travers et parmi les Dix Mille Choses.\n\nComme Kindred, Wan-Kuei souffre de faim. Lorsqu'un Wan-Kuei a cinq points de Chi ou moins (de toute sorte) dans son corps, il a faim.\n\nLes vertus du Chi d'un Wan-Kuei indiquent la quantité d'un type donné de Chi que le Wan-Kuei peut canaliser en toute sécurité. son corps. La Wan-Kuei est facilement capable d'ingérer plus de Chi temporaire que ne l'indiquent ses vertus du Chi (un déséquilibre permanent permet d'ingérer plus de Chi de ce type sans effets néfastes). Cependant, un Wan-Kuei qui abuse de cette pratique court le risque d'un déséquilibre, d'une dangereuse « surdose » de Chi. Wan-Kuei, sans aucun type particulier de Chi dans son corps, se retrouve également dans un état automatique de déséquilibre temporaire." #NT!
- podkueijin.120.a: "Voici mon Chi." #NT!
-  
-  # Maintance event 
-  
- podkueijin.200.t: "Pause mentale : déséquilibre" #NT!
- podkueijin.200.desc: "Les Kuei-jin doivent réguler soigneusement leur consommation de Chi, de peur de souffrir d'un déséquilibre du Chi. Un déséquilibre du Yin Chi conduit souvent le vampire à devenir de plus en plus cadavérique et inhumain au fil du temps ; à l'inverse, un déséquilibre du Yang peut conduire à l'apparition de diverses maladies vampiriques mortelles et extrêmement contagieuses.\n\nVous pouvez toujours utiliser Shift the Balance pour changer votre état de yinyang." #NT!
- podkueijin.200.a: "Punition pour une concentration excessive sur soi." #NT!
- podkueijin.200.a.tt: "Votre proximité avec Yin vous a rendu plus laid et une cible potentielle pour les chasseurs de sorcières." #NT!
- podkueijin.200.b: "Je concentrerai le Yang Chi dans mon corps pour devenir un peu plus équilibré." #NT!
- podkueijin.200.c: "Punition pour toute une vie de désir." #NT!
- podkueijin.200.c.tt: "Votre proximité avec Yang a fait de vous la source d'une épidémie de maladies vampiriques." #NT!
- podkueijin.200.d: "Je concentrerai le Yin Chi dans mon corps pour devenir un peu plus équilibré." #NT!
-  
- podkueijin.201.t: "Ch'ing Shih" #NT!
- podkueijin.201.desc: "Les Ch'ing Shih sont de véritables monstruosités et ne peuvent en aucun cas passer pour des humains ordinaires. La chair du Wan-Kuei devient d'un gris maladif, tandis que les os deviennent d'un noir de jais. Rides cutanées et compresses autour des os. Les crocs s'allongent et dégoulinent de venin, et des pointes noires dépassent du dos, des articulations et de la cage thoracique. Le corps entier brille de manière phosphorescente et étincelle d’énergie Yin." #NT!
- podkueijin.201.a: "Je suis un monstre parmi les monstres." #NT!
-  
-  # Chi mechanic event 
-  
- podkueijin.210.t: "Perdu le contrôle" #NT!
- podkueijin.210.desc: "Vous n'avez plus de Chi, peut-être parce que vous êtes un Yang Wan-Kuei et ressentez davantage la faim, ou peut-être avez-vous dépensé tout votre Chi et ne pouvez pas utiliser l'autre aspect Chi parce que vous ne maîtrisez pas le flux. Vous avez donc perdu le contrôle et vous êtes déchaîné dans la foule pour acquérir du Chi..." #NT!
- podkueijin.210.a: "Quelle honte." #NT!
-  
- podkueijin.211.t: "Manque de Chi" #NT!
- podkueijin.211.desc: "Un Wan Kuei sans Chi dans son corps commence à s'effondrer et à pourrir. Chaque fois que vous devez dépenser du Chi (pour activer un [discipline|E] ou simplement animer votre cadavre), vous perdez de la Santé, jusqu'à ce que votre double âme fuie le corps et que votre existence en tant que Rising Dead se termine." #NT!
- podkueijin.211.a: "J'ai besoin de Chi !" #NT!
-  
- podkueijin.220.t: "Réglage Chi Mécanique" #NT!
- podkueijin.220.desc: "Vous pouvez sélectionner le pool d'aspect Chi dans lequel vous souhaitez puiser en premier lorsque vous utilisez le Chi, et surdoser ou non lorsque vous dévorez du Chi." #NT!
- podkueijin.220.a: "Première dépense : #bold Yin Chi#! / Yang Chi / Aléatoire" #NT!
- podkueijin.220.b: "Première dépense : Yin Chi / #bold Yang Chi#! / Aléatoire" #NT!
- podkueijin.220.c: "First spend: Yin Chi / Yang Chi / #bold Random#!" #NT!
- podkueijin.220.d: "En dévorant du Chi : #bold Pas de surdosage#! / Surdosage" #NT!
- podkueijin.220.e: "En dévorant du Chi : Pas de surdosage / #bold Surdosage#!" #NT!
- podkueijin.220.f: "Confirmer" #NT!
-  
-  # Dharma event 
-  
- podkueijin.230.t: "Dharma avancé" #NT!
- podkueijin.230.desc: "Au fur et à mesure que vous avez atteint un dharma élevé, chaque avancée améliorera désormais votre vertu Chi, vous devez donc maintenant choisir quel aspect de la vertu Chi vous souhaitez développer." #NT!
- podkueijin.230.a: "Tout à Yin." #NT!
- podkueijin.230.b: "Tout à Yang." #NT!
- podkueijin.230.c: "Aux deux." #NT!
-  
- podkueijin.231.t: "Cent nuages" #NT!
- podkueijin.231.desc: "Alors que beaucoup prétendent qu'il n'y a plus d'Arhats dans le monde éveillé, il existe une tradition secrète qui contredit cette affirmation, une tradition qui dit que oui, il y a encore quelques-uns de ces êtres illuminés pieux qui traînent dans les parages. Alors qu’ils sont censés aller au Ciel (et beaucoup le font effectivement), les quelques-uns mentionnés restent par choix dans l’Empire du Milieu. C'est particulièrement vrai des Diables Tigres, dont les Arhats attendent l'arrivée du [sixth_age|E]..." #NT!
- podkueijin.231.a: "Je resterai aussi." #NT!
- podkueijin.231.b: "Je veux y aller." #NT!
-  
-  # Misc event 
-  
- podkueijin.250.t: "Le cinquième âge" #NT!
- podkueijin.250.desc: "La roue des âges a atteint l'ère suivante, à mesure que les âges avancent, l'alimentation devient plus difficile, le chi devient plus rare et l'illumination prend plus de temps.\n\n$godbody_valid$" #NT!
- podkueijin.250.a: "L'ère des ténèbres." #NT!
- godbody_valid: "[GetPlayer.Custom( 'godbody_valid' )]" #NT!
- godbody_valid_dharma10: "Puisque vous disposez du [GetTrait('dharma10').GetName( GetPlayer )], vous ne perdrez pas l'accès au [godbodies_lifestyle|E]." #NT!
- godbody_valid_dharma9: "Étant donné que vous disposez du [GetTrait('dharma9').GetName( GetPlayer )], vous ne perdrez pas l'accès au [godbodies_lifestyle|E] avant le [sixth_age|E]." #NT!
- godbody_valid_dharma8: "Parce que vous disposez de [GetTrait('dharma8').GetName( GetPlayer )], vous ne perdrez pas l'accès à [godbodies_lifestyle|E] avant 1650.1.1." #NT!
- godbody_valid_dharma7: "Étant donné que vous disposez de [GetTrait('dharma7').GetName( GetPlayer )], vous ne perdrez pas l'accès à [godbodies_lifestyle|E] avant 1600.1.1." #NT!
- godbody_valid_dharma6: "Parce que vous disposez de [GetTrait('dharma6').GetName( GetPlayer )], vous ne perdrez pas l'accès à [godbodies_lifestyle|E] avant 1550.1.1." #NT!
- godbody_valid_dharma5: "Parce que vous disposez de [GetTrait('dharma5').GetName( GetPlayer )], vous ne perdrez pas l'accès à [godbodies_lifestyle|E] avant 1450.1.1." #NT!
- godbody_valid_dharma4: "Parce que vous disposez de [GetTrait('dharma4').GetName( GetPlayer )], vous ne perdrez pas l'accès à [godbodies_lifestyle|E] avant 1350.1.1." #NT!
- godbody_invalid: "Le [godbodies_lifestyle|E] vous est désormais invisible, vous conservez vos avantages actuels, mais vous ne pouvez plus y progresser." #NT!
-  
-  # Adoption event 
-  
- podkueijin.300.t: "Un digne successeur ?" #NT!
- podkueijin.300.desc: "Vous appelez vos serviteurs pour rechercher des informations sur les chih-mei autour de votre domaine, et vous avez préparé le matériel nécessaire au rituel qui les fait devenir hin. Vous pouvez spécifier plus d'exigences pour vous impliquer davantage dans le processus, mais plus vous êtes précis, plus cela coûtera cher.\nTout d'abord, voulez-vous que quelqu'un soit revenu récemment de Yomi et ait respiré une seconde fois, ou un [GetTrait('shih').GetName( GetPlayer )] qui perdu toute l'humanité et réveillé leur P'o ?" #NT!
- podkueijin.300.a: "Un paysan récemment mort suffit." #NT!
- podkueijin.300.b: "Un chasseur de démons qualifié." #NT!
- podkueijin.300.exit: "Oubliez ça, abandonnez la recherche." #NT!
- podkueijin.300.nocost: "L'ajout de cette exigence de recherche n'entraînera pas de coût supplémentaire." #NT!
- podkueijin.300.lowcost: "L'ajout de cette exigence de recherche générera un petit coût de prestige." #NT!
- podkueijin.300.middlecost: "L'ajout de cette exigence de recherche générera un certain coût de prestige." #NT!
- podkueijin.300.highcost: "L'ajout de cette exigence de recherche coûtera un certain prestige." #NT!
- podkueijin.300.hugecost: "L'ajout de cette exigence de recherche coûtera beaucoup de prestige." #NT!
- podkueijin.300.superhugecost: "L’ajout de cette exigence de recherche coûtera énormément de prestige." #NT!
- podkueijin.300.back: "Retour à l'option préalable." #NT!
-  
- podkueijin.310.t: "Un digne successeur ?" #NT!
- podkueijin.310.desc: "Quel âge et sexe souhaitez-vous pour votre successeur ? Les plus jeunes sont plus difficiles à trouver et donc plus coûteux." #NT!
- podkueijin.310.a: "Un jeune homme." #NT!
- podkueijin.310.b: "Un homme d'âge moyen." #NT!
- podkueijin.310.c: "Un vieil homme." #NT!
- podkueijin.310.d: "Une jeune femme." #NT!
- podkueijin.310.e: "Une femme d'âge moyen." #NT!
- podkueijin.310.f: "Une vieille femme." #NT!
-  
- podkueijin.320.t: "Un digne successeur ?" #NT!
- podkueijin.320.desc: "Avec du temps et des efforts, votre serviteur finira par trouver une cible répondant aux exigences nécessaires, mais cela augmentera le coût final de toute cette entreprise." #NT!
- podkueijin.320.a: "Trouvez-moi quelqu'un qui avait cette caractéristique corporelle avant son deuxième souffle." #NT!
- podkueijin.320.a.tt: "Un choix de caractéristiques corporelles vous sera présenté" #NT!
- podkueijin.320.b: "Un corps moyen suffit." #NT!
-  
- podkueijin.321.t: "Un digne successeur ?" #NT!
- podkueijin.321.desc: "Et la beauté ?" #NT!
- podkueijin.321.a: "Un entre millions." #NT!
- podkueijin.321.b: "Un entre mille." #NT!
- podkueijin.321.c: "Un entre cent." #NT!
- podkueijin.321.d: "Juste quelqu'un de moyen." #NT!
-  
- podkueijin.322.t: "Un digne successeur ?" #NT!
- podkueijin.322.desc: "Et l'intellect ?" #NT!
- podkueijin.322.a: "Un entre millions." #NT!
- podkueijin.322.b: "Un entre mille." #NT!
- podkueijin.322.c: "Un entre cent." #NT!
- podkueijin.322.d: "Juste quelqu'un de moyen." #NT!
-  
- podkueijin.323.t: "Un digne successeur ?" #NT!
- podkueijin.323.desc: "Et le physique ?" #NT!
- podkueijin.323.a: "Un entre millions." #NT!
- podkueijin.323.b: "Un entre mille." #NT!
- podkueijin.323.c: "Un entre cent." #NT!
- podkueijin.323.d: "Juste quelqu'un de moyen." #NT!
-  
- podkueijin.324.t: "Un digne successeur ?" #NT!
- podkueijin.324.desc: "Des prérequis supplémentaires ?" #NT!
- podkueijin.324.a: "Albinos." #NT!
- podkueijin.324.b: "Géant." #NT!
- podkueijin.324.c: "Nain." #NT!
- podkueijin.324.d: "Rien de plus." #NT!
-  
- podkueijin.325.t: "Un digne successeur ?" #NT!
- podkueijin.325.desc: "C'est votre dernière chance de changer de cible avant d'envoyer l'équipe de recherche." #NT!
- podkueijin.325.a: "C'est tout. Lancez-vous dans la recherche !" #NT!
- podkueijin.325.b: "Revenez en arrière et choisissez à nouveau." #NT!
-  
- podkueijin.350.t: "Un digne successeur" #NT!
- podkueijin.350.desc: "Votre serviteur vous apporte celui qui correspond le mieux à tous vos critères, il est maintenant temps de faire en sorte que ce Hin découvre le dharma et devienne votre successeur." #NT!
- podkueijin.350.a: "Procédez au rituel de restauration de l’équilibre dharmique." #NT!
-  
- podkueijin.400.t: "Éducation au Dharma I" #NT!
- podkueijin.400.desc: "Jusqu’à présent, votre disciple a été plutôt terne. Vous pouvez probablement faire mieux si vous continuez la formation... ou peut-être que celle-ci est au-delà de tout espoir d'amélioration ?" #NT!
- podkueijin.400.a: "Vous avez besoin de plus de formation." #NT!
- podkueijin.400.b: "Eh bien, mieux que rien" #NT!
- podkueijin.400.nolearn: "Votre disciple n'a pas avancé dans son dharma." #NT!
- podkueijin.400.learn: "Votre disciple a avancé dans son dharma." #NT!
- podkueijin_education: "Vous formerez ce disciple pendant encore un an. Il pourrait s'améliorer, ou pire, grâce à cela." #NT!
-  
- podkueijin.401.t: "Éducation au Dharma II" #NT!
- podkueijin.401.desc: "Votre disciple a été très moyen jusqu’à présent. Cela peut suffire si vous ne recherchez pas un apprenti doué, mais peut-être pourriez-vous faire mieux avec plus de formation ?" #NT!
- podkueijin.401.a: "Vous avez besoin de plus de formation." #NT!
- podkueijin.401.b: "Pas le meilleur, pas le pire." #NT!
-  
- podkueijin.402.t: "Éducation au Dharma III" #NT!
- podkueijin.402.desc: "Votre disciple s’avère plutôt bon, avec une solide compréhension des bases. Cela pourrait suffire, ou recherchez-vous le successeur idéal ?" #NT!
- podkueijin.402.a: "Vous avez besoin de plus de formation." #NT!
- podkueijin.402.b: "Considérez que vous êtes prêt." #NT!
-  
- podkueijin.403.t: "Éducation au Dharma IV" #NT!
- podkueijin.403.desc: "Dans les temps anciens, il fallait dix ans pour éduquer Hin, mais lorsque le [fifth_age|E] est arrivé, seulement deux ans sont devenus la norme. Votre disciple est l’heureux élu qui a terminé et même dépassé vos attentes." #NT!
- podkueijin.403.a: "Vous avez appris tout ce que je peux vous apprendre." #NT!
-  
- podkueijin.500.t: "Forger la personnalité" #NT!
- podkueijin.500.desc: "Ayant récemment repris conscience, votre disciple a manqué de nombreuses expériences de première respiration. En tant que sifu, vous devez apprendre à votre disciple comment véritablement regarder le monde, et vous avez récemment trouvé une opportunité de le faire." #NT!
- podkueijin.500.skip: "La prochaine fois peut-être" #NT!
- podkueijin.501.a: "Soyez audacieux, même en cas de problème." #NT!
- podkueijin.501.b: "Soyez prudent si des problèmes surviennent." #NT!
- podkueijin.502.a: "Vous avez le temps." #NT!
- podkueijin.502.b: "Montrez votre colère." #NT!
- podkueijin.503.a: "Fidèle à votre conjoint." #NT!
- podkueijin.503.b: "L'amour est pour tous." #NT!
- podkueijin.504.a: "Tu vas bien." #NT!
- podkueijin.504.b: "Allez-y pour plus." #NT!
- podkueijin.505.a: "Vous avez une cause." #NT!
- podkueijin.505.b: "Le temps est de notre côté." #NT!
- podkueijin.506.a: "Il y a toujours une autre façon." #NT!
- podkueijin.506.b: "Restez tel que vous êtes." #NT!
- podkueijin.507.a: "La vengeance est éternelle." #NT!
- podkueijin.507.b: "La haine n'est pas la question." #NT!
- podkueijin.508.a: "L’or n’est pas la préoccupation." #NT!
- podkueijin.508.b: "Rien n'est possible sans argent." #NT!
- podkueijin.509.a: "Vous pouvez faire confiance aux gens." #NT!
- podkueijin.509.b: "Vous ne pouvez faire confiance à personne." #NT!
- podkueijin.510.a: "Être honnête." #NT!
- podkueijin.510.b: "Un petit mensonge ne fait pas de mal." #NT!
- podkueijin.511.a: "Vous n’êtes qu’un parmi tant d’autres." #NT!
- podkueijin.511.b: "Vous êtes excellent." #NT!
- podkueijin.512.a: "Le droit avant tout." #NT!
- podkueijin.512.b: "Vous avant tout." #NT!
- podkueijin.513.a: "Lui donner le temps." #NT!
- podkueijin.513.b: "Le temps n'attend pas." #NT!
- podkueijin.514.a: "Les plaisirs sont une distraction." #NT!
- podkueijin.514.b: "Profite de ta vie." #NT!
- podkueijin.515.a: "La confiance est la clé." #NT!
- podkueijin.515.b: "Trahissez le monde avant qu'il ne vous trahisse." #NT!
- podkueijin.516.a: "Fidèle à votre chemin." #NT!
- podkueijin.516.b: "Votre chemin n'est pas si important." #NT!
- podkueijin.517.a: "Sois gentil." #NT!
- podkueijin.517.b: "Pensez d'abord à vous." #NT!
- podkueijin.517.c: "Partagez votre douleur avec le monde." #NT!
-  
-  # Celebration general event 
-  
- podkueijin.1010.desc: "Pourquoi accepteriez-vous mon invitation uniquement à assister à la célébration du [other_host.GetTitledFirstNamePossessive], je ne sais pas, mais sachez que je m'en souviendrai." #NT!
- podkueijin.1010.a: "Malheureux." #NT!
-  
- podkueijin.1011.opening: "[sender.Custom2('AppropriateGreeting', ROOT.Char)]" #NT!
- podkueijin.1011.opening_desc: "Je vous invite par la présente à une célébration dans ma cour au [barony.GetNameNoTier] !" #NT!
- podkueijin.1011.host_likes_me: "J'espère que vous serez présent, car autrement votre présence nous manquerait beaucoup." #NT!
- podkueijin.1011.host_gets_along_with_me: "En tant que [ROOT.Char.GetTitleTierName] notable, je serais honoré de votre présence." #NT!
- podkueijin.1011.host_dislikes_me: "Je m'attends à ce que toutes les personnes importantes soient présentes, ce qui malheureusement vous inclut." #NT!
- podkueijin.1011.a: "Bien sûr, j'y serai." #NT!
- podkueijin.1011.b: "Je participerai. À contrecœur." #NT!
- podkueijin.1011.c: "Je suis triste de dire que je suis occupé." #NT!
- podkueijin.1011.d: "Non, je refuse !" #NT!
-  
- podkueijin.1012.desc: "Je vous invite par la présente à une célébration dans ma cour au [barony.GetNameNoTier] ! Ce sera une grande affaire, digne de votre honorable présence." #NT!
- podkueijin.1012.a: "Avec plaisir." #NT!
- podkueijin.1012.b: "J'ai des affaires plus importantes à régler." #NT!
-  
- podkueijin.1013.desc: "Je vous invite par la présente à une célébration dans ma cour au [barony.GetNameNoTier] ! Ce sera une grande fête, avec un délicieux « dessert » et des divertissements." #NT!
- podkueijin.1013.a: "Avec plaisir." #NT!
- podkueijin.1013.b: "J'ai des affaires plus importantes à régler." #NT!
-  
- podkueijin.1021.t: "Célébration : un rassemblement joyeux" #NT!
- podkueijin.1021.desc: "Les invités sont rassemblés dans la grande salle, des invités honorables venus des confins et des lointains du royaume.\n\nL'ambiance est joyeuse et le moral est bon alors que la célébration commence !" #NT!
- podkueijin.1021.a: "Bienvenue les amis!" #NT!
- podkueijin.1021.a.tt: "La célébration commence" #NT!
-  
- podkueijin.1022.t: "Un accueil chaleureux" #NT!
- podkueijin.1022.likes_host: "Tous les invités sont rassemblés dans la grande salle et notre aimable hôte, [activity.GetOwner.GetTitledFirstName], nous a tous accueillis à la célébration !" #NT!
- podkueijin.1022.dislikes_host: "Tous les invités sont rassemblés dans la grande salle et notre hôte [activity.GetOwner.Custom('InsultAdjective')], [activity.GetOwner.GetTitledFirstName], nous a finalement tous accueillis à la célébration." #NT!
- podkueijin.1022.a.gregarious: "J'ai hâte de parler à tout le monde !" #NT!
- podkueijin.1022.a.shy: "Il y a beaucoup de monde ici..." #NT!
- podkueijin.1022.a: "J'attends ça avec impatience !" #NT!
- podkueijin.1022.b: "Cela vaut mieux que j'y consacre mon temps." #NT!
-  
- podkueijin.1041.t: "Célébration : au départ de mes invités" #NT!
- podkueijin.1041.desc: "Alors que tout le monde s'est dirigé vers leurs maisons respectives, je suis fier de dire que la célébration a été un succès !" #NT!
- podkueijin.1041.spouse: "\n\nJe dois remercier mon [ROOT.Char.Custom2('RelationToMe', SCOPE.sC('spouse'))] [spouse.GetFirstName] pour une grande partie de son succès, et je ne ressens que de la gratitude alors que [spouse.GetSheHe] accueille les derniers invités." #NT!
- podkueijin.1041.no_spouse: "Néanmoins, je suis toujours reconnaissant que l’effort soit terminé pour le moment." #NT!
- podkueijin.1041.a: "Jusqu'à la prochaine fois!" #NT!
-  
- podkueijin.1042.t: "Célébration : retour à la maison" #NT!
- podkueijin.1042.desc: "Quelle fête ! Je me souviendrai longtemps des jours passés dans les salles [host.GetTitledFirstNamePossessive].\n\nIl est maintenant temps d'effacer les traces de gaieté et de « dessert », et de reprendre mes fonctions de dirigeant du monde surnaturel." #NT!
- podkueijin.1042.a: "Adieu, mon [ROOT.Char.Custom2('RelationToMe', SCOPE.sC('host'))] !" #NT!
-  
- podkueijin.1090.t: "Fonctions abandonnées" #NT!
- podkueijin.1090.desc: "Quel désastre !\n\nAprès tous mes préparatifs, mes invités sont arrivés à une fête sans hôte !\nIls sont rentrés chez eux et je leur ai laissé une terrible impression de moi." #NT!
- podkueijin.1090.a: "Je pourrais en venir à le regretter." #NT!
-  
- podkueijin.1091.t: "Une mauvaise célébration" #NT!
- podkueijin.1091.desc: "Je ne peux pas le croire. Malgré mes invitations et mes préparatifs, pas un seul invité ne s'est présenté à ma célébration.\n\nPeu importe ! Je dégusterai tout ce « dessert » tout seul, et l'écho des pas dans ma grande salle est toute la compagnie dont j'ai besoin !" #NT!
- podkueijin.1091.a: "Suis-je vraiment si seul ?" #NT!
- podkueijin.1091.b: "Je me sens un peu soulagé." #NT!
-  
- podkueijin.1092.t: "Célébration : sans surveillance" #NT!
- podkueijin.1092.desc: "Le scandale ! [activity.GetOwner.GetTitledFirstName] n'a pas pu apparaître à la propre célébration du [activity.GetOwner.GetHerHis] !\n\n[activity.GetOwner.GetSheHe] essaie-t-il de nous ridiculiser ?" #NT!
- podkueijin.1092.a: "Cela a été une perte de temps !" #NT!
-  
- podkueijin.1093.t: "Célébration : Fin des festivités" #NT!
- podkueijin.1093.desc: "Avec le décès du [host.Custom2('MyCharacterIntroduction', ROOT.Char)] [host.GetHerHis], la célébration touche à sa fin.\n\nAlors que les invités maîtrisés partent, je prie pour que le [ROOT.Char.GetFaith.HighGodNameAlternate] accueille le [host.GetFirstName] aussi chaleureusement au [ROOT.Char.GetFaith.PositiveAfterLife] que le [host.GetSheHe] nous a accueillis dans les salles [host.GetHerHis]." #NT!
- podkueijin.1093.a: "Fin de la fête." #NT!
-  
- podkueijin.1094.desc: "Puisque je suis maintenant coincé derrière les barreaux, ma grande fête sera annulée. Oh, toutes ces heures que j'ai passées à le préparer... Gaspillées !" #NT!
-  
- podkueijin.1095.desc: "[host.Custom2('MyCharacterIntroduction', ROOT.Char)|U] a été emprisonné et [host.GetHerHis] la grande célébration a pris fin. Quel timing malchanceux !" #NT!
-  
-  # Art Traning event 
- art_train_header: "Formation artistique :" #NT!
-  
- podkueijin.1101.t: "$art_train_header$ Mot étrange" #NT!
- podkueijin.1101.desc: "Vous cherchez parmi votre collection de livres étranges pour trouver l'inspiration, quand l'un d'eux attire votre attention, celui écrit par un écrivain occidental. En une seule ligne, ils disent que les vampires orientaux utilisent « Puissiez-vous vivre à une époque intéressante » comme une insulte... mais qu'est-ce que cela signifie ?" #NT!
- podkueijin.1101.a: "Cela n'a aucun sens." #NT!
- podkueijin.1101.b: "Je traduirai cela par « Puissiez-vous naître dans une meilleure famille »." #NT!
-  
- podkueijin.1102.t: "$art_train_header$ Atteignez un plateau" #NT!
- podkueijin.1102.desc: "Vous vous êtes entraîné dur et avez réussi, mais vous avez le sentiment tenace que vous pouvez faire mieux, alors peut-être devriez-vous vous pousser un peu plus, mais peut-être que vous reculerez plutôt." #NT!
- podkueijin.1102.a: "Je ne me forcerai pas." #NT!
- podkueijin.1102.b: "Je vais me forcer." #NT!
-  
- podkueijin.1199.t: "$art_train_header$ Résultat de la formation" #NT!
- podkueijin.1199.desc_shintai: "Vos combats et entraînements continus avec les autres ont donné des résultats.\n\n" #NT!
- podkueijin.1199.desc_chi_arts: "Votre coordination continue avec l'énergie chi ambiante a donné des résultats.\n\n" #NT!
- podkueijin.1199.desc_soul_arts: "Votre travail continu sur les arts des âmes a donné des résultats.\n\n" #NT!
- podkueijin.1199.desc_demon_arts: "Votre interaction continue avec votre Démon a donné des résultats.\n\n" #NT!
- podkueijin.1199.desc_qiao: "Vos tentatives continues pour vous connecter au monde ont donné des résultats.\n\n" #NT!
- podkueijin.1199.desc_tan: "Vos expériences continues sur de nouveaux matériaux ont donné des résultats.\n\n" #NT!
- podkueijin.1199.desc_wu_tan: "Vos expériences continues sur les éléments ont donné des résultats.\n\n" #NT!
- podkueijin.1199.desc_no_focus: "Votre changement rapide d'orientation peut vous donner un résultat étrange...\n\n" #NT!
- podkueijin.1199.desc_good: "Vous avez beaucoup amélioré votre pouvoir artistique." #NT!
- podkueijin.1199.desc_good_bad: "Vous avez acquis beaucoup d’expérience pour votre art." #NT!
- podkueijin.1199.desc_same: "Vous venez d'apprendre un peu." #NT!
- podkueijin.1199.desc_bad_good: "Vous avez trop forcé, cela a donné à votre Démon une chance de frapper." #NT!
- podkueijin.1199.desc_bad: "Votre Démon est pleinement libéré car votre pratique a mal tourné." #NT!
- podkueijin.1199.desc_fallback: "Puissiez-vous faire mieux la prochaine fois." #NT!
- podkueijin.1199.a: "Très bien." #NT!
- podkueijin.1199.a.ex: "J'utiliserai mes connaissances du dharma pour comprendre encore plus !" #NT!
- podkueijin.1199.b: "C'est assez." #NT!
- podkueijin.1199.b.ex: "J'utiliserai ma connaissance du dharma pour parvenir à une conclusion !" #NT!
- podkueijin.1199.c: "Mieux que rien." #NT!
- podkueijin.1199.c.ex: "Ma connaissance du Dharma m'aidera à en obtenir davantage." #NT!
- podkueijin.1199.d: "Je résisterai." #NT!
- podkueijin.1199.d.ex: "J'utiliserai mon expérience du dharma pour calmer cette situation." #NT!
- podkueijin.1199.e: "Ça vient..." #NT!
- podkueijin.1199.e.ex: "Je consacrerai une grande partie de mes progrès dans le dharma à éviter cela." #NT!
-  
-  # Trek the Wild event 
- trek_header: "Parcourez la nature :" #NT!
-  
- podkueijin.1201.t: "$trek_header$ Un [GetTrait('shih').GetName( GetPlayer )] apprenti" #NT!
- podkueijin.1201.desc: "Vous marchiez en pleine nature, lorsque vous êtes arrêté par un jeune chasseur de monstres. Divertissez-vous ce challenger ?." #NT!
- podkueijin.1201.a: "Je vais te montrer." #NT!
- podkueijin.1201.b: "Je ferais mieux de courir." #NT!
-  
- podkueijin.1202.t: "$trek_header$ Un [GetTrait('shih').GetName( GetPlayer )] Mentor" #NT!
- podkueijin.1202.desc: "Il semble que le mentor de ce disciple était proche, il a sauvé son apprenti de vous et a mis le contrôle sur le besoin de vengeance même après que vous ayez blessé son disciple. Une rare démonstration de retenue de la part du [GetTrait('shih').GetName( GetPlayer )]." #NT!
- podkueijin.1202.a: "Encore un cadavre." #NT!
- podkueijin.1202.b: "Je vais les laisser partir." #NT!
-  
- podkueijin.1211.t: "$trek_header$ Animal exotique" #NT!
- podkueijin.1211.desc_opening: "Vous marchiez au milieu de nulle part pendant un certain temps jusqu'à ce que vous tombiez sur un" #NT!
- podkueijin.1211.desc_white_deer: "cerf blanc" #NT!
- podkueijin.1211.desc_rhinoceros: "rhinocéros" #NT!
- podkueijin.1211.desc_green_peafowl: "paons verts" #NT!
- podkueijin.1211.desc_panda: "pandas" #NT!
- podkueijin.1211.desc_snub_nosed_monkey: "singes au nez retroussé" #NT!
- podkueijin.1211.desc_ending: "près de chez vous, chasser un animal aussi rare vous apportera sûrement du prestige." #NT!
- podkueijin.1211.a: "Je vais les capturer." #NT!
- podkueijin.1211.a.success: "J'ai réussi." #NT!
- podkueijin.1211.a.failure: "J'ai échoué." #NT!
- podkueijin.1211.b: "Je vais les laisser partir." #NT!
-  
- podkueijin.1221.t: "$trek_header$ La Maîtresse la plus sereine des Perles Noires, Mère des Ombres" #NT!
- podkueijin.1221.desc: "Vous avez rencontré le célèbre Arhat des Fleurs d'Os, qui ressemble également à une jeune fille de seize ans. Difficile à trouver et gardée par un formidable cortège de disciples et de leurs serviteurs spirituels invoqués, elle est néanmoins prête à partager sa sagesse avec ceux qui parviennent à la retrouver. Son souhait sincère est de préserver autant de connaissances que possible en préparation du prochain [sixth_age|E]." #NT!
- podkueijin.1221.a: "C'est mon honneur." #NT!
-  
- podkueijin.1299.t: "$trek_header$ De retour de la nature" #NT!
- podkueijin.1299.desc_opening: "Vous avez terminé votre aventure en rentrant chez vous pour vous reposer.\n\n" #NT!
- podkueijin.1299.desc_good: "Votre grande action a été largement connue, ils admirent votre acte." #NT!
- podkueijin.1299.desc_good_bad: "Il y a maintenant des histoires inventées sur vous, même des bonnes." #NT!
- podkueijin.1299.desc_same: "Presque personne ne sait ce que vous avez fait, certains ont même remarqué votre absence." #NT!
- podkueijin.1299.desc_bad_good: "Il y a maintenant des histoires inventées à votre sujet, pour la plupart de mauvaises." #NT!
- podkueijin.1299.desc_bad: "Votre acte honteux est largement connu, cela aura un impact sur votre prestige." #NT!
- podkueijin.1299.desc_fallback: "Pour une raison quelconque, votre action n'a jamais été enregistrée..." #NT!
- podkueijin.1299.a: "Excellent." #NT!
- podkueijin.1299.a.ex: "Trouvez un conteur, tout le monde devrait connaître ma légende !" #NT!
- podkueijin.1299.b: "Bien." #NT!
- podkueijin.1299.b.ex: "Non! Je dois embaucher quelqu'un pour parler pour moi !" #NT!
- podkueijin.1299.c: "Bien." #NT!
- podkueijin.1299.c.ex: "Eh bien, j'apprécie toujours une rumeur utile." #NT!
- podkueijin.1299.d: "Je préférerais qu’ils m’attendent moins." #NT!
- podkueijin.1299.d.ex: "Cela pourrait être mauvais si nous n’avons pas « une autre version » de l’histoire…" #NT!
- podkueijin.1299.e: "Laissez-les parler, je m'en fiche." #NT!
- podkueijin.1299.e.ex: "Je paierai quelqu'un pour nettoyer ça." #NT!
-  
-  # Living between Mortal event 
- mortal_business_header: "Parmi les mortels :" #NT!
-  
- podkueijin.1301.t: "$mortal_business_header$ Présages" #NT!
- podkueijin.1301.desc: "Vous êtes exceptionnellement compétent dans les pratiques formelles et informelles de divination et de lecture de présages. En fonction de votre niveau de compétence, vous pourrez peut-être créer une entreprise florissante dans le monde des mortels." #NT!
- podkueijin.1301.a: "Je peux lire les paumes." #NT!
- podkueijin.1301.b: "Je sais peut-être quelque chose sur Tzu Wei." #NT!
- podkueijin.1301.c: "Je prédis le destin." #NT!
-  
- podkueijin.1302.t: "$mortal_business_header$ Astuce de chair" #NT!
- podkueijin.1302.desc: "C'est toujours une option d'utiliser un certain pouvoir pour tromper certains mortels idiots, et vous pouvez avoir un certain pouvoir shintai de chair pour le faire." #NT!
- podkueijin.1302.a: "Je peux utiliser le pouvoir de mon long cou pour prétendre être un utilisateur de Gong Tau." #NT!
- podkueijin.1302.b: "J'ai un souffle de lotus irrésistible..." #NT!
- podkueijin.1302.c: "Dois-je utiliser le pelesit pour imiter un manipulateur de Ku ou de Chin-Ts'an ?" #NT!
-  
- podkueijin.1311.t: "$mortal_business_header$ Mère des Mille Grues" #NT!
- podkueijin.1311.desc: "Vous avez rencontré l'Arhat des Thrashing Dragons, elle est la fondatrice directe de la secte Laughing Rainbows, et indirecte fondatrice de toutes les autres. Elle reste dans les Royaumes Mortels, changeant de retraite tous les quatre ans. Elle consulte encore régulièrement les adeptes du Dharma sur des questions d'illumination, même si elle préfère parler avec des jina de rang inférieur plutôt qu'avec des mandarins de nos jours." #NT!
- podkueijin.1311.a: "C'est mon honneur." #NT!
-  
- podkueijin.1399.t: "$mortal_business_header$ De retour du monde mortel" #NT!
- podkueijin.1399.desc_opening: "Après avoir passé du temps parmi les mortels, vous revenez enfin dans votre monde, vous séparant d'eux comme vous le devriez.\n\n" #NT!
- podkueijin.1399.desc_good: "Durant le séjour, vous avez facilement gagné une fortune." #NT!
- podkueijin.1399.desc_good_bad: "Vous avez gagné de l'or dans le processus." #NT!
- podkueijin.1399.desc_same: "Vous avez gagné de l'or grâce à votre travail." #NT!
- podkueijin.1399.desc_bad_good: "Vous êtes vengé." #NT!
- podkueijin.1399.desc_bad: "Vous avez perdu de l'or." #NT!
- podkueijin.1399.desc_fallback: "Votre compte affiche des chiffres bizarres..." #NT!
- podkueijin.1399.a: "Je suis riche!" #NT!
- podkueijin.1399.b: "Plus c'est mieux." #NT!
- podkueijin.1399.c: "Mieux que rien." #NT!
- podkueijin.1399.d: "Hum..." #NT!
- podkueijin.1399.e: "Une démonstration honteuse." #NT!
-  
-  # Second Breathday event 
-  
- podkueijin.1501.t: "Second Breathday : meilleur cadeau" #NT!
- podkueijin.1501.desc: "Les invités entrèrent un à un, tandis que le chancelier annonçait les trésors exotiques qu'ils avaient offerts en cadeau, dont le plus spécial était le [friendly_guest.GetFirstNameNoTooltip], quelque chose de vraiment inouï." #NT!
- podkueijin.1501.a: "Très bien!" #NT!
-  
- podkueijin.1502.t: "Second Breathday : le pire cadeau" #NT!
- podkueijin.1502.desc: "Les invités entrèrent un à un tandis que le chancelier annonçait les trésors exotiques qu'ils avaient offerts en cadeau. Mais vous avez fait une erreur en invitant [unfriendly_guest.GetFirstNameNoTooltip], car [unfriendly_guest.GetSheHe] vous a offert une cloche funéraire !" #NT!
- podkueijin.1502.a: "Comment oses-tu!" #NT!
-  
- podkueijin.1510.t: "Deuxième souffle : Peach Boy" #NT!
- podkueijin.1510.desc: "En pleine fête, lorsque vous ouvrez vos Pêches de l'Immortalité, vous découvrez qu'il y a un garçon à l'intérieur !" #NT!
- podkueijin.1510.a: "Ummm... désert supplémentaire !" #NT!
- podkueijin.1510.b: "Sortez ce Momotaro d'ici." #NT!
-  
-  # Dragon Boat festival event 
-  
- podkueijin.1601.t: "Course de bateaux-dragons : départ" #NT!
- podkueijin.1601.desc: "La course de bateaux-dragons a commencé et les concurrents sont divisés en deux équipes, écarlate et noire, et vous pouvez faire un petit pari sur l'équipe qui gagnera." #NT!
- podkueijin.1601.a: "L'équipe écarlate." #NT!
- podkueijin.1601.b: "Équipe noire." #NT!
- podkueijin.1601.c: "Je ne suis pas intéressé." #NT!
-  
- podkueijin.1602.t: "Course de bateaux-dragons : avantage" #NT!
- podkueijin.1602.desc: "Les concurrents rament désespérément contre les vagues déferlantes et le vent fort, se précipitant vers l'avant. Votre équipe préférée a déjà plusieurs centimètres d'avance sur l'autre équipe, ce qui est formidable..." #NT!
- podkueijin.1602.a: "Changez le pari." #NT!
- podkueijin.1602.b: "Maintenez le pari." #NT!
-  
- podkueijin.1603.t: "Course de bateaux-dragons : Inconvénient" #NT!
- podkueijin.1603.desc: "Les concurrents rament désespérément contre les vagues déferlantes et le vent fort, se précipitant vers l'avant. Votre équipe préférée a déjà plusieurs centimètres de retard sur l'autre équipe, c'est mauvais..." #NT!
- podkueijin.1603.a: "Changez le pari." #NT!
- podkueijin.1603.b: "Maintenez le pari." #NT!
-  
- podkueijin.1604.t: "Course de bateaux-dragons : Gagnez" #NT!
- podkueijin.1604.desc: "Comme une flèche tirée de la corde, les bateaux-dragons se poursuivaient les uns après les autres, et votre équipe préférée a gagné ! C'est incroyable!" #NT!
- podkueijin.1604.a: "Je sais que j'ai une bonne perspicacité." #NT!
-  
- podkueijin.1605.t: "Course de bateaux-dragons : perdre" #NT!
- podkueijin.1605.desc: "Comme une flèche tirée du fil, les bateaux-dragons se poursuivaient les uns après les autres et votre équipe préférée a perdu. Vous avez perdu votre pari." #NT!
- podkueijin.1605.a: "Cela arrive parfois." #NT!
-  
-  # Art Scheme 
-  
- kueijin_scheme.100.t: "Manger des esprits" #NT!
- kueijin_scheme.100.desc: "Vous pouvez réellement voir l'âme fantomatique sortir du corps de la victime et entrer dans votre troisième œil. Vous pouvez maintenant décider quoi faire." #NT!
- kueijin_scheme.100.a: "Purger l'âme." #NT!
- kueijin_scheme.100.b: "Torturer l'âme." #NT!
- kueijin_scheme.100.c: "Mangez l'âme!" #NT!
-  
- kueijin_scheme.110.t: "Purge de l'âme" #NT!
- kueijin_scheme.110.desc: "L'âme de la victime se joint à la vôtre et vous pouvez commencer un processus de nettoyage de l'âme." #NT!
- kueijin_scheme.110.a: "J'essaie de les remettre sur leur chemin Dharmique." #NT!
- kueijin_scheme.110.b: "J'essaie de restaurer leur humanité perdue." #NT!
-  
- kueijin_scheme.120.t: "Torture de l'âme" #NT!
- kueijin_scheme.120.desc: "Tout en tourmentant l'âme, vous pouvez implanter tous les ordres souhaités ou même aller jusqu'à changer la Nature de la victime." #NT!
- kueijin_scheme.120.craven: "Je veux changer leur nature en poulet." #NT!
- kueijin_scheme.120.brave: "Je veux changer leur nature en courageuse." #NT!
- kueijin_scheme.120.wrathful: "Je veux changer leur nature en colère." #NT!
- kueijin_scheme.120.calm: "Je veux changer leur nature en calme." #NT!
- kueijin_scheme.120.lustful: "Je veux changer leur nature en lubrique." #NT!
- kueijin_scheme.120.chaste: "Je veux changer leur nature en chaste." #NT!
- kueijin_scheme.120.ambitious: "Je veux changer leur nature en ambitieuse." #NT!
- kueijin_scheme.120.content: "Je veux changer leur nature en contenu." #NT!
- kueijin_scheme.120.lazy: "Je veux changer leur nature en paresseux." #NT!
- kueijin_scheme.120.diligent: "Je veux changer leur nature en diligent." #NT!
- kueijin_scheme.120.stubborn: "Je veux changer leur nature en têtue." #NT!
- kueijin_scheme.120.fickle: "Je veux changer leur nature en inconstante." #NT!
- kueijin_scheme.120.eccentric: "Je veux changer leur nature en excentrique." #NT!
- kueijin_scheme.120.vengeful: "Je veux changer leur nature en vengeance." #NT!
- kueijin_scheme.120.forgiving: "Je veux changer leur nature pour pardonner." #NT!
- kueijin_scheme.120.greedy: "Je veux changer leur nature en gourmand." #NT!
- kueijin_scheme.120.generous: "Je veux changer leur nature en généreuse." #NT!
- kueijin_scheme.120.shy: "Je veux changer leur nature en timide." #NT!
- kueijin_scheme.120.gregarious: "Je veux changer leur nature en grégaire." #NT!
- kueijin_scheme.120.deceitful: "Je veux changer leur nature en trompeuse." #NT!
- kueijin_scheme.120.honest: "Je veux changer leur nature en honnête." #NT!
- kueijin_scheme.120.arrogant: "Je veux changer leur nature en arrogante." #NT!
- kueijin_scheme.120.humble: "Je veux changer leur nature en humble." #NT!
- kueijin_scheme.120.arbitrary: "Je veux changer leur nature en arbitraire." #NT!
- kueijin_scheme.120.just: "Je veux changer leur nature en juste." #NT!
- kueijin_scheme.120.impatient: "Je veux changer leur nature en impatient." #NT!
- kueijin_scheme.120.patient: "Je veux changer leur nature en patiente." #NT!
- kueijin_scheme.120.gluttonous: "Je veux changer leur nature en glouton." #NT!
- kueijin_scheme.120.temperate: "Je veux changer leur nature en tempérée." #NT!
- kueijin_scheme.120.paranoid: "Je veux changer leur nature en paranoïaque." #NT!
- kueijin_scheme.120.trusting: "Je veux changer leur nature en faisant confiance." #NT!
- kueijin_scheme.120.cynical: "Je veux changer leur nature en cynique." #NT!
- kueijin_scheme.120.zealous: "Je veux changer leur nature en zélé." #NT!
- kueijin_scheme.120.callous: "Je veux changer leur nature en insensible." #NT!
- kueijin_scheme.120.sadistic: "Je veux changer leur nature en sadique." #NT!
- kueijin_scheme.120.compassionate: "Je veux changer leur nature en compassion." #NT!
-  
- kueijin_scheme.130.t: "Fusionner l'âme" #NT!
- kueijin_scheme.130.desc: "Vous pouvez manger l'âme, la fusionnant ainsi avec la vôtre. Cet acte coûte automatiquement un niveau de Dharma, à moins que vous ne suiviez le Hurlement du Dharma Diable-Tigre ou que vous soyez au service d'un Roi Yama. Un vampire qui mange l'âme d'un être a accès aux souvenirs et aux capacités de connaissance de cet être. La victime décède immédiatement." #NT!
- kueijin_scheme.130.a: "J'ai accédé à leurs capacités de connaissances." #NT!
- kueijin_scheme.130.b: "J'ai accédé à leurs souvenirs." #NT!
-  
- kueijin_scheme.200.t: "Injecter de l'émotion" #NT!
- kueijin_scheme.200.desc: "Vous transmettez silencieusement de simples pulsions empathiques à la cible. Ainsi, vous pourriez remplir le [recipient.GetName] de peur, de joie, de chagrin ou d'émotions similaires. L'émotion est suffisamment forte pour que [recipient.GetName] soit obligé d'agir en conséquence." #NT!
- kueijin_scheme.200.a: "Une émotion qui augmente une partie de leur personnalité." #NT!
- kueijin_scheme.200.b: "Ce qui diminue une partie de leur personnalité." #NT!
-  
- kueijin_scheme.210.t: "Quelle personnalité ?" #NT!
- kueijin_scheme.210.desc: "Sélectionnez-en un pour augmenter." #NT!
- kueijin_scheme.210.a: "Audace." #NT!
- kueijin_scheme.210.b: "Compassion." #NT!
- kueijin_scheme.210.c: "Énergie." #NT!
- kueijin_scheme.210.d: "Avidité." #NT!
- kueijin_scheme.210.e: "Honneur." #NT!
- kueijin_scheme.210.f: "Rationalité." #NT!
- kueijin_scheme.210.g: "Sociabilité." #NT!
- kueijin_scheme.210.h: "Vengeance." #NT!
- kueijin_scheme.210.i: "Zèle." #NT!
-  
- kueijin_scheme.220.t: "Quelle personnalité ?" #NT!
- kueijin_scheme.220.desc: "Sélectionnez-en un pour diminuer." #NT!
- kueijin_scheme.220.a: "Audace." #NT!
- kueijin_scheme.220.b: "Compassion." #NT!
- kueijin_scheme.220.c: "Énergie." #NT!
- kueijin_scheme.220.d: "Avidité." #NT!
- kueijin_scheme.220.e: "Honneur." #NT!
- kueijin_scheme.220.f: "Rationalité." #NT!
- kueijin_scheme.220.g: "Sociabilité." #NT!
- kueijin_scheme.220.h: "Vengeance." #NT!
- kueijin_scheme.220.i: "Zèle." #NT!
-  
- kueijin_scheme.300.t: "Projet Énergie Psychique Négative" #NT!
- kueijin_scheme.300.desc: "Vous canalisez toute votre culpabilité, votre frustration, votre colère et votre faim dans votre âme Hun, puis projetez cette énergie psychique négative comme un couteau dans l'âme [recipient.GetNamePossessive]." #NT!
- kueijin_scheme.300.a: "Souffre ma douleur !" #NT!
-  
- kueijin_scheme.310.t: "Énergie psychique négative projetée" #NT!
- kueijin_scheme.310.desc: "Toute la culpabilité, la frustration, la colère et la faim du [owner.GetName] ont été projetées comme un couteau dans votre âme !" #NT!
- kueijin_scheme.310.a: "Ahhh !" #NT!
-  
-  # Demonic feature 
-  
- POD_demon_shintai.100.title: "Définir une fonctionnalité démoniaque" #NT!
- POD_demon_shintai.100.desc: "Sélectionnez votre dernière fonctionnalité acquise." #NT!
- POD_demon_shintai.100.option.a: "Antennes." #NT!
- POD_demon_shintai.100.option.b: "Les griffes." #NT!
- POD_demon_shintai.100.option.c: "Armure de démon." #NT!
- POD_demon_shintai.100.option.d: "Arme démoniaque." #NT!
- POD_demon_shintai.100.option.e: "Parties du corps agrandies." #NT!
- POD_demon_shintai.100.option.f: "Yeux d'horreur." #NT!
- POD_demon_shintai.100.option.g: "Armes supplémentaires." #NT!
- POD_demon_shintai.100.option.h: "Form of the Yamamatsu." #NT!
- POD_demon_shintai.100.option.i: "La faute." #NT!
- POD_demon_shintai.100.option.j: "Corps de la ruche." #NT!
- POD_demon_shintai.100.option.k: "Cornes." #NT!
- POD_demon_shintai.100.option.l: "Horreur." #NT!
- POD_demon_shintai.100.option.m: "Taille énorme." #NT!
- POD_demon_shintai.100.option.n: "Mandibules." #NT!
- POD_demon_shintai.100.option.o: "Plusieurs têtes." #NT!
- POD_demon_shintai.100.option.p: "Crocs empoisonnés." #NT!
- POD_demon_shintai.100.option.q: "Des pointes." #NT!
- POD_demon_shintai.100.option.r: "Vrilles jaillissantes." #NT!
- POD_demon_shintai.100.option.s: "Des connards." #NT!
- POD_demon_shintai.100.option.t: "Pustules suppurantes." #NT!
- POD_demon_shintai.100.option.u: "Tentacules." #NT!
- POD_demon_shintai.100.option.v: "Queue." #NT!
- POD_demon_shintai.100.option.w: "L'hôte." #NT!
- POD_demon_shintai.100.option.x: "Troisième oeil." #NT!
- POD_demon_shintai.100.option.y: "Ailes." #NT!
- POD_demon_shintai.100.option.z: "Épines des ailes." #NT!
-  
- POD_darkling_mirror.001.t: "Miroir sombre" #NT!
- POD_darkling_mirror.001.desc: "Avec votre maîtrise de la Culture, vous pouvez essayer de séparer votre P'o de votre Hun et de votre corps pour l'utiliser comme un mauvais serviteur." #NT!
- POD_darkling_mirror.001.option.a: "Sortez mon démon ! Servez-moi." #NT!
- POD_darkling_mirror.001.option.a.tt: "Tu vas essayer de te diviser P'o" #NT!
- POD_darkling_mirror.001.option.a.desc: "Une lutte avec votre démon intérieur" #NT!
- POD_darkling_mirror.001.option.a.tt.success: "Votre P'o est divisé avec succès" #NT!
- POD_darkling_mirror.001.option.a.tt.failure: "Vous ne parvenez pas à diviser votre P'o" #NT!
- POD_darkling_mirror.001.option.b: "Ce n'est pas le bon moment" #NT!
- POD_darkling_mirror.001.option.b.tt: "Tu abandonneras ton idée de diviser ton P'o" #NT!
-  
- POD_darkling_mirror.002.t: "Miroir sombre II" #NT!
- POD_darkling_mirror.002.desc: "Grâce à votre maîtrise de la Culture, vous avez réussi à séparer votre P'o de votre Hun et de votre corps, il est maintenant temps de donner des ordres." #NT!
- POD_darkling_mirror.002.option.a: "Mon propre monstre" #NT!
- POD_darkling_mirror.002.option.a.tt: "Votre P'o est divisé avec succès." #NT!
-  
- POD_darkling_mirror.003.t: "Miroir sombre II" #NT!
- POD_darkling_mirror.003.desc: "Même votre maîtrise de la Culture ne suffit pas à diviser votre P'o... pour l'instant." #NT!
- POD_darkling_mirror.003.option.a: "je ne suis pas encore prêt" #NT!
- POD_darkling_mirror.003.option.a.tt: "Tu n'as pas réussi à partager ton P'o" #NT!
-  
- POD_darkling_mirror.death_management.t: "Le retour de P'o" #NT!
- POD_darkling_mirror.death_management.desc: "Votre split P'o a subi un incident et doit vous revenir." #NT!
- POD_darkling_mirror.death_management.option.a: "Ma méchanceté est revenue" #NT!
- POD_darkling_mirror.death_management.option.a.tt: "Votre P'o divisé et vous êtes à nouveau un" #NT!
-  
- PODquincunx.100.t: "Nouvelles de Chine" #NT!
- PODquincunx.100.desc: "Un messager vient vous apporter des nouvelles de l'Est.\nDans un parchemin envoyé à l'empereur Da de la Cour du Tigre Blanc, le reste de la véritable Cour des Tortues Noires, Wan Kuei, renonce à la fois à la lumière du Ciel et aux ténèbres de Yomi.\nCette lettre le confirme. la légitimité de l'ancienne faction, ce qui amène les tribunaux du Tigre Blanc et de l'Empereur Jaune à appeler à une réunion de tous les ancêtres influents dans trois ans pour évaluer la situation." #NT!
- PODquincunx.100.option.a: "Dois-je aider ?" #NT!
-  
- PODquincunx.110.t: "Actualités de Chine : Conseil des Dragons" #NT!
- PODquincunx.110.desc: "La congrégation des Ancêtres s'est réunie au monastère de Shaolin près de Changan et a déclaré que les étrangers, en particulier les Kin-Jin, étaient responsables de la chute des Tribunaux d'Août.\nEn réponse, ils établiront un nouvel ordre : le Quinconce. Il sera composé de plusieurs tribunaux dans les cinq directions cardinales : la Cour du Sang au nord, la Cour de Chair à l'est, la Cour des Flammes au sud, la Cour des Os à l'ouest et la Cour de Jade au centre." #NT!
- PODquincunx.110.option.a: "Une nouvelle commande s'élève en Chine." #NT!
-  
- PODquincunx.201.t: "Destin de Scarlet Phoenix Court" #NT!
- PODquincunx.201.desc: "La tortue noire chinoise et l'empereur jaune Wan Kuei font pression contre votre cour, et Wan Kuei, à l'esprit politique, lance dans tous les tribunaux des allégations d'akuma avec peu ou pas de preuves. Il est temps pour vous de décider du sort du Scarlet Phoenix. Se séparer des tribunaux nordistes et proclamer une nouvelle Cour ? Ou obéir à leur mandat de maintenir l’unité avec la Chine ?" #NT!
- PODquincunx.201.option.a: "Déclarez l’indépendance." #NT!
- PODquincunx.201.option.b: "Purgez tout ce qui est contaminé par Yomi." #NT!
-  
- PODquincunx.200.t: "La fin de la cour du Phénix écarlate" #NT!
- PODquincunx.200.desc: "La Cour du Phénix Écarlate a toujours été isolée des tribunaux chinois et il n'est pas surprenant qu'ils aient décidé de ne pas participer à la réunion des Quinconce.\nAlors qu'une nouvelle ère se lève sur eux, ils ont décidé de se renommer en Cours d'Or. et conserver leur indépendance." #NT!
- PODquincunx.200.option.a: "La roue des âges tourne." #NT!
-  
- PODquincunx.210.t: "Actualités de Chine : La fin de la Cour du Dragon Azur" #NT!
- PODquincunx.210.desc: "La civilité entre les gaki japonais et les Hungry Dead du continent a pris fin. Les survivants coréens ont finalement voyagé vers le sud et ont contribué à la formation du Quinconce. La Cour du Dragon Azur coréenne/japonaise n'existe plus, divisée entre les Cours Vertes de Corée, alliées au Quinconce, et les Clans du Soleil à Nihon/Japon." #NT!
- PODquincunx.210.option.a: "La roue des âges tourne." #NT!
-  
- PODquincunx.220.t: "Actualités de Chine : La fin de la cour de l'Empereur Jaune" #NT!
- PODquincunx.220.desc: "L'attaque contre l'empereur Wang Hongben a fragmenté la Société du Jade Doré, séparant les cours de l'Empereur Jaune. La situation s'est aggravée par la destruction de la conquête mongole et l'accusation d'avoir aidé les infernalistes Akuma.\nAvec le Traité du Quinconce, la Cour de l'Empereur Jaune est désormais réformée en Cour de Jade." #NT!
- PODquincunx.220.option.a: "La roue des âges tourne." #NT!
-  
- PODquincunx.230.t: "Actualités de Chine : La fin de la Cour du Tigre Blanc" #NT!
- PODquincunx.230.desc: "La Cour du Tigre Blanc s'est divisée en factions concurrentes lorsque l'Impératrice Fan a abandonné son poste, les tentatives de l'Empereur Da pour ramener la paix ont échoué.\nAprès la vague de destruction apportée par les Mongols et Akuma de la cour de la Tortue Noire ; les survivants rejoignirent le Quincunx nouvellement formé.\nLa Cour du Tigre Blanc n'existe plus." #NT!
- PODquincunx.230.option.a: "La roue des âges tourne." #NT!
-  
- PODquincunx.240.t: "Actualités de Chine : La fin de la cour des tortues noires" #NT!
- PODquincunx.240.desc: "Alors que les armées Ming attaquent Karakorum, des dizaines de Wu de toutes les cours d'août descendent sur la ville pour se venger, et la bataille nocturne dure des semaines. En fin de compte, la Cour des Tortues Noires infestée d'Akuma n'existe plus : ceux qui sont encore intacts ont rejoint le Quinconce, les autres ont été passés au flambeau ou au fil de l'épée." #NT!
- PODquincunx.240.option.a: "La roue des âges tourne." #NT!
-  
-  
+    podkueijin.1.t: "Un digne successeur ?"
+    podkueijin.1.desc: "Vos serviteurs sont revenus avec les Hungry Dead prometteurs qu'ils ont pu trouver. Certains d’entre eux sont plus talentueux que d’autres, mais ils auront également besoin de plus de poids pour s’attacher à votre service. Ce sera quand même un pari, vous n'avez pas le temps de les examiner personnellement avant de faire votre choix, car l'attention soudaine que vous leur porterez attirera l'attention des rivaux."
+    podkueijin.1.a: "Je n'ai pas besoin de quelqu'un de trop compétent. De peur qu'ils ne deviennent une menace..."
+    podkueijin.1.a.tt: "Un nouvel héritier apparaîtra, considéré comme votre propre enfant."
+    podkueijin.1.b: "Celui-ci semble au moins tolérable."
+    podkueijin.1.c: "Nous suivrons sa carrière avec beaucoup d'intérêt."
+    podkueijin.1.d:
+        "Seul le meilleur prospect fera l’affaire."
+
+        # Initial event
+
+    podkueijin.100.t: "Dharma"
+    podkueijin.100.desc: "Les Wan-Kuei ont été renvoyés pour accomplir leur objectif karmique, et il est impératif qu'ils découvrent quel est cet objectif. Chaque Wan-Kuei apprend à suivre un Dharma, une voie de non-vie par laquelle la Wan-Kuei cherche à découvrir son but dans le Grand Cycle. En suivant un Dharma, une Wan-Kuei apprend à canaliser le Chi, à comprendre sa nature de mort-vivant et à se réadapter à la roue karmique."
+    podkueijin.100.a: "J'ai déjà atteint un niveau de Bodhisattva du Dharma."
+    podkueijin.100.b: "J'aspire à être un Bodhisattva."
+    podkueijin.100.c: "J'ai déjà atteint un niveau d'Ancêtre du Dharma."
+    podkueijin.100.d: "J'ai déjà atteint un niveau de Dharma en mandarin."
+    podkueijin.100.e: "J'ai déjà atteint un niveau Jina du Dharma."
+
+    podkueijin.110.t: "Yin Yang"
+    podkueijin.110.desc: "Les Wan-Kuei à aspect Yin sont des réservoirs d'énergie négative orientée vers la mort. Ils ont tendance à être calmes, rationnels et cruels.\nLes Wan-Kuei à aspect Yang, en revanche, consomment avidement de l'énergie vitale. Ce sont des créatures passionnées, à l'écoute des mortels et des émotions.\nCertains Wan-Kuei sont des créatures d'équilibre, leur corps maintenant les énergies de vie et de mort en équilibre."
+    podkueijin.110.a: "Je préfère Yin."
+    podkueijin.110.b: "Je préfère être équilibré."
+    podkueijin.110.c: "Je préfère Yang."
+
+    podkueijin.120.t: "Chi"
+    podkueijin.120.desc: "Cette Roue des Âges tourne grâce aux interactions du Yin et du Yang, représentés par le divin Dragon d'Ébène et la Reine Écarlate. Les énergies de création imprègnent le monde, circulant vers et depuis les mondes Yin et Yang. Appelée Chi, cette énergie circule à travers et parmi les Dix Mille Choses.\n\nComme Kindred, Wan-Kuei souffre de faim. Lorsqu'un Wan-Kuei a cinq points de Chi ou moins (de toute sorte) dans son corps, il a faim.\n\nLes vertus du Chi d'un Wan-Kuei indiquent la quantité d'un type donné de Chi que le Wan-Kuei peut canaliser en toute sécurité. son corps. La Wan-Kuei est facilement capable d'ingérer plus de Chi temporaire que ne l'indiquent ses vertus du Chi (un déséquilibre permanent permet d'ingérer plus de Chi de ce type sans effets néfastes). Cependant, un Wan-Kuei qui abuse de cette pratique court le risque d'un déséquilibre, d'une dangereuse « surdose » de Chi. Wan-Kuei, sans aucun type particulier de Chi dans son corps, se retrouve également dans un état automatique de déséquilibre temporaire."
+    podkueijin.120.a:
+        "Voici mon Chi."
+
+        # Maintance event
+
+    podkueijin.200.t: "Pause mentale : déséquilibre"
+    podkueijin.200.desc: "Les Kuei-jin doivent réguler soigneusement leur consommation de Chi, de peur de souffrir d'un déséquilibre du Chi. Un déséquilibre du Yin Chi conduit souvent le vampire à devenir de plus en plus cadavérique et inhumain au fil du temps ; à l'inverse, un déséquilibre du Yang peut conduire à l'apparition de diverses maladies vampiriques mortelles et extrêmement contagieuses.\n\nVous pouvez toujours utiliser Shift the Balance pour changer votre état de yinyang."
+    podkueijin.200.a: "Punition pour une concentration excessive sur soi."
+    podkueijin.200.a.tt: "Votre proximité avec Yin vous a rendu plus laid et une cible potentielle pour les chasseurs de sorcières."
+    podkueijin.200.b: "Je concentrerai le Yang Chi dans mon corps pour devenir un peu plus équilibré."
+    podkueijin.200.c: "Punition pour toute une vie de désir."
+    podkueijin.200.c.tt: "Votre proximité avec Yang a fait de vous la source d'une épidémie de maladies vampiriques."
+    podkueijin.200.d: "Je concentrerai le Yin Chi dans mon corps pour devenir un peu plus équilibré."
+
+    podkueijin.201.t: "Ch'ing Shih"
+    podkueijin.201.desc: "Les Ch'ing Shih sont de véritables monstruosités et ne peuvent en aucun cas passer pour des humains ordinaires. La chair du Wan-Kuei devient d'un gris maladif, tandis que les os deviennent d'un noir de jais. Rides cutanées et compresses autour des os. Les crocs s'allongent et dégoulinent de venin, et des pointes noires dépassent du dos, des articulations et de la cage thoracique. Le corps entier brille de manière phosphorescente et étincelle d’énergie Yin."
+    podkueijin.201.a:
+        "Je suis un monstre parmi les monstres."
+
+        # Chi mechanic event
+
+    podkueijin.210.t: "Perdu le contrôle"
+    podkueijin.210.desc: "Vous n'avez plus de Chi, peut-être parce que vous êtes un Yang Wan-Kuei et ressentez davantage la faim, ou peut-être avez-vous dépensé tout votre Chi et ne pouvez pas utiliser l'autre aspect Chi parce que vous ne maîtrisez pas le flux. Vous avez donc perdu le contrôle et vous êtes déchaîné dans la foule pour acquérir du Chi..."
+    podkueijin.210.a: "Quelle honte."
+
+    podkueijin.211.t: "Manque de Chi"
+    podkueijin.211.desc: "Un Wan Kuei sans Chi dans son corps commence à s'effondrer et à pourrir. Chaque fois que vous devez dépenser du Chi (pour activer un [discipline|E] ou simplement animer votre cadavre), vous perdez de la Santé, jusqu'à ce que votre double âme fuie le corps et que votre existence en tant que Rising Dead se termine."
+    podkueijin.211.a: "J'ai besoin de Chi !"
+
+    podkueijin.220.t: "Réglage Chi Mécanique"
+    podkueijin.220.desc: "Vous pouvez sélectionner le pool d'aspect Chi dans lequel vous souhaitez puiser en premier lorsque vous utilisez le Chi, et surdoser ou non lorsque vous dévorez du Chi."
+    podkueijin.220.a: "Première dépense : #bold Yin Chi#! / Yang Chi / Aléatoire"
+    podkueijin.220.b: "Première dépense : Yin Chi / #bold Yang Chi#! / Aléatoire"
+    podkueijin.220.c: "First spend: Yin Chi / Yang Chi / #bold Random#!"
+    podkueijin.220.d: "En dévorant du Chi : #bold Pas de surdosage#! / Surdosage"
+    podkueijin.220.e: "En dévorant du Chi : Pas de surdosage / #bold Surdosage#!"
+    podkueijin.220.f:
+        "Confirmer"
+
+        # Dharma event
+
+    podkueijin.230.t: "Dharma avancé"
+    podkueijin.230.desc: "Au fur et à mesure que vous avez atteint un dharma élevé, chaque avancée améliorera désormais votre vertu Chi, vous devez donc maintenant choisir quel aspect de la vertu Chi vous souhaitez développer."
+    podkueijin.230.a: "Tout à Yin."
+    podkueijin.230.b: "Tout à Yang."
+    podkueijin.230.c: "Aux deux."
+
+    podkueijin.231.t: "Cent nuages"
+    podkueijin.231.desc: "Alors que beaucoup prétendent qu'il n'y a plus d'Arhats dans le monde éveillé, il existe une tradition secrète qui contredit cette affirmation, une tradition qui dit que oui, il y a encore quelques-uns de ces êtres illuminés pieux qui traînent dans les parages. Alors qu’ils sont censés aller au Ciel (et beaucoup le font effectivement), les quelques-uns mentionnés restent par choix dans l’Empire du Milieu. C'est particulièrement vrai des Diables Tigres, dont les Arhats attendent l'arrivée du [sixth_age|E]..."
+    podkueijin.231.a: "Je resterai aussi."
+    podkueijin.231.b:
+        "Je veux y aller."
+
+        # Misc event
+
+    podkueijin.250.t: "Le cinquième âge"
+    podkueijin.250.desc: "La roue des âges a atteint l'ère suivante, à mesure que les âges avancent, l'alimentation devient plus difficile, le chi devient plus rare et l'illumination prend plus de temps.\n\n$godbody_valid$"
+    podkueijin.250.a: "L'ère des ténèbres."
+    godbody_valid: "[GetPlayer.Custom( 'godbody_valid' )]"
+    godbody_valid_dharma10: "Puisque vous disposez du [GetTrait('dharma10').GetName( GetPlayer )], vous ne perdrez pas l'accès au [godbodies_lifestyle|E]."
+    godbody_valid_dharma9: "Étant donné que vous disposez du [GetTrait('dharma9').GetName( GetPlayer )], vous ne perdrez pas l'accès au [godbodies_lifestyle|E] avant le [sixth_age|E]."
+    godbody_valid_dharma8: "Parce que vous disposez de [GetTrait('dharma8').GetName( GetPlayer )], vous ne perdrez pas l'accès à [godbodies_lifestyle|E] avant 1650.1.1."
+    godbody_valid_dharma7: "Étant donné que vous disposez de [GetTrait('dharma7').GetName( GetPlayer )], vous ne perdrez pas l'accès à [godbodies_lifestyle|E] avant 1600.1.1."
+    godbody_valid_dharma6: "Parce que vous disposez de [GetTrait('dharma6').GetName( GetPlayer )], vous ne perdrez pas l'accès à [godbodies_lifestyle|E] avant 1550.1.1."
+    godbody_valid_dharma5: "Parce que vous disposez de [GetTrait('dharma5').GetName( GetPlayer )], vous ne perdrez pas l'accès à [godbodies_lifestyle|E] avant 1450.1.1."
+    godbody_valid_dharma4: "Parce que vous disposez de [GetTrait('dharma4').GetName( GetPlayer )], vous ne perdrez pas l'accès à [godbodies_lifestyle|E] avant 1350.1.1."
+    godbody_invalid:
+        "Le [godbodies_lifestyle|E] vous est désormais invisible, vous conservez vos avantages actuels, mais vous ne pouvez plus y progresser."
+
+        # Adoption event
+
+    podkueijin.300.t: "Un digne successeur ?"
+    podkueijin.300.desc: "Vous appelez vos serviteurs pour rechercher des informations sur les chih-mei autour de votre domaine, et vous avez préparé le matériel nécessaire au rituel qui les fait devenir hin. Vous pouvez spécifier plus d'exigences pour vous impliquer davantage dans le processus, mais plus vous êtes précis, plus cela coûtera cher.\nTout d'abord, voulez-vous que quelqu'un soit revenu récemment de Yomi et ait respiré une seconde fois, ou un [GetTrait('shih').GetName( GetPlayer )] qui perdu toute l'humanité et réveillé leur P'o ?"
+    podkueijin.300.a: "Un paysan récemment mort suffit."
+    podkueijin.300.b: "Un chasseur de démons qualifié."
+    podkueijin.300.exit: "Oubliez ça, abandonnez la recherche."
+    podkueijin.300.nocost: "L'ajout de cette exigence de recherche n'entraînera pas de coût supplémentaire."
+    podkueijin.300.lowcost: "L'ajout de cette exigence de recherche générera un petit coût de prestige."
+    podkueijin.300.middlecost: "L'ajout de cette exigence de recherche générera un certain coût de prestige."
+    podkueijin.300.highcost: "L'ajout de cette exigence de recherche coûtera un certain prestige."
+    podkueijin.300.hugecost: "L'ajout de cette exigence de recherche coûtera beaucoup de prestige."
+    podkueijin.300.superhugecost: "L’ajout de cette exigence de recherche coûtera énormément de prestige."
+    podkueijin.300.back: "Retour à l'option préalable."
+
+    podkueijin.310.t: "Un digne successeur ?"
+    podkueijin.310.desc: "Quel âge et sexe souhaitez-vous pour votre successeur ? Les plus jeunes sont plus difficiles à trouver et donc plus coûteux."
+    podkueijin.310.a: "Un jeune homme."
+    podkueijin.310.b: "Un homme d'âge moyen."
+    podkueijin.310.c: "Un vieil homme."
+    podkueijin.310.d: "Une jeune femme."
+    podkueijin.310.e: "Une femme d'âge moyen."
+    podkueijin.310.f: "Une vieille femme."
+
+    podkueijin.320.t: "Un digne successeur ?"
+    podkueijin.320.desc: "Avec du temps et des efforts, votre serviteur finira par trouver une cible répondant aux exigences nécessaires, mais cela augmentera le coût final de toute cette entreprise."
+    podkueijin.320.a: "Trouvez-moi quelqu'un qui avait cette caractéristique corporelle avant son deuxième souffle."
+    podkueijin.320.a.tt: "Un choix de caractéristiques corporelles vous sera présenté"
+    podkueijin.320.b: "Un corps moyen suffit."
+
+    podkueijin.321.t: "Un digne successeur ?"
+    podkueijin.321.desc: "Et la beauté ?"
+    podkueijin.321.a: "Un entre millions."
+    podkueijin.321.b: "Un entre mille."
+    podkueijin.321.c: "Un entre cent."
+    podkueijin.321.d: "Juste quelqu'un de moyen."
+
+    podkueijin.322.t: "Un digne successeur ?"
+    podkueijin.322.desc: "Et l'intellect ?"
+    podkueijin.322.a: "Un entre millions."
+    podkueijin.322.b: "Un entre mille."
+    podkueijin.322.c: "Un entre cent."
+    podkueijin.322.d: "Juste quelqu'un de moyen."
+
+    podkueijin.323.t: "Un digne successeur ?"
+    podkueijin.323.desc: "Et le physique ?"
+    podkueijin.323.a: "Un entre millions."
+    podkueijin.323.b: "Un entre mille."
+    podkueijin.323.c: "Un entre cent."
+    podkueijin.323.d: "Juste quelqu'un de moyen."
+
+    podkueijin.324.t: "Un digne successeur ?"
+    podkueijin.324.desc: "Des prérequis supplémentaires ?"
+    podkueijin.324.a: "Albinos."
+    podkueijin.324.b: "Géant."
+    podkueijin.324.c: "Nain."
+    podkueijin.324.d: "Rien de plus."
+
+    podkueijin.325.t: "Un digne successeur ?"
+    podkueijin.325.desc: "C'est votre dernière chance de changer de cible avant d'envoyer l'équipe de recherche."
+    podkueijin.325.a: "C'est tout. Lancez-vous dans la recherche !"
+    podkueijin.325.b: "Revenez en arrière et choisissez à nouveau."
+
+    podkueijin.350.t: "Un digne successeur"
+    podkueijin.350.desc: "Votre serviteur vous apporte celui qui correspond le mieux à tous vos critères, il est maintenant temps de faire en sorte que ce Hin découvre le dharma et devienne votre successeur."
+    podkueijin.350.a: "Procédez au rituel de restauration de l’équilibre dharmique."
+
+    podkueijin.400.t: "Éducation au Dharma I"
+    podkueijin.400.desc: "Jusqu’à présent, votre disciple a été plutôt terne. Vous pouvez probablement faire mieux si vous continuez la formation... ou peut-être que celle-ci est au-delà de tout espoir d'amélioration ?"
+    podkueijin.400.a: "Vous avez besoin de plus de formation."
+    podkueijin.400.b: "Eh bien, mieux que rien"
+    podkueijin.400.nolearn: "Votre disciple n'a pas avancé dans son dharma."
+    podkueijin.400.learn: "Votre disciple a avancé dans son dharma."
+    podkueijin_education: "Vous formerez ce disciple pendant encore un an. Il pourrait s'améliorer, ou pire, grâce à cela."
+
+    podkueijin.401.t: "Éducation au Dharma II"
+    podkueijin.401.desc: "Votre disciple a été très moyen jusqu’à présent. Cela peut suffire si vous ne recherchez pas un apprenti doué, mais peut-être pourriez-vous faire mieux avec plus de formation ?"
+    podkueijin.401.a: "Vous avez besoin de plus de formation."
+    podkueijin.401.b: "Pas le meilleur, pas le pire."
+
+    podkueijin.402.t: "Éducation au Dharma III"
+    podkueijin.402.desc: "Votre disciple s’avère plutôt bon, avec une solide compréhension des bases. Cela pourrait suffire, ou recherchez-vous le successeur idéal ?"
+    podkueijin.402.a: "Vous avez besoin de plus de formation."
+    podkueijin.402.b: "Considérez que vous êtes prêt."
+
+    podkueijin.403.t: "Éducation au Dharma IV"
+    podkueijin.403.desc: "Dans les temps anciens, il fallait dix ans pour éduquer Hin, mais lorsque le [fifth_age|E] est arrivé, seulement deux ans sont devenus la norme. Votre disciple est l’heureux élu qui a terminé et même dépassé vos attentes."
+    podkueijin.403.a: "Vous avez appris tout ce que je peux vous apprendre."
+
+    podkueijin.500.t: "Forger la personnalité"
+    podkueijin.500.desc: "Ayant récemment repris conscience, votre disciple a manqué de nombreuses expériences de première respiration. En tant que sifu, vous devez apprendre à votre disciple comment véritablement regarder le monde, et vous avez récemment trouvé une opportunité de le faire."
+    podkueijin.500.skip: "La prochaine fois peut-être"
+    podkueijin.501.a: "Soyez audacieux, même en cas de problème."
+    podkueijin.501.b: "Soyez prudent si des problèmes surviennent."
+    podkueijin.502.a: "Vous avez le temps."
+    podkueijin.502.b: "Montrez votre colère."
+    podkueijin.503.a: "Fidèle à votre conjoint."
+    podkueijin.503.b: "L'amour est pour tous."
+    podkueijin.504.a: "Tu vas bien."
+    podkueijin.504.b: "Allez-y pour plus."
+    podkueijin.505.a: "Vous avez une cause."
+    podkueijin.505.b: "Le temps est de notre côté."
+    podkueijin.506.a: "Il y a toujours une autre façon."
+    podkueijin.506.b: "Restez tel que vous êtes."
+    podkueijin.507.a: "La vengeance est éternelle."
+    podkueijin.507.b: "La haine n'est pas la question."
+    podkueijin.508.a: "L’or n’est pas la préoccupation."
+    podkueijin.508.b: "Rien n'est possible sans argent."
+    podkueijin.509.a: "Vous pouvez faire confiance aux gens."
+    podkueijin.509.b: "Vous ne pouvez faire confiance à personne."
+    podkueijin.510.a: "Être honnête."
+    podkueijin.510.b: "Un petit mensonge ne fait pas de mal."
+    podkueijin.511.a: "Vous n’êtes qu’un parmi tant d’autres."
+    podkueijin.511.b: "Vous êtes excellent."
+    podkueijin.512.a: "Le droit avant tout."
+    podkueijin.512.b: "Vous avant tout."
+    podkueijin.513.a: "Lui donner le temps."
+    podkueijin.513.b: "Le temps n'attend pas."
+    podkueijin.514.a: "Les plaisirs sont une distraction."
+    podkueijin.514.b: "Profite de ta vie."
+    podkueijin.515.a: "La confiance est la clé."
+    podkueijin.515.b: "Trahissez le monde avant qu'il ne vous trahisse."
+    podkueijin.516.a: "Fidèle à votre chemin."
+    podkueijin.516.b: "Votre chemin n'est pas si important."
+    podkueijin.517.a: "Sois gentil."
+    podkueijin.517.b: "Pensez d'abord à vous."
+    podkueijin.517.c:
+        "Partagez votre douleur avec le monde."
+
+        # Celebration general event
+
+    podkueijin.1010.desc: "Pourquoi accepteriez-vous mon invitation uniquement à assister à la célébration du [other_host.GetTitledFirstNamePossessive], je ne sais pas, mais sachez que je m'en souviendrai."
+    podkueijin.1010.a: "Malheureux."
+
+    podkueijin.1011.opening: "[sender.Custom2('AppropriateGreeting', ROOT.Char)]"
+    podkueijin.1011.opening_desc: "Je vous invite par la présente à une célébration dans ma cour au [barony.GetNameNoTier] !"
+    podkueijin.1011.host_likes_me: "J'espère que vous serez présent, car autrement votre présence nous manquerait beaucoup."
+    podkueijin.1011.host_gets_along_with_me: "En tant que [ROOT.Char.GetTitleTierName] notable, je serais honoré de votre présence."
+    podkueijin.1011.host_dislikes_me: "Je m'attends à ce que toutes les personnes importantes soient présentes, ce qui malheureusement vous inclut."
+    podkueijin.1011.a: "Bien sûr, j'y serai."
+    podkueijin.1011.b: "Je participerai. À contrecœur."
+    podkueijin.1011.c: "Je suis triste de dire que je suis occupé."
+    podkueijin.1011.d: "Non, je refuse !"
+
+    podkueijin.1012.desc: "Je vous invite par la présente à une célébration dans ma cour au [barony.GetNameNoTier] ! Ce sera une grande affaire, digne de votre honorable présence."
+    podkueijin.1012.a: "Avec plaisir."
+    podkueijin.1012.b: "J'ai des affaires plus importantes à régler."
+
+    podkueijin.1013.desc: "Je vous invite par la présente à une célébration dans ma cour au [barony.GetNameNoTier] ! Ce sera une grande fête, avec un délicieux « dessert » et des divertissements."
+    podkueijin.1013.a: "Avec plaisir."
+    podkueijin.1013.b: "J'ai des affaires plus importantes à régler."
+
+    podkueijin.1021.t: "Célébration : un rassemblement joyeux"
+    podkueijin.1021.desc: "Les invités sont rassemblés dans la grande salle, des invités honorables venus des confins et des lointains du royaume.\n\nL'ambiance est joyeuse et le moral est bon alors que la célébration commence !"
+    podkueijin.1021.a: "Bienvenue les amis!"
+    podkueijin.1021.a.tt: "La célébration commence"
+
+    podkueijin.1022.t: "Un accueil chaleureux"
+    podkueijin.1022.likes_host: "Tous les invités sont rassemblés dans la grande salle et notre aimable hôte, [activity.GetOwner.GetTitledFirstName], nous a tous accueillis à la célébration !"
+    podkueijin.1022.dislikes_host: "Tous les invités sont rassemblés dans la grande salle et notre hôte [activity.GetOwner.Custom('InsultAdjective')], [activity.GetOwner.GetTitledFirstName], nous a finalement tous accueillis à la célébration."
+    podkueijin.1022.a.gregarious: "J'ai hâte de parler à tout le monde !"
+    podkueijin.1022.a.shy: "Il y a beaucoup de monde ici..."
+    podkueijin.1022.a: "J'attends ça avec impatience !"
+    podkueijin.1022.b: "Cela vaut mieux que j'y consacre mon temps."
+
+    podkueijin.1041.t: "Célébration : au départ de mes invités"
+    podkueijin.1041.desc: "Alors que tout le monde s'est dirigé vers leurs maisons respectives, je suis fier de dire que la célébration a été un succès !"
+    podkueijin.1041.spouse: "\n\nJe dois remercier mon [ROOT.Char.Custom2('RelationToMe', SCOPE.sC('spouse'))] [spouse.GetFirstName] pour une grande partie de son succès, et je ne ressens que de la gratitude alors que [spouse.GetSheHe] accueille les derniers invités."
+    podkueijin.1041.no_spouse: "Néanmoins, je suis toujours reconnaissant que l’effort soit terminé pour le moment."
+    podkueijin.1041.a: "Jusqu'à la prochaine fois!"
+
+    podkueijin.1042.t: "Célébration : retour à la maison"
+    podkueijin.1042.desc: "Quelle fête ! Je me souviendrai longtemps des jours passés dans les salles [host.GetTitledFirstNamePossessive].\n\nIl est maintenant temps d'effacer les traces de gaieté et de « dessert », et de reprendre mes fonctions de dirigeant du monde surnaturel."
+    podkueijin.1042.a: "Adieu, mon [ROOT.Char.Custom2('RelationToMe', SCOPE.sC('host'))] !"
+
+    podkueijin.1090.t: "Fonctions abandonnées"
+    podkueijin.1090.desc: "Quel désastre !\n\nAprès tous mes préparatifs, mes invités sont arrivés à une fête sans hôte !\nIls sont rentrés chez eux et je leur ai laissé une terrible impression de moi."
+    podkueijin.1090.a: "Je pourrais en venir à le regretter."
+
+    podkueijin.1091.t: "Une mauvaise célébration"
+    podkueijin.1091.desc: "Je ne peux pas le croire. Malgré mes invitations et mes préparatifs, pas un seul invité ne s'est présenté à ma célébration.\n\nPeu importe ! Je dégusterai tout ce « dessert » tout seul, et l'écho des pas dans ma grande salle est toute la compagnie dont j'ai besoin !"
+    podkueijin.1091.a: "Suis-je vraiment si seul ?"
+    podkueijin.1091.b: "Je me sens un peu soulagé."
+
+    podkueijin.1092.t: "Célébration : sans surveillance"
+    podkueijin.1092.desc: "Le scandale ! [activity.GetOwner.GetTitledFirstName] n'a pas pu apparaître à la propre célébration du [activity.GetOwner.GetHerHis] !\n\n[activity.GetOwner.GetSheHe] essaie-t-il de nous ridiculiser ?"
+    podkueijin.1092.a: "Cela a été une perte de temps !"
+
+    podkueijin.1093.t: "Célébration : Fin des festivités"
+    podkueijin.1093.desc: "Avec le décès du [host.Custom2('MyCharacterIntroduction', ROOT.Char)] [host.GetHerHis], la célébration touche à sa fin.\n\nAlors que les invités maîtrisés partent, je prie pour que le [ROOT.Char.GetFaith.HighGodNameAlternate] accueille le [host.GetFirstName] aussi chaleureusement au [ROOT.Char.GetFaith.PositiveAfterLife] que le [host.GetSheHe] nous a accueillis dans les salles [host.GetHerHis]."
+    podkueijin.1093.a: "Fin de la fête."
+
+    podkueijin.1094.desc: "Puisque je suis maintenant coincé derrière les barreaux, ma grande fête sera annulée. Oh, toutes ces heures que j'ai passées à le préparer... Gaspillées !"
+
+    podkueijin.1095.desc:
+        "[host.Custom2('MyCharacterIntroduction', ROOT.Char)|U] a été emprisonné et [host.GetHerHis] la grande célébration a pris fin. Quel timing malchanceux !"
+
+        # Art Traning event
+    art_train_header: "Formation artistique :"
+
+    podkueijin.1101.t: "$art_train_header$ Mot étrange"
+    podkueijin.1101.desc: "Vous cherchez parmi votre collection de livres étranges pour trouver l'inspiration, quand l'un d'eux attire votre attention, celui écrit par un écrivain occidental. En une seule ligne, ils disent que les vampires orientaux utilisent « Puissiez-vous vivre à une époque intéressante » comme une insulte... mais qu'est-ce que cela signifie ?"
+    podkueijin.1101.a: "Cela n'a aucun sens."
+    podkueijin.1101.b: "Je traduirai cela par « Puissiez-vous naître dans une meilleure famille »."
+
+    podkueijin.1102.t: "$art_train_header$ Atteignez un plateau"
+    podkueijin.1102.desc: "Vous vous êtes entraîné dur et avez réussi, mais vous avez le sentiment tenace que vous pouvez faire mieux, alors peut-être devriez-vous vous pousser un peu plus, mais peut-être que vous reculerez plutôt."
+    podkueijin.1102.a: "Je ne me forcerai pas."
+    podkueijin.1102.b: "Je vais me forcer."
+
+    podkueijin.1199.t: "$art_train_header$ Résultat de la formation"
+    podkueijin.1199.desc_shintai: "Vos combats et entraînements continus avec les autres ont donné des résultats.\n\n"
+    podkueijin.1199.desc_chi_arts: "Votre coordination continue avec l'énergie chi ambiante a donné des résultats.\n\n"
+    podkueijin.1199.desc_soul_arts: "Votre travail continu sur les arts des âmes a donné des résultats.\n\n"
+    podkueijin.1199.desc_demon_arts: "Votre interaction continue avec votre Démon a donné des résultats.\n\n"
+    podkueijin.1199.desc_qiao: "Vos tentatives continues pour vous connecter au monde ont donné des résultats.\n\n"
+    podkueijin.1199.desc_tan: "Vos expériences continues sur de nouveaux matériaux ont donné des résultats.\n\n"
+    podkueijin.1199.desc_wu_tan: "Vos expériences continues sur les éléments ont donné des résultats.\n\n"
+    podkueijin.1199.desc_no_focus: "Votre changement rapide d'orientation peut vous donner un résultat étrange...\n\n"
+    podkueijin.1199.desc_good: "Vous avez beaucoup amélioré votre pouvoir artistique."
+    podkueijin.1199.desc_good_bad: "Vous avez acquis beaucoup d’expérience pour votre art."
+    podkueijin.1199.desc_same: "Vous venez d'apprendre un peu."
+    podkueijin.1199.desc_bad_good: "Vous avez trop forcé, cela a donné à votre Démon une chance de frapper."
+    podkueijin.1199.desc_bad: "Votre Démon est pleinement libéré car votre pratique a mal tourné."
+    podkueijin.1199.desc_fallback: "Puissiez-vous faire mieux la prochaine fois."
+    podkueijin.1199.a: "Très bien."
+    podkueijin.1199.a.ex: "J'utiliserai mes connaissances du dharma pour comprendre encore plus !"
+    podkueijin.1199.b: "C'est assez."
+    podkueijin.1199.b.ex: "J'utiliserai ma connaissance du dharma pour parvenir à une conclusion !"
+    podkueijin.1199.c: "Mieux que rien."
+    podkueijin.1199.c.ex: "Ma connaissance du Dharma m'aidera à en obtenir davantage."
+    podkueijin.1199.d: "Je résisterai."
+    podkueijin.1199.d.ex: "J'utiliserai mon expérience du dharma pour calmer cette situation."
+    podkueijin.1199.e: "Ça vient..."
+    podkueijin.1199.e.ex:
+        "Je consacrerai une grande partie de mes progrès dans le dharma à éviter cela."
+
+        # Trek the Wild event
+    trek_header: "Parcourez la nature :"
+
+    podkueijin.1201.t: "$trek_header$ Un [GetTrait('shih').GetName( GetPlayer )] apprenti"
+    podkueijin.1201.desc: "Vous marchiez en pleine nature, lorsque vous êtes arrêté par un jeune chasseur de monstres. Divertissez-vous ce challenger ?."
+    podkueijin.1201.a: "Je vais te montrer."
+    podkueijin.1201.b: "Je ferais mieux de courir."
+
+    podkueijin.1202.t: "$trek_header$ Un [GetTrait('shih').GetName( GetPlayer )] Mentor"
+    podkueijin.1202.desc: "Il semble que le mentor de ce disciple était proche, il a sauvé son apprenti de vous et a mis le contrôle sur le besoin de vengeance même après que vous ayez blessé son disciple. Une rare démonstration de retenue de la part du [GetTrait('shih').GetName( GetPlayer )]."
+    podkueijin.1202.a: "Encore un cadavre."
+    podkueijin.1202.b: "Je vais les laisser partir."
+
+    podkueijin.1211.t: "$trek_header$ Animal exotique"
+    podkueijin.1211.desc_opening: "Vous marchiez au milieu de nulle part pendant un certain temps jusqu'à ce que vous tombiez sur un"
+    podkueijin.1211.desc_white_deer: "cerf blanc"
+    podkueijin.1211.desc_rhinoceros: "rhinocéros"
+    podkueijin.1211.desc_green_peafowl: "paons verts"
+    podkueijin.1211.desc_panda: "pandas"
+    podkueijin.1211.desc_snub_nosed_monkey: "singes au nez retroussé"
+    podkueijin.1211.desc_ending: "près de chez vous, chasser un animal aussi rare vous apportera sûrement du prestige."
+    podkueijin.1211.a: "Je vais les capturer."
+    podkueijin.1211.a.success: "J'ai réussi."
+    podkueijin.1211.a.failure: "J'ai échoué."
+    podkueijin.1211.b: "Je vais les laisser partir."
+
+    podkueijin.1221.t: "$trek_header$ La Maîtresse la plus sereine des Perles Noires, Mère des Ombres"
+    podkueijin.1221.desc: "Vous avez rencontré le célèbre Arhat des Fleurs d'Os, qui ressemble également à une jeune fille de seize ans. Difficile à trouver et gardée par un formidable cortège de disciples et de leurs serviteurs spirituels invoqués, elle est néanmoins prête à partager sa sagesse avec ceux qui parviennent à la retrouver. Son souhait sincère est de préserver autant de connaissances que possible en préparation du prochain [sixth_age|E]."
+    podkueijin.1221.a: "C'est mon honneur."
+
+    podkueijin.1299.t: "$trek_header$ De retour de la nature"
+    podkueijin.1299.desc_opening: "Vous avez terminé votre aventure en rentrant chez vous pour vous reposer.\n\n"
+    podkueijin.1299.desc_good: "Votre grande action a été largement connue, ils admirent votre acte."
+    podkueijin.1299.desc_good_bad: "Il y a maintenant des histoires inventées sur vous, même des bonnes."
+    podkueijin.1299.desc_same: "Presque personne ne sait ce que vous avez fait, certains ont même remarqué votre absence."
+    podkueijin.1299.desc_bad_good: "Il y a maintenant des histoires inventées à votre sujet, pour la plupart de mauvaises."
+    podkueijin.1299.desc_bad: "Votre acte honteux est largement connu, cela aura un impact sur votre prestige."
+    podkueijin.1299.desc_fallback: "Pour une raison quelconque, votre action n'a jamais été enregistrée..."
+    podkueijin.1299.a: "Excellent."
+    podkueijin.1299.a.ex: "Trouvez un conteur, tout le monde devrait connaître ma légende !"
+    podkueijin.1299.b: "Bien."
+    podkueijin.1299.b.ex: "Non! Je dois embaucher quelqu'un pour parler pour moi !"
+    podkueijin.1299.c: "Bien."
+    podkueijin.1299.c.ex: "Eh bien, j'apprécie toujours une rumeur utile."
+    podkueijin.1299.d: "Je préférerais qu’ils m’attendent moins."
+    podkueijin.1299.d.ex: "Cela pourrait être mauvais si nous n’avons pas « une autre version » de l’histoire…"
+    podkueijin.1299.e: "Laissez-les parler, je m'en fiche."
+    podkueijin.1299.e.ex:
+        "Je paierai quelqu'un pour nettoyer ça."
+
+        # Living between Mortal event
+    mortal_business_header: "Parmi les mortels :"
+
+    podkueijin.1301.t: "$mortal_business_header$ Présages"
+    podkueijin.1301.desc: "Vous êtes exceptionnellement compétent dans les pratiques formelles et informelles de divination et de lecture de présages. En fonction de votre niveau de compétence, vous pourrez peut-être créer une entreprise florissante dans le monde des mortels."
+    podkueijin.1301.a: "Je peux lire les paumes."
+    podkueijin.1301.b: "Je sais peut-être quelque chose sur Tzu Wei."
+    podkueijin.1301.c: "Je prédis le destin."
+
+    podkueijin.1302.t: "$mortal_business_header$ Astuce de chair"
+    podkueijin.1302.desc: "C'est toujours une option d'utiliser un certain pouvoir pour tromper certains mortels idiots, et vous pouvez avoir un certain pouvoir shintai de chair pour le faire."
+    podkueijin.1302.a: "Je peux utiliser le pouvoir de mon long cou pour prétendre être un utilisateur de Gong Tau."
+    podkueijin.1302.b: "J'ai un souffle de lotus irrésistible..."
+    podkueijin.1302.c: "Dois-je utiliser le pelesit pour imiter un manipulateur de Ku ou de Chin-Ts'an ?"
+
+    podkueijin.1311.t: "$mortal_business_header$ Mère des Mille Grues"
+    podkueijin.1311.desc: "Vous avez rencontré l'Arhat des Thrashing Dragons, elle est la fondatrice directe de la secte Laughing Rainbows, et indirecte fondatrice de toutes les autres. Elle reste dans les Royaumes Mortels, changeant de retraite tous les quatre ans. Elle consulte encore régulièrement les adeptes du Dharma sur des questions d'illumination, même si elle préfère parler avec des jina de rang inférieur plutôt qu'avec des mandarins de nos jours."
+    podkueijin.1311.a: "C'est mon honneur."
+
+    podkueijin.1399.t: "$mortal_business_header$ De retour du monde mortel"
+    podkueijin.1399.desc_opening: "Après avoir passé du temps parmi les mortels, vous revenez enfin dans votre monde, vous séparant d'eux comme vous le devriez.\n\n"
+    podkueijin.1399.desc_good: "Durant le séjour, vous avez facilement gagné une fortune."
+    podkueijin.1399.desc_good_bad: "Vous avez gagné de l'or dans le processus."
+    podkueijin.1399.desc_same: "Vous avez gagné de l'or grâce à votre travail."
+    podkueijin.1399.desc_bad_good: "Vous êtes vengé."
+    podkueijin.1399.desc_bad: "Vous avez perdu de l'or."
+    podkueijin.1399.desc_fallback: "Votre compte affiche des chiffres bizarres..."
+    podkueijin.1399.a: "Je suis riche!"
+    podkueijin.1399.b: "Plus c'est mieux."
+    podkueijin.1399.c: "Mieux que rien."
+    podkueijin.1399.d: "Hum..."
+    podkueijin.1399.e:
+        "Une démonstration honteuse."
+
+        # Second Breathday event
+
+    podkueijin.1501.t: "Second Breathday : meilleur cadeau"
+    podkueijin.1501.desc: "Les invités entrèrent un à un, tandis que le chancelier annonçait les trésors exotiques qu'ils avaient offerts en cadeau, dont le plus spécial était le [friendly_guest.GetFirstNameNoTooltip], quelque chose de vraiment inouï."
+    podkueijin.1501.a: "Très bien!"
+
+    podkueijin.1502.t: "Second Breathday : le pire cadeau"
+    podkueijin.1502.desc: "Les invités entrèrent un à un tandis que le chancelier annonçait les trésors exotiques qu'ils avaient offerts en cadeau. Mais vous avez fait une erreur en invitant [unfriendly_guest.GetFirstNameNoTooltip], car [unfriendly_guest.GetSheHe] vous a offert une cloche funéraire !"
+    podkueijin.1502.a: "Comment oses-tu!"
+
+    podkueijin.1510.t: "Deuxième souffle : Peach Boy"
+    podkueijin.1510.desc: "En pleine fête, lorsque vous ouvrez vos Pêches de l'Immortalité, vous découvrez qu'il y a un garçon à l'intérieur !"
+    podkueijin.1510.a: "Ummm... désert supplémentaire !"
+    podkueijin.1510.b:
+        "Sortez ce Momotaro d'ici."
+
+        # Dragon Boat festival event
+
+    podkueijin.1601.t: "Course de bateaux-dragons : départ"
+    podkueijin.1601.desc: "La course de bateaux-dragons a commencé et les concurrents sont divisés en deux équipes, écarlate et noire, et vous pouvez faire un petit pari sur l'équipe qui gagnera."
+    podkueijin.1601.a: "L'équipe écarlate."
+    podkueijin.1601.b: "Équipe noire."
+    podkueijin.1601.c: "Je ne suis pas intéressé."
+
+    podkueijin.1602.t: "Course de bateaux-dragons : avantage"
+    podkueijin.1602.desc: "Les concurrents rament désespérément contre les vagues déferlantes et le vent fort, se précipitant vers l'avant. Votre équipe préférée a déjà plusieurs centimètres d'avance sur l'autre équipe, ce qui est formidable..."
+    podkueijin.1602.a: "Changez le pari."
+    podkueijin.1602.b: "Maintenez le pari."
+
+    podkueijin.1603.t: "Course de bateaux-dragons : Inconvénient"
+    podkueijin.1603.desc: "Les concurrents rament désespérément contre les vagues déferlantes et le vent fort, se précipitant vers l'avant. Votre équipe préférée a déjà plusieurs centimètres de retard sur l'autre équipe, c'est mauvais..."
+    podkueijin.1603.a: "Changez le pari."
+    podkueijin.1603.b: "Maintenez le pari."
+
+    podkueijin.1604.t: "Course de bateaux-dragons : Gagnez"
+    podkueijin.1604.desc: "Comme une flèche tirée de la corde, les bateaux-dragons se poursuivaient les uns après les autres, et votre équipe préférée a gagné ! C'est incroyable!"
+    podkueijin.1604.a: "Je sais que j'ai une bonne perspicacité."
+
+    podkueijin.1605.t: "Course de bateaux-dragons : perdre"
+    podkueijin.1605.desc: "Comme une flèche tirée du fil, les bateaux-dragons se poursuivaient les uns après les autres et votre équipe préférée a perdu. Vous avez perdu votre pari."
+    podkueijin.1605.a:
+        "Cela arrive parfois."
+
+        # Art Scheme
+
+    kueijin_scheme.100.t: "Manger des esprits"
+    kueijin_scheme.100.desc: "Vous pouvez réellement voir l'âme fantomatique sortir du corps de la victime et entrer dans votre troisième œil. Vous pouvez maintenant décider quoi faire."
+    kueijin_scheme.100.a: "Purger l'âme."
+    kueijin_scheme.100.b: "Torturer l'âme."
+    kueijin_scheme.100.c: "Mangez l'âme!"
+
+    kueijin_scheme.110.t: "Purge de l'âme"
+    kueijin_scheme.110.desc: "L'âme de la victime se joint à la vôtre et vous pouvez commencer un processus de nettoyage de l'âme."
+    kueijin_scheme.110.a: "J'essaie de les remettre sur leur chemin Dharmique."
+    kueijin_scheme.110.b: "J'essaie de restaurer leur humanité perdue."
+
+    kueijin_scheme.120.t: "Torture de l'âme"
+    kueijin_scheme.120.desc: "Tout en tourmentant l'âme, vous pouvez implanter tous les ordres souhaités ou même aller jusqu'à changer la Nature de la victime."
+    kueijin_scheme.120.craven: "Je veux changer leur nature en poulet."
+    kueijin_scheme.120.brave: "Je veux changer leur nature en courageuse."
+    kueijin_scheme.120.wrathful: "Je veux changer leur nature en colère."
+    kueijin_scheme.120.calm: "Je veux changer leur nature en calme."
+    kueijin_scheme.120.lustful: "Je veux changer leur nature en lubrique."
+    kueijin_scheme.120.chaste: "Je veux changer leur nature en chaste."
+    kueijin_scheme.120.ambitious: "Je veux changer leur nature en ambitieuse."
+    kueijin_scheme.120.content: "Je veux changer leur nature en contenu."
+    kueijin_scheme.120.lazy: "Je veux changer leur nature en paresseux."
+    kueijin_scheme.120.diligent: "Je veux changer leur nature en diligent."
+    kueijin_scheme.120.stubborn: "Je veux changer leur nature en têtue."
+    kueijin_scheme.120.fickle: "Je veux changer leur nature en inconstante."
+    kueijin_scheme.120.eccentric: "Je veux changer leur nature en excentrique."
+    kueijin_scheme.120.vengeful: "Je veux changer leur nature en vengeance."
+    kueijin_scheme.120.forgiving: "Je veux changer leur nature pour pardonner."
+    kueijin_scheme.120.greedy: "Je veux changer leur nature en gourmand."
+    kueijin_scheme.120.generous: "Je veux changer leur nature en généreuse."
+    kueijin_scheme.120.shy: "Je veux changer leur nature en timide."
+    kueijin_scheme.120.gregarious: "Je veux changer leur nature en grégaire."
+    kueijin_scheme.120.deceitful: "Je veux changer leur nature en trompeuse."
+    kueijin_scheme.120.honest: "Je veux changer leur nature en honnête."
+    kueijin_scheme.120.arrogant: "Je veux changer leur nature en arrogante."
+    kueijin_scheme.120.humble: "Je veux changer leur nature en humble."
+    kueijin_scheme.120.arbitrary: "Je veux changer leur nature en arbitraire."
+    kueijin_scheme.120.just: "Je veux changer leur nature en juste."
+    kueijin_scheme.120.impatient: "Je veux changer leur nature en impatient."
+    kueijin_scheme.120.patient: "Je veux changer leur nature en patiente."
+    kueijin_scheme.120.gluttonous: "Je veux changer leur nature en glouton."
+    kueijin_scheme.120.temperate: "Je veux changer leur nature en tempérée."
+    kueijin_scheme.120.paranoid: "Je veux changer leur nature en paranoïaque."
+    kueijin_scheme.120.trusting: "Je veux changer leur nature en faisant confiance."
+    kueijin_scheme.120.cynical: "Je veux changer leur nature en cynique."
+    kueijin_scheme.120.zealous: "Je veux changer leur nature en zélé."
+    kueijin_scheme.120.callous: "Je veux changer leur nature en insensible."
+    kueijin_scheme.120.sadistic: "Je veux changer leur nature en sadique."
+    kueijin_scheme.120.compassionate: "Je veux changer leur nature en compassion."
+
+    kueijin_scheme.130.t: "Fusionner l'âme"
+    kueijin_scheme.130.desc: "Vous pouvez manger l'âme, la fusionnant ainsi avec la vôtre. Cet acte coûte automatiquement un niveau de Dharma, à moins que vous ne suiviez le Hurlement du Dharma Diable-Tigre ou que vous soyez au service d'un Roi Yama. Un vampire qui mange l'âme d'un être a accès aux souvenirs et aux capacités de connaissance de cet être. La victime décède immédiatement."
+    kueijin_scheme.130.a: "J'ai accédé à leurs capacités de connaissances."
+    kueijin_scheme.130.b: "J'ai accédé à leurs souvenirs."
+
+    kueijin_scheme.200.t: "Injecter de l'émotion"
+    kueijin_scheme.200.desc: "Vous transmettez silencieusement de simples pulsions empathiques à la cible. Ainsi, vous pourriez remplir le [recipient.GetName] de peur, de joie, de chagrin ou d'émotions similaires. L'émotion est suffisamment forte pour que [recipient.GetName] soit obligé d'agir en conséquence."
+    kueijin_scheme.200.a: "Une émotion qui augmente une partie de leur personnalité."
+    kueijin_scheme.200.b: "Ce qui diminue une partie de leur personnalité."
+
+    kueijin_scheme.210.t: "Quelle personnalité ?"
+    kueijin_scheme.210.desc: "Sélectionnez-en un pour augmenter."
+    kueijin_scheme.210.a: "Audace."
+    kueijin_scheme.210.b: "Compassion."
+    kueijin_scheme.210.c: "Énergie."
+    kueijin_scheme.210.d: "Avidité."
+    kueijin_scheme.210.e: "Honneur."
+    kueijin_scheme.210.f: "Rationalité."
+    kueijin_scheme.210.g: "Sociabilité."
+    kueijin_scheme.210.h: "Vengeance."
+    kueijin_scheme.210.i: "Zèle."
+
+    kueijin_scheme.220.t: "Quelle personnalité ?"
+    kueijin_scheme.220.desc: "Sélectionnez-en un pour diminuer."
+    kueijin_scheme.220.a: "Audace."
+    kueijin_scheme.220.b: "Compassion."
+    kueijin_scheme.220.c: "Énergie."
+    kueijin_scheme.220.d: "Avidité."
+    kueijin_scheme.220.e: "Honneur."
+    kueijin_scheme.220.f: "Rationalité."
+    kueijin_scheme.220.g: "Sociabilité."
+    kueijin_scheme.220.h: "Vengeance."
+    kueijin_scheme.220.i: "Zèle."
+
+    kueijin_scheme.300.t: "Projet Énergie Psychique Négative"
+    kueijin_scheme.300.desc: "Vous canalisez toute votre culpabilité, votre frustration, votre colère et votre faim dans votre âme Hun, puis projetez cette énergie psychique négative comme un couteau dans l'âme [recipient.GetNamePossessive]."
+    kueijin_scheme.300.a: "Souffre ma douleur !"
+
+    kueijin_scheme.310.t: "Énergie psychique négative projetée"
+    kueijin_scheme.310.desc: "Toute la culpabilité, la frustration, la colère et la faim du [owner.GetName] ont été projetées comme un couteau dans votre âme !"
+    kueijin_scheme.310.a:
+        "Ahhh !"
+
+        # Demonic feature
+
+    POD_demon_shintai.100.title: "Définir une fonctionnalité démoniaque"
+    POD_demon_shintai.100.desc: "Sélectionnez votre dernière fonctionnalité acquise."
+    POD_demon_shintai.100.option.a: "Antennes."
+    POD_demon_shintai.100.option.b: "Les griffes."
+    POD_demon_shintai.100.option.c: "Armure de démon."
+    POD_demon_shintai.100.option.d: "Arme démoniaque."
+    POD_demon_shintai.100.option.e: "Parties du corps agrandies."
+    POD_demon_shintai.100.option.f: "Yeux d'horreur."
+    POD_demon_shintai.100.option.g: "Armes supplémentaires."
+    POD_demon_shintai.100.option.h: "Form of the Yamamatsu."
+    POD_demon_shintai.100.option.i: "La faute."
+    POD_demon_shintai.100.option.j: "Corps de la ruche."
+    POD_demon_shintai.100.option.k: "Cornes."
+    POD_demon_shintai.100.option.l: "Horreur."
+    POD_demon_shintai.100.option.m: "Taille énorme."
+    POD_demon_shintai.100.option.n: "Mandibules."
+    POD_demon_shintai.100.option.o: "Plusieurs têtes."
+    POD_demon_shintai.100.option.p: "Crocs empoisonnés."
+    POD_demon_shintai.100.option.q: "Des pointes."
+    POD_demon_shintai.100.option.r: "Vrilles jaillissantes."
+    POD_demon_shintai.100.option.s: "Des connards."
+    POD_demon_shintai.100.option.t: "Pustules suppurantes."
+    POD_demon_shintai.100.option.u: "Tentacules."
+    POD_demon_shintai.100.option.v: "Queue."
+    POD_demon_shintai.100.option.w: "L'hôte."
+    POD_demon_shintai.100.option.x: "Troisième oeil."
+    POD_demon_shintai.100.option.y: "Ailes."
+    POD_demon_shintai.100.option.z: "Épines des ailes."
+
+    POD_darkling_mirror.001.t: "Miroir sombre"
+    POD_darkling_mirror.001.desc: "Avec votre maîtrise de la Culture, vous pouvez essayer de séparer votre P'o de votre Hun et de votre corps pour l'utiliser comme un mauvais serviteur."
+    POD_darkling_mirror.001.option.a: "Sortez mon démon ! Servez-moi."
+    POD_darkling_mirror.001.option.a.tt: "Tu vas essayer de te diviser P'o"
+    POD_darkling_mirror.001.option.a.desc: "Une lutte avec votre démon intérieur"
+    POD_darkling_mirror.001.option.a.tt.success: "Votre P'o est divisé avec succès"
+    POD_darkling_mirror.001.option.a.tt.failure: "Vous ne parvenez pas à diviser votre P'o"
+    POD_darkling_mirror.001.option.b: "Ce n'est pas le bon moment"
+    POD_darkling_mirror.001.option.b.tt: "Tu abandonneras ton idée de diviser ton P'o"
+
+    POD_darkling_mirror.002.t: "Miroir sombre II"
+    POD_darkling_mirror.002.desc: "Grâce à votre maîtrise de la Culture, vous avez réussi à séparer votre P'o de votre Hun et de votre corps, il est maintenant temps de donner des ordres."
+    POD_darkling_mirror.002.option.a: "Mon propre monstre"
+    POD_darkling_mirror.002.option.a.tt: "Votre P'o est divisé avec succès."
+
+    POD_darkling_mirror.003.t: "Miroir sombre II"
+    POD_darkling_mirror.003.desc: "Même votre maîtrise de la Culture ne suffit pas à diviser votre P'o... pour l'instant."
+    POD_darkling_mirror.003.option.a: "je ne suis pas encore prêt"
+    POD_darkling_mirror.003.option.a.tt: "Tu n'as pas réussi à partager ton P'o"
+
+    POD_darkling_mirror.death_management.t: "Le retour de P'o"
+    POD_darkling_mirror.death_management.desc: "Votre split P'o a subi un incident et doit vous revenir."
+    POD_darkling_mirror.death_management.option.a: "Ma méchanceté est revenue"
+    POD_darkling_mirror.death_management.option.a.tt: "Votre P'o divisé et vous êtes à nouveau un"
+
+    PODquincunx.100.t: "Nouvelles de Chine"
+    PODquincunx.100.desc: "Un messager vient vous apporter des nouvelles de l'Est.\nDans un parchemin envoyé à l'empereur Da de la Cour du Tigre Blanc, le reste de la véritable Cour des Tortues Noires, Wan Kuei, renonce à la fois à la lumière du Ciel et aux ténèbres de Yomi.\nCette lettre le confirme. la légitimité de l'ancienne faction, ce qui amène les tribunaux du Tigre Blanc et de l'Empereur Jaune à appeler à une réunion de tous les ancêtres influents dans trois ans pour évaluer la situation."
+    PODquincunx.100.option.a: "Dois-je aider ?"
+
+    PODquincunx.110.t: "Actualités de Chine : Conseil des Dragons"
+    PODquincunx.110.desc: "La congrégation des Ancêtres s'est réunie au monastère de Shaolin près de Changan et a déclaré que les étrangers, en particulier les Kin-Jin, étaient responsables de la chute des Tribunaux d'Août.\nEn réponse, ils établiront un nouvel ordre : le Quinconce. Il sera composé de plusieurs tribunaux dans les cinq directions cardinales : la Cour du Sang au nord, la Cour de Chair à l'est, la Cour des Flammes au sud, la Cour des Os à l'ouest et la Cour de Jade au centre."
+    PODquincunx.110.option.a: "Une nouvelle commande s'élève en Chine."
+
+    PODquincunx.201.t: "Destin de Scarlet Phoenix Court"
+    PODquincunx.201.desc: "La tortue noire chinoise et l'empereur jaune Wan Kuei font pression contre votre cour, et Wan Kuei, à l'esprit politique, lance dans tous les tribunaux des allégations d'akuma avec peu ou pas de preuves. Il est temps pour vous de décider du sort du Scarlet Phoenix. Se séparer des tribunaux nordistes et proclamer une nouvelle Cour ? Ou obéir à leur mandat de maintenir l’unité avec la Chine ?"
+    PODquincunx.201.option.a: "Déclarez l’indépendance."
+    PODquincunx.201.option.b: "Purgez tout ce qui est contaminé par Yomi."
+
+    PODquincunx.200.t: "La fin de la cour du Phénix écarlate"
+    PODquincunx.200.desc: "La Cour du Phénix Écarlate a toujours été isolée des tribunaux chinois et il n'est pas surprenant qu'ils aient décidé de ne pas participer à la réunion des Quinconce.\nAlors qu'une nouvelle ère se lève sur eux, ils ont décidé de se renommer en Cours d'Or. et conserver leur indépendance."
+    PODquincunx.200.option.a: "La roue des âges tourne."
+
+    PODquincunx.210.t: "Actualités de Chine : La fin de la Cour du Dragon Azur"
+    PODquincunx.210.desc: "La civilité entre les gaki japonais et les Hungry Dead du continent a pris fin. Les survivants coréens ont finalement voyagé vers le sud et ont contribué à la formation du Quinconce. La Cour du Dragon Azur coréenne/japonaise n'existe plus, divisée entre les Cours Vertes de Corée, alliées au Quinconce, et les Clans du Soleil à Nihon/Japon."
+    PODquincunx.210.option.a: "La roue des âges tourne."
+
+    PODquincunx.220.t: "Actualités de Chine : La fin de la cour de l'Empereur Jaune"
+    PODquincunx.220.desc: "L'attaque contre l'empereur Wang Hongben a fragmenté la Société du Jade Doré, séparant les cours de l'Empereur Jaune. La situation s'est aggravée par la destruction de la conquête mongole et l'accusation d'avoir aidé les infernalistes Akuma.\nAvec le Traité du Quinconce, la Cour de l'Empereur Jaune est désormais réformée en Cour de Jade."
+    PODquincunx.220.option.a: "La roue des âges tourne."
+
+    PODquincunx.230.t: "Actualités de Chine : La fin de la Cour du Tigre Blanc"
+    PODquincunx.230.desc: "La Cour du Tigre Blanc s'est divisée en factions concurrentes lorsque l'Impératrice Fan a abandonné son poste, les tentatives de l'Empereur Da pour ramener la paix ont échoué.\nAprès la vague de destruction apportée par les Mongols et Akuma de la cour de la Tortue Noire ; les survivants rejoignirent le Quincunx nouvellement formé.\nLa Cour du Tigre Blanc n'existe plus."
+    PODquincunx.230.option.a: "La roue des âges tourne."
+
+    PODquincunx.240.t: "Actualités de Chine : La fin de la cour des tortues noires"
+    PODquincunx.240.desc: "Alors que les armées Ming attaquent Karakorum, des dizaines de Wu de toutes les cours d'août descendent sur la ville pour se venger, et la bataille nocturne dure des semaines. En fin de compte, la Cour des Tortues Noires infestée d'Akuma n'existe plus : ceux qui sont encore intacts ont rejoint le Quinconce, les autres ont été passés au flambeau ou au fil de l'épée."
+    PODquincunx.240.option.a: "La roue des âges tourne."

@@ -1,265 +1,266 @@
 ﻿l_french:
- soul_crushed_modifier: "Âme écrasée" #NT!
- soul_crushed_modifier_desc: "Ce vampire n'accepte presque plus sa non-vie, passant machinalement d'une tâche à l'autre." #NT!
- POD_childe_dislike_opinion: "Je n'aime pas vos enseignements" #NT!
- isolated_modifier: "Isolé" #NT!
- isolated_modifier_desc: "Vous vous êtes isolé avec votre enfant pour vous assurer qu'il comprend certains... principes fondamentaux." #NT!
- left_alone_modifier: "Laissé seul" #NT!
- left_alone_modifier_desc: "En guise de test de foi, vous quittez cette communauté elle-même gérée sans votre interférence ; ce qui présente effectivement certains avantages." #NT!
- POD_childe_like_opinion: "Aimez vos enseignements" #NT!
- helpful_diplomat_childe_modifier: "Childe, diplomate serviable" #NT!
- helpful_diplomat_childe_modifier_desc: "Votre enfant a fait bonne impression dans plusieurs tribunaux, vous assurant ainsi son amitié pour un moment." #NT!
- helpful_childe_modifier: "Enfant serviable" #NT!
- helpful_childe_modifier_desc: "Votre enfant a été d’une grande aide dans toutes les affaires d’État, améliorant votre maîtrise des choses." #NT!
- helpful_steward_childe_modifier: "Intendant serviable Childe" #NT!
- helpful_steward_childe_modifier_desc: "Votre enfant a plusieurs projets d'extension de nouveaux courts qui pourraient être utiles." #NT!
- helpful_intrigue_childe_modifier: "Childe, un intrigant utile" #NT!
- helpful_intrigue_childe_modifier_desc: "Votre enfant est comme la deuxième version de vous, complotant pour votre propre bénéfice." #NT!
- exemplar_childe_modifier: "Règle par la peur" #NT!
- exemplar_childe_modifier_desc: "Ce personnage a prouvé qu’il y a très peu de lignes qu’il ne franchirait pas pour conserver le pouvoir." #NT!
- martial_mentor_modifier: "Mentor en stratégie" #NT!
- martial_mentor_modifier_desc: "Un commandant exquis encadre désormais ce personnage." #NT!
- not_so_shadowy_modifier: "Pas si sombre" #NT!
- not_so_shadowy_modifier_desc: "Cet individu a mis en péril le secret de la mission." #NT!
- disrespected_subordinates_modifier: "Subordonnés irrespectueux" #NT!
- disrespected_subordinates_modifier_desc: "Cet individu soumettait ses subordonnés à une tâche dégradante provoquant leur ressentiment." #NT!
- profanated_holy_relic_modifier: "Relique sacrée profanée" #NT!
- profanated_holy_relic_modifier_desc: "Cet individu n'a pas réussi à manipuler une relique sacrée qui lui avait été confiée avec une piété adéquate." #NT!
- flawless_presentation_modifier: "Présentation impeccable" #NT!
- flawless_presentation_modifier_desc: "La présentation de votre enfant a impressionné même les plus blasés de vos vassaux." #NT!
- laying_back_modifier: "Allongé" #NT!
- laying_back_modifier_desc: "Vous y allez doucement pendant un moment. Vous le méritez certainement !" #NT!
- byzantine_community_modifier: "Communauté byzantine" #NT!
- byzantine_community_modifier_desc: "Un petit groupe de réfugiés byzantins, [cainites|E] et Kine, ont trouvé refuge dans votre province. Ils sont reconnaissants pour le refuge." #NT!
- shard_hagia_modifier: "Fragment de Sainte-Sophie" #NT!
- shard_hagia_modifier_desc: "Une petite partie de ce qui fut le repaire de l'un des plus grands vampires de cette époque, Michael. On pourrait presque s'y perdre..." #NT!
- roderigo_step1_modifier: "Les enseignements de Roderigo" #NT!
- roderigo_step1_modifier_desc: "Le mage silencieux a tellement de choses à vous apprendre. Il suffit de faire un acte de foi..." #NT!
- roderigo_step2_modifier: "La sagesse de Roderigo" #NT!
- roderigo_step2_modifier_desc: "Vous en savez tellement plus qu’avant ! Mais il existe encore des vérités cachées suffisamment proches pour que vous les ressentiez..." #NT!
- roderigo_step3_modifier: "Les vérités de Roderigo" #NT!
- roderigo_step3_modifier_desc: "Vous connaissez la vérité primordiale sur la vie et la mort. Si seulement tu pouvais t'en souvenir..." #NT!
- hunted_by_wolves_modifier: "Traqué" #NT!
- hunted_by_wolves_modifier_desc: "Les redoutables Lupins suivent chacun de vos mouvements, attendant une ouverture. Vous n’avez rien d’autre à faire que de les détourner pour le moment." #NT!
- loose_wolves_modifier: "Des loups en liberté" #NT!
- loose_wolves_modifier_desc: "Les loups-garous se déchaînent dans les campagnes, attaquant parfois même directement les villes." #NT!
- crisis_of_faith_modifier: "Crise de foi" #NT!
- crisis_of_faith_modifier_desc: "Vous avez perdu votre foi et êtes incapable d'utiliser les pouvoirs de la vraie foi." #NT!
- fiend_lover_modifier: "Amant démon" #NT!
- fiend_lover_modifier_desc: "Cette personne a inexplicablement trahi la cause en libérant de captivité un serviteur de l’Enfer." #NT!
- tracked_down_modifier: "Traqué" #NT!
- tracked_down_modifier_desc: "L'emplacement de cet individu est connu d'une partie hostile\n#weak Autoriser la réalisation instantanée de la recherche du repaire [journey|E] sur la cible#!" #NT!
- endo_holyweapon_modifier: "Arme sacrée" #NT!
- endo_holyweapon_modifier_desc: "Cette personne est armée d’une arme imprégnée du pouvoir divin." #NT!
- serpent_garden_modifier: "Serpent dans le jardin" #NT!
- serpent_garden_modifier_desc: "Le Serpent est de retour à Avalon. Les barons ne sont pas contents." #NT!
- truce_of_tuzfold_modifier: "Trêve de Tuzfold" #NT!
- truce_of_tuzfold_modifier_desc: "La paix blanche humiliante que vous avez dû signer vous fait paraître faible aux yeux de vos vassaux ambitieux." #NT!
- cowed_by_trial_modifier: "Vaincu lors du procès par la guerre" #NT!
- cowed_by_trial_modifier_desc: "Vladimir Rustovitch a écrasé vos forces dans une succession de démonstrations audacieuses de prouesses tactiques. Vous n'êtes pas en état de le renverser." #NT!
- emboldened_by_trial_modifier: "Victorieux dans Trial by War" #NT!
- emboldened_by_trial_modifier_desc: "Vous avez écrasé les tentatives de Vladimir Rustovitch de freiner votre puissance grandissante. Peut-être est-il temps de faire grève ?" #NT!
- tremere_politics_modifier: "Politique Tremere" #NT!
- tremere_politics_modifier_desc: "Il y a toujours quelqu'un de plus haut dans la Pyramide que toi" #NT!
- spent_from_call_modifier: "Dépensé depuis l'appel" #NT!
- spent_from_call_modifier_desc: "Rappeler votre enfant a eu des conséquences néfastes." #NT!
- confused_by_roque_modifier: "Confus" #NT!
- confused_by_roque_modifier_desc: "Vous avez été la cible d’un complot absurde, apparemment sans début ni fin. Que diable se passe-t-il?" #NT!
- restored_autorithy_modifier: "Autorité restaurée" #NT!
- restored_autorithy_modifier_desc: "[Clan|E] Lasombra ne peut plus nier votre position de leader." #NT!
- targeted_by_baali_modifier: "De vilaines rumeurs" #NT!
- targeted_by_baali_modifier_desc: "Vous êtes la cible d'une vicieuse campagne de désinformation, probablement orchestrée par le vengeur Damasquin Baali." #NT!
- black_spiraled_modifier: "La folie de la spirale" #NT!
- black_spiraled_modifier_desc: "Vous avez vu des choses qu'aucun mortel ni vampire ne devrait jamais voir." #NT!
- black_spiraled_good_modifier: "Force de la spirale" #NT!
- black_spiraled_good_modifier_desc: "Vous avez enduré la folie de la Spirale Noire et vous en êtes revenu plus fort" #NT!
-  
- wisdom_of_hazimel_modifier: "Sagesse d'Hazimel" #NT!
- wisdom_of_hazimel_modifier_desc: "Cet individu a sacrifié une partie de son propre corps pour acquérir la sagesse éternelle" #NT!
-  
- true_cross_hunt_modifier: "Porteur de la Vraie Croix" #NT!
-  
- lamia_bodyguard_modifier: "Garde du corps Lamia employé" #NT!
- lamia_bodyguard_modifier_desc: "Cet individu a employé un membre de la redoutable lignée Lamia comme garde du corps." #NT!
- web_of_knives_membership_modifier: "Frais Web Of Knives" #NT!
-  
- attuned_to_yin_modifier: "À l'écoute du Yin" #NT!
- attuned_to_yin_modifier_desc: "Un mortel ou un vampire en harmonie avec le Yin devient léthargique et mélancolique." #NT!
- attuned_to_yang_modifier: "À l'écoute du Yang" #NT!
- attuned_to_yang_modifier_desc: "Un mortel ou un vampire en harmonie avec Yang devient fiévreux et maniaque." #NT!
- state_of_balance_modifier: "État d'équilibre" #NT!
- state_of_balance_modifier_desc: "Un mortel rétabli dans un état d’équilibre bénéficie d’une santé physique et mentale grandement améliorée." #NT!
- temporary_yin_imbalance_modifier: "Déséquilibre temporaire du Yin" #NT!
- temporary_yang_imbalance_modifier: "Déséquilibre temporaire du Yang" #NT!
-  
- prowess_from_pain_1_modifier: "Prouesse face à la douleur" #NT!
- prowess_from_pain_2_modifier: "Prouesse face à la douleur" #NT!
- prowess_from_pain_3_modifier: "Prouesse face à la douleur" #NT!
- prowess_from_pain_1_enhanced_modifier: "Prouesse face à la douleur" #NT!
- prowess_from_pain_2_enhanced_modifier: "Prouesse face à la douleur" #NT!
- prowess_from_pain_3_enhanced_modifier: "Prouesse face à la douleur" #NT!
- seduce_scheme_resistance_mult: "Multiplicateur de résistance du plan Seduce" #NT!
-  
- half_point_modifier: "Puissance restante" #NT!
- half_point_modifier_desc: "Puissance de la base 5 à la base 10." #NT!
-  
- warning_prayer_modifier: "[battle_modifier|E] : Prière d'avertissement" #NT!
- glowing_prayer_modifier: "[battle_modifier|E] : Prière éclatante" #NT!
- bursing_prayer_modifier: "[battle_modifier|E] : Prière brûlante" #NT!
- indenfensible_prayer_modifier: "[battle_modifier|E] : Prière imparable" #NT!
- explosive_prayer_modifier: "[battle_modifier|E] : Prière explosive" #NT!
- burn_out_prayer_modifier: "[battle_modifier|E] : Prière d'épuisement professionnel" #NT!
- cut_off_prayer_modifier: "[battle_modifier|E] : Barrière de coupure" #NT!
- celestial_barrier_modifier: "Barrière céleste" #NT!
-  
- shih_peace_modifier: "Les enseignements de Yi" #NT!
- meng_huo_you_supply_modifier: "Meng Huo You Supply" #NT!
-  
- wepauwet_modifier: "Deuxième chance" #NT!
- wepauwet_modifier_desc: "Horus lui-même ne pouvait pas donner à Wepauwet la véritable immortalité, mais il s'en approchait quand même. Le souvenir des Silent Striders perdure." #NT!
-  
- internal_recursion_perk_modifier: "[battle_modifier|E] : Récursion interne" #NT!
- ramble_on_perk_modifier: "[battle_modifier|E] : Randonnée continue" #NT!
- lapse_perk_modifier: "[battle_modifier|E] : Déchéance" #NT!
- subjective_suspension_perk_modifier: "[battle_modifier|E] : Suspension subjective" #NT!
-  
- incubus_passion_perk_choleric_modifier: "Colérique endormi" #NT!
- incubus_passion_perk_phlegmatic_modifier: "Flegmatique endormi" #NT!
- incubus_passion_perk_melancholic_modifier: "Mélancolique endormi" #NT!
- incubus_passion_perk_sanguine_modifier: "Sanguine endormie" #NT!
- passion_perk_modifier: "Émotions ennuyées" #NT!
- the_haunting_perk_modifier: "Visions exaspérantes" #NT!
- silence_the_sane_mind_perk_modifier: "Catatonique" #NT!
- prison_of_the_mind: "Prison de l'esprit" #NT!
- prison_of_the_mind_desc: "Impossible de supprimer le trait de stress." #NT!
-  
- haunting_melody_perk_modifier: "Mélodie obsédante" #NT!
-  
- spirit_animal_cat_modifier: "Animal spirituel #Weak (Chat)#!" #NT!
- spirit_animal_wolf_modifier: "Animal spirituel #Weak (Loup)#!" #NT!
- spirit_animal_horse_modifier: "Animal spirituel #Weak (Cheval)#!" #NT!
- spirit_animal_bear_modifier: "Animal spirituel #Weak (Ours)#!" #NT!
- spirit_animal_lion_modifier: "Animal spirituel #Weak (Lion)#!" #NT!
- spirit_animal_tiger_modifier: "Animal spirituel #Weak (Tigre)#!" #NT!
- spirit_animal_rat_modifier: "Animal spirituel #Weak (Rat)#!" #NT!
- spirit_animal_bat_modifier: "Animal spirituel #Weak (Chauve-souris)#!" #NT!
- spirit_animal_crow_modifier: "Animal spirituel #Weak (Corbeau)#!" #NT!
- spirit_animal_bull_modifier: "Animal spirituel #Weak (Taureau)#!" #NT!
- spirit_animal_snake_modifier: "Animal spirituel #Weak (Serpent)#!" #NT!
- spirit_animal_rooster_modifier: "Animal spirituel #Weak (Coq)#!" #NT!
- spirit_animal_owl_modifier: "Animal spirituel #Weak (Chouette)#!" #NT!
-  
- pariahs_caress_perk_modifier: "La caresse du paria" #NT!
- aversion_perk_modifier: "Aversion" #NT!
- unburden_the_bestial_soul_perk_conscience_modifier: "Conscience améliorée" #NT!
- unburden_the_bestial_soul_perk_courage_modifier: "Courage amélioré" #NT!
- unburden_the_bestial_soul_perk_self_control_modifier: "Maîtrise de soi améliorée" #NT!
- song_of_the_blooded_perk_commander_positive_modifier: "[battle_modifier|E] : Chant des Sanglants" #NT!
- song_of_the_blooded_perk_knight_positive_modifier: "[battle_modifier|E] : Chant des Sanglants" #NT!
- song_of_the_blooded_perk_commander_negative_modifier: "[battle_modifier|E] : Chant des Sanglants" #NT!
- song_of_the_blooded_perk_knight_negative_modifier: "[battle_modifier|E] : Chant des Sanglants" #NT!
-  
- riddle_phantastique_perk_modifier: "[battle_modifier|E] : Devinette Phantastique" #NT!
- steal_the_mind_diplomacy_loss_modifier: "Voler l'esprit : perte de diplomatie" #NT!
- steal_the_mind_martial_loss_modifier: "Voler l'esprit : perte martiale" #NT!
- steal_the_mind_stewardship_loss_modifier: "Voler l'esprit : perte d'intendance" #NT!
- steal_the_mind_intrigue_loss_modifier: "Voler l'esprit : perte d'intrigue" #NT!
- steal_the_mind_learning_loss_modifier: "Voler l'esprit : perte d'apprentissage" #NT!
-  
- horrid_reality_perk_modifier: "[battle_modifier|E] : Horrible réalité" #NT!
- horrid_reality_perk_modifier_desc: "En utilisant Chimerstry, l'esprit de la victime est placé dans un monde illusoire créé par le vampire." #NT!
- mass_horror_perk_modifier: "[battle_modifier|E] : Horreur de masse" #NT!
- mass_horror_perk_modifier_desc: "En utilisant Chimerstry, l'esprit de la victime est placé dans un monde illusoire créé par le vampire." #NT!
- crush_perk_knight_modifier: "[battle_modifier|E] : Écrasé" #NT!
- crush_perk_ruler_modifier: "[battle_modifier|E] : Écrasé" #NT!
-  
-  #Forgotten Quietus modifiers 
-  
- scorpions_touch_perk_modifier: "[battle_modifier|E] : Toucher du Scorpion" #NT!
- scorpions_curse_perk_modifier: "[battle_modifier|E] : Malédiction du Scorpion" #NT!
- baals_caress_perk_modifier: "[battle_modifier|E] : La Caresse de Baal" #NT!
- thin_blood_perk_modifier: "Sang mince" #NT!
- thin_blood_perk_modifier_desc: "Ce personnage ne peut pas se soigner tant que ce modificateur est présent." #NT!
- erosion_perk_modifier: "Érosion" #NT!
- blood_of_destruction_perk_modifier: "[battle_modifier|E] : Sang de destruction" #NT!
-  
- artifact_life_expectancy_40_modifier: "[life_expectancy|E] #weak (années) :#! #P +40#!" #NT!
- caliburn_light_modifier: "[battle_modifier|E] : Lumière dorée de Caliburn" #NT!
- caliburn_shield_modifier: "[battle_modifier|E] : Protection de Caliburn" #NT!
- caliburn_shield_modifier_desc: "Ne subira pas de blessures ni ne sera mutilé au combat." #NT!
-  
- red_and_white_springs: "Sources rouges et blanches" #NT!
- red_and_white_springs_desc: "Au sommet de Glastonbury Tor se trouvent deux sources, la blanche et la rouge, représentant les forces de vie et de mort." #NT!
- albion_pool_of_youth_modifier: "Piscine d'Albion #Weak (Jeunesse)#!" #NT!
- albion_pool_of_heal_modifier: "Piscine d'Albion #Weak (Soins)#!" #NT!
- albion_pool_of_control_modifier: "Piscine d'Albion #Weak (Contrôle)#!" #NT!
-  
- doppelganger_modifier: "Sosie" #NT!
-  
- logis_ashes_modifier: "[battle_modifier|E] : Répandre la faim" #NT!
- achen_modifier: "[battle_modifier|E] : Sans armure" #NT!
- cauldron_of_fear_modifier: "[battle_modifier|E] : Peur" #NT!
- cold_light_modifier: "Aveugle" #NT!
-  
- artifact_prowess_5_modifier: "[prowess|E] : #P +5#!" #NT!
- artifact_prowess_4_modifier: "[prowess|E] : #P +4#!" #NT!
- artifact_prowess_3_modifier: "[prowess|E] : #P +3#!" #NT!
- artifact_prowess_2_modifier: "[prowess|E] : #P +2#!" #NT!
- artifact_prowess_1_modifier: "[prowess|E] : #P +1#!" #NT!
- artifact_diplomacy_4_modifier: "[diplomacy|E] : #P +4#!" #NT!
- artifact_martial_4_modifier: "[martial|E] : #P +4#!" #NT!
- artifact_stewardship_4_modifier: "[stewardship|E] : #P +4#!" #NT!
- artifact_intrigue_4_modifier: "[intrigue|E] : #P +4#!" #NT!
- artifact_learning_4_modifier: "[learning|E] : #P +4#!" #NT!
- artifact_diplomacy_3_modifier: "[diplomacy|E] : #P +3#!" #NT!
- artifact_martial_3_modifier: "[martial|E] : #P +3#!" #NT!
- artifact_stewardship_3_modifier: "[stewardship|E] : #P +3#!" #NT!
- artifact_intrigue_3_modifier: "[intrigue|E] : #P +3#!" #NT!
- artifact_learning_3_modifier: "[learning|E] : #P +3#!" #NT!
- artifact_diplomacy_2_modifier: "[diplomacy|E] : #P +2#!" #NT!
- artifact_martial_2_modifier: "[martial|E] : #P +2#!" #NT!
- artifact_stewardship_2_modifier: "[stewardship|E] : #P +2#!" #NT!
- artifact_intrigue_2_modifier: "[intrigue|E] : #P +2#!" #NT!
- artifact_learning_2_modifier: "[learning|E] : #P +2#!" #NT!
- artifact_diplomacy_1_modifier: "[diplomacy|E] : #P +1#!" #NT!
- artifact_martial_1_modifier: "[martial|E] : #P +1#!" #NT!
- artifact_stewardship_1_modifier: "[stewardship|E] : #P +1#!" #NT!
- artifact_intrigue_1_modifier: "[intrigue|E] : #P +1#!" #NT!
- artifact_learning_1_modifier: "[learning|E] : #P +1#!" #NT!
- artifact_negate_prowess_penalty_add_6_modifier: "Résistance aux blessures ([prowess|E]) : #P +6#!" #NT!
- artifact_negate_prowess_penalty_add_4_modifier: "Résistance aux blessures ([prowess|E]) : #P +4#!" #NT!
- artifact_enemy_hard_casualty_modifier_4_modifier: "[command_modifier_i|E]ennemi [dead_soldiers|E] : #P +5%#!" #NT!
- artifact_hard_casualty_modifier_2_modifier: "[command_modifier_i|E]convivial [dead_soldiers|E] : #P -3%#!" #NT!
- artifact_monthly_lifestyle_xp_1_modifier: "Expérience mensuelle [lifestyle|E] : #P +10 %#!" #NT!
- artifact_stress_loss_1_penalty_modifier: "[stress|E] perte : #N -10%#!" #NT!
- artifact_stress_gain_1_penalty_modifier: "[stress|E] gain : #N +10%#!" #NT!
-  
- life_warden_modifier: "Gardien de la vie" #NT!
- life_warden_modifier_desc: "Autoriser la résurrection si ce personnage meurt pour une cause non naturelle." #NT!
-  
- POD_visceratika_skinofchameleon_modifier: "Peau de caméléon" #NT!
-  
- mirror_duplicate_modifier: "Dupliquer miroir" #NT!
- sensory_deprivation_deaf_modifier: "Sourd" #NT!
- sensory_deprivation_disequilibrium_modifier: "Déséquilibre" #NT!
- sensory_deprivation_anosmia_modifier: "Anosmie" #NT!
- sensory_deprivation_ageusia_modifier: "Agueusie" #NT!
- sensory_deprivation_anaphia_modifier: "Anaphia" #NT!
-  
- POD_between_the_ticks_modifier: "Entre les tiques" #NT!
-  
- san_michele_modifier: "Monastère de San Michele" #NT!
-  
- POD_war_fervor_modifier: "Ferveur de guerre" #NT!
- POD_war_fervor_modifier_desc: "Cet individu est animé par une cause et est prêt à se battre pour elle." #NT!
- POD_heart_of_rebellion_modifier: "Forteresse fortifiée" #NT!
-  
- boon_of_anubis_perk_modifier: "Bénédiction d'Anubis" #NT!
-  
- rejected_call_to_wild_hunt_war_modifier: "Appel rejeté à une chasse sauvage" #NT!
- black_hand_membership_modifier: "Membre de la main noire" #NT!
- baba_yagas_curse_modifier: "La malédiction de Baba Yaga" #NT!
- baba_yagas_curse_modifier_desc: "Durga Syn a été maudite pour paraître bien plus âgée qu'elle ne l'était au moment de son étreinte." #NT!
-  
- degulo_modifier: "Dégulo" #NT!
- degulo_modifier_desc: "Faites toujours bouillir le crâne lors de l’exécution d’un prisonnier. Autoriser l'échange d'attributs de base ou [discipline|E] avec ceux de quelqu'un à qui vous avez acquis le crâne bouilli par ce pouvoir." #NT!
+    soul_crushed_modifier: "Âme écrasée"
+    soul_crushed_modifier_desc: "Ce vampire n'accepte presque plus sa non-vie, passant machinalement d'une tâche à l'autre."
+    POD_childe_dislike_opinion: "Je n'aime pas vos enseignements"
+    isolated_modifier: "Isolé"
+    isolated_modifier_desc: "Vous vous êtes isolé avec votre enfant pour vous assurer qu'il comprend certains... principes fondamentaux."
+    left_alone_modifier: "Laissé seul"
+    left_alone_modifier_desc: "En guise de test de foi, vous quittez cette communauté elle-même gérée sans votre interférence ; ce qui présente effectivement certains avantages."
+    POD_childe_like_opinion: "Aimez vos enseignements"
+    helpful_diplomat_childe_modifier: "Childe, diplomate serviable"
+    helpful_diplomat_childe_modifier_desc: "Votre enfant a fait bonne impression dans plusieurs tribunaux, vous assurant ainsi son amitié pour un moment."
+    helpful_childe_modifier: "Enfant serviable"
+    helpful_childe_modifier_desc: "Votre enfant a été d’une grande aide dans toutes les affaires d’État, améliorant votre maîtrise des choses."
+    helpful_steward_childe_modifier: "Intendant serviable Childe"
+    helpful_steward_childe_modifier_desc: "Votre enfant a plusieurs projets d'extension de nouveaux courts qui pourraient être utiles."
+    helpful_intrigue_childe_modifier: "Childe, un intrigant utile"
+    helpful_intrigue_childe_modifier_desc: "Votre enfant est comme la deuxième version de vous, complotant pour votre propre bénéfice."
+    exemplar_childe_modifier: "Règle par la peur"
+    exemplar_childe_modifier_desc: "Ce personnage a prouvé qu’il y a très peu de lignes qu’il ne franchirait pas pour conserver le pouvoir."
+    martial_mentor_modifier: "Mentor en stratégie"
+    martial_mentor_modifier_desc: "Un commandant exquis encadre désormais ce personnage."
+    not_so_shadowy_modifier: "Pas si sombre"
+    not_so_shadowy_modifier_desc: "Cet individu a mis en péril le secret de la mission."
+    disrespected_subordinates_modifier: "Subordonnés irrespectueux"
+    disrespected_subordinates_modifier_desc: "Cet individu soumettait ses subordonnés à une tâche dégradante provoquant leur ressentiment."
+    profanated_holy_relic_modifier: "Relique sacrée profanée"
+    profanated_holy_relic_modifier_desc: "Cet individu n'a pas réussi à manipuler une relique sacrée qui lui avait été confiée avec une piété adéquate."
+    flawless_presentation_modifier: "Présentation impeccable"
+    flawless_presentation_modifier_desc: "La présentation de votre enfant a impressionné même les plus blasés de vos vassaux."
+    laying_back_modifier: "Allongé"
+    laying_back_modifier_desc: "Vous y allez doucement pendant un moment. Vous le méritez certainement !"
+    byzantine_community_modifier: "Communauté byzantine"
+    byzantine_community_modifier_desc: "Un petit groupe de réfugiés byzantins, [cainites|E] et Kine, ont trouvé refuge dans votre province. Ils sont reconnaissants pour le refuge."
+    shard_hagia_modifier: "Fragment de Sainte-Sophie"
+    shard_hagia_modifier_desc: "Une petite partie de ce qui fut le repaire de l'un des plus grands vampires de cette époque, Michael. On pourrait presque s'y perdre..."
+    roderigo_step1_modifier: "Les enseignements de Roderigo"
+    roderigo_step1_modifier_desc: "Le mage silencieux a tellement de choses à vous apprendre. Il suffit de faire un acte de foi..."
+    roderigo_step2_modifier: "La sagesse de Roderigo"
+    roderigo_step2_modifier_desc: "Vous en savez tellement plus qu’avant ! Mais il existe encore des vérités cachées suffisamment proches pour que vous les ressentiez..."
+    roderigo_step3_modifier: "Les vérités de Roderigo"
+    roderigo_step3_modifier_desc: "Vous connaissez la vérité primordiale sur la vie et la mort. Si seulement tu pouvais t'en souvenir..."
+    hunted_by_wolves_modifier: "Traqué"
+    hunted_by_wolves_modifier_desc: "Les redoutables Lupins suivent chacun de vos mouvements, attendant une ouverture. Vous n’avez rien d’autre à faire que de les détourner pour le moment."
+    loose_wolves_modifier: "Des loups en liberté"
+    loose_wolves_modifier_desc: "Les loups-garous se déchaînent dans les campagnes, attaquant parfois même directement les villes."
+    crisis_of_faith_modifier: "Crise de foi"
+    crisis_of_faith_modifier_desc: "Vous avez perdu votre foi et êtes incapable d'utiliser les pouvoirs de la vraie foi."
+    fiend_lover_modifier: "Amant démon"
+    fiend_lover_modifier_desc: "Cette personne a inexplicablement trahi la cause en libérant de captivité un serviteur de l’Enfer."
+    tracked_down_modifier: "Traqué"
+    tracked_down_modifier_desc: "L'emplacement de cet individu est connu d'une partie hostile\n#weak Autoriser la réalisation instantanée de la recherche du repaire [journey|E] sur la cible#!"
+    endo_holyweapon_modifier: "Arme sacrée"
+    endo_holyweapon_modifier_desc: "Cette personne est armée d’une arme imprégnée du pouvoir divin."
+    serpent_garden_modifier: "Serpent dans le jardin"
+    serpent_garden_modifier_desc: "Le Serpent est de retour à Avalon. Les barons ne sont pas contents."
+    truce_of_tuzfold_modifier: "Trêve de Tuzfold"
+    truce_of_tuzfold_modifier_desc: "La paix blanche humiliante que vous avez dû signer vous fait paraître faible aux yeux de vos vassaux ambitieux."
+    cowed_by_trial_modifier: "Vaincu lors du procès par la guerre"
+    cowed_by_trial_modifier_desc: "Vladimir Rustovitch a écrasé vos forces dans une succession de démonstrations audacieuses de prouesses tactiques. Vous n'êtes pas en état de le renverser."
+    emboldened_by_trial_modifier: "Victorieux dans Trial by War"
+    emboldened_by_trial_modifier_desc: "Vous avez écrasé les tentatives de Vladimir Rustovitch de freiner votre puissance grandissante. Peut-être est-il temps de faire grève ?"
+    tremere_politics_modifier: "Politique Tremere"
+    tremere_politics_modifier_desc: "Il y a toujours quelqu'un de plus haut dans la Pyramide que toi"
+    spent_from_call_modifier: "Dépensé depuis l'appel"
+    spent_from_call_modifier_desc: "Rappeler votre enfant a eu des conséquences néfastes."
+    confused_by_roque_modifier: "Confus"
+    confused_by_roque_modifier_desc: "Vous avez été la cible d’un complot absurde, apparemment sans début ni fin. Que diable se passe-t-il?"
+    restored_autorithy_modifier: "Autorité restaurée"
+    restored_autorithy_modifier_desc: "[Clan|E] Lasombra ne peut plus nier votre position de leader."
+    targeted_by_baali_modifier: "De vilaines rumeurs"
+    targeted_by_baali_modifier_desc: "Vous êtes la cible d'une vicieuse campagne de désinformation, probablement orchestrée par le vengeur Damasquin Baali."
+    black_spiraled_modifier: "La folie de la spirale"
+    black_spiraled_modifier_desc: "Vous avez vu des choses qu'aucun mortel ni vampire ne devrait jamais voir."
+    black_spiraled_good_modifier: "Force de la spirale"
+    black_spiraled_good_modifier_desc: "Vous avez enduré la folie de la Spirale Noire et vous en êtes revenu plus fort"
+
+    wisdom_of_hazimel_modifier: "Sagesse d'Hazimel"
+    wisdom_of_hazimel_modifier_desc: "Cet individu a sacrifié une partie de son propre corps pour acquérir la sagesse éternelle"
+
+    true_cross_hunt_modifier: "Porteur de la Vraie Croix"
+
+    lamia_bodyguard_modifier: "Garde du corps Lamia employé"
+    lamia_bodyguard_modifier_desc: "Cet individu a employé un membre de la redoutable lignée Lamia comme garde du corps."
+    web_of_knives_membership_modifier: "Frais Web Of Knives"
+
+    attuned_to_yin_modifier: "À l'écoute du Yin"
+    attuned_to_yin_modifier_desc: "Un mortel ou un vampire en harmonie avec le Yin devient léthargique et mélancolique."
+    attuned_to_yang_modifier: "À l'écoute du Yang"
+    attuned_to_yang_modifier_desc: "Un mortel ou un vampire en harmonie avec Yang devient fiévreux et maniaque."
+    state_of_balance_modifier: "État d'équilibre"
+    state_of_balance_modifier_desc: "Un mortel rétabli dans un état d’équilibre bénéficie d’une santé physique et mentale grandement améliorée."
+    temporary_yin_imbalance_modifier: "Déséquilibre temporaire du Yin"
+    temporary_yang_imbalance_modifier: "Déséquilibre temporaire du Yang"
+
+    prowess_from_pain_1_modifier: "Prouesse face à la douleur"
+    prowess_from_pain_2_modifier: "Prouesse face à la douleur"
+    prowess_from_pain_3_modifier: "Prouesse face à la douleur"
+    prowess_from_pain_1_enhanced_modifier: "Prouesse face à la douleur"
+    prowess_from_pain_2_enhanced_modifier: "Prouesse face à la douleur"
+    prowess_from_pain_3_enhanced_modifier: "Prouesse face à la douleur"
+    seduce_scheme_resistance_mult: "Multiplicateur de résistance du plan Seduce"
+
+    half_point_modifier: "Puissance restante"
+    half_point_modifier_desc: "Puissance de la base 5 à la base 10."
+
+    warning_prayer_modifier: "[battle_modifier|E] : Prière d'avertissement"
+    glowing_prayer_modifier: "[battle_modifier|E] : Prière éclatante"
+    bursing_prayer_modifier: "[battle_modifier|E] : Prière brûlante"
+    indenfensible_prayer_modifier: "[battle_modifier|E] : Prière imparable"
+    explosive_prayer_modifier: "[battle_modifier|E] : Prière explosive"
+    burn_out_prayer_modifier: "[battle_modifier|E] : Prière d'épuisement professionnel"
+    cut_off_prayer_modifier: "[battle_modifier|E] : Barrière de coupure"
+    celestial_barrier_modifier: "Barrière céleste"
+
+    shih_peace_modifier: "Les enseignements de Yi"
+    meng_huo_you_supply_modifier: "Meng Huo You Supply"
+
+    wepauwet_modifier: "Deuxième chance"
+    wepauwet_modifier_desc: "Horus lui-même ne pouvait pas donner à Wepauwet la véritable immortalité, mais il s'en approchait quand même. Le souvenir des Silent Striders perdure."
+
+    internal_recursion_perk_modifier: "[battle_modifier|E] : Récursion interne"
+    ramble_on_perk_modifier: "[battle_modifier|E] : Randonnée continue"
+    lapse_perk_modifier: "[battle_modifier|E] : Déchéance"
+    subjective_suspension_perk_modifier: "[battle_modifier|E] : Suspension subjective"
+
+    incubus_passion_perk_choleric_modifier: "Colérique endormi"
+    incubus_passion_perk_phlegmatic_modifier: "Flegmatique endormi"
+    incubus_passion_perk_melancholic_modifier: "Mélancolique endormi"
+    incubus_passion_perk_sanguine_modifier: "Sanguine endormie"
+    passion_perk_modifier: "Émotions ennuyées"
+    the_haunting_perk_modifier: "Visions exaspérantes"
+    silence_the_sane_mind_perk_modifier: "Catatonique"
+    prison_of_the_mind: "Prison de l'esprit"
+    prison_of_the_mind_desc: "Impossible de supprimer le trait de stress."
+
+    haunting_melody_perk_modifier: "Mélodie obsédante"
+
+    spirit_animal_cat_modifier: "Animal spirituel #Weak (Chat)#!"
+    spirit_animal_wolf_modifier: "Animal spirituel #Weak (Loup)#!"
+    spirit_animal_horse_modifier: "Animal spirituel #Weak (Cheval)#!"
+    spirit_animal_bear_modifier: "Animal spirituel #Weak (Ours)#!"
+    spirit_animal_lion_modifier: "Animal spirituel #Weak (Lion)#!"
+    spirit_animal_tiger_modifier: "Animal spirituel #Weak (Tigre)#!"
+    spirit_animal_rat_modifier: "Animal spirituel #Weak (Rat)#!"
+    spirit_animal_bat_modifier: "Animal spirituel #Weak (Chauve-souris)#!"
+    spirit_animal_crow_modifier: "Animal spirituel #Weak (Corbeau)#!"
+    spirit_animal_bull_modifier: "Animal spirituel #Weak (Taureau)#!"
+    spirit_animal_snake_modifier: "Animal spirituel #Weak (Serpent)#!"
+    spirit_animal_rooster_modifier: "Animal spirituel #Weak (Coq)#!"
+    spirit_animal_owl_modifier: "Animal spirituel #Weak (Chouette)#!"
+
+    pariahs_caress_perk_modifier: "La caresse du paria"
+    aversion_perk_modifier: "Aversion"
+    unburden_the_bestial_soul_perk_conscience_modifier: "Conscience améliorée"
+    unburden_the_bestial_soul_perk_courage_modifier: "Courage amélioré"
+    unburden_the_bestial_soul_perk_self_control_modifier: "Maîtrise de soi améliorée"
+    song_of_the_blooded_perk_commander_positive_modifier: "[battle_modifier|E] : Chant des Sanglants"
+    song_of_the_blooded_perk_knight_positive_modifier: "[battle_modifier|E] : Chant des Sanglants"
+    song_of_the_blooded_perk_commander_negative_modifier: "[battle_modifier|E] : Chant des Sanglants"
+    song_of_the_blooded_perk_knight_negative_modifier: "[battle_modifier|E] : Chant des Sanglants"
+
+    riddle_phantastique_perk_modifier: "[battle_modifier|E] : Devinette Phantastique"
+    steal_the_mind_diplomacy_loss_modifier: "Voler l'esprit : perte de diplomatie"
+    steal_the_mind_martial_loss_modifier: "Voler l'esprit : perte martiale"
+    steal_the_mind_stewardship_loss_modifier: "Voler l'esprit : perte d'intendance"
+    steal_the_mind_intrigue_loss_modifier: "Voler l'esprit : perte d'intrigue"
+    steal_the_mind_learning_loss_modifier: "Voler l'esprit : perte d'apprentissage"
+
+    horrid_reality_perk_modifier: "[battle_modifier|E] : Horrible réalité"
+    horrid_reality_perk_modifier_desc: "En utilisant Chimerstry, l'esprit de la victime est placé dans un monde illusoire créé par le vampire."
+    mass_horror_perk_modifier: "[battle_modifier|E] : Horreur de masse"
+    mass_horror_perk_modifier_desc: "En utilisant Chimerstry, l'esprit de la victime est placé dans un monde illusoire créé par le vampire."
+    crush_perk_knight_modifier: "[battle_modifier|E] : Écrasé"
+    crush_perk_ruler_modifier:
+        "[battle_modifier|E] : Écrasé"
+
+        #Forgotten Quietus modifiers
+
+    scorpions_touch_perk_modifier: "[battle_modifier|E] : Toucher du Scorpion"
+    scorpions_curse_perk_modifier: "[battle_modifier|E] : Malédiction du Scorpion"
+    baals_caress_perk_modifier: "[battle_modifier|E] : La Caresse de Baal"
+    thin_blood_perk_modifier: "Sang mince"
+    thin_blood_perk_modifier_desc: "Ce personnage ne peut pas se soigner tant que ce modificateur est présent."
+    erosion_perk_modifier: "Érosion"
+    blood_of_destruction_perk_modifier: "[battle_modifier|E] : Sang de destruction"
+
+    artifact_life_expectancy_40_modifier: "[life_expectancy|E] #weak (années) :#! #P +40#!"
+    caliburn_light_modifier: "[battle_modifier|E] : Lumière dorée de Caliburn"
+    caliburn_shield_modifier: "[battle_modifier|E] : Protection de Caliburn"
+    caliburn_shield_modifier_desc: "Ne subira pas de blessures ni ne sera mutilé au combat."
+
+    red_and_white_springs: "Sources rouges et blanches"
+    red_and_white_springs_desc: "Au sommet de Glastonbury Tor se trouvent deux sources, la blanche et la rouge, représentant les forces de vie et de mort."
+    albion_pool_of_youth_modifier: "Piscine d'Albion #Weak (Jeunesse)#!"
+    albion_pool_of_heal_modifier: "Piscine d'Albion #Weak (Soins)#!"
+    albion_pool_of_control_modifier: "Piscine d'Albion #Weak (Contrôle)#!"
+
+    doppelganger_modifier: "Sosie"
+
+    logis_ashes_modifier: "[battle_modifier|E] : Répandre la faim"
+    achen_modifier: "[battle_modifier|E] : Sans armure"
+    cauldron_of_fear_modifier: "[battle_modifier|E] : Peur"
+    cold_light_modifier: "Aveugle"
+
+    artifact_prowess_5_modifier: "[prowess|E] : #P +5#!"
+    artifact_prowess_4_modifier: "[prowess|E] : #P +4#!"
+    artifact_prowess_3_modifier: "[prowess|E] : #P +3#!"
+    artifact_prowess_2_modifier: "[prowess|E] : #P +2#!"
+    artifact_prowess_1_modifier: "[prowess|E] : #P +1#!"
+    artifact_diplomacy_4_modifier: "[diplomacy|E] : #P +4#!"
+    artifact_martial_4_modifier: "[martial|E] : #P +4#!"
+    artifact_stewardship_4_modifier: "[stewardship|E] : #P +4#!"
+    artifact_intrigue_4_modifier: "[intrigue|E] : #P +4#!"
+    artifact_learning_4_modifier: "[learning|E] : #P +4#!"
+    artifact_diplomacy_3_modifier: "[diplomacy|E] : #P +3#!"
+    artifact_martial_3_modifier: "[martial|E] : #P +3#!"
+    artifact_stewardship_3_modifier: "[stewardship|E] : #P +3#!"
+    artifact_intrigue_3_modifier: "[intrigue|E] : #P +3#!"
+    artifact_learning_3_modifier: "[learning|E] : #P +3#!"
+    artifact_diplomacy_2_modifier: "[diplomacy|E] : #P +2#!"
+    artifact_martial_2_modifier: "[martial|E] : #P +2#!"
+    artifact_stewardship_2_modifier: "[stewardship|E] : #P +2#!"
+    artifact_intrigue_2_modifier: "[intrigue|E] : #P +2#!"
+    artifact_learning_2_modifier: "[learning|E] : #P +2#!"
+    artifact_diplomacy_1_modifier: "[diplomacy|E] : #P +1#!"
+    artifact_martial_1_modifier: "[martial|E] : #P +1#!"
+    artifact_stewardship_1_modifier: "[stewardship|E] : #P +1#!"
+    artifact_intrigue_1_modifier: "[intrigue|E] : #P +1#!"
+    artifact_learning_1_modifier: "[learning|E] : #P +1#!"
+    artifact_negate_prowess_penalty_add_6_modifier: "Résistance aux blessures ([prowess|E]) : #P +6#!"
+    artifact_negate_prowess_penalty_add_4_modifier: "Résistance aux blessures ([prowess|E]) : #P +4#!"
+    artifact_enemy_hard_casualty_modifier_4_modifier: "[command_modifier_i|E]ennemi [dead_soldiers|E] : #P +5%#!"
+    artifact_hard_casualty_modifier_2_modifier: "[command_modifier_i|E]convivial [dead_soldiers|E] : #P -3%#!"
+    artifact_monthly_lifestyle_xp_1_modifier: "Expérience mensuelle [lifestyle|E] : #P +10 %#!"
+    artifact_stress_loss_1_penalty_modifier: "[stress|E] perte : #N -10%#!"
+    artifact_stress_gain_1_penalty_modifier: "[stress|E] gain : #N +10%#!"
+
+    life_warden_modifier: "Gardien de la vie"
+    life_warden_modifier_desc: "Autoriser la résurrection si ce personnage meurt pour une cause non naturelle."
+
+    POD_visceratika_skinofchameleon_modifier: "Peau de caméléon"
+
+    mirror_duplicate_modifier: "Dupliquer miroir"
+    sensory_deprivation_deaf_modifier: "Sourd"
+    sensory_deprivation_disequilibrium_modifier: "Déséquilibre"
+    sensory_deprivation_anosmia_modifier: "Anosmie"
+    sensory_deprivation_ageusia_modifier: "Agueusie"
+    sensory_deprivation_anaphia_modifier: "Anaphia"
+
+    POD_between_the_ticks_modifier: "Entre les tiques"
+
+    san_michele_modifier: "Monastère de San Michele"
+
+    POD_war_fervor_modifier: "Ferveur de guerre"
+    POD_war_fervor_modifier_desc: "Cet individu est animé par une cause et est prêt à se battre pour elle."
+    POD_heart_of_rebellion_modifier: "Forteresse fortifiée"
+
+    boon_of_anubis_perk_modifier: "Bénédiction d'Anubis"
+
+    rejected_call_to_wild_hunt_war_modifier: "Appel rejeté à une chasse sauvage"
+    black_hand_membership_modifier: "Membre de la main noire"
+    baba_yagas_curse_modifier: "La malédiction de Baba Yaga"
+    baba_yagas_curse_modifier_desc: "Durga Syn a été maudite pour paraître bien plus âgée qu'elle ne l'était au moment de son étreinte."
+
+    degulo_modifier: "Dégulo"
+    degulo_modifier_desc: "Faites toujours bouillir le crâne lors de l’exécution d’un prisonnier. Autoriser l'échange d'attributs de base ou [discipline|E] avec ceux de quelqu'un à qui vous avez acquis le crâne bouilli par ce pouvoir."

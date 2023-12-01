@@ -1,3 +1,3 @@
 ﻿l_french:
- POD_show_only_valid_faiths: "Afficher uniquement [GetPlayer.Custom('PODSplat')] [faiths|E]" #NT!
- POD_show_all_faiths: "Afficher tout [faiths|E]" #NT!
+    POD_show_only_valid_faiths: "Afficher uniquement [GetPlayer.Custom('PODSplat')] [faiths|E]"
+    POD_show_all_faiths: "Afficher tout [faiths|E]"

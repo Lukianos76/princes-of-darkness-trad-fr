@@ -1,109 +1,109 @@
 ﻿l_french:
-  
-  #Common Raktasadhus Localization 
- raktasadhus_religion: "Raktasadhus" #NT!
- raktasadhus_religion_adj: "Raktasadhus" #NT!
- raktasadhus_religion_adherent: "Raktasadhus" #NT!
- raktasadhus_religion_adherent_plural: "Raktasadhus" #NT!
- raktasadhus_religion_desc: "Les vampires de l'Inde partagent un ennemi commun : le Wan Kuei, ce qui les rend susceptibles de se regrouper pendant un certain temps." #NT!
- raktasadhus_high_god_name: "Mahakala" #NT!
- raktasadhus_high_god_name_possessive: "Mahakala" #NT!
- raktasadhus_high_god_name_alternate: "Kali" #NT!
- raktasadhus_high_god_name_alternate_possessive: "Celui de Kali" #NT!
- raktasadhus_good_god_jesus: "$raktasadhus_health_god_name$" #NT!
- raktasadhus_good_god_christ: "Zapathasura" #NT!
- raktasadhus_devil_name: "Ravana" #NT!
- raktasadhus_devil_name_possessive: "celui de Ravana" #NT!
- raktasadhus_evil_god_lucifer: "Ravana" #NT!
- raktasadhus_evil_god_beelzebub: "Ravana" #NT!
- raktasadhus_evil_god_mephistopheles: "Ravana" #NT!
- raktasadhus_death_deity_name: "Destruction" #NT!
- raktasadhus_death_deity_name_possessive: "Destruction" #NT!
- raktasadhus_house_of_worship: "temple" #NT!
- raktasadhus_house_of_worship_plural: "temples" #NT!
- raktasadhus_religious_symbol: "rose" #NT!
- raktasadhus_religious_text: "Atharva-Véda" #NT!
- raktasadhus_religious_head_title: "Brahmane de sang" #NT!
- raktasadhus_religious_head_title_name: "Brahmane de sang" #NT!
- raktasadhus_devotee_male: "Raktasadhu" #NT!
- raktasadhus_devotee_male_plural: "Raktasadhus" #NT!
- raktasadhus_devotee_female: "Raktasadhu" #NT!
- raktasadhus_devotee_female_plural: "Raktasadhus" #NT!
- raktasadhus_devotee_neuter: "Raktasadhu" #NT!
- raktasadhus_devotee_neuter_plural: "Raktasadhus" #NT!
- raktasadhus_priest_male: "Shilmulo" #NT!
- raktasadhus_priest_male_plural: "Shilmulo" #NT!
- raktasadhus_priest_alternate_plural: "Shilmulo" #NT!
- raktasadhus_bishop: "Brahmane de sang" #NT!
- raktasadhus_bishop_plural: "Brahmane de sang" #NT!
- raktasadhus_divine_realm: "Swarga Loka" #NT!
- raktasadhus_positive_afterlife: "Swarga Loka" #NT!
- raktasadhus_negative_afterlife: "Naraka" #NT!
- raktasadhus_witchgodname_the_horned_god: "la bête" #NT!
- raktasadhus_witchgodname_the_horned_god_possessive: "Les bêtes" #NT!
-  
- raktasadhus_creator_god_name: "$raktasadhus_high_god_name$" #NT!
- raktasadhus_creator_god_name_possessive: "$raktasadhus_high_god_name_possessive$" #NT!
- raktasadhus_health_god_name: "sang" #NT!
- raktasadhus_health_god_name_possessive: "du sang" #NT!
- raktasadhus_fertility_god_name: "$raktasadhus_high_god_name$" #NT!
- raktasadhus_fertility_god_name_possessive: "$raktasadhus_high_god_name_possessive$" #NT!
- raktasadhus_wealth_god_name: "$raktasadhus_high_god_name$" #NT!
- raktasadhus_wealth_god_name_possessive: "$raktasadhus_high_god_name_possessive$" #NT!
- raktasadhus_household_god_name: "$raktasadhus_health_god_name$" #NT!
- raktasadhus_household_god_name_possessive: "$raktasadhus_health_god_name_possessive$" #NT!
- raktasadhus_fate_god_name: "$raktasadhus_high_god_name$" #NT!
- raktasadhus_fate_god_name_possessive: "$raktasadhus_high_god_name_possessive$" #NT!
- raktasadhus_knowledge_god_name: "$raktasadhus_high_god_name$" #NT!
- raktasadhus_knowledge_god_name_possessive: "$raktasadhus_high_god_name_possessive$" #NT!
- raktasadhus_war_god_name: "$raktasadhus_high_god_name$" #NT!
- raktasadhus_war_god_name_possessive: "$raktasadhus_high_god_name_possessive$" #NT!
- raktasadhus_trickster_god_name: "Fortune" #NT!
- raktasadhus_trickster_god_name_possessive: "La Fortune" #NT!
- raktasadhus_night_god_name: "$raktasadhus_high_god_name$" #NT!
- raktasadhus_night_god_name_possessive: "$raktasadhus_high_god_name_possessive$" #NT!
- raktasadhus_water_god_name: "$raktasadhus_health_god_name$" #NT!
- raktasadhus_water_god_name_possessive: "$raktasadhus_health_god_name_possessive$" #NT!
-  
-  #Rakta-sadhu-Group Faiths 
- raktasadhus: "Rakta-sadhus" #NT!
- raktasadhus_adj: "Rakta-sadhus" #NT!
- raktasadhus_adherent: "Rakta-sadhu" #NT!
- raktasadhus_adherent_plural: "Rakta-sadhus" #NT!
- raktasadhus_desc: "Les vampires indiens pratiquent une forme de sorcellerie sanguine appelée Sadhana. Malgré le fait qu'il existe des [cainites|E] indiens qui ne pratiquent pas la Sadhana, le terme pluriel rakta-sadhus est encore parfois utilisé pour désigner collectivement tous les [cainites|E] indiens, en grande partie parce qu'ils ont jusqu'à présent négligé de formaliser leur réseau d'allégeances éphémères en une véritable secte ou une cour. Ces allégeances n’auraient peut-être même pas vu le jour sans l’opposition des vampires cathayens de la Cour des Tonnerres Infinis du sud de l’Inde et de la Cour du Phénix Écarlate de l’Est de l’Inde." #NT!
-  
- mayaparisatya: "Mayaparisatya" #NT!
- mayaparisatya_adj: "Mayaparisatya" #NT!
- mayaparisatya_adherent: "Rakshasa" #NT!
- mayaparisatya_adherent_plural: "Rakshasa" #NT!
- mayaparisatya_desc: "La Voie du Paradoxe doit beaucoup à certains principes de l’hindouisme. Selon lui, les Kindred sont perpétuellement enfermés en dehors du cycle illusoire de l'univers (maya). Alors que la plupart des êtres se réincarnent à travers le Saṃsāra, un enchevêtrement continu dans le cycle des renaissances, les vampires ont échappé à ce cycle. Chaque individu a son propre but, ou Svadharma, même si les vampires, exclus du cycle, ont perdu le leur." #NT!
-  
- viaparadox: "Le chemin du paradoxe" #NT!
- viaparadox_adj: "Paradoxe" #NT!
- viaparadox_adherent: "Trompeur" #NT!
- viaparadox_adherent_plural: "Les trompeurs" #NT!
- viaparadox_desc: "Les Trompeurs croient en un objectif plus élevé pour chacun, y compris eux-mêmes, les autres vampires et les mortels. Leur tâche dans la vie est de guider chacun vers sa destinée supérieure. Si nécessaire, cela inclut la mort, en particulier pour les vampires qu'ils considèrent comme capricieux et déchus de leur véritable destinée. Les mortels sont plus à l’abri de ces châtiments mortels, car ils sont plus directement impliqués dans le cycle de vie de l’univers." #NT!
-  
- pathofdevaraja: "Chemin de Devaraja" #NT!
- pathofdevaraja_adj: "Devaraja" #NT!
- pathofdevaraja_adherent: "Divin" #NT!
- pathofdevaraja_adherent_plural: "Divins" #NT!
- pathofdevaraja_desc: "Les adeptes de cette voie ne croient pas en un quelconque droit divin de gouverner. Au lieu de cela, ils croient qu’ils doivent gagner le droit de gouverner et de devenir divin aux yeux de leur peuple. Les Divins ne créent pas des sujets et des inférieurs, mais plutôt des adeptes et des adorateurs." #NT!
-  
- pathofdaitya: "Chemin de Daitya" #NT!
- pathofdaitya_adj: "Daitya" #NT!
- pathofdaitya_adherent: "Charmeur de serpent" #NT!
- pathofdaitya_adherent_plural: "Charmeurs de serpents" #NT!
- pathofdaitya_desc: "Les Daitya vénèrent Shiva et revendiquent le leadership de tous les vampires qui adorent Shiva. Les Daitya voient leur devoir de caste comme un étrange inverse du brahmanisme mortel. En tant que démons, ils doivent combattre les dieux et s’efforcer de renverser l’ordre moral du monde. En tant que brahmanes, cependant, ils doivent s'efforcer de maintenir leurs camarades vampires dans le cadre de leurs propres devoirs de caste particuliers en tant que meurtriers, filous, profanateurs de rites sacrés et tous les autres rôles odieux assignés aux démons." #NT!
-  
- tariqeltanaqud: "Tariq el-Tanaqud" #NT!
- tariqeltanaqud_adj: "Tariq el-Tanaqud" #NT!
- tariqeltanaqud_adherent: "Khadaé" #NT!
- tariqeltanaqud_adherent_plural: "Al-Mukhadieun" #NT!
- tariqeltanaqud_desc: "En tant que carrefour entre la ligne principale indienne et la ligne occidentale décadente, les Ravnos musulmans sont à cheval sur les deux mondes mais sont également rejetés par les deux. Parias et vagabonds, ils sont détestés par le [ashirra|E]." #NT!
-  
- samsara: "Samsara" #NT!
- samsara_adj: "Samsara" #NT!
- samsara_adherent: ""
- samsara_adherent_plural: ""
- samsara_desc: "La Voie moderne du Paradoxe, également appelée Saṃsāra, est une création des nouveau-nés de Ravnos. Il n’est pas aussi rigide que le Mayaparisatya, mais il ne permet pas non plus la cruauté gratuite et l’hédonisme de la Voie occidentale. Son éthique est la même que celle du Mayaparisatya, mais la hiérarchie des péchés a été modifiée pour permettre l'interaction avec les vampires qui ne suivent pas le chemin." #NT!
+    #Common Raktasadhus Localization
+    raktasadhus_religion: "Raktasadhus"
+    raktasadhus_religion_adj: "Raktasadhus"
+    raktasadhus_religion_adherent: "Raktasadhus"
+    raktasadhus_religion_adherent_plural: "Raktasadhus"
+    raktasadhus_religion_desc: "Les vampires de l'Inde partagent un ennemi commun : le Wan Kuei, ce qui les rend susceptibles de se regrouper pendant un certain temps."
+    raktasadhus_high_god_name: "Mahakala"
+    raktasadhus_high_god_name_possessive: "Mahakala"
+    raktasadhus_high_god_name_alternate: "Kali"
+    raktasadhus_high_god_name_alternate_possessive: "Celui de Kali"
+    raktasadhus_good_god_jesus: "$raktasadhus_health_god_name$"
+    raktasadhus_good_god_christ: "Zapathasura"
+    raktasadhus_devil_name: "Ravana"
+    raktasadhus_devil_name_possessive: "celui de Ravana"
+    raktasadhus_evil_god_lucifer: "Ravana"
+    raktasadhus_evil_god_beelzebub: "Ravana"
+    raktasadhus_evil_god_mephistopheles: "Ravana"
+    raktasadhus_death_deity_name: "Destruction"
+    raktasadhus_death_deity_name_possessive: "Destruction"
+    raktasadhus_house_of_worship: "temple"
+    raktasadhus_house_of_worship_plural: "temples"
+    raktasadhus_religious_symbol: "rose"
+    raktasadhus_religious_text: "Atharva-Véda"
+    raktasadhus_religious_head_title: "Brahmane de sang"
+    raktasadhus_religious_head_title_name: "Brahmane de sang"
+    raktasadhus_devotee_male: "Raktasadhu"
+    raktasadhus_devotee_male_plural: "Raktasadhus"
+    raktasadhus_devotee_female: "Raktasadhu"
+    raktasadhus_devotee_female_plural: "Raktasadhus"
+    raktasadhus_devotee_neuter: "Raktasadhu"
+    raktasadhus_devotee_neuter_plural: "Raktasadhus"
+    raktasadhus_priest_male: "Shilmulo"
+    raktasadhus_priest_male_plural: "Shilmulo"
+    raktasadhus_priest_alternate_plural: "Shilmulo"
+    raktasadhus_bishop: "Brahmane de sang"
+    raktasadhus_bishop_plural: "Brahmane de sang"
+    raktasadhus_divine_realm: "Swarga Loka"
+    raktasadhus_positive_afterlife: "Swarga Loka"
+    raktasadhus_negative_afterlife: "Naraka"
+    raktasadhus_witchgodname_the_horned_god: "la bête"
+    raktasadhus_witchgodname_the_horned_god_possessive: "Les bêtes"
+
+    raktasadhus_creator_god_name: "$raktasadhus_high_god_name$"
+    raktasadhus_creator_god_name_possessive: "$raktasadhus_high_god_name_possessive$"
+    raktasadhus_health_god_name: "sang"
+    raktasadhus_health_god_name_possessive: "du sang"
+    raktasadhus_fertility_god_name: "$raktasadhus_high_god_name$"
+    raktasadhus_fertility_god_name_possessive: "$raktasadhus_high_god_name_possessive$"
+    raktasadhus_wealth_god_name: "$raktasadhus_high_god_name$"
+    raktasadhus_wealth_god_name_possessive: "$raktasadhus_high_god_name_possessive$"
+    raktasadhus_household_god_name: "$raktasadhus_health_god_name$"
+    raktasadhus_household_god_name_possessive: "$raktasadhus_health_god_name_possessive$"
+    raktasadhus_fate_god_name: "$raktasadhus_high_god_name$"
+    raktasadhus_fate_god_name_possessive: "$raktasadhus_high_god_name_possessive$"
+    raktasadhus_knowledge_god_name: "$raktasadhus_high_god_name$"
+    raktasadhus_knowledge_god_name_possessive: "$raktasadhus_high_god_name_possessive$"
+    raktasadhus_war_god_name: "$raktasadhus_high_god_name$"
+    raktasadhus_war_god_name_possessive: "$raktasadhus_high_god_name_possessive$"
+    raktasadhus_trickster_god_name: "Fortune"
+    raktasadhus_trickster_god_name_possessive: "La Fortune"
+    raktasadhus_night_god_name: "$raktasadhus_high_god_name$"
+    raktasadhus_night_god_name_possessive: "$raktasadhus_high_god_name_possessive$"
+    raktasadhus_water_god_name: "$raktasadhus_health_god_name$"
+    raktasadhus_water_god_name_possessive:
+        "$raktasadhus_health_god_name_possessive$"
+
+        #Rakta-sadhu-Group Faiths
+    raktasadhus: "Rakta-sadhus"
+    raktasadhus_adj: "Rakta-sadhus"
+    raktasadhus_adherent: "Rakta-sadhu"
+    raktasadhus_adherent_plural: "Rakta-sadhus"
+    raktasadhus_desc: "Les vampires indiens pratiquent une forme de sorcellerie sanguine appelée Sadhana. Malgré le fait qu'il existe des [cainites|E] indiens qui ne pratiquent pas la Sadhana, le terme pluriel rakta-sadhus est encore parfois utilisé pour désigner collectivement tous les [cainites|E] indiens, en grande partie parce qu'ils ont jusqu'à présent négligé de formaliser leur réseau d'allégeances éphémères en une véritable secte ou une cour. Ces allégeances n’auraient peut-être même pas vu le jour sans l’opposition des vampires cathayens de la Cour des Tonnerres Infinis du sud de l’Inde et de la Cour du Phénix Écarlate de l’Est de l’Inde."
+
+    mayaparisatya: "Mayaparisatya"
+    mayaparisatya_adj: "Mayaparisatya"
+    mayaparisatya_adherent: "Rakshasa"
+    mayaparisatya_adherent_plural: "Rakshasa"
+    mayaparisatya_desc: "La Voie du Paradoxe doit beaucoup à certains principes de l’hindouisme. Selon lui, les Kindred sont perpétuellement enfermés en dehors du cycle illusoire de l'univers (maya). Alors que la plupart des êtres se réincarnent à travers le Saṃsāra, un enchevêtrement continu dans le cycle des renaissances, les vampires ont échappé à ce cycle. Chaque individu a son propre but, ou Svadharma, même si les vampires, exclus du cycle, ont perdu le leur."
+
+    viaparadox: "Le chemin du paradoxe"
+    viaparadox_adj: "Paradoxe"
+    viaparadox_adherent: "Trompeur"
+    viaparadox_adherent_plural: "Les trompeurs"
+    viaparadox_desc: "Les Trompeurs croient en un objectif plus élevé pour chacun, y compris eux-mêmes, les autres vampires et les mortels. Leur tâche dans la vie est de guider chacun vers sa destinée supérieure. Si nécessaire, cela inclut la mort, en particulier pour les vampires qu'ils considèrent comme capricieux et déchus de leur véritable destinée. Les mortels sont plus à l’abri de ces châtiments mortels, car ils sont plus directement impliqués dans le cycle de vie de l’univers."
+
+    pathofdevaraja: "Chemin de Devaraja"
+    pathofdevaraja_adj: "Devaraja"
+    pathofdevaraja_adherent: "Divin"
+    pathofdevaraja_adherent_plural: "Divins"
+    pathofdevaraja_desc: "Les adeptes de cette voie ne croient pas en un quelconque droit divin de gouverner. Au lieu de cela, ils croient qu’ils doivent gagner le droit de gouverner et de devenir divin aux yeux de leur peuple. Les Divins ne créent pas des sujets et des inférieurs, mais plutôt des adeptes et des adorateurs."
+
+    pathofdaitya: "Chemin de Daitya"
+    pathofdaitya_adj: "Daitya"
+    pathofdaitya_adherent: "Charmeur de serpent"
+    pathofdaitya_adherent_plural: "Charmeurs de serpents"
+    pathofdaitya_desc: "Les Daitya vénèrent Shiva et revendiquent le leadership de tous les vampires qui adorent Shiva. Les Daitya voient leur devoir de caste comme un étrange inverse du brahmanisme mortel. En tant que démons, ils doivent combattre les dieux et s’efforcer de renverser l’ordre moral du monde. En tant que brahmanes, cependant, ils doivent s'efforcer de maintenir leurs camarades vampires dans le cadre de leurs propres devoirs de caste particuliers en tant que meurtriers, filous, profanateurs de rites sacrés et tous les autres rôles odieux assignés aux démons."
+
+    tariqeltanaqud: "Tariq el-Tanaqud"
+    tariqeltanaqud_adj: "Tariq el-Tanaqud"
+    tariqeltanaqud_adherent: "Khadaé"
+    tariqeltanaqud_adherent_plural: "Al-Mukhadieun"
+    tariqeltanaqud_desc: "En tant que carrefour entre la ligne principale indienne et la ligne occidentale décadente, les Ravnos musulmans sont à cheval sur les deux mondes mais sont également rejetés par les deux. Parias et vagabonds, ils sont détestés par le [ashirra|E]."
+
+    samsara: "Samsara"
+    samsara_adj: "Samsara"
+    samsara_adherent: ""
+    samsara_adherent_plural: ""
+    samsara_desc: "La Voie moderne du Paradoxe, également appelée Saṃsāra, est une création des nouveau-nés de Ravnos. Il n’est pas aussi rigide que le Mayaparisatya, mais il ne permet pas non plus la cruauté gratuite et l’hédonisme de la Voie occidentale. Son éthique est la même que celle du Mayaparisatya, mais la hiérarchie des péchés a été modifiée pour permettre l'interaction avec les vampires qui ne suivent pas le chemin."

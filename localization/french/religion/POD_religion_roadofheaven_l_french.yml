@@ -1,174 +1,172 @@
 ﻿l_french:
-  
-  #Common Road of Heaven Localization 
- roadofheaven_religion: "Route du Ciel" #NT!
- roadofheaven_religion_adj: "Route du Ciel" #NT!
- roadofheaven_religion_adherent: "Noddiste" #NT!
- roadofheaven_religion_adherent_plural: "Noddistes" #NT!
- roadofheaven_religion_desc: "Kindred essayant de suivre les conseils du divin. Cette voie englobe de nombreuses religions, parfois même antagonistes." #NT!
- roadofheaven_high_god_name: "Dieu" #NT!
- roadofheaven_high_god_name_possessive: "Dieux" #NT!
- roadofheaven_high_god_name_alternate: "Le Dieu" #NT!
- roadofheaven_high_god_name_alternate_possessive: "Les dieux" #NT!
- roadofheaven_good_god_jesus: "$roadofheaven_health_god_name$" #NT!
- roadofheaven_good_god_christ: "Christ" #NT!
- roadofheaven_devil_name: "Le diable" #NT!
- roadofheaven_devil_name_possessive: "Le Diable" #NT!
- roadofheaven_evil_god_lucifer: "Le diable" #NT!
- roadofheaven_evil_god_beelzebub: "Le diable" #NT!
- roadofheaven_evil_god_mephistopheles: "Le diable" #NT!
- roadofheaven_death_deity_name: "Destruction" #NT!
- roadofheaven_death_deity_name_possessive: "Destruction" #NT!
- roadofheaven_house_of_worship: "chapelle" #NT!
- roadofheaven_house_of_worship_plural: "chapelles" #NT!
- roadofheaven_religious_symbol: "croix" #NT!
- roadofheaven_religious_text: "Évangile de Laodice" #NT!
- roadofheaven_religious_head_title: "principe de foi" #NT!
- roadofheaven_religious_head_title_name: "principe de foi" #NT!
- roadofheaven_devotee_male: "principe de foi" #NT!
- roadofheaven_devotee_male_plural: "principes de foi" #NT!
- roadofheaven_devotee_female: "principe de foi" #NT!
- roadofheaven_devotee_female_plural: "principes de foi" #NT!
- roadofheaven_devotee_neuter: "principe de foi" #NT!
- roadofheaven_devotee_neuter_plural: "principes de foi" #NT!
- roadofheaven_priest_male: "principe de foi" #NT!
- roadofheaven_priest_male_plural: "principes de foi" #NT!
- roadofheaven_priest_alternate_plural: "principes de foi" #NT!
- roadofheaven_bishop: "évêque" #NT!
- roadofheaven_bishop_plural: "évêques" #NT!
- roadofheaven_divine_realm: "paradis" #NT!
- roadofheaven_positive_afterlife: "paradis" #NT!
- roadofheaven_negative_afterlife: "les abysses" #NT!
- roadofheaven_witchgodname_the_horned_god: "le diable" #NT!
- roadofheaven_witchgodname_the_horned_god_possessive: "le diable" #NT!
-  
- roadofheaven_creator_god_name: "$roadofheaven_high_god_name$" #NT!
- roadofheaven_creator_god_name_possessive: "$roadofheaven_high_god_name_possessive$" #NT!
- roadofheaven_health_god_name: "Dieu" #NT!
- roadofheaven_health_god_name_possessive: "Dieux" #NT!
- roadofheaven_fertility_god_name: "$roadofheaven_high_god_name$" #NT!
- roadofheaven_fertility_god_name_possessive: "$roadofheaven_high_god_name_possessive$" #NT!
- roadofheaven_wealth_god_name: "$roadofheaven_high_god_name$" #NT!
- roadofheaven_wealth_god_name_possessive: "$roadofheaven_high_god_name_possessive$" #NT!
- roadofheaven_household_god_name: "$roadofheaven_health_god_name$" #NT!
- roadofheaven_household_god_name_possessive: "$roadofheaven_health_god_name_possessive$" #NT!
- roadofheaven_fate_god_name: "$roadofheaven_high_god_name$" #NT!
- roadofheaven_fate_god_name_possessive: "$roadofheaven_high_god_name_possessive$" #NT!
- roadofheaven_knowledge_god_name: "$roadofheaven_high_god_name$" #NT!
- roadofheaven_knowledge_god_name_possessive: "$roadofheaven_high_god_name_possessive$" #NT!
- roadofheaven_war_god_name: "$roadofheaven_high_god_name$" #NT!
- roadofheaven_war_god_name_possessive: "$roadofheaven_high_god_name_possessive$" #NT!
- roadofheaven_trickster_god_name: "Fortune" #NT!
- roadofheaven_trickster_god_name_possessive: "La Fortune" #NT!
- roadofheaven_night_god_name: "$roadofheaven_high_god_name$" #NT!
- roadofheaven_night_god_name_possessive: "$roadofheaven_high_god_name_possessive$" #NT!
- roadofheaven_water_god_name: "$roadofheaven_health_god_name$" #NT!
- roadofheaven_water_god_name_possessive: "$roadofheaven_health_god_name_possessive$" #NT!
-  
-  #Noddist-Group Faiths 
-  
- viacaeli: "Via Caeli" #NT!
- viacaeli_adj: "Noddiste" #NT!
- viacaeli_adherent: "Noddiste" #NT!
- viacaeli_adherent_plural: "Noddistes" #NT!
- viacaeli_desc: "Selon l'Évangile de Laodice, un texte sacré [cainite|E], les principes de certaines routes Via Caeli proviennent de Caïn lui-même. Bien que Caïn ait été maudit par Dieu, il était également plus proche de Dieu que toute autre parenté ayant jamais existé. Les adeptes de Road of Heaven tentent de contrôler leur bête par la dévotion religieuse." #NT!
-  
- viadivinitatis: "Via Divinitatis" #NT!
- viadivinitatis_adj: "Diviniste" #NT!
- viadivinitatis_adherent: "Diviniste" #NT!
- viadivinitatis_adherent_plural: "Divinistes" #NT!
- viadivinitatis_desc: "Les fanatiques des Noddistes et prédécesseurs du Sabbat, adeptes de cette Route se considèrent favorisés par Dieu plutôt que maudits par Lui, les adeptes de la Divinité cherchent à contrôler les mortels et font appel au plus grand nombre de [cainites|E] possible pour rejoindre Via Caeli. Cette Voie est considérée par beaucoup comme la plus déviante des quatre." #NT!
-  
- viapenaculum: "Via Penaculum" #NT!
- viapenaculum_adj: "Pénaculum" #NT!
- viapenaculum_adherent: "Pénitent" #NT!
- viapenaculum_adherent_plural: "Pénitents" #NT!
- viapenaculum_desc: "Les fidèles qui suivent le chemin de la pénitence se considèrent indignes de Dieu, la plus basse des créatures à ses yeux. Aucune voie ne prend autant au sérieux les actes de contrition, car c’est la seule façon pour ces [cainites|E] d’obtenir l’illumination et la faveur aux yeux de Dieu." #NT!
-  
- viavindicta: "Via Vindicta" #NT!
- viavindicta_adj: "Vindicta" #NT!
- viavindicta_adherent: "Croisé" #NT!
- viavindicta_adherent_plural: "Croisés" #NT!
- viavindicta_desc: "Ces frères se considèrent comme la main courroucée de Dieu, détruisant ceux qui l'ont offensé. Tous ceux qui sont considérés comme mauvais ou infidèles à Dieu doivent être détruits. Ils ont tendance à chasser [cainites|E] qu'ils considèrent comme corrompus." #NT!
-  
- viadolorosa: "La Voie Douloureuse" #NT!
- viadolorosa_adj: "Douleur" #NT!
- viadolorosa_adherent: "Martyr" #NT!
- viadolorosa_adherent_plural: "Martyrs" #NT!
- viadolorosa_desc: "Martyrs du Sentier des Larmes, ces Noddistes s'offrent en sacrifices de morts-vivants pour que les autres n'aient pas à souffrir. Ils se sacrifieront volontiers pour mettre fin à toute corruption causée par tout ce qui est considéré comme impie, en particulier les démons ou autres [cainites|E]." #NT!
-  
- viachristi: "Via Christi" #NT!
- viachristi_adj: "Christi" #NT!
- viachristi_adherent: "Christian" #NT!
- viachristi_adherent_plural: "les chrétiens" #NT!
- viachristi_desc: "[cainites|E] qui ont été chrétiens dans leur vie peuvent choisir d'adhérer au chemin du Christ, en supposant que le plan de Dieu pour le monde inclut les vampires, et que rester obéissant à sa volonté les aidera à contrôler la bête." #NT!
-  
- derechchaim: "Derek Haïm" #NT!
- derechchaim_adj: "Derek Haïm" #NT!
- derechchaim_adherent: "Estries" #NT!
- derechchaim_adherent_plural: "Estrie" #NT!
- derechchaim_desc: "[cainites|E] qui ont été juifs dans leur vie peuvent choisir de suivre le chemin de la vie. Ils croient qu’HaShem a créé les vampires avec le reste du monde et que les lois de la Torah s’appliquent donc toujours à eux et fournissent des moyens de contrôler la Bête." #NT!
-  
- codeofsamiel: "Code de Samiel" #NT!
- codeofsamiel_adj: "Samiélite" #NT!
- codeofsamiel_adherent: "Samielites" #NT!
- codeofsamiel_adherent_plural: "Samiélite" #NT!
- codeofsamiel_desc: "Le plus grand de la lignée des guerriers de Saulot, le fondateur martyr Samiel aurait tracé cette route de sa propre main. Selon la légende, Samiel a reçu les principes fondamentaux de l'honneur et de la colère de la route lors d'une visite de Michael, commandant des armées célestes, alors que Saulot était absent." #NT!
-  
- viaarchangeli: "Via Archangeli" #NT!
- viaarchangeli_adj: "Néphilim" #NT!
- viaarchangeli_adherent: "Néphilim" #NT!
- viaarchangeli_adherent_plural: "Néphilim" #NT!
- viaarchangeli_desc: "Suivre les traces de Michael signifie agir comme une muse et un berger pour tous, et comme un martyr quand il le faut. En tant qu'adhérents à la Route du Ciel, les fidèles de l'Archange considèrent Michael comme le Christ ressuscité des Damnés et croient que les vampires doivent jouer le rôle d'anges envers leur troupeau mortel." #NT!
-  
- holy_order_order_of_bitter_ashes: "Ordre des Cendres Amères" #NT!
- holy_order_leper_knights: "Les chevaliers lépreux" #NT!
- holy_order_order_of_chanticleer: "Ordre du Chanticleer" #NT!
- holy_order_the_unblooded: "Les sans sang" #NT!
- holy_order_order_of_laodicea: "Ordre de Laodice" #NT!
- holy_order_order_of_nod: "Ordre de signe de tête" #NT!
- holy_order_the_faithful: "Les fidèles" #NT!
- holy_order_order_of_divinity: "Ordre de la Divinité" #NT!
- holy_order_holy_order_of_vengeance: "Le Très Saint Ordre de la Vengeance" #NT!
- holy_order_order_of_penitence: "Ordre de pénitence" #NT!
- holy_order_martyrs_of_tears: "Les martyrs des larmes" #NT!
- holy_order_order_of_terafim: "Ordre de Terafim" #NT!
- holy_order_order_of_estries: "Ordre des Estries" #NT!
-  
- consumptionism: "Consommationnisme" #NT!
- consumptionism_adj: "Consommationnisme" #NT!
- consumptionism_adherent: "Consommationniste" #NT!
- consumptionism_adherent_plural: "Consommationnistes" #NT!
- consumptionism_desc: "Dieu est mort, diabolisé par Caïn. Puis Caïn engendra une autre génération, et l'étincelle de Dieu en lui fut divisée. En tant que tels, les consuméristes pensent qu'aucune vie de vampire ne doit être tuée... à moins que l'étincelle de Dieu en lui ne soit récupérée par [diablerie|E]." #NT!
-  
- divisionism: "Divisionnisme" #NT!
- divisionism_adj: "Divisionnisme" #NT!
- divisionism_adherent: "Divisionniste" #NT!
- divisionism_adherent_plural: "Divisionnistes" #NT!
- divisionism_desc: "Dieu a partagé son essence avec tous les vampires, mais seuls les fidèles sont assez saints pour le mériter. En tant que tels, les divisionnistes cherchent à convertir ou [diablerize|E] d’autres vampires." #NT!
-  
- viaaesigard: "Via Aesigard" #NT!
- viaaesigard_adj: "Aesigard" #NT!
- viaaesigard_adherent: "Aesigard" #NT!
- viaaesigard_adherent_plural: "Aesigards" #NT!
- viaaesigard_desc: "Les anciennes coutumes et traditions nordiques doivent être respectées, et les vampires ne sont pas des dieux ni même choisis par les dieux. Ils sont liés au destin, comme tous les Nordiques.\nLe sage Aesigard cherche à répandre les Sagas afin que la vérité soit connue, même si la fin est déjà écrite." #NT!
-  
- vianoctis: "Via Noctis" #NT!
- vianoctis_adj: "Noctis" #NT!
- vianoctis_adherent: "Rédempteur" #NT!
- vianoctis_adherent_plural: "Rédempteurs" #NT!
- vianoctis_desc: "Les Rédempteurs ressentent le poids de la malédiction de Caïn et de leur propre damnation, encore plus que ceux qui suivent Via Caeli. Tout comme les Noddistes, les Rédempteurs recherchent la rédemption et le pardon, et pour les mériter, il faut souffrir et se purifier. Cependant, au lieu de suivre les voies plutôt inoffensives des Noddistes, les Rédempteurs parcourent activement le monde des hommes, punissant et tuant les pécheurs mortels." #NT!
-  
- pathoftheheavenlyabode: "Chemin de la Demeure Céleste" #NT!
- pathoftheheavenlyabode_adj: "Céleste" #NT!
- pathoftheheavenlyabode_adherent: "Vengeur" #NT!
- pathoftheheavenlyabode_adherent_plural: "Vengeurs" #NT!
- pathoftheheavenlyabode_desc: "Les adeptes de cette voie croient que, pour vraiment sauver une âme, le corps mortel doit être détruit dès que l'âme a trouvé la rédemption, afin d'éviter une nouvelle corruption." #NT!
-  
- viaredemptio: "Via Rédemption" #NT!
- viaredemptio_adj: "Racheté" #NT!
- viaredemptio_adherent: "Racheté" #NT!
- viaredemptio_adherent_plural: "Racheté" #NT!
- viaredemptio_desc: "Via Redemptio est une déviation agressive de Via Penaculum. Ils acceptent qu'ils ont été maudits par Dieu pour leurs péchés et doivent les expier, mais n'hésiteront pas à prendre des mesures agressives contre les démons et les pécheurs pour racheter leur âme." #NT!
-  
-  
+    #Common Road of Heaven Localization
+    roadofheaven_religion: "Route du Ciel"
+    roadofheaven_religion_adj: "Route du Ciel"
+    roadofheaven_religion_adherent: "Noddiste"
+    roadofheaven_religion_adherent_plural: "Noddistes"
+    roadofheaven_religion_desc: "Kindred essayant de suivre les conseils du divin. Cette voie englobe de nombreuses religions, parfois même antagonistes."
+    roadofheaven_high_god_name: "Dieu"
+    roadofheaven_high_god_name_possessive: "Dieux"
+    roadofheaven_high_god_name_alternate: "Le Dieu"
+    roadofheaven_high_god_name_alternate_possessive: "Les dieux"
+    roadofheaven_good_god_jesus: "$roadofheaven_health_god_name$"
+    roadofheaven_good_god_christ: "Christ"
+    roadofheaven_devil_name: "Le diable"
+    roadofheaven_devil_name_possessive: "Le Diable"
+    roadofheaven_evil_god_lucifer: "Le diable"
+    roadofheaven_evil_god_beelzebub: "Le diable"
+    roadofheaven_evil_god_mephistopheles: "Le diable"
+    roadofheaven_death_deity_name: "Destruction"
+    roadofheaven_death_deity_name_possessive: "Destruction"
+    roadofheaven_house_of_worship: "chapelle"
+    roadofheaven_house_of_worship_plural: "chapelles"
+    roadofheaven_religious_symbol: "croix"
+    roadofheaven_religious_text: "Évangile de Laodice"
+    roadofheaven_religious_head_title: "principe de foi"
+    roadofheaven_religious_head_title_name: "principe de foi"
+    roadofheaven_devotee_male: "principe de foi"
+    roadofheaven_devotee_male_plural: "principes de foi"
+    roadofheaven_devotee_female: "principe de foi"
+    roadofheaven_devotee_female_plural: "principes de foi"
+    roadofheaven_devotee_neuter: "principe de foi"
+    roadofheaven_devotee_neuter_plural: "principes de foi"
+    roadofheaven_priest_male: "principe de foi"
+    roadofheaven_priest_male_plural: "principes de foi"
+    roadofheaven_priest_alternate_plural: "principes de foi"
+    roadofheaven_bishop: "évêque"
+    roadofheaven_bishop_plural: "évêques"
+    roadofheaven_divine_realm: "paradis"
+    roadofheaven_positive_afterlife: "paradis"
+    roadofheaven_negative_afterlife: "les abysses"
+    roadofheaven_witchgodname_the_horned_god: "le diable"
+    roadofheaven_witchgodname_the_horned_god_possessive: "le diable"
+
+    roadofheaven_creator_god_name: "$roadofheaven_high_god_name$"
+    roadofheaven_creator_god_name_possessive: "$roadofheaven_high_god_name_possessive$"
+    roadofheaven_health_god_name: "Dieu"
+    roadofheaven_health_god_name_possessive: "Dieux"
+    roadofheaven_fertility_god_name: "$roadofheaven_high_god_name$"
+    roadofheaven_fertility_god_name_possessive: "$roadofheaven_high_god_name_possessive$"
+    roadofheaven_wealth_god_name: "$roadofheaven_high_god_name$"
+    roadofheaven_wealth_god_name_possessive: "$roadofheaven_high_god_name_possessive$"
+    roadofheaven_household_god_name: "$roadofheaven_health_god_name$"
+    roadofheaven_household_god_name_possessive: "$roadofheaven_health_god_name_possessive$"
+    roadofheaven_fate_god_name: "$roadofheaven_high_god_name$"
+    roadofheaven_fate_god_name_possessive: "$roadofheaven_high_god_name_possessive$"
+    roadofheaven_knowledge_god_name: "$roadofheaven_high_god_name$"
+    roadofheaven_knowledge_god_name_possessive: "$roadofheaven_high_god_name_possessive$"
+    roadofheaven_war_god_name: "$roadofheaven_high_god_name$"
+    roadofheaven_war_god_name_possessive: "$roadofheaven_high_god_name_possessive$"
+    roadofheaven_trickster_god_name: "Fortune"
+    roadofheaven_trickster_god_name_possessive: "La Fortune"
+    roadofheaven_night_god_name: "$roadofheaven_high_god_name$"
+    roadofheaven_night_god_name_possessive: "$roadofheaven_high_god_name_possessive$"
+    roadofheaven_water_god_name: "$roadofheaven_health_god_name$"
+    roadofheaven_water_god_name_possessive:
+        "$roadofheaven_health_god_name_possessive$"
+
+        #Noddist-Group Faiths
+
+    viacaeli: "Via Caeli"
+    viacaeli_adj: "Noddiste"
+    viacaeli_adherent: "Noddiste"
+    viacaeli_adherent_plural: "Noddistes"
+    viacaeli_desc: "Selon l'Évangile de Laodice, un texte sacré [cainite|E], les principes de certaines routes Via Caeli proviennent de Caïn lui-même. Bien que Caïn ait été maudit par Dieu, il était également plus proche de Dieu que toute autre parenté ayant jamais existé. Les adeptes de Road of Heaven tentent de contrôler leur bête par la dévotion religieuse."
+
+    viadivinitatis: "Via Divinitatis"
+    viadivinitatis_adj: "Diviniste"
+    viadivinitatis_adherent: "Diviniste"
+    viadivinitatis_adherent_plural: "Divinistes"
+    viadivinitatis_desc: "Les fanatiques des Noddistes et prédécesseurs du Sabbat, adeptes de cette Route se considèrent favorisés par Dieu plutôt que maudits par Lui, les adeptes de la Divinité cherchent à contrôler les mortels et font appel au plus grand nombre de [cainites|E] possible pour rejoindre Via Caeli. Cette Voie est considérée par beaucoup comme la plus déviante des quatre."
+
+    viapenaculum: "Via Penaculum"
+    viapenaculum_adj: "Pénaculum"
+    viapenaculum_adherent: "Pénitent"
+    viapenaculum_adherent_plural: "Pénitents"
+    viapenaculum_desc: "Les fidèles qui suivent le chemin de la pénitence se considèrent indignes de Dieu, la plus basse des créatures à ses yeux. Aucune voie ne prend autant au sérieux les actes de contrition, car c’est la seule façon pour ces [cainites|E] d’obtenir l’illumination et la faveur aux yeux de Dieu."
+
+    viavindicta: "Via Vindicta"
+    viavindicta_adj: "Vindicta"
+    viavindicta_adherent: "Croisé"
+    viavindicta_adherent_plural: "Croisés"
+    viavindicta_desc: "Ces frères se considèrent comme la main courroucée de Dieu, détruisant ceux qui l'ont offensé. Tous ceux qui sont considérés comme mauvais ou infidèles à Dieu doivent être détruits. Ils ont tendance à chasser [cainites|E] qu'ils considèrent comme corrompus."
+
+    viadolorosa: "La Voie Douloureuse"
+    viadolorosa_adj: "Douleur"
+    viadolorosa_adherent: "Martyr"
+    viadolorosa_adherent_plural: "Martyrs"
+    viadolorosa_desc: "Martyrs du Sentier des Larmes, ces Noddistes s'offrent en sacrifices de morts-vivants pour que les autres n'aient pas à souffrir. Ils se sacrifieront volontiers pour mettre fin à toute corruption causée par tout ce qui est considéré comme impie, en particulier les démons ou autres [cainites|E]."
+
+    viachristi: "Via Christi"
+    viachristi_adj: "Christi"
+    viachristi_adherent: "Christian"
+    viachristi_adherent_plural: "les chrétiens"
+    viachristi_desc: "[cainites|E] qui ont été chrétiens dans leur vie peuvent choisir d'adhérer au chemin du Christ, en supposant que le plan de Dieu pour le monde inclut les vampires, et que rester obéissant à sa volonté les aidera à contrôler la bête."
+
+    derechchaim: "Derek Haïm"
+    derechchaim_adj: "Derek Haïm"
+    derechchaim_adherent: "Estries"
+    derechchaim_adherent_plural: "Estrie"
+    derechchaim_desc: "[cainites|E] qui ont été juifs dans leur vie peuvent choisir de suivre le chemin de la vie. Ils croient qu’HaShem a créé les vampires avec le reste du monde et que les lois de la Torah s’appliquent donc toujours à eux et fournissent des moyens de contrôler la Bête."
+
+    codeofsamiel: "Code de Samiel"
+    codeofsamiel_adj: "Samiélite"
+    codeofsamiel_adherent: "Samielites"
+    codeofsamiel_adherent_plural: "Samiélite"
+    codeofsamiel_desc: "Le plus grand de la lignée des guerriers de Saulot, le fondateur martyr Samiel aurait tracé cette route de sa propre main. Selon la légende, Samiel a reçu les principes fondamentaux de l'honneur et de la colère de la route lors d'une visite de Michael, commandant des armées célestes, alors que Saulot était absent."
+
+    viaarchangeli: "Via Archangeli"
+    viaarchangeli_adj: "Néphilim"
+    viaarchangeli_adherent: "Néphilim"
+    viaarchangeli_adherent_plural: "Néphilim"
+    viaarchangeli_desc: "Suivre les traces de Michael signifie agir comme une muse et un berger pour tous, et comme un martyr quand il le faut. En tant qu'adhérents à la Route du Ciel, les fidèles de l'Archange considèrent Michael comme le Christ ressuscité des Damnés et croient que les vampires doivent jouer le rôle d'anges envers leur troupeau mortel."
+
+    holy_order_order_of_bitter_ashes: "Ordre des Cendres Amères"
+    holy_order_leper_knights: "Les chevaliers lépreux"
+    holy_order_order_of_chanticleer: "Ordre du Chanticleer"
+    holy_order_the_unblooded: "Les sans sang"
+    holy_order_order_of_laodicea: "Ordre de Laodice"
+    holy_order_order_of_nod: "Ordre de signe de tête"
+    holy_order_the_faithful: "Les fidèles"
+    holy_order_order_of_divinity: "Ordre de la Divinité"
+    holy_order_holy_order_of_vengeance: "Le Très Saint Ordre de la Vengeance"
+    holy_order_order_of_penitence: "Ordre de pénitence"
+    holy_order_martyrs_of_tears: "Les martyrs des larmes"
+    holy_order_order_of_terafim: "Ordre de Terafim"
+    holy_order_order_of_estries: "Ordre des Estries"
+
+    consumptionism: "Consommationnisme"
+    consumptionism_adj: "Consommationnisme"
+    consumptionism_adherent: "Consommationniste"
+    consumptionism_adherent_plural: "Consommationnistes"
+    consumptionism_desc: "Dieu est mort, diabolisé par Caïn. Puis Caïn engendra une autre génération, et l'étincelle de Dieu en lui fut divisée. En tant que tels, les consuméristes pensent qu'aucune vie de vampire ne doit être tuée... à moins que l'étincelle de Dieu en lui ne soit récupérée par [diablerie|E]."
+
+    divisionism: "Divisionnisme"
+    divisionism_adj: "Divisionnisme"
+    divisionism_adherent: "Divisionniste"
+    divisionism_adherent_plural: "Divisionnistes"
+    divisionism_desc: "Dieu a partagé son essence avec tous les vampires, mais seuls les fidèles sont assez saints pour le mériter. En tant que tels, les divisionnistes cherchent à convertir ou [diablerize|E] d’autres vampires."
+
+    viaaesigard: "Via Aesigard"
+    viaaesigard_adj: "Aesigard"
+    viaaesigard_adherent: "Aesigard"
+    viaaesigard_adherent_plural: "Aesigards"
+    viaaesigard_desc: "Les anciennes coutumes et traditions nordiques doivent être respectées, et les vampires ne sont pas des dieux ni même choisis par les dieux. Ils sont liés au destin, comme tous les Nordiques.\nLe sage Aesigard cherche à répandre les Sagas afin que la vérité soit connue, même si la fin est déjà écrite."
+
+    vianoctis: "Via Noctis"
+    vianoctis_adj: "Noctis"
+    vianoctis_adherent: "Rédempteur"
+    vianoctis_adherent_plural: "Rédempteurs"
+    vianoctis_desc: "Les Rédempteurs ressentent le poids de la malédiction de Caïn et de leur propre damnation, encore plus que ceux qui suivent Via Caeli. Tout comme les Noddistes, les Rédempteurs recherchent la rédemption et le pardon, et pour les mériter, il faut souffrir et se purifier. Cependant, au lieu de suivre les voies plutôt inoffensives des Noddistes, les Rédempteurs parcourent activement le monde des hommes, punissant et tuant les pécheurs mortels."
+
+    pathoftheheavenlyabode: "Chemin de la Demeure Céleste"
+    pathoftheheavenlyabode_adj: "Céleste"
+    pathoftheheavenlyabode_adherent: "Vengeur"
+    pathoftheheavenlyabode_adherent_plural: "Vengeurs"
+    pathoftheheavenlyabode_desc: "Les adeptes de cette voie croient que, pour vraiment sauver une âme, le corps mortel doit être détruit dès que l'âme a trouvé la rédemption, afin d'éviter une nouvelle corruption."
+
+    viaredemptio: "Via Rédemption"
+    viaredemptio_adj: "Racheté"
+    viaredemptio_adherent: "Racheté"
+    viaredemptio_adherent_plural: "Racheté"
+    viaredemptio_desc: "Via Redemptio est une déviation agressive de Via Penaculum. Ils acceptent qu'ils ont été maudits par Dieu pour leurs péchés et doivent les expier, mais n'hésiteront pas à prendre des mesures agressives contre les démons et les pécheurs pour racheter leur âme."

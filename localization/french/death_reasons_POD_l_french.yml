@@ -1,68 +1,68 @@
 ﻿l_french:
- death_diablerie: "a été consommé" #NT!
- death_diablerie_killer: "a été consommé par [TARGET_CHARACTER.GetUIName]" #NT!
- death_unknown_diablerie: "a été consommé par un vampire inconnu" #NT!
- death_antediluvian: "disparu, présumé mort de la main de leur Childer" #NT!
- death_certamen: "a été tué dans un Certámen par [TARGET_CHARACTER.GetUIName]" #NT!
- death_final_death: "ont vécu leur mort définitive" #NT!
- death_hundred_clouds: "est monté dans les Cent Nuages" #NT!
- death_sun: "a été détruit par la lumière du soleil" #NT!
- death_reitred: "ne peut plus jouer un rôle actif dans vos affaires" #NT!
- death_lost_all_life_force: "perdu toute force vitale" #NT!
- death_hunted_diplomacy: "a été vaincu par un chasseur" #NT!
- death_hunted_diplomacy_killer: "a été vaincu par le véhément [TARGET_CHARACTER.GetUIName]" #NT!
- death_hunted_martial: "a été détruit par les chasseurs" #NT!
- death_hunted_martial_killer: "a été détruit par des chasseurs dirigés par le noble [TARGET_CHARACTER.GetUIName]" #NT!
- death_hunted_intrigue: "a été traîné au soleil par un chasseur" #NT!
- death_hunted_intrigue_killer: "a été entraîné au soleil par le rusé [TARGET_CHARACTER.GetUIName]" #NT!
- death_hunted_stewardship: "a été acculé et détruit par un chasseur" #NT!
- death_hunted_stewardship_killer: "a été acculé et détruit par les sages [TARGET_CHARACTER.GetUIName]" #NT!
- death_hunted_learning: "a été envoyé directement en enfer par un chasseur" #NT!
- death_hunted_learning_killer: "a été envoyé directement en enfer par le pieux [TARGET_CHARACTER.GetUIName]" #NT!
- death_hunted_prowess: "a rencontré la mort finale aux mains d'un chasseur" #NT!
- death_hunted_prowess_killer: "a rencontré la mort finale aux mains des intrépides [TARGET_CHARACTER.GetUIName]" #NT!
- death_hunt_backfired_dip: "un vampire manipulateur lui a montré le vrai visage de l'humanité" #NT!
- death_hunt_backfired_dip_killer: "[TARGET_CHARACTER.GetUIName] a montré le vrai visage de l'humanité" #NT!
- death_hunt_backfired_mar: "Conduit imprudemment [CHARACTER.GetHerHis] hommes dans le refuge d'un vampire" #NT!
- death_hunt_backfired_mar_killer: "Conduit imprudemment [CHARACTER.GetHerHis] hommes dans [TARGET_CHARACTER.GetUINamePossessive] refuge" #NT!
- death_hunt_backfired_ste: "a péri dans une tentative stupide de traquer un vampire" #NT!
- death_hunt_backfired_ste_killer: "a péri dans une tentative stupide de traquer [TARGET_CHARACTER.GetUIName]" #NT!
- death_hunt_backfired_int: "J'ai appris une amère leçon sur le subterfuge en chassant un vampire" #NT!
- death_hunt_backfired_int_killer: "J'ai appris une amère leçon sur le subterfuge grâce à [TARGET_CHARACTER.GetUIName]" #NT!
- death_hunt_backfired_lea: "je pensais que [CHARACTER.GetSheHe] pouvait affronter un vampire armé d'un livre" #NT!
- death_hunt_backfired_lea_killer: "je pensais que [CHARACTER.GetSheHe] pourrait affronter [TARGET_CHARACTER.GetUIName] armé d'un livre" #NT!
- death_hunt_backfired_pro: "J'ai payé le prix pour avoir affronté un vampire" #NT!
- death_hunt_backfired_pro_killer: "j'ai payé le prix pour avoir affronté [TARGET_CHARACTER.GetUIName]" #NT!
- death_wrath_of_god: "a été frappé par le Dieu Tout-Puissant" #NT!
- death_wrath_of_god_killer: "a été frappé par le Dieu Tout-Puissant à la demande de [TARGET_CHARACTER.GetUIName]" #NT!
- death_soulforging: "a été forgé par l'âme pour devenir un artefact" #NT!
- death_soulforging_killer: "a été forgé par [TARGET_CHARACTER.GetUIName]" #NT!
- death_existence_erased: "a été effacé de l'existence" #NT!
- death_existence_erased_killer: "a été effacé par [TARGET_CHARACTER.GetUIName]" #NT!
- death_failed_embrace: "a été tué lors d'une étreinte ratée" #NT!
- death_failed_embrace_killer: "a été tué lors d'une étreinte ratée par [TARGET_CHARACTER.GetUIName]" #NT!
- death_wok_duel: "a été tué par un assassin Web of Knives" #NT!
- death_wok_duel_killer: "a été tué par l'assassin Web of Knives [TARGET_CHARACTER.GetUIName]" #NT!
- death_lightning: "mort par la foudre" #NT!
- death_lightning_killer: "était mort à cause d'un coup de foudre invoqué par [TARGET_CHARACTER.GetUIName]" #NT!
- death_soultaker: "a été absorbé par le preneur d'âme" #NT!
- death_soultaker_killer: "a été absorbé par le preneur d'âme par [TARGET_CHARACTER.GetUIName]" #NT!
- death_lost_all_corpus: "tout perdu [Corpus|E]" #NT!
- death_lost_all_corpus_killer: "avait [CHARACTER.GetHerHis] [Corpus|E] complètement vidé par [TARGET_CHARACTER.GetUIName]" #NT!
- death_bloodloss: "perdu tout son sang" #NT!
- death_bloodloss_killer: "a été vidé par [TARGET_CHARACTER.GetUIName]" #NT!
- death_fleshcrafting: "a été transformé en artefact" #NT!
- death_fleshcrafting_killer: "a été créé par [TARGET_CHARACTER.GetUIName]" #NT!
- death_colosseum_wolves: "a été déchiré par les loups dans le Colisée" #NT!
- death_colosseum_wolves_killer: "a été déchiré par des loups dans le Colisée du [TARGET_CHARACTER.GetUIName]" #NT!
- death_colosseum_lions: "a été déchiré par des lions dans le Colisée" #NT!
- death_colosseum_lions_killer: "a été déchiré par des lions dans le Colisée du [TARGET_CHARACTER.GetUIName]" #NT!
- death_vatican_massacre: "a été saigné lors d'un violent carnage à Rome" #NT!
- death_vatican_massacre_killer: "a été saigné lors du déchaînement du [TARGET_CHARACTER.GetUINamePossessive] à Rome" #NT!
- death_true_faith: "a été réduit en cendres par True Faith" #NT!
- death_true_faith_killer: "a été réduit en cendres par la Vraie Foi du [TARGET_CHARACTER.GetUIName]" #NT!
- death_howl: "détruit par un puissant hurlement" #NT!
- death_howl_killer: "avait détruit par un puissant hurlement invoqué par [TARGET_CHARACTER.GetUIName]" #NT!
- death_souleaten: "a été consommé" #NT!
- death_souleaten_killer: "a été consommé par [TARGET_CHARACTER.GetUIName]" #NT!
- death_unwilling_suicide: "s'est suicidé" #NT!
+    death_diablerie: "a été consommé"
+    death_diablerie_killer: "a été consommé par [TARGET_CHARACTER.GetUIName]"
+    death_unknown_diablerie: "a été consommé par un vampire inconnu"
+    death_antediluvian: "disparu, présumé mort de la main de leur Childer"
+    death_certamen: "a été tué dans un Certámen par [TARGET_CHARACTER.GetUIName]"
+    death_final_death: "ont vécu leur mort définitive"
+    death_hundred_clouds: "est monté dans les Cent Nuages"
+    death_sun: "a été détruit par la lumière du soleil"
+    death_reitred: "ne peut plus jouer un rôle actif dans vos affaires"
+    death_lost_all_life_force: "perdu toute force vitale"
+    death_hunted_diplomacy: "a été vaincu par un chasseur"
+    death_hunted_diplomacy_killer: "a été vaincu par le véhément [TARGET_CHARACTER.GetUIName]"
+    death_hunted_martial: "a été détruit par les chasseurs"
+    death_hunted_martial_killer: "a été détruit par des chasseurs dirigés par le noble [TARGET_CHARACTER.GetUIName]"
+    death_hunted_intrigue: "a été traîné au soleil par un chasseur"
+    death_hunted_intrigue_killer: "a été entraîné au soleil par le rusé [TARGET_CHARACTER.GetUIName]"
+    death_hunted_stewardship: "a été acculé et détruit par un chasseur"
+    death_hunted_stewardship_killer: "a été acculé et détruit par les sages [TARGET_CHARACTER.GetUIName]"
+    death_hunted_learning: "a été envoyé directement en enfer par un chasseur"
+    death_hunted_learning_killer: "a été envoyé directement en enfer par le pieux [TARGET_CHARACTER.GetUIName]"
+    death_hunted_prowess: "a rencontré la mort finale aux mains d'un chasseur"
+    death_hunted_prowess_killer: "a rencontré la mort finale aux mains des intrépides [TARGET_CHARACTER.GetUIName]"
+    death_hunt_backfired_dip: "un vampire manipulateur lui a montré le vrai visage de l'humanité"
+    death_hunt_backfired_dip_killer: "[TARGET_CHARACTER.GetUIName] a montré le vrai visage de l'humanité"
+    death_hunt_backfired_mar: "Conduit imprudemment [CHARACTER.GetHerHis] hommes dans le refuge d'un vampire"
+    death_hunt_backfired_mar_killer: "Conduit imprudemment [CHARACTER.GetHerHis] hommes dans [TARGET_CHARACTER.GetUINamePossessive] refuge"
+    death_hunt_backfired_ste: "a péri dans une tentative stupide de traquer un vampire"
+    death_hunt_backfired_ste_killer: "a péri dans une tentative stupide de traquer [TARGET_CHARACTER.GetUIName]"
+    death_hunt_backfired_int: "J'ai appris une amère leçon sur le subterfuge en chassant un vampire"
+    death_hunt_backfired_int_killer: "J'ai appris une amère leçon sur le subterfuge grâce à [TARGET_CHARACTER.GetUIName]"
+    death_hunt_backfired_lea: "je pensais que [CHARACTER.GetSheHe] pouvait affronter un vampire armé d'un livre"
+    death_hunt_backfired_lea_killer: "je pensais que [CHARACTER.GetSheHe] pourrait affronter [TARGET_CHARACTER.GetUIName] armé d'un livre"
+    death_hunt_backfired_pro: "J'ai payé le prix pour avoir affronté un vampire"
+    death_hunt_backfired_pro_killer: "j'ai payé le prix pour avoir affronté [TARGET_CHARACTER.GetUIName]"
+    death_wrath_of_god: "a été frappé par le Dieu Tout-Puissant"
+    death_wrath_of_god_killer: "a été frappé par le Dieu Tout-Puissant à la demande de [TARGET_CHARACTER.GetUIName]"
+    death_soulforging: "a été forgé par l'âme pour devenir un artefact"
+    death_soulforging_killer: "a été forgé par [TARGET_CHARACTER.GetUIName]"
+    death_existence_erased: "a été effacé de l'existence"
+    death_existence_erased_killer: "a été effacé par [TARGET_CHARACTER.GetUIName]"
+    death_failed_embrace: "a été tué lors d'une étreinte ratée"
+    death_failed_embrace_killer: "a été tué lors d'une étreinte ratée par [TARGET_CHARACTER.GetUIName]"
+    death_wok_duel: "a été tué par un assassin Web of Knives"
+    death_wok_duel_killer: "a été tué par l'assassin Web of Knives [TARGET_CHARACTER.GetUIName]"
+    death_lightning: "mort par la foudre"
+    death_lightning_killer: "était mort à cause d'un coup de foudre invoqué par [TARGET_CHARACTER.GetUIName]"
+    death_soultaker: "a été absorbé par le preneur d'âme"
+    death_soultaker_killer: "a été absorbé par le preneur d'âme par [TARGET_CHARACTER.GetUIName]"
+    death_lost_all_corpus: "tout perdu [Corpus|E]"
+    death_lost_all_corpus_killer: "avait [CHARACTER.GetHerHis] [Corpus|E] complètement vidé par [TARGET_CHARACTER.GetUIName]"
+    death_bloodloss: "perdu tout son sang"
+    death_bloodloss_killer: "a été vidé par [TARGET_CHARACTER.GetUIName]"
+    death_fleshcrafting: "a été transformé en artefact"
+    death_fleshcrafting_killer: "a été créé par [TARGET_CHARACTER.GetUIName]"
+    death_colosseum_wolves: "a été déchiré par les loups dans le Colisée"
+    death_colosseum_wolves_killer: "a été déchiré par des loups dans le Colisée du [TARGET_CHARACTER.GetUIName]"
+    death_colosseum_lions: "a été déchiré par des lions dans le Colisée"
+    death_colosseum_lions_killer: "a été déchiré par des lions dans le Colisée du [TARGET_CHARACTER.GetUIName]"
+    death_vatican_massacre: "a été saigné lors d'un violent carnage à Rome"
+    death_vatican_massacre_killer: "a été saigné lors du déchaînement du [TARGET_CHARACTER.GetUINamePossessive] à Rome"
+    death_true_faith: "a été réduit en cendres par True Faith"
+    death_true_faith_killer: "a été réduit en cendres par la Vraie Foi du [TARGET_CHARACTER.GetUIName]"
+    death_howl: "détruit par un puissant hurlement"
+    death_howl_killer: "avait détruit par un puissant hurlement invoqué par [TARGET_CHARACTER.GetUIName]"
+    death_souleaten: "a été consommé"
+    death_souleaten_killer: "a été consommé par [TARGET_CHARACTER.GetUIName]"
+    death_unwilling_suicide: "s'est suicidé"

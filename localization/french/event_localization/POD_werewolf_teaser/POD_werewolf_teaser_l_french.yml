@@ -1,20 +1,18 @@
 ﻿l_french:
-  
- POD_werewolf_teaser.100.t: "Une surprise!" #NT!
- POD_werewolf_teaser.100.desc: "Pendant que vous êtes à la chasse, vous apercevez soudain un loup de neuf pieds de haut debout sur ses pattes arrière ! Il ne vous voit pas encore tout à fait. Que fais-tu?" #NT!
- POD_werewolf_teaser.100.option.a: "Fuyez!" #NT!
- POD_werewolf_teaser.100.option.a.tt: "Est-ce de toute façon pour découvrir le nouveau contenu que les joueurs réclament depuis le lancement du mod ?" #NT!
- POD_werewolf_teaser.100.option.b: "Tuez le lupin !" #NT!
- POD_werewolf_teaser.100.option.b.tt: "Les joueurs l'attendaient depuis plus d'un an ! Faisons cela!" #NT!
- POD_werewolf_teaser.300.t: "Le hurlement des loups" #NT!
- POD_werewolf_teaser.300.desc: "Vous avez battu le lupin et lui avez prélevé son sang ! Quelle bête redoutable c’était. Vous ne pouvez pas vous empêcher de vous demander combien d'autres parcourent ces terres et si vous les verrez dans le futur.\n\nAu loin, vous entendez les hurlements d'une meute de loups." #NT!
- POD_werewolf_teaser.300.option.a: "'Est-ce tout ce qu'il ya?'" #NT!
- POD_werewolf_teaser.300.option.a.tt: "Un tout nouveau splat va prendre du temps. Lorsque nous publierons entièrement les personnages loups-garous jouables, nous voulons qu'ils aient au moins la profondeur et la complexité de l'ajout de chasseurs au mod ; avec des mécaniques de jeu qui apportent un style de jeu différent. Si vous avez des idées sur la façon dont nous devrions créer des loups-garous dans Princes of Darkness Mod, c'est le moment de nous le dire. Sautez sur notre Discord et faites-le-nous savoir !" #NT!
- POD_werewolf_teaser.400.t: "Le hurlement des loups" #NT!
- POD_werewolf_teaser.400.desc: "Alors que la redoutable bête ferme ses mâchoires autour de votre gorge, vous vous demandez si c'est la fin. Est-ce votre mort définitive ? Vos derniers instants sont consacrés au combat avec cette créature impressionnante et terrible. Y en a-t-il bien d'autres semblables ?\n\nAu loin, vous entendez les hurlements d'une meute de loups.\n\nLe lupin vous arrache alors la tête de votre corps." #NT!
- POD_werewolf_teaser.400.option.a: "'Est-ce tout ce qu'il ya?'" #NT!
- POD_werewolf_teaser.400.option.a.tt: "Un tout nouveau splat va prendre du temps. Lorsque nous publierons entièrement les personnages loups-garous jouables, nous voulons qu'ils aient au moins la profondeur et la complexité de l'ajout de chasseurs au mod ; avec des mécaniques de jeu qui apportent un style de jeu différent. Si vous avez des idées sur la façon dont nous devrions créer des loups-garous dans Princes of Darkness Mod, c'est le moment de nous le dire. Sautez sur notre Discord et faites-le-nous savoir !" #NT!
- POD_werewolf_teaser_hunting_tt: "Si vous descendez dans les bois ce soir, vous aurez une grosse surprise." #NT!
- POD_hunting_accident_tt: "Vous avez un accident en chassant." #NT!
- POD_hunting_success_tt: "Vous avez une chasse réussie." #NT!
-  
+    POD_werewolf_teaser.100.t: "Une surprise!"
+    POD_werewolf_teaser.100.desc: "Pendant que vous êtes à la chasse, vous apercevez soudain un loup de neuf pieds de haut debout sur ses pattes arrière ! Il ne vous voit pas encore tout à fait. Que fais-tu?"
+    POD_werewolf_teaser.100.option.a: "Fuyez!"
+    POD_werewolf_teaser.100.option.a.tt: "Est-ce de toute façon pour découvrir le nouveau contenu que les joueurs réclament depuis le lancement du mod ?"
+    POD_werewolf_teaser.100.option.b: "Tuez le lupin !"
+    POD_werewolf_teaser.100.option.b.tt: "Les joueurs l'attendaient depuis plus d'un an ! Faisons cela!"
+    POD_werewolf_teaser.300.t: "Le hurlement des loups"
+    POD_werewolf_teaser.300.desc: "Vous avez battu le lupin et lui avez prélevé son sang ! Quelle bête redoutable c’était. Vous ne pouvez pas vous empêcher de vous demander combien d'autres parcourent ces terres et si vous les verrez dans le futur.\n\nAu loin, vous entendez les hurlements d'une meute de loups."
+    POD_werewolf_teaser.300.option.a: "'Est-ce tout ce qu'il ya?'"
+    POD_werewolf_teaser.300.option.a.tt: "Un tout nouveau splat va prendre du temps. Lorsque nous publierons entièrement les personnages loups-garous jouables, nous voulons qu'ils aient au moins la profondeur et la complexité de l'ajout de chasseurs au mod ; avec des mécaniques de jeu qui apportent un style de jeu différent. Si vous avez des idées sur la façon dont nous devrions créer des loups-garous dans Princes of Darkness Mod, c'est le moment de nous le dire. Sautez sur notre Discord et faites-le-nous savoir !"
+    POD_werewolf_teaser.400.t: "Le hurlement des loups"
+    POD_werewolf_teaser.400.desc: "Alors que la redoutable bête ferme ses mâchoires autour de votre gorge, vous vous demandez si c'est la fin. Est-ce votre mort définitive ? Vos derniers instants sont consacrés au combat avec cette créature impressionnante et terrible. Y en a-t-il bien d'autres semblables ?\n\nAu loin, vous entendez les hurlements d'une meute de loups.\n\nLe lupin vous arrache alors la tête de votre corps."
+    POD_werewolf_teaser.400.option.a: "'Est-ce tout ce qu'il ya?'"
+    POD_werewolf_teaser.400.option.a.tt: "Un tout nouveau splat va prendre du temps. Lorsque nous publierons entièrement les personnages loups-garous jouables, nous voulons qu'ils aient au moins la profondeur et la complexité de l'ajout de chasseurs au mod ; avec des mécaniques de jeu qui apportent un style de jeu différent. Si vous avez des idées sur la façon dont nous devrions créer des loups-garous dans Princes of Darkness Mod, c'est le moment de nous le dire. Sautez sur notre Discord et faites-le-nous savoir !"
+    POD_werewolf_teaser_hunting_tt: "Si vous descendez dans les bois ce soir, vous aurez une grosse surprise."
+    POD_hunting_accident_tt: "Vous avez un accident en chassant."
+    POD_hunting_success_tt: "Vous avez une chasse réussie."

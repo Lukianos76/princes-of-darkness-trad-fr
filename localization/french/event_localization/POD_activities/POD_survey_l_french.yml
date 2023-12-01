@@ -1,200 +1,199 @@
 ﻿l_french:
-  
- survey_capital_decision: "Sondez votre capitale" #NT!
- survey_capital_decision_tooltip: "Tu voyageras autour de ta principauté" #NT!
- survey_capital_decision_opening_desc: "Parfois, vous devrez peut-être faire les choses vous-même. De toute façon, qui peut vraiment faire confiance à ces conseillers flatteurs ?" #NT!
- survey_capital_decision_confirm: "Faisons le tour de mes terres" #NT!
- survey_capital_decision_desc_shy: "Comme vous êtes paresseux, cette activité peut être stressante" #NT!
- survey_decision_effect_tooltip: "Cela vous donnera des opportunités d’améliorer votre capital" #NT!
-  
- strict_control_modifier: "Contrôle strict" #NT!
- strict_control_modifier_desc: "Vous surveillez tout ce qui se passe dans votre domaine, ce qui vous offre de plus grandes opportunités d'influence, mais aussi une plus grande résistance de la part des mortels." #NT!
- lax_control_modifier: "Contrôle laxiste" #NT!
- lax_control_modifier_desc: "Vous laissez les mortels libres de faire ce qu’ils veulent ici. Ils prospèrent rapidement sans que l’influence vampirique ne les entrave." #NT!
-  
- opportunities1_modifier: "Nouvelles opportunités I" #NT!
- opportunities1_modifier_desc: "De nouvelles opportunités d’influence pourraient bientôt surgir dans cette province. Une fois que ce modificateur atteint 5, un nouvel emplacement de bâtiment sera débloqué. Notez que vous pouvez avoir un maximum de 9 emplacements de bâtiment à la fois, ce modificateur sera inutile une fois ce plafond atteint." #NT!
-  
- opportunities2_modifier: "Nouvelles opportunités II" #NT!
- opportunities2_modifier_desc: "De nouvelles opportunités d’influence pourraient bientôt surgir dans cette province. Une fois que ce modificateur atteint 5, un nouvel emplacement de bâtiment sera débloqué. Notez que vous pouvez avoir un maximum de 9 emplacements de bâtiment à la fois, ce modificateur sera inutile une fois ce plafond atteint." #NT!
-  
- opportunities3_modifier: "Nouvelles opportunités III" #NT!
- opportunities3_modifier_desc: "De nouvelles opportunités d’influence pourraient bientôt surgir dans cette province. Une fois que ce modificateur atteint 5, un nouvel emplacement de bâtiment sera débloqué. Notez que vous pouvez avoir un maximum de 9 emplacements de bâtiment à la fois, ce modificateur sera inutile une fois ce plafond atteint." #NT!
-  
- opportunities4_modifier: "Nouvelles opportunités IV" #NT!
- opportunities4_modifier_desc: "De nouvelles opportunités d’influence pourraient bientôt surgir dans cette province. Une fois que ce modificateur atteint 5, un nouvel emplacement de bâtiment sera débloqué. Notez que vous pouvez avoir un maximum de 9 emplacements de bâtiment à la fois, ce modificateur sera inutile une fois ce plafond atteint." #NT!
-  
- opportunitiesend_modifier: "Pleinement influencé" #NT!
- opportunitiesend_modifier_desc: "Vous avez atteint le montant maximum d'influence (et d'emplacements de construction) que vous pouvez avoir dans cette province." #NT!
-  
- POD_survey_events.1000.t: "L'enquête : Une escorte ?" #NT!
- POD_survey_events.1000.desc: "Vous êtes conscient que, même si vous êtes théoriquement dans votre domaine, des dangers se cachent en dehors de votre siège du pouvoir. Alors que vous préparez cette importante étude de votre capitale, vous vous demandez quelle escorte emporter avec vous, le cas échéant. Évidemment, vous ne voulez pas donner l'impression que vous avez peur de voyager sur vos propres terres, mais vous pourriez être encore plus inquiet d'une éventuelle embuscade ou d'une menace inattendue..." #NT!
- POD_survey_events.1000.option.a: "Toute une armée !" #NT!
- POD_survey_events.1000.option.b: "Quelques gardes suffiront" #NT!
- POD_survey_events.1000.option.c: "Ils devraient avoir peur de moi, et non l'inverse" #NT!
- full_escort_survey_tooltip: "Un choix sûr mais peu impressionnant" #NT!
- half_escort_survey_tooltip: "Probablement un bon choix équilibré" #NT!
- no_escort_survey_tooltip: "Un choix prestigieux mais potentiellement dangereux" #NT!
-  
- POD_survey_events.1001.t: "L'Enquête : Où aller ?" #NT!
- POD_survey_events.1001.desc: "Vous êtes prêt à partir mais la nuit n'est pas éternelle (malheureusement), vous devrez donc choisir quelle partie de la ville vous inspecterez ce soir. De toute évidence, chacun d’entre eux comporte des opportunités et des risques différents. Vous limiterez également votre choix entre les zones où vous avez quelques atouts à gérer, inutile de vous promener sans but." #NT!
- POD_survey_events.1001.option.a: "Un balayage général de mon influence en ville" #NT!
- POD_survey_events.1001.option.b: "Allons aux quartiers militaires" #NT!
- POD_survey_events.1001.option.c: "Les guildes marchandes peut-être ?" #NT!
- survey_buildings_option_tooltip: "Plus d'options ouvertes en fonction des bâtiments présents dans votre capitale" #NT!
- POD_survey_events.1001.option.d: "Que fait le clergé la nuit ?" #NT!
- POD_survey_events.1001.option.e: "Le quartier noble est l'endroit où se trouve le pouvoir" #NT!
- POD_survey_events.1001.option.f: "J'ai des amis dans des endroits bas" #NT!
-  
- POD_survey_events.1.t: "L'enquête : une patrouille" #NT!
- POD_survey_events.1.desc: "Lors de votre visite de la ville, vous croisez une patrouille de gardes probablement issue de la milice. Honnêtement, ils sont pitoyables, leur armure tient à peine et leurs pieds les entraînent à peine vers l'avant. Cela les rend assez faciles à éviter et ils ne vous dérangent pas, mais cette rencontre vous fait penser que, peut-être, vous pourriez accroître votre emprise sur la ville en influençant davantage d'entre eux.\nCe serait facile à faire, mais ce serait n'aidera certainement pas le sort des citoyens, à peine protégés par cette parodie de soldats. D’un autre côté, vous pourriez retirer l’influence que vous avez déjà sur eux, en espérant qu’ils s’améliorent avec le temps sans votre interférence." #NT!
- POD_survey_events.1.option.a: "Plus de contrôle est toujours mieux" #NT!
- POD_survey_events.1.option.b: "Peut-être que je peux me détendre dans ce cas précis" #NT!
- POD_survey_events.1.option.c: "Payez simplement pour de nouveaux uniformes" #NT!
-  
- POD_survey_events.2.t: "L'Enquête : Sans-abri" #NT!
- POD_survey_events.2.desc: "En parcourant la ville, vous réalisez qu’il y a beaucoup de mortels sans abri qui tentent simplement de survivre dans les rues. Ceux-ci constituent des proies faciles, mais ils ne contribuent pas à améliorer le prestige de votre domaine. Une idée nouvelle vous vient, peut-être pourriez-vous faire un « investissement » ! Leur donner de l'or pourrait aider à en faire des membres productifs de votre bétail à temps. Ou vous pourriez tout simplement ne pas vous en soucier, les mortels seront des mortels après tout." #NT!
- POD_survey_events.2.option.a: "Ici, pour mieux me servir" #NT!
- POD_survey_events.2.option.b: "Les proies faciles suffisent" #NT!
-  
- POD_survey_events.3.t: "L'enquête : les recrues" #NT!
- POD_survey_events.3.desc: "Votre emprise sur les militaires en garnison dans la ville est bonne, mais doit toujours être maintenue. Surtout lorsque de nouvelles recrues entrent dans le processus de formation, car ces nouveaux arrivants sont toujours libres de votre influence. En approchant du quartier militaire, vous remarquez qu'ils effectuent un exercice de forage nocturne qui pourrait être une opportunité. Peut-être pourriez-vous vous présenter ?" #NT!
- POD_survey_events.3.option.a: "Considérez-moi comme votre supérieur" #NT!
- POD_survey_events.3.option.b: "Je ne dérangerai pas ceux-là" #NT!
- POD_survey_events.3.option.c: "Je vais dresser ces asticots moi-même !" #NT!
-  
- survey_mercenaries_contact_modifier: "Contact Mercenaires" #NT!
- survey_mercenaries_contact_modifier_desc: "Vous avez beaucoup investi dans les mercenaires locaux. Ça rapporte." #NT!
-  
- POD_survey_events.4.t: "L'Enquête : Mercenaires" #NT!
- POD_survey_events.4.desc: "Les mots-clés sont une réalité en ces temps troublés. Vous avez fait preuve de suffisamment de diligence pour investir dans vos locaux depuis un certain temps et vous n'êtes pas surpris de les voir ce soir s'amuser bruyamment dans les rues de la ville. Si vous prévoyez des aventures militaires, investir encore plus pourrait s’avérer fructueux. Une autre option serait de réduire votre emprise sur eux pendant un certain temps, car vous êtes sûr que les citadins ne sont pas aussi ravis de voir autant de voyous tapageurs défiler parmi eux sans être contestés." #NT!
- POD_survey_events.4.option.a: "Mes amis, j'ai un nouveau travail pour vous !" #NT!
- POD_survey_events.4.option.b: "Arrêtez d'embêter les voisins s'il vous plaît" #NT!
-  
- POD_survey_events.5.t: "L'Enquête : Opportunités" #NT!
- POD_survey_events.5.desc: "Grâce à votre influence considérable sur la classe marchande de la ville, vous êtes souvent le premier informé des nouvelles opportunités lucratives. Et comme tout mécène généreux comme vous le ferait, vous n'hésitez pas à prendre votre part de toute nouvelle entreprise. Un de vos interlocuteurs vous prévient ce soir des dernières nouveautés et de la manière d'en profiter au mieux. Il dit également que cela pourrait être une grande aubaine pour le développement de la ville... mais que le fait de vous priver de la part que vous méritez pourrait l'entraver considérablement. Que ferez-vous?" #NT!
- POD_survey_events.5.option.a: "je vais y investir" #NT!
- POD_survey_events.5.option.b: "Montre moi l'argent" #NT!
- POD_survey_events.5.option.c: "Montre-moi TOUT l'argent" #NT!
- auspexadvanced_tooltip: "Cette option est disponible car vous disposez de forts pouvoirs de perception" #NT!
-  
- POD_survey_events.6.t: "L'enquête : Nouveau gars" #NT!
- POD_survey_events.6.desc: "Une nouvelle entreprise a récemment ouvert ses portes dans votre ville et vous envisagez de lui rendre visite ce soir. Il est évidemment utile de faire connaître aux étrangers qui est le véritable leader du quartier marchand ici. Pourtant, vous avez des doutes.\nVous avez remarqué qu'après votre visite, la plupart de ces marchands semblent perdre la volonté de vraiment travailler jusqu'au bout pour le meilleur de votre communauté. Peut-être pourriez-vous essayer une approche nouvelle et audacieuse sans simplement intervenir ?" #NT!
- POD_survey_events.6.option.a: "Les anciennes méthodes fonctionnent mieux" #NT!
- POD_survey_events.6.option.b: "Laisse-le tranquille" #NT!
- POD_survey_events.6.option.c: "Secouez-le !" #NT!
- greedy_tooltip: "Cette option est disponible car vous êtes un sangsue gourmand" #NT!
-  
- POD_survey_events.7.t: "L'Enquête : Hommes de Foi" #NT!
- POD_survey_events.7.desc: "Le clergé est peut-être la partie de la société mortelle la plus difficile à influencer. Il suffit qu’un de leurs membres ait une foi solide pour mettre toute votre opération en péril. Ce soir, vous avez été informé qu'un prédicateur gênant est venu faire un rassemblement dans votre ville et il a déjà attiré pas mal de partisans. Sa diatribe contre les « diables » et les « monstres » pourrait constituer un danger potentiel… mais la supprimer par la force ou autrement aurait également des conséquences." #NT!
- POD_survey_events.7.option.a: "Pas de prédicateur dans ma ville !" #NT!
- POD_survey_events.7.option.b: "Il ne sera pas une menace... n'est-ce pas ?" #NT!
- POD_survey_events.7.option.c: "Rejoignez la foule déguisée en adepte" #NT!
- obfuscateadvanced_tooltip: "Cette option est disponible car vous possédez une forte maîtrise d’Obfuscate" #NT!
-  
- POD_survey_events.8.t: "L'Enquête : Nouveau Temple" #NT!
- POD_survey_events.8.desc: "Malgré la bonne influence que vous exercez sur le clergé de votre domaine, vous n'avez pas pu empêcher la construction prévue d'un nouveau lieu de prière à proximité. Vous vous promenez maintenant à proximité, regardant avec agacement le chantier en cours. Avoir encore plus d’hommes de foi dans votre région pourrait s’avérer problématique, car ils sont souvent tout à fait capables de discerner votre vraie nature. Il est encore temps de s'assurer que la construction subisse quelques revers malheureux..." #NT!
- POD_survey_events.8.option.a: "Laisser seul" #NT!
- POD_survey_events.8.option.b: "Embauchez des voyous" #NT!
- POD_survey_events.8.option.c: "Frappez fort !" #NT!
- potenceadvanced_tooltip: "Cette option est disponible car vos poings peuvent provoquer de véritables tremblements de terre." #NT!
-  
- POD_survey_events.9.title: "L'Enquête : Jeune Amour" #NT!
- POD_survey_events.9.desc: "En vous promenant dans le quartier noble, vous tombez sur une situation intéressante. Depuis la rue, un jeune homme tente de séduire une jeune femme qui le regarde depuis son balcon. Cela ne semble cependant pas très efficace, car il bégaie beaucoup et sa belle ferme bientôt sa fenêtre, le laissant déprimé.\nIl est clairement un fils de la noblesse, et cette situation semble être une possibilité facile, bien qu'inhabituelle. d'acquérir un nouveau contact qui pourrait être utile dans le futur." #NT!
- POD_survey_events.9.option.a: "Donnez-lui quelques conseils" #NT!
- POD_survey_events.9.option.b: "Rire de lui" #NT!
- POD_survey_events.9.option.c: "Aidez-nous à parvenir à une fin heureuse" #NT!
-  
- POD_survey_events.10.t: "L'Enquête : La Loi" #NT!
- POD_survey_events.10.desc: "Vous avez des contacts utiles dans le système judiciaire mortel de votre ville. De l'un d'eux vous avez appris qu'une affaire doit être jugée ce soir, dont une affaire impliquant des voyous qui seront probablement pendus pour leurs méfaits. Le problème, c'est que ce sont « vos » voyous et qu'ils pourraient toujours vous être utiles pour vous assurer que les mortels de la région s'alignent. Allez-vous intervenir pour les aider ?" #NT!
- POD_survey_events.10.option.a: "La justice est aveugle" #NT!
- POD_survey_events.10.option.b: "Je suis la loi!" #NT!
-  
- POD_survey_events.11.t: "L'Enquête : Les Voleurs" #NT!
- POD_survey_events.11.desc: "Grâce à vos contacts dans la pègre de votre ville, vous avez réussi à coincer un groupe de voleurs prospères qui sévissent depuis un certain temps déjà dans le quartier noble. Ce ne sont que de simples mortels et ne représentent aucune menace pour vous, mais ils pourraient être utiles. Vous envisagez de les « embaucher », en vous assurant qu'une part de leurs exploits vous revienne. Ou vous pourriez simplement vous en débarrasser, rendant ainsi le quartier plus sûr dans un avenir prévisible." #NT!
- POD_survey_events.11.option.a: "Tu travailles pour moi maintenant" #NT!
- POD_survey_events.11.option.b: "Arrêtons ces absurdités les garçons" #NT!
-  
- POD_survey_events.12.t: "L'Enquête : Le Voyou" #NT!
- POD_survey_events.12.desc: "Malgré votre influence dans la pègre de la ville, il semblerait qu'un des voyous n'ait pas compris le message. Vous souriez alors que ce voyou vous menace. Vraiment, tout cela est si pittoresque que vous réprimez à peine un rire, ce qui rend le voyou visiblement agité et se rapprochant de vous avec ce qui ressemble à un regard menaçant. Une distraction rafraîchissante certes, mais que faire maintenant ?" #NT!
- POD_survey_events.12.option.a: "Saignez-le à sec" #NT!
- POD_survey_events.12.option.b: "Faites-le travailler pour vous" #NT!
- POD_survey_events.12.option.c: "Il est temps de reconsidérer vos choix de vie" #NT!
-  
- POD_survey_events.101.t: "L'enquête : retour sans incident" #NT!
- POD_survey_events.101.desc: "Après votre petit tour de votre ville, vous regagnez votre havre sans encombre. Les activités nocturnes vont bientôt nuire à votre santé mentale, mais au moins, il a été rafraîchissant de se promener." #NT!
- POD_survey_events.101.option.a: "Tout s'est bien passé" #NT!
-  
- POD_survey_events.110.t: "L'Enquête : L'Assassin" #NT!
- POD_survey_events.110.desc: "Vous le voyez à peine venir.\nAlors que vous retournez à votre refuge, le bruit d'un poignard dégainé vous fait vous retourner, juste à temps pour apercevoir une silhouette bien trop près de votre cou pour être à l'aise. L'agent d'un rival ? Un rival oublié depuis longtemps ? Vous n'avez pas le temps d'y réfléchir car votre meurtrier potentiel saute vers vous dans un mouvement bien trop rapide pour être celui d'un simple mortel..." #NT!
- POD_survey_events.110.option.a: "Gardes ! Tome!" #NT!
- survey_assassin_tooltip: "Votre escorte complète s’en chargera." #NT!
- POD_survey_events.110.option.b: "Faisons cela" #NT!
- POD_survey_events.110.effect.success.desc: "Accablé, l'assassin s'enfuit" #NT!
- POD_survey_events.110.critical.failure.effect.desc: "Un faux mouvement..." #NT!
- POD_survey_events.110.critical.failure: "Sang et ténèbres" #NT!
- POD_survey_events.110.option.d: "Fuyez!" #NT!
-  
- POD_survey_events.111.t: "L'Enquête : L'Assassin II" #NT!
- POD_survey_events.111.desc: "Accablé par votre solide défense, l'assassin fait soudainement volte-face et commence à fuir. Dans un mouvement réflexif principalement motivé par votre Bête vengeresse, vous courez après lui. Bientôt, vous vous déplacez tous les deux à une vitesse surnaturelle et la poursuite vous fait traverser des rues, des bâtiments et même des toits. Il devient assez difficile de le suivre, mais vous constatez également des signes d'épuisement de la part de votre cible. Peut-être que son sang s'assèche ? Quoi qu'il en soit, la poursuite se termine et..." #NT!
- POD_survey_events.111.option.a: "...il s'échappe !" #NT!
- assassin_flees_tooltip: "Il est trop rapide pour toi. Il est temps de rentrer à la maison." #NT!
- POD_survey_events.111.option.b: "... tu l'as attrapé !" #NT!
- celerityadvanced_tooltip: "Cette option est disponible grâce à vos pouvoirs de vitesse surnaturelle." #NT!
-  
- list_names_survey_modifier: "Liste des noms" #NT!
- list_names_survey_modifier_desc: "Vous savez qui ils sont. Et vous les trouverez." #NT!
-  
- POD_survey_events.112.t: "L'Enquête : L'Assassin III" #NT!
- POD_survey_events.112.desc: "Vous vous rapprochiez de votre chasseur devenu proie quand, soudain, l'assassin retourne son poignard contre lui-même. Réalisant probablement que son évasion était vaine et imaginant les choses très graphiques que vous feriez pour le faire parler, il a choisi de mettre fin à sa propre non-vie.\nCe n'est pas exactement la fin que vous souhaitiez, mais après une analyse rapide des cendres, vous remarquez plusieurs morceaux de des papiers parlant du contrat sur ta tête. Ils ne listent évidemment pas précisément qui veut votre mort, mais restent tout de même assez éclairants..." #NT!
- POD_survey_events.112.option.a: "Mieux que rien" #NT!
-  
- POD_survey_events.120.t: "L'Enquête : L'Incendie" #NT!
- POD_survey_events.120.desc: "Pourquoi maintenant? C'est juste une incompétence mortelle ? Ou une attaque indirecte d’un de vos rivaux ? Quel que soit le coupable, un grand incendie a commencé à se propager autour de votre ville et est sur le point d'encercler votre position, ce qui rend le retour à votre refuge une perspective dangereuse.\nVotre bête fait déjà rage dans sa cage pour courir comme un enfer pendant que vous réfléchissez à la meilleure façon de procéder. évitez ou éliminez les mortels hurlants et le feu avide. Ce ne sera pas facile." #NT!
- POD_survey_events.120.option.a: "Gardes ! Dégagez un chemin !" #NT!
- beast_takeover_survey_tooltip: "Votre Bête frénétique vous emmènera en sécurité" #NT!
- POD_survey_events.120.option.b: "Je vais trouver un moyen..." #NT!
- POD_survey_events.120.effect.success.desc: "Vous échappez au pire de l'enfer" #NT!
- POD_survey_events.120.critical.failure.effect.desc: "Cela se termine comme cela a commencé. En feu." #NT!
- POD_survey_events.120.critical.failure: "Ça brûle! Ça brûle!" #NT!
- POD_survey_events.120.option.d: "Laissons la Bête prendre le dessus" #NT!
-  
- POD_survey_events.121.t: "L'Enquête : L'Incendie II" #NT!
- POD_survey_events.121.desc: "Vous avez réussi à éviter le pire de l'incendie et les mortels le nettoient lentement. Malheureusement, votre itinéraire de fuite vous a éloigné de votre refuge, trop loin pour que vous puissiez éviter le soleil du matin si vous essayez de vous y rendre. En tant que tel, vous n’avez d’autre choix que de trouver refuge dans un endroit indigne jusqu’à ce que vous puissiez regagner votre siège du pouvoir la nuit suivante." #NT!
- POD_survey_events.121.option.a: "C'est comme un séjour en camping !" #NT!
- survey_fire_ending_tooltip: "Vous rentrez chez vous la nuit suivante en vous sentant sale, mais toujours en un seul morceau." #NT!
- POD_survey_events.121.option.b: "Je vais juste fusionner avec la Terre" #NT!
- proteanadvanced_tooltip: "Cette option est disponible grâce à votre maîtrise de Protean." #NT!
- POD_survey_events.121.option.c: "Organiser un bon hébergement" #NT!
-  
- POD_survey_events.130.t: "L'Enquête : Les Chasseurs" #NT!
- POD_survey_events.130.desc: "Une embuscade ! Sur le chemin du retour vers votre refuge, un groupe de chasseurs de vampires apparemment bien organisé (et informé) vous a encerclé. Ils sont bien armés et prudents dans leur approche, ce qui prouve que ce n'est pas leur première chasse. Les mortels ne sont souvent pas un problème, mais un tel groupe avec des torches, des flèches enflammées et probablement un ou deux vrais croyants est une tout autre affaire... Vous réfléchissez à vos options." #NT!
- POD_survey_events.130.option.a: "Gardes ! Traitez avec eux!" #NT!
- best_bravely_tooltip: "Ils ne s'attendaient pas à ce que vous fuyiez. Vous les perdez facilement mais ils se souviendront de vous." #NT!
- POD_survey_events.130.option.b: "Se battre!" #NT!
- POD_survey_events.130.effect.success.desc: "Une victoire décisive !" #NT!
- POD_survey_events.130.critical.failure.effect.desc: "Cela se termine comme cela a commencé. En feu." #NT!
- POD_survey_events.130.critical.failure: "Ça brûle! Ça brûle!" #NT!
- POD_survey_events.130.option.d: "Fuyez!" #NT!
-  
- POD_survey_events.131.t: "L'Enquête : Les Chasseurs II" #NT!
- POD_survey_events.131.desc: "La victoire est à vous. Vous vous servez du sang de ces mortels, car ils n'en auront plus besoin, et réfléchissez à ce que vous ferez des survivants blessés de cet assaut désormais à votre merci. Les ramener dans votre refuge pour une « démonstration » devant votre tribunal semble être une option de détente agréable. Ou vous pouvez opter pour une exposition plus publique dans une partie centrale de votre ville, mais cela attirera certainement l'attention d'un plus grand nombre de chasseurs à l'avenir." #NT!
- POD_survey_events.131.option.a: "Un affichage privé, ça sonne bien" #NT!
- POD_survey_events.131.option.b: "Dominez-les pour éloigner les autres de votre trace" #NT!
- POD_survey_events.131.option.c: "Il est temps de faire un exemple" #NT!
-  
- POD_survey_events.140.t: "L'Enquête : Le Prophète" #NT!
- POD_survey_events.140.desc: "Alors que vous rentrez chez vous, dans votre havre de paix, vous êtes abordé par un vieil homme qui marmonne ce qui semble être un bavardage incohérent. Vous pouvez cependant distinguer des mots comme « vampires » et « Dieu » qui attirent votre attention. Au fur et à mesure que vous ralentissez un peu, le fou se rapproche et commence à parler avec encore plus d'enthousiasme qu'auparavant. Même en y prêtant attention, comprendre un bout de ce qu’il essaie de dire serait tout de même tout un exploit." #NT!
- POD_survey_events.140.option.a: "Je reste un moment et j'écoute" #NT!
- ending_survey_tooltip: "Vous rentrez chez vous sans plus d'entrave." #NT!
- POD_survey_events.140.option.b: "Je n'écoute aucun fou" #NT!
- POD_survey_events.140.effect.success.desc: "C'est logique, un peu" #NT!
- POD_survey_events.140.critical.failure.effect.desc: "Je ne comprends pas..." #NT!
- POD_survey_events.140.critical.failure: "Pas un indice!" #NT!
-  
- POD_survey_events.141.t: "L'Enquête : Le Prophète II" #NT!
- POD_survey_events.141.desc: "Eh bien, ce n'était pas vraiment « éclairant », mais il y a au moins des choses intéressantes à méditer sur ce que ce vieil homme a dit. Bien que la nature toujours énigmatique de ces prophéties fasse qu’elles n’en valent pas vraiment la peine la plupart du temps. En tout cas, le prophète autoproclamé est heureux que vous ayez écouté et vous ait laissé tranquille. Votre refuge vous attend, avec plus de questions que de réponses." #NT!
- POD_survey_events.141.option.a: "Je divague vraiment" #NT!
- malkavian_survey_tooltip: "Cette option est disponible car vous êtes un Malkavien" #NT!
- POD_survey_events.141.option.b: "Les questions sont au rendez-vous !" #NT!
- POD_survey_events.141.option.c: "Non vraiment, c'était parfaitement clair" #NT!
+    survey_capital_decision: "Sondez votre capitale"
+    survey_capital_decision_tooltip: "Tu voyageras autour de ta principauté"
+    survey_capital_decision_opening_desc: "Parfois, vous devrez peut-être faire les choses vous-même. De toute façon, qui peut vraiment faire confiance à ces conseillers flatteurs ?"
+    survey_capital_decision_confirm: "Faisons le tour de mes terres"
+    survey_capital_decision_desc_shy: "Comme vous êtes paresseux, cette activité peut être stressante"
+    survey_decision_effect_tooltip: "Cela vous donnera des opportunités d’améliorer votre capital"
+
+    strict_control_modifier: "Contrôle strict"
+    strict_control_modifier_desc: "Vous surveillez tout ce qui se passe dans votre domaine, ce qui vous offre de plus grandes opportunités d'influence, mais aussi une plus grande résistance de la part des mortels."
+    lax_control_modifier: "Contrôle laxiste"
+    lax_control_modifier_desc: "Vous laissez les mortels libres de faire ce qu’ils veulent ici. Ils prospèrent rapidement sans que l’influence vampirique ne les entrave."
+
+    opportunities1_modifier: "Nouvelles opportunités I"
+    opportunities1_modifier_desc: "De nouvelles opportunités d’influence pourraient bientôt surgir dans cette province. Une fois que ce modificateur atteint 5, un nouvel emplacement de bâtiment sera débloqué. Notez que vous pouvez avoir un maximum de 9 emplacements de bâtiment à la fois, ce modificateur sera inutile une fois ce plafond atteint."
+
+    opportunities2_modifier: "Nouvelles opportunités II"
+    opportunities2_modifier_desc: "De nouvelles opportunités d’influence pourraient bientôt surgir dans cette province. Une fois que ce modificateur atteint 5, un nouvel emplacement de bâtiment sera débloqué. Notez que vous pouvez avoir un maximum de 9 emplacements de bâtiment à la fois, ce modificateur sera inutile une fois ce plafond atteint."
+
+    opportunities3_modifier: "Nouvelles opportunités III"
+    opportunities3_modifier_desc: "De nouvelles opportunités d’influence pourraient bientôt surgir dans cette province. Une fois que ce modificateur atteint 5, un nouvel emplacement de bâtiment sera débloqué. Notez que vous pouvez avoir un maximum de 9 emplacements de bâtiment à la fois, ce modificateur sera inutile une fois ce plafond atteint."
+
+    opportunities4_modifier: "Nouvelles opportunités IV"
+    opportunities4_modifier_desc: "De nouvelles opportunités d’influence pourraient bientôt surgir dans cette province. Une fois que ce modificateur atteint 5, un nouvel emplacement de bâtiment sera débloqué. Notez que vous pouvez avoir un maximum de 9 emplacements de bâtiment à la fois, ce modificateur sera inutile une fois ce plafond atteint."
+
+    opportunitiesend_modifier: "Pleinement influencé"
+    opportunitiesend_modifier_desc: "Vous avez atteint le montant maximum d'influence (et d'emplacements de construction) que vous pouvez avoir dans cette province."
+
+    POD_survey_events.1000.t: "L'enquête : Une escorte ?"
+    POD_survey_events.1000.desc: "Vous êtes conscient que, même si vous êtes théoriquement dans votre domaine, des dangers se cachent en dehors de votre siège du pouvoir. Alors que vous préparez cette importante étude de votre capitale, vous vous demandez quelle escorte emporter avec vous, le cas échéant. Évidemment, vous ne voulez pas donner l'impression que vous avez peur de voyager sur vos propres terres, mais vous pourriez être encore plus inquiet d'une éventuelle embuscade ou d'une menace inattendue..."
+    POD_survey_events.1000.option.a: "Toute une armée !"
+    POD_survey_events.1000.option.b: "Quelques gardes suffiront"
+    POD_survey_events.1000.option.c: "Ils devraient avoir peur de moi, et non l'inverse"
+    full_escort_survey_tooltip: "Un choix sûr mais peu impressionnant"
+    half_escort_survey_tooltip: "Probablement un bon choix équilibré"
+    no_escort_survey_tooltip: "Un choix prestigieux mais potentiellement dangereux"
+
+    POD_survey_events.1001.t: "L'Enquête : Où aller ?"
+    POD_survey_events.1001.desc: "Vous êtes prêt à partir mais la nuit n'est pas éternelle (malheureusement), vous devrez donc choisir quelle partie de la ville vous inspecterez ce soir. De toute évidence, chacun d’entre eux comporte des opportunités et des risques différents. Vous limiterez également votre choix entre les zones où vous avez quelques atouts à gérer, inutile de vous promener sans but."
+    POD_survey_events.1001.option.a: "Un balayage général de mon influence en ville"
+    POD_survey_events.1001.option.b: "Allons aux quartiers militaires"
+    POD_survey_events.1001.option.c: "Les guildes marchandes peut-être ?"
+    survey_buildings_option_tooltip: "Plus d'options ouvertes en fonction des bâtiments présents dans votre capitale"
+    POD_survey_events.1001.option.d: "Que fait le clergé la nuit ?"
+    POD_survey_events.1001.option.e: "Le quartier noble est l'endroit où se trouve le pouvoir"
+    POD_survey_events.1001.option.f: "J'ai des amis dans des endroits bas"
+
+    POD_survey_events.1.t: "L'enquête : une patrouille"
+    POD_survey_events.1.desc: "Lors de votre visite de la ville, vous croisez une patrouille de gardes probablement issue de la milice. Honnêtement, ils sont pitoyables, leur armure tient à peine et leurs pieds les entraînent à peine vers l'avant. Cela les rend assez faciles à éviter et ils ne vous dérangent pas, mais cette rencontre vous fait penser que, peut-être, vous pourriez accroître votre emprise sur la ville en influençant davantage d'entre eux.\nCe serait facile à faire, mais ce serait n'aidera certainement pas le sort des citoyens, à peine protégés par cette parodie de soldats. D’un autre côté, vous pourriez retirer l’influence que vous avez déjà sur eux, en espérant qu’ils s’améliorent avec le temps sans votre interférence."
+    POD_survey_events.1.option.a: "Plus de contrôle est toujours mieux"
+    POD_survey_events.1.option.b: "Peut-être que je peux me détendre dans ce cas précis"
+    POD_survey_events.1.option.c: "Payez simplement pour de nouveaux uniformes"
+
+    POD_survey_events.2.t: "L'Enquête : Sans-abri"
+    POD_survey_events.2.desc: "En parcourant la ville, vous réalisez qu’il y a beaucoup de mortels sans abri qui tentent simplement de survivre dans les rues. Ceux-ci constituent des proies faciles, mais ils ne contribuent pas à améliorer le prestige de votre domaine. Une idée nouvelle vous vient, peut-être pourriez-vous faire un « investissement » ! Leur donner de l'or pourrait aider à en faire des membres productifs de votre bétail à temps. Ou vous pourriez tout simplement ne pas vous en soucier, les mortels seront des mortels après tout."
+    POD_survey_events.2.option.a: "Ici, pour mieux me servir"
+    POD_survey_events.2.option.b: "Les proies faciles suffisent"
+
+    POD_survey_events.3.t: "L'enquête : les recrues"
+    POD_survey_events.3.desc: "Votre emprise sur les militaires en garnison dans la ville est bonne, mais doit toujours être maintenue. Surtout lorsque de nouvelles recrues entrent dans le processus de formation, car ces nouveaux arrivants sont toujours libres de votre influence. En approchant du quartier militaire, vous remarquez qu'ils effectuent un exercice de forage nocturne qui pourrait être une opportunité. Peut-être pourriez-vous vous présenter ?"
+    POD_survey_events.3.option.a: "Considérez-moi comme votre supérieur"
+    POD_survey_events.3.option.b: "Je ne dérangerai pas ceux-là"
+    POD_survey_events.3.option.c: "Je vais dresser ces asticots moi-même !"
+
+    survey_mercenaries_contact_modifier: "Contact Mercenaires"
+    survey_mercenaries_contact_modifier_desc: "Vous avez beaucoup investi dans les mercenaires locaux. Ça rapporte."
+
+    POD_survey_events.4.t: "L'Enquête : Mercenaires"
+    POD_survey_events.4.desc: "Les mots-clés sont une réalité en ces temps troublés. Vous avez fait preuve de suffisamment de diligence pour investir dans vos locaux depuis un certain temps et vous n'êtes pas surpris de les voir ce soir s'amuser bruyamment dans les rues de la ville. Si vous prévoyez des aventures militaires, investir encore plus pourrait s’avérer fructueux. Une autre option serait de réduire votre emprise sur eux pendant un certain temps, car vous êtes sûr que les citadins ne sont pas aussi ravis de voir autant de voyous tapageurs défiler parmi eux sans être contestés."
+    POD_survey_events.4.option.a: "Mes amis, j'ai un nouveau travail pour vous !"
+    POD_survey_events.4.option.b: "Arrêtez d'embêter les voisins s'il vous plaît"
+
+    POD_survey_events.5.t: "L'Enquête : Opportunités"
+    POD_survey_events.5.desc: "Grâce à votre influence considérable sur la classe marchande de la ville, vous êtes souvent le premier informé des nouvelles opportunités lucratives. Et comme tout mécène généreux comme vous le ferait, vous n'hésitez pas à prendre votre part de toute nouvelle entreprise. Un de vos interlocuteurs vous prévient ce soir des dernières nouveautés et de la manière d'en profiter au mieux. Il dit également que cela pourrait être une grande aubaine pour le développement de la ville... mais que le fait de vous priver de la part que vous méritez pourrait l'entraver considérablement. Que ferez-vous?"
+    POD_survey_events.5.option.a: "je vais y investir"
+    POD_survey_events.5.option.b: "Montre moi l'argent"
+    POD_survey_events.5.option.c: "Montre-moi TOUT l'argent"
+    auspexadvanced_tooltip: "Cette option est disponible car vous disposez de forts pouvoirs de perception"
+
+    POD_survey_events.6.t: "L'enquête : Nouveau gars"
+    POD_survey_events.6.desc: "Une nouvelle entreprise a récemment ouvert ses portes dans votre ville et vous envisagez de lui rendre visite ce soir. Il est évidemment utile de faire connaître aux étrangers qui est le véritable leader du quartier marchand ici. Pourtant, vous avez des doutes.\nVous avez remarqué qu'après votre visite, la plupart de ces marchands semblent perdre la volonté de vraiment travailler jusqu'au bout pour le meilleur de votre communauté. Peut-être pourriez-vous essayer une approche nouvelle et audacieuse sans simplement intervenir ?"
+    POD_survey_events.6.option.a: "Les anciennes méthodes fonctionnent mieux"
+    POD_survey_events.6.option.b: "Laisse-le tranquille"
+    POD_survey_events.6.option.c: "Secouez-le !"
+    greedy_tooltip: "Cette option est disponible car vous êtes un sangsue gourmand"
+
+    POD_survey_events.7.t: "L'Enquête : Hommes de Foi"
+    POD_survey_events.7.desc: "Le clergé est peut-être la partie de la société mortelle la plus difficile à influencer. Il suffit qu’un de leurs membres ait une foi solide pour mettre toute votre opération en péril. Ce soir, vous avez été informé qu'un prédicateur gênant est venu faire un rassemblement dans votre ville et il a déjà attiré pas mal de partisans. Sa diatribe contre les « diables » et les « monstres » pourrait constituer un danger potentiel… mais la supprimer par la force ou autrement aurait également des conséquences."
+    POD_survey_events.7.option.a: "Pas de prédicateur dans ma ville !"
+    POD_survey_events.7.option.b: "Il ne sera pas une menace... n'est-ce pas ?"
+    POD_survey_events.7.option.c: "Rejoignez la foule déguisée en adepte"
+    obfuscateadvanced_tooltip: "Cette option est disponible car vous possédez une forte maîtrise d’Obfuscate"
+
+    POD_survey_events.8.t: "L'Enquête : Nouveau Temple"
+    POD_survey_events.8.desc: "Malgré la bonne influence que vous exercez sur le clergé de votre domaine, vous n'avez pas pu empêcher la construction prévue d'un nouveau lieu de prière à proximité. Vous vous promenez maintenant à proximité, regardant avec agacement le chantier en cours. Avoir encore plus d’hommes de foi dans votre région pourrait s’avérer problématique, car ils sont souvent tout à fait capables de discerner votre vraie nature. Il est encore temps de s'assurer que la construction subisse quelques revers malheureux..."
+    POD_survey_events.8.option.a: "Laisser seul"
+    POD_survey_events.8.option.b: "Embauchez des voyous"
+    POD_survey_events.8.option.c: "Frappez fort !"
+    potenceadvanced_tooltip: "Cette option est disponible car vos poings peuvent provoquer de véritables tremblements de terre."
+
+    POD_survey_events.9.title: "L'Enquête : Jeune Amour"
+    POD_survey_events.9.desc: "En vous promenant dans le quartier noble, vous tombez sur une situation intéressante. Depuis la rue, un jeune homme tente de séduire une jeune femme qui le regarde depuis son balcon. Cela ne semble cependant pas très efficace, car il bégaie beaucoup et sa belle ferme bientôt sa fenêtre, le laissant déprimé.\nIl est clairement un fils de la noblesse, et cette situation semble être une possibilité facile, bien qu'inhabituelle. d'acquérir un nouveau contact qui pourrait être utile dans le futur."
+    POD_survey_events.9.option.a: "Donnez-lui quelques conseils"
+    POD_survey_events.9.option.b: "Rire de lui"
+    POD_survey_events.9.option.c: "Aidez-nous à parvenir à une fin heureuse"
+
+    POD_survey_events.10.t: "L'Enquête : La Loi"
+    POD_survey_events.10.desc: "Vous avez des contacts utiles dans le système judiciaire mortel de votre ville. De l'un d'eux vous avez appris qu'une affaire doit être jugée ce soir, dont une affaire impliquant des voyous qui seront probablement pendus pour leurs méfaits. Le problème, c'est que ce sont « vos » voyous et qu'ils pourraient toujours vous être utiles pour vous assurer que les mortels de la région s'alignent. Allez-vous intervenir pour les aider ?"
+    POD_survey_events.10.option.a: "La justice est aveugle"
+    POD_survey_events.10.option.b: "Je suis la loi!"
+
+    POD_survey_events.11.t: "L'Enquête : Les Voleurs"
+    POD_survey_events.11.desc: "Grâce à vos contacts dans la pègre de votre ville, vous avez réussi à coincer un groupe de voleurs prospères qui sévissent depuis un certain temps déjà dans le quartier noble. Ce ne sont que de simples mortels et ne représentent aucune menace pour vous, mais ils pourraient être utiles. Vous envisagez de les « embaucher », en vous assurant qu'une part de leurs exploits vous revienne. Ou vous pourriez simplement vous en débarrasser, rendant ainsi le quartier plus sûr dans un avenir prévisible."
+    POD_survey_events.11.option.a: "Tu travailles pour moi maintenant"
+    POD_survey_events.11.option.b: "Arrêtons ces absurdités les garçons"
+
+    POD_survey_events.12.t: "L'Enquête : Le Voyou"
+    POD_survey_events.12.desc: "Malgré votre influence dans la pègre de la ville, il semblerait qu'un des voyous n'ait pas compris le message. Vous souriez alors que ce voyou vous menace. Vraiment, tout cela est si pittoresque que vous réprimez à peine un rire, ce qui rend le voyou visiblement agité et se rapprochant de vous avec ce qui ressemble à un regard menaçant. Une distraction rafraîchissante certes, mais que faire maintenant ?"
+    POD_survey_events.12.option.a: "Saignez-le à sec"
+    POD_survey_events.12.option.b: "Faites-le travailler pour vous"
+    POD_survey_events.12.option.c: "Il est temps de reconsidérer vos choix de vie"
+
+    POD_survey_events.101.t: "L'enquête : retour sans incident"
+    POD_survey_events.101.desc: "Après votre petit tour de votre ville, vous regagnez votre havre sans encombre. Les activités nocturnes vont bientôt nuire à votre santé mentale, mais au moins, il a été rafraîchissant de se promener."
+    POD_survey_events.101.option.a: "Tout s'est bien passé"
+
+    POD_survey_events.110.t: "L'Enquête : L'Assassin"
+    POD_survey_events.110.desc: "Vous le voyez à peine venir.\nAlors que vous retournez à votre refuge, le bruit d'un poignard dégainé vous fait vous retourner, juste à temps pour apercevoir une silhouette bien trop près de votre cou pour être à l'aise. L'agent d'un rival ? Un rival oublié depuis longtemps ? Vous n'avez pas le temps d'y réfléchir car votre meurtrier potentiel saute vers vous dans un mouvement bien trop rapide pour être celui d'un simple mortel..."
+    POD_survey_events.110.option.a: "Gardes ! Tome!"
+    survey_assassin_tooltip: "Votre escorte complète s’en chargera."
+    POD_survey_events.110.option.b: "Faisons cela"
+    POD_survey_events.110.effect.success.desc: "Accablé, l'assassin s'enfuit"
+    POD_survey_events.110.critical.failure.effect.desc: "Un faux mouvement..."
+    POD_survey_events.110.critical.failure: "Sang et ténèbres"
+    POD_survey_events.110.option.d: "Fuyez!"
+
+    POD_survey_events.111.t: "L'Enquête : L'Assassin II"
+    POD_survey_events.111.desc: "Accablé par votre solide défense, l'assassin fait soudainement volte-face et commence à fuir. Dans un mouvement réflexif principalement motivé par votre Bête vengeresse, vous courez après lui. Bientôt, vous vous déplacez tous les deux à une vitesse surnaturelle et la poursuite vous fait traverser des rues, des bâtiments et même des toits. Il devient assez difficile de le suivre, mais vous constatez également des signes d'épuisement de la part de votre cible. Peut-être que son sang s'assèche ? Quoi qu'il en soit, la poursuite se termine et..."
+    POD_survey_events.111.option.a: "...il s'échappe !"
+    assassin_flees_tooltip: "Il est trop rapide pour toi. Il est temps de rentrer à la maison."
+    POD_survey_events.111.option.b: "... tu l'as attrapé !"
+    celerityadvanced_tooltip: "Cette option est disponible grâce à vos pouvoirs de vitesse surnaturelle."
+
+    list_names_survey_modifier: "Liste des noms"
+    list_names_survey_modifier_desc: "Vous savez qui ils sont. Et vous les trouverez."
+
+    POD_survey_events.112.t: "L'Enquête : L'Assassin III"
+    POD_survey_events.112.desc: "Vous vous rapprochiez de votre chasseur devenu proie quand, soudain, l'assassin retourne son poignard contre lui-même. Réalisant probablement que son évasion était vaine et imaginant les choses très graphiques que vous feriez pour le faire parler, il a choisi de mettre fin à sa propre non-vie.\nCe n'est pas exactement la fin que vous souhaitiez, mais après une analyse rapide des cendres, vous remarquez plusieurs morceaux de des papiers parlant du contrat sur ta tête. Ils ne listent évidemment pas précisément qui veut votre mort, mais restent tout de même assez éclairants..."
+    POD_survey_events.112.option.a: "Mieux que rien"
+
+    POD_survey_events.120.t: "L'Enquête : L'Incendie"
+    POD_survey_events.120.desc: "Pourquoi maintenant? C'est juste une incompétence mortelle ? Ou une attaque indirecte d’un de vos rivaux ? Quel que soit le coupable, un grand incendie a commencé à se propager autour de votre ville et est sur le point d'encercler votre position, ce qui rend le retour à votre refuge une perspective dangereuse.\nVotre bête fait déjà rage dans sa cage pour courir comme un enfer pendant que vous réfléchissez à la meilleure façon de procéder. évitez ou éliminez les mortels hurlants et le feu avide. Ce ne sera pas facile."
+    POD_survey_events.120.option.a: "Gardes ! Dégagez un chemin !"
+    beast_takeover_survey_tooltip: "Votre Bête frénétique vous emmènera en sécurité"
+    POD_survey_events.120.option.b: "Je vais trouver un moyen..."
+    POD_survey_events.120.effect.success.desc: "Vous échappez au pire de l'enfer"
+    POD_survey_events.120.critical.failure.effect.desc: "Cela se termine comme cela a commencé. En feu."
+    POD_survey_events.120.critical.failure: "Ça brûle! Ça brûle!"
+    POD_survey_events.120.option.d: "Laissons la Bête prendre le dessus"
+
+    POD_survey_events.121.t: "L'Enquête : L'Incendie II"
+    POD_survey_events.121.desc: "Vous avez réussi à éviter le pire de l'incendie et les mortels le nettoient lentement. Malheureusement, votre itinéraire de fuite vous a éloigné de votre refuge, trop loin pour que vous puissiez éviter le soleil du matin si vous essayez de vous y rendre. En tant que tel, vous n’avez d’autre choix que de trouver refuge dans un endroit indigne jusqu’à ce que vous puissiez regagner votre siège du pouvoir la nuit suivante."
+    POD_survey_events.121.option.a: "C'est comme un séjour en camping !"
+    survey_fire_ending_tooltip: "Vous rentrez chez vous la nuit suivante en vous sentant sale, mais toujours en un seul morceau."
+    POD_survey_events.121.option.b: "Je vais juste fusionner avec la Terre"
+    proteanadvanced_tooltip: "Cette option est disponible grâce à votre maîtrise de Protean."
+    POD_survey_events.121.option.c: "Organiser un bon hébergement"
+
+    POD_survey_events.130.t: "L'Enquête : Les Chasseurs"
+    POD_survey_events.130.desc: "Une embuscade ! Sur le chemin du retour vers votre refuge, un groupe de chasseurs de vampires apparemment bien organisé (et informé) vous a encerclé. Ils sont bien armés et prudents dans leur approche, ce qui prouve que ce n'est pas leur première chasse. Les mortels ne sont souvent pas un problème, mais un tel groupe avec des torches, des flèches enflammées et probablement un ou deux vrais croyants est une tout autre affaire... Vous réfléchissez à vos options."
+    POD_survey_events.130.option.a: "Gardes ! Traitez avec eux!"
+    best_bravely_tooltip: "Ils ne s'attendaient pas à ce que vous fuyiez. Vous les perdez facilement mais ils se souviendront de vous."
+    POD_survey_events.130.option.b: "Se battre!"
+    POD_survey_events.130.effect.success.desc: "Une victoire décisive !"
+    POD_survey_events.130.critical.failure.effect.desc: "Cela se termine comme cela a commencé. En feu."
+    POD_survey_events.130.critical.failure: "Ça brûle! Ça brûle!"
+    POD_survey_events.130.option.d: "Fuyez!"
+
+    POD_survey_events.131.t: "L'Enquête : Les Chasseurs II"
+    POD_survey_events.131.desc: "La victoire est à vous. Vous vous servez du sang de ces mortels, car ils n'en auront plus besoin, et réfléchissez à ce que vous ferez des survivants blessés de cet assaut désormais à votre merci. Les ramener dans votre refuge pour une « démonstration » devant votre tribunal semble être une option de détente agréable. Ou vous pouvez opter pour une exposition plus publique dans une partie centrale de votre ville, mais cela attirera certainement l'attention d'un plus grand nombre de chasseurs à l'avenir."
+    POD_survey_events.131.option.a: "Un affichage privé, ça sonne bien"
+    POD_survey_events.131.option.b: "Dominez-les pour éloigner les autres de votre trace"
+    POD_survey_events.131.option.c: "Il est temps de faire un exemple"
+
+    POD_survey_events.140.t: "L'Enquête : Le Prophète"
+    POD_survey_events.140.desc: "Alors que vous rentrez chez vous, dans votre havre de paix, vous êtes abordé par un vieil homme qui marmonne ce qui semble être un bavardage incohérent. Vous pouvez cependant distinguer des mots comme « vampires » et « Dieu » qui attirent votre attention. Au fur et à mesure que vous ralentissez un peu, le fou se rapproche et commence à parler avec encore plus d'enthousiasme qu'auparavant. Même en y prêtant attention, comprendre un bout de ce qu’il essaie de dire serait tout de même tout un exploit."
+    POD_survey_events.140.option.a: "Je reste un moment et j'écoute"
+    ending_survey_tooltip: "Vous rentrez chez vous sans plus d'entrave."
+    POD_survey_events.140.option.b: "Je n'écoute aucun fou"
+    POD_survey_events.140.effect.success.desc: "C'est logique, un peu"
+    POD_survey_events.140.critical.failure.effect.desc: "Je ne comprends pas..."
+    POD_survey_events.140.critical.failure: "Pas un indice!"
+
+    POD_survey_events.141.t: "L'Enquête : Le Prophète II"
+    POD_survey_events.141.desc: "Eh bien, ce n'était pas vraiment « éclairant », mais il y a au moins des choses intéressantes à méditer sur ce que ce vieil homme a dit. Bien que la nature toujours énigmatique de ces prophéties fasse qu’elles n’en valent pas vraiment la peine la plupart du temps. En tout cas, le prophète autoproclamé est heureux que vous ayez écouté et vous ait laissé tranquille. Votre refuge vous attend, avec plus de questions que de réponses."
+    POD_survey_events.141.option.a: "Je divague vraiment"
+    malkavian_survey_tooltip: "Cette option est disponible car vous êtes un Malkavien"
+    POD_survey_events.141.option.b: "Les questions sont au rendez-vous !"
+    POD_survey_events.141.option.c: "Non vraiment, c'était parfaitement clair"

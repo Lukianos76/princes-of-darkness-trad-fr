@@ -1,185 +1,185 @@
 ﻿l_french:
-  
-  #Common Road of Humanity Localization 
- roadofsin_religion: "La route du péché" #NT!
- roadofsin_religion_adj: "Pécheur" #NT!
- roadofsin_religion_adherent: "Pécheur" #NT!
- roadofsin_religion_adherent_plural: "Pécheurs" #NT!
- roadofsin_religion_desc: "Des vampires qui contrôlent leur bête en se livrant aux péchés. Le pratiquant le plus courant est un hédoniste insouciant, mais ses sectes peuvent conduire à un état d'esprit plus sévère." #NT!
- roadofsin_high_god_name: "Péché" #NT!
- roadofsin_high_god_name_possessive: "Péchés" #NT!
- roadofsin_high_god_name_alternate: "Péché" #NT!
- roadofsin_high_god_name_alternate_possessive: "Péchés" #NT!
- roadofsin_good_god_jesus: "$roadofsin_health_god_name$" #NT!
- roadofsin_good_god_christ: "Péché" #NT!
- roadofsin_devil_name: "L'adversaire" #NT!
- roadofsin_devil_name_possessive: "Celui de l'Adversaire" #NT!
- roadofsin_evil_god_lucifer: "L'adversaire" #NT!
- roadofsin_evil_god_beelzebub: "L'adversaire" #NT!
- roadofsin_evil_god_mephistopheles: "L'adversaire" #NT!
- roadofsin_death_deity_name: "Destruction" #NT!
- roadofsin_death_deity_name_possessive: "Destruction" #NT!
- roadofsin_house_of_worship: "tanière" #NT!
- roadofsin_house_of_worship_plural: "tanières" #NT!
- roadofsin_religious_symbol: "pomme" #NT!
- roadofsin_religious_text: "Sur la faim et sa satisfaction" #NT!
- roadofsin_religious_head_title: "Primaires" #NT!
- roadofsin_religious_head_title_name: "Primaires" #NT!
- roadofsin_devotee_male: "pécheur" #NT!
- roadofsin_devotee_male_plural: "pécheurs" #NT!
- roadofsin_devotee_female: "pécheur" #NT!
- roadofsin_devotee_female_plural: "pécheurs" #NT!
- roadofsin_devotee_neuter: "pécheur" #NT!
- roadofsin_devotee_neuter_plural: "pécheurs" #NT!
- roadofsin_priest_male: "pécheur" #NT!
- roadofsin_priest_male_plural: "pécheurs" #NT!
- roadofsin_priest_alternate_plural: "pécheurs" #NT!
- roadofsin_bishop: "précepteur" #NT!
- roadofsin_bishop_plural: "précepteurs" #NT!
- roadofsin_divine_realm: "éternité" #NT!
- roadofsin_positive_afterlife: "éternité" #NT!
- roadofsin_negative_afterlife: "les abysses" #NT!
- roadofsin_witchgodname_the_horned_god: "l'Adversaire" #NT!
- roadofsin_witchgodname_the_horned_god_possessive: "celui de l'Adversaire" #NT!
-  
- roadofsin_creator_god_name: "$roadofsin_high_god_name$" #NT!
- roadofsin_creator_god_name_possessive: "$roadofsin_high_god_name_possessive$" #NT!
- roadofsin_health_god_name: "péché" #NT!
- roadofsin_health_god_name_possessive: "péchés" #NT!
- roadofsin_fertility_god_name: "$roadofsin_high_god_name$" #NT!
- roadofsin_fertility_god_name_possessive: "$roadofsin_high_god_name_possessive$" #NT!
- roadofsin_wealth_god_name: "$roadofsin_high_god_name$" #NT!
- roadofsin_wealth_god_name_possessive: "$roadofsin_high_god_name_possessive$" #NT!
- roadofsin_household_god_name: "$roadofsin_health_god_name$" #NT!
- roadofsin_household_god_name_possessive: "$roadofsin_health_god_name_possessive$" #NT!
- roadofsin_fate_god_name: "$roadofsin_high_god_name$" #NT!
- roadofsin_fate_god_name_possessive: "$roadofsin_high_god_name_possessive$" #NT!
- roadofsin_knowledge_god_name: "$roadofsin_high_god_name$" #NT!
- roadofsin_knowledge_god_name_possessive: "$roadofsin_high_god_name_possessive$" #NT!
- roadofsin_war_god_name: "$roadofsin_high_god_name$" #NT!
- roadofsin_war_god_name_possessive: "$roadofsin_high_god_name_possessive$" #NT!
- roadofsin_trickster_god_name: "Fortune" #NT!
- roadofsin_trickster_god_name_possessive: "La Fortune" #NT!
- roadofsin_night_god_name: "$roadofsin_high_god_name$" #NT!
- roadofsin_night_god_name_possessive: "$roadofsin_high_god_name_possessive$" #NT!
- roadofsin_water_god_name: "$roadofsin_health_god_name$" #NT!
- roadofsin_water_god_name_possessive: "$roadofsin_health_god_name_possessive$" #NT!
-  
-  #Sinner-Group Faiths 
- viapeccati: "Via Peccati" #NT!
- viapeccati_adj: "Peccati" #NT!
- viapeccati_adherent: "Pécheur" #NT!
- viapeccati_adherent_plural: "Pécheurs" #NT!
- viapeccati_desc: "Les adeptes de Via Peccati contrôlent leur Bête en se livrant à leurs caprices et à leurs désirs, peu importe qui ils blessent. Ne pas faire ce qu’ils veulent aggrave leur condition, ce qui signifie que la morale, l’éthique et les lois sont généralement laissées de côté alors qu’ils avancent sur cette route. Les adeptes de la Via Peccati ne sont pas mauvais en soi ; juste complètement complaisant." #NT!
-  
- viavoluptuous: "Via Voluptaire" #NT!
- viavoluptuous_adj: "Voluptaire" #NT!
- viavoluptuous_adherent: "Voluptueux" #NT!
- viavoluptuous_adherent_plural: "Voluptueux" #NT!
- viavoluptuous_desc: "Les pécheurs du chemin du plaisir sont les plus hédonistes de ceux qui suivent la route du péché. Pour eux, le plaisir est tout ce qui concerne leur existence, et absolument rien n'est tabou." #NT!
-  
- viacrudelitas: "Via Crudelitas" #NT!
- viacrudelitas_adj: "Crudélitas" #NT!
- viacrudelitas_adherent: "Sans coeur" #NT!
- viacrudelitas_adherent_plural: "Sans coeur" #NT!
- viacrudelitas_desc: "Les adeptes du Sentier de la Cruauté sont les pécheurs les plus cyniques et les plus haineux. Issu en grande partie d'une philosophie « blessez-les avant qu'ils ne vous blessent », les pécheurs d'ici ne croient pas à la miséricorde, à la compassion ou à la pitié. Au contraire, leur seul plaisir provient de la douleur des autres." #NT!
-  
- viaadversarius: "Via Adversaire" #NT!
- viaadversarius_adj: "Adversaire" #NT!
- viaadversarius_adherent: "Adversaire" #NT!
- viaadversarius_adherent_plural: "Adversaires" #NT!
- viaadversarius_desc: "Le « Chemin du Diable » ne doit pas être confondu avec la soi-disant Via Diabolis, ces pécheurs travaillent pour éviter d'être manipulés. Les ultimes maniaques du contrôle, ils feront des efforts extrêmes pour protéger leur libre arbitre et, exceptionnellement, celui des autres. Beaucoup les considèrent comme les plus « agréables » des pécheurs." #NT!
-  
- viadiabolis: "Par Diabolis" #NT!
- viadiabolis_adj: "Diabolique" #NT!
- viadiabolis_adherent: "Diable" #NT!
- viadiabolis_adherent_plural: "les diables" #NT!
- viadiabolis_desc: "Étant une route intrinsèquement destructrice, la Via Diabolis n’est pas considérée comme un chemin à prendre à la légère ; ceux qui osent le suivre se livrent à toutes sortes de débauches et de destructions. Beaucoup ne sont pas vraiment mauvais en soi, même si croire à une non-vie vertueuse est une quête infructueuse. Certains, cependant, prenaient le rôle du diable au sérieux, se qualifiant même de diables incarnés et de serviteurs de Satan. Les Baali en particulier sont associés à la Via Diabolis." #NT!
-  
- viaprometheus: "Via Prométhée" #NT!
- viaprometheus_adj: "Prométhéen" #NT!
- viaprometheus_adherent: "Prométhéen" #NT!
- viaprometheus_adherent_plural: "Prométhéen" #NT!
- viaprometheus_desc: "Également appelés Firebringers, ils sont une secte de [cainites|E] qui rêve de recréer Carthage et l'harmonie des Kindred et des Kine qui y est associée. Sans surprise, de nombreux membres sont des Brujahs. Étant donné que de nombreux membres des Hauts Clans considèrent ces visions comme une trahison, les Prométhéens sont contraints d'agir secrètement." #NT!
-  
- viafurores: "Via Furores" #NT!
- viafurores_adj: "Fureurs" #NT!
- viafurores_adherent: "Fureurs" #NT!
- viafurores_adherent_plural: "Fureurs" #NT!
- viafurores_desc: "Les membres de cette secte ont la réputation d'être les hors-la-loi du [cainites|E]. Condamnés par la plupart des princes comme des voleurs et des fauteurs de troubles, ils existent en marge de la société vampire, se débarrassant d'une maigre existence comme leurs homologues mortels. Les Furores sont considérés comme chaotiques, mais ils peuvent rassembler un niveau de passion pour leur cause jamais vu ailleurs dans la société [cainite|E]." #NT!
-  
- viaquiritare: "Via Quiritare" #NT!
- viaquiritare_adj: "Quiritare" #NT!
- viaquiritare_adherent: "Hurleur" #NT!
- viaquiritare_adherent_plural: "Hurleurs" #NT!
- viaquiritare_desc: "Les plus fous des pécheurs et les opposés de la Via Adversarius, les adeptes du Chemin des Cris croient que comme ils sont déjà damnés, ils sont aussi déjà la proie de la Bête, et se laissent donc manipuler par elle pour exécuter les ordres de la Bête. . Ce sont essentiellement des exemples ambulants de l’Enfer sur Terre ; même les autres pécheurs répugnent à s'associer à ces fous." #NT!
-  
- tariqelshaitan: "Tariq el-Shaitan" #NT!
- tariqelshaitan_adj: "Shaitan" #NT!
- tariqelshaitan_adherent: "Shaitan" #NT!
- tariqelshaitan_adherent_plural: "Shaitan" #NT!
- tariqelshaitan_desc: "La Voie du Diable dans le monde islamique. Chassés presque jusqu'à l'extinction par les guerriers des clans Salubri et Assamite, ces monstres ont depuis appris à jouer le long jeu." #NT!
-  
- pathoftheeightfoldwheel: "La roue octuple" #NT!
- pathoftheeightfoldwheel_adj: "Druide" #NT!
- pathoftheeightfoldwheel_adherent: "Druide" #NT!
- pathoftheeightfoldwheel_adherent_plural: "Druides" #NT!
- pathoftheeightfoldwheel_desc: "Le Chemin de la Roue Octuple s'inspire du paganisme celtique, avec un accent particulier sur le druidisme. Ils accordent une grande importance au respect des dieux et des esprits de la nature, au service de l'équilibre en toutes choses et à un calendrier tournant de festivals basés sur l'astronomie." #NT!
-  
- pathofwatchfulgods: "Via Deorum Vigilans" #NT!
- pathofwatchfulgods_adj: "Vaticinateur" #NT!
- pathofwatchfulgods_adherent: "Vaticinateur" #NT!
- pathofwatchfulgods_adherent_plural: "Vaticinateurs" #NT!
- pathofwatchfulgods_desc: "Le Chemin des Dieux Vigilants vénère le panthéon païen des anciens Grecs et Romains, bien que des panthéons de différentes traditions païennes s'orientent également sur le Chemin. Les vampires sur cette voie se consacrent au service des dieux en effectuant régulièrement des sacrifices, en honorant et en protégeant ce que les dieux considèrent comme sacré et en adhérant à des codes d'honneur stricts." #NT!
-  
- viahyron: "Via Hyron" #NT!
- viahyron_adj: "Abélène" #NT!
- viahyron_adherent: "Abélène" #NT!
- viahyron_adherent_plural: "Abélènes" #NT!
- viahyron_desc: "La Route de la Ruche est suivie presque exclusivement par les Baali de l'Ordre de Moloch. La Route prêche une loyauté totale envers la lignée dans son ensemble et envers son [Sire|E] en particulier. La raison principale en est que les grandes œuvres que les Baali veulent réaliser ne peuvent pas être revendiquées seules ou lorsqu'elles interfèrent avec le travail des autres. Le vampire devait laisser les voix de l'Essaim pénétrer dans son âme afin de comprendre les rêves des êtres des Ténèbres Extérieures et de les maintenir endormis. En dehors de cela, la plupart des autres vampires détruiraient activement un Baali s'il était assez stupide pour se révéler comme un adhérent." #NT!
-  
- viatartaros: "Via Tartare" #NT!
- viatartaros_adj: "Via Tartare" #NT!
- viatartaros_adherent: "Tartarosine" #NT!
- viatartaros_adherent_plural: "Tartare" #NT!
- viatartaros_desc: "Cette religion non canon a été commandée par un mécène.\nAttention, voici les démons. Les clés de nos prisons de chair et d’os ne peuvent pas être trouvées uniquement par l’étude et l’expérimentation ; au lieu de cela, nous devons rechercher, voire prendre, cette connaissance possédée par ceux qui se tiennent au-delà du seuil du monde. Certains internalistes pourraient nous appeler, s’ils connaissaient notre véritable intention, à dépasser la prison dans laquelle nous sommes nés deux fois. Cette route est sombre et pleine de périls, et la seule lumière que nous pouvons trouver est un terrible rayonnement perçant, qui menace de brûler notre chair et d'exsanguer notre esprit même." #NT!
-  
- holy_order_the_sinful: "Le pécheur" #NT!
- holy_order_order_of_pustula: "Ordre de Pustule" #NT!
- holy_order_brothers_of_the_black_mountain: "Frères de la Montagne Noire" #NT!
- holy_order_legio_peccati: "Légion Peccati" #NT!
- holy_order_order_of_aconia_messalina: "Ordre de l'Aconia la plus exquise" #NT!
- holy_order_the_voluptuaries: "Les Voluptueux" #NT!
- holy_order_daughters_of_venus: "Filles de Vénus" #NT!
- holy_order_the_heartless: "Les sans coeur" #NT!
- holy_order_the_adversaries: "Les adversaires" #NT!
- holy_order_the_firebringers: "Les porteurs de feu" #NT!
- holy_order_the_outlaws: "Les hors-la-loi" #NT!
- holy_order_the_screamers: "Les hurleurs" #NT!
- holy_order_order_of_abelenes: "Ordre d'Abelène" #NT!
- holy_order_order_of_iblis: "Ordre d'Ibilis" #NT!
- holy_order_cult_of_augurs: "Culte des Augures" #NT!
- holy_order_order_of_vaticinators: "Ordre des Vaticinateurs" #NT!
- holy_order_ancient_order_of_druids: "Ancien Ordre des Druides" #NT!
- holy_order_order_of_morrigan: "Ordre du Morrigan" #NT!
- holy_order_order_of_tartaros: "Ordre du Tartare" #NT!
-  
- deimosianism: "Déimosianisme" #NT!
- deimosianism_adj: "Déimosianisme" #NT!
- deimosianism_adherent: "Déimosien" #NT!
- deimosianism_adherent_plural: "Déimosien" #NT!
- deimosianism_desc: "Les vampires sont l'incarnation des peurs primaires de l'humanité. A ce titre, ils doivent se révéler dans leur état. Peut-être que l’humanité sera un jour assez forte pour vaincre ses peurs. En attendant, les Déimosiens sont libres." #NT!
-  
- servitorsofirad: "Serviteurs d'Irad" #NT!
- servitorsofirad_adj: "Serviteur" #NT!
- servitorsofirad_adherent: "Serviteur" #NT!
- servitorsofirad_adherent_plural: "Serviteurs" #NT!
- servitorsofirad_desc: "Serviteurs autoproclamés du [antediluvians|E], les Serviteurs d'Irad ne recherchent rien d'autre qu'une guerre et un bain de sang sans fin. La planète sera inondée de sang et ils seront toujours à l’avant-garde." #NT!
-  
- baobhansith: "Baobhan Sith" #NT!
- baobhansith_adj: "Baobhan Sith" #NT!
- baobhansith_adherent: "Baobhan Sith" #NT!
- baobhansith_adherent_plural: "Baobhan Sith" #NT!
- baobhansith_desc: "Cette religion non canon a été commandée par un mécène.\n\nLes Baobhan Sith embrassent l'héritage de leur fondateur, Aisling Leanhaun, dont les premiers repas ont inspiré la légende des Baobhan Sith dans les Highlands écossaises. Fascinés par le mythe des vampires faes tueurs et séduisants, les adeptes s'adaptent à ce moule pour maintenir la légende vivante." #NT!
- holy_order_host_of_the_broken_heart: "Hôte du Cœur Brisé" #NT!
- holy_order_host_of_the_unseelie: "Hôte des Unseelies" #NT!
+    #Common Road of Humanity Localization
+    roadofsin_religion: "La route du péché"
+    roadofsin_religion_adj: "Pécheur"
+    roadofsin_religion_adherent: "Pécheur"
+    roadofsin_religion_adherent_plural: "Pécheurs"
+    roadofsin_religion_desc: "Des vampires qui contrôlent leur bête en se livrant aux péchés. Le pratiquant le plus courant est un hédoniste insouciant, mais ses sectes peuvent conduire à un état d'esprit plus sévère."
+    roadofsin_high_god_name: "Péché"
+    roadofsin_high_god_name_possessive: "Péchés"
+    roadofsin_high_god_name_alternate: "Péché"
+    roadofsin_high_god_name_alternate_possessive: "Péchés"
+    roadofsin_good_god_jesus: "$roadofsin_health_god_name$"
+    roadofsin_good_god_christ: "Péché"
+    roadofsin_devil_name: "L'adversaire"
+    roadofsin_devil_name_possessive: "Celui de l'Adversaire"
+    roadofsin_evil_god_lucifer: "L'adversaire"
+    roadofsin_evil_god_beelzebub: "L'adversaire"
+    roadofsin_evil_god_mephistopheles: "L'adversaire"
+    roadofsin_death_deity_name: "Destruction"
+    roadofsin_death_deity_name_possessive: "Destruction"
+    roadofsin_house_of_worship: "tanière"
+    roadofsin_house_of_worship_plural: "tanières"
+    roadofsin_religious_symbol: "pomme"
+    roadofsin_religious_text: "Sur la faim et sa satisfaction"
+    roadofsin_religious_head_title: "Primaires"
+    roadofsin_religious_head_title_name: "Primaires"
+    roadofsin_devotee_male: "pécheur"
+    roadofsin_devotee_male_plural: "pécheurs"
+    roadofsin_devotee_female: "pécheur"
+    roadofsin_devotee_female_plural: "pécheurs"
+    roadofsin_devotee_neuter: "pécheur"
+    roadofsin_devotee_neuter_plural: "pécheurs"
+    roadofsin_priest_male: "pécheur"
+    roadofsin_priest_male_plural: "pécheurs"
+    roadofsin_priest_alternate_plural: "pécheurs"
+    roadofsin_bishop: "précepteur"
+    roadofsin_bishop_plural: "précepteurs"
+    roadofsin_divine_realm: "éternité"
+    roadofsin_positive_afterlife: "éternité"
+    roadofsin_negative_afterlife: "les abysses"
+    roadofsin_witchgodname_the_horned_god: "l'Adversaire"
+    roadofsin_witchgodname_the_horned_god_possessive: "celui de l'Adversaire"
+
+    roadofsin_creator_god_name: "$roadofsin_high_god_name$"
+    roadofsin_creator_god_name_possessive: "$roadofsin_high_god_name_possessive$"
+    roadofsin_health_god_name: "péché"
+    roadofsin_health_god_name_possessive: "péchés"
+    roadofsin_fertility_god_name: "$roadofsin_high_god_name$"
+    roadofsin_fertility_god_name_possessive: "$roadofsin_high_god_name_possessive$"
+    roadofsin_wealth_god_name: "$roadofsin_high_god_name$"
+    roadofsin_wealth_god_name_possessive: "$roadofsin_high_god_name_possessive$"
+    roadofsin_household_god_name: "$roadofsin_health_god_name$"
+    roadofsin_household_god_name_possessive: "$roadofsin_health_god_name_possessive$"
+    roadofsin_fate_god_name: "$roadofsin_high_god_name$"
+    roadofsin_fate_god_name_possessive: "$roadofsin_high_god_name_possessive$"
+    roadofsin_knowledge_god_name: "$roadofsin_high_god_name$"
+    roadofsin_knowledge_god_name_possessive: "$roadofsin_high_god_name_possessive$"
+    roadofsin_war_god_name: "$roadofsin_high_god_name$"
+    roadofsin_war_god_name_possessive: "$roadofsin_high_god_name_possessive$"
+    roadofsin_trickster_god_name: "Fortune"
+    roadofsin_trickster_god_name_possessive: "La Fortune"
+    roadofsin_night_god_name: "$roadofsin_high_god_name$"
+    roadofsin_night_god_name_possessive: "$roadofsin_high_god_name_possessive$"
+    roadofsin_water_god_name: "$roadofsin_health_god_name$"
+    roadofsin_water_god_name_possessive:
+        "$roadofsin_health_god_name_possessive$"
+
+        #Sinner-Group Faiths
+    viapeccati: "Via Peccati"
+    viapeccati_adj: "Peccati"
+    viapeccati_adherent: "Pécheur"
+    viapeccati_adherent_plural: "Pécheurs"
+    viapeccati_desc: "Les adeptes de Via Peccati contrôlent leur Bête en se livrant à leurs caprices et à leurs désirs, peu importe qui ils blessent. Ne pas faire ce qu’ils veulent aggrave leur condition, ce qui signifie que la morale, l’éthique et les lois sont généralement laissées de côté alors qu’ils avancent sur cette route. Les adeptes de la Via Peccati ne sont pas mauvais en soi ; juste complètement complaisant."
+
+    viavoluptuous: "Via Voluptaire"
+    viavoluptuous_adj: "Voluptaire"
+    viavoluptuous_adherent: "Voluptueux"
+    viavoluptuous_adherent_plural: "Voluptueux"
+    viavoluptuous_desc: "Les pécheurs du chemin du plaisir sont les plus hédonistes de ceux qui suivent la route du péché. Pour eux, le plaisir est tout ce qui concerne leur existence, et absolument rien n'est tabou."
+
+    viacrudelitas: "Via Crudelitas"
+    viacrudelitas_adj: "Crudélitas"
+    viacrudelitas_adherent: "Sans coeur"
+    viacrudelitas_adherent_plural: "Sans coeur"
+    viacrudelitas_desc: "Les adeptes du Sentier de la Cruauté sont les pécheurs les plus cyniques et les plus haineux. Issu en grande partie d'une philosophie « blessez-les avant qu'ils ne vous blessent », les pécheurs d'ici ne croient pas à la miséricorde, à la compassion ou à la pitié. Au contraire, leur seul plaisir provient de la douleur des autres."
+
+    viaadversarius: "Via Adversaire"
+    viaadversarius_adj: "Adversaire"
+    viaadversarius_adherent: "Adversaire"
+    viaadversarius_adherent_plural: "Adversaires"
+    viaadversarius_desc: "Le « Chemin du Diable » ne doit pas être confondu avec la soi-disant Via Diabolis, ces pécheurs travaillent pour éviter d'être manipulés. Les ultimes maniaques du contrôle, ils feront des efforts extrêmes pour protéger leur libre arbitre et, exceptionnellement, celui des autres. Beaucoup les considèrent comme les plus « agréables » des pécheurs."
+
+    viadiabolis: "Par Diabolis"
+    viadiabolis_adj: "Diabolique"
+    viadiabolis_adherent: "Diable"
+    viadiabolis_adherent_plural: "les diables"
+    viadiabolis_desc: "Étant une route intrinsèquement destructrice, la Via Diabolis n’est pas considérée comme un chemin à prendre à la légère ; ceux qui osent le suivre se livrent à toutes sortes de débauches et de destructions. Beaucoup ne sont pas vraiment mauvais en soi, même si croire à une non-vie vertueuse est une quête infructueuse. Certains, cependant, prenaient le rôle du diable au sérieux, se qualifiant même de diables incarnés et de serviteurs de Satan. Les Baali en particulier sont associés à la Via Diabolis."
+
+    viaprometheus: "Via Prométhée"
+    viaprometheus_adj: "Prométhéen"
+    viaprometheus_adherent: "Prométhéen"
+    viaprometheus_adherent_plural: "Prométhéen"
+    viaprometheus_desc: "Également appelés Firebringers, ils sont une secte de [cainites|E] qui rêve de recréer Carthage et l'harmonie des Kindred et des Kine qui y est associée. Sans surprise, de nombreux membres sont des Brujahs. Étant donné que de nombreux membres des Hauts Clans considèrent ces visions comme une trahison, les Prométhéens sont contraints d'agir secrètement."
+
+    viafurores: "Via Furores"
+    viafurores_adj: "Fureurs"
+    viafurores_adherent: "Fureurs"
+    viafurores_adherent_plural: "Fureurs"
+    viafurores_desc: "Les membres de cette secte ont la réputation d'être les hors-la-loi du [cainites|E]. Condamnés par la plupart des princes comme des voleurs et des fauteurs de troubles, ils existent en marge de la société vampire, se débarrassant d'une maigre existence comme leurs homologues mortels. Les Furores sont considérés comme chaotiques, mais ils peuvent rassembler un niveau de passion pour leur cause jamais vu ailleurs dans la société [cainite|E]."
+
+    viaquiritare: "Via Quiritare"
+    viaquiritare_adj: "Quiritare"
+    viaquiritare_adherent: "Hurleur"
+    viaquiritare_adherent_plural: "Hurleurs"
+    viaquiritare_desc: "Les plus fous des pécheurs et les opposés de la Via Adversarius, les adeptes du Chemin des Cris croient que comme ils sont déjà damnés, ils sont aussi déjà la proie de la Bête, et se laissent donc manipuler par elle pour exécuter les ordres de la Bête. . Ce sont essentiellement des exemples ambulants de l’Enfer sur Terre ; même les autres pécheurs répugnent à s'associer à ces fous."
+
+    tariqelshaitan: "Tariq el-Shaitan"
+    tariqelshaitan_adj: "Shaitan"
+    tariqelshaitan_adherent: "Shaitan"
+    tariqelshaitan_adherent_plural: "Shaitan"
+    tariqelshaitan_desc: "La Voie du Diable dans le monde islamique. Chassés presque jusqu'à l'extinction par les guerriers des clans Salubri et Assamite, ces monstres ont depuis appris à jouer le long jeu."
+
+    pathoftheeightfoldwheel: "La roue octuple"
+    pathoftheeightfoldwheel_adj: "Druide"
+    pathoftheeightfoldwheel_adherent: "Druide"
+    pathoftheeightfoldwheel_adherent_plural: "Druides"
+    pathoftheeightfoldwheel_desc: "Le Chemin de la Roue Octuple s'inspire du paganisme celtique, avec un accent particulier sur le druidisme. Ils accordent une grande importance au respect des dieux et des esprits de la nature, au service de l'équilibre en toutes choses et à un calendrier tournant de festivals basés sur l'astronomie."
+
+    pathofwatchfulgods: "Via Deorum Vigilans"
+    pathofwatchfulgods_adj: "Vaticinateur"
+    pathofwatchfulgods_adherent: "Vaticinateur"
+    pathofwatchfulgods_adherent_plural: "Vaticinateurs"
+    pathofwatchfulgods_desc: "Le Chemin des Dieux Vigilants vénère le panthéon païen des anciens Grecs et Romains, bien que des panthéons de différentes traditions païennes s'orientent également sur le Chemin. Les vampires sur cette voie se consacrent au service des dieux en effectuant régulièrement des sacrifices, en honorant et en protégeant ce que les dieux considèrent comme sacré et en adhérant à des codes d'honneur stricts."
+
+    viahyron: "Via Hyron"
+    viahyron_adj: "Abélène"
+    viahyron_adherent: "Abélène"
+    viahyron_adherent_plural: "Abélènes"
+    viahyron_desc: "La Route de la Ruche est suivie presque exclusivement par les Baali de l'Ordre de Moloch. La Route prêche une loyauté totale envers la lignée dans son ensemble et envers son [Sire|E] en particulier. La raison principale en est que les grandes œuvres que les Baali veulent réaliser ne peuvent pas être revendiquées seules ou lorsqu'elles interfèrent avec le travail des autres. Le vampire devait laisser les voix de l'Essaim pénétrer dans son âme afin de comprendre les rêves des êtres des Ténèbres Extérieures et de les maintenir endormis. En dehors de cela, la plupart des autres vampires détruiraient activement un Baali s'il était assez stupide pour se révéler comme un adhérent."
+
+    viatartaros: "Via Tartare"
+    viatartaros_adj: "Via Tartare"
+    viatartaros_adherent: "Tartarosine"
+    viatartaros_adherent_plural: "Tartare"
+    viatartaros_desc: "Cette religion non canon a été commandée par un mécène.\nAttention, voici les démons. Les clés de nos prisons de chair et d’os ne peuvent pas être trouvées uniquement par l’étude et l’expérimentation ; au lieu de cela, nous devons rechercher, voire prendre, cette connaissance possédée par ceux qui se tiennent au-delà du seuil du monde. Certains internalistes pourraient nous appeler, s’ils connaissaient notre véritable intention, à dépasser la prison dans laquelle nous sommes nés deux fois. Cette route est sombre et pleine de périls, et la seule lumière que nous pouvons trouver est un terrible rayonnement perçant, qui menace de brûler notre chair et d'exsanguer notre esprit même."
+
+    holy_order_the_sinful: "Le pécheur"
+    holy_order_order_of_pustula: "Ordre de Pustule"
+    holy_order_brothers_of_the_black_mountain: "Frères de la Montagne Noire"
+    holy_order_legio_peccati: "Légion Peccati"
+    holy_order_order_of_aconia_messalina: "Ordre de l'Aconia la plus exquise"
+    holy_order_the_voluptuaries: "Les Voluptueux"
+    holy_order_daughters_of_venus: "Filles de Vénus"
+    holy_order_the_heartless: "Les sans coeur"
+    holy_order_the_adversaries: "Les adversaires"
+    holy_order_the_firebringers: "Les porteurs de feu"
+    holy_order_the_outlaws: "Les hors-la-loi"
+    holy_order_the_screamers: "Les hurleurs"
+    holy_order_order_of_abelenes: "Ordre d'Abelène"
+    holy_order_order_of_iblis: "Ordre d'Ibilis"
+    holy_order_cult_of_augurs: "Culte des Augures"
+    holy_order_order_of_vaticinators: "Ordre des Vaticinateurs"
+    holy_order_ancient_order_of_druids: "Ancien Ordre des Druides"
+    holy_order_order_of_morrigan: "Ordre du Morrigan"
+    holy_order_order_of_tartaros: "Ordre du Tartare"
+
+    deimosianism: "Déimosianisme"
+    deimosianism_adj: "Déimosianisme"
+    deimosianism_adherent: "Déimosien"
+    deimosianism_adherent_plural: "Déimosien"
+    deimosianism_desc: "Les vampires sont l'incarnation des peurs primaires de l'humanité. A ce titre, ils doivent se révéler dans leur état. Peut-être que l’humanité sera un jour assez forte pour vaincre ses peurs. En attendant, les Déimosiens sont libres."
+
+    servitorsofirad: "Serviteurs d'Irad"
+    servitorsofirad_adj: "Serviteur"
+    servitorsofirad_adherent: "Serviteur"
+    servitorsofirad_adherent_plural: "Serviteurs"
+    servitorsofirad_desc: "Serviteurs autoproclamés du [antediluvians|E], les Serviteurs d'Irad ne recherchent rien d'autre qu'une guerre et un bain de sang sans fin. La planète sera inondée de sang et ils seront toujours à l’avant-garde."
+
+    baobhansith: "Baobhan Sith"
+    baobhansith_adj: "Baobhan Sith"
+    baobhansith_adherent: "Baobhan Sith"
+    baobhansith_adherent_plural: "Baobhan Sith"
+    baobhansith_desc: "Cette religion non canon a été commandée par un mécène.\n\nLes Baobhan Sith embrassent l'héritage de leur fondateur, Aisling Leanhaun, dont les premiers repas ont inspiré la légende des Baobhan Sith dans les Highlands écossaises. Fascinés par le mythe des vampires faes tueurs et séduisants, les adeptes s'adaptent à ce moule pour maintenir la légende vivante."
+    holy_order_host_of_the_broken_heart: "Hôte du Cœur Brisé"
+    holy_order_host_of_the_unseelie: "Hôte des Unseelies"

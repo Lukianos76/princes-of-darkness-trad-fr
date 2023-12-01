@@ -1,21 +1,21 @@
 ﻿l_french:
   
- setite_faith_corruption_decision: "Prêcher la parole de Set" #NT!
- setite_faith_corruption_decision_tooltip: "Set peut toujours utiliser des adeptes plus fidèles." #NT!
- setite_faith_corruption_decision_desc: "Le culte de Seth est connu comme une force insidieuse capable d’infiltrer n’importe quelle religion et de détourner son objectif vers la gloire de Seth." #NT!
- setite_faith_corruption_decision_effect_tooltip: "La doctrine spéciale des Piliers de Set sera ajoutée à la religion, rendant ses pratiquants justes avec (et envers) les divers autres cultes sénites." #NT!
- setite_faith_corruption_decision_confirm: "Louons ensemble Seth !" #NT!
- setite_corrupt_sites: "Vous devez contrôler au moins 3 lieux saints d'une religion vampirique qui n'a pas déjà la doctrine spéciale Piliers de Set." #NT!
+ setite_faith_corruption_decision: "Prêcher la parole de Set"
+ setite_faith_corruption_decision_tooltip: "Set peut toujours utiliser des adeptes plus fidèles."
+ setite_faith_corruption_decision_desc: "Le culte de Seth est connu comme une force insidieuse capable d’infiltrer n’importe quelle religion et de détourner son objectif vers la gloire de Seth."
+ setite_faith_corruption_decision_effect_tooltip: "La doctrine spéciale des Piliers de Set sera ajoutée à la religion, rendant ses pratiquants justes avec (et envers) les divers autres cultes sénites."
+ setite_faith_corruption_decision_confirm: "Louons ensemble Seth !"
+ setite_corrupt_sites: "Vous devez contrôler au moins 3 lieux saints d'une religion vampirique qui n'a pas déjà la doctrine spéciale Piliers de Set."
   
- podsetite.1.t: "Le clan de la foi" #NT!
- podsetite.1.desc: "Les adeptes de Set sont autant une religion qu'un véritable [Clan|E]. Ils considèrent chaque vampire vénérant Seth comme faisant partie de leur communauté, même si ceux qui descendent directement de lui restent les plus favorisés.\nLes Setites ont perfectionné l'art d'infiltrer et de corrompre (ou de "libérer") d'autres religions et cultes, dévoilant lentement les mystères. de Set avec eux avant de les intégrer pleinement au bercail. C'est de loin leur plus grande arme, et beaucoup de conquérants de l'Égypte se sont retrouvés accueillis, puis fascinés par le culte au lieu de leur résister directement.\nEn cette époque de croisades et de ferveur religieuse, les Séthites regardent à l'étranger toutes ces pauvres âmes. désespérés de l'approbation de leurs dieux hérétiques. Et ils voient de nombreuses opportunités." #NT!
- podsetite.1.a: "Bienvenue au Jardin du Serpent." #NT!
- setite_intro_tt: "Tant que vous restez de foi séthite, vous avez accès à la décision de syncrétiser toute religion que vous contrôlez au moins trois lieux saints avec le culte de Set." #NT!
+ podsetite.1.t: "Le clan de la foi"
+ podsetite.1.desc: "Les adeptes de Set sont autant une religion qu'un véritable [Clan|E]. Ils considèrent chaque vampire vénérant Seth comme faisant partie de leur communauté, même si ceux qui descendent directement de lui restent les plus favorisés.\nLes Setites ont perfectionné l'art d'infiltrer et de corrompre (ou de "libérer") d'autres religions et cultes, dévoilant lentement les mystères. de Set avec eux avant de les intégrer pleinement au bercail. C'est de loin leur plus grande arme, et beaucoup de conquérants de l'Égypte se sont retrouvés accueillis, puis fascinés par le culte au lieu de leur résister directement.\nEn cette époque de croisades et de ferveur religieuse, les Séthites regardent à l'étranger toutes ces pauvres âmes. désespérés de l'approbation de leurs dieux hérétiques. Et ils voient de nombreuses opportunités."
+ podsetite.1.a: "Bienvenue au Jardin du Serpent."
+ setite_intro_tt: "Tant que vous restez de foi séthite, vous avez accès à la décision de syncrétiser toute religion que vous contrôlez au moins trois lieux saints avec le culte de Set."
   
- podsetite.2.t: "L'étreinte du serpent" #NT!
- podsetite.2.desc: "Cela commence lentement. L'allusion d'un profond mystère taquiné par certaines figures importantes de la foi ciblée, la promotion de la décadence et de la satisfaction personnelle, la lente propagation d'idées plus « libératrices » parmi les pratiquants.\nPuis cela se répercute en cascade. La révélation que tous les mystères (y compris le leur) mènent à Seth. L'acceptation que le monde est une prison construite par Ra et ses Eons, et que tout ce qu'ils pensaient vrai était un mensonge. Puis, enfin, le zèle du nouveau converti, désireux de montrer la vérité à ses frères.\nEt avant que vous vous en rendiez compte, toute cette foi n'est plus qu'une façade utile pour le culte de Set. Comme tout devrait l’être, jusqu’à la grande nuit de la libération." #NT!
+ podsetite.2.t: "L'étreinte du serpent"
+ podsetite.2.desc: "Cela commence lentement. L'allusion d'un profond mystère taquiné par certaines figures importantes de la foi ciblée, la promotion de la décadence et de la satisfaction personnelle, la lente propagation d'idées plus « libératrices » parmi les pratiquants.\nPuis cela se répercute en cascade. La révélation que tous les mystères (y compris le leur) mènent à Seth. L'acceptation que le monde est une prison construite par Ra et ses Eons, et que tout ce qu'ils pensaient vrai était un mensonge. Puis, enfin, le zèle du nouveau converti, désireux de montrer la vérité à ses frères.\nEt avant que vous vous en rendiez compte, toute cette foi n'est plus qu'une façade utile pour le culte de Set. Comme tout devrait l’être, jusqu’à la grande nuit de la libération."
   
- special_doctrine_set_corrupted_kindred_name: "Culte de Set" #NT!
- special_doctrine_set_corrupted_kindred_desc: "Cette foi, tout en gardant la façade de ses débuts, a été complètement infiltrée par le Culte de Seth." #NT!
- corrupted_set_name: "Culte de Set" #NT!
- doctrine_parameter_hostility_override_special_doctrine_set_corrupted_kindred: "Les autres Kindred [faiths|E] qui ont la doctrine Culte de Set sont considérés comme [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V] au lieu de $hostility_hostile_tooltippable$" #NT!
+ special_doctrine_set_corrupted_kindred_name: "Culte de Set"
+ special_doctrine_set_corrupted_kindred_desc: "Cette foi, tout en gardant la façade de ses débuts, a été complètement infiltrée par le Culte de Seth."
+ corrupted_set_name: "Culte de Set"
+ doctrine_parameter_hostility_override_special_doctrine_set_corrupted_kindred: "Les autres Kindred [faiths|E] qui ont la doctrine Culte de Set sont considérés comme [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V] au lieu de $hostility_hostile_tooltippable$"

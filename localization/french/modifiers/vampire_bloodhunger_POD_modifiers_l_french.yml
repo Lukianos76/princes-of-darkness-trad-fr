@@ -1,18 +1,16 @@
 ﻿l_french:
- bloodhunger0_modifier: "Faim de sang 0 : rassasié" #NT!
- bloodhunger1_modifier: "Faim de sang 1 : faim" #NT!
- bloodhunger2_modifier: "Faim de sang 2 : Vorace" #NT!
- bloodhunger3_modifier: "Faim de sang 3 : Affamé" #NT!
- bloodhunger4_modifier: "Faim de sang 4 : mourir de faim" #NT!
- bloodhunger5_modifier: "Faim de sang 5 : Frénétique" #NT!
-  
- slightbloodloss_modifier: "Légère perte de sang" #NT!
- slightbloodloss_modifier_desc: "L’alimentation automatique du troupeau s’arrête jusqu’à ce que la perte de sang disparaisse." #NT!
- smallbloodloss_modifier: "Petite perte de sang" #NT!
- smallbloodloss_modifier_desc: "L’alimentation automatique du troupeau s’arrête jusqu’à ce que la perte de sang disparaisse." #NT!
- majorbloodloss_modifier: "Perte de sang importante" #NT!
- majorbloodloss_modifier_desc: "L’alimentation automatique du troupeau s’arrête jusqu’à ce que la perte de sang disparaisse." #NT!
- catastrophicbloodloss_modifier: "Perte de sang catastrophique" #NT!
- catastrophicbloodloss_modifier_desc: "L’alimentation automatique du troupeau s’arrête jusqu’à ce que la perte de sang disparaisse." #NT!
-  
-  
+    bloodhunger0_modifier: "Faim de sang 0 : rassasié"
+    bloodhunger1_modifier: "Faim de sang 1 : faim"
+    bloodhunger2_modifier: "Faim de sang 2 : Vorace"
+    bloodhunger3_modifier: "Faim de sang 3 : Affamé"
+    bloodhunger4_modifier: "Faim de sang 4 : mourir de faim"
+    bloodhunger5_modifier: "Faim de sang 5 : Frénétique"
+
+    slightbloodloss_modifier: "Légère perte de sang"
+    slightbloodloss_modifier_desc: "L’alimentation automatique du troupeau s’arrête jusqu’à ce que la perte de sang disparaisse."
+    smallbloodloss_modifier: "Petite perte de sang"
+    smallbloodloss_modifier_desc: "L’alimentation automatique du troupeau s’arrête jusqu’à ce que la perte de sang disparaisse."
+    majorbloodloss_modifier: "Perte de sang importante"
+    majorbloodloss_modifier_desc: "L’alimentation automatique du troupeau s’arrête jusqu’à ce que la perte de sang disparaisse."
+    catastrophicbloodloss_modifier: "Perte de sang catastrophique"
+    catastrophicbloodloss_modifier_desc: "L’alimentation automatique du troupeau s’arrête jusqu’à ce que la perte de sang disparaisse."

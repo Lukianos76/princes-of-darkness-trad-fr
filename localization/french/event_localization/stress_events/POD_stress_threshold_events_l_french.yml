@@ -1,87 +1,88 @@
 ﻿l_french:
-  
-  # Replace stress_threshold.3301 —	Heart Ache 
-  
- stress_threshold.3311.t: "Pause mentale : la bête gagne" #NT!
- stress_threshold.3311.desc: "Après des siècles de combats, la bête prend enfin le dessus. Vous avez essayé de suivre un chemin, de vous accrocher à de nobles idées de contrôle de vous-même, de repousser le monstre en vous.\nVous avez échoué.\nAvec votre adhésion à votre chemin diminuant et votre volonté disparue, plus rien n'arrête la bête. #R Vous ne pourrez jamais me tenir à distance. VOUS ÊTES À MOI !#!" #NT!
- stress_threshold.3311.desc_instinct: "Après des siècles de lutte contre elle, la bête finit par vous noyer. Vous avez essayé de suivre un chemin, de poursuivre des idées ambitieuses pour contrôler le monstre en vous, d'exploiter son pouvoir tout en conservant votre personnalité.\nVous avez échoué.\nAvec votre adhésion au chemin diminuant et votre volonté disparue, la vague de frénésie vous noie. pour toujours. #R M'UTILISER ? M'exploiter ? Faible, je vais te montrer mon pouvoir.#!" #NT!
- stress_threshold.3311.a: "Je suis perdu." #NT!
-  
- stress_threshold.3321.t: "Pause mentale : âme de l'ombre" #NT!
- stress_threshold.3321.desc: "De tous les états d’âme, l’âme de l’ombre est le plus redouté. Pendant Shadow Soul, le démon du personnage cherche à établir sa domination. Lorsqu'un personnage sombre dans l'âme de l'ombre, il mène une guerre intérieure contre les pulsions et les insinuations des P'o.\nSi les Huns perdent cette guerre, ils reculent dans la soumission et la Nature P'o prend le relais pendant un certain temps, provoquant peut-être la caractère à commettre des actes que leur moi supérieur trouverait odieux. Un échec prolongé à résister au P'o peut éloigner un personnage de son Dharma pour rejoindre les rangs du chih-mei, ou pire." #NT!
- stress_threshold.3321.a: "Je suis perdu." #NT!
-  
- stress_threshold.3322.t: "Pause Mentale : Éveil P'o" #NT!
- stress_threshold.3322.desc: "Si un [GetTrait('shih').GetName( GetPlayer )] se perd de plus en plus dans la violence, sa nature surnaturelle peut éveiller son âme P'o, de la même manière que celle d'un Kuei-jin, sans en retirer les bénéfices. [GetTrait('shih').GetName( GetPlayer )] qui meurent après avoir réveillé leur P'o reviennent généralement sous le nom de Kuei-jin." #NT!
- stress_threshold.3322.a: "Je suis perdu." #NT!
-  
- stress_threshold.3331.t: "Rupture mentale : la chute de la grâce" #NT!
- stress_threshold.3331.desc: "La route de Maât est difficile à parcourir, et tous les Reborn ne peuvent pas faire le voyage. Si une momie tombe en disgrâce, l’une des deux conséquences possibles se produit. La première possibilité est que les Juges de Maât considéreront la momie indigne de la vie éternelle. Ils ont jeté l’âme de maman à Amemait, et la momie n’est plus. La deuxième option et la seule chance de survie de la momie est que les Amenti renoncent à Osiris et Maât et acceptent de servir Apophis." #NT!
- stress_threshold.3331.a: "J'accepte votre phrase." #NT!
- stress_threshold.3331.b: "Sauve-moi! Grand Serpent !" #NT!
-  
- stress_threshold.3341.t: "Rupture mentale : naissance d'un spectre" #NT!
- stress_threshold.3341.desc: "Un mortel qui meurt dans des circonstances particulièrement violentes ou un spectre dont l'Ombre prétend qu'il « renaît » en tant que Spectre. C’est plus qu’une simple transformation physique. La personnalité et la constitution psychologique de l’individu, ainsi que sa forme physique, sont dissoutes et reconstruites avec l’étoffe d’Oblivion elle-même. Les spécificités varient d'un Spectre à l'autre - certains apparaissent comme des monstruosités, leur [Corpus|E] échaudé, déformé et étiré dans un cauchemar ambulant, tandis que d'autres semblent peu différents, à l'exception de la preuve de leur mort gravée en permanence sur eux - mais tous portent la marque indubitable. de l'oubli." #NT!
- stress_threshold.3341.a: "Je suis perdu." #NT!
- stress_threshold.3341.b: "Tu ne peux pas m'emmener !" #NT!
- stress_threshold.3341.tooltip: "Cette option est disponible car vous disposez du [GetPerk( 'defiance_perk' ).GetName( GetPlayer )] [perk|E]" #NT!
-  
- stress_threshold.3351.t: "Pause mentale : consommation" #NT!
- stress_threshold.3351.desc: "L’Écriture déclare que le salaire du péché est la mort, et les damnés savent que c’est vrai. Les démons et les esclaves dotés de nombreux tourments subissent des dégâts mortels chaque jour à l'aube. La manifestation réelle de ces blessures varie selon les damnés, même si elle a souvent un lien avec le vice du personnage et aboutit inévitablement à une disparition dramatique et horrible. La colère peut couver comme une flamme littérale jusqu'à ce que le personnage s'enflamme spontanément. L’envie peut prendre la forme d’un poison ou même d’un acide dans le même but. La gourmandise consume souvent la chair, cannibalisant le corps jusqu'à en faire une enveloppe flétrie. L’orgueil peut prendre la forme de saints stigmates pour se moquer du sacrifice du Christ." #NT!
- stress_threshold.3351.a: "Pouah...!" #NT!
-  
- stress_threshold.3361.t: "Pause mentale : déséquilibre" #NT!
- stress_threshold.3361.desc: "Tous les faes ont un degré limité de contrôle sur les Brumes et le Tissage, le chaos et l'ordre, le potentiel magique et l'application magique. Pour une fée individuelle, il est cependant essentiel de maintenir l’équilibre de ces deux forces. Si l’un éclipse l’autre, un fae peut devenir perdu (une surabondance de brumes) ou verrouillé (une dépendance excessive au tissage). Ces deux états, s'ils ne sont pas contrôlés, peuvent signifier la fin du fae, l'amenant soit à disparaître complètement du monde, soit à devenir si ancré dans le physique et prévisible qu'il perd son lien avec les Brumes et devient, pour toutes les raisons pratiques. fins, humaines." #NT!
- stress_threshold.3361.a: "Pouah...!" #NT!
-  
- stress_threshold.3362.t: "Pause mentale : défaire" #NT!
- stress_threshold.3362.desc: "La force de la Banalité dans le monde des mortels est si forte que, si un changelin n'y prend pas garde, il peut séparer un fae de son moi mortel. Alors qu'un changelin est épuisé par la Banalité, il commence à oublier son lien avec le Rêve. Les souvenirs de lui-même fae disparaissent et un fae peut tomber dans la Défaite, une époque où un changeling oublie son époque en tant que fae et est à la place englouti dans son apparence mortelle. Si le processus n'est pas arrêté ou au moins ralenti, le changeling perd complètement le contact avec sa moitié fae. Ce qui reste, c'est la moitié creuse du mortel, vivant sa vie seule dans le monde ennuyeux et banal." #NT!
- stress_threshold.3362.a: "Pouah...!" #NT!
-  
-  #Fancy KJ stress level 2 event 
-  
- stress_threshold.2361.t: "Pause mentale : Âme de feu" #NT!
- stress_threshold.2361.desc: "L'âme de feu est une folie pure et simple. Les Kuei-jin dans l'état d'âme de feu sont des monstres sauvages, consumés par la rage. Les Kin-jin ignorants appellent cette phase « frénésie », et il y a peu de différence entre les deux états." #NT!
- stress_threshold.2361.a: "Succombez à votre rage." #NT!
- stress_threshold.2361.b: "Résistez avec tout votre Yin Chi." #NT!
- stress_threshold.2361.fight.failed: "Vous avez échoué." #NT!
-  
- stress_threshold.2371.t: "Pause mentale : Wave Soul" #NT!
- stress_threshold.2371.desc: "Kuei-jin souffrant de l'âme des vagues débilitantes perd complètement le contrôle face aux impulsions de terreur. Cet état (ainsi nommé parce que les Kuei-jin sous son emprise sont apparemment secoués par des vagues de peur) est considéré comme extrêmement honteux par les Hungry Dead, qui cherchent à l'éviter à tout prix, notamment devant leurs pairs." #NT!
- stress_threshold.2371.a: "Succombez à votre peur." #NT!
- stress_threshold.2371.b: "Résistez avec tout votre Yang Chi." #NT!
- stress_threshold.2371.fight.failed: "Vous avez échoué." #NT!
-  
-  #Fancy KJ stress level 1 event 
-  
- stress_threshold.1742.t: "Mental Break : Prise de contrôle par The Bandit" #NT!
- stress_threshold.1742.desc: "Même si un Kuei-jin peut avoir un rôle spécifique à remplir ou une raison particulière pour revenir d'entre les morts, le bandit n'en a rien.\nCe P'o ne voit aucune utilité dans le Grand Cycle, qui, après tout, est très éloigné de son existence nocturne. Au contraire, il ignore les mandats du Ciel et de l'enfer et cherche à conduire les Kuei-jin à des actes aléatoires de destruction auto-satisfaite. Le but ultime du bandit est de détruire tout le Grand Cycle, peut-être par ressentiment d'avoir été renvoyé sur les terres des vivants, mais en attendant, toute cible - et tout représentant de l'ordre - sert de point de mire aux P'o. rage." #NT!
- stress_threshold.1742.a: "Mon âme du vent est submergée." #NT!
-  
- stress_threshold.1743.t: "Mental Break : Prise de contrôle par The Barbarian" #NT!
- stress_threshold.1743.desc: "Le barbare cherche à rejeter les méthodes traditionnelles du Kuei-jin et à les remplacer par les méthodes chaotiques et indisciplinées du Kin-jin. voyant la liberté relative des vampires occidentaux, il souhaite abandonner son héritage et rejoindre les Kin-jin dans leur décadence.\nLe barbare se moque du dévouement des Huns au devoir et au respect de la tradition, et il profite de chaque occasion pour comparer les méthodes cathayennes et occidentales. Inutile de dire que dans l’analyse du barbare, les méthodes occidentales s’avèrent toujours meilleures." #NT!
- stress_threshold.1743.a: "Mon âme du vent est submergée." #NT!
-  
- stress_threshold.1744.t: "Mental Break : Prise de contrôle par The Deceiver" #NT!
- stress_threshold.1744.desc: "Le Trompeur n’a aucune utilité pour la vérité, la bonne, la mauvaise ou l’indifférence. Il pratique le mensonge pour le plaisir de mentir : il dit aux Huns ce qu'il veut entendre une minute, puis le conduit au bord de la folie avec un mensonge évident la minute suivante.\nBien que ce comportement puisse sembler erratique, le P'o a une origine sous-jacente. but. Il ne cherche rien de moins que de rendre le Kuei-jin incapable de se faire confiance. Plus le Trompeur amène le Hun à croire à ses mensonges – et plus il dit la vérité et est ignoré – moins le Hun peut faire confiance à son propre jugement. Si le P’o parvient à ses fins, la volonté du Hun finira par être détruite et le vampire se retrouvera incapable de prendre une décision ou de prendre une décision sans les conseils affectueux du Trompeur." #NT!
- stress_threshold.1744.a: "Mon âme du vent est submergée." #NT!
-  
- stress_threshold.1745.t: "Mental Break : Prise de contrôle par The Demon" #NT!
- stress_threshold.1745.desc: "Le Démon cherche à tout dévorer. Tout ce qui est plus faible que le Kuei-jin est une proie, et tout ce qui est plus fort est un pouvoir qui peut être absorbé par la trahison. Bien que le Démon puisse faire semblant de parler du devoir, de l'amitié et de l'honneur, il se consacre au pouvoir personnel et ne se soucie pas de l'opinion des autres.\nPour le Démon, tout ce qu'il voit existe pour son amusement, pour le détruire et le dévorer. à son gré. Les autres âmes ne comptent qu’en termes de relations avec le Démon – et de la rapidité avec laquelle le Démon peut les dévorer." #NT!
- stress_threshold.1745.a: "Mon âme du vent est submergée." #NT!
-  
- stress_threshold.1746.t: "Mental Break : prise de contrôle par The Fool" #NT!
- stress_threshold.1746.desc: "Un Hun affligé d'un fou s'expose à une non-vie frustrante, car son P'o implore des explications, même sur l'action la plus simple ou la plus évidente. De plus, le Fou est incapable d’action à long terme ou planifiée, et ne voit aucune vertu dans l’une ou l’autre. En tant que tel, il travaille aussi dur que possible (il se laisse facilement distraire) pour amener le Kuei-jin à emprunter la voie la plus simple et la plus facile, et à éviter les risques inutiles (lire : Toute complication).\nUn imbécile P'o est jamais silencieux, et ses bavardages incessants peuvent conduire à la distraction même le Hun le plus maître de lui-même." #NT!
- stress_threshold.1746.a: "Mon âme du vent est submergée." #NT!
-  
- stress_threshold.1747.t: "Mental Break : rachat par The Legalist" #NT!
- stress_threshold.1747.desc: "Le légaliste P’o n’a aucune tolérance pour les écarts par rapport à l’ordre céleste des choses. Il n’y a pas de place pour l’interprétation ou l’improvisation dans ce monde de P’o ; tout a un rôle spécifique à jouer, dont il ne peut pas s'écarter.\nToute action entreprise par le Kuei-jin qui contredit cet ordre divin - qu'il s'adresse familièrement à quelqu'un de rang supérieur ou qu'il accepte l'insubordination d'un inférieur - fait fuir le légaliste. se met en colère jusqu’à ce que « l’insulte » soit réparée. Bien entendu, seul le P’o peut décider de ce qui constitue une expiation appropriée, soit par le Kuei-jin, soit par un autre. En tant que tel, un P’o légaliste particulièrement sadique peut faire en sorte que son autre moitié se lance dans des cerceaux très formels pendant des jours (voire plus)." #NT!
- stress_threshold.1747.a: "Mon âme du vent est submergée." #NT!
-  
- stress_threshold.1748.t: "Mental Break : Prise de contrôle par The Monkey" #NT!
- stress_threshold.1748.desc: "Même si le Kuei-jin est peut-être retourné dans l’Empire du Milieu pour une raison, le Singe ne s’en soucie pas beaucoup. C’est une créature du moment, chaque nouveau plaisir ou distraction étant la chose la plus importante au monde. Le Singe est capable de concocter des plans élaborés pour atteindre des objectifs petits ou momentanés, mais il n’est en aucun cas concerné par la mission globale que pourrait avoir le Kuei-jin. En effet, le Singe cherche, à chaque instant, à détourner le Cathayan de son objectif assigné, à détourner toute l’attention et l’énergie du vampire vers des choses mineures et transitoires." #NT!
- stress_threshold.1748.a: "Mon âme du vent est submergée." #NT!
-  
- stress_threshold.1749.t: "Mental Break : prise de contrôle par The Slave" #NT!
- stress_threshold.1749.desc: "L’Esclave n’a aucune confiance dans le jugement du Kuei-jin, qu’il cherche à saper à chaque instant. Dans la mesure du possible, l'Esclave fait de son mieux pour placer le Kuei-jin sous le contrôle d'un autre. Cette solution est évidemment pour le mieux, car l'esclave sait que le Kuei-jin est incapable de faire quoi que ce soit correctement lui-même.\nPar conséquent, il remet en question chaque décision prise par les Hun et saisit chaque opportunité pour forcer le Kuei-jin à se soumettre. Sans surprise, une fois que le P'o réussit à captiver le Hun, l'esclave commence immédiatement à déplorer son sort et exhorte le Hun à s'échapper, à chercher un autre « maître » pour le guider tout au long de son existence. En fin de compte, l'esclave cherche à servir les rois Yama, et les Cathayens avec un fort archétype d'esclave deviennent souvent des akuma." #NT!
- stress_threshold.1749.a: "Mon âme du vent est submergée." #NT!
+    # Replace stress_threshold.3301 —	Heart Ache
+
+    stress_threshold.3311.t: "Pause mentale : la bête gagne"
+    stress_threshold.3311.desc: "Après des siècles de combats, la bête prend enfin le dessus. Vous avez essayé de suivre un chemin, de vous accrocher à de nobles idées de contrôle de vous-même, de repousser le monstre en vous.\nVous avez échoué.\nAvec votre adhésion à votre chemin diminuant et votre volonté disparue, plus rien n'arrête la bête. #R Vous ne pourrez jamais me tenir à distance. VOUS ÊTES À MOI !#!"
+    stress_threshold.3311.desc_instinct: "Après des siècles de lutte contre elle, la bête finit par vous noyer. Vous avez essayé de suivre un chemin, de poursuivre des idées ambitieuses pour contrôler le monstre en vous, d'exploiter son pouvoir tout en conservant votre personnalité.\nVous avez échoué.\nAvec votre adhésion au chemin diminuant et votre volonté disparue, la vague de frénésie vous noie. pour toujours. #R M'UTILISER ? M'exploiter ? Faible, je vais te montrer mon pouvoir.#!"
+    stress_threshold.3311.a: "Je suis perdu."
+
+    stress_threshold.3321.t: "Pause mentale : âme de l'ombre"
+    stress_threshold.3321.desc: "De tous les états d’âme, l’âme de l’ombre est le plus redouté. Pendant Shadow Soul, le démon du personnage cherche à établir sa domination. Lorsqu'un personnage sombre dans l'âme de l'ombre, il mène une guerre intérieure contre les pulsions et les insinuations des P'o.\nSi les Huns perdent cette guerre, ils reculent dans la soumission et la Nature P'o prend le relais pendant un certain temps, provoquant peut-être la caractère à commettre des actes que leur moi supérieur trouverait odieux. Un échec prolongé à résister au P'o peut éloigner un personnage de son Dharma pour rejoindre les rangs du chih-mei, ou pire."
+    stress_threshold.3321.a: "Je suis perdu."
+
+    stress_threshold.3322.t: "Pause Mentale : Éveil P'o"
+    stress_threshold.3322.desc: "Si un [GetTrait('shih').GetName( GetPlayer )] se perd de plus en plus dans la violence, sa nature surnaturelle peut éveiller son âme P'o, de la même manière que celle d'un Kuei-jin, sans en retirer les bénéfices. [GetTrait('shih').GetName( GetPlayer )] qui meurent après avoir réveillé leur P'o reviennent généralement sous le nom de Kuei-jin."
+    stress_threshold.3322.a: "Je suis perdu."
+
+    stress_threshold.3331.t: "Rupture mentale : la chute de la grâce"
+    stress_threshold.3331.desc: "La route de Maât est difficile à parcourir, et tous les Reborn ne peuvent pas faire le voyage. Si une momie tombe en disgrâce, l’une des deux conséquences possibles se produit. La première possibilité est que les Juges de Maât considéreront la momie indigne de la vie éternelle. Ils ont jeté l’âme de maman à Amemait, et la momie n’est plus. La deuxième option et la seule chance de survie de la momie est que les Amenti renoncent à Osiris et Maât et acceptent de servir Apophis."
+    stress_threshold.3331.a: "J'accepte votre phrase."
+    stress_threshold.3331.b: "Sauve-moi! Grand Serpent !"
+
+    stress_threshold.3341.t: "Rupture mentale : naissance d'un spectre"
+    stress_threshold.3341.desc: "Un mortel qui meurt dans des circonstances particulièrement violentes ou un spectre dont l'Ombre prétend qu'il « renaît » en tant que Spectre. C’est plus qu’une simple transformation physique. La personnalité et la constitution psychologique de l’individu, ainsi que sa forme physique, sont dissoutes et reconstruites avec l’étoffe d’Oblivion elle-même. Les spécificités varient d'un Spectre à l'autre - certains apparaissent comme des monstruosités, leur [Corpus|E] échaudé, déformé et étiré dans un cauchemar ambulant, tandis que d'autres semblent peu différents, à l'exception de la preuve de leur mort gravée en permanence sur eux - mais tous portent la marque indubitable. de l'oubli."
+    stress_threshold.3341.a: "Je suis perdu."
+    stress_threshold.3341.b: "Tu ne peux pas m'emmener !"
+    stress_threshold.3341.tooltip: "Cette option est disponible car vous disposez du [GetPerk( 'defiance_perk' ).GetName( GetPlayer )] [perk|E]"
+
+    stress_threshold.3351.t: "Pause mentale : consommation"
+    stress_threshold.3351.desc: "L’Écriture déclare que le salaire du péché est la mort, et les damnés savent que c’est vrai. Les démons et les esclaves dotés de nombreux tourments subissent des dégâts mortels chaque jour à l'aube. La manifestation réelle de ces blessures varie selon les damnés, même si elle a souvent un lien avec le vice du personnage et aboutit inévitablement à une disparition dramatique et horrible. La colère peut couver comme une flamme littérale jusqu'à ce que le personnage s'enflamme spontanément. L’envie peut prendre la forme d’un poison ou même d’un acide dans le même but. La gourmandise consume souvent la chair, cannibalisant le corps jusqu'à en faire une enveloppe flétrie. L’orgueil peut prendre la forme de saints stigmates pour se moquer du sacrifice du Christ."
+    stress_threshold.3351.a: "Pouah...!"
+
+    stress_threshold.3361.t: "Pause mentale : déséquilibre"
+    stress_threshold.3361.desc: "Tous les faes ont un degré limité de contrôle sur les Brumes et le Tissage, le chaos et l'ordre, le potentiel magique et l'application magique. Pour une fée individuelle, il est cependant essentiel de maintenir l’équilibre de ces deux forces. Si l’un éclipse l’autre, un fae peut devenir perdu (une surabondance de brumes) ou verrouillé (une dépendance excessive au tissage). Ces deux états, s'ils ne sont pas contrôlés, peuvent signifier la fin du fae, l'amenant soit à disparaître complètement du monde, soit à devenir si ancré dans le physique et prévisible qu'il perd son lien avec les Brumes et devient, pour toutes les raisons pratiques. fins, humaines."
+    stress_threshold.3361.a: "Pouah...!"
+
+    stress_threshold.3362.t: "Pause mentale : défaire"
+    stress_threshold.3362.desc: "La force de la Banalité dans le monde des mortels est si forte que, si un changelin n'y prend pas garde, il peut séparer un fae de son moi mortel. Alors qu'un changelin est épuisé par la Banalité, il commence à oublier son lien avec le Rêve. Les souvenirs de lui-même fae disparaissent et un fae peut tomber dans la Défaite, une époque où un changeling oublie son époque en tant que fae et est à la place englouti dans son apparence mortelle. Si le processus n'est pas arrêté ou au moins ralenti, le changeling perd complètement le contact avec sa moitié fae. Ce qui reste, c'est la moitié creuse du mortel, vivant sa vie seule dans le monde ennuyeux et banal."
+    stress_threshold.3362.a:
+        "Pouah...!"
+
+        #Fancy KJ stress level 2 event
+
+    stress_threshold.2361.t: "Pause mentale : Âme de feu"
+    stress_threshold.2361.desc: "L'âme de feu est une folie pure et simple. Les Kuei-jin dans l'état d'âme de feu sont des monstres sauvages, consumés par la rage. Les Kin-jin ignorants appellent cette phase « frénésie », et il y a peu de différence entre les deux états."
+    stress_threshold.2361.a: "Succombez à votre rage."
+    stress_threshold.2361.b: "Résistez avec tout votre Yin Chi."
+    stress_threshold.2361.fight.failed: "Vous avez échoué."
+
+    stress_threshold.2371.t: "Pause mentale : Wave Soul"
+    stress_threshold.2371.desc: "Kuei-jin souffrant de l'âme des vagues débilitantes perd complètement le contrôle face aux impulsions de terreur. Cet état (ainsi nommé parce que les Kuei-jin sous son emprise sont apparemment secoués par des vagues de peur) est considéré comme extrêmement honteux par les Hungry Dead, qui cherchent à l'éviter à tout prix, notamment devant leurs pairs."
+    stress_threshold.2371.a: "Succombez à votre peur."
+    stress_threshold.2371.b: "Résistez avec tout votre Yang Chi."
+    stress_threshold.2371.fight.failed:
+        "Vous avez échoué."
+
+        #Fancy KJ stress level 1 event
+
+    stress_threshold.1742.t: "Mental Break : Prise de contrôle par The Bandit"
+    stress_threshold.1742.desc: "Même si un Kuei-jin peut avoir un rôle spécifique à remplir ou une raison particulière pour revenir d'entre les morts, le bandit n'en a rien.\nCe P'o ne voit aucune utilité dans le Grand Cycle, qui, après tout, est très éloigné de son existence nocturne. Au contraire, il ignore les mandats du Ciel et de l'enfer et cherche à conduire les Kuei-jin à des actes aléatoires de destruction auto-satisfaite. Le but ultime du bandit est de détruire tout le Grand Cycle, peut-être par ressentiment d'avoir été renvoyé sur les terres des vivants, mais en attendant, toute cible - et tout représentant de l'ordre - sert de point de mire aux P'o. rage."
+    stress_threshold.1742.a: "Mon âme du vent est submergée."
+
+    stress_threshold.1743.t: "Mental Break : Prise de contrôle par The Barbarian"
+    stress_threshold.1743.desc: "Le barbare cherche à rejeter les méthodes traditionnelles du Kuei-jin et à les remplacer par les méthodes chaotiques et indisciplinées du Kin-jin. voyant la liberté relative des vampires occidentaux, il souhaite abandonner son héritage et rejoindre les Kin-jin dans leur décadence.\nLe barbare se moque du dévouement des Huns au devoir et au respect de la tradition, et il profite de chaque occasion pour comparer les méthodes cathayennes et occidentales. Inutile de dire que dans l’analyse du barbare, les méthodes occidentales s’avèrent toujours meilleures."
+    stress_threshold.1743.a: "Mon âme du vent est submergée."
+
+    stress_threshold.1744.t: "Mental Break : Prise de contrôle par The Deceiver"
+    stress_threshold.1744.desc: "Le Trompeur n’a aucune utilité pour la vérité, la bonne, la mauvaise ou l’indifférence. Il pratique le mensonge pour le plaisir de mentir : il dit aux Huns ce qu'il veut entendre une minute, puis le conduit au bord de la folie avec un mensonge évident la minute suivante.\nBien que ce comportement puisse sembler erratique, le P'o a une origine sous-jacente. but. Il ne cherche rien de moins que de rendre le Kuei-jin incapable de se faire confiance. Plus le Trompeur amène le Hun à croire à ses mensonges – et plus il dit la vérité et est ignoré – moins le Hun peut faire confiance à son propre jugement. Si le P’o parvient à ses fins, la volonté du Hun finira par être détruite et le vampire se retrouvera incapable de prendre une décision ou de prendre une décision sans les conseils affectueux du Trompeur."
+    stress_threshold.1744.a: "Mon âme du vent est submergée."
+
+    stress_threshold.1745.t: "Mental Break : Prise de contrôle par The Demon"
+    stress_threshold.1745.desc: "Le Démon cherche à tout dévorer. Tout ce qui est plus faible que le Kuei-jin est une proie, et tout ce qui est plus fort est un pouvoir qui peut être absorbé par la trahison. Bien que le Démon puisse faire semblant de parler du devoir, de l'amitié et de l'honneur, il se consacre au pouvoir personnel et ne se soucie pas de l'opinion des autres.\nPour le Démon, tout ce qu'il voit existe pour son amusement, pour le détruire et le dévorer. à son gré. Les autres âmes ne comptent qu’en termes de relations avec le Démon – et de la rapidité avec laquelle le Démon peut les dévorer."
+    stress_threshold.1745.a: "Mon âme du vent est submergée."
+
+    stress_threshold.1746.t: "Mental Break : prise de contrôle par The Fool"
+    stress_threshold.1746.desc: "Un Hun affligé d'un fou s'expose à une non-vie frustrante, car son P'o implore des explications, même sur l'action la plus simple ou la plus évidente. De plus, le Fou est incapable d’action à long terme ou planifiée, et ne voit aucune vertu dans l’une ou l’autre. En tant que tel, il travaille aussi dur que possible (il se laisse facilement distraire) pour amener le Kuei-jin à emprunter la voie la plus simple et la plus facile, et à éviter les risques inutiles (lire : Toute complication).\nUn imbécile P'o est jamais silencieux, et ses bavardages incessants peuvent conduire à la distraction même le Hun le plus maître de lui-même."
+    stress_threshold.1746.a: "Mon âme du vent est submergée."
+
+    stress_threshold.1747.t: "Mental Break : rachat par The Legalist"
+    stress_threshold.1747.desc: "Le légaliste P’o n’a aucune tolérance pour les écarts par rapport à l’ordre céleste des choses. Il n’y a pas de place pour l’interprétation ou l’improvisation dans ce monde de P’o ; tout a un rôle spécifique à jouer, dont il ne peut pas s'écarter.\nToute action entreprise par le Kuei-jin qui contredit cet ordre divin - qu'il s'adresse familièrement à quelqu'un de rang supérieur ou qu'il accepte l'insubordination d'un inférieur - fait fuir le légaliste. se met en colère jusqu’à ce que « l’insulte » soit réparée. Bien entendu, seul le P’o peut décider de ce qui constitue une expiation appropriée, soit par le Kuei-jin, soit par un autre. En tant que tel, un P’o légaliste particulièrement sadique peut faire en sorte que son autre moitié se lance dans des cerceaux très formels pendant des jours (voire plus)."
+    stress_threshold.1747.a: "Mon âme du vent est submergée."
+
+    stress_threshold.1748.t: "Mental Break : Prise de contrôle par The Monkey"
+    stress_threshold.1748.desc: "Même si le Kuei-jin est peut-être retourné dans l’Empire du Milieu pour une raison, le Singe ne s’en soucie pas beaucoup. C’est une créature du moment, chaque nouveau plaisir ou distraction étant la chose la plus importante au monde. Le Singe est capable de concocter des plans élaborés pour atteindre des objectifs petits ou momentanés, mais il n’est en aucun cas concerné par la mission globale que pourrait avoir le Kuei-jin. En effet, le Singe cherche, à chaque instant, à détourner le Cathayan de son objectif assigné, à détourner toute l’attention et l’énergie du vampire vers des choses mineures et transitoires."
+    stress_threshold.1748.a: "Mon âme du vent est submergée."
+
+    stress_threshold.1749.t: "Mental Break : prise de contrôle par The Slave"
+    stress_threshold.1749.desc: "L’Esclave n’a aucune confiance dans le jugement du Kuei-jin, qu’il cherche à saper à chaque instant. Dans la mesure du possible, l'Esclave fait de son mieux pour placer le Kuei-jin sous le contrôle d'un autre. Cette solution est évidemment pour le mieux, car l'esclave sait que le Kuei-jin est incapable de faire quoi que ce soit correctement lui-même.\nPar conséquent, il remet en question chaque décision prise par les Hun et saisit chaque opportunité pour forcer le Kuei-jin à se soumettre. Sans surprise, une fois que le P'o réussit à captiver le Hun, l'esclave commence immédiatement à déplorer son sort et exhorte le Hun à s'échapper, à chercher un autre « maître » pour le guider tout au long de son existence. En fin de compte, l'esclave cherche à servir les rois Yama, et les Cathayens avec un fort archétype d'esclave deviennent souvent des akuma."
+    stress_threshold.1749.a: "Mon âme du vent est submergée."

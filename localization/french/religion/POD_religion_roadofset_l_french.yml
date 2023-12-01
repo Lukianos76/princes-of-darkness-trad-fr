@@ -1,90 +1,88 @@
 ﻿l_french:
-  
-  #Common Road of Humanity Localization 
- roadofset_religion: "Route de Seth" #NT!
- roadofset_religion_adj: "Séthite" #NT!
- roadofset_religion_adherent: "Séthite" #NT!
- roadofset_religion_adherent_plural: "Séthites" #NT!
- roadofset_religion_desc: "Dédiés au culte de leur [antediluvian|E], ceux qui suivent la Route de Set cherchent à Le restaurer. Ceux qui ne font pas partie de la foi sont considérés avec suspicion et méfiance." #NT!
- roadofset_high_god_name: "Ensemble" #NT!
- roadofset_high_god_name_possessive: "Ensembles" #NT!
- roadofset_high_god_name_alternate: "Ensemble" #NT!
- roadofset_high_god_name_alternate_possessive: "Ensembles" #NT!
- roadofset_good_god_jesus: "$roadofset_health_god_name$" #NT!
- roadofset_good_god_christ: "Ensemble" #NT!
- roadofset_devil_name: "Osiris" #NT!
- roadofset_devil_name_possessive: "Celui d'Osiris" #NT!
- roadofset_evil_god_lucifer: "Osiris" #NT!
- roadofset_evil_god_beelzebub: "Osiris" #NT!
- roadofset_evil_god_mephistopheles: "Osiris" #NT!
- roadofset_death_deity_name: "Destruction" #NT!
- roadofset_death_deity_name_possessive: "Destruction" #NT!
- roadofset_house_of_worship: "temple" #NT!
- roadofset_house_of_worship_plural: "temple" #NT!
- roadofset_religious_symbol: "ankh" #NT!
- roadofset_religious_text: "Les enseignements de Seth" #NT!
- roadofset_religious_head_title: "Hiérophante" #NT!
- roadofset_religious_head_title_name: "Hiérophante" #NT!
- roadofset_devotee_male: "Séthite" #NT!
- roadofset_devotee_male_plural: "Séthites" #NT!
- roadofset_devotee_female: "Séthite" #NT!
- roadofset_devotee_female_plural: "Séthites" #NT!
- roadofset_devotee_neuter: "Séthite" #NT!
- roadofset_devotee_neuter_plural: "Séthites" #NT!
- roadofset_priest_male: "Séthite" #NT!
- roadofset_priest_male_plural: "Séthites" #NT!
- roadofset_priest_alternate_plural: "Séthites" #NT!
- roadofset_bishop: "Prêtre" #NT!
- roadofset_bishop_plural: "Prêtre" #NT!
- roadofset_divine_realm: "L'étreinte de Seth" #NT!
- roadofset_positive_afterlife: "L'étreinte de Seth" #NT!
- roadofset_negative_afterlife: "les abysses" #NT!
- roadofset_witchgodname_the_horned_god: "Osiris" #NT!
- roadofset_witchgodname_the_horned_god_possessive: "Osiris" #NT!
-  
- roadofset_creator_god_name: "$roadofset_high_god_name$" #NT!
- roadofset_creator_god_name_possessive: "$roadofset_high_god_name_possessive$" #NT!
- roadofset_health_god_name: "Ensemble" #NT!
- roadofset_health_god_name_possessive: "Ensembles" #NT!
- roadofset_fertility_god_name: "$roadofset_high_god_name$" #NT!
- roadofset_fertility_god_name_possessive: "$roadofset_high_god_name_possessive$" #NT!
- roadofset_wealth_god_name: "$roadofset_high_god_name$" #NT!
- roadofset_wealth_god_name_possessive: "$roadofset_high_god_name_possessive$" #NT!
- roadofset_household_god_name: "$roadofset_health_god_name$" #NT!
- roadofset_household_god_name_possessive: "$roadofset_health_god_name_possessive$" #NT!
- roadofset_fate_god_name: "$roadofset_high_god_name$" #NT!
- roadofset_fate_god_name_possessive: "$roadofset_high_god_name_possessive$" #NT!
- roadofset_knowledge_god_name: "$roadofset_high_god_name$" #NT!
- roadofset_knowledge_god_name_possessive: "$roadofset_high_god_name_possessive$" #NT!
- roadofset_war_god_name: "$roadofset_high_god_name$" #NT!
- roadofset_war_god_name_possessive: "$roadofset_high_god_name_possessive$" #NT!
- roadofset_trickster_god_name: "Fortune" #NT!
- roadofset_trickster_god_name_possessive: "La Fortune" #NT!
- roadofset_night_god_name: "$roadofset_high_god_name$" #NT!
- roadofset_night_god_name_possessive: "$roadofset_high_god_name_possessive$" #NT!
- roadofset_water_god_name: "$roadofset_health_god_name$" #NT!
- roadofset_water_god_name_possessive: "$roadofset_health_god_name_possessive$" #NT!
-  
-  #Settite-Group Faiths 
- viaset: "Route de Seth" #NT!
- viaset_adj: "Séthite" #NT!
- viaset_adherent: "Séthite" #NT!
- viaset_adherent_plural: "Séthites" #NT!
- viaset_desc: "La branche principale du [Clan|E] de Set est une organisation de type culte, vénérant leur [antediluvian|E] (ou dieu littéral) comme le libérateur de toute l'humanité." #NT!
-  
- viaapep: "Route d'Apep" #NT!
- viaapep_adj: "Aptitude" #NT!
- viaapep_adherent: "Aptitude" #NT!
- viaapep_adherent_plural: "Apépites" #NT!
- viaapep_desc: "Ces personnages voient leur état de mort-vivant comme un cadeau béni du serpent du chaos, et non comme une malédiction. En conséquence, ils se délectent du chaos et de l’autosatisfaction. Ils voient Apep le Serpent du Chaos comme un avatar de Seth." #NT!
-  
- pathofsubversion: "La voie de la subversion" #NT!
- pathofsubversion_adj: "la corruption" #NT!
- pathofsubversion_adherent: "Corrupteur" #NT!
- pathofsubversion_adherent_plural: "Corrupteurs" #NT!
- pathofsubversion_desc: "Ce n’est que par la corruption des institutions à grande échelle que les gens pourront être libérés. Les corrupteurs sont d’excellents agents dans les religions et les États organisés." #NT!
-  
- holy_order_cohort_of_set: "Cohorte d'ensemble" #NT!
- holy_order_medjay: "Le Medjay" #NT!
-  
-  
+    #Common Road of Humanity Localization
+    roadofset_religion: "Route de Seth"
+    roadofset_religion_adj: "Séthite"
+    roadofset_religion_adherent: "Séthite"
+    roadofset_religion_adherent_plural: "Séthites"
+    roadofset_religion_desc: "Dédiés au culte de leur [antediluvian|E], ceux qui suivent la Route de Set cherchent à Le restaurer. Ceux qui ne font pas partie de la foi sont considérés avec suspicion et méfiance."
+    roadofset_high_god_name: "Ensemble"
+    roadofset_high_god_name_possessive: "Ensembles"
+    roadofset_high_god_name_alternate: "Ensemble"
+    roadofset_high_god_name_alternate_possessive: "Ensembles"
+    roadofset_good_god_jesus: "$roadofset_health_god_name$"
+    roadofset_good_god_christ: "Ensemble"
+    roadofset_devil_name: "Osiris"
+    roadofset_devil_name_possessive: "Celui d'Osiris"
+    roadofset_evil_god_lucifer: "Osiris"
+    roadofset_evil_god_beelzebub: "Osiris"
+    roadofset_evil_god_mephistopheles: "Osiris"
+    roadofset_death_deity_name: "Destruction"
+    roadofset_death_deity_name_possessive: "Destruction"
+    roadofset_house_of_worship: "temple"
+    roadofset_house_of_worship_plural: "temple"
+    roadofset_religious_symbol: "ankh"
+    roadofset_religious_text: "Les enseignements de Seth"
+    roadofset_religious_head_title: "Hiérophante"
+    roadofset_religious_head_title_name: "Hiérophante"
+    roadofset_devotee_male: "Séthite"
+    roadofset_devotee_male_plural: "Séthites"
+    roadofset_devotee_female: "Séthite"
+    roadofset_devotee_female_plural: "Séthites"
+    roadofset_devotee_neuter: "Séthite"
+    roadofset_devotee_neuter_plural: "Séthites"
+    roadofset_priest_male: "Séthite"
+    roadofset_priest_male_plural: "Séthites"
+    roadofset_priest_alternate_plural: "Séthites"
+    roadofset_bishop: "Prêtre"
+    roadofset_bishop_plural: "Prêtre"
+    roadofset_divine_realm: "L'étreinte de Seth"
+    roadofset_positive_afterlife: "L'étreinte de Seth"
+    roadofset_negative_afterlife: "les abysses"
+    roadofset_witchgodname_the_horned_god: "Osiris"
+    roadofset_witchgodname_the_horned_god_possessive: "Osiris"
+
+    roadofset_creator_god_name: "$roadofset_high_god_name$"
+    roadofset_creator_god_name_possessive: "$roadofset_high_god_name_possessive$"
+    roadofset_health_god_name: "Ensemble"
+    roadofset_health_god_name_possessive: "Ensembles"
+    roadofset_fertility_god_name: "$roadofset_high_god_name$"
+    roadofset_fertility_god_name_possessive: "$roadofset_high_god_name_possessive$"
+    roadofset_wealth_god_name: "$roadofset_high_god_name$"
+    roadofset_wealth_god_name_possessive: "$roadofset_high_god_name_possessive$"
+    roadofset_household_god_name: "$roadofset_health_god_name$"
+    roadofset_household_god_name_possessive: "$roadofset_health_god_name_possessive$"
+    roadofset_fate_god_name: "$roadofset_high_god_name$"
+    roadofset_fate_god_name_possessive: "$roadofset_high_god_name_possessive$"
+    roadofset_knowledge_god_name: "$roadofset_high_god_name$"
+    roadofset_knowledge_god_name_possessive: "$roadofset_high_god_name_possessive$"
+    roadofset_war_god_name: "$roadofset_high_god_name$"
+    roadofset_war_god_name_possessive: "$roadofset_high_god_name_possessive$"
+    roadofset_trickster_god_name: "Fortune"
+    roadofset_trickster_god_name_possessive: "La Fortune"
+    roadofset_night_god_name: "$roadofset_high_god_name$"
+    roadofset_night_god_name_possessive: "$roadofset_high_god_name_possessive$"
+    roadofset_water_god_name: "$roadofset_health_god_name$"
+    roadofset_water_god_name_possessive:
+        "$roadofset_health_god_name_possessive$"
+
+        #Settite-Group Faiths
+    viaset: "Route de Seth"
+    viaset_adj: "Séthite"
+    viaset_adherent: "Séthite"
+    viaset_adherent_plural: "Séthites"
+    viaset_desc: "La branche principale du [Clan|E] de Set est une organisation de type culte, vénérant leur [antediluvian|E] (ou dieu littéral) comme le libérateur de toute l'humanité."
+
+    viaapep: "Route d'Apep"
+    viaapep_adj: "Aptitude"
+    viaapep_adherent: "Aptitude"
+    viaapep_adherent_plural: "Apépites"
+    viaapep_desc: "Ces personnages voient leur état de mort-vivant comme un cadeau béni du serpent du chaos, et non comme une malédiction. En conséquence, ils se délectent du chaos et de l’autosatisfaction. Ils voient Apep le Serpent du Chaos comme un avatar de Seth."
+
+    pathofsubversion: "La voie de la subversion"
+    pathofsubversion_adj: "la corruption"
+    pathofsubversion_adherent: "Corrupteur"
+    pathofsubversion_adherent_plural: "Corrupteurs"
+    pathofsubversion_desc: "Ce n’est que par la corruption des institutions à grande échelle que les gens pourront être libérés. Les corrupteurs sont d’excellents agents dans les religions et les États organisés."
+
+    holy_order_cohort_of_set: "Cohorte d'ensemble"
+    holy_order_medjay: "Le Medjay"

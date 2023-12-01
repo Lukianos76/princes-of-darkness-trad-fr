@@ -1,73 +1,73 @@
 ﻿l_french:
- tab_sabbat: "#T Sabbat#!" #NT!
-  
- SABBAT_WINDOW_TAB_CARDINALS: "Cardinaux" #NT!
- SABBAT_WINDOW_TAB_BLACK_HAND: "Main noire" #NT!
-  
- SABBAT_WINDOW_MY_STATUS: "Mon statut : #V [GetPlayer.Custom('SabbatStatus')]#!" #NT!
- SABBAT_WINDOW_REGION_STATUS: "Titulaire de la région : #V [GetPlayer.Custom('SabbatRegionStatus')]#!" #NT!
- SABBAT_WINDOW_MEMBER_CLAN: "Membres" #NT!
-  
- SABBAT_WINDOW_CARDINALS_REGION: "[SelectLocalization(ObjectsEqual(Religion.MakeScope.GetVariable('regent').GetCharacter, Character.Self), 'SABBAT_WINDOW_REGENT', 'd_placeholder')]Cardinal de [Character.Custom( 'CardinalRegion' )]" #NT!
- SABBAT_WINDOW_REGENT: "Régent et" #NT!
-  
- HAS_HIGHER_SABBAT_STATUS_TRIGGER: "A un statut supérieur à [TARGET_CHARACTER.GetFirstName] ([TARGET_CHARACTER.Custom('SabbatStatus')])." #NT!
- I_HAVE_HIGHER_SABBAT_STATUS_TRIGGER: "Vous avez un statut supérieur à [TARGET_CHARACTER.GetFirstName] ([TARGET_CHARACTER.Custom('SabbatStatus')])." #NT!
- NOT_HAS_HIGHER_SABBAT_STATUS_TRIGGER: "Est-ce que #bold n'a pas#! un statut supérieur à [TARGET_CHARACTER.GetFirstName] ([TARGET_CHARACTER.Custom('SabbatStatus')])." #NT!
- NOT_I_HAVE_HIGHER_SABBAT_STATUS_TRIGGER: "Vous n'avez pas #bold#! un statut supérieur à [TARGET_CHARACTER.GetFirstName] ([TARGET_CHARACTER.Custom('SabbatStatus')])." #NT!
- IS_CARDINAL_TRIGGER: "Vous êtes cardinal." #NT!
- IS_NOT_CARDINAL_TRIGGER: "Vous êtes #bold et non#! un Cardinal." #NT!
- CB_COST_ATTACKER_IS_CARDINAL: "Cardinal attaquant" #NT!
-  
- custom_sabbat_status_regent: "Régent" #NT!
- custom_sabbat_status_cardinal: "Cardinal" #NT!
- custom_sabbat_status_priscus: "Priscus" #NT!
- custom_sabbat_status_archbishop: "Archevêque" #NT!
- custom_sabbat_status_bishop: "Évêque" #NT!
- custom_sabbat_status_paladin: "Paladin" #NT!
- custom_sabbat_status_templar: "Templier" #NT!
- custom_sabbat_status_ductus: "Canal" #NT!
- custom_sabbat_status_priest: "Prêtre" #NT!
- custom_sabbat_status_true_sabbat: "Vrai Sabbat" #NT!
- custom_sabbat_status_false_sabbat: "Faux Sabbat" #NT!
- custom_sabbat_status_camarilla: "Camarilla" #NT!
-  
- custom_cardinal_region_POD_region_greece: "[GetGeographicalRegion('POD_region_greece').GetName]" #NT!
- custom_cardinal_region_custom_sub_saharan_africa_immediate: "[GetGeographicalRegion('custom_sub_saharan_africa_immediate').GetName]" #NT!
- custom_cardinal_region_ghw_region_balkans: "[GetGeographicalRegion('ghw_region_balkans').GetName]" #NT!
- custom_cardinal_region_ghw_region_baltic: "[GetGeographicalRegion('ghw_region_baltic').GetName]" #NT!
- custom_cardinal_region_ghw_region_central_european: "[GetGeographicalRegion('ghw_region_central_european').GetName]" #NT!
- custom_cardinal_region_ghw_region_russia: "[GetGeographicalRegion('ghw_region_russia').GetName]" #NT!
- custom_cardinal_region_world_africa_north: "[GetGeographicalRegion('world_africa_north').GetName]" #NT!
- custom_cardinal_region_world_asia_minor: "[GetGeographicalRegion('world_asia_minor').GetName]" #NT!
- custom_cardinal_region_world_europe_north: "[GetGeographicalRegion('world_europe_north').GetName]" #NT!
- custom_cardinal_region_world_europe_south_italy: "[GetGeographicalRegion('world_europe_south_italy').GetName]" #NT!
- custom_cardinal_region_world_europe_west_britannia: "[GetGeographicalRegion('world_europe_west_britannia').GetName]" #NT!
- custom_cardinal_region_world_europe_west_francia: "[GetGeographicalRegion('world_europe_west_francia').GetName]" #NT!
- custom_cardinal_region_world_europe_west_germania: "[GetGeographicalRegion('world_europe_west_germania').GetName]" #NT!
- custom_cardinal_region_world_europe_west_iberia: "[GetGeographicalRegion('world_europe_west_iberia').GetName]" #NT!
- custom_cardinal_region_world_india: "[GetGeographicalRegion('world_india').GetName]" #NT!
- custom_cardinal_region_world_middle_east: "[GetGeographicalRegion('world_middle_east').GetName]" #NT!
- custom_cardinal_region_world_steppe: "[GetGeographicalRegion('world_steppe').GetName]" #NT!
-  
- custom_region_status_POD_region_greece: "[GetPlayer.Custom('sabbat_POD_region_greece_holder')]" #NT!
- custom_region_status_custom_sub_saharan_africa_immediate: "[GetPlayer.Custom('sabbat_custom_sub_saharan_africa_immediate_holder')]" #NT!
- custom_region_status_ghw_region_balkans: "[GetPlayer.Custom('sabbat_ghw_region_balkans_holder')]" #NT!
- custom_region_status_ghw_region_baltic: "[GetPlayer.Custom('sabbat_ghw_region_baltic_holder')]" #NT!
- custom_region_status_ghw_region_central_european: "[GetPlayer.Custom('sabbat_ghw_region_central_european_holder')]" #NT!
- custom_region_status_ghw_region_russia: "[GetPlayer.Custom('sabbat_ghw_region_russia_holder')]" #NT!
- custom_region_status_world_africa_north: "[GetPlayer.Custom('sabbat_world_africa_north_holder')]" #NT!
- custom_region_status_world_asia_minor: "[GetPlayer.Custom('sabbat_world_asia_minor_holder')]" #NT!
- custom_region_status_world_europe_north: "[GetPlayer.Custom('sabbat_world_europe_north_holder')]" #NT!
- custom_region_status_world_europe_south_italy: "[GetPlayer.Custom('sabbat_world_europe_south_italy_holder')]" #NT!
- custom_region_status_world_europe_west_britannia: "[GetPlayer.Custom('sabbat_world_europe_west_britannia_holder')]" #NT!
- custom_region_status_world_europe_west_francia: "[GetPlayer.Custom('sabbat_world_europe_west_francia_holder')]" #NT!
- custom_region_status_world_europe_west_germania: "[GetPlayer.Custom('sabbat_world_europe_west_germania_holder')]" #NT!
- custom_region_status_world_europe_west_iberia: "[GetPlayer.Custom('sabbat_world_europe_west_iberia_holder')]" #NT!
- custom_region_status_world_india: "[GetPlayer.Custom('sabbat_world_india_holder')]" #NT!
- custom_region_status_world_middle_east: "[GetPlayer.Custom('sabbat_world_middle_east_holder')]" #NT!
- custom_region_status_world_steppe: "[GetPlayer.Custom('sabbat_world_steppe_holder')]" #NT!
-  
- custom_region_status_mine: "Toi" #NT!
- custom_region_status_regent: "Régent" #NT!
- custom_region_status_cardinal: "Cardinal" #NT!
+    tab_sabbat: "#T Sabbat#!"
+
+    SABBAT_WINDOW_TAB_CARDINALS: "Cardinaux"
+    SABBAT_WINDOW_TAB_BLACK_HAND: "Main noire"
+
+    SABBAT_WINDOW_MY_STATUS: "Mon statut : #V [GetPlayer.Custom('SabbatStatus')]#!"
+    SABBAT_WINDOW_REGION_STATUS: "Titulaire de la région : #V [GetPlayer.Custom('SabbatRegionStatus')]#!"
+    SABBAT_WINDOW_MEMBER_CLAN: "Membres"
+
+    SABBAT_WINDOW_CARDINALS_REGION: "[SelectLocalization(ObjectsEqual(Religion.MakeScope.GetVariable('regent').GetCharacter, Character.Self), 'SABBAT_WINDOW_REGENT', 'd_placeholder')]Cardinal de [Character.Custom( 'CardinalRegion' )]"
+    SABBAT_WINDOW_REGENT: "Régent et"
+
+    HAS_HIGHER_SABBAT_STATUS_TRIGGER: "A un statut supérieur à [TARGET_CHARACTER.GetFirstName] ([TARGET_CHARACTER.Custom('SabbatStatus')])."
+    I_HAVE_HIGHER_SABBAT_STATUS_TRIGGER: "Vous avez un statut supérieur à [TARGET_CHARACTER.GetFirstName] ([TARGET_CHARACTER.Custom('SabbatStatus')])."
+    NOT_HAS_HIGHER_SABBAT_STATUS_TRIGGER: "Est-ce que #bold n'a pas#! un statut supérieur à [TARGET_CHARACTER.GetFirstName] ([TARGET_CHARACTER.Custom('SabbatStatus')])."
+    NOT_I_HAVE_HIGHER_SABBAT_STATUS_TRIGGER: "Vous n'avez pas #bold#! un statut supérieur à [TARGET_CHARACTER.GetFirstName] ([TARGET_CHARACTER.Custom('SabbatStatus')])."
+    IS_CARDINAL_TRIGGER: "Vous êtes cardinal."
+    IS_NOT_CARDINAL_TRIGGER: "Vous êtes #bold et non#! un Cardinal."
+    CB_COST_ATTACKER_IS_CARDINAL: "Cardinal attaquant"
+
+    custom_sabbat_status_regent: "Régent"
+    custom_sabbat_status_cardinal: "Cardinal"
+    custom_sabbat_status_priscus: "Priscus"
+    custom_sabbat_status_archbishop: "Archevêque"
+    custom_sabbat_status_bishop: "Évêque"
+    custom_sabbat_status_paladin: "Paladin"
+    custom_sabbat_status_templar: "Templier"
+    custom_sabbat_status_ductus: "Canal"
+    custom_sabbat_status_priest: "Prêtre"
+    custom_sabbat_status_true_sabbat: "Vrai Sabbat"
+    custom_sabbat_status_false_sabbat: "Faux Sabbat"
+    custom_sabbat_status_camarilla: "Camarilla"
+
+    custom_cardinal_region_POD_region_greece: "[GetGeographicalRegion('POD_region_greece').GetName]"
+    custom_cardinal_region_custom_sub_saharan_africa_immediate: "[GetGeographicalRegion('custom_sub_saharan_africa_immediate').GetName]"
+    custom_cardinal_region_ghw_region_balkans: "[GetGeographicalRegion('ghw_region_balkans').GetName]"
+    custom_cardinal_region_ghw_region_baltic: "[GetGeographicalRegion('ghw_region_baltic').GetName]"
+    custom_cardinal_region_ghw_region_central_european: "[GetGeographicalRegion('ghw_region_central_european').GetName]"
+    custom_cardinal_region_ghw_region_russia: "[GetGeographicalRegion('ghw_region_russia').GetName]"
+    custom_cardinal_region_world_africa_north: "[GetGeographicalRegion('world_africa_north').GetName]"
+    custom_cardinal_region_world_asia_minor: "[GetGeographicalRegion('world_asia_minor').GetName]"
+    custom_cardinal_region_world_europe_north: "[GetGeographicalRegion('world_europe_north').GetName]"
+    custom_cardinal_region_world_europe_south_italy: "[GetGeographicalRegion('world_europe_south_italy').GetName]"
+    custom_cardinal_region_world_europe_west_britannia: "[GetGeographicalRegion('world_europe_west_britannia').GetName]"
+    custom_cardinal_region_world_europe_west_francia: "[GetGeographicalRegion('world_europe_west_francia').GetName]"
+    custom_cardinal_region_world_europe_west_germania: "[GetGeographicalRegion('world_europe_west_germania').GetName]"
+    custom_cardinal_region_world_europe_west_iberia: "[GetGeographicalRegion('world_europe_west_iberia').GetName]"
+    custom_cardinal_region_world_india: "[GetGeographicalRegion('world_india').GetName]"
+    custom_cardinal_region_world_middle_east: "[GetGeographicalRegion('world_middle_east').GetName]"
+    custom_cardinal_region_world_steppe: "[GetGeographicalRegion('world_steppe').GetName]"
+
+    custom_region_status_POD_region_greece: "[GetPlayer.Custom('sabbat_POD_region_greece_holder')]"
+    custom_region_status_custom_sub_saharan_africa_immediate: "[GetPlayer.Custom('sabbat_custom_sub_saharan_africa_immediate_holder')]"
+    custom_region_status_ghw_region_balkans: "[GetPlayer.Custom('sabbat_ghw_region_balkans_holder')]"
+    custom_region_status_ghw_region_baltic: "[GetPlayer.Custom('sabbat_ghw_region_baltic_holder')]"
+    custom_region_status_ghw_region_central_european: "[GetPlayer.Custom('sabbat_ghw_region_central_european_holder')]"
+    custom_region_status_ghw_region_russia: "[GetPlayer.Custom('sabbat_ghw_region_russia_holder')]"
+    custom_region_status_world_africa_north: "[GetPlayer.Custom('sabbat_world_africa_north_holder')]"
+    custom_region_status_world_asia_minor: "[GetPlayer.Custom('sabbat_world_asia_minor_holder')]"
+    custom_region_status_world_europe_north: "[GetPlayer.Custom('sabbat_world_europe_north_holder')]"
+    custom_region_status_world_europe_south_italy: "[GetPlayer.Custom('sabbat_world_europe_south_italy_holder')]"
+    custom_region_status_world_europe_west_britannia: "[GetPlayer.Custom('sabbat_world_europe_west_britannia_holder')]"
+    custom_region_status_world_europe_west_francia: "[GetPlayer.Custom('sabbat_world_europe_west_francia_holder')]"
+    custom_region_status_world_europe_west_germania: "[GetPlayer.Custom('sabbat_world_europe_west_germania_holder')]"
+    custom_region_status_world_europe_west_iberia: "[GetPlayer.Custom('sabbat_world_europe_west_iberia_holder')]"
+    custom_region_status_world_india: "[GetPlayer.Custom('sabbat_world_india_holder')]"
+    custom_region_status_world_middle_east: "[GetPlayer.Custom('sabbat_world_middle_east_holder')]"
+    custom_region_status_world_steppe: "[GetPlayer.Custom('sabbat_world_steppe_holder')]"
+
+    custom_region_status_mine: "Toi"
+    custom_region_status_regent: "Régent"
+    custom_region_status_cardinal: "Cardinal"

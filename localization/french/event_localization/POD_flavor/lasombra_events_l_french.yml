@@ -1,118 +1,118 @@
 ﻿l_french:
   
- pod_lasombraevents.1.n: "Voir des visages" #NT!
- pod_lasombraevents.1.desc: "Visages. La semaine dernière, vous en avez été pleinement conscient. Qu'il s'agisse de mortels, de vampires ou d'un tas de rochers bien disposés, tout a un visage. Vous y compris, bien sûr. Sauf que, comme tous nos [Clan|E], vous êtes maudits de ne plus jamais revoir votre visage ni votre corps. Depuis combien de temps n’avez-vous pas vu votre propre reflet pour la dernière fois ? L'avez-vous déjà vu, d'ailleurs ? Vous étiez mortel il y a si longtemps... Comment les autres réagissent-ils lorsqu'ils vous voient pour la première fois ? Sont-ils effrayés, fascinés, ou rient-ils dans votre dos ?\nCes questions ont beaucoup trop d'effet sur vous et il est temps de faire quelque chose. Le moyen le plus simple consiste à embaucher un artiste et à lui demander de dessiner votre portrait. Au minimum, cela pourrait soulager la douleur." #NT!
- pod_lasombraevents.1.loverdesc: "Visages. Ces derniers jours, vous en avez été pleinement conscient. Qu'il s'agisse de mortels, de vampires ou d'un tas de rochers bien disposés, tout a un visage. Vous y compris, bien sûr. Sauf que, comme tous nos [Clan|E], vous êtes maudits de ne plus jamais revoir votre visage ni votre corps. Depuis combien de temps n’avez-vous pas vu votre propre reflet pour la dernière fois ? L'avez-vous déjà vu, d'ailleurs ? Vous étiez mortel il y a si longtemps... Comment les autres réagissent-ils lorsqu'ils vous voient pour la première fois ? Sont-ils effrayés, fascinés, ou rient-ils dans votre dos ?\nCes questions ont beaucoup trop d'effet sur vous et il est temps de faire quelque chose. Le moyen le plus simple consiste à embaucher un artiste et à lui demander de dessiner votre portrait. Vous pourriez aussi demander à votre amoureux, [helper.GetTitledFirstName], de faire une belle description de vous, qui sait ?" #NT!
- pod_lasombraevents.1.a: "J'ai besoin d'un portrait..." #NT!
- pod_lasombraevents.1.b: "Je n’en ai pas besoin." #NT!
- pod_lasombraevents.1.c: "Pff ! Je n'ai pas besoin de ça !" #NT!
- pod_lasombraevents.1.d: "Je vais demander de l'aide." #NT!
- pod_lasombraevents.1.a.t: "Vous engagez un artiste pour réaliser votre portrait." #NT!
- pod_lasombraevents.1.b.t: "Vous avez des choses plus urgentes pour lesquelles dépenser de l’argent." #NT!
- pod_lasombraevents.1.b.beast: "#R Vous n'avez besoin de rien. Tu m'as.#!" #NT!
- pod_lasombraevents.1.c.t: "Tu as toujours l'air bien." #NT!
- pod_lasombraevents.1.d.t: "Et vous aider à recevoir." #NT!
+ pod_lasombraevents.1.n: "Voir des visages"
+ pod_lasombraevents.1.desc: "Visages. La semaine dernière, vous en avez été pleinement conscient. Qu'il s'agisse de mortels, de vampires ou d'un tas de rochers bien disposés, tout a un visage. Vous y compris, bien sûr. Sauf que, comme tous nos [Clan|E], vous êtes maudits de ne plus jamais revoir votre visage ni votre corps. Depuis combien de temps n’avez-vous pas vu votre propre reflet pour la dernière fois ? L'avez-vous déjà vu, d'ailleurs ? Vous étiez mortel il y a si longtemps... Comment les autres réagissent-ils lorsqu'ils vous voient pour la première fois ? Sont-ils effrayés, fascinés, ou rient-ils dans votre dos ?\nCes questions ont beaucoup trop d'effet sur vous et il est temps de faire quelque chose. Le moyen le plus simple consiste à embaucher un artiste et à lui demander de dessiner votre portrait. Au minimum, cela pourrait soulager la douleur."
+ pod_lasombraevents.1.loverdesc: "Visages. Ces derniers jours, vous en avez été pleinement conscient. Qu'il s'agisse de mortels, de vampires ou d'un tas de rochers bien disposés, tout a un visage. Vous y compris, bien sûr. Sauf que, comme tous nos [Clan|E], vous êtes maudits de ne plus jamais revoir votre visage ni votre corps. Depuis combien de temps n’avez-vous pas vu votre propre reflet pour la dernière fois ? L'avez-vous déjà vu, d'ailleurs ? Vous étiez mortel il y a si longtemps... Comment les autres réagissent-ils lorsqu'ils vous voient pour la première fois ? Sont-ils effrayés, fascinés, ou rient-ils dans votre dos ?\nCes questions ont beaucoup trop d'effet sur vous et il est temps de faire quelque chose. Le moyen le plus simple consiste à embaucher un artiste et à lui demander de dessiner votre portrait. Vous pourriez aussi demander à votre amoureux, [helper.GetTitledFirstName], de faire une belle description de vous, qui sait ?"
+ pod_lasombraevents.1.a: "J'ai besoin d'un portrait..."
+ pod_lasombraevents.1.b: "Je n’en ai pas besoin."
+ pod_lasombraevents.1.c: "Pff ! Je n'ai pas besoin de ça !"
+ pod_lasombraevents.1.d: "Je vais demander de l'aide."
+ pod_lasombraevents.1.a.t: "Vous engagez un artiste pour réaliser votre portrait."
+ pod_lasombraevents.1.b.t: "Vous avez des choses plus urgentes pour lesquelles dépenser de l’argent."
+ pod_lasombraevents.1.b.beast: "#R Vous n'avez besoin de rien. Tu m'as.#!"
+ pod_lasombraevents.1.c.t: "Tu as toujours l'air bien."
+ pod_lasombraevents.1.d.t: "Et vous aider à recevoir."
   
- POD_courts_blood_interaction: "Pétition pour Diablerie Sanctionnée" #NT!
- POD_courts_blood_interaction_desc: "Pétitionnez les tribunaux du sang pour expliquer pourquoi ce personnage devrait être retiré de la protection des Lasombra et traqué pour son âme même." #NT!
- courts_blood_tooltip: "Si vous gagnez votre cause, ce personnage ne coûtera plus de piété à diaboliser. Si vous ne le faites pas, vous êtes probablement devenu un rival pour la non-vie." #NT!
+ POD_courts_blood_interaction: "Pétition pour Diablerie Sanctionnée"
+ POD_courts_blood_interaction_desc: "Pétitionnez les tribunaux du sang pour expliquer pourquoi ce personnage devrait être retiré de la protection des Lasombra et traqué pour son âme même."
+ courts_blood_tooltip: "Si vous gagnez votre cause, ce personnage ne coûtera plus de piété à diaboliser. Si vous ne le faites pas, vous êtes probablement devenu un rival pour la non-vie."
   
- POD_asdiqa_al_lail_interaction: "Pétition pour Diablerie Sanctionnée" #NT!
- POD_asdiqa_al_lail_interaction_desc: "Pétitionnez l'Asdiqa al-Lail, présentant un argumentaire expliquant pourquoi ce personnage devrait être retiré de la protection des Lasombra et traqué pour son âme même." #NT!
+ POD_asdiqa_al_lail_interaction: "Pétition pour Diablerie Sanctionnée"
+ POD_asdiqa_al_lail_interaction_desc: "Pétitionnez l'Asdiqa al-Lail, présentant un argumentaire expliquant pourquoi ce personnage devrait être retiré de la protection des Lasombra et traqué pour son âme même."
   
- POD_amis_noirs_interaction: "Pétition pour Diablerie Sanctionnée" #NT!
+ POD_amis_noirs_interaction: "Pétition pour Diablerie Sanctionnée"
   
- pod_lasombraevents.2.n: "Une nouvelle affaire ?" #NT!
- pod_lasombraevents.2.desc: "Les Tribunaux du Sang sont l'organe judiciaire du [Clan|E] Lasombra. Ces Anciens, qui restent anonymes, peuvent être sollicités pour porter un jugement sur diverses questions liées au clan dans son ensemble. Le temps de ces Anciens est cependant précieux, c'est pourquoi les Tribunaux du Sang ne se réunissent le plus souvent que pour les cas les plus graves : sanctionnés [diablerie|E].\nLe Clan Lasombra valorise avant tout la soif de pouvoir et est très fier de s'assurer que chacun de ses membres les descendants en sont dignes. En tant que tel, n'importe quel Lasombra peut demander aux tribunaux de plaider qu'un autre Lasombra est indigne même d'être en vie, et que son sang serait mieux servi en donnant du pouvoir à un autre.\nIl n'est pas surprenant que de tels cas soient souvent le début de rivalités légendaires, et sont toujours vivement débattus." #NT!
- pod_lasombraevents.2.a: "Continuez avec l'affaire." #NT!
- pod_lasombraevents.2.b: "À la réflexion..." #NT!
+ pod_lasombraevents.2.n: "Une nouvelle affaire ?"
+ pod_lasombraevents.2.desc: "Les Tribunaux du Sang sont l'organe judiciaire du [Clan|E] Lasombra. Ces Anciens, qui restent anonymes, peuvent être sollicités pour porter un jugement sur diverses questions liées au clan dans son ensemble. Le temps de ces Anciens est cependant précieux, c'est pourquoi les Tribunaux du Sang ne se réunissent le plus souvent que pour les cas les plus graves : sanctionnés [diablerie|E].\nLe Clan Lasombra valorise avant tout la soif de pouvoir et est très fier de s'assurer que chacun de ses membres les descendants en sont dignes. En tant que tel, n'importe quel Lasombra peut demander aux tribunaux de plaider qu'un autre Lasombra est indigne même d'être en vie, et que son sang serait mieux servi en donnant du pouvoir à un autre.\nIl n'est pas surprenant que de tels cas soient souvent le début de rivalités légendaires, et sont toujours vivement débattus."
+ pod_lasombraevents.2.a: "Continuez avec l'affaire."
+ pod_lasombraevents.2.b: "À la réflexion..."
   
- pod_lasombraevents.3.n: "Séance d'ouverture" #NT!
- pod_lasombraevents.3.desc: "Une séance des Tribunaux du Sang est une affaire étrange. Enveloppés dans l'obscurité, les juges ne sont pas visibles et leurs voix sont également masquées, donnant à l'ensemble une sensation très surréaliste. Pourtant, les enjeux sont bien plus élevés que ce que le théâtre voudrait vous faire croire.\nVous et le défenseur avez été convoqués à la Cour et il est maintenant temps pour vous deux de convaincre les Anciens de votre valeur respective. Vous savez qu'en fin de compte, les tribunaux ne se soucient pas vraiment de la vérité sur l'affaire. Ils veulent simplement s'assurer que le sang de Lasombra n'est donné qu'à ceux qui en sont méritants. Le but final de ce processus est donc de prouver que vous êtes un individu plus ambitieux, impitoyable et méritant que votre adversaire." #NT!
- pod_lasombraevents.3.a: "Chers juges..." #NT!
- pod_lasombraevents.3.effect.success.desc: "Vous êtes convaincant." #NT!
- pod_lasombraevents.3.critical.failure.effect.desc: "Vous n'avez pas convaincu." #NT!
+ pod_lasombraevents.3.n: "Séance d'ouverture"
+ pod_lasombraevents.3.desc: "Une séance des Tribunaux du Sang est une affaire étrange. Enveloppés dans l'obscurité, les juges ne sont pas visibles et leurs voix sont également masquées, donnant à l'ensemble une sensation très surréaliste. Pourtant, les enjeux sont bien plus élevés que ce que le théâtre voudrait vous faire croire.\nVous et le défenseur avez été convoqués à la Cour et il est maintenant temps pour vous deux de convaincre les Anciens de votre valeur respective. Vous savez qu'en fin de compte, les tribunaux ne se soucient pas vraiment de la vérité sur l'affaire. Ils veulent simplement s'assurer que le sang de Lasombra n'est donné qu'à ceux qui en sont méritants. Le but final de ce processus est donc de prouver que vous êtes un individu plus ambitieux, impitoyable et méritant que votre adversaire."
+ pod_lasombraevents.3.a: "Chers juges..."
+ pod_lasombraevents.3.effect.success.desc: "Vous êtes convaincant."
+ pod_lasombraevents.3.critical.failure.effect.desc: "Vous n'avez pas convaincu."
   
- pod_lasombraevents.4.n: "Graisser les roues" #NT!
- pod_lasombraevents.4.desc: "Si les juges de la Cour du Sang restent anonymes, ce n'est pas le cas des Amici Noctis, l'organisation des Anciens régnant sur le clan Lasombra. Il est relativement facile de trouver un de leurs représentants dans chaque grande ville, ne serait-ce que pour lancer une requête officielle.\nCes intermédiaires sont rarement des modèles de vertu et peuvent facilement être soudoyés pour s'assurer que des preuves apparaissent soudainement devant les juges (ou ne le soient jamais). dans certains cas). C'est vraiment un secret de polichinelle, et les Lasombra rusés devraient avoir les moyens de mener de telles « affaires ». Après tout, la richesse est une façon de mesurer votre valeur." #NT!
- pod_lasombraevents.4.a: "Un don judicieux." #NT!
- pod_lasombraevents.4.b: "Je n'ai pas besoin de ça pour gagner." #NT!
- won_round_court_blood_tt: "L'affaire Courts of Blood évolue en votre faveur." #NT!
+ pod_lasombraevents.4.n: "Graisser les roues"
+ pod_lasombraevents.4.desc: "Si les juges de la Cour du Sang restent anonymes, ce n'est pas le cas des Amici Noctis, l'organisation des Anciens régnant sur le clan Lasombra. Il est relativement facile de trouver un de leurs représentants dans chaque grande ville, ne serait-ce que pour lancer une requête officielle.\nCes intermédiaires sont rarement des modèles de vertu et peuvent facilement être soudoyés pour s'assurer que des preuves apparaissent soudainement devant les juges (ou ne le soient jamais). dans certains cas). C'est vraiment un secret de polichinelle, et les Lasombra rusés devraient avoir les moyens de mener de telles « affaires ». Après tout, la richesse est une façon de mesurer votre valeur."
+ pod_lasombraevents.4.a: "Un don judicieux."
+ pod_lasombraevents.4.b: "Je n'ai pas besoin de ça pour gagner."
+ won_round_court_blood_tt: "L'affaire Courts of Blood évolue en votre faveur."
   
- pod_lasombraevents.5.n: "Justice de rue" #NT!
- pod_lasombraevents.5.desc: "Tout est juste dans la guerre et la justice dans [Clan|E] Lasombra. Vous essayez de mettre fin à la non-vie d'un camarade Lasombra et ils essaient toutes les astuces possibles pour survivre et influencer la Cour en leur faveur. Embaucher une bande de voyous locaux pour vous brutaliser entre les récréations de la Cour est leur dernier effort.\nC'est une tentative désespérée et vous ne courez pas de réel danger. Mais la facilité avec laquelle vous pourrez éliminer ces parasites se reflétera dans le jugement global. Après tout, les Lasombra sont censés être bien au-dessus de ces préoccupations mesquines et facilement capables de montrer leur supériorité sur les mortels." #NT!
- pod_lasombraevents.5.a: "Vous avez ciblé le mauvais Lasombra." #NT!
- pod_lasombraevents.5.effect.success.desc: "Parfait!" #NT!
- pod_lasombraevents.5.critical.failure.effect.desc: "Victoire à la Pyrrhus." #NT!
+ pod_lasombraevents.5.n: "Justice de rue"
+ pod_lasombraevents.5.desc: "Tout est juste dans la guerre et la justice dans [Clan|E] Lasombra. Vous essayez de mettre fin à la non-vie d'un camarade Lasombra et ils essaient toutes les astuces possibles pour survivre et influencer la Cour en leur faveur. Embaucher une bande de voyous locaux pour vous brutaliser entre les récréations de la Cour est leur dernier effort.\nC'est une tentative désespérée et vous ne courez pas de réel danger. Mais la facilité avec laquelle vous pourrez éliminer ces parasites se reflétera dans le jugement global. Après tout, les Lasombra sont censés être bien au-dessus de ces préoccupations mesquines et facilement capables de montrer leur supériorité sur les mortels."
+ pod_lasombraevents.5.a: "Vous avez ciblé le mauvais Lasombra."
+ pod_lasombraevents.5.effect.success.desc: "Parfait!"
+ pod_lasombraevents.5.critical.failure.effect.desc: "Victoire à la Pyrrhus."
   
- pod_lasombraevents.6.n: "Démonstration de piété" #NT!
- pod_lasombraevents.6.desc: "Le clan Lasombra valorise la conviction. À bien des égards, ils forment un clan de foi, s’appuyant sur toutes les nouvelles innovations mortelles dans ce domaine pour créer leur propre vision tordue. À la fin de la nuit, peu importe le type de foi que vous suivez, du moment que vous montrez suffisamment que vous le faites de manière convaincante.\nPour convaincre les juges et prouver que vous êtes un digne descendant des Lasombra, un une démonstration de piété pourrait être un bon choix." #NT!
- pod_lasombraevents.6.a: "Je peux faire des miracles." #NT!
+ pod_lasombraevents.6.n: "Démonstration de piété"
+ pod_lasombraevents.6.desc: "Le clan Lasombra valorise la conviction. À bien des égards, ils forment un clan de foi, s’appuyant sur toutes les nouvelles innovations mortelles dans ce domaine pour créer leur propre vision tordue. À la fin de la nuit, peu importe le type de foi que vous suivez, du moment que vous montrez suffisamment que vous le faites de manière convaincante.\nPour convaincre les juges et prouver que vous êtes un digne descendant des Lasombra, un une démonstration de piété pourrait être un bon choix."
+ pod_lasombraevents.6.a: "Je peux faire des miracles."
   
- pod_lasombraevents.7.n: "Faire preuve de force" #NT!
- pod_lasombraevents.7.desc: "Les Lasombra sont des grimpeurs sociaux extrêmes. Leur culture clanique oblige leurs membres à toujours essayer de se surpasser dans tous les domaines possibles. Souvent, cela conduit à ce que seuls les Lasombra les plus impitoyables et les plus compétents soient capables de diriger, mais parfois, cela aboutit à ce que des imbéciles pompeux avec beaucoup d'influence soient élevés bien au-delà de leurs compétences.\nAu cours de cette audience de la Cour, il pourrait être intéressant pour vous de vous engager dans certaines manœuvres politiques, en affichant vos réalisations et en minimisant celles de votre adversaire." #NT!
- pod_lasombraevents.7.a: "Saviez-vous que je..." #NT!
+ pod_lasombraevents.7.n: "Faire preuve de force"
+ pod_lasombraevents.7.desc: "Les Lasombra sont des grimpeurs sociaux extrêmes. Leur culture clanique oblige leurs membres à toujours essayer de se surpasser dans tous les domaines possibles. Souvent, cela conduit à ce que seuls les Lasombra les plus impitoyables et les plus compétents soient capables de diriger, mais parfois, cela aboutit à ce que des imbéciles pompeux avec beaucoup d'influence soient élevés bien au-delà de leurs compétences.\nAu cours de cette audience de la Cour, il pourrait être intéressant pour vous de vous engager dans certaines manœuvres politiques, en affichant vos réalisations et en minimisant celles de votre adversaire."
+ pod_lasombraevents.7.a: "Saviez-vous que je..."
   
- pod_lasombraevents.8.n: "Rien que nous deux" #NT!
- pod_lasombraevents.8.desc: "Votre adversaire lors de cette séance de la Cour du Sang a adopté une position agressive. Au lieu d’essayer de se défendre contre vos accusations, ils attaquent vos réalisations et calomnient votre caractère incontestablement irréprochable. C'est une stratégie tout à fait valable, car les Anciens de la Cour valorisent avant tout la force du clan et si vous êtes convaincu d'être de moindre stature que votre victime, la plupart de votre dossier échouera.\nIl est temps pour vous de répondre. à ces accusations et faites revenir les juges en votre faveur." #NT!
- pod_lasombraevents.8.a: "Je n'ai aucune faiblesse !" #NT!
- pod_lasombraevents.8.effect.success.desc: "Je suis vraiment génial." #NT!
- pod_lasombraevents.8.critical.failure.effect.desc: "J'ai fait quelques erreurs." #NT!
+ pod_lasombraevents.8.n: "Rien que nous deux"
+ pod_lasombraevents.8.desc: "Votre adversaire lors de cette séance de la Cour du Sang a adopté une position agressive. Au lieu d’essayer de se défendre contre vos accusations, ils attaquent vos réalisations et calomnient votre caractère incontestablement irréprochable. C'est une stratégie tout à fait valable, car les Anciens de la Cour valorisent avant tout la force du clan et si vous êtes convaincu d'être de moindre stature que votre victime, la plupart de votre dossier échouera.\nIl est temps pour vous de répondre. à ces accusations et faites revenir les juges en votre faveur."
+ pod_lasombraevents.8.a: "Je n'ai aucune faiblesse !"
+ pod_lasombraevents.8.effect.success.desc: "Je suis vraiment génial."
+ pod_lasombraevents.8.critical.failure.effect.desc: "J'ai fait quelques erreurs."
   
- pod_lasombraevents.10.n: "Objecté!" #NT!
- pod_lasombraevents.10.desc: "La Cour du Sang a rendu son verdict final et ce n'est pas un bon verdict pour vous. Votre adversaire s'est révélé être un Lasombra digne de ce nom et vos accusations n'ont pas été suffisamment convaincantes pour influencer les Anciens. Cela aura un mauvais effet sur vous, et vous avez maintenant un ennemi probablement durable qui n'oubliera pas l'épreuve que vous lui avez imposée.\nLa justice est vraiment aveugle, ou du moins, elle n'est pas amicale envers vous pour le moment." #NT!
- pod_lasombraevents.10.a: "De toute évidence, ils ont soudoyé les juges !" #NT!
+ pod_lasombraevents.10.n: "Objecté!"
+ pod_lasombraevents.10.desc: "La Cour du Sang a rendu son verdict final et ce n'est pas un bon verdict pour vous. Votre adversaire s'est révélé être un Lasombra digne de ce nom et vos accusations n'ont pas été suffisamment convaincantes pour influencer les Anciens. Cela aura un mauvais effet sur vous, et vous avez maintenant un ennemi probablement durable qui n'oubliera pas l'épreuve que vous lui avez imposée.\nLa justice est vraiment aveugle, ou du moins, elle n'est pas amicale envers vous pour le moment."
+ pod_lasombraevents.10.a: "De toute évidence, ils ont soudoyé les juges !"
   
- sentenced_court_blood_modifier: "Condamné par la Cour du Sang" #NT!
- sentenced_court_blood_modifier_desc: "Ce Lasombra a été reconnu coupable d'indigne par la Cour du Sang. Ils sont désormais des proies faciles pour la diablerie en ce qui concerne leur clan." #NT!
+ sentenced_court_blood_modifier: "Condamné par la Cour du Sang"
+ sentenced_court_blood_modifier_desc: "Ce Lasombra a été reconnu coupable d'indigne par la Cour du Sang. Ils sont désormais des proies faciles pour la diablerie en ce qui concerne leur clan."
   
- pod_lasombraevents.11.n: "Essai et succès" #NT!
- pod_lasombraevents.11.desc: "La Cour du Sang a rendu son verdict final et c'est un bon verdict pour vous. Votre adversaire a été jugé indigne du sang du grand Lasombra et vos accusations ont été suffisamment convaincantes pour influencer les Anciens. Cela vous fera du bien, et vous avez maintenant un ennemi acculé qui est officiellement ouvert à la "récupération du sang".\nLa justice a vraiment été rendue." #NT!
- pod_lasombraevents.11.a: "J'adore notre système judiciaire." #NT!
- victory_court_blood_tt: "Votre adversaire aura désormais un modificateur négatif pendant 30 ans. Pendant ce temps, un [diablerie|E] sur eux ne coûtera rien en piété et ne sera pas considéré comme un meurtre." #NT!
- end_lasombra_cw_tt: "La guerre civile des Lasombra prend fin. La Pétition pour Diablerie Sanctionnée [character_interaction|E] est désormais utilisable sur tous les Lasombra, et pas seulement de votre côté de la guerre civile." #NT!
+ pod_lasombraevents.11.n: "Essai et succès"
+ pod_lasombraevents.11.desc: "La Cour du Sang a rendu son verdict final et c'est un bon verdict pour vous. Votre adversaire a été jugé indigne du sang du grand Lasombra et vos accusations ont été suffisamment convaincantes pour influencer les Anciens. Cela vous fera du bien, et vous avez maintenant un ennemi acculé qui est officiellement ouvert à la "récupération du sang".\nLa justice a vraiment été rendue."
+ pod_lasombraevents.11.a: "J'adore notre système judiciaire."
+ victory_court_blood_tt: "Votre adversaire aura désormais un modificateur négatif pendant 30 ans. Pendant ce temps, un [diablerie|E] sur eux ne coûtera rien en piété et ne sera pas considéré comme un meurtre."
+ end_lasombra_cw_tt: "La guerre civile des Lasombra prend fin. La Pétition pour Diablerie Sanctionnée [character_interaction|E] est désormais utilisable sur tous les Lasombra, et pas seulement de votre côté de la guerre civile."
   
- pod_lasombraevents.12.n: "Fonctionnement interne du Clan des Ombres" #NT!
- pod_lasombraevents.12.desc: "Le clan Lasombra prospère grâce à un système d'ascension sociale impitoyable, seuls les meilleurs sont autorisés à faire partie de cette auguste lignée. Les Amici Noctis sont un corps secret d'Anciens chargés de veiller à ce qu'aucun indigne n'hérite jamais longtemps du sang de Lasombra. Dans cette mesure, ils ont formé les Tribunaux du Sang, un organe judiciaire qui permet à quiconque de leur demander la permission d'exécuter le redoutable [diablerie|E] sur un autre Lasombra qui s'est révélé indigne.\nLa guerre civile actuelle des Lasombra a divisé les Tribunaux. entre les [ashirra|E] et les loyalistes et chaque camp ne reconnaît plus l'autorité de l'autre. \n #X En tant que Lasombra, vous pouvez demander une Diablerie Sanctionnée sur n'importe quel autre Lasombra tant qu'il est de votre côté dans la guerre civile. Si la guerre civile devait prendre fin, les tribunaux auraient à nouveau autorité sur tous les Lasombra.#!" #NT!
- pod_lasombraevents.12.a: "Je mobiliserai le clan Lasombra vers son destin." #NT!
- pod_lasombraevents.12.b: "Peut-être pourrais-je les rejoindre..." #NT!
- member_amici_noctis_tt: "Votre personnage fait déjà partie des Amici Noctis, vous pourriez être amené à prendre des décisions importantes concernant le clan à l'avenir." #NT!
- not_member_amici_noctis_tt: "Votre personnage ne fait pas partie des Amici Noctis, vous serez peut-être invité à le rejoindre ultérieurement en fonction de son prestige et de sa puissance." #NT!
+ pod_lasombraevents.12.n: "Fonctionnement interne du Clan des Ombres"
+ pod_lasombraevents.12.desc: "Le clan Lasombra prospère grâce à un système d'ascension sociale impitoyable, seuls les meilleurs sont autorisés à faire partie de cette auguste lignée. Les Amici Noctis sont un corps secret d'Anciens chargés de veiller à ce qu'aucun indigne n'hérite jamais longtemps du sang de Lasombra. Dans cette mesure, ils ont formé les Tribunaux du Sang, un organe judiciaire qui permet à quiconque de leur demander la permission d'exécuter le redoutable [diablerie|E] sur un autre Lasombra qui s'est révélé indigne.\nLa guerre civile actuelle des Lasombra a divisé les Tribunaux. entre les [ashirra|E] et les loyalistes et chaque camp ne reconnaît plus l'autorité de l'autre. \n #X En tant que Lasombra, vous pouvez demander une Diablerie Sanctionnée sur n'importe quel autre Lasombra tant qu'il est de votre côté dans la guerre civile. Si la guerre civile devait prendre fin, les tribunaux auraient à nouveau autorité sur tous les Lasombra.#!"
+ pod_lasombraevents.12.a: "Je mobiliserai le clan Lasombra vers son destin."
+ pod_lasombraevents.12.b: "Peut-être pourrais-je les rejoindre..."
+ member_amici_noctis_tt: "Votre personnage fait déjà partie des Amici Noctis, vous pourriez être amené à prendre des décisions importantes concernant le clan à l'avenir."
+ not_member_amici_noctis_tt: "Votre personnage ne fait pas partie des Amici Noctis, vous serez peut-être invité à le rejoindre ultérieurement en fonction de son prestige et de sa puissance."
   
- pod_lasombraevents.20.n: "Une offre obscure" #NT!
- pod_lasombraevents.20.desc: "Vous avez récemment été approché par un mystérieux individu qui a posé d'étranges questions à votre sujet. Ce qui devrait être un événement inquiétant est plutôt pour vous une source d'anticipation. En effet, on sait que les mystérieux Amici Noctis, l'organisation des Anciens dirigeant le clan Lasombra, démarrent leur processus de recrutement par une telle méthode.\nVous connaissez vraiment la suite. Si vous montrez de l'intérêt, vous serez enfermé dans une tombe pendant quelques nuits afin que vous puissiez « communier avec les ténèbres » sans distraction. Ensuite, vous serez présenté devant un groupe anonyme d'Anciens qui vous demanderont officiellement de rejoindre les Amici Noctis.\nDans l'ensemble, il ne s'agit que d'une formalité, même si elle est stressante, le véritable processus de sélection a lieu avant l'enlèvement, donc, à moins que vous ne voulez pas participer à cette tradition, vous êtes aussi bon que dedans." #NT!
- pod_lasombraevents.20.a: "Je suis prêt à vous rejoindre." #NT!
- pod_lasombraevents.20.b: "Cette organisation décrépite n'est pas pour moi." #NT!
- join_amici_noctis_tt: "Rejoindre les Amici Noctis pourrait vous offrir de nouvelles opportunités pour faire avancer le programme du clan Lasombra." #NT!
- end_amici_noctis_tt: "Il s'agit d'une offre unique. Vous ne pourrez plus rejoindre les Amici Noctis à l'avenir." #NT!
+ pod_lasombraevents.20.n: "Une offre obscure"
+ pod_lasombraevents.20.desc: "Vous avez récemment été approché par un mystérieux individu qui a posé d'étranges questions à votre sujet. Ce qui devrait être un événement inquiétant est plutôt pour vous une source d'anticipation. En effet, on sait que les mystérieux Amici Noctis, l'organisation des Anciens dirigeant le clan Lasombra, démarrent leur processus de recrutement par une telle méthode.\nVous connaissez vraiment la suite. Si vous montrez de l'intérêt, vous serez enfermé dans une tombe pendant quelques nuits afin que vous puissiez « communier avec les ténèbres » sans distraction. Ensuite, vous serez présenté devant un groupe anonyme d'Anciens qui vous demanderont officiellement de rejoindre les Amici Noctis.\nDans l'ensemble, il ne s'agit que d'une formalité, même si elle est stressante, le véritable processus de sélection a lieu avant l'enlèvement, donc, à moins que vous ne voulez pas participer à cette tradition, vous êtes aussi bon que dedans."
+ pod_lasombraevents.20.a: "Je suis prêt à vous rejoindre."
+ pod_lasombraevents.20.b: "Cette organisation décrépite n'est pas pour moi."
+ join_amici_noctis_tt: "Rejoindre les Amici Noctis pourrait vous offrir de nouvelles opportunités pour faire avancer le programme du clan Lasombra."
+ end_amici_noctis_tt: "Il s'agit d'une offre unique. Vous ne pourrez plus rejoindre les Amici Noctis à l'avenir."
   
- pod_lasombraevents.15.n: "Êtes-vous la loi ?" #NT!
- pod_lasombraevents.15.desc: "En tant que membre des Amici Noctis, vous êtes censé siéger de temps en temps aux Cours du Sang. Ce n'est pas un processus dangereux car les juges sont toujours enveloppés dans l'anonymat pour éviter les représailles, mais cela peut être fastidieux.\nL'affaire de ce soir est une affaire mineure entre deux Lasombra sans importance. Personne ne vous en voudrait si vous choisissiez un verdict au hasard, mais les idéaux du clan Lasombra pourraient exiger que vous portiez toute votre attention même sur le cas le plus ennuyeux." #NT!
- pod_lasombraevents.15.a: "Le tribunal siège." #NT!
- pod_lasombraevents.15.b: "Le tribunal siège...." #NT!
+ pod_lasombraevents.15.n: "Êtes-vous la loi ?"
+ pod_lasombraevents.15.desc: "En tant que membre des Amici Noctis, vous êtes censé siéger de temps en temps aux Cours du Sang. Ce n'est pas un processus dangereux car les juges sont toujours enveloppés dans l'anonymat pour éviter les représailles, mais cela peut être fastidieux.\nL'affaire de ce soir est une affaire mineure entre deux Lasombra sans importance. Personne ne vous en voudrait si vous choisissiez un verdict au hasard, mais les idéaux du clan Lasombra pourraient exiger que vous portiez toute votre attention même sur le cas le plus ennuyeux."
+ pod_lasombraevents.15.a: "Le tribunal siège."
+ pod_lasombraevents.15.b: "Le tribunal siège...."
   
- pod_lasombraevents.16.n: "Détournement de fonds ténébreux" #NT!
- pod_lasombraevents.16.desc: "Les Amici Noctis sont peut-être une organisation obscure composée d'Anciens puissants, mais ils ont néanmoins des frais de fonctionnement. Ses multiples agents et représentants attendent une rémunération pour leur travail, et assurer la sécurité des déplacements des juges pendant les Tribunaux du Sang n'est pas non plus bon marché. En tant que tels, ils accueillent favorablement les "dons" souvent faits par de jeunes Lasombra ambitieux souhaitant afficher leur richesse à l'ensemble du [Clan|E].\nUn tel don vous est récemment arrivé et il est temps pour vous de le mettre dans les coffres des Amici... ou est-ce?" #NT!
- pod_lasombraevents.16.a: "Le clan commence." #NT!
- pod_lasombraevents.16.b: "L'astuce de la disparition de l'or !" #NT!
+ pod_lasombraevents.16.n: "Détournement de fonds ténébreux"
+ pod_lasombraevents.16.desc: "Les Amici Noctis sont peut-être une organisation obscure composée d'Anciens puissants, mais ils ont néanmoins des frais de fonctionnement. Ses multiples agents et représentants attendent une rémunération pour leur travail, et assurer la sécurité des déplacements des juges pendant les Tribunaux du Sang n'est pas non plus bon marché. En tant que tels, ils accueillent favorablement les "dons" souvent faits par de jeunes Lasombra ambitieux souhaitant afficher leur richesse à l'ensemble du [Clan|E].\nUn tel don vous est récemment arrivé et il est temps pour vous de le mettre dans les coffres des Amici... ou est-ce?"
+ pod_lasombraevents.16.a: "Le clan commence."
+ pod_lasombraevents.16.b: "L'astuce de la disparition de l'or !"
   
- pod_lasombraevents.17.n: "Trouver les amis" #NT!
- pod_lasombraevents.17.desc: "Les Amici Noctis se cachent dans l'anonymat. De leur point de vue, il s'agit d'une précaution nécessaire pour éviter d'être la cible des ennemis du clan et pouvoir juger les affaires de manière impartiale devant les Tribunaux du Sang.\nPour les membres plus jeunes du clan Lasombra, cela pourrait cependant être considéré comme une preuve. de lâcheté et de faiblesse et beaucoup ont tenté au fil des années de découvrir leur identité. L’un de ces groupes fait récemment des progrès inquiétants et vous devez agir. Il suffirait probablement de punir le principal auteur, mais découvrir tous ses complices enverrait un message beaucoup plus puissant." #NT!
- pod_lasombraevents.17.a: "Nous les punirons tous." #NT!
- pod_lasombraevents.17.b: "Un seul coupable suffira." #NT!
- pod_lasombraevents.17.effect.success.desc: "Ils ont tous été retrouvés." #NT!
- pod_lasombraevents.17.critical.failure.effect.desc: "Ils se sont enfuis..." #NT!
+ pod_lasombraevents.17.n: "Trouver les amis"
+ pod_lasombraevents.17.desc: "Les Amici Noctis se cachent dans l'anonymat. De leur point de vue, il s'agit d'une précaution nécessaire pour éviter d'être la cible des ennemis du clan et pouvoir juger les affaires de manière impartiale devant les Tribunaux du Sang.\nPour les membres plus jeunes du clan Lasombra, cela pourrait cependant être considéré comme une preuve. de lâcheté et de faiblesse et beaucoup ont tenté au fil des années de découvrir leur identité. L’un de ces groupes fait récemment des progrès inquiétants et vous devez agir. Il suffirait probablement de punir le principal auteur, mais découvrir tous ses complices enverrait un message beaucoup plus puissant."
+ pod_lasombraevents.17.a: "Nous les punirons tous."
+ pod_lasombraevents.17.b: "Un seul coupable suffira."
+ pod_lasombraevents.17.effect.success.desc: "Ils ont tous été retrouvés."
+ pod_lasombraevents.17.critical.failure.effect.desc: "Ils se sont enfuis..."
   
- pod_lasombraevents.18.n: "Amis de la nuit" #NT!
- pod_lasombraevents.18.desc: "Les Amici Noctis sont connus pour être une organisation puissante qui pousse [Clan|E] Lasombra vers ses objectifs mystérieux. Mais outre cette importance politique, ils sont également connus comme maîtres de l’Obténébration, le pouvoir signature des Lasombra. Même les rares Amici Noctis qui n'en sont pas maîtres avant leur entrée dans la société apprennent rapidement à le maîtriser, comme on l'attend de leur nouveau poste." #NT!
- pod_lasombraevents.18.a: "Je suis un maître des ombres, comme il se doit." #NT!
- pod_lasombraevents.18.b: "Je dois encore en apprendre davantage sur l'obténébration." #NT!
- pod_lasombraevents.18.c: "Je dois travailler à l’apprendre le plus tôt possible." #NT!
+ pod_lasombraevents.18.n: "Amis de la nuit"
+ pod_lasombraevents.18.desc: "Les Amici Noctis sont connus pour être une organisation puissante qui pousse [Clan|E] Lasombra vers ses objectifs mystérieux. Mais outre cette importance politique, ils sont également connus comme maîtres de l’Obténébration, le pouvoir signature des Lasombra. Même les rares Amici Noctis qui n'en sont pas maîtres avant leur entrée dans la société apprennent rapidement à le maîtriser, comme on l'attend de leur nouveau poste."
+ pod_lasombraevents.18.a: "Je suis un maître des ombres, comme il se doit."
+ pod_lasombraevents.18.b: "Je dois encore en apprendre davantage sur l'obténébration."
+ pod_lasombraevents.18.c: "Je dois travailler à l’apprendre le plus tôt possible."
   
- pod_lasombraevents.19.n: "Prendre du crédit" #NT!
- pod_lasombraevents.19.desc: "Les Amici Noctis gèrent de nombreuses menaces contre [Clan|E] Lasombra, qu'elles soient internes ou externes. Une telle menace est apparue dans votre région et l'organisation n'a pas tardé à montrer son soutien et vous offre les moyens d'y faire face de manière décisive.\nVotre tribunal salue cette victoire parfaite et il est temps pour vous de révéler que les Amici Noctis ont été d'une aide importante. dans cette affaire, pour renforcer l'unité du clan... ou vous pouvez simplement vous glorifier et passer sous silence leur participation." #NT!
- pod_lasombraevents.19.a: "Oui, je suis plutôt génial." #NT!
- pod_lasombraevents.19.b: "J'ai eu de l'aide." #NT!
+ pod_lasombraevents.19.n: "Prendre du crédit"
+ pod_lasombraevents.19.desc: "Les Amici Noctis gèrent de nombreuses menaces contre [Clan|E] Lasombra, qu'elles soient internes ou externes. Une telle menace est apparue dans votre région et l'organisation n'a pas tardé à montrer son soutien et vous offre les moyens d'y faire face de manière décisive.\nVotre tribunal salue cette victoire parfaite et il est temps pour vous de révéler que les Amici Noctis ont été d'une aide importante. dans cette affaire, pour renforcer l'unité du clan... ou vous pouvez simplement vous glorifier et passer sous silence leur participation."
+ pod_lasombraevents.19.a: "Oui, je suis plutôt génial."
+ pod_lasombraevents.19.b: "J'ai eu de l'aide."
   
   
   

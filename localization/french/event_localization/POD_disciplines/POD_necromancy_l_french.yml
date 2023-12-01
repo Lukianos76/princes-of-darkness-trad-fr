@@ -1,47 +1,47 @@
 ﻿l_french:
- POD_find_wraith.100.t: "Quelque chose d'étrange dans le quartier" #NT!
- POD_find_wraith.100.desc: "En fouillant la zone, vous trouvez un esprit solitaire qui serait vulnérable à vos machinations." #NT!
- POD_find_wraith.100.option.a: "Maintenant, que dois-je faire de toi ?" #NT!
-  
- POD_curse_of_the_maelstrom.100.t: "Malédiction du Maelström" #NT!
- POD_curse_of_the_maelstrom.100.desc: "Avec seulement une inspiration profonde et une expiration puissante, vous pouvez invoquer des Spectres, de terribles fantômes qui adorent l'Oblivion, sur votre ennemi et tandis que pour un observateur ordinaire, il n'y aura aucune preuve que quoi que ce soit s'est passé, même les nourrissons dans leur berceau sentiront que quelque chose de terrible. arrive." #NT!
- POD_curse_of_the_maelstrom.100.option.a: "Laissez voler les serviteurs d'Oblivion !" #NT!
- POD_curse_of_the_maelstrom.100.option.a.tt: "Vous invoquez des Spectres dans le comté de la capitale [target.GetFirstNamePossessive]" #NT!
- POD_curse_of_the_maelstrom.100.option.b: "Le moment n'est pas encore venu" #NT!
- POD_curse_of_the_maelstrom.100.option.b.tt: "Vous abandonnez vos projets de maudire leur royaume. Pour l'instant..." #NT!
-  
- POD_wails_and_whispers.100.t: "Lamentations et murmures" #NT!
- POD_wails_and_whispers.100.desc: "À mesure que la compréhension de la nécromancienne s’approfondit, elle explore la barrière vacillante entre la vie et la mort. Lorsqu'elle crie comme une banshee, elle peut attirer une âme vers sa disparition, augmentant ainsi le risque de blessure mortelle." #NT!
- POD_wails_and_whispers.100.option.a: "laisse moi te chuchoter à l'oreille" #NT!
- POD_wails_and_whispers.100.option.b: "Peut-être que je devrais reconsidérer" #NT!
- POD_wails_and_whispers.100.option.b.tt: "Le moment n’est pas venu. Mais ce sera peut-être bientôt..." #NT!
-  
- POD_intimations_of_mortality.100.t: "Indications de mortalité" #NT!
- POD_intimations_of_mortality.100.desc: "Les indications de mortalité infligent les aspects les plus désagréables et irritants de la mortalité à un vampire. Ces expériences sont extraites directement de la mémoire de l'utilisateur [discipline|E] et incluent des expériences telles que la faim et la soif mortelles, le besoin d'éliminer les déchets, une mauvaise acuité sensorielle et la vulnérabilité aux traumatismes physiques que même un nouveau-né vampire pourrait ignorer." #NT!
- POD_intimations_of_mortality.100.option.a: "[recipient.GetFirstName] a besoin d'un rappel de ce à quoi ressemble la mortalité" #NT!
- POD_intimations_of_mortality.100.option.a.tt: "Voyons comment [recipient.GetSheHe] gère cela" #NT!
- POD_intimations_of_mortality.100.option.b: "Peut-être que je devrais reconsidérer" #NT!
- POD_intimations_of_mortality.100.option.b.tt: "Peut-être que le [recipient.GetSheHe] ne mérite pas ça. Du moins pas pour le moment..." #NT!
-  
- POD_gift_of_melancholia.100.t: "Don de mélancolie" #NT!
- POD_gift_of_melancholia.100.desc: "Ce pouvoir inflige une maladie débilitante virulente aux mortels comme aux Caïnites. Tous deux souffrent d’une maladie qui provoque des étourdissements, une faiblesse, des malaises et des nausées. La maladie est très contagieuse parmi les mortels, qui peuvent la transmettre entre eux par simple proximité. \n\nUne fois que la maladie a commencé à se propager, il n'y a aucun moyen de l'arrêter en raison de sa nature virulente, ce qui signifie que la seule option est de la laisser s'éteindre. Vous n’avez également aucun moyen de contrôler la façon dont la maladie se propage après la première infection, donc si vous ne faites pas attention, vos propres terres risquent de subir le même sort." #NT!
- POD_gift_of_melancholia.100.option.a: "Je viens avec de terribles cadeaux" #NT!
- POD_gift_of_melancholia.100.option.b: "Peut-être que je devrais reconsidérer" #NT!
- POD_gift_of_melancholia.100.option.b.tt: "Vous abandonnez vos projets de propager la maladie dans leur royaume. Pour l'instant..." #NT!
-  
- POD_witchs_fruit.100.t: "Fruit de la sorcière" #NT!
- POD_witchs_fruit.100.desc: "Chaque plante dépend de la mort pour croître. Les objets en décomposition enrichissent le sol et les arbres, les vignes et les herbes boivent des échos nécrotiques ainsi que des nutriments vitaux. Un nécromancien peut réveiller cette aura mortelle en exposant ses fruits à son sang. Elle réveille et concentre leurs traces d'énergies nécrotiques afin que tout mortel qui les consomme soit désorienté par des visions tordues de fantômes et de bâtiments tombés depuis longtemps sous leur influence." #NT!
- POD_witchs_fruit.100.option.a: "Il est temps pour [recipient.GetFirstName] de goûter au fruit défendu" #NT!
- POD_witchs_fruit.100.option.a.tt: "Peut-être une belle pomme rouge..." #NT!
- POD_witchs_fruit.100.option.b: "Peut-être que je devrais reconsidérer" #NT!
- POD_witchs_fruit.100.option.b.tt: "Les fruits ne sont pas encore mûrs..." #NT!
-  
- POD_song_of_the_dead.100.t: "Chanson des morts" #NT!
- POD_song_of_the_dead.100.desc: "Le vampire chante, intégrant des mots inouïs dans la chanson et instillant une fascination malsaine pour la mort chez son auditeur. Les individus affligés se retrouvent attirés par des endroits solitaires et peu propices alors qu’ils sombrent dans la dépression ; la mortalité les préoccupe plus que jamais et ils voient partout de mauvais présages. S'ils sont affectés par ce pouvoir pendant une période prolongée, les mortels deviennent fous et deviennent suicidaires, tandis que les vampires finissent par succomber à la torpeur." #NT!
- POD_song_of_the_dead.100.option.a: "Je te chanterai la chanson de mon peuple" #NT!
- POD_song_of_the_dead.100.option.b: "Peut-être que je devrais reconsidérer" #NT!
- POD_song_of_the_dead.100.option.b.tt: "Il y aura d’autres occasions de chanter." #NT!
-  
- POD_necromancy.200.t: "Discipline d'échange" #NT!
- POD_necromancy.200.desc: "D'abord, vous choisissez un [discipline|E] que vous n'avez pas dans le crâne de la victime." #NT!
- POD_necromancy.201.desc: "Ensuite, vous donnez un [discipline|E] au crâne de la victime." #NT!
+    POD_find_wraith.100.t: "Quelque chose d'étrange dans le quartier"
+    POD_find_wraith.100.desc: "En fouillant la zone, vous trouvez un esprit solitaire qui serait vulnérable à vos machinations."
+    POD_find_wraith.100.option.a: "Maintenant, que dois-je faire de toi ?"
+
+    POD_curse_of_the_maelstrom.100.t: "Malédiction du Maelström"
+    POD_curse_of_the_maelstrom.100.desc: "Avec seulement une inspiration profonde et une expiration puissante, vous pouvez invoquer des Spectres, de terribles fantômes qui adorent l'Oblivion, sur votre ennemi et tandis que pour un observateur ordinaire, il n'y aura aucune preuve que quoi que ce soit s'est passé, même les nourrissons dans leur berceau sentiront que quelque chose de terrible. arrive."
+    POD_curse_of_the_maelstrom.100.option.a: "Laissez voler les serviteurs d'Oblivion !"
+    POD_curse_of_the_maelstrom.100.option.a.tt: "Vous invoquez des Spectres dans le comté de la capitale [target.GetFirstNamePossessive]"
+    POD_curse_of_the_maelstrom.100.option.b: "Le moment n'est pas encore venu"
+    POD_curse_of_the_maelstrom.100.option.b.tt: "Vous abandonnez vos projets de maudire leur royaume. Pour l'instant..."
+
+    POD_wails_and_whispers.100.t: "Lamentations et murmures"
+    POD_wails_and_whispers.100.desc: "À mesure que la compréhension de la nécromancienne s’approfondit, elle explore la barrière vacillante entre la vie et la mort. Lorsqu'elle crie comme une banshee, elle peut attirer une âme vers sa disparition, augmentant ainsi le risque de blessure mortelle."
+    POD_wails_and_whispers.100.option.a: "laisse moi te chuchoter à l'oreille"
+    POD_wails_and_whispers.100.option.b: "Peut-être que je devrais reconsidérer"
+    POD_wails_and_whispers.100.option.b.tt: "Le moment n’est pas venu. Mais ce sera peut-être bientôt..."
+
+    POD_intimations_of_mortality.100.t: "Indications de mortalité"
+    POD_intimations_of_mortality.100.desc: "Les indications de mortalité infligent les aspects les plus désagréables et irritants de la mortalité à un vampire. Ces expériences sont extraites directement de la mémoire de l'utilisateur [discipline|E] et incluent des expériences telles que la faim et la soif mortelles, le besoin d'éliminer les déchets, une mauvaise acuité sensorielle et la vulnérabilité aux traumatismes physiques que même un nouveau-né vampire pourrait ignorer."
+    POD_intimations_of_mortality.100.option.a: "[recipient.GetFirstName] a besoin d'un rappel de ce à quoi ressemble la mortalité"
+    POD_intimations_of_mortality.100.option.a.tt: "Voyons comment [recipient.GetSheHe] gère cela"
+    POD_intimations_of_mortality.100.option.b: "Peut-être que je devrais reconsidérer"
+    POD_intimations_of_mortality.100.option.b.tt: "Peut-être que le [recipient.GetSheHe] ne mérite pas ça. Du moins pas pour le moment..."
+
+    POD_gift_of_melancholia.100.t: "Don de mélancolie"
+    POD_gift_of_melancholia.100.desc: "Ce pouvoir inflige une maladie débilitante virulente aux mortels comme aux Caïnites. Tous deux souffrent d’une maladie qui provoque des étourdissements, une faiblesse, des malaises et des nausées. La maladie est très contagieuse parmi les mortels, qui peuvent la transmettre entre eux par simple proximité. \n\nUne fois que la maladie a commencé à se propager, il n'y a aucun moyen de l'arrêter en raison de sa nature virulente, ce qui signifie que la seule option est de la laisser s'éteindre. Vous n’avez également aucun moyen de contrôler la façon dont la maladie se propage après la première infection, donc si vous ne faites pas attention, vos propres terres risquent de subir le même sort."
+    POD_gift_of_melancholia.100.option.a: "Je viens avec de terribles cadeaux"
+    POD_gift_of_melancholia.100.option.b: "Peut-être que je devrais reconsidérer"
+    POD_gift_of_melancholia.100.option.b.tt: "Vous abandonnez vos projets de propager la maladie dans leur royaume. Pour l'instant..."
+
+    POD_witchs_fruit.100.t: "Fruit de la sorcière"
+    POD_witchs_fruit.100.desc: "Chaque plante dépend de la mort pour croître. Les objets en décomposition enrichissent le sol et les arbres, les vignes et les herbes boivent des échos nécrotiques ainsi que des nutriments vitaux. Un nécromancien peut réveiller cette aura mortelle en exposant ses fruits à son sang. Elle réveille et concentre leurs traces d'énergies nécrotiques afin que tout mortel qui les consomme soit désorienté par des visions tordues de fantômes et de bâtiments tombés depuis longtemps sous leur influence."
+    POD_witchs_fruit.100.option.a: "Il est temps pour [recipient.GetFirstName] de goûter au fruit défendu"
+    POD_witchs_fruit.100.option.a.tt: "Peut-être une belle pomme rouge..."
+    POD_witchs_fruit.100.option.b: "Peut-être que je devrais reconsidérer"
+    POD_witchs_fruit.100.option.b.tt: "Les fruits ne sont pas encore mûrs..."
+
+    POD_song_of_the_dead.100.t: "Chanson des morts"
+    POD_song_of_the_dead.100.desc: "Le vampire chante, intégrant des mots inouïs dans la chanson et instillant une fascination malsaine pour la mort chez son auditeur. Les individus affligés se retrouvent attirés par des endroits solitaires et peu propices alors qu’ils sombrent dans la dépression ; la mortalité les préoccupe plus que jamais et ils voient partout de mauvais présages. S'ils sont affectés par ce pouvoir pendant une période prolongée, les mortels deviennent fous et deviennent suicidaires, tandis que les vampires finissent par succomber à la torpeur."
+    POD_song_of_the_dead.100.option.a: "Je te chanterai la chanson de mon peuple"
+    POD_song_of_the_dead.100.option.b: "Peut-être que je devrais reconsidérer"
+    POD_song_of_the_dead.100.option.b.tt: "Il y aura d’autres occasions de chanter."
+
+    POD_necromancy.200.t: "Discipline d'échange"
+    POD_necromancy.200.desc: "D'abord, vous choisissez un [discipline|E] que vous n'avez pas dans le crâne de la victime."
+    POD_necromancy.201.desc: "Ensuite, vous donnez un [discipline|E] au crâne de la victime."

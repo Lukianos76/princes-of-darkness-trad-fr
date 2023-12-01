@@ -1,58 +1,58 @@
 ﻿l_french:
- BLACKMAIL_NOTIFICATION_SECRET_WEREWOLF: "\nJe connais votre... nature bestiale." #NT!
- BLACKMAIL_NOTIFICATION_SECRET_MAGE: "\nJe sais que vous fréquentez des sorcières." #NT!
- BLACKMAIL_NOTIFICATION_SECRET_FAE: "\nJe sais que nous faisons partie des... gens justes." #NT!
- BLACKMAIL_NOTIFICATION_SECRET_DEMON: "\nJe connais votre... nature sombre." #NT!
- BLACKMAIL_NOTIFICATION_SECRET_GHOUL: "\nJe sais si vous avez un... maître." #NT!
- BLACKMAIL_NOTIFICATION_SECRET_REVENANT: "\nJe connais votre... héritage inquiétant." #NT!
- BLACKMAIL_NOTIFICATION_SECRET_SUPEHUNTER: "\nJe connais votre... métier dangereux." #NT!
- BLACKMAIL_NOTIFICATION_SECRET_REGNANT: "\nJe sais comment vous... gardez les autres sous votre emprise." #NT!
- BLACKMAIL_NOTIFICATION_SECRET_SIRE: "\nJe vous connais... j'en ai fait un autre." #NT!
- BLACKMAIL_NOTIFICATION_SECRET_PREDATORYPTE_CONSENSUALIST: "\nJe sais ce que vous demandez aux gens." #NT!
- BLACKMAIL_NOTIFICATION_SECRET_PREDATORYPTE_FAMILIAS: "\nJe connais votre relation particulière avec cette famille." #NT!
- BLACKMAIL_NOTIFICATION_SECRET_PREDATORYPTE_CULTIST: "\nJe connais vos liens avec cette congrégation." #NT!
- BLACKMAIL_NOTIFICATION_SECRET_PREDATORYPTE_BLOODLEECH: "\nJe connais votre... régime alimentaire préféré." #NT!
- RELEASE_TRACK: "Feignez la pitié et libérez le démon pour qu'il nous conduise à ses associés (sige, héritier et conjoint)." #NT!
- tracked_down.t: "Associé retrouvé" #NT!
- tracked_down.desc: "Trouver son antre sera rapide." #NT!
- tracked_lost.t: "Nous avons perdu la cible." #NT!
- tracked_lost.desc: "Le prisonnier libéré a échappé à nos agents." #NT!
- holyweapon_interaction: "Fournir une arme sacrée" #NT!
- holyweapon_interaction_desc: "Commandez une arme pour [recipient.GetTitledFirstName] rituellement imprégnée de pouvoir divin." #NT!
- has_holyweapon: "Cette personne est déjà équipée d’une arme sacrée." #NT!
- holyweapon_interaction_toast: "[recipient.GetTitledFirstName] a reçu une arme sacrée" #NT!
- firebombs_interaction: "Équipez-vous de bombes incendiaires" #NT!
- firebombs_interaction_desc: "Fournissez au [recipient.GetTitledFirstName] du feu grec jetable." #NT!
- FIREBOMBS_PROPOSAL: "Mon compagnon de service de la Lumière, je souhaite vous doter d'une arme redoutable contre nos ennemis." #NT!
- FIREBOMBS_ACCEPT: "Merci, ce sera un canal pour la colère du Seigneur." #NT!
- FIREBOMBS_REJECT: "Je ne toucherai pas à cette machine infernale." #NT!
- firespewer_interaction: "Equipé d'un cracheur de feu" #NT!
- firespewer_interaction_desc: "Fournissez à [recipient.GetTitledFirstName] un dispositif crachant du feu grec." #NT!
- FIRESPEWER_PROPOSAL: "Mon compagnon de service de la Lumière, je souhaite vous doter d'une arme redoutable contre nos ennemis." #NT!
- FIRESPEWER_ACCEPT: "Merci, ce sera un canal pour la colère du Seigneur." #NT!
- FIRESPEWER_REJECT: "Je ne toucherai pas à cette machine infernale." #NT!
- has_fireweapons: "Cette personne est déjà équipée d’armes incendiaires." #NT!
- gavefirebombs_notification: "Vous avez équipé [recipient.GetTitledFirstName] de bombes incendiaires." #NT!
- gotfirebombs_notification: "[actor.GetTitledFirstName] vous a équipé de bombes incendiaires." #NT!
- gavefirespewer_notification: "Vous avez équipé [recipient.GetTitledFirstName] d'un cracheur d'incendie." #NT!
- gotfirespewer_notification: "[actor.GetTitledFirstName] vous a équipé d'un cracheur d'incendie." #NT!
- hunter_titles: "On ne peut pas faire confiance aux non-initiés pour diriger la cause." #NT!
- vamp_titles: "Les mortels ignorants ne sont pas aptes à gouverner." #NT!
- werewolf_titles: "Les mortels ignorants ne sont pas aptes à gouverner." #NT!
- wraith_titles: "Les Quick sont trop loin pour servir une règle [underworld|E]." #NT!
- mage_titles: "Les mortels ignorants ne sont pas aptes à gouverner." #NT!
- fae_titles: "Les mortels ignorants ne sont pas aptes à gouverner." #NT!
- mummy_titles: "On ne peut pas faire confiance à un non [neteru|E]." #NT!
- demon_titles: "On ne peut pas faire confiance à un non [GetTrait('infernalist').GetName( GetPlayer )]." #NT!
- holy_heal_no_traits_to_heal: "Aucun trait non génétique que Faith peut guérir." #NT!
- holy_heal_no_traits_to_heal_other: "Aucun trait non génétique que Faith peut guérir." #NT!
- blood_heal_no_traits_to_heal: "Aucune blessure physique non permanente pouvant être guérie." #NT!
- pod_glimpses_kill.t: "Aperçus du meurtre" #NT!
- pod_glimpses_kill.desc: "Vous avez aperçu [owner.GetFirstName] essayant d'assassiner [target.GetFirstName]." #NT!
- pod_glimpses_love.t: "Aperçus de séduction" #NT!
- pod_glimpses_love.desc: "Vous avez aperçu [owner.GetFirstName] essayant de séduire [target.GetFirstName]." #NT!
-  
- GAME_OVER_WORLD_END: "Le monde est fini." #NT!
- baronies_too_old_tt: "Ce personnage est trop vieux pour accepter une somme aussi dérisoire ! Ils n'accepteront pas les titres de niveau Baronnie." #NT!
-  
- SUSPIRE_SUCCESS_REASON: "[recipient.GetShortUINamePossessive] chance de succès est #V [recipient.MakeScope.ScriptValue('suspire_success_chance')]%#!: $VALUE|=+0$" #NT!
+    BLACKMAIL_NOTIFICATION_SECRET_WEREWOLF: "\nJe connais votre... nature bestiale."
+    BLACKMAIL_NOTIFICATION_SECRET_MAGE: "\nJe sais que vous fréquentez des sorcières."
+    BLACKMAIL_NOTIFICATION_SECRET_FAE: "\nJe sais que nous faisons partie des... gens justes."
+    BLACKMAIL_NOTIFICATION_SECRET_DEMON: "\nJe connais votre... nature sombre."
+    BLACKMAIL_NOTIFICATION_SECRET_GHOUL: "\nJe sais si vous avez un... maître."
+    BLACKMAIL_NOTIFICATION_SECRET_REVENANT: "\nJe connais votre... héritage inquiétant."
+    BLACKMAIL_NOTIFICATION_SECRET_SUPEHUNTER: "\nJe connais votre... métier dangereux."
+    BLACKMAIL_NOTIFICATION_SECRET_REGNANT: "\nJe sais comment vous... gardez les autres sous votre emprise."
+    BLACKMAIL_NOTIFICATION_SECRET_SIRE: "\nJe vous connais... j'en ai fait un autre."
+    BLACKMAIL_NOTIFICATION_SECRET_PREDATORYPTE_CONSENSUALIST: "\nJe sais ce que vous demandez aux gens."
+    BLACKMAIL_NOTIFICATION_SECRET_PREDATORYPTE_FAMILIAS: "\nJe connais votre relation particulière avec cette famille."
+    BLACKMAIL_NOTIFICATION_SECRET_PREDATORYPTE_CULTIST: "\nJe connais vos liens avec cette congrégation."
+    BLACKMAIL_NOTIFICATION_SECRET_PREDATORYPTE_BLOODLEECH: "\nJe connais votre... régime alimentaire préféré."
+    RELEASE_TRACK: "Feignez la pitié et libérez le démon pour qu'il nous conduise à ses associés (sige, héritier et conjoint)."
+    tracked_down.t: "Associé retrouvé"
+    tracked_down.desc: "Trouver son antre sera rapide."
+    tracked_lost.t: "Nous avons perdu la cible."
+    tracked_lost.desc: "Le prisonnier libéré a échappé à nos agents."
+    holyweapon_interaction: "Fournir une arme sacrée"
+    holyweapon_interaction_desc: "Commandez une arme pour [recipient.GetTitledFirstName] rituellement imprégnée de pouvoir divin."
+    has_holyweapon: "Cette personne est déjà équipée d’une arme sacrée."
+    holyweapon_interaction_toast: "[recipient.GetTitledFirstName] a reçu une arme sacrée"
+    firebombs_interaction: "Équipez-vous de bombes incendiaires"
+    firebombs_interaction_desc: "Fournissez au [recipient.GetTitledFirstName] du feu grec jetable."
+    FIREBOMBS_PROPOSAL: "Mon compagnon de service de la Lumière, je souhaite vous doter d'une arme redoutable contre nos ennemis."
+    FIREBOMBS_ACCEPT: "Merci, ce sera un canal pour la colère du Seigneur."
+    FIREBOMBS_REJECT: "Je ne toucherai pas à cette machine infernale."
+    firespewer_interaction: "Equipé d'un cracheur de feu"
+    firespewer_interaction_desc: "Fournissez à [recipient.GetTitledFirstName] un dispositif crachant du feu grec."
+    FIRESPEWER_PROPOSAL: "Mon compagnon de service de la Lumière, je souhaite vous doter d'une arme redoutable contre nos ennemis."
+    FIRESPEWER_ACCEPT: "Merci, ce sera un canal pour la colère du Seigneur."
+    FIRESPEWER_REJECT: "Je ne toucherai pas à cette machine infernale."
+    has_fireweapons: "Cette personne est déjà équipée d’armes incendiaires."
+    gavefirebombs_notification: "Vous avez équipé [recipient.GetTitledFirstName] de bombes incendiaires."
+    gotfirebombs_notification: "[actor.GetTitledFirstName] vous a équipé de bombes incendiaires."
+    gavefirespewer_notification: "Vous avez équipé [recipient.GetTitledFirstName] d'un cracheur d'incendie."
+    gotfirespewer_notification: "[actor.GetTitledFirstName] vous a équipé d'un cracheur d'incendie."
+    hunter_titles: "On ne peut pas faire confiance aux non-initiés pour diriger la cause."
+    vamp_titles: "Les mortels ignorants ne sont pas aptes à gouverner."
+    werewolf_titles: "Les mortels ignorants ne sont pas aptes à gouverner."
+    wraith_titles: "Les Quick sont trop loin pour servir une règle [underworld|E]."
+    mage_titles: "Les mortels ignorants ne sont pas aptes à gouverner."
+    fae_titles: "Les mortels ignorants ne sont pas aptes à gouverner."
+    mummy_titles: "On ne peut pas faire confiance à un non [neteru|E]."
+    demon_titles: "On ne peut pas faire confiance à un non [GetTrait('infernalist').GetName( GetPlayer )]."
+    holy_heal_no_traits_to_heal: "Aucun trait non génétique que Faith peut guérir."
+    holy_heal_no_traits_to_heal_other: "Aucun trait non génétique que Faith peut guérir."
+    blood_heal_no_traits_to_heal: "Aucune blessure physique non permanente pouvant être guérie."
+    pod_glimpses_kill.t: "Aperçus du meurtre"
+    pod_glimpses_kill.desc: "Vous avez aperçu [owner.GetFirstName] essayant d'assassiner [target.GetFirstName]."
+    pod_glimpses_love.t: "Aperçus de séduction"
+    pod_glimpses_love.desc: "Vous avez aperçu [owner.GetFirstName] essayant de séduire [target.GetFirstName]."
+
+    GAME_OVER_WORLD_END: "Le monde est fini."
+    baronies_too_old_tt: "Ce personnage est trop vieux pour accepter une somme aussi dérisoire ! Ils n'accepteront pas les titres de niveau Baronnie."
+
+    SUSPIRE_SUCCESS_REASON: "[recipient.GetShortUINamePossessive] chance de succès est #V [recipient.MakeScope.ScriptValue('suspire_success_chance')]%#!: $VALUE|=+0$"

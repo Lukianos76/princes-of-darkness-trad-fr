@@ -1,102 +1,101 @@
 ﻿l_french:
-  
-  #Common Road of Lilith Localization 
- roadoflilith_religion: "La route de Lilith" #NT!
- roadoflilith_religion_adj: "Liline" #NT!
- roadoflilith_religion_adherent: "Liline" #NT!
- roadoflilith_religion_adherent_plural: "Liline" #NT!
- roadoflilith_religion_desc: "Kindred se concentrait sur les leçons de la Mère Noire. Ils sont très hostiles à tout ce qui concerne Caïn." #NT!
- roadoflilith_high_god_name: "Lilith" #NT!
- roadoflilith_high_god_name_possessive: "celle de Lilith" #NT!
- roadoflilith_high_god_name_alternate: "La Mère Sombre" #NT!
- roadoflilith_high_god_name_alternate_possessive: "La Mère Sombre" #NT!
- roadoflilith_good_god_jesus: "$roadoflilith_health_god_name$" #NT!
- roadoflilith_good_god_christ: "Lilith" #NT!
- roadoflilith_devil_name: "Caïn" #NT!
- roadoflilith_devil_name_possessive: "Caïn" #NT!
- roadoflilith_evil_god_lucifer: "Caïn" #NT!
- roadoflilith_evil_god_beelzebub: "Caïn" #NT!
- roadoflilith_evil_god_mephistopheles: "Caïn" #NT!
- roadoflilith_death_deity_name: "Destruction" #NT!
- roadoflilith_death_deity_name_possessive: "Destruction" #NT!
- roadoflilith_house_of_worship: "clan" #NT!
- roadoflilith_house_of_worship_plural: "covens" #NT!
- roadoflilith_religious_symbol: "couronne de cendre" #NT!
- roadoflilith_religious_text: "Cycle de Lilith" #NT!
- roadoflilith_religious_head_title: "grand-mère" #NT!
- roadoflilith_religious_head_title_name: "grand-mère" #NT!
- roadoflilith_devotee_male: "frère" #NT!
- roadoflilith_devotee_male_plural: "frères" #NT!
- roadoflilith_devotee_female: "sœur" #NT!
- roadoflilith_devotee_female_plural: "sœurs" #NT!
- roadoflilith_devotee_neuter: "sœur" #NT!
- roadoflilith_devotee_neuter_plural: "sœur" #NT!
- roadoflilith_priest_male: "père" #NT!
- roadoflilith_priest_male_plural: "pères" #NT!
- roadoflilith_priest_alternate_plural: "frères" #NT!
- roadoflilith_bishop: "mère" #NT!
- roadoflilith_bishop_plural: "les mères" #NT!
- roadoflilith_divine_realm: "Eden" #NT!
- roadoflilith_positive_afterlife: "Eden" #NT!
- roadoflilith_negative_afterlife: "les abysses" #NT!
- roadoflilith_witchgodname_the_horned_god: "la bête" #NT!
- roadoflilith_witchgodname_the_horned_god_possessive: "Les bêtes" #NT!
-  
- roadoflilith_creator_god_name: "$roadoflilith_high_god_name$" #NT!
- roadoflilith_creator_god_name_possessive: "$roadoflilith_high_god_name_possessive$" #NT!
- roadoflilith_health_god_name: "sang" #NT!
- roadoflilith_health_god_name_possessive: "du sang" #NT!
- roadoflilith_fertility_god_name: "$roadoflilith_high_god_name$" #NT!
- roadoflilith_fertility_god_name_possessive: "$roadoflilith_high_god_name_possessive$" #NT!
- roadoflilith_wealth_god_name: "$roadoflilith_high_god_name$" #NT!
- roadoflilith_wealth_god_name_possessive: "$roadoflilith_high_god_name_possessive$" #NT!
- roadoflilith_household_god_name: "$roadoflilith_health_god_name$" #NT!
- roadoflilith_household_god_name_possessive: "$roadoflilith_health_god_name_possessive$" #NT!
- roadoflilith_fate_god_name: "$roadoflilith_high_god_name$" #NT!
- roadoflilith_fate_god_name_possessive: "$roadoflilith_high_god_name_possessive$" #NT!
- roadoflilith_knowledge_god_name: "$roadoflilith_high_god_name$" #NT!
- roadoflilith_knowledge_god_name_possessive: "$roadoflilith_high_god_name_possessive$" #NT!
- roadoflilith_war_god_name: "$roadoflilith_high_god_name$" #NT!
- roadoflilith_war_god_name_possessive: "$roadoflilith_high_god_name_possessive$" #NT!
- roadoflilith_trickster_god_name: "Fortune" #NT!
- roadoflilith_trickster_god_name_possessive: "La Fortune" #NT!
- roadoflilith_night_god_name: "$roadoflilith_high_god_name$" #NT!
- roadoflilith_night_god_name_possessive: "$roadoflilith_high_god_name_possessive$" #NT!
- roadoflilith_water_god_name: "$roadoflilith_health_god_name$" #NT!
- roadoflilith_water_god_name_possessive: "$roadoflilith_health_god_name_possessive$" #NT!
-  
-  #Lilin-Group Faiths 
- derechlilit: "Derek Lilit" #NT!
- derechlilit_adj: "Liline" #NT!
- derechlilit_adherent: "Liline" #NT!
- derechlilit_adherent_plural: "Liline" #NT!
- derechlilit_desc: "La Route de Lilith est dédiée à la figure rabbinique Lilith, qui apparaît dans de multiples sources noddistes ainsi que dans les traditions perpétrées par des cultes cachés. La plupart des cultes décomposent Lilith en principes fondamentaux : la douleur et la création. Pour créer, il faut blesser et être blessé. C’est le principe fondamental de la vie elle-même." #NT!
-  
- viafaciendi: "Via Faciendi" #NT!
- viafaciendi_adj: "Faciendi" #NT!
- viafaciendi_adherent: "Fabricant" #NT!
- viafaciendi_adherent_plural: "Créateurs" #NT!
- viafaciendi_desc: "The Path of Making est dédié à la recherche et à la propagation des enfants-démons de Lilith, en s'inspirant de la tradition biblique de Lilith en tant que mère des monstres." #NT!
-  
- viaspinae: "Via les épines" #NT!
- viaspinae_adj: "Bahari" #NT!
- viaspinae_adherent: "Ba'ham" #NT!
- viaspinae_adherent_plural: "Bahari" #NT!
- viaspinae_desc: "Le Chemin des Épines se concentre sur la douleur physique. Les membres étudient la douleur de manière logique, cherchant à codifier les points de rupture et les moyens de franchir le seuil d'une victime pour lui faire voir la douloureuse vérité de Lilith." #NT!
-  
- viacalantica: "Via Calantica" #NT!
- viacalantica_adj: "Ki-sikil-lil-la-ke" #NT!
- viacalantica_adherent: "Ki-sikil-lil-la-ke" #NT!
- viacalantica_adherent_plural: "Ki-sikil-lil-la-ke" #NT!
- viacalantica_desc: "Le Chemin des Voiles se concentre sur Lilith en tant que rebelle et contre-figure à la fois du Dieu abrahamique et de Caïn. Ce sont les plus virulents des Lilin, souvent plus guerriers que érudits." #NT!
-  
- holy_order_bahari: "Les Bahari" #NT!
- holy_order_faithful_of_the_dark_mother: "Fidèle de la Mère Noire" #NT!
- holy_order_lhaka: "Le Lacca" #NT!
-  
- daughtersofgorgo: "Filles de Gorgo" #NT!
- daughtersofgorgo_adj: "Gorgone" #NT!
- daughtersofgorgo_adherent: "Gorgone" #NT!
- daughtersofgorgo_adherent_plural: "Gorgones" #NT!
- daughtersofgorgo_desc: "Une petite organisation militante cherchant à assassiner tout tyran vampire. Ils agissent comme des assassins, transformant des nouveau-nés lésés en tueurs endurcis prêts à se venger de leurs oppresseurs." #NT!
-  
+    #Common Road of Lilith Localization
+    roadoflilith_religion: "La route de Lilith"
+    roadoflilith_religion_adj: "Liline"
+    roadoflilith_religion_adherent: "Liline"
+    roadoflilith_religion_adherent_plural: "Liline"
+    roadoflilith_religion_desc: "Kindred se concentrait sur les leçons de la Mère Noire. Ils sont très hostiles à tout ce qui concerne Caïn."
+    roadoflilith_high_god_name: "Lilith"
+    roadoflilith_high_god_name_possessive: "celle de Lilith"
+    roadoflilith_high_god_name_alternate: "La Mère Sombre"
+    roadoflilith_high_god_name_alternate_possessive: "La Mère Sombre"
+    roadoflilith_good_god_jesus: "$roadoflilith_health_god_name$"
+    roadoflilith_good_god_christ: "Lilith"
+    roadoflilith_devil_name: "Caïn"
+    roadoflilith_devil_name_possessive: "Caïn"
+    roadoflilith_evil_god_lucifer: "Caïn"
+    roadoflilith_evil_god_beelzebub: "Caïn"
+    roadoflilith_evil_god_mephistopheles: "Caïn"
+    roadoflilith_death_deity_name: "Destruction"
+    roadoflilith_death_deity_name_possessive: "Destruction"
+    roadoflilith_house_of_worship: "clan"
+    roadoflilith_house_of_worship_plural: "covens"
+    roadoflilith_religious_symbol: "couronne de cendre"
+    roadoflilith_religious_text: "Cycle de Lilith"
+    roadoflilith_religious_head_title: "grand-mère"
+    roadoflilith_religious_head_title_name: "grand-mère"
+    roadoflilith_devotee_male: "frère"
+    roadoflilith_devotee_male_plural: "frères"
+    roadoflilith_devotee_female: "sœur"
+    roadoflilith_devotee_female_plural: "sœurs"
+    roadoflilith_devotee_neuter: "sœur"
+    roadoflilith_devotee_neuter_plural: "sœur"
+    roadoflilith_priest_male: "père"
+    roadoflilith_priest_male_plural: "pères"
+    roadoflilith_priest_alternate_plural: "frères"
+    roadoflilith_bishop: "mère"
+    roadoflilith_bishop_plural: "les mères"
+    roadoflilith_divine_realm: "Eden"
+    roadoflilith_positive_afterlife: "Eden"
+    roadoflilith_negative_afterlife: "les abysses"
+    roadoflilith_witchgodname_the_horned_god: "la bête"
+    roadoflilith_witchgodname_the_horned_god_possessive: "Les bêtes"
+
+    roadoflilith_creator_god_name: "$roadoflilith_high_god_name$"
+    roadoflilith_creator_god_name_possessive: "$roadoflilith_high_god_name_possessive$"
+    roadoflilith_health_god_name: "sang"
+    roadoflilith_health_god_name_possessive: "du sang"
+    roadoflilith_fertility_god_name: "$roadoflilith_high_god_name$"
+    roadoflilith_fertility_god_name_possessive: "$roadoflilith_high_god_name_possessive$"
+    roadoflilith_wealth_god_name: "$roadoflilith_high_god_name$"
+    roadoflilith_wealth_god_name_possessive: "$roadoflilith_high_god_name_possessive$"
+    roadoflilith_household_god_name: "$roadoflilith_health_god_name$"
+    roadoflilith_household_god_name_possessive: "$roadoflilith_health_god_name_possessive$"
+    roadoflilith_fate_god_name: "$roadoflilith_high_god_name$"
+    roadoflilith_fate_god_name_possessive: "$roadoflilith_high_god_name_possessive$"
+    roadoflilith_knowledge_god_name: "$roadoflilith_high_god_name$"
+    roadoflilith_knowledge_god_name_possessive: "$roadoflilith_high_god_name_possessive$"
+    roadoflilith_war_god_name: "$roadoflilith_high_god_name$"
+    roadoflilith_war_god_name_possessive: "$roadoflilith_high_god_name_possessive$"
+    roadoflilith_trickster_god_name: "Fortune"
+    roadoflilith_trickster_god_name_possessive: "La Fortune"
+    roadoflilith_night_god_name: "$roadoflilith_high_god_name$"
+    roadoflilith_night_god_name_possessive: "$roadoflilith_high_god_name_possessive$"
+    roadoflilith_water_god_name: "$roadoflilith_health_god_name$"
+    roadoflilith_water_god_name_possessive:
+        "$roadoflilith_health_god_name_possessive$"
+
+        #Lilin-Group Faiths
+    derechlilit: "Derek Lilit"
+    derechlilit_adj: "Liline"
+    derechlilit_adherent: "Liline"
+    derechlilit_adherent_plural: "Liline"
+    derechlilit_desc: "La Route de Lilith est dédiée à la figure rabbinique Lilith, qui apparaît dans de multiples sources noddistes ainsi que dans les traditions perpétrées par des cultes cachés. La plupart des cultes décomposent Lilith en principes fondamentaux : la douleur et la création. Pour créer, il faut blesser et être blessé. C’est le principe fondamental de la vie elle-même."
+
+    viafaciendi: "Via Faciendi"
+    viafaciendi_adj: "Faciendi"
+    viafaciendi_adherent: "Fabricant"
+    viafaciendi_adherent_plural: "Créateurs"
+    viafaciendi_desc: "The Path of Making est dédié à la recherche et à la propagation des enfants-démons de Lilith, en s'inspirant de la tradition biblique de Lilith en tant que mère des monstres."
+
+    viaspinae: "Via les épines"
+    viaspinae_adj: "Bahari"
+    viaspinae_adherent: "Ba'ham"
+    viaspinae_adherent_plural: "Bahari"
+    viaspinae_desc: "Le Chemin des Épines se concentre sur la douleur physique. Les membres étudient la douleur de manière logique, cherchant à codifier les points de rupture et les moyens de franchir le seuil d'une victime pour lui faire voir la douloureuse vérité de Lilith."
+
+    viacalantica: "Via Calantica"
+    viacalantica_adj: "Ki-sikil-lil-la-ke"
+    viacalantica_adherent: "Ki-sikil-lil-la-ke"
+    viacalantica_adherent_plural: "Ki-sikil-lil-la-ke"
+    viacalantica_desc: "Le Chemin des Voiles se concentre sur Lilith en tant que rebelle et contre-figure à la fois du Dieu abrahamique et de Caïn. Ce sont les plus virulents des Lilin, souvent plus guerriers que érudits."
+
+    holy_order_bahari: "Les Bahari"
+    holy_order_faithful_of_the_dark_mother: "Fidèle de la Mère Noire"
+    holy_order_lhaka: "Le Lacca"
+
+    daughtersofgorgo: "Filles de Gorgo"
+    daughtersofgorgo_adj: "Gorgone"
+    daughtersofgorgo_adherent: "Gorgone"
+    daughtersofgorgo_adherent_plural: "Gorgones"
+    daughtersofgorgo_desc: "Une petite organisation militante cherchant à assassiner tout tyran vampire. Ils agissent comme des assassins, transformant des nouveau-nés lésés en tueurs endurcis prêts à se venger de leurs oppresseurs."

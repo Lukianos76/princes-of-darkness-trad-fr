@@ -1,121 +1,119 @@
 ﻿l_french:
-  
-  
- POD_change_personality_interaction: "Réécrire la personnalité" #NT!
- POD_change_personality_interaction_desc: "Cela ouvrira un menu qui vous permettra de modifier la personnalité de la victime" #NT!
- POD_change_personality_interaction_accept: "Cela ouvrira un menu qui vous permettra de modifier la personnalité de la victime au détriment de la piété." #NT!
- POD_change_personality.100.t: "Réécrire la personnalité" #NT!
- POD_change_personality.100.desc: "Comment souhaitez-vous modifier leur personnalité ?" #NT!
- POD_change_personality.100.option.a: "Ajouter une caractéristique" #NT!
- POD_change_personality.100.option.a.tt: "Cela vous mènera à un menu où vous pourrez choisir la résonance du trait que vous souhaitez ajouter." #NT!
- POD_change_personality.100.option.b: "Supprimer la caractéristique" #NT!
- POD_change_personality.100.option.b.tt: "Cela vous amènera à un menu où vous pourrez choisir le trait à supprimer." #NT!
- POD_change_personality.100.option.c: "Pas grave" #NT!
- POD_change_personality.100.option.c.tt: "Cela ferme ce menu" #NT!
- POD_change_personality.200.t: "Ajouter un trait de personnalité" #NT!
- POD_change_personality.200.desc: "Quelle résonance a le trait que vous souhaitez ajouter ?" #NT!
- POD_change_personality.200.option.a: "Colérique" #NT!
- POD_change_personality.200.option.a.tt: "Ouvre la liste des traits colériques" #NT!
- POD_change_personality.200.option.b: "Mélancolique" #NT!
- POD_change_personality.200.option.b.tt: "Ouvre la liste des traits mélancoliques" #NT!
- POD_change_personality.200.option.c: "Flegmatique" #NT!
- POD_change_personality.200.option.c.tt: "Ouvre la liste des traits flegmatiques" #NT!
- POD_change_personality.200.option.d: "Sanguine" #NT!
- POD_change_personality.200.option.d.tt: "Ouvre la liste des traits sanguins" #NT!
- POD_change_personality.200.option.e: "Dos" #NT!
- POD_change_personality.200.option.e.tt: "Retourne au menu précédent" #NT!
- POD_change_personality.210.t: "Ajouter un trait de personnalité colérique" #NT!
- POD_change_personality.210.desc: "Quel trait souhaitez-vous ajouter ?" #NT!
- POD_change_personality.210.option.a: "Arrogant" #NT!
- POD_change_personality.210.option.b: "Courageux" #NT!
- POD_change_personality.210.option.c: "Insensible" #NT!
- POD_change_personality.210.option.d: "Impatient" #NT!
- POD_change_personality.210.option.e: "Sadique" #NT!
- POD_change_personality.210.option.f: "Têtu" #NT!
- POD_change_personality.210.option.g: "Courroucé" #NT!
- POD_change_personality.210.option.h: "Cupide" #NT!
- POD_change_personality.210.option.i: "Vengeur" #NT!
- POD_change_personality.210.option.az: "Dos" #NT!
- POD_change_personality.210.option.az.tt: "Retourne au menu précédent" #NT!
- POD_change_personality.220.t: "Ajouter un trait de personnalité mélancolique" #NT!
- POD_change_personality.220.desc: "Quel trait souhaitez-vous ajouter ?" #NT!
- POD_change_personality.220.option.a: "Chaste" #NT!
- POD_change_personality.220.option.b: "Glouton" #NT!
- POD_change_personality.220.option.c: "Lâche" #NT!
- POD_change_personality.220.option.d: "Cynique" #NT!
- POD_change_personality.220.option.e: "Honnête" #NT!
- POD_change_personality.220.option.f: "Paranoïaque" #NT!
- POD_change_personality.220.option.g: "Timide" #NT!
- POD_change_personality.220.option.az: "Dos" #NT!
- POD_change_personality.220.option.az.tt: "Retourne au menu précédent" #NT!
- POD_change_personality.230.t: "Ajouter un trait de personnalité flegmatique" #NT!
- POD_change_personality.230.desc: "Quel trait souhaitez-vous ajouter ?" #NT!
- POD_change_personality.230.option.a: "Calme" #NT!
- POD_change_personality.230.option.b: "Compatissant" #NT!
- POD_change_personality.230.option.c: "Contenu" #NT!
- POD_change_personality.230.option.d: "Diligent" #NT!
- POD_change_personality.230.option.e: "Humble" #NT!
- POD_change_personality.230.option.f: "Juste" #NT!
- POD_change_personality.230.option.g: "Paresseux" #NT!
- POD_change_personality.230.option.h: "Tempéré" #NT!
- POD_change_personality.230.option.i: "Confiant" #NT!
- POD_change_personality.230.option.j: "Zélé" #NT!
- POD_change_personality.230.option.k: "Patient" #NT!
- POD_change_personality.230.option.az: "Dos" #NT!
- POD_change_personality.230.option.az.tt: "Retourne au menu précédent" #NT!
- POD_change_personality.240.t: "Ajouter un trait de personnalité optimiste" #NT!
- POD_change_personality.240.desc: "Quel trait souhaitez-vous ajouter ?" #NT!
- POD_change_personality.240.option.a: "Généreux" #NT!
- POD_change_personality.240.option.b: "Lubrique" #NT!
- POD_change_personality.240.option.c: "Ambitieux" #NT!
- POD_change_personality.240.option.d: "Arbitraire" #NT!
- POD_change_personality.240.option.e: "Trompeur" #NT!
- POD_change_personality.240.option.f: "Inconstant" #NT!
- POD_change_personality.240.option.g: "Indulgent" #NT!
- POD_change_personality.240.option.h: "Grégaire" #NT!
- POD_change_personality.240.option.i: "Excentrique" #NT!
- POD_change_personality.240.option.az: "Dos" #NT!
- POD_change_personality.240.option.az.tt: "Retourne au menu précédent" #NT!
- POD_change_personality.300.t: "Supprimer un trait de personnalité" #NT!
- POD_change_personality.300.desc: "Quel trait de personnalité souhaitez-vous supprimer ?" #NT!
- POD_change_personality.300.option.a: "Ambitieux" #NT!
- POD_change_personality.300.option.b: "Arbitraire" #NT!
- POD_change_personality.300.option.c: "Arrogant" #NT!
- POD_change_personality.300.option.d: "Courageux" #NT!
- POD_change_personality.300.option.e: "Insensible" #NT!
- POD_change_personality.300.option.f: "Calme" #NT!
- POD_change_personality.300.option.g: "Chaste" #NT!
- POD_change_personality.300.option.h: "Compatissant" #NT!
- POD_change_personality.300.option.i: "Contenu" #NT!
- POD_change_personality.300.option.j: "Lâche" #NT!
- POD_change_personality.300.option.k: "Cynique" #NT!
- POD_change_personality.300.option.l: "Trompeur" #NT!
- POD_change_personality.300.option.m: "Diligent" #NT!
- POD_change_personality.300.option.n: "Inconstant" #NT!
- POD_change_personality.300.option.o: "Indulgent" #NT!
- POD_change_personality.300.option.p: "Généreux" #NT!
- POD_change_personality.300.option.q: "Glouton" #NT!
- POD_change_personality.300.option.r: "Cupide" #NT!
- POD_change_personality.300.option.s: "Grégaire" #NT!
- POD_change_personality.300.option.t: "Honnête" #NT!
- POD_change_personality.300.option.u: "Humble" #NT!
- POD_change_personality.300.option.v: "Impatient" #NT!
- POD_change_personality.300.option.w: "Juste" #NT!
- POD_change_personality.300.option.x: "Paresseux" #NT!
- POD_change_personality.300.option.y: "Lubrique" #NT!
- POD_change_personality.300.option.z: "Paranoïaque" #NT!
- POD_change_personality.300.option.aa: "Patient" #NT!
- POD_change_personality.300.option.ab: "Sadique" #NT!
- POD_change_personality.300.option.ac: "Timide" #NT!
- POD_change_personality.300.option.ad: "Têtu" #NT!
- POD_change_personality.300.option.ae: "Tempéré" #NT!
- POD_change_personality.300.option.af: "Confiant" #NT!
- POD_change_personality.300.option.ag: "Vengeur" #NT!
- POD_change_personality.300.option.ah: "Courroucé" #NT!
- POD_change_personality.300.option.ai: "Zélé" #NT!
- POD_change_personality.300.option.aj: "Excentrique" #NT!
- POD_change_personality.300.option.az: "Dos" #NT!
- POD_change_personality.300.option.az.tt: "Retourne au menu précédent" #NT!
-  
- POD_change_sexuality_interaction: "Réécrire la sexualité" #NT!
- POD_change_sexuality_interaction_desc: "Changer la sexualité [recipient.GetFirstNamePossessive]." #NT!
+    POD_change_personality_interaction: "Réécrire la personnalité"
+    POD_change_personality_interaction_desc: "Cela ouvrira un menu qui vous permettra de modifier la personnalité de la victime"
+    POD_change_personality_interaction_accept: "Cela ouvrira un menu qui vous permettra de modifier la personnalité de la victime au détriment de la piété."
+    POD_change_personality.100.t: "Réécrire la personnalité"
+    POD_change_personality.100.desc: "Comment souhaitez-vous modifier leur personnalité ?"
+    POD_change_personality.100.option.a: "Ajouter une caractéristique"
+    POD_change_personality.100.option.a.tt: "Cela vous mènera à un menu où vous pourrez choisir la résonance du trait que vous souhaitez ajouter."
+    POD_change_personality.100.option.b: "Supprimer la caractéristique"
+    POD_change_personality.100.option.b.tt: "Cela vous amènera à un menu où vous pourrez choisir le trait à supprimer."
+    POD_change_personality.100.option.c: "Pas grave"
+    POD_change_personality.100.option.c.tt: "Cela ferme ce menu"
+    POD_change_personality.200.t: "Ajouter un trait de personnalité"
+    POD_change_personality.200.desc: "Quelle résonance a le trait que vous souhaitez ajouter ?"
+    POD_change_personality.200.option.a: "Colérique"
+    POD_change_personality.200.option.a.tt: "Ouvre la liste des traits colériques"
+    POD_change_personality.200.option.b: "Mélancolique"
+    POD_change_personality.200.option.b.tt: "Ouvre la liste des traits mélancoliques"
+    POD_change_personality.200.option.c: "Flegmatique"
+    POD_change_personality.200.option.c.tt: "Ouvre la liste des traits flegmatiques"
+    POD_change_personality.200.option.d: "Sanguine"
+    POD_change_personality.200.option.d.tt: "Ouvre la liste des traits sanguins"
+    POD_change_personality.200.option.e: "Dos"
+    POD_change_personality.200.option.e.tt: "Retourne au menu précédent"
+    POD_change_personality.210.t: "Ajouter un trait de personnalité colérique"
+    POD_change_personality.210.desc: "Quel trait souhaitez-vous ajouter ?"
+    POD_change_personality.210.option.a: "Arrogant"
+    POD_change_personality.210.option.b: "Courageux"
+    POD_change_personality.210.option.c: "Insensible"
+    POD_change_personality.210.option.d: "Impatient"
+    POD_change_personality.210.option.e: "Sadique"
+    POD_change_personality.210.option.f: "Têtu"
+    POD_change_personality.210.option.g: "Courroucé"
+    POD_change_personality.210.option.h: "Cupide"
+    POD_change_personality.210.option.i: "Vengeur"
+    POD_change_personality.210.option.az: "Dos"
+    POD_change_personality.210.option.az.tt: "Retourne au menu précédent"
+    POD_change_personality.220.t: "Ajouter un trait de personnalité mélancolique"
+    POD_change_personality.220.desc: "Quel trait souhaitez-vous ajouter ?"
+    POD_change_personality.220.option.a: "Chaste"
+    POD_change_personality.220.option.b: "Glouton"
+    POD_change_personality.220.option.c: "Lâche"
+    POD_change_personality.220.option.d: "Cynique"
+    POD_change_personality.220.option.e: "Honnête"
+    POD_change_personality.220.option.f: "Paranoïaque"
+    POD_change_personality.220.option.g: "Timide"
+    POD_change_personality.220.option.az: "Dos"
+    POD_change_personality.220.option.az.tt: "Retourne au menu précédent"
+    POD_change_personality.230.t: "Ajouter un trait de personnalité flegmatique"
+    POD_change_personality.230.desc: "Quel trait souhaitez-vous ajouter ?"
+    POD_change_personality.230.option.a: "Calme"
+    POD_change_personality.230.option.b: "Compatissant"
+    POD_change_personality.230.option.c: "Contenu"
+    POD_change_personality.230.option.d: "Diligent"
+    POD_change_personality.230.option.e: "Humble"
+    POD_change_personality.230.option.f: "Juste"
+    POD_change_personality.230.option.g: "Paresseux"
+    POD_change_personality.230.option.h: "Tempéré"
+    POD_change_personality.230.option.i: "Confiant"
+    POD_change_personality.230.option.j: "Zélé"
+    POD_change_personality.230.option.k: "Patient"
+    POD_change_personality.230.option.az: "Dos"
+    POD_change_personality.230.option.az.tt: "Retourne au menu précédent"
+    POD_change_personality.240.t: "Ajouter un trait de personnalité optimiste"
+    POD_change_personality.240.desc: "Quel trait souhaitez-vous ajouter ?"
+    POD_change_personality.240.option.a: "Généreux"
+    POD_change_personality.240.option.b: "Lubrique"
+    POD_change_personality.240.option.c: "Ambitieux"
+    POD_change_personality.240.option.d: "Arbitraire"
+    POD_change_personality.240.option.e: "Trompeur"
+    POD_change_personality.240.option.f: "Inconstant"
+    POD_change_personality.240.option.g: "Indulgent"
+    POD_change_personality.240.option.h: "Grégaire"
+    POD_change_personality.240.option.i: "Excentrique"
+    POD_change_personality.240.option.az: "Dos"
+    POD_change_personality.240.option.az.tt: "Retourne au menu précédent"
+    POD_change_personality.300.t: "Supprimer un trait de personnalité"
+    POD_change_personality.300.desc: "Quel trait de personnalité souhaitez-vous supprimer ?"
+    POD_change_personality.300.option.a: "Ambitieux"
+    POD_change_personality.300.option.b: "Arbitraire"
+    POD_change_personality.300.option.c: "Arrogant"
+    POD_change_personality.300.option.d: "Courageux"
+    POD_change_personality.300.option.e: "Insensible"
+    POD_change_personality.300.option.f: "Calme"
+    POD_change_personality.300.option.g: "Chaste"
+    POD_change_personality.300.option.h: "Compatissant"
+    POD_change_personality.300.option.i: "Contenu"
+    POD_change_personality.300.option.j: "Lâche"
+    POD_change_personality.300.option.k: "Cynique"
+    POD_change_personality.300.option.l: "Trompeur"
+    POD_change_personality.300.option.m: "Diligent"
+    POD_change_personality.300.option.n: "Inconstant"
+    POD_change_personality.300.option.o: "Indulgent"
+    POD_change_personality.300.option.p: "Généreux"
+    POD_change_personality.300.option.q: "Glouton"
+    POD_change_personality.300.option.r: "Cupide"
+    POD_change_personality.300.option.s: "Grégaire"
+    POD_change_personality.300.option.t: "Honnête"
+    POD_change_personality.300.option.u: "Humble"
+    POD_change_personality.300.option.v: "Impatient"
+    POD_change_personality.300.option.w: "Juste"
+    POD_change_personality.300.option.x: "Paresseux"
+    POD_change_personality.300.option.y: "Lubrique"
+    POD_change_personality.300.option.z: "Paranoïaque"
+    POD_change_personality.300.option.aa: "Patient"
+    POD_change_personality.300.option.ab: "Sadique"
+    POD_change_personality.300.option.ac: "Timide"
+    POD_change_personality.300.option.ad: "Têtu"
+    POD_change_personality.300.option.ae: "Tempéré"
+    POD_change_personality.300.option.af: "Confiant"
+    POD_change_personality.300.option.ag: "Vengeur"
+    POD_change_personality.300.option.ah: "Courroucé"
+    POD_change_personality.300.option.ai: "Zélé"
+    POD_change_personality.300.option.aj: "Excentrique"
+    POD_change_personality.300.option.az: "Dos"
+    POD_change_personality.300.option.az.tt: "Retourne au menu précédent"
+
+    POD_change_sexuality_interaction: "Réécrire la sexualité"
+    POD_change_sexuality_interaction_desc: "Changer la sexualité [recipient.GetFirstNamePossessive]."

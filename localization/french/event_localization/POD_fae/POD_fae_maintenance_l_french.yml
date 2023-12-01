@@ -1,8 +1,4 @@
 ﻿l_french:
-  
- POD_fae_maintenance.1.t: "Chrysalide" #NT!
- POD_fae_maintenance.1.desc: "La Chrysalide est le processus par lequel un changeling prend conscience de sa nature fae." #NT!
- POD_fae_maintenance.1.option.a: "Je suis réveillé." #NT!
-  
-  
-  
+    POD_fae_maintenance.1.t: "Chrysalide"
+    POD_fae_maintenance.1.desc: "La Chrysalide est le processus par lequel un changeling prend conscience de sa nature fae."
+    POD_fae_maintenance.1.option.a: "Je suis réveillé."

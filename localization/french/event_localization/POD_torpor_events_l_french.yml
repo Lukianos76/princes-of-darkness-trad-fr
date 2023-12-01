@@ -1,48 +1,47 @@
 ﻿l_french:
-  
- POD_vampire_torpor_events.001.title: "Sommeil profond" #NT!
- POD_vampire_torpor_events.001.desc: "Vos blessures vous ont rendu faible, maintenant vous ressentez un étrange appel en vous, un appel qui vous oblige à entrer dans le [torpor|E], un sommeil profond qui peut durer des milliers d'années." #NT!
-  
- POD_vampire_torpor_events.001.resist: "Je vais résister !" #NT!
- POD_vampire_torpor_events.001.resist.fight: "Vous essaierez de résister à glisser dans [torpor|E]. Vos blessures et votre niveau de faim auront un impact sur cette décision." #NT!
- POD_vampire_torpor_events.001.surrender: "Je ne résisterai pas..." #NT!
- POD_vampire_torpor_events.001.surrender.surrender: "Vous entrerez volontairement [torpor|E]. Cela vous obligera à abdiquer." #NT!
- POD_vampire_torpor_events.101.title: "Sommeil éternel" #NT!
- POD_vampire_torpor_events.101.desc: "Vous n’avez plus le pouvoir de continuer votre non-vie avec de telles blessures, il est temps de vous reposer. Vous espérez seulement que rien ne vous arrivera pendant que vous êtes au [torpor|E]." #NT!
- POD_vampire_torpor_events.101.defeat: "Le sommeil éternel vous attend." #NT!
- POD_vampire_torpor_events.101.defeat.sleep: "Vous entrerez dans le [torpor|E], en abdiquant devant votre héritier" #NT!
- POD_vampire_torpor_events.201.title: "Résister [torpor|E]" #NT!
- POD_vampire_torpor_events.201.desc: "Vous avez résisté. Cet étrange sentiment de faiblesse a disparu et vous avez encore des choses à faire avant de vous reposer." #NT!
- POD_vampire_torpor_events.201.success: "Mon travail ici n'est pas encore terminé." #NT!
- POD_vampire_torpor_events.201.success.victory: "Vous n'entrerez pas encore [torpor|E]." #NT!
-  
- POD_vampire_torpor_events.002.title: "Non-vie éternelle" #NT!
- POD_vampire_torpor_events.002.desc: "Votre non-vie dure depuis plusieurs centaines d'années, vous commencez à vous ennuyer de cette époque, peut-être qu'il est temps de vous reposer ? La non-vie des vampires est une souffrance longue et interminable au cours de laquelle les amis vont et viennent et les mortels changent si vite qu'ils vous deviennent rapidement étrangers.\nPeut-être que la prochaine ère sera meilleure... mais probablement pas." #NT!
-  
- POD_vampire_torpor_events.002.resist: "J'ai encore des choses à faire." #NT!
- POD_vampire_torpor_events.002.resist.nosleep: "Vous n'êtes pas prêt à vous reposer." #NT!
- POD_vampire_torpor_events.002.rest: "Je pense qu'il est temps de se reposer." #NT!
- POD_vampire_torpor_events.002.rest.sleep: "Vous entrerez volontairement [torpor|E]. Cela vous obligera à abdiquer." #NT!
- POD_vampire_torpor_events.102.title: "Pas de temps pour se reposer" #NT!
- POD_vampire_torpor_events.102.desc: "Vous n'êtes pas encore prêt à entrer dans le [torpor|E], de nombreux mortels nécessitent encore votre attention précise, et vos ennemis devraient trembler de peur encore un peu." #NT!
- POD_vampire_torpor_events.102.resist: "J'ai encore des affaires à régler." #NT!
- POD_vampire_torpor_events.102.resist.nosleep: "Vous n'entrerez pas encore [torpor|E]...." #NT!
- POD_vampire_torpor_events.202.desc: "Vous êtes éveillé depuis si longtemps... Il est temps de vous reposer, les ennemis peuvent attendre. Peut-être que la prochaine ère sera l’âge d’or promis… ou la redoutable Géhenne. Mais vous êtes assez vieux pour savoir que ce sera probablement une autre époque ennuyeuse et interminable où les mortels gâcheront les choses..." #NT!
- POD_vampire_torpor_events.202.title: "Sommeil éternel" #NT!
- POD_vampire_torpor_events.202.accept: "[torpor|E] attend." #NT!
- POD_vampire_torpor_events.202.accept.sleep: "Vous entrerez volontairement [torpor|E]." #NT!
-  
- POD_vampire_torpor_events.003.title: "Éveillé" #NT!
- POD_vampire_torpor_events.003.desc: "Vous êtes au [torpor|E] depuis un certain temps maintenant. N'est-il pas temps de retourner à votre non-vie ?" #NT!
- POD_vampire_torpor_events.003.awake: "Il est temps de revenir." #NT!
- POD_vampire_torpor_events.003.awake.torpor: "Vous vous réveillerez du [torpor|E] et vos ennemis devraient avoir peur." #NT!
- POD_vampire_torpor_events.003.sleep: "Je ne suis pas encore prêt." #NT!
- POD_vampire_torpor_events.003.sleep.nowake: "Vous resterez au [torpor|E] pendant un certain temps." #NT!
- POD_vampire_torpor_events.103.title: "Sommeil éternel" #NT!
- POD_vampire_torpor_events.103.desc: "Vous n'êtes pas encore prêt à revenir." #NT!
- POD_vampire_torpor_events.103.sleep: "Fais de beaux rêves." #NT!
- POD_vampire_torpor_events.103.sleep.continue: "Vous continuerez à dormir." #NT!
- POD_vampire_torpor_events.203.title: "Retour à la non-vie" #NT!
- POD_vampire_torpor_events.203.desc: "Tu es enfin prêt à revenir, tes ennemis devraient trembler" #NT!
- POD_vampire_torpor_events.203.awake: "Je suis de retour" #NT!
- POD_vampire_torpor_events.203.awake.torpor: "Vous retournez dans le monde des ténèbres" #NT!
+    POD_vampire_torpor_events.001.title: "Sommeil profond"
+    POD_vampire_torpor_events.001.desc: "Vos blessures vous ont rendu faible, maintenant vous ressentez un étrange appel en vous, un appel qui vous oblige à entrer dans le [torpor|E], un sommeil profond qui peut durer des milliers d'années."
+
+    POD_vampire_torpor_events.001.resist: "Je vais résister !"
+    POD_vampire_torpor_events.001.resist.fight: "Vous essaierez de résister à glisser dans [torpor|E]. Vos blessures et votre niveau de faim auront un impact sur cette décision."
+    POD_vampire_torpor_events.001.surrender: "Je ne résisterai pas..."
+    POD_vampire_torpor_events.001.surrender.surrender: "Vous entrerez volontairement [torpor|E]. Cela vous obligera à abdiquer."
+    POD_vampire_torpor_events.101.title: "Sommeil éternel"
+    POD_vampire_torpor_events.101.desc: "Vous n’avez plus le pouvoir de continuer votre non-vie avec de telles blessures, il est temps de vous reposer. Vous espérez seulement que rien ne vous arrivera pendant que vous êtes au [torpor|E]."
+    POD_vampire_torpor_events.101.defeat: "Le sommeil éternel vous attend."
+    POD_vampire_torpor_events.101.defeat.sleep: "Vous entrerez dans le [torpor|E], en abdiquant devant votre héritier"
+    POD_vampire_torpor_events.201.title: "Résister [torpor|E]"
+    POD_vampire_torpor_events.201.desc: "Vous avez résisté. Cet étrange sentiment de faiblesse a disparu et vous avez encore des choses à faire avant de vous reposer."
+    POD_vampire_torpor_events.201.success: "Mon travail ici n'est pas encore terminé."
+    POD_vampire_torpor_events.201.success.victory: "Vous n'entrerez pas encore [torpor|E]."
+
+    POD_vampire_torpor_events.002.title: "Non-vie éternelle"
+    POD_vampire_torpor_events.002.desc: "Votre non-vie dure depuis plusieurs centaines d'années, vous commencez à vous ennuyer de cette époque, peut-être qu'il est temps de vous reposer ? La non-vie des vampires est une souffrance longue et interminable au cours de laquelle les amis vont et viennent et les mortels changent si vite qu'ils vous deviennent rapidement étrangers.\nPeut-être que la prochaine ère sera meilleure... mais probablement pas."
+
+    POD_vampire_torpor_events.002.resist: "J'ai encore des choses à faire."
+    POD_vampire_torpor_events.002.resist.nosleep: "Vous n'êtes pas prêt à vous reposer."
+    POD_vampire_torpor_events.002.rest: "Je pense qu'il est temps de se reposer."
+    POD_vampire_torpor_events.002.rest.sleep: "Vous entrerez volontairement [torpor|E]. Cela vous obligera à abdiquer."
+    POD_vampire_torpor_events.102.title: "Pas de temps pour se reposer"
+    POD_vampire_torpor_events.102.desc: "Vous n'êtes pas encore prêt à entrer dans le [torpor|E], de nombreux mortels nécessitent encore votre attention précise, et vos ennemis devraient trembler de peur encore un peu."
+    POD_vampire_torpor_events.102.resist: "J'ai encore des affaires à régler."
+    POD_vampire_torpor_events.102.resist.nosleep: "Vous n'entrerez pas encore [torpor|E]...."
+    POD_vampire_torpor_events.202.desc: "Vous êtes éveillé depuis si longtemps... Il est temps de vous reposer, les ennemis peuvent attendre. Peut-être que la prochaine ère sera l’âge d’or promis… ou la redoutable Géhenne. Mais vous êtes assez vieux pour savoir que ce sera probablement une autre époque ennuyeuse et interminable où les mortels gâcheront les choses..."
+    POD_vampire_torpor_events.202.title: "Sommeil éternel"
+    POD_vampire_torpor_events.202.accept: "[torpor|E] attend."
+    POD_vampire_torpor_events.202.accept.sleep: "Vous entrerez volontairement [torpor|E]."
+
+    POD_vampire_torpor_events.003.title: "Éveillé"
+    POD_vampire_torpor_events.003.desc: "Vous êtes au [torpor|E] depuis un certain temps maintenant. N'est-il pas temps de retourner à votre non-vie ?"
+    POD_vampire_torpor_events.003.awake: "Il est temps de revenir."
+    POD_vampire_torpor_events.003.awake.torpor: "Vous vous réveillerez du [torpor|E] et vos ennemis devraient avoir peur."
+    POD_vampire_torpor_events.003.sleep: "Je ne suis pas encore prêt."
+    POD_vampire_torpor_events.003.sleep.nowake: "Vous resterez au [torpor|E] pendant un certain temps."
+    POD_vampire_torpor_events.103.title: "Sommeil éternel"
+    POD_vampire_torpor_events.103.desc: "Vous n'êtes pas encore prêt à revenir."
+    POD_vampire_torpor_events.103.sleep: "Fais de beaux rêves."
+    POD_vampire_torpor_events.103.sleep.continue: "Vous continuerez à dormir."
+    POD_vampire_torpor_events.203.title: "Retour à la non-vie"
+    POD_vampire_torpor_events.203.desc: "Tu es enfin prêt à revenir, tes ennemis devraient trembler"
+    POD_vampire_torpor_events.203.awake: "Je suis de retour"
+    POD_vampire_torpor_events.203.awake.torpor: "Vous retournez dans le monde des ténèbres"

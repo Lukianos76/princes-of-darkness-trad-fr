@@ -1,100 +1,95 @@
 ﻿l_french:
-  
- pod_masquerade.1.t: "La curiosité a tué le chasseur" #NT!
- pod_masquerade.1.desc: "L'un de ces maudits bienfaiteurs de ce groupe appelé les Chasseurs fouine autour de votre domaine. Il vous pose des questions sur votre emploi du temps, votre influence sur la population et d'autres sujets délicats. Si vous ne faites rien, il signalera à ses supérieurs que quelque chose chez vous ne va pas, vraiment pas bien. Il ne fait aucun doute dans votre esprit que cela suscitera des soupçons à l’égard de votre tribunal. Heureusement, vous connaissez quelqu'un qui pourrait gérer ce désagrément rapidement et tranquillement, mais ses services ne sont pas vraiment bon marché..." #NT!
- pod_masquerade.1.a: "De l'argent pour avoir l'esprit tranquille ? Choix facile" #NT!
- pod_masquerade.1.b: "Je n'ai pas peur des mortels sursautés" #NT!
- pod_masquerade.2.t: "Des imbéciles, partout !" #NT!
- pod_masquerade.2.desc: "Vous êtes entouré d'idiots et de bouffons. Vous le saviez certainement déjà, mais quel autre exemple sur votre liste apparemment interminable ? Un chasseur se cache dans votre domaine, inaperçu de votre peuple depuis des mois maintenant, rassemblant des preuves de votre existence impie. Vous devez vous en occuper maintenant avant qu'il ne s'éclipse pour faire rapport à ses supérieurs. Et évidemment, les rumeurs débiteront des histoires sur vous et votre incompétence s'il devait s'échapper..." #NT!
- pod_masquerade.2.a: "Si vous voulez un travail bien fait..." #NT!
- pod_masquerade.2.b: "Laisse-le fuir, tu ne peux plus prendre la peine de t'en soucier" #NT!
- pod_masquerade.3.t: "Problèmes familiaux" #NT!
- pod_masquerade.3.desc: "Rapports troublants de l'un de vos agents : une famille bien connectée en ville semble avoir des soupçons quant à votre véritable nature. Vous n'êtes pas vraiment sûr de ce qui n'a pas fonctionné, mais aucune mascarade n'est parfaite après tout. Vous avez le choix : soit vous occuper définitivement de la famille et éteindre ce désagrément, soit simplement l'ignorer, au risque de son ingérence continue." #NT!
- pod_masquerade.3.a: "Un malheureux accident résoudra certainement ce problème" #NT!
- pod_masquerade.3.b: "Ils ne sont pas une menace" #NT!
- pod_masquerade.4.t: "La famille est la famille" #NT!
- pod_masquerade.4.desc: "Une réunion de famille est un événement assez rare dans les cercles [cainite|E], principalement parce qu'elle peut dégénérer en massacre à tout moment. Malheureusement, vous avez été choisi comme hôte du prochain rassemblement, ce qui signifie beaucoup de vampires et beaucoup de soupçons attirés sur vous. Vous pourriez annuler l’événement, tout le monde comprendrait certainement, mais l’accepter serait une démonstration palpable de confiance de votre part." #NT!
- pod_masquerade.4.a: "Je ne le ressens pas..." #NT!
- pod_masquerade.4.b: "Accueillir! S'il vous plaît, laissez vos armes derrière vous, surtout celles secrètes." #NT!
- pod_masquerade.5.t: "Un choix rapide" #NT!
- pod_masquerade.5.desc: "Alors que vous rétractez vos crocs et essuyez un peu de sang sur votre bouche, vous regardez les cadavres des chasseurs qui ont tenté de vous attaquer et vous vous demandez... Ont-ils été très mal informés sur votre pouvoir ? Ou tout simplement trop confiant ? Quoi qu'il en soit, ils sont morts maintenant. Sauf un, qui s'enfuit plutôt vite en fait. Vous vous ennuyez un peu trop pour avoir envie de lui courir après, il semble agile et vous êtes prêt à courir dans les rues de la ville comme un fou. Mais si vous ne le poursuivez pas, il rapportera sûrement des nouvelles de cette petite bagarre à ses supérieurs..." #NT!
- pod_masquerade.5.a: "Peut-être qu'une belle course-poursuite me rappellera le bon vieux temps ?" #NT!
- pod_masquerade.5.b: "Eh bien, retournons à ma salle du trône. Je suppose." #NT!
- pod_masquerade.6.t: "Trop beau pour être vrai" #NT!
- pod_masquerade.6.desc: "Le patriarche d’une famille influente de votre région vient de décéder. Son héritage se perpétue à travers ses deux fils et il se trouve que vous avez une forte emprise sur l'un d'eux... Si vous deviez aider ce jeune homme à reprendre l'entreprise familiale, vous en récolteriez peut-être les fruits, mais votre étrange patronage ferait certainement sourciller quelques-uns." #NT!
- pod_masquerade.6.a: "Rien de plus que des rats qui se battent pour des miettes" #NT!
- pod_masquerade.6.b: "Nous suivrons avec beaucoup d'intérêt le parcours de ce jeune homme." #NT!
- pod_masquerade.7.t: "Mauvais roman" #NT!
- pod_masquerade.7.desc: "Vous ne pensiez plus l'avoir en vous et vous ne savez pas comment ni pourquoi, mais... ce simple paysan vous captive depuis un bon moment. Serait-ce les restes d’un désir mortel, ou quelque chose de plus ? Vous n'en êtes pas sûr, mais ce soir, vous devez faire un choix. Allez-vous présenter votre nouvel animal de compagnie à votre cour au risque de briser le [masquerade|E] ? Ou ferez-vous la… bonne chose ?" #NT!
- pod_masquerade.7.a: "Désolé mon amour, ce n'est pas moi. C'est toi" #NT!
- pod_masquerade.7.b: "Bienvenue dans mon salon, lumière de ma nuit" #NT!
- pod_masquerade.8.t: "Étirer vos muscles" #NT!
- pod_masquerade.8.desc: "Les mortels de votre région mènent une de ces guerres idiotes qu’ils aiment tant. S'agissait-il d'une réclamation ? Religion? Eh bien, peu importe, c'est l'occasion pour vous d'aller sur le champ de bataille ! Écraser quelques crânes et peut-être apprendre une ou deux choses en cours de route ? De toute évidence, les survivants se méfieront probablement de vos prouesses éternelles..." #NT!
- pod_masquerade.8.a: "J'y suis allé, j'ai fait ça" #NT!
- pod_masquerade.8.b: "Attends, qui suis-je censé tuer encore ? Tant pis." #NT!
- pod_masquerade.9.t: "Exposé : prise de contrôle hostile" #NT!
- pod_masquerade.9.desc: "Vos relations dans la région ont finalement attiré l'attention de l'Inquisition de l'Ombre. Heureusement, il semble que, jusqu’à présent, ils tentent uniquement de saper votre autorité en ciblant vos principaux atouts. Plusieurs de vos agents ont disparu, certaines de vos goules ont été remplacées par des membres honnêtes du clergé... et cela commence à mettre à mal votre domination.\nVous pourriez essayer de riposter, mais l'Inquisition va certainement aussi augmenter ses forces. jeu si vous le faites." #NT!
- pod_masquerade.9.a: "L'envie de jouer ? Nous jouerons alors..." #NT!
- pod_masquerade.9.b: "Réduisons mes pertes et faisons profil bas pendant un moment" #NT!
- pod_masquerade.9.a.effect.success.desc: "Déjouer les manœuvres de l'Inquisition mettra fin à leur opération contre vous, pour l'instant" #NT!
- pod_masquerade.9.a.success: "Retour aux affaires!" #NT!
- pod_masquerade.9.a.failure.effect.desc: "S'ils réussissent, l'Inquisition mettra en danger votre influence" #NT!
- pod_masquerade.9.a.failure: "Ils ont gagné cette bataille, mais pas la guerre" #NT!
- pod_masquerade.9.a.critical.failure.effect.desc: "Si vous faites des erreurs, l'Inquisition écrasera votre autorité sur la région pour longtemps" #NT!
- pod_masquerade.9.a.critical.failure: "Ils ont complètement gagné..." #NT!
- pod_masquerade.10.t: "Exposés : Hommes de foi" #NT!
- pod_masquerade.10.desc: "Vous gardez toujours un œil sur les mortels les plus fidèles de votre région car ils peuvent facilement être les plus dangereux. Dernièrement, de nouveaux membres du clergé sont apparus et ils semblent... très dévoués dans leur travail sacré. Vous êtes presque sûr qu'ils constituent une force avancée de l'Inquisition détestée, rassemblant le soutien de votre population pour renverser votre règne parfaitement juste.\nVous pouvez frapper maintenant pour les éliminer, mais il existe un risque sérieux que cela se retourne contre vous. Ces hommes ont déjà une forte emprise spirituelle sur la population..." #NT!
- pod_masquerade.10.a: "Faisons taire ces faux prophètes" #NT!
- pod_masquerade.10.b: "Je peux me retirer des affaires mortelles pendant un moment" #NT!
- pod_masquerade.10.a.effect.success.desc: "Déjouer les manœuvres de l'Inquisition mettra fin à leur opération contre vous, pour l'instant" #NT!
- pod_masquerade.10.a.success: "Me louer!" #NT!
- pod_masquerade.10.a.failure.effect.desc: "S'ils réussissent, l'Inquisition mettra en danger votre influence" #NT!
- pod_masquerade.10.a.failure: "Ils ont gagné cette bataille, mais pas la guerre" #NT!
- pod_masquerade.10.a.critical.failure.effect.desc: "Si vous faites des erreurs, l'Inquisition écrasera votre autorité sur la région pour longtemps" #NT!
- pod_masquerade.10.a.critical.failure: "Ils ont complètement gagné..." #NT!
- pod_masquerade.11.t: "Exposé : La bataille" #NT!
- pod_masquerade.11.desc: "Une armée mortelle hostile s'approche de votre royaume. Ce n'est pas rare en soi, les mortels aiment leurs petites guerres après tout, mais celle-ci semble différente. Vos agents rapportent avoir vu des hommes dévoués et un nombre inhabituel de membres du clergé dans leurs rangs. Pourriez-vous être leur véritable cible ?\nIl est encore temps de rallier vos troupes et de défendre vos terres... ou vous pourriez simplement disparaître pendant un moment et affronter la tempête." #NT!
- pod_masquerade.11.a: "Je n'ai peur d'aucun champ de bataille" #NT!
- pod_masquerade.11.b: "Il est temps de passer des vacances rapides" #NT!
- pod_masquerade.11.a.effect.success.desc: "Déjouer les manœuvres de l'Inquisition mettra fin à leur opération contre vous, pour l'instant" #NT!
- pod_masquerade.11.a.success: "Tu les as écrasés, évidemment" #NT!
- pod_masquerade.11.a.failure.effect.desc: "S'ils réussissent, l'Inquisition mettra en danger votre influence" #NT!
- pod_masquerade.11.a.failure: "Ils ont gagné cette bataille, mais pas la guerre" #NT!
- pod_masquerade.11.a.critical.failure.effect.desc: "Si vous faites des erreurs, l'Inquisition écrasera votre autorité sur la région pour longtemps" #NT!
- pod_masquerade.11.a.critical.failure: "Ils ont complètement gagné..." #NT!
- pod_masquerade.12.t: "Exposé : Jouer sur les courts" #NT!
- pod_masquerade.12.desc: "Il est devenu étonnamment plus difficile de gouverner ces derniers temps. Les mortels ont proposé de nouvelles lois et plusieurs changements qui ont été une épine dans votre pied. Vous n'y avez pas beaucoup réfléchi pendant longtemps, mais un de vos agents a signalé que le dirigeant mortel local a un nouveau conseiller, et celui-ci semble en savoir beaucoup sur vous.\nÉliminer cet homme violemment ne serait pas judicieux, car il est une figure bien connue de la politique des mortels, mais... vous pourriez le discréditer ou le surpasser dans son propre jeu d'influence. Ou vous pourriez simplement faire profil bas pendant un moment, les mortels seront des mortels après tout." #NT!
- pod_masquerade.12.a: "J'aime un bon défi" #NT!
- pod_masquerade.12.b: "Il ne peut pas faire grand-chose si je reste caché pendant un moment" #NT!
- pod_masquerade.12.a.effect.success.desc: "Déjouer les manœuvres de l'Inquisition mettra fin à leur opération contre vous, pour l'instant" #NT!
- pod_masquerade.12.a.success: "Victoire totale !" #NT!
- pod_masquerade.12.a.failure.effect.desc: "S'ils réussissent, l'Inquisition mettra en danger votre influence" #NT!
- pod_masquerade.12.a.failure: "Ils ont gagné cette bataille, mais pas la guerre" #NT!
- pod_masquerade.12.a.critical.failure.effect.desc: "Si vous faites des erreurs, l'Inquisition écrasera votre autorité sur la région pour longtemps" #NT!
- pod_masquerade.12.a.critical.failure: "Ils ont complètement gagné..." #NT!
- pod_masquerade.13.t: "Exposé : Holy Whispers" #NT!
- pod_masquerade.13.desc: "Lorsque vous avez appris que l'Inquisition préparait une action contre vous, vous vous attendiez au tonnerre et à la fureur. Au lieu de cela, vous avez des capes et des poignards. Vos agents disparaissent, des contacts de confiance deviennent des traîtres et les rumeurs abondent sur votre réputation, fausses ou non.\nVous pourriez riposter pour montrer à ces mortels un véritable maître de l'intrigue. Ou vous pouvez simplement laisser tomber, ils se lasseront assez tôt de ce jeu, ou mieux encore, se faneront et mourront d'eux-mêmes comme le font les mortels." #NT!
- pod_masquerade.13.a: "C'est un défi fascinant à relever" #NT!
- pod_masquerade.13.b: "Eh bien, pas de complot pendant un moment" #NT!
- pod_masquerade.13.a.effect.success.desc: "Déjouer les manœuvres de l'Inquisition mettra fin à leur opération contre vous, pour l'instant" #NT!
- pod_masquerade.13.a.success: "Victoire totale !" #NT!
- pod_masquerade.13.a.failure.effect.desc: "S'ils réussissent, l'Inquisition mettra en danger votre influence" #NT!
- pod_masquerade.13.a.failure: "Ils ont gagné cette bataille, mais pas la guerre" #NT!
- pod_masquerade.13.a.critical.failure.effect.desc: "Si vous faites des erreurs, l'Inquisition écrasera votre autorité sur la région pour longtemps" #NT!
- pod_masquerade.13.a.critical.failure: "Ils ont complètement gagné..." #NT!
- pod_masquerade.14.t: "Exposé : Holy Fury" #NT!
- pod_masquerade.14.desc: "À en juger par les cris venant de derrière la porte scellée de votre salle du trône, votre dernière ligne de défense s'effondre. Fini les complots, les cachettes ou les jeux subtils, l'Inquisition est venue pour vous dans toute sa juste fureur.\nAlors que tout le bâtiment commence à s'enflammer, vous vous rassurez, ce ne sont que des mortels sautés. Vous pouvez sûrement les affronter vous-même... Ou vous pouvez utiliser le passage caché derrière votre trône pour vous échapper et vous battre un autre jour. Fini les cris et le bruit des armes qui frappent la porte. C'est maintenant ou jamais." #NT!
- pod_masquerade.14.a: "Enfin! De dignes adversaires !" #NT!
- pod_masquerade.14.b: "Alors... ouvrons simplement ce passage secret ici..." #NT!
- pod_masquerade.14.a.effect.success.desc: "Le massacre de l'Inquisition mettra fin à leur opération contre vous, pour l'instant." #NT!
- pod_masquerade.14.a.success: "Pas si puissant maintenant" #NT!
- pod_masquerade.14.a.failure.effect.desc: "Parvenir à vous frayer un chemin vous fera économiser à un prix très élevé" #NT!
- pod_masquerade.14.a.failure: "Ils ont gagné cette bataille, mais pas la guerre" #NT!
- pod_masquerade.14.a.critical.failure.effect.desc: "Si vous faites des erreurs, l'Inquisition vous transformera en cendres" #NT!
- pod_masquerade.14.a.critical.failure: "... bien combattu" #NT!
-  
- high_masquerade_exposed_tt: "#R Cet événement s'est produit à cause de votre forte exposition à la mascarade ! #!" #NT!
-  
-  
-  
-  
+    pod_masquerade.1.t: "La curiosité a tué le chasseur"
+    pod_masquerade.1.desc: "L'un de ces maudits bienfaiteurs de ce groupe appelé les Chasseurs fouine autour de votre domaine. Il vous pose des questions sur votre emploi du temps, votre influence sur la population et d'autres sujets délicats. Si vous ne faites rien, il signalera à ses supérieurs que quelque chose chez vous ne va pas, vraiment pas bien. Il ne fait aucun doute dans votre esprit que cela suscitera des soupçons à l’égard de votre tribunal. Heureusement, vous connaissez quelqu'un qui pourrait gérer ce désagrément rapidement et tranquillement, mais ses services ne sont pas vraiment bon marché..."
+    pod_masquerade.1.a: "De l'argent pour avoir l'esprit tranquille ? Choix facile"
+    pod_masquerade.1.b: "Je n'ai pas peur des mortels sursautés"
+    pod_masquerade.2.t: "Des imbéciles, partout !"
+    pod_masquerade.2.desc: "Vous êtes entouré d'idiots et de bouffons. Vous le saviez certainement déjà, mais quel autre exemple sur votre liste apparemment interminable ? Un chasseur se cache dans votre domaine, inaperçu de votre peuple depuis des mois maintenant, rassemblant des preuves de votre existence impie. Vous devez vous en occuper maintenant avant qu'il ne s'éclipse pour faire rapport à ses supérieurs. Et évidemment, les rumeurs débiteront des histoires sur vous et votre incompétence s'il devait s'échapper..."
+    pod_masquerade.2.a: "Si vous voulez un travail bien fait..."
+    pod_masquerade.2.b: "Laisse-le fuir, tu ne peux plus prendre la peine de t'en soucier"
+    pod_masquerade.3.t: "Problèmes familiaux"
+    pod_masquerade.3.desc: "Rapports troublants de l'un de vos agents : une famille bien connectée en ville semble avoir des soupçons quant à votre véritable nature. Vous n'êtes pas vraiment sûr de ce qui n'a pas fonctionné, mais aucune mascarade n'est parfaite après tout. Vous avez le choix : soit vous occuper définitivement de la famille et éteindre ce désagrément, soit simplement l'ignorer, au risque de son ingérence continue."
+    pod_masquerade.3.a: "Un malheureux accident résoudra certainement ce problème"
+    pod_masquerade.3.b: "Ils ne sont pas une menace"
+    pod_masquerade.4.t: "La famille est la famille"
+    pod_masquerade.4.desc: "Une réunion de famille est un événement assez rare dans les cercles [cainite|E], principalement parce qu'elle peut dégénérer en massacre à tout moment. Malheureusement, vous avez été choisi comme hôte du prochain rassemblement, ce qui signifie beaucoup de vampires et beaucoup de soupçons attirés sur vous. Vous pourriez annuler l’événement, tout le monde comprendrait certainement, mais l’accepter serait une démonstration palpable de confiance de votre part."
+    pod_masquerade.4.a: "Je ne le ressens pas..."
+    pod_masquerade.4.b: "Accueillir! S'il vous plaît, laissez vos armes derrière vous, surtout celles secrètes."
+    pod_masquerade.5.t: "Un choix rapide"
+    pod_masquerade.5.desc: "Alors que vous rétractez vos crocs et essuyez un peu de sang sur votre bouche, vous regardez les cadavres des chasseurs qui ont tenté de vous attaquer et vous vous demandez... Ont-ils été très mal informés sur votre pouvoir ? Ou tout simplement trop confiant ? Quoi qu'il en soit, ils sont morts maintenant. Sauf un, qui s'enfuit plutôt vite en fait. Vous vous ennuyez un peu trop pour avoir envie de lui courir après, il semble agile et vous êtes prêt à courir dans les rues de la ville comme un fou. Mais si vous ne le poursuivez pas, il rapportera sûrement des nouvelles de cette petite bagarre à ses supérieurs..."
+    pod_masquerade.5.a: "Peut-être qu'une belle course-poursuite me rappellera le bon vieux temps ?"
+    pod_masquerade.5.b: "Eh bien, retournons à ma salle du trône. Je suppose."
+    pod_masquerade.6.t: "Trop beau pour être vrai"
+    pod_masquerade.6.desc: "Le patriarche d’une famille influente de votre région vient de décéder. Son héritage se perpétue à travers ses deux fils et il se trouve que vous avez une forte emprise sur l'un d'eux... Si vous deviez aider ce jeune homme à reprendre l'entreprise familiale, vous en récolteriez peut-être les fruits, mais votre étrange patronage ferait certainement sourciller quelques-uns."
+    pod_masquerade.6.a: "Rien de plus que des rats qui se battent pour des miettes"
+    pod_masquerade.6.b: "Nous suivrons avec beaucoup d'intérêt le parcours de ce jeune homme."
+    pod_masquerade.7.t: "Mauvais roman"
+    pod_masquerade.7.desc: "Vous ne pensiez plus l'avoir en vous et vous ne savez pas comment ni pourquoi, mais... ce simple paysan vous captive depuis un bon moment. Serait-ce les restes d’un désir mortel, ou quelque chose de plus ? Vous n'en êtes pas sûr, mais ce soir, vous devez faire un choix. Allez-vous présenter votre nouvel animal de compagnie à votre cour au risque de briser le [masquerade|E] ? Ou ferez-vous la… bonne chose ?"
+    pod_masquerade.7.a: "Désolé mon amour, ce n'est pas moi. C'est toi"
+    pod_masquerade.7.b: "Bienvenue dans mon salon, lumière de ma nuit"
+    pod_masquerade.8.t: "Étirer vos muscles"
+    pod_masquerade.8.desc: "Les mortels de votre région mènent une de ces guerres idiotes qu’ils aiment tant. S'agissait-il d'une réclamation ? Religion? Eh bien, peu importe, c'est l'occasion pour vous d'aller sur le champ de bataille ! Écraser quelques crânes et peut-être apprendre une ou deux choses en cours de route ? De toute évidence, les survivants se méfieront probablement de vos prouesses éternelles..."
+    pod_masquerade.8.a: "J'y suis allé, j'ai fait ça"
+    pod_masquerade.8.b: "Attends, qui suis-je censé tuer encore ? Tant pis."
+    pod_masquerade.9.t: "Exposé : prise de contrôle hostile"
+    pod_masquerade.9.desc: "Vos relations dans la région ont finalement attiré l'attention de l'Inquisition de l'Ombre. Heureusement, il semble que, jusqu’à présent, ils tentent uniquement de saper votre autorité en ciblant vos principaux atouts. Plusieurs de vos agents ont disparu, certaines de vos goules ont été remplacées par des membres honnêtes du clergé... et cela commence à mettre à mal votre domination.\nVous pourriez essayer de riposter, mais l'Inquisition va certainement aussi augmenter ses forces. jeu si vous le faites."
+    pod_masquerade.9.a: "L'envie de jouer ? Nous jouerons alors..."
+    pod_masquerade.9.b: "Réduisons mes pertes et faisons profil bas pendant un moment"
+    pod_masquerade.9.a.effect.success.desc: "Déjouer les manœuvres de l'Inquisition mettra fin à leur opération contre vous, pour l'instant"
+    pod_masquerade.9.a.success: "Retour aux affaires!"
+    pod_masquerade.9.a.failure.effect.desc: "S'ils réussissent, l'Inquisition mettra en danger votre influence"
+    pod_masquerade.9.a.failure: "Ils ont gagné cette bataille, mais pas la guerre"
+    pod_masquerade.9.a.critical.failure.effect.desc: "Si vous faites des erreurs, l'Inquisition écrasera votre autorité sur la région pour longtemps"
+    pod_masquerade.9.a.critical.failure: "Ils ont complètement gagné..."
+    pod_masquerade.10.t: "Exposés : Hommes de foi"
+    pod_masquerade.10.desc: "Vous gardez toujours un œil sur les mortels les plus fidèles de votre région car ils peuvent facilement être les plus dangereux. Dernièrement, de nouveaux membres du clergé sont apparus et ils semblent... très dévoués dans leur travail sacré. Vous êtes presque sûr qu'ils constituent une force avancée de l'Inquisition détestée, rassemblant le soutien de votre population pour renverser votre règne parfaitement juste.\nVous pouvez frapper maintenant pour les éliminer, mais il existe un risque sérieux que cela se retourne contre vous. Ces hommes ont déjà une forte emprise spirituelle sur la population..."
+    pod_masquerade.10.a: "Faisons taire ces faux prophètes"
+    pod_masquerade.10.b: "Je peux me retirer des affaires mortelles pendant un moment"
+    pod_masquerade.10.a.effect.success.desc: "Déjouer les manœuvres de l'Inquisition mettra fin à leur opération contre vous, pour l'instant"
+    pod_masquerade.10.a.success: "Me louer!"
+    pod_masquerade.10.a.failure.effect.desc: "S'ils réussissent, l'Inquisition mettra en danger votre influence"
+    pod_masquerade.10.a.failure: "Ils ont gagné cette bataille, mais pas la guerre"
+    pod_masquerade.10.a.critical.failure.effect.desc: "Si vous faites des erreurs, l'Inquisition écrasera votre autorité sur la région pour longtemps"
+    pod_masquerade.10.a.critical.failure: "Ils ont complètement gagné..."
+    pod_masquerade.11.t: "Exposé : La bataille"
+    pod_masquerade.11.desc: "Une armée mortelle hostile s'approche de votre royaume. Ce n'est pas rare en soi, les mortels aiment leurs petites guerres après tout, mais celle-ci semble différente. Vos agents rapportent avoir vu des hommes dévoués et un nombre inhabituel de membres du clergé dans leurs rangs. Pourriez-vous être leur véritable cible ?\nIl est encore temps de rallier vos troupes et de défendre vos terres... ou vous pourriez simplement disparaître pendant un moment et affronter la tempête."
+    pod_masquerade.11.a: "Je n'ai peur d'aucun champ de bataille"
+    pod_masquerade.11.b: "Il est temps de passer des vacances rapides"
+    pod_masquerade.11.a.effect.success.desc: "Déjouer les manœuvres de l'Inquisition mettra fin à leur opération contre vous, pour l'instant"
+    pod_masquerade.11.a.success: "Tu les as écrasés, évidemment"
+    pod_masquerade.11.a.failure.effect.desc: "S'ils réussissent, l'Inquisition mettra en danger votre influence"
+    pod_masquerade.11.a.failure: "Ils ont gagné cette bataille, mais pas la guerre"
+    pod_masquerade.11.a.critical.failure.effect.desc: "Si vous faites des erreurs, l'Inquisition écrasera votre autorité sur la région pour longtemps"
+    pod_masquerade.11.a.critical.failure: "Ils ont complètement gagné..."
+    pod_masquerade.12.t: "Exposé : Jouer sur les courts"
+    pod_masquerade.12.desc: "Il est devenu étonnamment plus difficile de gouverner ces derniers temps. Les mortels ont proposé de nouvelles lois et plusieurs changements qui ont été une épine dans votre pied. Vous n'y avez pas beaucoup réfléchi pendant longtemps, mais un de vos agents a signalé que le dirigeant mortel local a un nouveau conseiller, et celui-ci semble en savoir beaucoup sur vous.\nÉliminer cet homme violemment ne serait pas judicieux, car il est une figure bien connue de la politique des mortels, mais... vous pourriez le discréditer ou le surpasser dans son propre jeu d'influence. Ou vous pourriez simplement faire profil bas pendant un moment, les mortels seront des mortels après tout."
+    pod_masquerade.12.a: "J'aime un bon défi"
+    pod_masquerade.12.b: "Il ne peut pas faire grand-chose si je reste caché pendant un moment"
+    pod_masquerade.12.a.effect.success.desc: "Déjouer les manœuvres de l'Inquisition mettra fin à leur opération contre vous, pour l'instant"
+    pod_masquerade.12.a.success: "Victoire totale !"
+    pod_masquerade.12.a.failure.effect.desc: "S'ils réussissent, l'Inquisition mettra en danger votre influence"
+    pod_masquerade.12.a.failure: "Ils ont gagné cette bataille, mais pas la guerre"
+    pod_masquerade.12.a.critical.failure.effect.desc: "Si vous faites des erreurs, l'Inquisition écrasera votre autorité sur la région pour longtemps"
+    pod_masquerade.12.a.critical.failure: "Ils ont complètement gagné..."
+    pod_masquerade.13.t: "Exposé : Holy Whispers"
+    pod_masquerade.13.desc: "Lorsque vous avez appris que l'Inquisition préparait une action contre vous, vous vous attendiez au tonnerre et à la fureur. Au lieu de cela, vous avez des capes et des poignards. Vos agents disparaissent, des contacts de confiance deviennent des traîtres et les rumeurs abondent sur votre réputation, fausses ou non.\nVous pourriez riposter pour montrer à ces mortels un véritable maître de l'intrigue. Ou vous pouvez simplement laisser tomber, ils se lasseront assez tôt de ce jeu, ou mieux encore, se faneront et mourront d'eux-mêmes comme le font les mortels."
+    pod_masquerade.13.a: "C'est un défi fascinant à relever"
+    pod_masquerade.13.b: "Eh bien, pas de complot pendant un moment"
+    pod_masquerade.13.a.effect.success.desc: "Déjouer les manœuvres de l'Inquisition mettra fin à leur opération contre vous, pour l'instant"
+    pod_masquerade.13.a.success: "Victoire totale !"
+    pod_masquerade.13.a.failure.effect.desc: "S'ils réussissent, l'Inquisition mettra en danger votre influence"
+    pod_masquerade.13.a.failure: "Ils ont gagné cette bataille, mais pas la guerre"
+    pod_masquerade.13.a.critical.failure.effect.desc: "Si vous faites des erreurs, l'Inquisition écrasera votre autorité sur la région pour longtemps"
+    pod_masquerade.13.a.critical.failure: "Ils ont complètement gagné..."
+    pod_masquerade.14.t: "Exposé : Holy Fury"
+    pod_masquerade.14.desc: "À en juger par les cris venant de derrière la porte scellée de votre salle du trône, votre dernière ligne de défense s'effondre. Fini les complots, les cachettes ou les jeux subtils, l'Inquisition est venue pour vous dans toute sa juste fureur.\nAlors que tout le bâtiment commence à s'enflammer, vous vous rassurez, ce ne sont que des mortels sautés. Vous pouvez sûrement les affronter vous-même... Ou vous pouvez utiliser le passage caché derrière votre trône pour vous échapper et vous battre un autre jour. Fini les cris et le bruit des armes qui frappent la porte. C'est maintenant ou jamais."
+    pod_masquerade.14.a: "Enfin! De dignes adversaires !"
+    pod_masquerade.14.b: "Alors... ouvrons simplement ce passage secret ici..."
+    pod_masquerade.14.a.effect.success.desc: "Le massacre de l'Inquisition mettra fin à leur opération contre vous, pour l'instant."
+    pod_masquerade.14.a.success: "Pas si puissant maintenant"
+    pod_masquerade.14.a.failure.effect.desc: "Parvenir à vous frayer un chemin vous fera économiser à un prix très élevé"
+    pod_masquerade.14.a.failure: "Ils ont gagné cette bataille, mais pas la guerre"
+    pod_masquerade.14.a.critical.failure.effect.desc: "Si vous faites des erreurs, l'Inquisition vous transformera en cendres"
+    pod_masquerade.14.a.critical.failure: "... bien combattu"
+
+    high_masquerade_exposed_tt: "#R Cet événement s'est produit à cause de votre forte exposition à la mascarade ! #!"

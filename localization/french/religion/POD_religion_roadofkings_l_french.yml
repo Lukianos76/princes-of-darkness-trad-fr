@@ -1,190 +1,189 @@
 ﻿l_french:
-  
-  #Common Road of Kings Localization 
- roadofkings_religious_head_title_name: "Exemplaire Regalis" #NT!
- roadofkings_religion: "La route des rois" #NT!
- roadofkings_religion_adj: "Scion" #NT!
- roadofkings_religion_adherent: "Scion" #NT!
- roadofkings_religion_adherent_plural: "Scions" #NT!
- roadofkings_religion_desc: "Les vampires qui tiennent à la noblesse obligent. Un favori du [Clan|E] Ventrue." #NT!
- roadofkings_high_god_name: "Pouvoir" #NT!
- roadofkings_high_god_name_possessive: "Pouvoirs" #NT!
- roadofkings_high_god_name_alternate: "La puissance" #NT!
- roadofkings_high_god_name_alternate_possessive: "Le pouvoir" #NT!
- roadofkings_good_god_jesus: "$roadofkings_health_god_name$" #NT!
- roadofkings_good_god_christ: "Pouvoir" #NT!
- roadofkings_devil_name: "La bête" #NT!
- roadofkings_devil_name_possessive: "Les bêtes" #NT!
- roadofkings_evil_god_lucifer: "La bête" #NT!
- roadofkings_evil_god_beelzebub: "La bête" #NT!
- roadofkings_evil_god_mephistopheles: "La bête" #NT!
- roadofkings_death_deity_name: "Destruction" #NT!
- roadofkings_death_deity_name_possessive: "Destruction" #NT!
- roadofkings_house_of_worship: "tribunal" #NT!
- roadofkings_house_of_worship_plural: "tribunal" #NT!
- roadofkings_religious_symbol: "couronne" #NT!
- roadofkings_religious_text: "écritures" #NT!
- roadofkings_religious_head_title: "principe de foi" #NT!
- roadofkings_devotee_male: "principe de foi" #NT!
- roadofkings_devotee_male_plural: "principes de foi" #NT!
- roadofkings_devotee_female: "principe de foi" #NT!
- roadofkings_devotee_female_plural: "principes de foi" #NT!
- roadofkings_devotee_neuter: "principe de foi" #NT!
- roadofkings_devotee_neuter_plural: "principes de foi" #NT!
- roadofkings_priest_male: "principe de foi" #NT!
- roadofkings_priest_male_plural: "principes de foi" #NT!
- roadofkings_priest_alternate_plural: "principes de foi" #NT!
- roadofkings_bishop: "principes de foi" #NT!
- roadofkings_bishop_plural: "principes de foi" #NT!
- roadofkings_divine_realm: "Le trône" #NT!
- roadofkings_positive_afterlife: "Le trône" #NT!
- roadofkings_negative_afterlife: "le donjon" #NT!
- roadofkings_witchgodname_the_horned_god: "la bête" #NT!
- roadofkings_witchgodname_the_horned_god_possessive: "Les bêtes" #NT!
-  
- roadofkings_creator_god_name: "$roadofkings_high_god_name$" #NT!
- roadofkings_creator_god_name_possessive: "$roadofkings_high_god_name_possessive$" #NT!
- roadofkings_health_god_name: "pouvoir" #NT!
- roadofkings_health_god_name_possessive: "pouvoirs" #NT!
- roadofkings_fertility_god_name: "$roadofkings_high_god_name$" #NT!
- roadofkings_fertility_god_name_possessive: "$roadofkings_high_god_name_possessive$" #NT!
- roadofkings_wealth_god_name: "$roadofkings_high_god_name$" #NT!
- roadofkings_wealth_god_name_possessive: "$roadofkings_high_god_name_possessive$" #NT!
- roadofkings_household_god_name: "$roadofkings_health_god_name$" #NT!
- roadofkings_household_god_name_possessive: "$roadofkings_health_god_name_possessive$" #NT!
- roadofkings_fate_god_name: "$roadofkings_high_god_name$" #NT!
- roadofkings_fate_god_name_possessive: "$roadofkings_high_god_name_possessive$" #NT!
- roadofkings_knowledge_god_name: "$roadofkings_high_god_name$" #NT!
- roadofkings_knowledge_god_name_possessive: "$roadofkings_high_god_name_possessive$" #NT!
- roadofkings_war_god_name: "$roadofkings_high_god_name$" #NT!
- roadofkings_war_god_name_possessive: "$roadofkings_high_god_name_possessive$" #NT!
- roadofkings_trickster_god_name: "Fortune" #NT!
- roadofkings_trickster_god_name_possessive: "La Fortune" #NT!
- roadofkings_night_god_name: "$roadofkings_high_god_name$" #NT!
- roadofkings_night_god_name_possessive: "$roadofkings_high_god_name_possessive$" #NT!
- roadofkings_water_god_name: "$roadofkings_health_god_name$" #NT!
- roadofkings_water_god_name_possessive: "$roadofkings_health_god_name_possessive$" #NT!
-  
-  #Scion-Group Faiths 
- viaregalis: "Via Regalis" #NT!
- viaregalis_adj: "Regalis" #NT!
- viaregalis_adherent: "Astre" #NT!
- viaregalis_adherent_plural: "Luminaires" #NT!
- viaregalis_desc: "Les adeptes de Via Regalis contrôlent leur bête en régnant sur les autres. Les mortels sont inférieurs, les promesses seront tenues, le pouvoir est tout." #NT!
-  
- viaequitum: "Via Equitum" #NT!
- viaequitum_adj: "Equitum" #NT!
- viaequitum_adherent: "Paladin" #NT!
- viaequitum_adherent_plural: "Paladins" #NT!
- viaequitum_desc: "Ceux qui suivent le chemin de la chevalerie croient qu'en tant qu'êtres supérieurs, ils ont le devoir de défendre ceux qui sont inférieurs à eux, à la fois [cainite|E] et humains. Ces scions croient fermement aux concepts de devoir et d’honneur." #NT!
-  
- viamercator: "Via Mercator" #NT!
- viamercator_adj: "Mercator" #NT!
- viamercator_adherent: "Marchand" #NT!
- viamercator_adherent_plural: "Marchands" #NT!
- viamercator_desc: "Pour ces descendants qui suivent la Voie du Marchand, le pouvoir et l’argent vont de pair ; par conséquent, ils passent une grande partie de leur temps à acquérir des richesses et à les utiliser pour influencer subtilement les choses dans les coulisses. Cependant, ils chérissent également leur propre réputation et feront de grands efforts pour s’assurer qu’elle soit positive." #NT!
-  
- viatyrannus: "Via Tyrannus" #NT!
- viatyrannus_adj: "Tyrannus" #NT!
- viatyrannus_adherent: "Tyran" #NT!
- viatyrannus_adherent_plural: "Tyrans" #NT!
- viatyrannus_desc: "Bien que beaucoup aient la réputation d'être féroces, contrôlants et avides de pouvoir, les descendants de la Voie du Tyran sont également parmi les plus honorables de la Via Regalis. Si l’un d’eux a une obligation envers vous, celle-ci sera conservée, quel qu’en soit le coût. Toutefois, ils sont les plus enclins à statuer par peur plutôt que par appel." #NT!
-  
- viaconsuasor: "Via Consuaseur" #NT!
- viaconsuasor_adj: "Conseiller" #NT!
- viaconsuasor_adherent: "Vizir" #NT!
- viaconsuasor_adherent_plural: "Vizirs" #NT!
- viaconsuasor_desc: "Les scions sur cette Voie du Vizir se contentent de conseiller plutôt que de gouverner directement, mais cela ne les rend pas moins habiles à exercer le pouvoir que les autres sur la Route des Rois. En fait, ces scions sont parmi les meilleurs dans les manipulations subtiles et dans la détection des détails qui pourraient menacer l'influence des responsables." #NT!
-  
- viamithras: "Via Mithra" #NT!
- viamithras_adj: "Mithraïsme" #NT!
- viamithras_adherent: "Mithraist" #NT!
- viamithras_adherent_plural: "Mithraistes" #NT!
- viamithras_desc: "Les Mithraists sont à cheval entre la Via Regalis et un véritable culte. Bien que le pouvoir et l’honneur soient toujours tenus en haute estime, la dévotion à un véritable dieu, Mithra, est primordiale. Ils restent fidèles à une organisation datant des jours glorieux du culte, dans la Rome antique." #NT!
-  
- viaentelechia: "Via Entéléchie" #NT!
- viaentelechia_adj: "Entéléchie" #NT!
- viaentelechia_adherent: "Dédié" #NT!
- viaentelechia_adherent_plural: "Dédié" #NT!
- viaentelechia_desc: "Les Dévoués sont définis par les trois bases de l'Entéléchie : Andreia, la virilité ; enkratia, force intérieure ; et sophrosyne, contrôle intérieur. Les contraintes humaines comme la miséricorde ou la sympathie (ou la considération) sont en dessous d’eux. Lorsqu'un Dédié rencontre un groupe de ses camarades de clan, il assume le leadership sur eux, soulignant l'infériorité évidente de ses adversaires et n'hésitant pas à tuer les vampires qui désobéiraient à leurs ordres." #NT!
-  
- codexoflegacies: "Codex des legs" #NT!
- codexoflegacies_adj: "Codex hérité" #NT!
- codexoflegacies_adherent: "Rêveur" #NT!
- codexoflegacies_adherent_plural: "Rêveurs" #NT!
- codexoflegacies_desc: "Le [cainites|E] de Constantinople n'adhère pas aux six Traditions de Caïn. Au lieu de cela, le Brujah Tribonius créa le Codex des Legs, un recueil de préceptes destinés à cimenter le règne de la Trinité et des trois clans dirigeants : les Toréador, les Tzimisce et les Ventrue. Un conseil de trois quesiteurs – un de chacun de ces trois clans – supervisait le codex et jugeait ceux qui enfreignaient ses principes." #NT!
-  
- holy_order_scions_of_caine: "Descendants de Caïn" #NT!
- holy_order_scions_of_enoch: "Les descendants d'Enoch" #NT!
- holy_order_scions_of_veddhartha: "Descendants de Veddartha" #NT!
- holy_order_paladins_of_chivalry: "Paladins de chevalerie" #NT!
- holy_order_paladins_of_duty: "Paladins du devoir" #NT!
- holy_order_condottieri: "Les Condottieri" #NT!
- holy_order_scions_of_tyranny: "Les descendants de la tyrannie" #NT!
- holy_order_viziers_contigency: "La contingence des vizirs" #NT!
- holy_order_scions_of_mithras: "Descendants de Mithra" #NT!
- holy_order_lions_of_mithras: "Lions de Mithra" #NT!
- holy_order_miles_of_mithras: "Des kilomètres de Mithra" #NT!
- holy_order_spears_of_artemis_orthia: "Lances d'Artémis Orthia" #NT!
-  
- cleopatrans: "Cléopâtre de Yima" #NT!
- cleopatrans_adj: "Cléopâtre" #NT!
- cleopatrans_adherent: "Cléopâtre" #NT!
- cleopatrans_adherent_plural: "Cléopâtre" #NT!
- cleopatrans_desc: "Ce culte est une fusion entre le conte de Yima, ce Nosferatu mythique apparemment épargné par sa malédiction [Clan|E], et Cléopâtre, la belle pharaon égyptienne. Cette fascination rendit le [Clan|E] puissant, et de nombreux princes furent Cléopâtre jusqu'à la chute de l'Empire romain. Depuis, la secte est pour ainsi dire morte." #NT!
-  
- path_of_carnal_desire: "Chemin du désir charnel" #NT!
- path_of_carnal_desire_adj: "Désir" #NT!
- path_of_carnal_desire_adherent: "Voulu" #NT!
- path_of_carnal_desire_adherent_plural: "Voulu" #NT!
- path_of_carnal_desire_desc: "Cette religion non canon a été commandée par un mécène.\n\nÉgalement connue sous le nom de Via Carnalium Desideriorum, cette voie ne consiste pas à céder au plaisir, mais à utiliser la luxure comme outil de contrôle. Bien qu'il soit aussi érotique que Via Voluptarius, il s'agit moins d'instinct que de domination par le désir sexuel. Ce sont les sirènes qui chantent sur les rochers, et non les marins condamnés qui les recherchent. Contrairement aux adeptes de la Route du Péché, les Désirés se conforment aux normes de la Route des Rois et à ses traditions et trouvent ainsi secours auprès des tribunaux des Hauts Clans.\n\nLes Désirés sont connus pour avoir une rivalité religieuse avec les Des voluptuaires qui se jouent dans les chambres et les bordels à travers l'Italie." #NT!
- holy_order_order_of_whores: "Ordre de Babylone" #NT!
- holy_order_order_of_dominatrices: "Ordre du désir" #NT!
- holy_order_studs_of_desire: "L'attrait du désir" #NT!
-  
- viaofficii: "Via Officii" #NT!
- viaofficii_adj: "Devoir" #NT!
- viaofficii_adherent: "Juré" #NT!
- viaofficii_adherent_plural: "Juré" #NT!
- viaofficii_desc: "Cette religion non canonique a été commandée par un mécène.\n\nÉgalement connue sous le nom de Route du Devoir, cette voie a été développée par Senen Forsworn — l'Observateur Blanc — pour imposer strictement le Silence du Sang. Ils prennent des mesures extrêmes pour maintenir l'intégrité de la Mascarade." #NT!
- tenet_carnal_desire_name: "Désir charnel" #NT!
- tenet_carnal_desire_desc: "Un principe non canonique demandé par un mécène." #NT!
-  
- shatteredspear: "Lance brisée" #NT!
- shatteredspear_adj: "Éclaté" #NT!
- shatteredspear_adherent: "spartiate" #NT!
- shatteredspear_adherent_plural: "Spartiates" #NT!
- shatteredspear_desc: "Ceux qui portent l'héritage d'Artemis Orthia, le premier et le plus aimé des enfants de Ventrue et déesse de l'ancienne Sparte, qui a mené l'avant-garde contre les Brujah de Carthage et est tombé en combattant les ténèbres qui ont saisi cette ville dans son ignoble emprise.\nLa Lance opère dans secret, chaque guerrier restant ferme contre la marée de la Géhenne et les forces diaboliques qui se cachent en dehors de la société Caïnite civilisée." #NT!
-  
- pathofleviathan: "La voie du Léviathan" #NT!
- pathofleviathan_adj: "Léviathan" #NT!
- pathofleviathan_adherent: "Léviathan" #NT!
- pathofleviathan_adherent_plural: "Léviathans" #NT!
- pathofleviathan_desc: "Cette religion non canonique a été commandée par un mécène.\n\nProvenant de l'uniformitarisme chinois ancien, elle se consacre à la construction d'un collectif de type Léviathan, créant un concept collectif du corps savant à travers un endoctrinement flexible et des lois strictes, et finalement créant un système unifié. volonté collective d'évoluer spirituellement comme un organisme unicellulaire vers un organisme multicellulaire." #NT!
-  
- pathofleviathan_religious_head_title: "Esprit" #NT!
- pathofleviathan_religious_head_title_name: "Volonté du Léviathan" #NT!
- pathofleviathan_devotee_male: "Corps du Léviathan" #NT!
- pathofleviathan_devotee_male_plural: "Corps du Léviathan" #NT!
- pathofleviathan_devotee_female: "Corps du Léviathan" #NT!
- pathofleviathan_devotee_female_plural: "Corps du Léviathan" #NT!
- pathofleviathan_devotee_neuter: "Corps du Léviathan" #NT!
- pathofleviathan_devotee_neuter_plural: "Corps du Léviathan" #NT!
- pathofleviathan_priest_male: "Seigneur de sang du Léviathan" #NT!
- pathofleviathan_priest_male_plural: "Seigneurs de sang du Léviathan" #NT!
- pathofleviathan_priest_female_plural: "Dame de sang du Léviathan" #NT!
- pathofleviathan_priest_female: "Dames de sang du Léviathan" #NT!
- pathofleviathan_priest_neuter: "Seigneur de sang du Léviathan" #NT!
- pathofleviathan_priest_neuter_plural: "Seigneurs de sang du Léviathan" #NT!
- pathofleviathan_priest_alternate_plural: "Ministres de sang du Léviathan" #NT!
- pathofleviathan_bishop_male: "Moelle Seigneur du Léviathan" #NT!
- pathofleviathan_bishop_male_plural: "Seigneurs de moelle du Léviathan" #NT!
- pathofleviathan_bishop_female: "Moelle Dame du Léviathan" #NT!
- pathofleviathan_bishop_female_plural: "Moelle Dames du Léviathan" #NT!
- pathofleviathan_bishop_neuter: "Moelle Seigneur du Léviathan" #NT!
- pathofleviathan_bishop_neuter_plural: "Seigneurs de moelle du Léviathan" #NT!
- holy_order_teeth_of_the_leviathan: "Dents de Léviathan" #NT!
- holy_order_council_of_rulers: "Conseil des dirigeants" #NT!
- holy_order_council_of_reconciliation: "Conseil de réconciliation" #NT!
- holy_order_council_of_executioners: "Conseil des bourreaux" #NT!
-  
+    #Common Road of Kings Localization
+    roadofkings_religious_head_title_name: "Exemplaire Regalis"
+    roadofkings_religion: "La route des rois"
+    roadofkings_religion_adj: "Scion"
+    roadofkings_religion_adherent: "Scion"
+    roadofkings_religion_adherent_plural: "Scions"
+    roadofkings_religion_desc: "Les vampires qui tiennent à la noblesse obligent. Un favori du [Clan|E] Ventrue."
+    roadofkings_high_god_name: "Pouvoir"
+    roadofkings_high_god_name_possessive: "Pouvoirs"
+    roadofkings_high_god_name_alternate: "La puissance"
+    roadofkings_high_god_name_alternate_possessive: "Le pouvoir"
+    roadofkings_good_god_jesus: "$roadofkings_health_god_name$"
+    roadofkings_good_god_christ: "Pouvoir"
+    roadofkings_devil_name: "La bête"
+    roadofkings_devil_name_possessive: "Les bêtes"
+    roadofkings_evil_god_lucifer: "La bête"
+    roadofkings_evil_god_beelzebub: "La bête"
+    roadofkings_evil_god_mephistopheles: "La bête"
+    roadofkings_death_deity_name: "Destruction"
+    roadofkings_death_deity_name_possessive: "Destruction"
+    roadofkings_house_of_worship: "tribunal"
+    roadofkings_house_of_worship_plural: "tribunal"
+    roadofkings_religious_symbol: "couronne"
+    roadofkings_religious_text: "écritures"
+    roadofkings_religious_head_title: "principe de foi"
+    roadofkings_devotee_male: "principe de foi"
+    roadofkings_devotee_male_plural: "principes de foi"
+    roadofkings_devotee_female: "principe de foi"
+    roadofkings_devotee_female_plural: "principes de foi"
+    roadofkings_devotee_neuter: "principe de foi"
+    roadofkings_devotee_neuter_plural: "principes de foi"
+    roadofkings_priest_male: "principe de foi"
+    roadofkings_priest_male_plural: "principes de foi"
+    roadofkings_priest_alternate_plural: "principes de foi"
+    roadofkings_bishop: "principes de foi"
+    roadofkings_bishop_plural: "principes de foi"
+    roadofkings_divine_realm: "Le trône"
+    roadofkings_positive_afterlife: "Le trône"
+    roadofkings_negative_afterlife: "le donjon"
+    roadofkings_witchgodname_the_horned_god: "la bête"
+    roadofkings_witchgodname_the_horned_god_possessive: "Les bêtes"
+
+    roadofkings_creator_god_name: "$roadofkings_high_god_name$"
+    roadofkings_creator_god_name_possessive: "$roadofkings_high_god_name_possessive$"
+    roadofkings_health_god_name: "pouvoir"
+    roadofkings_health_god_name_possessive: "pouvoirs"
+    roadofkings_fertility_god_name: "$roadofkings_high_god_name$"
+    roadofkings_fertility_god_name_possessive: "$roadofkings_high_god_name_possessive$"
+    roadofkings_wealth_god_name: "$roadofkings_high_god_name$"
+    roadofkings_wealth_god_name_possessive: "$roadofkings_high_god_name_possessive$"
+    roadofkings_household_god_name: "$roadofkings_health_god_name$"
+    roadofkings_household_god_name_possessive: "$roadofkings_health_god_name_possessive$"
+    roadofkings_fate_god_name: "$roadofkings_high_god_name$"
+    roadofkings_fate_god_name_possessive: "$roadofkings_high_god_name_possessive$"
+    roadofkings_knowledge_god_name: "$roadofkings_high_god_name$"
+    roadofkings_knowledge_god_name_possessive: "$roadofkings_high_god_name_possessive$"
+    roadofkings_war_god_name: "$roadofkings_high_god_name$"
+    roadofkings_war_god_name_possessive: "$roadofkings_high_god_name_possessive$"
+    roadofkings_trickster_god_name: "Fortune"
+    roadofkings_trickster_god_name_possessive: "La Fortune"
+    roadofkings_night_god_name: "$roadofkings_high_god_name$"
+    roadofkings_night_god_name_possessive: "$roadofkings_high_god_name_possessive$"
+    roadofkings_water_god_name: "$roadofkings_health_god_name$"
+    roadofkings_water_god_name_possessive:
+        "$roadofkings_health_god_name_possessive$"
+
+        #Scion-Group Faiths
+    viaregalis: "Via Regalis"
+    viaregalis_adj: "Regalis"
+    viaregalis_adherent: "Astre"
+    viaregalis_adherent_plural: "Luminaires"
+    viaregalis_desc: "Les adeptes de Via Regalis contrôlent leur bête en régnant sur les autres. Les mortels sont inférieurs, les promesses seront tenues, le pouvoir est tout."
+
+    viaequitum: "Via Equitum"
+    viaequitum_adj: "Equitum"
+    viaequitum_adherent: "Paladin"
+    viaequitum_adherent_plural: "Paladins"
+    viaequitum_desc: "Ceux qui suivent le chemin de la chevalerie croient qu'en tant qu'êtres supérieurs, ils ont le devoir de défendre ceux qui sont inférieurs à eux, à la fois [cainite|E] et humains. Ces scions croient fermement aux concepts de devoir et d’honneur."
+
+    viamercator: "Via Mercator"
+    viamercator_adj: "Mercator"
+    viamercator_adherent: "Marchand"
+    viamercator_adherent_plural: "Marchands"
+    viamercator_desc: "Pour ces descendants qui suivent la Voie du Marchand, le pouvoir et l’argent vont de pair ; par conséquent, ils passent une grande partie de leur temps à acquérir des richesses et à les utiliser pour influencer subtilement les choses dans les coulisses. Cependant, ils chérissent également leur propre réputation et feront de grands efforts pour s’assurer qu’elle soit positive."
+
+    viatyrannus: "Via Tyrannus"
+    viatyrannus_adj: "Tyrannus"
+    viatyrannus_adherent: "Tyran"
+    viatyrannus_adherent_plural: "Tyrans"
+    viatyrannus_desc: "Bien que beaucoup aient la réputation d'être féroces, contrôlants et avides de pouvoir, les descendants de la Voie du Tyran sont également parmi les plus honorables de la Via Regalis. Si l’un d’eux a une obligation envers vous, celle-ci sera conservée, quel qu’en soit le coût. Toutefois, ils sont les plus enclins à statuer par peur plutôt que par appel."
+
+    viaconsuasor: "Via Consuaseur"
+    viaconsuasor_adj: "Conseiller"
+    viaconsuasor_adherent: "Vizir"
+    viaconsuasor_adherent_plural: "Vizirs"
+    viaconsuasor_desc: "Les scions sur cette Voie du Vizir se contentent de conseiller plutôt que de gouverner directement, mais cela ne les rend pas moins habiles à exercer le pouvoir que les autres sur la Route des Rois. En fait, ces scions sont parmi les meilleurs dans les manipulations subtiles et dans la détection des détails qui pourraient menacer l'influence des responsables."
+
+    viamithras: "Via Mithra"
+    viamithras_adj: "Mithraïsme"
+    viamithras_adherent: "Mithraist"
+    viamithras_adherent_plural: "Mithraistes"
+    viamithras_desc: "Les Mithraists sont à cheval entre la Via Regalis et un véritable culte. Bien que le pouvoir et l’honneur soient toujours tenus en haute estime, la dévotion à un véritable dieu, Mithra, est primordiale. Ils restent fidèles à une organisation datant des jours glorieux du culte, dans la Rome antique."
+
+    viaentelechia: "Via Entéléchie"
+    viaentelechia_adj: "Entéléchie"
+    viaentelechia_adherent: "Dédié"
+    viaentelechia_adherent_plural: "Dédié"
+    viaentelechia_desc: "Les Dévoués sont définis par les trois bases de l'Entéléchie : Andreia, la virilité ; enkratia, force intérieure ; et sophrosyne, contrôle intérieur. Les contraintes humaines comme la miséricorde ou la sympathie (ou la considération) sont en dessous d’eux. Lorsqu'un Dédié rencontre un groupe de ses camarades de clan, il assume le leadership sur eux, soulignant l'infériorité évidente de ses adversaires et n'hésitant pas à tuer les vampires qui désobéiraient à leurs ordres."
+
+    codexoflegacies: "Codex des legs"
+    codexoflegacies_adj: "Codex hérité"
+    codexoflegacies_adherent: "Rêveur"
+    codexoflegacies_adherent_plural: "Rêveurs"
+    codexoflegacies_desc: "Le [cainites|E] de Constantinople n'adhère pas aux six Traditions de Caïn. Au lieu de cela, le Brujah Tribonius créa le Codex des Legs, un recueil de préceptes destinés à cimenter le règne de la Trinité et des trois clans dirigeants : les Toréador, les Tzimisce et les Ventrue. Un conseil de trois quesiteurs – un de chacun de ces trois clans – supervisait le codex et jugeait ceux qui enfreignaient ses principes."
+
+    holy_order_scions_of_caine: "Descendants de Caïn"
+    holy_order_scions_of_enoch: "Les descendants d'Enoch"
+    holy_order_scions_of_veddhartha: "Descendants de Veddartha"
+    holy_order_paladins_of_chivalry: "Paladins de chevalerie"
+    holy_order_paladins_of_duty: "Paladins du devoir"
+    holy_order_condottieri: "Les Condottieri"
+    holy_order_scions_of_tyranny: "Les descendants de la tyrannie"
+    holy_order_viziers_contigency: "La contingence des vizirs"
+    holy_order_scions_of_mithras: "Descendants de Mithra"
+    holy_order_lions_of_mithras: "Lions de Mithra"
+    holy_order_miles_of_mithras: "Des kilomètres de Mithra"
+    holy_order_spears_of_artemis_orthia: "Lances d'Artémis Orthia"
+
+    cleopatrans: "Cléopâtre de Yima"
+    cleopatrans_adj: "Cléopâtre"
+    cleopatrans_adherent: "Cléopâtre"
+    cleopatrans_adherent_plural: "Cléopâtre"
+    cleopatrans_desc: "Ce culte est une fusion entre le conte de Yima, ce Nosferatu mythique apparemment épargné par sa malédiction [Clan|E], et Cléopâtre, la belle pharaon égyptienne. Cette fascination rendit le [Clan|E] puissant, et de nombreux princes furent Cléopâtre jusqu'à la chute de l'Empire romain. Depuis, la secte est pour ainsi dire morte."
+
+    path_of_carnal_desire: "Chemin du désir charnel"
+    path_of_carnal_desire_adj: "Désir"
+    path_of_carnal_desire_adherent: "Voulu"
+    path_of_carnal_desire_adherent_plural: "Voulu"
+    path_of_carnal_desire_desc: "Cette religion non canon a été commandée par un mécène.\n\nÉgalement connue sous le nom de Via Carnalium Desideriorum, cette voie ne consiste pas à céder au plaisir, mais à utiliser la luxure comme outil de contrôle. Bien qu'il soit aussi érotique que Via Voluptarius, il s'agit moins d'instinct que de domination par le désir sexuel. Ce sont les sirènes qui chantent sur les rochers, et non les marins condamnés qui les recherchent. Contrairement aux adeptes de la Route du Péché, les Désirés se conforment aux normes de la Route des Rois et à ses traditions et trouvent ainsi secours auprès des tribunaux des Hauts Clans.\n\nLes Désirés sont connus pour avoir une rivalité religieuse avec les Des voluptuaires qui se jouent dans les chambres et les bordels à travers l'Italie."
+    holy_order_order_of_whores: "Ordre de Babylone"
+    holy_order_order_of_dominatrices: "Ordre du désir"
+    holy_order_studs_of_desire: "L'attrait du désir"
+
+    viaofficii: "Via Officii"
+    viaofficii_adj: "Devoir"
+    viaofficii_adherent: "Juré"
+    viaofficii_adherent_plural: "Juré"
+    viaofficii_desc: "Cette religion non canonique a été commandée par un mécène.\n\nÉgalement connue sous le nom de Route du Devoir, cette voie a été développée par Senen Forsworn — l'Observateur Blanc — pour imposer strictement le Silence du Sang. Ils prennent des mesures extrêmes pour maintenir l'intégrité de la Mascarade."
+    tenet_carnal_desire_name: "Désir charnel"
+    tenet_carnal_desire_desc: "Un principe non canonique demandé par un mécène."
+
+    shatteredspear: "Lance brisée"
+    shatteredspear_adj: "Éclaté"
+    shatteredspear_adherent: "spartiate"
+    shatteredspear_adherent_plural: "Spartiates"
+    shatteredspear_desc: "Ceux qui portent l'héritage d'Artemis Orthia, le premier et le plus aimé des enfants de Ventrue et déesse de l'ancienne Sparte, qui a mené l'avant-garde contre les Brujah de Carthage et est tombé en combattant les ténèbres qui ont saisi cette ville dans son ignoble emprise.\nLa Lance opère dans secret, chaque guerrier restant ferme contre la marée de la Géhenne et les forces diaboliques qui se cachent en dehors de la société Caïnite civilisée."
+
+    pathofleviathan: "La voie du Léviathan"
+    pathofleviathan_adj: "Léviathan"
+    pathofleviathan_adherent: "Léviathan"
+    pathofleviathan_adherent_plural: "Léviathans"
+    pathofleviathan_desc: "Cette religion non canonique a été commandée par un mécène.\n\nProvenant de l'uniformitarisme chinois ancien, elle se consacre à la construction d'un collectif de type Léviathan, créant un concept collectif du corps savant à travers un endoctrinement flexible et des lois strictes, et finalement créant un système unifié. volonté collective d'évoluer spirituellement comme un organisme unicellulaire vers un organisme multicellulaire."
+
+    pathofleviathan_religious_head_title: "Esprit"
+    pathofleviathan_religious_head_title_name: "Volonté du Léviathan"
+    pathofleviathan_devotee_male: "Corps du Léviathan"
+    pathofleviathan_devotee_male_plural: "Corps du Léviathan"
+    pathofleviathan_devotee_female: "Corps du Léviathan"
+    pathofleviathan_devotee_female_plural: "Corps du Léviathan"
+    pathofleviathan_devotee_neuter: "Corps du Léviathan"
+    pathofleviathan_devotee_neuter_plural: "Corps du Léviathan"
+    pathofleviathan_priest_male: "Seigneur de sang du Léviathan"
+    pathofleviathan_priest_male_plural: "Seigneurs de sang du Léviathan"
+    pathofleviathan_priest_female_plural: "Dame de sang du Léviathan"
+    pathofleviathan_priest_female: "Dames de sang du Léviathan"
+    pathofleviathan_priest_neuter: "Seigneur de sang du Léviathan"
+    pathofleviathan_priest_neuter_plural: "Seigneurs de sang du Léviathan"
+    pathofleviathan_priest_alternate_plural: "Ministres de sang du Léviathan"
+    pathofleviathan_bishop_male: "Moelle Seigneur du Léviathan"
+    pathofleviathan_bishop_male_plural: "Seigneurs de moelle du Léviathan"
+    pathofleviathan_bishop_female: "Moelle Dame du Léviathan"
+    pathofleviathan_bishop_female_plural: "Moelle Dames du Léviathan"
+    pathofleviathan_bishop_neuter: "Moelle Seigneur du Léviathan"
+    pathofleviathan_bishop_neuter_plural: "Seigneurs de moelle du Léviathan"
+    holy_order_teeth_of_the_leviathan: "Dents de Léviathan"
+    holy_order_council_of_rulers: "Conseil des dirigeants"
+    holy_order_council_of_reconciliation: "Conseil de réconciliation"
+    holy_order_council_of_executioners: "Conseil des bourreaux"

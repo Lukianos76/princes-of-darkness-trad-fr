@@ -1,132 +1,132 @@
 ﻿l_french:
- kitsunegifts_visible: "Cadeaux Kitsune" #NT!
- kojingifts_visible: "Kojin Gifts" #NT!
- rokogifts_visible: "Cadeaux roko" #NT!
- shinjugifts_visible: "Shinju Gifts" #NT!
- doshigifts_visible: "Cadeaux doshi" #NT!
- ejigifts_visible: "Cadeaux eji" #NT!
- gukutsushigifts_visible: "Cadeaux gukutsushi" #NT!
- kataribegifts_visible: "Cadeaux Kataribe" #NT!
- ju_fugifts_visible: "Cadeaux Ju-Fu" #NT!
-  
- NEEDS_DOSHI_TEXT: "@warning_icon!#X Nécessite le [GetTrait('doshi').GetName( GetPlayer )] [traits|E] pour acheter des avantages dans cet arbre.#!" #NT!
- NEEDS_EJI_TEXT: "@warning_icon!#X Nécessite le [GetTrait('eji').GetName( GetPlayer )] [traits|E] pour acheter des avantages dans cet arbre.#!" #NT!
- NEEDS_GUKUTSUSHI_TEXT: "@warning_icon!#X Nécessite le [GetTrait('gukutsushi').GetName( GetPlayer )] [traits|E] pour acheter des avantages dans cet arbre.#!" #NT!
- NEEDS_KATARIBE_TEXT: "@warning_icon!#X Nécessite le [GetTrait('kataribe').GetName( GetPlayer )] [traits|E] pour acheter des avantages dans cet arbre.#!" #NT!
-  
- chi_sense_perk_name: "Chi Sense" #NT!
- ishin_denshin_perk_name: "Ishin Denshin" #NT!
- moon_dance_perk_name: "Danse de la lune" #NT!
- kitsune_spirit_speech_perk_name: "Discours de l'Esprit" #NT!
- puppeteers_secret_perk_name: "Le secret du marionnettiste" #NT!
- ghost_speech_perk_name: "Discours fantôme" #NT!
- shadow_fan_flowers_perk_name: "Ombre-Fan-Fleurs" #NT!
- possession_perk_name: "Possession" #NT!
-  
- MOON_DANCE_PERK_EFFECT: "Autoriser le changement de forme vers [GetModifier( 'POD_shapeshift_form_invisible_modifier' ).GetNameWithTooltip|L]." #NT!
- SHADOW_FAN_FLOWERS_PERK_EFFECT: "Donnez au participant à la guerre du côté ennemi un modificateur [GetModifier('shadow_fan_flowers_perk_modifier').GetNameWithTooltip] lorsqu'il est en guerre en tant que participant à la guerre." #NT!
- POSSESSION_PERK_EFFECT: "Débloquez Possess [character_interaction|E], permettez de gagner un crochet de la cible et de lui faire gagner une partie de votre attribut." #NT!
-  
- seduction_perk_name: "Séduction" #NT!
- smell_of_man_perk_name: "Odeur d'homme" #NT!
- silver_tongue_perk_name: "Langue d'argent" #NT!
- disquiet_perk_name: "Inquiétude" #NT!
- kitsune_reshape_objects_perk_name: "Remodeler l'objet" #NT!
- forgetfulness_perk_name: "Oubli" #NT!
- kitsune_spirit_ward_perk_name: "Protection spirituelle" #NT!
- call_to_allies_perk_name: "Appel aux alliés" #NT!
-  
- DISQUIET_PERK_EFFECT: "Donnez le modificateur [GetModifier('disquiet_perk_modifier').GetNameWithTooltip] à l'ennemi [knights|E] en guerre en tant que commandant ou à l'ennemi en [single_combat_duel|E]." #NT!
-  
- burrow_perk_name: "Terrier" #NT!
- hares_leap_perk_name: "Le saut du lièvre" #NT!
- ten_chi_perk_name: "Ten Chi" #NT!
- blind_perk_name: "Aveugle" #NT!
- name_the_spirit_perk_name: "Nommer l'Esprit" #NT!
- carrion_clothes_perk_name: "Vêtements de charogne" #NT!
- kitsune_elemental_gift_perk_name: "Don élémentaire" #NT!
- song_of_the_great_beast_perk_name: "Chanson de la Grande Bête" #NT!
-  
- TEN_CHI_PERK_EFFECT: "Progression mensuelle de l'exploration d'Umbra : [grace_i]#P +10#!" #NT!
- BLIND_PERK_EFFECT: "Donnez le modificateur [GetModifier('blind_modifier').GetNameWithTooltip] à l'ennemi [knights|E] en guerre en tant que commandant ou à l'ennemi en [single_combat_duel|E]." #NT!
- ELEMENTAL_GIFT_PERK_EFFECT: "Peut recruter [GetMaA('earth_elemental').GetName], [GetMaA('water_elemental').GetName], [GetMaA('fire_elemental').GetName] et [GetMaA('air_elemental').GetName] comme [men_at_arms|E]." #NT!
- SONG_OF_THE_GREAT_BEAST_PERK_EFFECT: "Peut recruter [GetMaA('plesiosaurs').GetName], [GetMaA('pterosaurs').GetName], [GetMaA('carnosaurs').GetName] et [GetMaA('herbosaurs').GetName] comme [men_at_arms|E]." #NT!
-  
- flow_of_aura_perk_name: "Flux d'aura" #NT!
- imperial_authority_perk_name: "Autorité impériale" #NT!
- past_whispers_perk_name: "Murmures passées" #NT!
- distant_whispers_perk_name: "Chuchotements lointains" #NT!
- wisdom_of_the_ancient_ways_perk_name: "Sagesse des voies anciennes" #NT!
- scent_of_beyond_perk_name: "Parfum d'au-delà" #NT!
- imperial_obligation_perk_name: "Obligation impériale" #NT!
- marionette_perk_name: "Marionnette" #NT!
-  
- SCENT_OF_BEYOND_PERK_EFFECT: "Temps d'évasion d'Umbra : #P -15 %#!\nMonthly Progression de l'exploration d'Umbra : [grace_i]#P +5#!" #NT!
- MARIONETTE_PERK_EFFECT: "En tant que [character_interaction|E], vous permet d'obtenir un crochet sur la cible." #NT!
-  
- blessing_the_blade_perk_name: "Bénédiction de la lame" #NT!
- breath_of_yu_chiang_perk_name: "Souffle de Yu-Chiang" #NT!
- blood_omen_perk_name: "Présage de sang" #NT!
- kitsune_ghost_speech_perk_name: "Discours fantôme" #NT!
- swarm_of_servants_perk_name: "Essaim de serviteurs" #NT!
- by_the_light_of_the_moon_perk_name: "Par la lumière de la lune" #NT!
- the_malleable_spirit_perk_name: "L'esprit malléable" #NT!
- seal_of_inari_perk_name: "Sceau d'Inari" #NT!
-  
- BLESSING_THE_BLADE_PERK_EFFECT: "En tant que [character_interaction|E], vous permet d'améliorer un modificateur d'artefact ou de lui donner un nouveau modificateur." #NT!
-  
- sense_hostility_perk_name: "Ressentir l'hostilité" #NT!
- kitsune_bolt_perk_name: "Boulon" #NT!
- enduring_warrior_perk_name: "Guerrier endurant" #NT!
- call_of_the_dead_perk_name: "L'appel des morts" #NT!
- song_of_fear_perk_name: "Chanson de la peur" #NT!
- elemental_meld_perk_name: "Fusion élémentaire" #NT!
- sorcerous_bite_perk_name: "Morsure sorcière" #NT!
- dragon_ally_perk_name: "Allié Dragon" #NT!
-  
- SONG_OF_FEAR_PERK_EFFECT: "Donnez le modificateur [GetModifier('song_of_fear_perk_modifier').GetNameWithTooltip] à l'ennemi [knights|E] en guerre en tant que commandant ou à l'ennemi en [single_combat_duel|E]." #NT!
- ELEMENTAL_MELD_PERK_EFFECT: "Autoriser le changement de forme vers les quatre éléments." #NT!
- DRAGON_ALLY_PERK_EFFECT: "Peut recruter [GetMaA('element_dragon').GetName] en tant que [men_at_arms|E]." #NT!
-  
- blur_of_the_milky_eye_perk_name: "Flou de l'oeil laiteux" #NT!
- open_seal_perk_name: "Joint ouvert" #NT!
- fan_shadow_robe_perk_name: "Fan-Shadow-Robe" #NT!
- ebisus_fingers_perk_name: "Les doigts d'Ebisu" #NT!
- kitsune_shadow_fan_flowers_perk_name: "Ombre-Fan-Fleurs" #NT!
- moon_fan_face_shadow_perk_name: "Lune-Fan-Visage-Ombre" #NT!
- kitsune_madness_perk_name: "Folie" #NT!
- violation_perk_name: "Violation" #NT!
-  
- VIOLATION_PERK_EFFECT: "Donnez le modificateur [GetModifier('violation_perk_modifier').GetNameWithTooltip] à l'ennemi [knights|E] en guerre en tant que commandant ou à l'ennemi en [single_combat_duel|E]." #NT!
-  
- fable_perk_name: "Fable" #NT!
- lore_perk_name: "Traditions" #NT!
- centipedes_beckoning_perk_name: "Le signe du mille-pattes" #NT!
- seek_perk_name: "Chercher" #NT!
- kitsune_silence_perk_name: "Silence" #NT!
- uzume_sings_perk_name: "Uzume chante" #NT!
- kuei_dance_perk_name: "Kuei Dance" #NT!
- fabric_of_the_mind_perk_name: "Tissu de l'esprit" #NT!
-  
- UZUME_SINGS_PERK_EFFECT: "Donnez le modificateur [GetModifier('uzume_sings_perk_modifier').GetNameWithTooltip] à l'ennemi [knights|E] en guerre en tant que commandant ou à l'ennemi en [single_combat_duel|E]." #NT!
- FABRIC_OF_THE_MIND_PERK_EFFECT: "Peut recruter [POD_chimera_maa|E] en tant que [men_at_arms|E]." #NT!
-  
- element_child_perk_name: "Élément Enfant" #NT!
- lantern_perk_name: "Lanterne" #NT!
- paper_speech_perk_name: "Discours papier" #NT!
- umekochis_mouth_perk_name: "La bouche d'Umekochi" #NT!
- attraction_perk_name: "Attirance" #NT!
- eyes_of_the_wall_perk_name: "Les yeux du mur" #NT!
- labyrinth_perk_name: "Labyrinthe" #NT!
- silver_sigil_perk_name: "Sceau d'argent" #NT!
- banishment_perk_name: "Bannissement" #NT!
- paper_beast_perk_name: "Bête de papier" #NT!
- beast_shape_perk_name: "Forme de bête" #NT!
- walk_perk_name: "Marcher" #NT!
- kidnap_perk_name: "Kidnapper" #NT!
- paper_flesh_perk_name: "Chair de papier" #NT!
-  
- LABYRINTH_PERK_EFFECT: "Débloquez une option d'événement lorsqu'un personnage puissant tente de résister à l'emprisonnement.\nVos prisonniers ont moins de chances de s'échapper de votre prison." #NT!
- BANISHMENT_PERK_EFFECT: "Libérez $POD_demon_unearthbound_decision$ [decision|E].\nEn tant que [character_interaction|E], vous permet de bannir un personnage fantôme vers le [dark_kingdom|E].\nEn tant que [character_interaction|E], vous permet de bannir un personnage démon vers le [abyss|E].\nEn tant que [character_interaction|E], vous permet de bannir un personnage fae au [arcadia|E]." #NT!
- BEAST_SHAPE_PERK_EFFECT: "Autoriser le changement de forme vers plusieurs formes animales." #NT!
- WALK_PERK_EFFECT: "Temps d'évasion d'Umbra : #P -10 %#!\nMonthly Progression de l'exploration d'Umbra : [grace_i]#P +10#!" #NT!
+    kitsunegifts_visible: "Cadeaux Kitsune"
+    kojingifts_visible: "Kojin Gifts"
+    rokogifts_visible: "Cadeaux roko"
+    shinjugifts_visible: "Shinju Gifts"
+    doshigifts_visible: "Cadeaux doshi"
+    ejigifts_visible: "Cadeaux eji"
+    gukutsushigifts_visible: "Cadeaux gukutsushi"
+    kataribegifts_visible: "Cadeaux Kataribe"
+    ju_fugifts_visible: "Cadeaux Ju-Fu"
+
+    NEEDS_DOSHI_TEXT: "@warning_icon!#X Nécessite le [GetTrait('doshi').GetName( GetPlayer )] [traits|E] pour acheter des avantages dans cet arbre.#!"
+    NEEDS_EJI_TEXT: "@warning_icon!#X Nécessite le [GetTrait('eji').GetName( GetPlayer )] [traits|E] pour acheter des avantages dans cet arbre.#!"
+    NEEDS_GUKUTSUSHI_TEXT: "@warning_icon!#X Nécessite le [GetTrait('gukutsushi').GetName( GetPlayer )] [traits|E] pour acheter des avantages dans cet arbre.#!"
+    NEEDS_KATARIBE_TEXT: "@warning_icon!#X Nécessite le [GetTrait('kataribe').GetName( GetPlayer )] [traits|E] pour acheter des avantages dans cet arbre.#!"
+
+    chi_sense_perk_name: "Chi Sense"
+    ishin_denshin_perk_name: "Ishin Denshin"
+    moon_dance_perk_name: "Danse de la lune"
+    kitsune_spirit_speech_perk_name: "Discours de l'Esprit"
+    puppeteers_secret_perk_name: "Le secret du marionnettiste"
+    ghost_speech_perk_name: "Discours fantôme"
+    shadow_fan_flowers_perk_name: "Ombre-Fan-Fleurs"
+    possession_perk_name: "Possession"
+
+    MOON_DANCE_PERK_EFFECT: "Autoriser le changement de forme vers [GetModifier( 'POD_shapeshift_form_invisible_modifier' ).GetNameWithTooltip|L]."
+    SHADOW_FAN_FLOWERS_PERK_EFFECT: "Donnez au participant à la guerre du côté ennemi un modificateur [GetModifier('shadow_fan_flowers_perk_modifier').GetNameWithTooltip] lorsqu'il est en guerre en tant que participant à la guerre."
+    POSSESSION_PERK_EFFECT: "Débloquez Possess [character_interaction|E], permettez de gagner un crochet de la cible et de lui faire gagner une partie de votre attribut."
+
+    seduction_perk_name: "Séduction"
+    smell_of_man_perk_name: "Odeur d'homme"
+    silver_tongue_perk_name: "Langue d'argent"
+    disquiet_perk_name: "Inquiétude"
+    kitsune_reshape_objects_perk_name: "Remodeler l'objet"
+    forgetfulness_perk_name: "Oubli"
+    kitsune_spirit_ward_perk_name: "Protection spirituelle"
+    call_to_allies_perk_name: "Appel aux alliés"
+
+    DISQUIET_PERK_EFFECT: "Donnez le modificateur [GetModifier('disquiet_perk_modifier').GetNameWithTooltip] à l'ennemi [knights|E] en guerre en tant que commandant ou à l'ennemi en [single_combat_duel|E]."
+
+    burrow_perk_name: "Terrier"
+    hares_leap_perk_name: "Le saut du lièvre"
+    ten_chi_perk_name: "Ten Chi"
+    blind_perk_name: "Aveugle"
+    name_the_spirit_perk_name: "Nommer l'Esprit"
+    carrion_clothes_perk_name: "Vêtements de charogne"
+    kitsune_elemental_gift_perk_name: "Don élémentaire"
+    song_of_the_great_beast_perk_name: "Chanson de la Grande Bête"
+
+    TEN_CHI_PERK_EFFECT: "Progression mensuelle de l'exploration d'Umbra : [grace_i]#P +10#!"
+    BLIND_PERK_EFFECT: "Donnez le modificateur [GetModifier('blind_modifier').GetNameWithTooltip] à l'ennemi [knights|E] en guerre en tant que commandant ou à l'ennemi en [single_combat_duel|E]."
+    ELEMENTAL_GIFT_PERK_EFFECT: "Peut recruter [GetMaA('earth_elemental').GetName], [GetMaA('water_elemental').GetName], [GetMaA('fire_elemental').GetName] et [GetMaA('air_elemental').GetName] comme [men_at_arms|E]."
+    SONG_OF_THE_GREAT_BEAST_PERK_EFFECT: "Peut recruter [GetMaA('plesiosaurs').GetName], [GetMaA('pterosaurs').GetName], [GetMaA('carnosaurs').GetName] et [GetMaA('herbosaurs').GetName] comme [men_at_arms|E]."
+
+    flow_of_aura_perk_name: "Flux d'aura"
+    imperial_authority_perk_name: "Autorité impériale"
+    past_whispers_perk_name: "Murmures passées"
+    distant_whispers_perk_name: "Chuchotements lointains"
+    wisdom_of_the_ancient_ways_perk_name: "Sagesse des voies anciennes"
+    scent_of_beyond_perk_name: "Parfum d'au-delà"
+    imperial_obligation_perk_name: "Obligation impériale"
+    marionette_perk_name: "Marionnette"
+
+    SCENT_OF_BEYOND_PERK_EFFECT: "Temps d'évasion d'Umbra : #P -15 %#!\nMonthly Progression de l'exploration d'Umbra : [grace_i]#P +5#!"
+    MARIONETTE_PERK_EFFECT: "En tant que [character_interaction|E], vous permet d'obtenir un crochet sur la cible."
+
+    blessing_the_blade_perk_name: "Bénédiction de la lame"
+    breath_of_yu_chiang_perk_name: "Souffle de Yu-Chiang"
+    blood_omen_perk_name: "Présage de sang"
+    kitsune_ghost_speech_perk_name: "Discours fantôme"
+    swarm_of_servants_perk_name: "Essaim de serviteurs"
+    by_the_light_of_the_moon_perk_name: "Par la lumière de la lune"
+    the_malleable_spirit_perk_name: "L'esprit malléable"
+    seal_of_inari_perk_name: "Sceau d'Inari"
+
+    BLESSING_THE_BLADE_PERK_EFFECT: "En tant que [character_interaction|E], vous permet d'améliorer un modificateur d'artefact ou de lui donner un nouveau modificateur."
+
+    sense_hostility_perk_name: "Ressentir l'hostilité"
+    kitsune_bolt_perk_name: "Boulon"
+    enduring_warrior_perk_name: "Guerrier endurant"
+    call_of_the_dead_perk_name: "L'appel des morts"
+    song_of_fear_perk_name: "Chanson de la peur"
+    elemental_meld_perk_name: "Fusion élémentaire"
+    sorcerous_bite_perk_name: "Morsure sorcière"
+    dragon_ally_perk_name: "Allié Dragon"
+
+    SONG_OF_FEAR_PERK_EFFECT: "Donnez le modificateur [GetModifier('song_of_fear_perk_modifier').GetNameWithTooltip] à l'ennemi [knights|E] en guerre en tant que commandant ou à l'ennemi en [single_combat_duel|E]."
+    ELEMENTAL_MELD_PERK_EFFECT: "Autoriser le changement de forme vers les quatre éléments."
+    DRAGON_ALLY_PERK_EFFECT: "Peut recruter [GetMaA('element_dragon').GetName] en tant que [men_at_arms|E]."
+
+    blur_of_the_milky_eye_perk_name: "Flou de l'oeil laiteux"
+    open_seal_perk_name: "Joint ouvert"
+    fan_shadow_robe_perk_name: "Fan-Shadow-Robe"
+    ebisus_fingers_perk_name: "Les doigts d'Ebisu"
+    kitsune_shadow_fan_flowers_perk_name: "Ombre-Fan-Fleurs"
+    moon_fan_face_shadow_perk_name: "Lune-Fan-Visage-Ombre"
+    kitsune_madness_perk_name: "Folie"
+    violation_perk_name: "Violation"
+
+    VIOLATION_PERK_EFFECT: "Donnez le modificateur [GetModifier('violation_perk_modifier').GetNameWithTooltip] à l'ennemi [knights|E] en guerre en tant que commandant ou à l'ennemi en [single_combat_duel|E]."
+
+    fable_perk_name: "Fable"
+    lore_perk_name: "Traditions"
+    centipedes_beckoning_perk_name: "Le signe du mille-pattes"
+    seek_perk_name: "Chercher"
+    kitsune_silence_perk_name: "Silence"
+    uzume_sings_perk_name: "Uzume chante"
+    kuei_dance_perk_name: "Kuei Dance"
+    fabric_of_the_mind_perk_name: "Tissu de l'esprit"
+
+    UZUME_SINGS_PERK_EFFECT: "Donnez le modificateur [GetModifier('uzume_sings_perk_modifier').GetNameWithTooltip] à l'ennemi [knights|E] en guerre en tant que commandant ou à l'ennemi en [single_combat_duel|E]."
+    FABRIC_OF_THE_MIND_PERK_EFFECT: "Peut recruter [POD_chimera_maa|E] en tant que [men_at_arms|E]."
+
+    element_child_perk_name: "Élément Enfant"
+    lantern_perk_name: "Lanterne"
+    paper_speech_perk_name: "Discours papier"
+    umekochis_mouth_perk_name: "La bouche d'Umekochi"
+    attraction_perk_name: "Attirance"
+    eyes_of_the_wall_perk_name: "Les yeux du mur"
+    labyrinth_perk_name: "Labyrinthe"
+    silver_sigil_perk_name: "Sceau d'argent"
+    banishment_perk_name: "Bannissement"
+    paper_beast_perk_name: "Bête de papier"
+    beast_shape_perk_name: "Forme de bête"
+    walk_perk_name: "Marcher"
+    kidnap_perk_name: "Kidnapper"
+    paper_flesh_perk_name: "Chair de papier"
+
+    LABYRINTH_PERK_EFFECT: "Débloquez une option d'événement lorsqu'un personnage puissant tente de résister à l'emprisonnement.\nVos prisonniers ont moins de chances de s'échapper de votre prison."
+    BANISHMENT_PERK_EFFECT: "Libérez $POD_demon_unearthbound_decision$ [decision|E].\nEn tant que [character_interaction|E], vous permet de bannir un personnage fantôme vers le [dark_kingdom|E].\nEn tant que [character_interaction|E], vous permet de bannir un personnage démon vers le [abyss|E].\nEn tant que [character_interaction|E], vous permet de bannir un personnage fae au [arcadia|E]."
+    BEAST_SHAPE_PERK_EFFECT: "Autoriser le changement de forme vers plusieurs formes animales."
+    WALK_PERK_EFFECT: "Temps d'évasion d'Umbra : #P -10 %#!\nMonthly Progression de l'exploration d'Umbra : [grace_i]#P +10#!"

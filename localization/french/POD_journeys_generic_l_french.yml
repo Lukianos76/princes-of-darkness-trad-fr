@@ -1,142 +1,143 @@
 ﻿l_french:
-  
-  #################### 
-  ##### Tooltips ##### 
-  #################### 
-  
-  ##### Horrible Datafunctions (no need to translate) 
-  
- POD_JOURNEY_DESC: "[SelectLocalization( EqualTo_string( GetPlayer.MakeScope.Var('current_journey').Var('phase').GetFlagName , 'travel_phase' ), 'POD_JOURNEY_TRAVEL_DESC', 'POD_JOURNEY_PLANNING_DESC' )]" #NT!
- POD_JOURNEY_DESC_NOPROGRESS: "[SelectLocalization( EqualTo_string( GetPlayer.MakeScope.Var('current_journey').Var('phase').GetFlagName , 'travel_phase' ), 'POD_JOURNEY_TRAVEL_DESC', 'POD_JOURNEY_PLANNING_DESC_NOPROGRESS' )]" #NT!
-  
- POD_JOURNEY_PLANNING_DESC: "#T;V $POD_JOURNEY_GETNAME$#!\n$POD_JOURNEY_SELECT_DESC$\n\n$POD_journey_progress_desc$\n$POD_journey_planning_speed_desc$\n\n#help $POD_JOURNEY_GET_TT$#!" #NT!
- POD_JOURNEY_PLANNING_DESC_NOPROGRESS: "#T $POD_JOURNEY_GETNAME$#!\n$POD_JOURNEY_SELECT_DESC$\n\n$POD_journey_planning_speed_desc$\n\n#help $POD_JOURNEY_GET_TT$#!" #NT!
- POD_JOURNEY_TRAVEL_DESC: "#T;V $POD_JOURNEY_GETNAME$#!\n$POD_JOURNEY_SELECT_DESC$\n\n#help $POD_JOURNEY_GET_TT$#!" #NT!
-  
- POD_JOURNEY_SELECT_DESC: "[SelectLocalization( GetScriptedGui('POD_has_coterie_members_sgui').IsValid(GuiScope.SetRoot(GetPlayer.MakeScope).End), 'POD_journey_coterie_desc', 'POD_journey_player_desc' )]" #NT!
-  
- POD_JOURNEY_GETNAME: "[GetPlayer.MakeScope.Var('current_journey').Story.Custom('PODShowJourneyName')]" #NT!
-  
- POD_JOURNEY_GETPROGRESS: "[SelectLocalization( EqualTo_float(FixedPointToFloat(GetPlayer.MakeScope.Var('current_journey').Var('total_progress').GetValue),IntToFloat(FixedPointToInt(GetPlayer.MakeScope.Var('current_journey').Var('total_progress').GetValue))), 'POD_JOURNEY_GETPROGRESS_NODECIMALS', 'POD_JOURNEY_GETPROGRESS_DECIMALS' )] %" #NT!
- POD_JOURNEY_GETPROGRESS_NODECIMALS: "[GetPlayer.MakeScope.Var('current_journey').Var('total_progress').GetValue|0]" #NT!
- POD_JOURNEY_GETPROGRESS_DECIMALS: "[GetPlayer.MakeScope.Var('current_journey').Var('total_progress').GetValue|1]" #NT!
-  
- POD_JOURNEY_GET_TT: "[Localize(Concatenate(GetPlayer.MakeScope.Var('current_journey').Var('journey_type').GetFlagName,'_tt'))]" #NT!
-  
- POD_journey_name: "[Localize(Concatenate(ROOT.Var('journey_type').GetFlagName,'_name'))]" #NT!
- POD_journey_name_targeted: "$POD_journey_name$ [ROOT.Var('target').Char.GetFirstName]" #NT!
-  
- POD_current_journey: "#TOOLTIP:POD_JOURNEY_DESC #V $POD_JOURNEY_GETNAME$#!#!" #NT!
-  
-  ##### Actual text starts here 
-  
- BOTTOMBAR_JOURNEY_TOOLTIP: "#T Voyage :#!\n$POD_JOURNEY_DESC$" #NT!
-  
- POD_journey_coterie_desc: "Les membres du $POD_player_coterie$ sont dans le [GetPlayer.Custom('PODShowJourneyPhase')] de leur [journey|E]." #NT!
- POD_journey_player_desc: "[GetPlayer.GetFirstNameNoTooltip] est dans le [GetPlayer.Custom('PODShowJourneyPhase')] du [GetPlayer.GetHerHis|l] [journey|E]." #NT!
-  
- POD_journey_progress_desc: "Progression : #V;P;bold $POD_JOURNEY_GETPROGRESS$#!" #NT!
- POD_journey_planning_speed_desc: "[planning_speed|E] : #V [Localize(Concatenate(GetPlayer.MakeScope.Var('current_journey').Var('progress_value').GetFlagName,'_monthly_num_current'))]#![AddTextIf(Not(EqualTo_string(GetPlayer.MakeScope.Var('current_journey').Var('progress_value').GetFlagName,'instant')),' #help (voir l'info-bulle pour plus de détails)#!')]" #NT!
-  
- POD_journey_phase_planning: "[planning_phase|E]" #NT!
- POD_journey_phase_travel: "[travel_phase|E]" #NT!
- POD_journey_phase_error: "ERREUR DE PHASE" #NT!
-  
-  
-  ###################### 
-  ##### GUI Window ##### 
-  ###################### 
-  
- JOURNEY_TAB_JOURNEYS: "Liste des voyages" #NT!
- JOURNEY_TAB_COTERIE: "[Select_CString( GetScriptedGui('POD_has_coterie_sgui').IsValid(GuiScope.SetRoot(GetPlayer.MakeScope).End), GetPlayer.Custom('PODGetCoterieName'), Localize('POD_create_a_coterie') )]" #NT!
-  
- POD_create_a_coterie: "Créer un [GetPlayer.Custom('PODCoterieNoTooltip')]" #NT!
-  
-  # This is necessary for some reason. Don't ask me why 
- JANK_LINEBREAK: "\n\n" #NT!
-  
- POD_journeys_hud: "Voyages et coteries" #NT!
- POD_journeys: "Voyages" #NT!
- POD_great_journeys: "Grands voyages" #NT!
- POD_paused_journeys: "Voyages interrompus" #NT!
- POD_travel_ready_journeys: "Trajets disponibles dans le [travel_phase|E]" #NT!
-  
- POD_abandon_journey_tt: "#T Abandonner le voyage#!" #NT!
- POD_abandon_journey_confirm_title: "Abandonner le voyage" #NT!
- POD_abandon_journey_confirm_text: "Êtes-vous sûr de vouloir abandonner votre [journey|E] à #bold [journey.Custom('PODShowJourneyName')]#!?\n\nYou, vous perdrez toute progression et les frais ne seront pas remboursés." #NT!
-  
- POD_resume_paused_journey: "\n\n#I Cliquez pour reprendre ce [journey|E][GetPlayer.Custom('PODHasPausableJourney')].#!" #NT!
- POD_resume_travel_ready_journey: "\n\n#I Cliquez pour démarrer le [travel_phase|E] de ce [journey|E][GetPlayer.Custom('PODHasPausableJourney')].#!" #NT!
-  
- POD_journey_pausable: "et mettez en pause votre actuel" #NT!
- POD_journey_not_pausable: ""
-  
- POD_no_journey_selected: "Vous n'êtes pas actuellement sur un [journey|E]." #NT!
-  
- JOURNEY_DETAIL_EFFECTS: "Lorsque le [planning_phase|E] est terminé :" #NT!
- JOURNEY_DETAIL_REQUIREMENTS: "Exigences:" #NT!
-  
- POD_journey_coterie_checkbox_tt: "Choisissez si vous souhaitez que les membres de votre [GetPlayer.Custom('PODCoterie')] vous rejoignent." #NT!
-  
- POD_journey_instant: "Instantané" #NT!
-  
- POD_journey_progress_instant: "[planning_speed|E] : $POD_journey_instant$" #NT!
- POD_journey_progress: "[planning_speed|E] : [Localize(Concatenate(GetPlayer.MakeScope.Var('journey_detail_window_subtype').Var('progress_value').GetFlagName,'_monthly_num'))] #help (voir l'info-bulle pour plus de détails)#!" #NT!
-  
- POD_journey_cost_goldprestigepiety: "Coût : $POD_journey_gold$, $POD_journey_prestige$, $POD_journey_piety$" #NT!
- POD_journey_cost_goldprestige: "Coût : $POD_journey_gold$, $POD_journey_prestige$" #NT!
- POD_journey_cost_goldpiety: "Coût : $POD_journey_gold$, $POD_journey_piety$" #NT!
- POD_journey_cost_prestigepiety: "Coût : $POD_journey_prestige$, $POD_journey_piety$" #NT!
- POD_journey_cost_gold: "Coût : $POD_journey_gold$" #NT!
- POD_journey_cost_prestige: "Coût : $POD_journey_prestige$" #NT!
- POD_journey_cost_piety: "Coût : $POD_journey_piety$" #NT!
- POD_journey_cost_free: "Sans frais" #NT!
-  
- POD_journey_gold: "[gold_i|E] [GetPlayer.MakeScope.Var('journey_detail_window_subtype').Var('gold_cost').GetValue]" #NT!
- POD_journey_prestige: "[prestige_i|E] [GetPlayer.MakeScope.Var('journey_detail_window_subtype').Var('prestige_cost').GetValue]" #NT!
- POD_journey_piety: "[piety_i|E] [GetPlayer.MakeScope.Var('journey_detail_window_subtype').Var('piety_cost').GetValue]" #NT!
-  
- POD_journey_cost_hunt_scoundrels: "Coût : aléatoire ([gold_i|E] [Multiply_CFixedPoint( GetPlayer.MakeScope.ScriptValue('minor_gold_value'), EmptyScope.ScriptValue('journey_cost_mult') )], [prestige_i|E] [Abs_CFixedPoint(Multiply_CFixedPoint( GetPlayer.MakeScope.ScriptValue('minor_prestige_loss'), EmptyScope.ScriptValue('journey_cost_mult') ))] ou [piety_i|E] [Abs_CFixedPoint(Multiply_CFixedPoint( GetPlayer.MakeScope.ScriptValue('minor_piety_loss'), EmptyScope.ScriptValue('journey_cost_mult') ))])" #NT!
- POD_journey_cost_hunt_warriors: "Coût : [prestige_i|E] [Abs_CFixedPoint(Multiply_CFixedPoint( GetPlayer.MakeScope.ScriptValue('minor_prestige_loss'), EmptyScope.ScriptValue('journey_cost_mult') ))]" #NT!
- POD_journey_cost_hunt_merchants: "Coût : [gold_i|E] [Multiply_CFixedPoint( GetPlayer.MakeScope.ScriptValue('minor_gold_value'), EmptyScope.ScriptValue('journey_cost_mult') )]" #NT!
- POD_journey_cost_hunt_clergy: "Coût : [piety_i|E] [Abs_CFixedPoint(Multiply_CFixedPoint( GetPlayer.MakeScope.ScriptValue('minor_piety_loss'), EmptyScope.ScriptValue('journey_cost_mult') ))]" #NT!
- POD_journey_cost_hunt_rouse_blood: "Coût : 50 % de chances d'augmenter [hunger|E]" #NT!
- POD_journey_cost_hunt_ashen_gold: "Coût : [gold_i|E] [Multiply_CFixedPoint( GetPlayer.MakeScope.ScriptValue('medium_gold_value'), EmptyScope.ScriptValue('journey_cost_mult') )]" #NT!
- POD_journey_cost_hunt_ashen_prestige: "Coût : [prestige_i|E] [Abs_CFixedPoint(Multiply_CFixedPoint( GetPlayer.MakeScope.ScriptValue('medium_prestige_loss'), EmptyScope.ScriptValue('journey_cost_mult') ))]" #NT!
- POD_journey_cost_hunt_ashen_piety: "Coût : [piety_i|E] [Abs_CFixedPoint(Multiply_CFixedPoint( GetPlayer.MakeScope.ScriptValue('medium_piety_loss'), EmptyScope.ScriptValue('journey_cost_mult') ))]" #NT!
-  
- POD_journey_requirements_breakdown: "[GetScriptedGui(Concatenate(GetPlayer.MakeScope.Var('journey_detail_window_subtype').Var('journey_type').GetFlagName,'_requirements')).IsValidTooltip(GuiScope.SetRoot(GetPlayer.MakeScope).End)]" #NT!
-  
- POD_journey_GUI_tooltip: "#help [Localize( Concatenate(Scope.Var('journey_type').GetFlagName,'_tt') )]#!$POD_journey_GUI_pause_hint$$POD_journey_GUI_requirements$$POD_journey_GUI_requirements_generic$" #NT!
-  
- POD_journey_GUI_pause_hint: "[AddTextIf( And( GetScriptedGui('POD_has_current_journey').IsShown(GuiScope.SetRoot(GetPlayer.MakeScope).End), And( GetScriptedGui(Concatenate(Scope.Var('journey_type').GetFlagName,'_requirements')).IsValid(GuiScope.SetRoot(GetPlayer.MakeScope).End), GetScriptedGui('POD_journey_requirements').IsValid(GuiScope.SetRoot(GetPlayer.MakeScope).AddScope('journey',Scope.Story.MakeScope).End) ) ), Concatenate('\n\n', Localize('POD_journey_pause_hint') ) )]" #NT!
-  
- POD_journey_GUI_requirements: "[AddTextIf( Not(GetScriptedGui(Concatenate(Scope.Var('journey_type').GetFlagName,'_requirements')).IsValid(GuiScope.SetRoot(GetPlayer.MakeScope).End)), Concatenate('\n\n', GetScriptedGui(Concatenate(Scope.Var('journey_type').GetFlagName,'_requirements')).IsValidTooltip(GuiScope.SetRoot(GetPlayer.MakeScope).End) ) )]" #NT!
-  
- POD_journey_GUI_requirements_generic: "[AddTextIf( Not(GetScriptedGui('POD_journey_requirements').IsValid(GuiScope.SetRoot(GetPlayer.MakeScope).AddScope('journey',Scope.Story.MakeScope).End)), Concatenate('\n\n', GetScriptedGui('POD_journey_requirements').IsValidTooltip(GuiScope.SetRoot(GetPlayer.MakeScope).AddScope('journey',Scope.Story.MakeScope).End) ) )]" #NT!
-  
-  ##### Tooltips 
-  
- POD_journey_pause_hint: "#I Démarrer un nouveau [journey|E] mettra en pause votre actuel. Vous pourrez le reprendre ultérieurement tout en conservant toute votre progression.#!" #NT!
-  
- POD_journey_interaction_pause_hint: "[AddTextIf( GetScriptedGui('POD_has_current_journey').IsShown(GuiScope.SetRoot(GetPlayer.MakeScope).End), Localize('POD_journey_interaction_pause_hint_tt') )]" #NT!
- POD_journey_interaction_pause_hint_tt: "#I Vos [journey|E] à $POD_current_journey$ seront mis en pause. Vous pourrez le reprendre ultérieurement tout en conservant toute votre progression.#!" #NT!
-  
- POD_journey_requirements_gold: "Vous n'en avez pas assez [gold|E]" #NT!
- POD_journey_requirements_prestige: "Vous n'en avez pas assez [prestige|E]" #NT!
- POD_journey_requirements_piety: "Vous n'en avez pas assez [piety|E]" #NT!
-  
- POD_journey_requirements_notravel: "Vous ne pouvez pas démarrer un [journey|E] alors que votre actuel est dans le [travel_phase|E]" #NT!
- POD_journey_requirements_noactivity: "Vous ne pouvez pas démarrer un [journey|E] pendant que vous êtes occupé avec un [activity|E]" #NT!
- POD_journey_requirements_notravel_generic: "Vous ne pouvez pas démarrer un [journey|E] pendant que vous êtes occupé [traveling|E]" #NT!
-  
- POD_not_already_on_journey_tt: "Vous possédez déjà un [journey|E] du même type !" #NT!
- POD_cant_target_coterie_tt: "Vous ne pouvez pas cibler d'autres membres du $POD_player_coterie$ avec ce [journey|E] !" #NT!
-  
- POD_end_journey_tt: "Votre [journey|E] prendra fin." #NT!
- POD_end_journey_can_retry_tt: "Vous pourrez réessayer cette opération [journey|E] à l'avenir." #NT!
-  
- POD_journey_not_implemented_yet: "Ce [journey|E] n'est pas encore implémenté" #NT!
-  
- POD_journey_exsanguination_disabled: "Vous ne pouvez pas vider vos prisonniers lorsque vous êtes loin de chez vous !" #NT!
-  
+    ####################
+    ##### Tooltips #####
+    ####################
+
+    ##### Horrible Datafunctions (no need to translate)
+
+    POD_JOURNEY_DESC: "[SelectLocalization( EqualTo_string( GetPlayer.MakeScope.Var('current_journey').Var('phase').GetFlagName , 'travel_phase' ), 'POD_JOURNEY_TRAVEL_DESC', 'POD_JOURNEY_PLANNING_DESC' )]"
+    POD_JOURNEY_DESC_NOPROGRESS: "[SelectLocalization( EqualTo_string( GetPlayer.MakeScope.Var('current_journey').Var('phase').GetFlagName , 'travel_phase' ), 'POD_JOURNEY_TRAVEL_DESC', 'POD_JOURNEY_PLANNING_DESC_NOPROGRESS' )]"
+
+    POD_JOURNEY_PLANNING_DESC: "#T;V $POD_JOURNEY_GETNAME$#!\n$POD_JOURNEY_SELECT_DESC$\n\n$POD_journey_progress_desc$\n$POD_journey_planning_speed_desc$\n\n#help $POD_JOURNEY_GET_TT$#!"
+    POD_JOURNEY_PLANNING_DESC_NOPROGRESS: "#T $POD_JOURNEY_GETNAME$#!\n$POD_JOURNEY_SELECT_DESC$\n\n$POD_journey_planning_speed_desc$\n\n#help $POD_JOURNEY_GET_TT$#!"
+    POD_JOURNEY_TRAVEL_DESC: "#T;V $POD_JOURNEY_GETNAME$#!\n$POD_JOURNEY_SELECT_DESC$\n\n#help $POD_JOURNEY_GET_TT$#!"
+
+    POD_JOURNEY_SELECT_DESC: "[SelectLocalization( GetScriptedGui('POD_has_coterie_members_sgui').IsValid(GuiScope.SetRoot(GetPlayer.MakeScope).End), 'POD_journey_coterie_desc', 'POD_journey_player_desc' )]"
+
+    POD_JOURNEY_GETNAME: "[GetPlayer.MakeScope.Var('current_journey').Story.Custom('PODShowJourneyName')]"
+
+    POD_JOURNEY_GETPROGRESS: "[SelectLocalization( EqualTo_float(FixedPointToFloat(GetPlayer.MakeScope.Var('current_journey').Var('total_progress').GetValue),IntToFloat(FixedPointToInt(GetPlayer.MakeScope.Var('current_journey').Var('total_progress').GetValue))), 'POD_JOURNEY_GETPROGRESS_NODECIMALS', 'POD_JOURNEY_GETPROGRESS_DECIMALS' )] %"
+    POD_JOURNEY_GETPROGRESS_NODECIMALS: "[GetPlayer.MakeScope.Var('current_journey').Var('total_progress').GetValue|0]"
+    POD_JOURNEY_GETPROGRESS_DECIMALS: "[GetPlayer.MakeScope.Var('current_journey').Var('total_progress').GetValue|1]"
+
+    POD_JOURNEY_GET_TT: "[Localize(Concatenate(GetPlayer.MakeScope.Var('current_journey').Var('journey_type').GetFlagName,'_tt'))]"
+
+    POD_journey_name: "[Localize(Concatenate(ROOT.Var('journey_type').GetFlagName,'_name'))]"
+    POD_journey_name_targeted: "$POD_journey_name$ [ROOT.Var('target').Char.GetFirstName]"
+
+    POD_current_journey:
+        "#TOOLTIP:POD_JOURNEY_DESC #V $POD_JOURNEY_GETNAME$#!#!"
+
+        ##### Actual text starts here
+
+    BOTTOMBAR_JOURNEY_TOOLTIP: "#T Voyage :#!\n$POD_JOURNEY_DESC$"
+
+    POD_journey_coterie_desc: "Les membres du $POD_player_coterie$ sont dans le [GetPlayer.Custom('PODShowJourneyPhase')] de leur [journey|E]."
+    POD_journey_player_desc: "[GetPlayer.GetFirstNameNoTooltip] est dans le [GetPlayer.Custom('PODShowJourneyPhase')] du [GetPlayer.GetHerHis|l] [journey|E]."
+
+    POD_journey_progress_desc: "Progression : #V;P;bold $POD_JOURNEY_GETPROGRESS$#!"
+    POD_journey_planning_speed_desc: "[planning_speed|E] : #V [Localize(Concatenate(GetPlayer.MakeScope.Var('current_journey').Var('progress_value').GetFlagName,'_monthly_num_current'))]#![AddTextIf(Not(EqualTo_string(GetPlayer.MakeScope.Var('current_journey').Var('progress_value').GetFlagName,'instant')),' #help (voir l'info-bulle pour plus de détails)#!')]"
+
+    POD_journey_phase_planning: "[planning_phase|E]"
+    POD_journey_phase_travel: "[travel_phase|E]"
+    POD_journey_phase_error:
+        "ERREUR DE PHASE"
+
+        ######################
+        ##### GUI Window #####
+        ######################
+
+    JOURNEY_TAB_JOURNEYS: "Liste des voyages"
+    JOURNEY_TAB_COTERIE: "[Select_CString( GetScriptedGui('POD_has_coterie_sgui').IsValid(GuiScope.SetRoot(GetPlayer.MakeScope).End), GetPlayer.Custom('PODGetCoterieName'), Localize('POD_create_a_coterie') )]"
+
+    POD_create_a_coterie:
+        "Créer un [GetPlayer.Custom('PODCoterieNoTooltip')]"
+
+        # This is necessary for some reason. Don't ask me why
+    JANK_LINEBREAK: "\n\n"
+
+    POD_journeys_hud: "Voyages et coteries"
+    POD_journeys: "Voyages"
+    POD_great_journeys: "Grands voyages"
+    POD_paused_journeys: "Voyages interrompus"
+    POD_travel_ready_journeys: "Trajets disponibles dans le [travel_phase|E]"
+
+    POD_abandon_journey_tt: "#T Abandonner le voyage#!"
+    POD_abandon_journey_confirm_title: "Abandonner le voyage"
+    POD_abandon_journey_confirm_text: "Êtes-vous sûr de vouloir abandonner votre [journey|E] à #bold [journey.Custom('PODShowJourneyName')]#!?\n\nYou, vous perdrez toute progression et les frais ne seront pas remboursés."
+
+    POD_resume_paused_journey: "\n\n#I Cliquez pour reprendre ce [journey|E][GetPlayer.Custom('PODHasPausableJourney')].#!"
+    POD_resume_travel_ready_journey: "\n\n#I Cliquez pour démarrer le [travel_phase|E] de ce [journey|E][GetPlayer.Custom('PODHasPausableJourney')].#!"
+
+    POD_journey_pausable: "et mettez en pause votre actuel"
+    POD_journey_not_pausable: ""
+
+    POD_no_journey_selected: "Vous n'êtes pas actuellement sur un [journey|E]."
+
+    JOURNEY_DETAIL_EFFECTS: "Lorsque le [planning_phase|E] est terminé :"
+    JOURNEY_DETAIL_REQUIREMENTS: "Exigences:"
+
+    POD_journey_coterie_checkbox_tt: "Choisissez si vous souhaitez que les membres de votre [GetPlayer.Custom('PODCoterie')] vous rejoignent."
+
+    POD_journey_instant: "Instantané"
+
+    POD_journey_progress_instant: "[planning_speed|E] : $POD_journey_instant$"
+    POD_journey_progress: "[planning_speed|E] : [Localize(Concatenate(GetPlayer.MakeScope.Var('journey_detail_window_subtype').Var('progress_value').GetFlagName,'_monthly_num'))] #help (voir l'info-bulle pour plus de détails)#!"
+
+    POD_journey_cost_goldprestigepiety: "Coût : $POD_journey_gold$, $POD_journey_prestige$, $POD_journey_piety$"
+    POD_journey_cost_goldprestige: "Coût : $POD_journey_gold$, $POD_journey_prestige$"
+    POD_journey_cost_goldpiety: "Coût : $POD_journey_gold$, $POD_journey_piety$"
+    POD_journey_cost_prestigepiety: "Coût : $POD_journey_prestige$, $POD_journey_piety$"
+    POD_journey_cost_gold: "Coût : $POD_journey_gold$"
+    POD_journey_cost_prestige: "Coût : $POD_journey_prestige$"
+    POD_journey_cost_piety: "Coût : $POD_journey_piety$"
+    POD_journey_cost_free: "Sans frais"
+
+    POD_journey_gold: "[gold_i|E] [GetPlayer.MakeScope.Var('journey_detail_window_subtype').Var('gold_cost').GetValue]"
+    POD_journey_prestige: "[prestige_i|E] [GetPlayer.MakeScope.Var('journey_detail_window_subtype').Var('prestige_cost').GetValue]"
+    POD_journey_piety: "[piety_i|E] [GetPlayer.MakeScope.Var('journey_detail_window_subtype').Var('piety_cost').GetValue]"
+
+    POD_journey_cost_hunt_scoundrels: "Coût : aléatoire ([gold_i|E] [Multiply_CFixedPoint( GetPlayer.MakeScope.ScriptValue('minor_gold_value'), EmptyScope.ScriptValue('journey_cost_mult') )], [prestige_i|E] [Abs_CFixedPoint(Multiply_CFixedPoint( GetPlayer.MakeScope.ScriptValue('minor_prestige_loss'), EmptyScope.ScriptValue('journey_cost_mult') ))] ou [piety_i|E] [Abs_CFixedPoint(Multiply_CFixedPoint( GetPlayer.MakeScope.ScriptValue('minor_piety_loss'), EmptyScope.ScriptValue('journey_cost_mult') ))])"
+    POD_journey_cost_hunt_warriors: "Coût : [prestige_i|E] [Abs_CFixedPoint(Multiply_CFixedPoint( GetPlayer.MakeScope.ScriptValue('minor_prestige_loss'), EmptyScope.ScriptValue('journey_cost_mult') ))]"
+    POD_journey_cost_hunt_merchants: "Coût : [gold_i|E] [Multiply_CFixedPoint( GetPlayer.MakeScope.ScriptValue('minor_gold_value'), EmptyScope.ScriptValue('journey_cost_mult') )]"
+    POD_journey_cost_hunt_clergy: "Coût : [piety_i|E] [Abs_CFixedPoint(Multiply_CFixedPoint( GetPlayer.MakeScope.ScriptValue('minor_piety_loss'), EmptyScope.ScriptValue('journey_cost_mult') ))]"
+    POD_journey_cost_hunt_rouse_blood: "Coût : 50 % de chances d'augmenter [hunger|E]"
+    POD_journey_cost_hunt_ashen_gold: "Coût : [gold_i|E] [Multiply_CFixedPoint( GetPlayer.MakeScope.ScriptValue('medium_gold_value'), EmptyScope.ScriptValue('journey_cost_mult') )]"
+    POD_journey_cost_hunt_ashen_prestige: "Coût : [prestige_i|E] [Abs_CFixedPoint(Multiply_CFixedPoint( GetPlayer.MakeScope.ScriptValue('medium_prestige_loss'), EmptyScope.ScriptValue('journey_cost_mult') ))]"
+    POD_journey_cost_hunt_ashen_piety: "Coût : [piety_i|E] [Abs_CFixedPoint(Multiply_CFixedPoint( GetPlayer.MakeScope.ScriptValue('medium_piety_loss'), EmptyScope.ScriptValue('journey_cost_mult') ))]"
+
+    POD_journey_requirements_breakdown: "[GetScriptedGui(Concatenate(GetPlayer.MakeScope.Var('journey_detail_window_subtype').Var('journey_type').GetFlagName,'_requirements')).IsValidTooltip(GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
+
+    POD_journey_GUI_tooltip: "#help [Localize( Concatenate(Scope.Var('journey_type').GetFlagName,'_tt') )]#!$POD_journey_GUI_pause_hint$$POD_journey_GUI_requirements$$POD_journey_GUI_requirements_generic$"
+
+    POD_journey_GUI_pause_hint: "[AddTextIf( And( GetScriptedGui('POD_has_current_journey').IsShown(GuiScope.SetRoot(GetPlayer.MakeScope).End), And( GetScriptedGui(Concatenate(Scope.Var('journey_type').GetFlagName,'_requirements')).IsValid(GuiScope.SetRoot(GetPlayer.MakeScope).End), GetScriptedGui('POD_journey_requirements').IsValid(GuiScope.SetRoot(GetPlayer.MakeScope).AddScope('journey',Scope.Story.MakeScope).End) ) ), Concatenate('\n\n', Localize('POD_journey_pause_hint') ) )]"
+
+    POD_journey_GUI_requirements: "[AddTextIf( Not(GetScriptedGui(Concatenate(Scope.Var('journey_type').GetFlagName,'_requirements')).IsValid(GuiScope.SetRoot(GetPlayer.MakeScope).End)), Concatenate('\n\n', GetScriptedGui(Concatenate(Scope.Var('journey_type').GetFlagName,'_requirements')).IsValidTooltip(GuiScope.SetRoot(GetPlayer.MakeScope).End) ) )]"
+
+    POD_journey_GUI_requirements_generic:
+        "[AddTextIf( Not(GetScriptedGui('POD_journey_requirements').IsValid(GuiScope.SetRoot(GetPlayer.MakeScope).AddScope('journey',Scope.Story.MakeScope).End)), Concatenate('\n\n', GetScriptedGui('POD_journey_requirements').IsValidTooltip(GuiScope.SetRoot(GetPlayer.MakeScope).AddScope('journey',Scope.Story.MakeScope).End) ) )]"
+
+        ##### Tooltips
+
+    POD_journey_pause_hint: "#I Démarrer un nouveau [journey|E] mettra en pause votre actuel. Vous pourrez le reprendre ultérieurement tout en conservant toute votre progression.#!"
+
+    POD_journey_interaction_pause_hint: "[AddTextIf( GetScriptedGui('POD_has_current_journey').IsShown(GuiScope.SetRoot(GetPlayer.MakeScope).End), Localize('POD_journey_interaction_pause_hint_tt') )]"
+    POD_journey_interaction_pause_hint_tt: "#I Vos [journey|E] à $POD_current_journey$ seront mis en pause. Vous pourrez le reprendre ultérieurement tout en conservant toute votre progression.#!"
+
+    POD_journey_requirements_gold: "Vous n'en avez pas assez [gold|E]"
+    POD_journey_requirements_prestige: "Vous n'en avez pas assez [prestige|E]"
+    POD_journey_requirements_piety: "Vous n'en avez pas assez [piety|E]"
+
+    POD_journey_requirements_notravel: "Vous ne pouvez pas démarrer un [journey|E] alors que votre actuel est dans le [travel_phase|E]"
+    POD_journey_requirements_noactivity: "Vous ne pouvez pas démarrer un [journey|E] pendant que vous êtes occupé avec un [activity|E]"
+    POD_journey_requirements_notravel_generic: "Vous ne pouvez pas démarrer un [journey|E] pendant que vous êtes occupé [traveling|E]"
+
+    POD_not_already_on_journey_tt: "Vous possédez déjà un [journey|E] du même type !"
+    POD_cant_target_coterie_tt: "Vous ne pouvez pas cibler d'autres membres du $POD_player_coterie$ avec ce [journey|E] !"
+
+    POD_end_journey_tt: "Votre [journey|E] prendra fin."
+    POD_end_journey_can_retry_tt: "Vous pourrez réessayer cette opération [journey|E] à l'avenir."
+
+    POD_journey_not_implemented_yet: "Ce [journey|E] n'est pas encore implémenté"
+
+    POD_journey_exsanguination_disabled: "Vous ne pouvez pas vider vos prisonniers lorsque vous êtes loin de chez vous !"

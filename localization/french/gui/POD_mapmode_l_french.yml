@@ -1,65 +1,64 @@
 ﻿l_french:
-  
- MAPMODE_POD_RULER_ARTIFACT_LABEL: "Artefact #Weak (Titulaire)#!" #NT!
- MAPMODE_POD_RULER_ARTIFACT: "#T $MAPMODE_POD_RULER_ARTIFACT_LABEL$\n#!Shows tous les niveaux [artifact|E] de chaque [county|E] [holder|E] sur la carte." #NT!
- MAPMODE_POD_GUEST_ARTIFACT_LABEL: "Artefact #Weak (Courtier)#!" #NT!
- MAPMODE_POD_GUEST_ARTIFACT: "#T $MAPMODE_POD_GUEST_ARTIFACT_LABEL$\n#!Shows tous les niveaux [artifact|E] de chaque [county|E] [holder|E] [courtier|E] sur la carte." #NT!
- MAPMODE_POD_SPLATS_LABEL: "Éclaboussures" #NT!
- MAPMODE_POD_SPLATS: "#T $MAPMODE_POD_SPLATS_LABEL$\n#!Shows le [splat|E] de chaque [county|E] [holder|E] sur la carte." #NT!
- MAPMODE_POD_CLANS_LABEL: "Clans" #NT!
- MAPMODE_POD_CLANS: "#T $MAPMODE_POD_CLANS_LABEL$\n#!Shows le [Clan|E] de chaque [independent_ruler|E] sur la carte." #NT!
- MAPMODE_POD_MASQUERADE_LABEL: "Mascarade" #NT!
- MAPMODE_POD_MASQUERADE: "#T $MAPMODE_POD_MASQUERADE_LABEL$\n#!Shows [masquerade|E] Niveau d'exposition de chaque [county|E] [holder|E] sur la carte." #NT!
- MAPMODE_POD_FETTER_LABEL: "Entraver" #NT!
- MAPMODE_POD_FETTER: "#T $MAPMODE_POD_FETTER_LABEL$\n#!Shows votre [Fetters|E] sur la carte." #NT!
-  
- e_map_assamite: "Banu Haqim" #NT!
- e_map_assamite_adj: "Banu Haqim" #NT!
- e_map_baali: "Baali" #NT!
- e_map_baali_adj: "Baali" #NT!
- e_map_brujah: "Brujah" #NT!
- e_map_brujah_adj: "Brujah" #NT!
- e_map_cacophony: "Cacophonie" #NT!
- e_map_cacophony_adj: "Cacophonie" #NT!
- e_map_cappadocian: "Cappadocien" #NT!
- e_map_cappadocian_adj: "Cappadocien" #NT!
- e_map_gangrel: "Gangrel" #NT!
- e_map_gangrel_adj: "Gangrel" #NT!
- e_map_gargoyle: "Gargouille" #NT!
- e_map_gargoyle_adj: "Gargouille" #NT!
- e_map_giovanni: "Jean" #NT!
- e_map_giovanni_adj: "Jean" #NT!
- e_map_impundulu: "Impundu" #NT!
- e_map_impundulu_adj: "Impundu" #NT!
- e_map_kiasyd: "Kiasyd" #NT!
- e_map_kiasyd_adj: "Kiasyd" #NT!
- e_map_lasombra: "Lasombra" #NT!
- e_map_lasombra_adj: "Lasombra" #NT!
- e_map_malkavian: "Malkavien" #NT!
- e_map_malkavian_adj: "Malkavien" #NT!
- e_map_nagaraja: "Nagaraja" #NT!
- e_map_nagaraja_adj: "Nagaraja" #NT!
- e_map_nosferatu: "Nosferatu" #NT!
- e_map_nosferatu_adj: "Nosferatu" #NT!
- e_map_ravnos: "Ravnos" #NT!
- e_map_ravnos_adj: "Ravnos" #NT!
- e_map_salubri: "Salubry" #NT!
- e_map_salubri_adj: "Salubry" #NT!
- e_map_setite: "Séthite" #NT!
- e_map_setite_adj: "Séthite" #NT!
- e_map_toreador: "Toréador" #NT!
- e_map_toreador_adj: "Toréador" #NT!
- e_map_tremere: "Tremere" #NT!
- e_map_tremere_adj: "Tremere" #NT!
- e_map_tzimisce: "Tzimisce" #NT!
- e_map_tzimisce_adj: "Tzimisce" #NT!
- e_map_ventrue: "Ventrue" #NT!
- e_map_ventrue_adj: "Ventrue" #NT!
- e_map_caitiff: "Lâche" #NT!
- e_map_caitiff_adj: "Lâche" #NT!
- e_map_kueijin: "Kuei-jin" #NT!
- e_map_kueijin_adj: "Kuei-jin" #NT!
- e_map_maeghar: "Maeghar" #NT!
- e_map_maeghar_adj: "Maeghar" #NT!
- e_map_else: ""
- e_map_else_adj: ""
+    MAPMODE_POD_RULER_ARTIFACT_LABEL: "Artefact #Weak (Titulaire)#!"
+    MAPMODE_POD_RULER_ARTIFACT: "#T $MAPMODE_POD_RULER_ARTIFACT_LABEL$\n#!Shows tous les niveaux [artifact|E] de chaque [county|E] [holder|E] sur la carte."
+    MAPMODE_POD_GUEST_ARTIFACT_LABEL: "Artefact #Weak (Courtier)#!"
+    MAPMODE_POD_GUEST_ARTIFACT: "#T $MAPMODE_POD_GUEST_ARTIFACT_LABEL$\n#!Shows tous les niveaux [artifact|E] de chaque [county|E] [holder|E] [courtier|E] sur la carte."
+    MAPMODE_POD_SPLATS_LABEL: "Éclaboussures"
+    MAPMODE_POD_SPLATS: "#T $MAPMODE_POD_SPLATS_LABEL$\n#!Shows le [splat|E] de chaque [county|E] [holder|E] sur la carte."
+    MAPMODE_POD_CLANS_LABEL: "Clans"
+    MAPMODE_POD_CLANS: "#T $MAPMODE_POD_CLANS_LABEL$\n#!Shows le [Clan|E] de chaque [independent_ruler|E] sur la carte."
+    MAPMODE_POD_MASQUERADE_LABEL: "Mascarade"
+    MAPMODE_POD_MASQUERADE: "#T $MAPMODE_POD_MASQUERADE_LABEL$\n#!Shows [masquerade|E] Niveau d'exposition de chaque [county|E] [holder|E] sur la carte."
+    MAPMODE_POD_FETTER_LABEL: "Entraver"
+    MAPMODE_POD_FETTER: "#T $MAPMODE_POD_FETTER_LABEL$\n#!Shows votre [Fetters|E] sur la carte."
+
+    e_map_assamite: "Banu Haqim"
+    e_map_assamite_adj: "Banu Haqim"
+    e_map_baali: "Baali"
+    e_map_baali_adj: "Baali"
+    e_map_brujah: "Brujah"
+    e_map_brujah_adj: "Brujah"
+    e_map_cacophony: "Cacophonie"
+    e_map_cacophony_adj: "Cacophonie"
+    e_map_cappadocian: "Cappadocien"
+    e_map_cappadocian_adj: "Cappadocien"
+    e_map_gangrel: "Gangrel"
+    e_map_gangrel_adj: "Gangrel"
+    e_map_gargoyle: "Gargouille"
+    e_map_gargoyle_adj: "Gargouille"
+    e_map_giovanni: "Jean"
+    e_map_giovanni_adj: "Jean"
+    e_map_impundulu: "Impundu"
+    e_map_impundulu_adj: "Impundu"
+    e_map_kiasyd: "Kiasyd"
+    e_map_kiasyd_adj: "Kiasyd"
+    e_map_lasombra: "Lasombra"
+    e_map_lasombra_adj: "Lasombra"
+    e_map_malkavian: "Malkavien"
+    e_map_malkavian_adj: "Malkavien"
+    e_map_nagaraja: "Nagaraja"
+    e_map_nagaraja_adj: "Nagaraja"
+    e_map_nosferatu: "Nosferatu"
+    e_map_nosferatu_adj: "Nosferatu"
+    e_map_ravnos: "Ravnos"
+    e_map_ravnos_adj: "Ravnos"
+    e_map_salubri: "Salubry"
+    e_map_salubri_adj: "Salubry"
+    e_map_setite: "Séthite"
+    e_map_setite_adj: "Séthite"
+    e_map_toreador: "Toréador"
+    e_map_toreador_adj: "Toréador"
+    e_map_tremere: "Tremere"
+    e_map_tremere_adj: "Tremere"
+    e_map_tzimisce: "Tzimisce"
+    e_map_tzimisce_adj: "Tzimisce"
+    e_map_ventrue: "Ventrue"
+    e_map_ventrue_adj: "Ventrue"
+    e_map_caitiff: "Lâche"
+    e_map_caitiff_adj: "Lâche"
+    e_map_kueijin: "Kuei-jin"
+    e_map_kueijin_adj: "Kuei-jin"
+    e_map_maeghar: "Maeghar"
+    e_map_maeghar_adj: "Maeghar"
+    e_map_else: ""
+    e_map_else_adj: ""

@@ -1,14 +1,13 @@
 ﻿l_french:
- POD_wounded_look_modifier: "Regard gravement blessé" #NT!
- POD_consumption_look_modifier: "Regard sur la consommation" #NT!
- POD_leper_look_modifier: "Regard de lépreux" #NT!
- POD_typhus_look_modifier: "Regard de typhus" #NT!
- POD_bald_look_modifier: "Chauve" #NT!
- POD_permanent_scars_modifier: "Cicatrices permanentes" #NT!
- POD_redeye_look_modifier: "Les yeux rouges" #NT!
- POD_bubonic_look_modifier: "Look bubonique" #NT!
- POD_pale_skin_look_modifier: "Peau pâle" #NT!
- POD_gangrel_frenzy_modifier_heavy: "Gangrel [Clan|E] fléau - lourd" #NT!
- POD_gangrel_frenzy_modifier_medium: "Gangrel [Clan|E] fléau - moyen" #NT!
- POD_gangrel_frenzy_modifier_light: "Gangrel [Clan|E] fléau - léger" #NT!
-  
+    POD_wounded_look_modifier: "Regard gravement blessé"
+    POD_consumption_look_modifier: "Regard sur la consommation"
+    POD_leper_look_modifier: "Regard de lépreux"
+    POD_typhus_look_modifier: "Regard de typhus"
+    POD_bald_look_modifier: "Chauve"
+    POD_permanent_scars_modifier: "Cicatrices permanentes"
+    POD_redeye_look_modifier: "Les yeux rouges"
+    POD_bubonic_look_modifier: "Look bubonique"
+    POD_pale_skin_look_modifier: "Peau pâle"
+    POD_gangrel_frenzy_modifier_heavy: "Gangrel [Clan|E] fléau - lourd"
+    POD_gangrel_frenzy_modifier_medium: "Gangrel [Clan|E] fléau - moyen"
+    POD_gangrel_frenzy_modifier_light: "Gangrel [Clan|E] fléau - léger"

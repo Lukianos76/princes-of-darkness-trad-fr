@@ -1,166 +1,161 @@
 ﻿l_french:
-  
- blackfury_objective_decision: "Filles de Gaïa" #NT!
- blackfury_objective_decision_tooltip: "Les Furies noires doivent intervenir et diriger la nation Garou." #NT!
- blackfury_objective_decision_desc: "Si les Furies noires veulent éloigner la nation Garou de ses petites querelles, elles doivent d'abord trouver une matriarche digne et consolider leur patrie." #NT!
- blackfury_objective_decision_effect_tooltip: "Vous obtiendrez l'Empire Black Furies [title|E], une puissante relique de votre tribu et serez un pas de plus vers l'unification des Garous." #NT!
- blackfury_objective_decision_confirm: "Mères, filles et dirigeants" #NT!
- blackfury_decision_custom: "Le Caern de la Gloire du Soleil, au [GetTitleByKey('b_montbelliard').GetNameNoTier], doit être entièrement construit" #NT!
-  
- pod1230objectives_werewolves.1.t: "Filles de Gaïa" #NT!
- pod1230objectives_werewolves.1.desc: "Les Furies noires sont depuis longtemps liées à leur patrie méditerranéenne ancestrale. L'essor de Rome et la croissance des villes qui l'accompagna marquèrent la fin de leur domination sur la région et aidèrent les vampires à réduire petit à petit l'influence des Furies. Pas plus.\nGrâce à une succession de matriarches puissantes, à l'utilisation rusée des institutions mortelles contre les vampires et à quelques assauts audacieux dignes des Amazones, les Furies noires ont une fois de plus solidifié leur ancrage solide en Italie.\nLes autres tribus regardent maintenant , se demandant si les Furies pourront capitaliser sur cette surprenante victoire. Peut-être que Gaia a vraiment l'intention que ses champions soient unis sous ses filles après tout ?" #NT!
- pod1230objectives_werewolves.1.a: "Mère, écoute notre cri de victoire !" #NT!
- pod1230objectives_werewolves.2.a: "Des Lupins présomptueux !" #NT!
- pod1230objectives_werewolves.2.b: "Les Amazones chevauchent à nouveau" #NT!
-  
- bonegnawer_objective_decision: "Le rire de Gaïa" #NT!
- bonegnawer_objective_decision_tooltip: "Ne serait-ce pas une mauvaise plaisanterie si les charognards devenaient les leaders ?" #NT!
- bonegnawer_objective_decision_desc: "Nous sommes au bas de la chaîne alimentaire dans la Nation Garou. Mais avec nos astuces et notre ruse, nous pourrions bien prouver à toutes ces hautes et puissantes tribus à quel point nous pouvons réellement être utiles." #NT!
- bonegnawer_objective_decision_effect_tooltip: "Vous obtiendrez l'Empire Bone Gnawers [title|E], une puissante relique de votre tribu et serez un pas de plus vers l'unification des Garous." #NT!
- bonegnawer_objective_decision_confirm: "Renversez les trônes !" #NT!
- bonegnawer_decision_custom: "Le Caern du Champ d'Étoiles, au [GetTitleByKey('b_oviedo').GetNameNoTier], doit être entièrement construit" #NT!
-  
- pod1230objectives_werewolves.3.t: "Le rire de Gaïa" #NT!
- pod1230objectives_werewolves.3.desc: "Pendant que les puissants Seigneurs des Ombres et les Crocs d'Argent se chamaillaient, tandis que les courageux Get de Fenris et Fianna menaient des batailles désespérées, les Bone Gnawers attendaient. Aidé par la croissance de la civilisation humaine, les fils de Rat ont fait ce qu'ils font de mieux : survivre, s'adapter et prospérer.\nAlors que les autres tribus ressemblent de plus en plus à des reliques du passé, les Bone Gnawers sont plus à l'aise avec cette humanité transformée. que jamais et tout le monde se tourne désormais, à contrecœur, vers eux pour obtenir de l'aide et des conseils sur la manière de gérer cette société transformée. Le bas de la Nation Garou prend sa revanche et, de faveur en faveur, gravit rapidement les échelons..." #NT!
- pod1230objectives_werewolves.3.a: "Les rats ne quittent pas le navire, ils le commandent !" #NT!
- pod1230objectives_werewolves.4.b: "De charognards à dirigeants ?" #NT!
-  
- childofgaia_objective_decision: "L'unité de Gaïa" #NT!
- childofgaia_objective_decision_tooltip: "Prouver que l’unité n’est pas une faiblesse est un défi sans fin." #NT!
- childofgaia_objective_decision_desc: "Nous avons toujours lutté pour l'unité au sein de la nation Garou, mais les tribus les plus guerrières nous évitent toujours. Nous devons prouver que l’unité nous donne la force et non la faiblesse." #NT!
- childofgaia_objective_decision_effect_tooltip: "Vous obtiendrez les Enfants de l'Empire Gaia [title|E], une puissante relique de votre tribu et serez un pas de plus vers l'unification des Garous." #NT!
- childofgaia_objective_decision_confirm: "Rassemblez-vous et écoutez" #NT!
- childofgaia_decision_custom: "Le Caern de la Mer Blanche, au [GetTitleByKey('b_kem').GetNameNoTier], doit être entièrement construit" #NT!
-  
- pod1230objectives_werewolves.5.t: "L'unité de Gaïa" #NT!
- pod1230objectives_werewolves.5.desc: "Souvent considérés comme une tribu pacifique et faible, les Enfants de Gaia sont avant tout une force d’unité et de but. Dans le passé, leurs efforts pour convaincre leurs compatriotes de s'asseoir et de parler de leurs querelles (au lieu de se cogner la tête) n'ont pas porté leurs fruits.\nCela a changé récemment, cependant, depuis qu'ils ont prouvé la force de leur conviction et leur grande des résultats qui pourraient être obtenus si tous les champions de Gaia agissaient comme un seul homme. Enfin, peut-être pour la première fois, les tribus écoutent et la Nation Garou n'a jamais semblé aussi forte et unie.\nVraiment, Gaia doit sourire à ses enfants en ce moment." #NT!
- pod1230objectives_werewolves.5.a: "Ils comprennent enfin." #NT!
- pod1230objectives_werewolves.6.b: "Unis Garou ? Une perspective redoutable." #NT!
-  
- fianna_objective_decision: "Héros de Gaïa" #NT!
- fianna_objective_decision_tooltip: "Les îles sont la terre de nos ancêtres et aucune sangsue ne nous expulsera d'ici !" #NT!
- fianna_objective_decision_desc: "Autrefois maîtres incontestés des îles, les Fianna ont connu des temps difficiles avec le retour de Mithra et la peste écorchée. Nous devons riposter avant qu'il ne soit trop tard !" #NT!
- fianna_objective_decision_effect_tooltip: "Vous obtiendrez l'Empire Fianna [title|E], une puissante relique de votre tribu et ferez un pas de plus vers l'unification des Garous." #NT!
- fianna_objective_decision_confirm: "C'est l'heure d'un festin !" #NT!
- fianna_decision_custom: "Le Caern de la Mer Sauvage, au [GetTitleByKey('b_castletown').GetNameNoTier], doit être entièrement construit" #NT!
-  
- pod1230objectives_werewolves.7.t: "Héros de Gaïa" #NT!
- pod1230objectives_werewolves.7.desc: "Bien que respectés pour leurs prouesses au combat et leurs célèbres conteurs, les Fianna sont souvent considérés comme trop indisciplinés par les autres tribus. Ce manque de discipline leur a fait subir des revers majeurs dans les îles, les conduisant à être de plus en plus isolés du reste de la nation Garou.\nPas plus cependant, car une forte succession de dirigeants et un sens renouvelé du but ont vu le Fianna devient à nouveau le maître de Britannia. Alors que des chansons sont déjà en cours de composition pour immortaliser cette grande action, les Fianna vont maintenant commencer à regarder vers l'extérieur, peut-être pour apporter leur aide au reste de la Nation.\n...Après s'être remis du festin le plus épique qu'ils aient jamais organisé." #NT!
- pod1230objectives_werewolves.7.a: "...J'ai mal à la tête." #NT!
- pod1230objectives_werewolves.8.b: "Les Celtes arrivent." #NT!
-  
- get_fenris_objective_decision: "Berserkers de Gaia" #NT!
- get_fenris_objective_decision_tooltip: "Odin a des natures mortes. Un affront à tous les guerriers du Grand Fenris !" #NT!
- get_fenris_objective_decision_desc: "Malgré la bataille titanesque qui a permis de se débarrasser de Wotan, ses rejetons se cachent toujours dans le Sud tandis que les sangsues allemandes font également des incursions sur nos terres. Ils doivent tous être punis !" #NT!
- get_fenris_objective_decision_effect_tooltip: "Vous obtiendrez le Get of Fenris Empire [title|E], une puissante relique de votre tribu et serez un pas de plus vers l'unification des Garous." #NT!
- get_fenris_objective_decision_confirm: "Nous renverserons Valhalla !" #NT!
- get_fenris_decision_custom: "Le Caern du Fimbul Winter, au [GetTitleByKey('b_biton').GetNameNoTier], doit être entièrement construit" #NT!
-  
- pod1230objectives_werewolves.9.t: "Berserkers de Gaia" #NT!
- pod1230objectives_werewolves.9.desc: "Les Gets de Fenris sont des combattants absolument redoutables et personne dans la nation Garou ne le nie. Mais leurs manières violentes, à la limite de l'abus, les mettent en porte-à-faux avec le reste des tribus. Mais les temps ont changé.\nAvec la croissance effrénée de la civilisation et les sangsues qui la contrôlent, les Gets de Fenris plaident pour l'unité de la Nation Garou sous leur direction en tant qu'Alphas incontestés. Avec la récupération réussie de leur patrie suédoise, ils font valoir leurs arguments et nombreux sont déjà ceux qui se rassemblent sous leurs bannières.\nLe sang et la violence détruiront les ennemis de Gaia, et si cela ne suffit pas, encore plus d'effusion de sang devrait faire l'affaire. ..." #NT!
- pod1230objectives_werewolves.9.a: "Nous renverserons les cieux !" #NT!
- pod1230objectives_werewolves.10.b: "Au Ragnarök ?" #NT!
-  
- redtalon_objective_decision: "Colère de Gaïa" #NT!
- redtalon_objective_decision_tooltip: "Le Wyld n'est pas encore mort." #NT!
- redtalon_objective_decision_desc: "La civilisation sévit de plus en plus et les autres tribus refusent d'agir. C'est à nous de sauver enfin Gaia de cette maudite humanité." #NT!
- redtalon_objective_decision_effect_tooltip: "Vous obtiendrez l'Empire des Serres Rouges [title|E], une puissante relique de votre tribu et serez un pas de plus vers l'unification des Garous." #NT!
- redtalon_objective_decision_confirm: "Souvenez-vous de l'Impergium" #NT!
- redtalon_decision_custom: "Le Caern de la Forêt d'Hiver, au [GetTitleByKey('b_kazan').GetNameNoTier], doit être entièrement construit" #NT!
-  
- pod1230objectives_werewolves.11.t: "Colère de Gaïa" #NT!
- pod1230objectives_werewolves.11.desc: "Les Serres Rouges n'ont jamais cédé à l'Impergium, à cette élimination de l'humanité qu'ils jugent nécessaire. A mesure que les autres tribus abandonnèrent l'idée, elles se trouvèrent de plus en plus isolées. Mais les Serres Rouges ne sont que patients.\nEn se retirant dans les steppes encore sauvages, ils se sont assurés de purger la zone de tous les étrangers indésirables et de présager leur avenir. Alors que les autres tribus deviennent la proie de la croissance de l’humanité et des vampires qui l’accompagnent, les Serres Rouges prospèrent. Et maintenant, ils constituent la force la plus puissante qui reste dans la Nation Garou et leurs hurlements seront entendus.\nL'Impergium se déroulera comme prévu et Gaia sera sauvée dans le sang de l'humanité, qu'ils le veuillent ou non." #NT!
- pod1230objectives_werewolves.11.a: "Ils auront à nouveau peur des loups." #NT!
- pod1230objectives_werewolves.12.b: "L'homme contre la nature, encore une fois" #NT!
-  
- warderofmen_objective_decision: "La résilience de Gaia" #NT!
- warderofmen_objective_decision_tooltip: "Pour survivre, nous devons nous adapter" #NT!
- warderofmen_objective_decision_desc: "L’humanité est là pour rester, nous devons prouver à la Nation Garou que la voie à suivre est avec elle et non contre elle." #NT!
- warderofmen_objective_decision_effect_tooltip: "Vous obtiendrez le Warder of Men Empire [title|E], une puissante relique de votre tribu et serez un pas de plus vers l'unification des Garous." #NT!
- warderofmen_objective_decision_confirm: "Un nouveau chemin ensemble" #NT!
- warderofmen_decision_custom: "Le Caern de la Promesse Lumineuse, au [GetTitleByKey('b_acre').GetNameNoTier], doit être entièrement construit" #NT!
-  
- pod1230objectives_werewolves.13.t: "La résilience de Gaia" #NT!
- pod1230objectives_werewolves.13.desc: "Les Gardiens des Hommes sont rapidement rejetés par les autres tribus comme des « amoureux de l'humanité », mais cela ne les dérange pas. Comme leur totem spirituel, la blatte, ils luttent et survivent à tout. L’humanité et la civilisation sont désormais ascendantes, et les Gardiens le savent. Leur profonde compréhension du caractère inéluctable de la victoire de l'humanité est ce qui les a conduits à la position de force dans laquelle ils se trouvent aujourd'hui.\nAlors que les autres tribus tentent de s'accrocher à des époques révolues, les Gardiens ouvrent la voie, confiants dans la rationalité de leurs plans. Comme eux, la Nation Garou perdurera et évoluera mais, surtout, survivra." #NT!
- pod1230objectives_werewolves.13.a: "Survivre, endurer, prospérer." #NT!
- pod1230objectives_werewolves.14.b: "Les loups des villes ?" #NT!
-  
- shadowlord_objective_decision: "L'Ombre de Gaïa" #NT!
- shadowlord_objective_decision_tooltip: "Nous sommes censés diriger la Nation Garou, pas ces pompeux Crocs d'Argent." #NT!
- shadowlord_objective_decision_desc: "Si nous voulons que le reste des tribus reconnaissent notre droit légitime à les gouverner, nous devons d’abord faire une forte démonstration de force." #NT!
- shadowlord_objective_decision_effect_tooltip: "Vous obtiendrez l'Empire Shadow Lords [title|E], une puissante relique de votre tribu et serez un pas de plus vers l'unification des Garous." #NT!
- shadowlord_objective_decision_confirm: "À propos du temps!" #NT!
- shadowlord_decision_custom: "Le Caern du ciel nocturne, au [GetTitleByKey('b_okachiv').GetNameNoTier], doit être entièrement construit" #NT!
-  
- pod1230objectives_werewolves.15.t: "L'Ombre de Gaïa" #NT!
- pod1230objectives_werewolves.15.desc: "Pendant trop longtemps, la Nation Garou a manqué de leadership adéquat. Les Crocs d'Argent, ces bouffons bavards, ont fait grande démonstration de nous « diriger ». Mais ils n'ont fait que plonger les tribus dans la division et dans des batailles désespérées.\nAvec notre patrie à nouveau sécurisée, nous avons prouvé que seuls les Seigneurs des Ombres sont aptes à diriger la Nation Garou vers l'avant. Et maintenant, nous allons utiliser tous les outils à notre disposition pour faire en sorte que Gaia finisse par triompher. Les tribus nous suivront jusqu'à la victoire contre l'Apocalypse... que cela leur plaise ou non." #NT!
- pod1230objectives_werewolves.15.a: "Gaia a besoin de champions rusés." #NT!
- pod1230objectives_werewolves.16.b: "Le trône des Silver Fangs est renversé." #NT!
-  
- silentstrider_objective_decision: "La nouvelle maison des exilés" #NT!
- silentstrider_objective_decision_tooltip: "L’Égypte est perdue pour nous, nous devons la reconstruire et recommencer à zéro." #NT!
- silentstrider_objective_decision_desc: "Marrakech est notre nouveau foyer depuis la perte de l'Egypte. Nous devons faire en sorte que cette tragédie ne se reproduise plus." #NT!
- silentstrider_objective_decision_effect_tooltip: "Vous obtiendrez l'Empire Silent Striders [title|E], une puissante relique de votre tribu et serez un pas de plus vers l'unification des Garous." #NT!
- silentstrider_objective_decision_confirm: "Nous sommes prêts maintenant." #NT!
- silentstrider_decision_custom: "Le Caern de la Roue de Ptah, au [GetTitleByKey('b_marrakesh').GetNameNoTier], doit être entièrement construit" #NT!
-  
- pod1230objectives_werewolves.17.t: "La nouvelle maison des exilés" #NT!
- pod1230objectives_werewolves.17.desc: "Après leur long combat contre Set, les Silent Striders furent contraints à l'exil de leur patrie, l'Égypte. Devenus nomades pendant un certain temps, ils se sont finalement installés à Marrakech et leur fortune s'est beaucoup améliorée depuis.\nMaintenant fermement aux commandes de leur nouvelle maison, les Silent Striders reviennent comme une force avec laquelle il faut compter. La sagesse et la force de conviction qu'ils ont acquises au cours de leur exil les rendent également de plus en plus recherchés par les autres tribus, qui se demandent désormais si les Striders ne seraient pas un nouveau candidat rare mais prometteur pour diriger la Nation Garou." #NT!
- pod1230objectives_werewolves.17.a: "Ensemble en Egypte ?" #NT!
- pod1230objectives_werewolves.18.b: "Ensemble en Egypte ?" #NT!
-  
- silverfang_objective_decision: "Le retour du roi" #NT!
- silverfang_objective_decision_tooltip: "Nous sommes les dirigeants de la Nation Garou, maintenant et pour toujours." #NT!
- silverfang_objective_decision_desc: "Notre leadership sur les autres tribus a été contesté ces derniers temps. Une démonstration de force est nécessaire pour calmer les dissidents." #NT!
- silverfang_objective_decision_effect_tooltip: "Vous obtiendrez l'Empire Silver Fangs [title|E], une puissante relique de votre tribu et serez un pas de plus vers l'unification des Garous." #NT!
- silverfang_objective_decision_confirm: "J'assume le contrôle direct." #NT!
- silverfang_decision_custom: "Le Caern du Croissant de Lune, au [GetTitleByKey('b_voronezh').GetNameNoTier], doit être entièrement construit" #NT!
-  
- pod1230objectives_werewolves.19.t: "Le retour du roi" #NT!
- pod1230objectives_werewolves.19.desc: "Depuis l'époque de Rome, les Crocs d'Argent sont les chefs traditionnels de la nation Garou. Avec la chute de l'Empire et le déplacement progressif de la tribu vers l'est, cette tradition a été contestée. Des tribus comme les Seigneurs de l'Ombre ou les Serres Rouges ont surgi dans le vide du pouvoir pour ébranler l'autorité des Crocs d'Argent et d'autres comme les Silent Striders ou les Fianna ont tout simplement été perdues à cause de la distance géographique.\nAvec leur récent succès en Russie cependant , les Silver Fangs prouvent qu'ils ont seulement déplacé leur siège du pouvoir et n'ont pas perdu les capacités qui les ont rendus si respectés en premier lieu. Toutes les tribus ne sont pas encore en rupture de rang, mais la noblesse des loups-garous est sur le point de réaffirmer leurs droits naturels." #NT!
- pod1230objectives_werewolves.19.a: "Salut aux rois !" #NT!
- pod1230objectives_werewolves.20.b: "Ils conservent leur trône... pour l'instant" #NT!
-  
- stargazer_objective_decision: "La sagesse de Gaïa" #NT!
- stargazer_objective_decision_tooltip: "De la paix intérieure peut naître une plus grande unité." #NT!
- stargazer_objective_decision_desc: "Nous prêchons la modération et nous avons choisi de nous démarquer de la Nation Garou. Mais l’inaction ne peut durer qu’un certain temps avant de se transformer en indifférence." #NT!
- stargazer_objective_decision_effect_tooltip: "Vous obtiendrez l'Empire Stargazers [title|E], une puissante relique de votre tribu et serez un pas de plus vers l'unification des Garous." #NT!
- stargazer_objective_decision_confirm: "Il est temps de rencontrer nos cousins ​​occidentaux." #NT!
- stargazer_decision_custom: "Le Caern du Léopard des Neiges, au [GetTitleByKey('b_xigaze').GetNameNoTier], doit être entièrement construit" #NT!
-  
- pod1230objectives_werewolves.21.t: "La sagesse de Gaïa" #NT!
- pod1230objectives_werewolves.21.desc: "Nous n'avons pas pris part à la Guerre de la Rage et sommes restés neutres depuis, gardant nos propres conseils. Il y a cependant une limite à la mesure dans laquelle nous pouvons rester détachés de nos cousins ​​occidentaux. De toute évidence, les menaces auxquelles sont confrontés les Garous dans cette nouvelle ère nécessitent l'unité.\nLes autres tribus ont montré à maintes reprises leur propension aux actions irréfléchies et leur manque de planification minutieuse. Nous pouvons faire preuve d’un leadership avisé pour canaliser cette colère vers des sujets plus productifs. Il est temps pour la Nation Garou d'adopter la sagesse de Gaia." #NT!
- pod1230objectives_werewolves.21.a: "Il est temps de se calmer et d'écouter, cousins." #NT!
- pod1230objectives_werewolves.22.b: "Étranges gars, ceux-là" #NT!
-  
- gaia_objective_decision: "Le triomphe de Gaïa" #NT!
- gaia_objective_decision_tooltip: "Nous avons revendiqué notre capacité à diriger la Nation Garou, il est maintenant temps de prouver que nous en sommes dignes !" #NT!
- gaia_objective_decision_desc: "Nous avons revendiqué notre capacité à diriger la Nation Garou, il est maintenant temps de prouver que nous en sommes dignes !" #NT!
- gaia_objective_decision_effect_tooltip: "Vous obtiendrez l'Empire de la Nation Garou [title|E], une puissante doctrine de foi spéciale et les dirigeants non loups-garous seront paralysés." #NT!
- gaia_objective_decision_confirm: "Pour Gaïa ! À partir de!" #NT!
-  
- pod1230objectives_werewolves.23.t: "Le triomphe de Gaïa" #NT!
- pod1230objectives_werewolves.23.desc: "Malgré la peste écorchée et la croissance effrénée de la civilisation, les Garous ont survécu. Sous une direction nouvelle et respectée, les tribus se sont unies pour mener une guerre commune contre les redoutables vampires et leurs nombreux serviteurs. Petit à petit, les loups-garous regagnent Caerns perdus, freinant la croissance des villes et veillant à ce que l'humanité reste à sa place. Alors que de plus en plus de sangsues sont déchiquetées par les crocs et les griffes, il ne reste plus aucun doute : c'est l'ère du Loup.\nL'Apocalypse peut attendre, car les Garous sont plus que jamais prêts à veiller sur leur bien-aimée Gaia." #NT!
- pod1230objectives_werewolves.23.a: "La Mère est sauvée !" #NT!
- pod1230objectives_werewolves.24.b: "Gaia est-elle vraiment sauvée ?" #NT!
- pod1230objectives_werewolves.23.custom: "Les dirigeants non-loups-garous subiront un puissant effet négatif, l’effondrement de la civilisation, pour les 100 prochaines années. Les dirigeants loups-garous d'un rang inférieur accepteront désormais toujours la vassalisation de ce personnage, à l'exception des Danseurs de la Spirale Noire." #NT!
-  
- blackspiraldancer_objective_decision: "Petits-enfants aimants" #NT!
- blackspiraldancer_objective_decision_tooltip: "Mamie s'attend à ce que nous soyons gentils !" #NT!
- blackspiraldancer_objective_decision_desc: "La sorcière, Baba Yaga, est l'une des servantes les plus fidèles de notre maître. Si nous lui faisons plaisir en détruisant ses ennemis, elle nous récompensera certainement !" #NT!
- blackspiraldancer_objective_decision_effect_tooltip: "Baba Yaga vous offrira l'immortalité, en quelque sorte." #NT!
- blackspiraldancer_objective_decision_confirm: "Es-tu heureuse grand-mère ?" #NT!
- blackspiraldancer_victory_objective_decision_custom: "Le [GetTitleByKey('k_crescent_moon').GetNameNoTier] [title|E] doit être détruit, ou contrôlé par vous" #NT!
-  
- pod1230objectives_werewolves.25.t: "Petits-enfants aimants" #NT!
- pod1230objectives_werewolves.25.desc: "L'expansion rapide du Rideau d'Ombre, en grande partie grâce à vous, a grandement plu à la Petite Grand-Mère, Baba Yaga. La destruction de toute menace proche à son règne lui permet de se concentrer sur des questions plus importantes, mais cela ne signifie pas qu'elle vous a oublié.\nAprès un rituel approfondi pour s'assurer que vous survivriez (probablement), la sorcière a [Embraced|E] vous, faisant de vous l'un de ses « Vrykolakas », le métis entre vampires et loups-garous que certains appellent « Abominations ». Vous êtes désormais immortel et pouvez faire appel à certaines des puissances de vos deux mondes. La plupart reculeront devant votre horrible transformation, mais vous la connaissez pour ce qu'elle est vraiment : le plus grand des cadeaux." #NT!
- pod1230objectives_werewolves.25.a: "J'ai atteint la perfection." #NT!
- pod1230objectives_werewolves.26.a: "Quelle est cette chose immonde !?" #NT!
- pod1230objectives_werewolves.26.b: "Quelle est cette chose immonde !?" #NT!
-  
- become_abomination_tt: "En tant qu'Abomination, vous avez un accès complet aux pouvoirs du vampire, à l'exception de l'Étreinte. Vous n'êtes plus un loup-garou, mais vous conservez l'accès aux cadeaux de race et d'auspice ainsi qu'à l'option Shapeshift." #NT!
- become_abomination_holdings_tt: "Vos propriétés passeront de tribales à châteaux, perdant ainsi leurs bâtiments désormais incompatibles." #NT!
-  
-  
-  
-  
+    blackfury_objective_decision: "Filles de Gaïa"
+    blackfury_objective_decision_tooltip: "Les Furies noires doivent intervenir et diriger la nation Garou."
+    blackfury_objective_decision_desc: "Si les Furies noires veulent éloigner la nation Garou de ses petites querelles, elles doivent d'abord trouver une matriarche digne et consolider leur patrie."
+    blackfury_objective_decision_effect_tooltip: "Vous obtiendrez l'Empire Black Furies [title|E], une puissante relique de votre tribu et serez un pas de plus vers l'unification des Garous."
+    blackfury_objective_decision_confirm: "Mères, filles et dirigeants"
+    blackfury_decision_custom: "Le Caern de la Gloire du Soleil, au [GetTitleByKey('b_montbelliard').GetNameNoTier], doit être entièrement construit"
+
+    pod1230objectives_werewolves.1.t: "Filles de Gaïa"
+    pod1230objectives_werewolves.1.desc: "Les Furies noires sont depuis longtemps liées à leur patrie méditerranéenne ancestrale. L'essor de Rome et la croissance des villes qui l'accompagna marquèrent la fin de leur domination sur la région et aidèrent les vampires à réduire petit à petit l'influence des Furies. Pas plus.\nGrâce à une succession de matriarches puissantes, à l'utilisation rusée des institutions mortelles contre les vampires et à quelques assauts audacieux dignes des Amazones, les Furies noires ont une fois de plus solidifié leur ancrage solide en Italie.\nLes autres tribus regardent maintenant , se demandant si les Furies pourront capitaliser sur cette surprenante victoire. Peut-être que Gaia a vraiment l'intention que ses champions soient unis sous ses filles après tout ?"
+    pod1230objectives_werewolves.1.a: "Mère, écoute notre cri de victoire !"
+    pod1230objectives_werewolves.2.a: "Des Lupins présomptueux !"
+    pod1230objectives_werewolves.2.b: "Les Amazones chevauchent à nouveau"
+
+    bonegnawer_objective_decision: "Le rire de Gaïa"
+    bonegnawer_objective_decision_tooltip: "Ne serait-ce pas une mauvaise plaisanterie si les charognards devenaient les leaders ?"
+    bonegnawer_objective_decision_desc: "Nous sommes au bas de la chaîne alimentaire dans la Nation Garou. Mais avec nos astuces et notre ruse, nous pourrions bien prouver à toutes ces hautes et puissantes tribus à quel point nous pouvons réellement être utiles."
+    bonegnawer_objective_decision_effect_tooltip: "Vous obtiendrez l'Empire Bone Gnawers [title|E], une puissante relique de votre tribu et serez un pas de plus vers l'unification des Garous."
+    bonegnawer_objective_decision_confirm: "Renversez les trônes !"
+    bonegnawer_decision_custom: "Le Caern du Champ d'Étoiles, au [GetTitleByKey('b_oviedo').GetNameNoTier], doit être entièrement construit"
+
+    pod1230objectives_werewolves.3.t: "Le rire de Gaïa"
+    pod1230objectives_werewolves.3.desc: "Pendant que les puissants Seigneurs des Ombres et les Crocs d'Argent se chamaillaient, tandis que les courageux Get de Fenris et Fianna menaient des batailles désespérées, les Bone Gnawers attendaient. Aidé par la croissance de la civilisation humaine, les fils de Rat ont fait ce qu'ils font de mieux : survivre, s'adapter et prospérer.\nAlors que les autres tribus ressemblent de plus en plus à des reliques du passé, les Bone Gnawers sont plus à l'aise avec cette humanité transformée. que jamais et tout le monde se tourne désormais, à contrecœur, vers eux pour obtenir de l'aide et des conseils sur la manière de gérer cette société transformée. Le bas de la Nation Garou prend sa revanche et, de faveur en faveur, gravit rapidement les échelons..."
+    pod1230objectives_werewolves.3.a: "Les rats ne quittent pas le navire, ils le commandent !"
+    pod1230objectives_werewolves.4.b: "De charognards à dirigeants ?"
+
+    childofgaia_objective_decision: "L'unité de Gaïa"
+    childofgaia_objective_decision_tooltip: "Prouver que l’unité n’est pas une faiblesse est un défi sans fin."
+    childofgaia_objective_decision_desc: "Nous avons toujours lutté pour l'unité au sein de la nation Garou, mais les tribus les plus guerrières nous évitent toujours. Nous devons prouver que l’unité nous donne la force et non la faiblesse."
+    childofgaia_objective_decision_effect_tooltip: "Vous obtiendrez les Enfants de l'Empire Gaia [title|E], une puissante relique de votre tribu et serez un pas de plus vers l'unification des Garous."
+    childofgaia_objective_decision_confirm: "Rassemblez-vous et écoutez"
+    childofgaia_decision_custom: "Le Caern de la Mer Blanche, au [GetTitleByKey('b_kem').GetNameNoTier], doit être entièrement construit"
+
+    pod1230objectives_werewolves.5.t: "L'unité de Gaïa"
+    pod1230objectives_werewolves.5.desc: "Souvent considérés comme une tribu pacifique et faible, les Enfants de Gaia sont avant tout une force d’unité et de but. Dans le passé, leurs efforts pour convaincre leurs compatriotes de s'asseoir et de parler de leurs querelles (au lieu de se cogner la tête) n'ont pas porté leurs fruits.\nCela a changé récemment, cependant, depuis qu'ils ont prouvé la force de leur conviction et leur grande des résultats qui pourraient être obtenus si tous les champions de Gaia agissaient comme un seul homme. Enfin, peut-être pour la première fois, les tribus écoutent et la Nation Garou n'a jamais semblé aussi forte et unie.\nVraiment, Gaia doit sourire à ses enfants en ce moment."
+    pod1230objectives_werewolves.5.a: "Ils comprennent enfin."
+    pod1230objectives_werewolves.6.b: "Unis Garou ? Une perspective redoutable."
+
+    fianna_objective_decision: "Héros de Gaïa"
+    fianna_objective_decision_tooltip: "Les îles sont la terre de nos ancêtres et aucune sangsue ne nous expulsera d'ici !"
+    fianna_objective_decision_desc: "Autrefois maîtres incontestés des îles, les Fianna ont connu des temps difficiles avec le retour de Mithra et la peste écorchée. Nous devons riposter avant qu'il ne soit trop tard !"
+    fianna_objective_decision_effect_tooltip: "Vous obtiendrez l'Empire Fianna [title|E], une puissante relique de votre tribu et ferez un pas de plus vers l'unification des Garous."
+    fianna_objective_decision_confirm: "C'est l'heure d'un festin !"
+    fianna_decision_custom: "Le Caern de la Mer Sauvage, au [GetTitleByKey('b_castletown').GetNameNoTier], doit être entièrement construit"
+
+    pod1230objectives_werewolves.7.t: "Héros de Gaïa"
+    pod1230objectives_werewolves.7.desc: "Bien que respectés pour leurs prouesses au combat et leurs célèbres conteurs, les Fianna sont souvent considérés comme trop indisciplinés par les autres tribus. Ce manque de discipline leur a fait subir des revers majeurs dans les îles, les conduisant à être de plus en plus isolés du reste de la nation Garou.\nPas plus cependant, car une forte succession de dirigeants et un sens renouvelé du but ont vu le Fianna devient à nouveau le maître de Britannia. Alors que des chansons sont déjà en cours de composition pour immortaliser cette grande action, les Fianna vont maintenant commencer à regarder vers l'extérieur, peut-être pour apporter leur aide au reste de la Nation.\n...Après s'être remis du festin le plus épique qu'ils aient jamais organisé."
+    pod1230objectives_werewolves.7.a: "...J'ai mal à la tête."
+    pod1230objectives_werewolves.8.b: "Les Celtes arrivent."
+
+    get_fenris_objective_decision: "Berserkers de Gaia"
+    get_fenris_objective_decision_tooltip: "Odin a des natures mortes. Un affront à tous les guerriers du Grand Fenris !"
+    get_fenris_objective_decision_desc: "Malgré la bataille titanesque qui a permis de se débarrasser de Wotan, ses rejetons se cachent toujours dans le Sud tandis que les sangsues allemandes font également des incursions sur nos terres. Ils doivent tous être punis !"
+    get_fenris_objective_decision_effect_tooltip: "Vous obtiendrez le Get of Fenris Empire [title|E], une puissante relique de votre tribu et serez un pas de plus vers l'unification des Garous."
+    get_fenris_objective_decision_confirm: "Nous renverserons Valhalla !"
+    get_fenris_decision_custom: "Le Caern du Fimbul Winter, au [GetTitleByKey('b_biton').GetNameNoTier], doit être entièrement construit"
+
+    pod1230objectives_werewolves.9.t: "Berserkers de Gaia"
+    pod1230objectives_werewolves.9.desc: "Les Gets de Fenris sont des combattants absolument redoutables et personne dans la nation Garou ne le nie. Mais leurs manières violentes, à la limite de l'abus, les mettent en porte-à-faux avec le reste des tribus. Mais les temps ont changé.\nAvec la croissance effrénée de la civilisation et les sangsues qui la contrôlent, les Gets de Fenris plaident pour l'unité de la Nation Garou sous leur direction en tant qu'Alphas incontestés. Avec la récupération réussie de leur patrie suédoise, ils font valoir leurs arguments et nombreux sont déjà ceux qui se rassemblent sous leurs bannières.\nLe sang et la violence détruiront les ennemis de Gaia, et si cela ne suffit pas, encore plus d'effusion de sang devrait faire l'affaire. ..."
+    pod1230objectives_werewolves.9.a: "Nous renverserons les cieux !"
+    pod1230objectives_werewolves.10.b: "Au Ragnarök ?"
+
+    redtalon_objective_decision: "Colère de Gaïa"
+    redtalon_objective_decision_tooltip: "Le Wyld n'est pas encore mort."
+    redtalon_objective_decision_desc: "La civilisation sévit de plus en plus et les autres tribus refusent d'agir. C'est à nous de sauver enfin Gaia de cette maudite humanité."
+    redtalon_objective_decision_effect_tooltip: "Vous obtiendrez l'Empire des Serres Rouges [title|E], une puissante relique de votre tribu et serez un pas de plus vers l'unification des Garous."
+    redtalon_objective_decision_confirm: "Souvenez-vous de l'Impergium"
+    redtalon_decision_custom: "Le Caern de la Forêt d'Hiver, au [GetTitleByKey('b_kazan').GetNameNoTier], doit être entièrement construit"
+
+    pod1230objectives_werewolves.11.t: "Colère de Gaïa"
+    pod1230objectives_werewolves.11.desc: "Les Serres Rouges n'ont jamais cédé à l'Impergium, à cette élimination de l'humanité qu'ils jugent nécessaire. A mesure que les autres tribus abandonnèrent l'idée, elles se trouvèrent de plus en plus isolées. Mais les Serres Rouges ne sont que patients.\nEn se retirant dans les steppes encore sauvages, ils se sont assurés de purger la zone de tous les étrangers indésirables et de présager leur avenir. Alors que les autres tribus deviennent la proie de la croissance de l’humanité et des vampires qui l’accompagnent, les Serres Rouges prospèrent. Et maintenant, ils constituent la force la plus puissante qui reste dans la Nation Garou et leurs hurlements seront entendus.\nL'Impergium se déroulera comme prévu et Gaia sera sauvée dans le sang de l'humanité, qu'ils le veuillent ou non."
+    pod1230objectives_werewolves.11.a: "Ils auront à nouveau peur des loups."
+    pod1230objectives_werewolves.12.b: "L'homme contre la nature, encore une fois"
+
+    warderofmen_objective_decision: "La résilience de Gaia"
+    warderofmen_objective_decision_tooltip: "Pour survivre, nous devons nous adapter"
+    warderofmen_objective_decision_desc: "L’humanité est là pour rester, nous devons prouver à la Nation Garou que la voie à suivre est avec elle et non contre elle."
+    warderofmen_objective_decision_effect_tooltip: "Vous obtiendrez le Warder of Men Empire [title|E], une puissante relique de votre tribu et serez un pas de plus vers l'unification des Garous."
+    warderofmen_objective_decision_confirm: "Un nouveau chemin ensemble"
+    warderofmen_decision_custom: "Le Caern de la Promesse Lumineuse, au [GetTitleByKey('b_acre').GetNameNoTier], doit être entièrement construit"
+
+    pod1230objectives_werewolves.13.t: "La résilience de Gaia"
+    pod1230objectives_werewolves.13.desc: "Les Gardiens des Hommes sont rapidement rejetés par les autres tribus comme des « amoureux de l'humanité », mais cela ne les dérange pas. Comme leur totem spirituel, la blatte, ils luttent et survivent à tout. L’humanité et la civilisation sont désormais ascendantes, et les Gardiens le savent. Leur profonde compréhension du caractère inéluctable de la victoire de l'humanité est ce qui les a conduits à la position de force dans laquelle ils se trouvent aujourd'hui.\nAlors que les autres tribus tentent de s'accrocher à des époques révolues, les Gardiens ouvrent la voie, confiants dans la rationalité de leurs plans. Comme eux, la Nation Garou perdurera et évoluera mais, surtout, survivra."
+    pod1230objectives_werewolves.13.a: "Survivre, endurer, prospérer."
+    pod1230objectives_werewolves.14.b: "Les loups des villes ?"
+
+    shadowlord_objective_decision: "L'Ombre de Gaïa"
+    shadowlord_objective_decision_tooltip: "Nous sommes censés diriger la Nation Garou, pas ces pompeux Crocs d'Argent."
+    shadowlord_objective_decision_desc: "Si nous voulons que le reste des tribus reconnaissent notre droit légitime à les gouverner, nous devons d’abord faire une forte démonstration de force."
+    shadowlord_objective_decision_effect_tooltip: "Vous obtiendrez l'Empire Shadow Lords [title|E], une puissante relique de votre tribu et serez un pas de plus vers l'unification des Garous."
+    shadowlord_objective_decision_confirm: "À propos du temps!"
+    shadowlord_decision_custom: "Le Caern du ciel nocturne, au [GetTitleByKey('b_okachiv').GetNameNoTier], doit être entièrement construit"
+
+    pod1230objectives_werewolves.15.t: "L'Ombre de Gaïa"
+    pod1230objectives_werewolves.15.desc: "Pendant trop longtemps, la Nation Garou a manqué de leadership adéquat. Les Crocs d'Argent, ces bouffons bavards, ont fait grande démonstration de nous « diriger ». Mais ils n'ont fait que plonger les tribus dans la division et dans des batailles désespérées.\nAvec notre patrie à nouveau sécurisée, nous avons prouvé que seuls les Seigneurs des Ombres sont aptes à diriger la Nation Garou vers l'avant. Et maintenant, nous allons utiliser tous les outils à notre disposition pour faire en sorte que Gaia finisse par triompher. Les tribus nous suivront jusqu'à la victoire contre l'Apocalypse... que cela leur plaise ou non."
+    pod1230objectives_werewolves.15.a: "Gaia a besoin de champions rusés."
+    pod1230objectives_werewolves.16.b: "Le trône des Silver Fangs est renversé."
+
+    silentstrider_objective_decision: "La nouvelle maison des exilés"
+    silentstrider_objective_decision_tooltip: "L’Égypte est perdue pour nous, nous devons la reconstruire et recommencer à zéro."
+    silentstrider_objective_decision_desc: "Marrakech est notre nouveau foyer depuis la perte de l'Egypte. Nous devons faire en sorte que cette tragédie ne se reproduise plus."
+    silentstrider_objective_decision_effect_tooltip: "Vous obtiendrez l'Empire Silent Striders [title|E], une puissante relique de votre tribu et serez un pas de plus vers l'unification des Garous."
+    silentstrider_objective_decision_confirm: "Nous sommes prêts maintenant."
+    silentstrider_decision_custom: "Le Caern de la Roue de Ptah, au [GetTitleByKey('b_marrakesh').GetNameNoTier], doit être entièrement construit"
+
+    pod1230objectives_werewolves.17.t: "La nouvelle maison des exilés"
+    pod1230objectives_werewolves.17.desc: "Après leur long combat contre Set, les Silent Striders furent contraints à l'exil de leur patrie, l'Égypte. Devenus nomades pendant un certain temps, ils se sont finalement installés à Marrakech et leur fortune s'est beaucoup améliorée depuis.\nMaintenant fermement aux commandes de leur nouvelle maison, les Silent Striders reviennent comme une force avec laquelle il faut compter. La sagesse et la force de conviction qu'ils ont acquises au cours de leur exil les rendent également de plus en plus recherchés par les autres tribus, qui se demandent désormais si les Striders ne seraient pas un nouveau candidat rare mais prometteur pour diriger la Nation Garou."
+    pod1230objectives_werewolves.17.a: "Ensemble en Egypte ?"
+    pod1230objectives_werewolves.18.b: "Ensemble en Egypte ?"
+
+    silverfang_objective_decision: "Le retour du roi"
+    silverfang_objective_decision_tooltip: "Nous sommes les dirigeants de la Nation Garou, maintenant et pour toujours."
+    silverfang_objective_decision_desc: "Notre leadership sur les autres tribus a été contesté ces derniers temps. Une démonstration de force est nécessaire pour calmer les dissidents."
+    silverfang_objective_decision_effect_tooltip: "Vous obtiendrez l'Empire Silver Fangs [title|E], une puissante relique de votre tribu et serez un pas de plus vers l'unification des Garous."
+    silverfang_objective_decision_confirm: "J'assume le contrôle direct."
+    silverfang_decision_custom: "Le Caern du Croissant de Lune, au [GetTitleByKey('b_voronezh').GetNameNoTier], doit être entièrement construit"
+
+    pod1230objectives_werewolves.19.t: "Le retour du roi"
+    pod1230objectives_werewolves.19.desc: "Depuis l'époque de Rome, les Crocs d'Argent sont les chefs traditionnels de la nation Garou. Avec la chute de l'Empire et le déplacement progressif de la tribu vers l'est, cette tradition a été contestée. Des tribus comme les Seigneurs de l'Ombre ou les Serres Rouges ont surgi dans le vide du pouvoir pour ébranler l'autorité des Crocs d'Argent et d'autres comme les Silent Striders ou les Fianna ont tout simplement été perdues à cause de la distance géographique.\nAvec leur récent succès en Russie cependant , les Silver Fangs prouvent qu'ils ont seulement déplacé leur siège du pouvoir et n'ont pas perdu les capacités qui les ont rendus si respectés en premier lieu. Toutes les tribus ne sont pas encore en rupture de rang, mais la noblesse des loups-garous est sur le point de réaffirmer leurs droits naturels."
+    pod1230objectives_werewolves.19.a: "Salut aux rois !"
+    pod1230objectives_werewolves.20.b: "Ils conservent leur trône... pour l'instant"
+
+    stargazer_objective_decision: "La sagesse de Gaïa"
+    stargazer_objective_decision_tooltip: "De la paix intérieure peut naître une plus grande unité."
+    stargazer_objective_decision_desc: "Nous prêchons la modération et nous avons choisi de nous démarquer de la Nation Garou. Mais l’inaction ne peut durer qu’un certain temps avant de se transformer en indifférence."
+    stargazer_objective_decision_effect_tooltip: "Vous obtiendrez l'Empire Stargazers [title|E], une puissante relique de votre tribu et serez un pas de plus vers l'unification des Garous."
+    stargazer_objective_decision_confirm: "Il est temps de rencontrer nos cousins ​​occidentaux."
+    stargazer_decision_custom: "Le Caern du Léopard des Neiges, au [GetTitleByKey('b_xigaze').GetNameNoTier], doit être entièrement construit"
+
+    pod1230objectives_werewolves.21.t: "La sagesse de Gaïa"
+    pod1230objectives_werewolves.21.desc: "Nous n'avons pas pris part à la Guerre de la Rage et sommes restés neutres depuis, gardant nos propres conseils. Il y a cependant une limite à la mesure dans laquelle nous pouvons rester détachés de nos cousins ​​occidentaux. De toute évidence, les menaces auxquelles sont confrontés les Garous dans cette nouvelle ère nécessitent l'unité.\nLes autres tribus ont montré à maintes reprises leur propension aux actions irréfléchies et leur manque de planification minutieuse. Nous pouvons faire preuve d’un leadership avisé pour canaliser cette colère vers des sujets plus productifs. Il est temps pour la Nation Garou d'adopter la sagesse de Gaia."
+    pod1230objectives_werewolves.21.a: "Il est temps de se calmer et d'écouter, cousins."
+    pod1230objectives_werewolves.22.b: "Étranges gars, ceux-là"
+
+    gaia_objective_decision: "Le triomphe de Gaïa"
+    gaia_objective_decision_tooltip: "Nous avons revendiqué notre capacité à diriger la Nation Garou, il est maintenant temps de prouver que nous en sommes dignes !"
+    gaia_objective_decision_desc: "Nous avons revendiqué notre capacité à diriger la Nation Garou, il est maintenant temps de prouver que nous en sommes dignes !"
+    gaia_objective_decision_effect_tooltip: "Vous obtiendrez l'Empire de la Nation Garou [title|E], une puissante doctrine de foi spéciale et les dirigeants non loups-garous seront paralysés."
+    gaia_objective_decision_confirm: "Pour Gaïa ! À partir de!"
+
+    pod1230objectives_werewolves.23.t: "Le triomphe de Gaïa"
+    pod1230objectives_werewolves.23.desc: "Malgré la peste écorchée et la croissance effrénée de la civilisation, les Garous ont survécu. Sous une direction nouvelle et respectée, les tribus se sont unies pour mener une guerre commune contre les redoutables vampires et leurs nombreux serviteurs. Petit à petit, les loups-garous regagnent Caerns perdus, freinant la croissance des villes et veillant à ce que l'humanité reste à sa place. Alors que de plus en plus de sangsues sont déchiquetées par les crocs et les griffes, il ne reste plus aucun doute : c'est l'ère du Loup.\nL'Apocalypse peut attendre, car les Garous sont plus que jamais prêts à veiller sur leur bien-aimée Gaia."
+    pod1230objectives_werewolves.23.a: "La Mère est sauvée !"
+    pod1230objectives_werewolves.24.b: "Gaia est-elle vraiment sauvée ?"
+    pod1230objectives_werewolves.23.custom: "Les dirigeants non-loups-garous subiront un puissant effet négatif, l’effondrement de la civilisation, pour les 100 prochaines années. Les dirigeants loups-garous d'un rang inférieur accepteront désormais toujours la vassalisation de ce personnage, à l'exception des Danseurs de la Spirale Noire."
+
+    blackspiraldancer_objective_decision: "Petits-enfants aimants"
+    blackspiraldancer_objective_decision_tooltip: "Mamie s'attend à ce que nous soyons gentils !"
+    blackspiraldancer_objective_decision_desc: "La sorcière, Baba Yaga, est l'une des servantes les plus fidèles de notre maître. Si nous lui faisons plaisir en détruisant ses ennemis, elle nous récompensera certainement !"
+    blackspiraldancer_objective_decision_effect_tooltip: "Baba Yaga vous offrira l'immortalité, en quelque sorte."
+    blackspiraldancer_objective_decision_confirm: "Es-tu heureuse grand-mère ?"
+    blackspiraldancer_victory_objective_decision_custom: "Le [GetTitleByKey('k_crescent_moon').GetNameNoTier] [title|E] doit être détruit, ou contrôlé par vous"
+
+    pod1230objectives_werewolves.25.t: "Petits-enfants aimants"
+    pod1230objectives_werewolves.25.desc: "L'expansion rapide du Rideau d'Ombre, en grande partie grâce à vous, a grandement plu à la Petite Grand-Mère, Baba Yaga. La destruction de toute menace proche à son règne lui permet de se concentrer sur des questions plus importantes, mais cela ne signifie pas qu'elle vous a oublié.\nAprès un rituel approfondi pour s'assurer que vous survivriez (probablement), la sorcière a [Embraced|E] vous, faisant de vous l'un de ses « Vrykolakas », le métis entre vampires et loups-garous que certains appellent « Abominations ». Vous êtes désormais immortel et pouvez faire appel à certaines des puissances de vos deux mondes. La plupart reculeront devant votre horrible transformation, mais vous la connaissez pour ce qu'elle est vraiment : le plus grand des cadeaux."
+    pod1230objectives_werewolves.25.a: "J'ai atteint la perfection."
+    pod1230objectives_werewolves.26.a: "Quelle est cette chose immonde !?"
+    pod1230objectives_werewolves.26.b: "Quelle est cette chose immonde !?"
+
+    become_abomination_tt: "En tant qu'Abomination, vous avez un accès complet aux pouvoirs du vampire, à l'exception de l'Étreinte. Vous n'êtes plus un loup-garou, mais vous conservez l'accès aux cadeaux de race et d'auspice ainsi qu'à l'option Shapeshift."
+    become_abomination_holdings_tt: "Vos propriétés passeront de tribales à châteaux, perdant ainsi leurs bâtiments désormais incompatibles."

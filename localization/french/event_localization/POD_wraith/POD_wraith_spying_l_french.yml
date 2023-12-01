@@ -1,47 +1,43 @@
 ﻿l_french:
- POD_wraith_spying.100.t: "Yeux invisibles" #NT!
- POD_wraith_spying.100.desc: "Vous avez l'impression d'être observé. Quelque chose ne va pas. Vous craignez que si vous continuez à opérer comme d'habitude, une présence inconnaissable déduira vos secrets.\n Le moment est peut-être venu pour les doubles corporels, les codes et autres moyens de confondre un observateur. Bien sûr, vous pourriez simplement être paranoïaque....." #NT!
- POD_wraith_spying.100.option.a: "Exercer ma volonté et cacher mes secrets." #NT!
- POD_wraith_spying.100.option.b: "Cache mes secrets." #NT!
- POD_wraith_spying.100.option.c: "C'est juste dans mon imagination." #NT!
-  
- POD_wraith_spying.200.t: "Espionner [recipient.GetFirstNameNoTooltip]" #NT!
- POD_wraith_spying.200.desc: "Le moment est venu d'utiliser mon invisibilité sur [recipient.GetTitledFirstName] et de découvrir quelques secrets, mais [recipient.GetSheHe] résiste." #NT!
- POD_wraith_spying.200.option.a: "Continuez quand même." #NT!
- POD_wraith_spying.200.a.tt_willpower: "[recipient.GetFirstNameNoTooltip] a exercé sa volonté pour mieux cacher les mouvements et les conversations clandestines de [recipient.GetHerHis]." #NT!
- POD_wraith_spying.200.a.tt_auspex: "Les pouvoirs de [recipient.GetFirstNameNoTooltip] lui permettent de voir l'invisible, vous privant ainsi de votre invisibilité." #NT!
- POD_wraith_spying.200.a.success.desc: "La victoire" #NT!
- POD_wraith_spying.200.a.tt_success: "[recipient.GetTitledFirstNamePossessive] secret ne me sera connu !" #NT!
- POD_wraith_spying.200.a.failure.desc: "Défaite" #NT!
- POD_wraith_spying.200.a.tt_failure: "[recipient.GetTitledFirstName] a résisté à ma tentative d'espionnage." #NT!
- POD_wraith_spying.200.option.b: "Exerce ma volonté. Je connaîtrai tous les [recipient.GetHerHis] secrets !" #NT!
-  
- POD_wraith_spying.200.option.c: "Abandonnez cette entreprise, je ne souhaite plus espionner [recipient.GetHerHim]." #NT!
- POD_wraith_spying.200.option.c.tt: "La tentative échouera." #NT!
-  
-  
- POD_wraith_spying.300.t: "Les secrets de [recipient.GetFirstNameNoTooltip] découverts." #NT!
- POD_wraith_spying.300.desc: "J'ai appris [recipient.GetTitledFirstNamePossessive] secrets en observant [recipient.GetHerHim]." #NT!
- POD_wraith_spying.300.option.a: "C'est comme il se doit." #NT!
-  
-  
- POD_wraith_spying.400.t: "Tes secrets ont été révélés" #NT!
- POD_wraith_spying.400.desc: "Après avoir échoué à cacher vos biens et vos conversations au [actor.GetTitledFirstName], vos secrets sont désormais connus du [actor.GetHerHim]." #NT!
- POD_wraith_spying.400.option.a: "Mes secrets ne sont plus cachés." #NT!
-  
- POD_wraith_spying.500.t: "Espionnage déjoué" #NT!
- POD_wraith_spying.500.desc: "[recipient.GetTitledFirstName] a résisté à ma tentative d'espionnage sur [recipient.GetHerHim]." #NT!
- POD_wraith_spying.500.option.a: "Contrarié !" #NT!
- POD_wraith_spying.500.option.a.tt.beast: "#R Nous devons connaître [recipient.GetHerHis] secrets !#!" #NT!
-  
- POD_wraith_spying.600.t: "Espionnage déjoué" #NT!
- POD_wraith_spying.600.desc: "[actor.GetTitledFirstName] a abandonné la tentative de [actor.GetHerHis] de voler vos secrets." #NT!
- POD_wraith_spying.600.option.a: "Mes secrets sont en sécurité !" #NT!
- POD_wraith_spying.600.toasttitle: "Wraith déjoué !" #NT!
- POD_wraith_spying.600.toasttext: "Le spectre que vous avez envoyé n'a réussi à apprendre aucun des secrets de votre cible." #NT!
- POD_wraith_spying.300.toasttitle: "Wraith réussi !" #NT!
- POD_wraith_spying.300.toasttext: "Votre spectre a récupéré des informations précieuses pour votre usage." #NT!
-  
-  
-  
- turned_to_wraith: "La cible mourra et renaîtra en spectre dans votre cour. Ou, s'il s'agit déjà d'un spectre, il sera considérablement affaibli et attiré vers votre cour." #NT!
+    POD_wraith_spying.100.t: "Yeux invisibles"
+    POD_wraith_spying.100.desc: "Vous avez l'impression d'être observé. Quelque chose ne va pas. Vous craignez que si vous continuez à opérer comme d'habitude, une présence inconnaissable déduira vos secrets.\n Le moment est peut-être venu pour les doubles corporels, les codes et autres moyens de confondre un observateur. Bien sûr, vous pourriez simplement être paranoïaque....."
+    POD_wraith_spying.100.option.a: "Exercer ma volonté et cacher mes secrets."
+    POD_wraith_spying.100.option.b: "Cache mes secrets."
+    POD_wraith_spying.100.option.c: "C'est juste dans mon imagination."
+
+    POD_wraith_spying.200.t: "Espionner [recipient.GetFirstNameNoTooltip]"
+    POD_wraith_spying.200.desc: "Le moment est venu d'utiliser mon invisibilité sur [recipient.GetTitledFirstName] et de découvrir quelques secrets, mais [recipient.GetSheHe] résiste."
+    POD_wraith_spying.200.option.a: "Continuez quand même."
+    POD_wraith_spying.200.a.tt_willpower: "[recipient.GetFirstNameNoTooltip] a exercé sa volonté pour mieux cacher les mouvements et les conversations clandestines de [recipient.GetHerHis]."
+    POD_wraith_spying.200.a.tt_auspex: "Les pouvoirs de [recipient.GetFirstNameNoTooltip] lui permettent de voir l'invisible, vous privant ainsi de votre invisibilité."
+    POD_wraith_spying.200.a.success.desc: "La victoire"
+    POD_wraith_spying.200.a.tt_success: "[recipient.GetTitledFirstNamePossessive] secret ne me sera connu !"
+    POD_wraith_spying.200.a.failure.desc: "Défaite"
+    POD_wraith_spying.200.a.tt_failure: "[recipient.GetTitledFirstName] a résisté à ma tentative d'espionnage."
+    POD_wraith_spying.200.option.b: "Exerce ma volonté. Je connaîtrai tous les [recipient.GetHerHis] secrets !"
+
+    POD_wraith_spying.200.option.c: "Abandonnez cette entreprise, je ne souhaite plus espionner [recipient.GetHerHim]."
+    POD_wraith_spying.200.option.c.tt: "La tentative échouera."
+
+    POD_wraith_spying.300.t: "Les secrets de [recipient.GetFirstNameNoTooltip] découverts."
+    POD_wraith_spying.300.desc: "J'ai appris [recipient.GetTitledFirstNamePossessive] secrets en observant [recipient.GetHerHim]."
+    POD_wraith_spying.300.option.a: "C'est comme il se doit."
+
+    POD_wraith_spying.400.t: "Tes secrets ont été révélés"
+    POD_wraith_spying.400.desc: "Après avoir échoué à cacher vos biens et vos conversations au [actor.GetTitledFirstName], vos secrets sont désormais connus du [actor.GetHerHim]."
+    POD_wraith_spying.400.option.a: "Mes secrets ne sont plus cachés."
+
+    POD_wraith_spying.500.t: "Espionnage déjoué"
+    POD_wraith_spying.500.desc: "[recipient.GetTitledFirstName] a résisté à ma tentative d'espionnage sur [recipient.GetHerHim]."
+    POD_wraith_spying.500.option.a: "Contrarié !"
+    POD_wraith_spying.500.option.a.tt.beast: "#R Nous devons connaître [recipient.GetHerHis] secrets !#!"
+
+    POD_wraith_spying.600.t: "Espionnage déjoué"
+    POD_wraith_spying.600.desc: "[actor.GetTitledFirstName] a abandonné la tentative de [actor.GetHerHis] de voler vos secrets."
+    POD_wraith_spying.600.option.a: "Mes secrets sont en sécurité !"
+    POD_wraith_spying.600.toasttitle: "Wraith déjoué !"
+    POD_wraith_spying.600.toasttext: "Le spectre que vous avez envoyé n'a réussi à apprendre aucun des secrets de votre cible."
+    POD_wraith_spying.300.toasttitle: "Wraith réussi !"
+    POD_wraith_spying.300.toasttext: "Votre spectre a récupéré des informations précieuses pour votre usage."
+
+    turned_to_wraith: "La cible mourra et renaîtra en spectre dans votre cour. Ou, s'il s'agit déjà d'un spectre, il sera considérablement affaibli et attiré vers votre cour."

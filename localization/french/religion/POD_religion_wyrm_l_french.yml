@@ -1,232 +1,232 @@
 ﻿l_french:
   
- rf_wyrm: "Wyrm" #NT!
+ rf_wyrm: "Wyrm"
  rf_wyrm_desc: ""
   
- wyrm_religion: "Wyrm" #NT!
- wyrm_religion_adj: "Wyrm" #NT!
- wyrm_religion_adherent: "Wyrm" #NT!
- wyrm_religion_adherent_plural: "Wyrm" #NT!
- wyrm_religion_desc: "Dans la théologie des Garous, le Ver est l'un des Célestins supérieurs. Le but du Wyrm est de nettoyer et de rectifier la Création, favorisant ainsi sa descente dans l'Entropie. Il y parvient en éliminant ce que le Wyld crée et le Weaver structure.\nAvec l'avènement de l'humanité, le Wyrm a été progressivement contraint jusqu'à devenir fou, déterminé à tout détruire. Par conséquent, le Wyrm est désormais un esprit de destruction, de chaos, d’obscurité et de corruption, l’essence de tout ce à quoi les Garous s’opposent." #NT!
+ wyrm_religion: "Wyrm"
+ wyrm_religion_adj: "Wyrm"
+ wyrm_religion_adherent: "Wyrm"
+ wyrm_religion_adherent_plural: "Wyrm"
+ wyrm_religion_desc: "Dans la théologie des Garous, le Ver est l'un des Célestins supérieurs. Le but du Wyrm est de nettoyer et de rectifier la Création, favorisant ainsi sa descente dans l'Entropie. Il y parvient en éliminant ce que le Wyld crée et le Weaver structure.\nAvec l'avènement de l'humanité, le Wyrm a été progressivement contraint jusqu'à devenir fou, déterminé à tout détruire. Par conséquent, le Wyrm est désormais un esprit de destruction, de chaos, d’obscurité et de corruption, l’essence de tout ce à quoi les Garous s’opposent."
   
- wyrm_high_god_name: "Le Wyrm" #NT!
- wyrm_high_god_name_possessive: "Le Wyrm" #NT!
- wyrm_high_god_name_alternate: "Le mangeur d'âmes" #NT!
- wyrm_high_god_name_alternate_possessive: "Le mangeur d'âmes" #NT!
- wyrm_good_god_jesus: "$wyrm_health_god_name$" #NT!
- wyrm_good_god_christ: "Le profanateur" #NT!
- wyrm_devil_name: "Gaïa" #NT!
- wyrm_devil_name_possessive: "celui de Gaïa" #NT!
- wyrm_evil_god_lucifer: "Le sauvage" #NT!
- wyrm_evil_god_beelzebub: "Le tisserand" #NT!
- wyrm_evil_god_mephistopheles: "Gaïa" #NT!
- wyrm_death_deity_name: "Le Wyrm" #NT!
- wyrm_death_deity_name_possessive: "Le Wyrm" #NT!
- wyrm_house_of_worship: "caern" #NT!
- wyrm_house_of_worship_plural: "caerns" #NT!
- wyrm_religious_symbol: "glyphe" #NT!
- wyrm_religious_text: "traditions" #NT!
- wyrm_religious_head_title: "Grand prêtre" #NT!
- wyrm_religious_head_title_name: "Grand prêtre" #NT!
- wyrm_devotee_male: "Cultiste" #NT!
- wyrm_devotee_male_plural: "Cultistes" #NT!
- wyrm_devotee_female: "Cultiste" #NT!
- wyrm_devotee_female_plural: "Cultistes" #NT!
- wyrm_devotee_neuter: "Cultiste" #NT!
- wyrm_devotee_neuter_plural: "Cultistes" #NT!
- wyrm_priest_male: "Prêtre" #NT!
- wyrm_priest_male_plural: "Prêtres" #NT!
- wyrm_priest_alternate_plural: "Prêtres" #NT!
- wyrm_bishop: "Prêtre" #NT!
- wyrm_bishop_plural: "Prêtres" #NT!
- wyrm_divine_realm: "Malfaites" #NT!
- wyrm_positive_afterlife: "Malfaites" #NT!
- wyrm_negative_afterlife: "les sauvages" #NT!
- wyrm_witchgodname_the_horned_god: "Profanateur" #NT!
- wyrm_witchgodname_the_horned_god_possessive: "Profanateur" #NT!
+ wyrm_high_god_name: "Le Wyrm"
+ wyrm_high_god_name_possessive: "Le Wyrm"
+ wyrm_high_god_name_alternate: "Le mangeur d'âmes"
+ wyrm_high_god_name_alternate_possessive: "Le mangeur d'âmes"
+ wyrm_good_god_jesus: "$wyrm_health_god_name$"
+ wyrm_good_god_christ: "Le profanateur"
+ wyrm_devil_name: "Gaïa"
+ wyrm_devil_name_possessive: "celui de Gaïa"
+ wyrm_evil_god_lucifer: "Le sauvage"
+ wyrm_evil_god_beelzebub: "Le tisserand"
+ wyrm_evil_god_mephistopheles: "Gaïa"
+ wyrm_death_deity_name: "Le Wyrm"
+ wyrm_death_deity_name_possessive: "Le Wyrm"
+ wyrm_house_of_worship: "caern"
+ wyrm_house_of_worship_plural: "caerns"
+ wyrm_religious_symbol: "glyphe"
+ wyrm_religious_text: "traditions"
+ wyrm_religious_head_title: "Grand prêtre"
+ wyrm_religious_head_title_name: "Grand prêtre"
+ wyrm_devotee_male: "Cultiste"
+ wyrm_devotee_male_plural: "Cultistes"
+ wyrm_devotee_female: "Cultiste"
+ wyrm_devotee_female_plural: "Cultistes"
+ wyrm_devotee_neuter: "Cultiste"
+ wyrm_devotee_neuter_plural: "Cultistes"
+ wyrm_priest_male: "Prêtre"
+ wyrm_priest_male_plural: "Prêtres"
+ wyrm_priest_alternate_plural: "Prêtres"
+ wyrm_bishop: "Prêtre"
+ wyrm_bishop_plural: "Prêtres"
+ wyrm_divine_realm: "Malfaites"
+ wyrm_positive_afterlife: "Malfaites"
+ wyrm_negative_afterlife: "les sauvages"
+ wyrm_witchgodname_the_horned_god: "Profanateur"
+ wyrm_witchgodname_the_horned_god_possessive: "Profanateur"
   
- wyrm_creator_god_name: "$wyrm_high_god_name$" #NT!
- wyrm_creator_god_name_possessive: "$wyrm_high_god_name_possessive$" #NT!
- wyrm_health_god_name: "esprit" #NT!
- wyrm_health_god_name_possessive: "l'esprit" #NT!
- wyrm_fertility_god_name: "Karnala" #NT!
- wyrm_fertility_god_name_possessive: "Karnala" #NT!
- wyrm_wealth_god_name: "Vorus" #NT!
- wyrm_wealth_god_name_possessive: "Vorus'" #NT!
- wyrm_household_god_name: "$wyrm_health_god_name$" #NT!
- wyrm_household_god_name_possessive: "$wyrm_health_god_name_possessive$" #NT!
- wyrm_fate_god_name: "$wyrm_high_god_name$" #NT!
- wyrm_fate_god_name_possessive: "$wyrm_high_god_name_possessive$" #NT!
- wyrm_knowledge_god_name: "$wyrm_high_god_name$" #NT!
- wyrm_knowledge_god_name_possessive: "$wyrm_high_god_name_possessive$" #NT!
- wyrm_war_god_name: "Bête de guerre" #NT!
- wyrm_war_god_name_possessive: "Bête de guerre" #NT!
- wyrm_trickster_god_name: "Pseulak" #NT!
- wyrm_trickster_god_name_possessive: "Pseulak" #NT!
- wyrm_night_god_name: "Foebok" #NT!
- wyrm_night_god_name_possessive: "Foebok" #NT!
- wyrm_water_god_name: "Wakshaa" #NT!
- wyrm_water_god_name_possessive: "Wakshaa" #NT!
+ wyrm_creator_god_name: "$wyrm_high_god_name$"
+ wyrm_creator_god_name_possessive: "$wyrm_high_god_name_possessive$"
+ wyrm_health_god_name: "esprit"
+ wyrm_health_god_name_possessive: "l'esprit"
+ wyrm_fertility_god_name: "Karnala"
+ wyrm_fertility_god_name_possessive: "Karnala"
+ wyrm_wealth_god_name: "Vorus"
+ wyrm_wealth_god_name_possessive: "Vorus'"
+ wyrm_household_god_name: "$wyrm_health_god_name$"
+ wyrm_household_god_name_possessive: "$wyrm_health_god_name_possessive$"
+ wyrm_fate_god_name: "$wyrm_high_god_name$"
+ wyrm_fate_god_name_possessive: "$wyrm_high_god_name_possessive$"
+ wyrm_knowledge_god_name: "$wyrm_high_god_name$"
+ wyrm_knowledge_god_name_possessive: "$wyrm_high_god_name_possessive$"
+ wyrm_war_god_name: "Bête de guerre"
+ wyrm_war_god_name_possessive: "Bête de guerre"
+ wyrm_trickster_god_name: "Pseulak"
+ wyrm_trickster_god_name_possessive: "Pseulak"
+ wyrm_night_god_name: "Foebok"
+ wyrm_night_god_name_possessive: "Foebok"
+ wyrm_water_god_name: "Wakshaa"
+ wyrm_water_god_name_possessive: "Wakshaa"
   
- wyrm: "Le Wyrm" #NT!
- wyrm_adj: "Wyrm" #NT!
- wyrm_adherent: "Entaché" #NT!
- wyrm_adherent_plural: "Entaché" #NT!
- wyrm_desc: "Dans la théologie des Garous, le Ver est l'un des Célestins supérieurs. Le but du Wyrm est de nettoyer et de rectifier la Création, favorisant ainsi sa descente dans l'Entropie. Il y parvient en éliminant ce que le Wyld crée et le Weaver structure.\nAvec l'avènement de l'humanité, le Wyrm a été progressivement contraint jusqu'à devenir fou, déterminé à tout détruire. Par conséquent, le Wyrm est désormais un esprit de destruction, de chaos, d’obscurité et de corruption, l’essence de tout ce à quoi les Garous s’opposent." #NT!
+ wyrm: "Le Wyrm"
+ wyrm_adj: "Wyrm"
+ wyrm_adherent: "Entaché"
+ wyrm_adherent_plural: "Entaché"
+ wyrm_desc: "Dans la théologie des Garous, le Ver est l'un des Célestins supérieurs. Le but du Wyrm est de nettoyer et de rectifier la Création, favorisant ainsi sa descente dans l'Entropie. Il y parvient en éliminant ce que le Wyld crée et le Weaver structure.\nAvec l'avènement de l'humanité, le Wyrm a été progressivement contraint jusqu'à devenir fou, déterminé à tout détruire. Par conséquent, le Wyrm est désormais un esprit de destruction, de chaos, d’obscurité et de corruption, l’essence de tout ce à quoi les Garous s’opposent."
   
- beastofwar: "Bête de guerre" #NT!
- beastofwar_adj: "Calamité" #NT!
- beastofwar_adherent: "Guerrier" #NT!
- beastofwar_adherent_plural: "Guerriers" #NT!
- beastofwar_desc: "Beast-of-War est l'une des trois têtes du Triatic Wyrm. C'est le Ver de la Calamité, un monstre d'une rage insensée, prêt à tout détruire sur son passage. Une rage illimitée l’alimente et des instincts destructeurs le guident. Ses serviteurs vont des troupes de choc autodestructrices qui se lancent pêle-mêle dans la bataille aux brutes imposantes qui adorent maîtriser et anéantir leurs victimes. Agissant par l’intermédiaire des humains, la Bête de Guerre peut dégénérer une saine compétition en conflit brutal, aboutissant à une soif de sang qui ne fait aucune distinction entre amis et ennemis." #NT!
+ beastofwar: "Bête de guerre"
+ beastofwar_adj: "Calamité"
+ beastofwar_adherent: "Guerrier"
+ beastofwar_adherent_plural: "Guerriers"
+ beastofwar_desc: "Beast-of-War est l'une des trois têtes du Triatic Wyrm. C'est le Ver de la Calamité, un monstre d'une rage insensée, prêt à tout détruire sur son passage. Une rage illimitée l’alimente et des instincts destructeurs le guident. Ses serviteurs vont des troupes de choc autodestructrices qui se lancent pêle-mêle dans la bataille aux brutes imposantes qui adorent maîtriser et anéantir leurs victimes. Agissant par l’intermédiaire des humains, la Bête de Guerre peut dégénérer une saine compétition en conflit brutal, aboutissant à une soif de sang qui ne fait aucune distinction entre amis et ennemis."
   
- eaterofsouls: "Mangeur d'âmes" #NT!
- eaterofsouls_adj: "Mangeur d'âmes" #NT!
- eaterofsouls_adherent: "Mangeur" #NT!
- eaterofsouls_adherent_plural: "Mangeurs" #NT!
- eaterofsouls_desc: "L'un des trois aspects du Wyrm Triatique, le Wyrm de Consommation qui cherche à dévorer toute la création, se régalant de matière, d'énergie et d'esprit avec le même plaisir. Le Mangeur d'Âmes se rassasie et se gonfle tout en se nourrissant des saletés du monde. Le Mangeur d'âmes est une parodie du besoin du Tisserand fou de tout contenir sous son influence : il est inconsidérément poussé à dévorer toute la création dans une tentative désespérée de détruire un cosmos intrinsèquement brisé." #NT!
+ eaterofsouls: "Mangeur d'âmes"
+ eaterofsouls_adj: "Mangeur d'âmes"
+ eaterofsouls_adherent: "Mangeur"
+ eaterofsouls_adherent_plural: "Mangeurs"
+ eaterofsouls_desc: "L'un des trois aspects du Wyrm Triatique, le Wyrm de Consommation qui cherche à dévorer toute la création, se régalant de matière, d'énergie et d'esprit avec le même plaisir. Le Mangeur d'Âmes se rassasie et se gonfle tout en se nourrissant des saletés du monde. Le Mangeur d'âmes est une parodie du besoin du Tisserand fou de tout contenir sous son influence : il est inconsidérément poussé à dévorer toute la création dans une tentative désespérée de détruire un cosmos intrinsèquement brisé."
   
- defiler: "Profanateur" #NT!
- defiler_adj: "la corruption" #NT!
- defiler_adherent: "Profanateur" #NT!
- defiler_adherent_plural: "Profanateurs" #NT!
- defiler_desc: "Le Profanateur est une entité intrigante de ruine et de décadence, une manifestation de toutes les impulsions et instincts corrupteurs existants. Le Profanateur conquiert en tentant sa proie de succomber à ses propres instincts vils, conduisant les profanés à prendre des risques inconsidérés. Ses victimes empruntent un chemin obscur allant du choix personnel à l’anéantissement de soi. Certains Seigneurs de l'Ombre affirment que la première victime du Profanateur était lui-même. Ils disent qu’il est désormais motivé par son propre dégoût de soi, croyant bêtement que s’il souille tout, il reprendra le contrôle et rétablira l’équilibre." #NT!
+ defiler: "Profanateur"
+ defiler_adj: "la corruption"
+ defiler_adherent: "Profanateur"
+ defiler_adherent_plural: "Profanateurs"
+ defiler_desc: "Le Profanateur est une entité intrigante de ruine et de décadence, une manifestation de toutes les impulsions et instincts corrupteurs existants. Le Profanateur conquiert en tentant sa proie de succomber à ses propres instincts vils, conduisant les profanés à prendre des risques inconsidérés. Ses victimes empruntent un chemin obscur allant du choix personnel à l’anéantissement de soi. Certains Seigneurs de l'Ombre affirment que la première victime du Profanateur était lui-même. Ils disent qu’il est désormais motivé par son propre dégoût de soi, croyant bêtement que s’il souille tout, il reprendra le contrôle et rétablira l’équilibre."
   
  # Seventh Generation might be a bit much for the mod. Maybe we need a Black Dog game rule. 
   
- # "A Wyrm cult involved in the ritual abuse of children, it encouraged child abuse in order to damage children so much that when they grew up, they would not only perpetuate the cycle, they would also be ripe for corruption by the Wyrm. They serve the Defiler, the Wyrm of Corruption." "Culte du Wyrm impliqué dans la maltraitance rituelle des enfants, il encourageait la maltraitance des enfants afin de leur nuire tellement que lorsqu'ils grandiraient, ils perpétueraient non seulement le cycle, mais ils seraient également mûrs pour la corruption par le Wyrm. Ils servent le Profanateur, le Ver de la Corruption." #NT!
+ # "A Wyrm cult involved in the ritual abuse of children, it encouraged child abuse in order to damage children so much that when they grew up, they would not only perpetuate the cycle, they would also be ripe for corruption by the Wyrm. They serve the Defiler, the Wyrm of Corruption." "Culte du Wyrm impliqué dans la maltraitance rituelle des enfants, il encourageait la maltraitance des enfants afin de leur nuire tellement que lorsqu'ils grandiraient, ils perpétueraient non seulement le cycle, mais ils seraient également mûrs pour la corruption par le Wyrm. Ils servent le Profanateur, le Ver de la Corruption."
   
- foebok: "Foebok" #NT!
- foebok_adj: "Peur" #NT!
- foebok_adherent: "Craignait" #NT!
- foebok_adherent_plural: "Craignait" #NT!
- foebok_desc: "La peur est l’émotion la plus forte et la plus ancienne que l’humanité connaisse. Le Wyrm n'est pas différent de cette manière : réalisant qu'il était piégé, il a paniqué et c'est ainsi qu'est née cette envie. La peur peut pousser n’importe quelle créature à commettre les choses les plus terribles. Tous les aspects du Wyrm Triatique semblent exprimer la peur, et aucun Maeljin ne la sert vraiment, car la peur est dans tout. Cependant, lorsque les Danseurs de la Spirale Noire souhaitent s'approcher de Foebok, ils font appel à Hakaken, le « Cœur de la peur »." #NT!
+ foebok: "Foebok"
+ foebok_adj: "Peur"
+ foebok_adherent: "Craignait"
+ foebok_adherent_plural: "Craignait"
+ foebok_desc: "La peur est l’émotion la plus forte et la plus ancienne que l’humanité connaisse. Le Wyrm n'est pas différent de cette manière : réalisant qu'il était piégé, il a paniqué et c'est ainsi qu'est née cette envie. La peur peut pousser n’importe quelle créature à commettre les choses les plus terribles. Tous les aspects du Wyrm Triatique semblent exprimer la peur, et aucun Maeljin ne la sert vraiment, car la peur est dans tout. Cependant, lorsque les Danseurs de la Spirale Noire souhaitent s'approcher de Foebok, ils font appel à Hakaken, le « Cœur de la peur »."
   
- mouthofvorax: "Bouche du Vorax" #NT!
- mouthofvorax_adj: "Avidité" #NT!
- mouthofvorax_adherent: "Bouche du Vorax" #NT!
- mouthofvorax_adherent_plural: "Bouches du Vorax" #NT!
- mouthofvorax_desc: "La Bouche du Vorax, un culte dédié au démon "Vorax" - le Vorus Urge-Wyrm. Il est centré sur le cannibalisme rituel.\nNé d'une tentative désespérée de ramener la création sous son contrôle, Vorus s'empare de tout ce qui est à sa portée. Il ne se soucie pas de savoir pourquoi il a ce qu'il gagne, mais simplement de savoir qu'il l'a. Il n'y a pas de Maeljin pour cette envie, à cause de la nature de la bête. Abandonner quelque chose de vous-même pour imprégner un humain de votre pouvoir signifie que vous avez moins de quelque chose. Les danseurs invoquent Relshab, le "Mangeur sans visage", pour intercéder en leur faveur auprès de ce Wyrm.\nIl est connu de l'Inquisition de l'Ombre sous le nom de péché mortel : "Avaritia"." #NT!
+ mouthofvorax: "Bouche du Vorax"
+ mouthofvorax_adj: "Avidité"
+ mouthofvorax_adherent: "Bouche du Vorax"
+ mouthofvorax_adherent_plural: "Bouches du Vorax"
+ mouthofvorax_desc: "La Bouche du Vorax, un culte dédié au démon "Vorax" - le Vorus Urge-Wyrm. Il est centré sur le cannibalisme rituel.\nNé d'une tentative désespérée de ramener la création sous son contrôle, Vorus s'empare de tout ce qui est à sa portée. Il ne se soucie pas de savoir pourquoi il a ce qu'il gagne, mais simplement de savoir qu'il l'a. Il n'y a pas de Maeljin pour cette envie, à cause de la nature de la bête. Abandonner quelque chose de vous-même pour imprégner un humain de votre pouvoir signifie que vous avez moins de quelque chose. Les danseurs invoquent Relshab, le "Mangeur sans visage", pour intercéder en leur faveur auprès de ce Wyrm.\nIl est connu de l'Inquisition de l'Ombre sous le nom de péché mortel : "Avaritia"."
   
- mahsstrac: "Mahsstrac" #NT!
- mahsstrac_adj: "Pouvoir" #NT!
- mahsstrac_adherent: "Ambitieux" #NT!
- mahsstrac_adherent_plural: "Ambitieux" #NT!
- mahsstrac_desc: "L'un des plus jeunes et peut-être le plus évolué, Mahsstrac est né de la prise de conscience du Wyrm qu'il était impuissant à faire quoi que ce soit lorsqu'il était emprisonné et qu'il ne pouvait influencer le monde extérieur qu'en manipulant des entités inférieures pour qu'elles exécutent ses ordres. Il cultive un sentiment d’autorité et de leadership chez ses cibles, les amenant à rechercher la domination et le contrôle comme moyen d’atteindre leurs objectifs. Ils deviennent des tyrans et des dictateurs brutaux. Encore une fois, cette Urge particulière n'a pas besoin d'un serviteur Maeljin, car elle peut fonctionner de manière autonome. Les spirales font appel au puissant et bien connu totem Incarna, connu sous le nom de Dragon Vert, "Destructeur de vie et broyeur d'ennemis".\nEn latin, il est appelé "Superbia", un péché mortel de l'Église catholique." #NT!
+ mahsstrac: "Mahsstrac"
+ mahsstrac_adj: "Pouvoir"
+ mahsstrac_adherent: "Ambitieux"
+ mahsstrac_adherent_plural: "Ambitieux"
+ mahsstrac_desc: "L'un des plus jeunes et peut-être le plus évolué, Mahsstrac est né de la prise de conscience du Wyrm qu'il était impuissant à faire quoi que ce soit lorsqu'il était emprisonné et qu'il ne pouvait influencer le monde extérieur qu'en manipulant des entités inférieures pour qu'elles exécutent ses ordres. Il cultive un sentiment d’autorité et de leadership chez ses cibles, les amenant à rechercher la domination et le contrôle comme moyen d’atteindre leurs objectifs. Ils deviennent des tyrans et des dictateurs brutaux. Encore une fois, cette Urge particulière n'a pas besoin d'un serviteur Maeljin, car elle peut fonctionner de manière autonome. Les spirales font appel au puissant et bien connu totem Incarna, connu sous le nom de Dragon Vert, "Destructeur de vie et broyeur d'ennemis".\nEn latin, il est appelé "Superbia", un péché mortel de l'Église catholique."
   
- karnala: "Karnala" #NT!
- karnala_adj: "Luxure" #NT!
- karnala_adherent: "Lubrique" #NT!
- karnala_adherent_plural: "Lubrique" #NT!
- karnala_desc: "Le Grand Serpent étant piégé par la toile du Tisserand, le Serpent aspirait à la libération, à la liberté, à ce qu'il voulait plus que toute autre chose. À mesure que ce désir grandissait, Karnala grandissait également. L'objet de ce désir était perdu, car Karnala était capable de gagner la liberté, tandis que le Wyrm était laissé pourrir. Karnala représente l'état de désir, le désir de n'importe quoi : un objet, une émotion, une personne ou un lieu. Ceux qui sont touchés par cette envie ont du mal à voir au-delà de leur propre satisfaction. Bientôt, ils sont consumés par leur propre désir et essaient non seulement de posséder ce qu’ils veulent, mais aussi de devenir cette chose, favorisant ainsi leur désir sans fin. La Maeljin Incarna au service de cette envie est l'impératrice Aliara, la comtesse du Désir." #NT!
+ karnala: "Karnala"
+ karnala_adj: "Luxure"
+ karnala_adherent: "Lubrique"
+ karnala_adherent_plural: "Lubrique"
+ karnala_desc: "Le Grand Serpent étant piégé par la toile du Tisserand, le Serpent aspirait à la libération, à la liberté, à ce qu'il voulait plus que toute autre chose. À mesure que ce désir grandissait, Karnala grandissait également. L'objet de ce désir était perdu, car Karnala était capable de gagner la liberté, tandis que le Wyrm était laissé pourrir. Karnala représente l'état de désir, le désir de n'importe quoi : un objet, une émotion, une personne ou un lieu. Ceux qui sont touchés par cette envie ont du mal à voir au-delà de leur propre satisfaction. Bientôt, ils sont consumés par leur propre désir et essaient non seulement de posséder ce qu’ils veulent, mais aussi de devenir cette chose, favorisant ainsi leur désir sans fin. La Maeljin Incarna au service de cette envie est l'impératrice Aliara, la comtesse du Désir."
   
- abhorra: "Abhorra" #NT!
- abhorra_adj: "Détester" #NT!
- abhorra_adherent: "Odieux" #NT!
- abhorra_adherent_plural: "Détester" #NT!
- abhorra_desc: "Le Wyrm a beaucoup de ressentiment, et à mesure que ce ressentiment s'est nourri sur lui-même, il a rapidement gagné suffisamment d'énergie pour se libérer, devenant non seulement l'émotion racine de la malveillance, mais aussi un dégoût de soi inné qui se retourne contre les autres. Touchés par cette envie, les mortels sont repoussés par une personne, ou un groupe de personnes, des situations ou même des choses mineures qui leur rappellent leurs imperfections. Ils deviennent de plus en plus agressifs, faisant de grands efforts pour provoquer des hostilités contre ceux qu'ils détestent. Le duc de la haine, Lord Steel, est Maeljin dans cette envie.\nMalgré son bellicisme lors des Croisades, l'Église catholique considère la colère comme un péché mortel — qu'elle appelle « Ira »." #NT!
+ abhorra: "Abhorra"
+ abhorra_adj: "Détester"
+ abhorra_adherent: "Odieux"
+ abhorra_adherent_plural: "Détester"
+ abhorra_desc: "Le Wyrm a beaucoup de ressentiment, et à mesure que ce ressentiment s'est nourri sur lui-même, il a rapidement gagné suffisamment d'énergie pour se libérer, devenant non seulement l'émotion racine de la malveillance, mais aussi un dégoût de soi inné qui se retourne contre les autres. Touchés par cette envie, les mortels sont repoussés par une personne, ou un groupe de personnes, des situations ou même des choses mineures qui leur rappellent leurs imperfections. Ils deviennent de plus en plus agressifs, faisant de grands efforts pour provoquer des hostilités contre ceux qu'ils détestent. Le duc de la haine, Lord Steel, est Maeljin dans cette envie.\nMalgré son bellicisme lors des Croisades, l'Église catholique considère la colère comme un péché mortel — qu'elle appelle « Ira »."
   
- angu: "Angé" #NT!
- angu_adj: "Cruauté" #NT!
- angu_adherent: "Cruel" #NT!
- angu_adherent_plural: "Cruel" #NT!
- angu_desc: "Bien plus abstrait et complexe que la plupart des autres Wyrms Urge, Angu est arrivé bien plus tard que la plupart des autres. On pense qu’il est dérivé d’Abhorra. Lorsqu’elle a expliqué pour la première fois son état d’emprisonnement et d’angoisse à des alliés potentiels, elle a constaté qu’elle ne pouvait pas s’exprimer de manière suffisamment adéquate. Au lieu de cela, il souhaitait trouver un moyen de leur montrer ce qu’il vivait et ce qu’il ressentait. Angu a rendu cela possible. Agissant à un niveau subconscient, il pousse ses victimes à ignorer leur empathie et leur compréhension de la douleur des autres êtres. Ceux qui sont possédés par cette envie apprennent à infliger toutes les formes d'abus : mentaux, physiques ou même émotionnels." #NT!
+ angu: "Angé"
+ angu_adj: "Cruauté"
+ angu_adherent: "Cruel"
+ angu_adherent_plural: "Cruel"
+ angu_desc: "Bien plus abstrait et complexe que la plupart des autres Wyrms Urge, Angu est arrivé bien plus tard que la plupart des autres. On pense qu’il est dérivé d’Abhorra. Lorsqu’elle a expliqué pour la première fois son état d’emprisonnement et d’angoisse à des alliés potentiels, elle a constaté qu’elle ne pouvait pas s’exprimer de manière suffisamment adéquate. Au lieu de cela, il souhaitait trouver un moyen de leur montrer ce qu’il vivait et ce qu’il ressentait. Angu a rendu cela possible. Agissant à un niveau subconscient, il pousse ses victimes à ignorer leur empathie et leur compréhension de la douleur des autres êtres. Ceux qui sont possédés par cette envie apprennent à infliger toutes les formes d'abus : mentaux, physiques ou même émotionnels."
   
- baashkai: "Ba'ashkai" #NT!
- baashkai_adj: "Violence" #NT!
- baashkai_adherent: "Violent" #NT!
- baashkai_adherent_plural: "Violent" #NT!
- baashkai_desc: "Basique, grossier et insensé sont des mots décrivant cette envie. Elle naît d’une compulsion enracinée de poursuivre le conflit longtemps après que son objectif de fuite ait été atteint. Bien qu’il puisse brouiller le jugement des autres, il ne peut pas faire grand-chose pour s’imposer à quelqu’un qui le rejette consciemment. Cependant, avec toutes les autres envies, il peut facilement provoquer et amener les mortels à lui donner une entrée dans leur âme. Chef de la rage, général des armées du Wyrm et patron des abus, le Hellbringer est le moteur de la brutalité de Ba'ashkai." #NT!
+ baashkai: "Ba'ashkai"
+ baashkai_adj: "Violence"
+ baashkai_adherent: "Violent"
+ baashkai_adherent_plural: "Violent"
+ baashkai_desc: "Basique, grossier et insensé sont des mots décrivant cette envie. Elle naît d’une compulsion enracinée de poursuivre le conflit longtemps après que son objectif de fuite ait été atteint. Bien qu’il puisse brouiller le jugement des autres, il ne peut pas faire grand-chose pour s’imposer à quelqu’un qui le rejette consciemment. Cependant, avec toutes les autres envies, il peut facilement provoquer et amener les mortels à lui donner une entrée dans leur âme. Chef de la rage, général des armées du Wyrm et patron des abus, le Hellbringer est le moteur de la brutalité de Ba'ashkai."
   
- khaaloobh: "Khaaloobh" #NT!
- khaaloobh_adj: "Consommation" #NT!
- khaaloobh_adherent: "Spore" #NT!
- khaaloobh_adherent_plural: "Spores" #NT!
- khaaloobh_desc: "Vaguement compris, et seulement selon la rumeur, Khaaloobh a été décrit comme l'envie de consommation, d'indulgence et de décadence. Lorsque le Wyrm convulsa suffisamment fort dans les toiles, il déforma la zone immédiate qui l'entourait. Cela signifie une rupture de l’ordre qui l’entoure. Et même s’il n’est pas cassé, le Web n’est définitivement pas en ordre. Cette envie affecte même les serviteurs du Wyrm, les provoquant à s'effondrer, que ce soit mentalement, émotionnellement ou même physiquement. Les danseurs se tournent vers Dark Fungus lorsqu'ils veulent atteindre cette envie et son Maeljin est connu sous le nom de Knight Entropy, le Spawn du Wyrm." #NT!
+ khaaloobh: "Khaaloobh"
+ khaaloobh_adj: "Consommation"
+ khaaloobh_adherent: "Spore"
+ khaaloobh_adherent_plural: "Spores"
+ khaaloobh_desc: "Vaguement compris, et seulement selon la rumeur, Khaaloobh a été décrit comme l'envie de consommation, d'indulgence et de décadence. Lorsque le Wyrm convulsa suffisamment fort dans les toiles, il déforma la zone immédiate qui l'entourait. Cela signifie une rupture de l’ordre qui l’entoure. Et même s’il n’est pas cassé, le Web n’est définitivement pas en ordre. Cette envie affecte même les serviteurs du Wyrm, les provoquant à s'effondrer, que ce soit mentalement, émotionnellement ou même physiquement. Les danseurs se tournent vers Dark Fungus lorsqu'ils veulent atteindre cette envie et son Maeljin est connu sous le nom de Knight Entropy, le Spawn du Wyrm."
   
- pseulak: "Pseulak" #NT!
- pseulak_adj: "Tromperie" #NT!
- pseulak_adherent: "Trompeur" #NT!
- pseulak_adherent_plural: "Les trompeurs" #NT!
- pseulak_desc: "Au moment où le Wyrm a commencé à nier ce qui lui était arrivé et qu'il ne serait pas bientôt libéré, cette envie s'est manifestée, pleinement formée avec une vie qui lui est propre. Bien que la tromperie soit une tactique de survie naturelle, Pseulak porte la question à un autre niveau. Cela encourage les autres à mentir, et à le faire avec de plus en plus de facilité, soit en se sentant à l'aise dans les mensonges qu'ils ont lancés, soit en complétant davantage de mensonges pour dissimuler les mensonges. Bientôt, ils se retrouveront à croire leurs propres mensonges. La tribu Déchue fait appel à cette envie avec Kirijama, « l'ennemi caché », et son Maeljin est l'avocat de la corruption, le chambellan des mensonges, l'honorable Maine duBois, écuyer." #NT!
+ pseulak: "Pseulak"
+ pseulak_adj: "Tromperie"
+ pseulak_adherent: "Trompeur"
+ pseulak_adherent_plural: "Les trompeurs"
+ pseulak_desc: "Au moment où le Wyrm a commencé à nier ce qui lui était arrivé et qu'il ne serait pas bientôt libéré, cette envie s'est manifestée, pleinement formée avec une vie qui lui est propre. Bien que la tromperie soit une tactique de survie naturelle, Pseulak porte la question à un autre niveau. Cela encourage les autres à mentir, et à le faire avec de plus en plus de facilité, soit en se sentant à l'aise dans les mensonges qu'ils ont lancés, soit en complétant davantage de mensonges pour dissimuler les mensonges. Bientôt, ils se retrouveront à croire leurs propres mensonges. La tribu Déchue fait appel à cette envie avec Kirijama, « l'ennemi caché », et son Maeljin est l'avocat de la corruption, le chambellan des mensonges, l'honorable Maine duBois, écuyer."
   
- sykora: "Sykora" #NT!
- sykora_adj: "Paranoïa" #NT!
- sykora_adherent: "Paranoïaque" #NT!
- sykora_adherent_plural: "Paranoïaques" #NT!
- sykora_desc: "L'envie de paranoïa s'est formée lorsque le ver a senti pour la première fois la rupture de son lien avec le reste de la création, et avec le monde contre lui est venue sa propre méfiance personnelle. Sykora se cache dans les ombres de l'esprit, entre les sens irréconciliables de la façon dont les choses devraient être et telles qu'elles sont réellement. Dans cet espace, il construit des constructions mentales complexes et irrationnelles qui vont à l’encontre de la pensée rationnelle, poussant les gens à se replier sur eux-mêmes ou à s’en prendre à ceux qui ne sont pas d’accord avec leur notion de réalité. Les Black Spirals contactent cette envie en utilisant le totem tribal Whippoorwill et l'archevêque de la folie, Doge Klypse, est son Maeljin." #NT!
+ sykora: "Sykora"
+ sykora_adj: "Paranoïa"
+ sykora_adherent: "Paranoïaque"
+ sykora_adherent_plural: "Paranoïaques"
+ sykora_desc: "L'envie de paranoïa s'est formée lorsque le ver a senti pour la première fois la rupture de son lien avec le reste de la création, et avec le monde contre lui est venue sa propre méfiance personnelle. Sykora se cache dans les ombres de l'esprit, entre les sens irréconciliables de la façon dont les choses devraient être et telles qu'elles sont réellement. Dans cet espace, il construit des constructions mentales complexes et irrationnelles qui vont à l’encontre de la pensée rationnelle, poussant les gens à se replier sur eux-mêmes ou à s’en prendre à ceux qui ne sont pas d’accord avec leur notion de réalité. Les Black Spirals contactent cette envie en utilisant le totem tribal Whippoorwill et l'archevêque de la folie, Doge Klypse, est son Maeljin."
   
- cultofdespair: "Culte du désespoir" #NT!
- cultofdespair_adj: "Désespoir" #NT!
- cultofdespair_adherent: "Désespéré" #NT!
- cultofdespair_adherent_plural: "Désespéré" #NT!
- cultofdespair_desc: "Un culte dédié à l'Ange Sans Nom du Désespoir, un terme générique désignant un certain nombre de sectes et de groupes marginaux qui se sont suicidés en masse en son nom.\nFinalement épuisé par sa lutte contre les toiles, le Wyrm a perdu tout espoir d'obtenir la moindre liberté. Cela n'a fait qu'accélérer la corruption, la décadence, la dégradation et les pertes généralisées provoquées par les autres chefs de l'Hydre. Gree, le Wyrm Urge du Désespoir, mange à sa guise, éliminant l'espoir de s'améliorer un jour et nous obligeant à nous concentrer sur nos erreurs. Le désespoir les ronge et ils renoncent lentement à essayer quoi que ce soit." #NT!
+ cultofdespair: "Culte du désespoir"
+ cultofdespair_adj: "Désespoir"
+ cultofdespair_adherent: "Désespéré"
+ cultofdespair_adherent_plural: "Désespéré"
+ cultofdespair_desc: "Un culte dédié à l'Ange Sans Nom du Désespoir, un terme générique désignant un certain nombre de sectes et de groupes marginaux qui se sont suicidés en masse en son nom.\nFinalement épuisé par sa lutte contre les toiles, le Wyrm a perdu tout espoir d'obtenir la moindre liberté. Cela n'a fait qu'accélérer la corruption, la décadence, la dégradation et les pertes généralisées provoquées par les autres chefs de l'Hydre. Gree, le Wyrm Urge du Désespoir, mange à sa guise, éliminant l'espoir de s'améliorer un jour et nous obligeant à nous concentrer sur nos erreurs. Le désespoir les ronge et ils renoncent lentement à essayer quoi que ce soit."
   
- lethargg: "Léthargg" #NT!
- lethargg_adj: "Apathie" #NT!
- lethargg_adherent: "Paresseux" #NT!
- lethargg_adherent_plural: "Paresseux" #NT!
- lethargg_desc: "Considéré comme l'enfant de Gree, cette envie est venue après le désespoir. N'ayant rien d'autre à faire que d'attendre, le Wyrm ne se souciait plus de son véritable sort. Comme dans le cas du désespoir, les victimes ne savent plus quoi faire. Se coupant de leurs émotions, ils envisagent des pensées suicidaires, sans se soucier ou peu de ceux qu'elles pourraient affecter. Bien que certains y voient le maillon le plus faible de la chaîne des Urges, son plus grand mal est peut-être lorsque personne ne prend la peine de faire quoi que ce soit pour aider ces âmes. Le Maeljin de cette urgence est le Maître de la stagnation, le Seigneur de la maladie, le Thurifuge.\nL'Église catholique considère Lethargg comme le péché mortel de la paresse, qu'elle appelle « Acédie »." #NT!
+ lethargg: "Léthargg"
+ lethargg_adj: "Apathie"
+ lethargg_adherent: "Paresseux"
+ lethargg_adherent_plural: "Paresseux"
+ lethargg_desc: "Considéré comme l'enfant de Gree, cette envie est venue après le désespoir. N'ayant rien d'autre à faire que d'attendre, le Wyrm ne se souciait plus de son véritable sort. Comme dans le cas du désespoir, les victimes ne savent plus quoi faire. Se coupant de leurs émotions, ils envisagent des pensées suicidaires, sans se soucier ou peu de ceux qu'elles pourraient affecter. Bien que certains y voient le maillon le plus faible de la chaîne des Urges, son plus grand mal est peut-être lorsque personne ne prend la peine de faire quoi que ce soit pour aider ces âmes. Le Maeljin de cette urgence est le Maître de la stagnation, le Seigneur de la maladie, le Thurifuge.\nL'Église catholique considère Lethargg comme le péché mortel de la paresse, qu'elle appelle « Acédie »."
   
- hrugg: "H'rugg" #NT!
- hrugg_adj: "Boue" #NT!
- hrugg_adherent: "Boue" #NT!
- hrugg_adherent_plural: "Boues" #NT!
- hrugg_desc: "L'Essence de Boue est un esprit élémentaire du Wyrm. H'rugg est la contrepartie déformée de l'élément terre et est composé des parties solides de la forme du Wyrm. Sa nature corrosive transforme tout ce qu'il touche en boue. Sous une forme plus diluée, il est toxique et provoque des maladies, tant physiques que mentales. Cela amène les victimes à s’accrocher à leurs croyances même lorsqu’on leur présente des preuves claires qui les réfutent." #NT!
+ hrugg: "H'rugg"
+ hrugg_adj: "Boue"
+ hrugg_adherent: "Boue"
+ hrugg_adherent_plural: "Boues"
+ hrugg_desc: "L'Essence de Boue est un esprit élémentaire du Wyrm. H'rugg est la contrepartie déformée de l'élément terre et est composé des parties solides de la forme du Wyrm. Sa nature corrosive transforme tout ce qu'il touche en boue. Sous une forme plus diluée, il est toxique et provoque des maladies, tant physiques que mentales. Cela amène les victimes à s’accrocher à leurs croyances même lorsqu’on leur présente des preuves claires qui les réfutent."
   
- hoga: "Hoga" #NT!
- hoga_adj: "Smog" #NT!
- hoga_adherent: "Tousseur" #NT!
- hoga_adherent_plural: "Tousseurs" #NT!
- hoga_desc: "L'Essence du Smog est un esprit élémentaire du Wyrm. Hoga est la version corrompue de l’élément air, composé des parties gazeuses du corps du Wyrm. Ses vapeurs nocives empoisonnent ou corrompent les créatures qui le respirent. Cet élément se manifeste dans le monde physique et le sombre Moyen Âge à partir des fumées prophétiques de l'Oracle de Delphes, des divers gouffres formant des "Fosses de l'Enfer", de la fumée nauséabonde de la poix brûlante des sièges de château et des rituels fumants de divers cultes mystérieux. Une exposition limitée produit un essoufflement et des pensées confuses, tandis que des quantités plus importantes provoquent des troubles respiratoires comme l'asthme et des maladies pulmonaires mortelles." #NT!
+ hoga: "Hoga"
+ hoga_adj: "Smog"
+ hoga_adherent: "Tousseur"
+ hoga_adherent_plural: "Tousseurs"
+ hoga_desc: "L'Essence du Smog est un esprit élémentaire du Wyrm. Hoga est la version corrompue de l’élément air, composé des parties gazeuses du corps du Wyrm. Ses vapeurs nocives empoisonnent ou corrompent les créatures qui le respirent. Cet élément se manifeste dans le monde physique et le sombre Moyen Âge à partir des fumées prophétiques de l'Oracle de Delphes, des divers gouffres formant des "Fosses de l'Enfer", de la fumée nauséabonde de la poix brûlante des sièges de château et des rituels fumants de divers cultes mystérieux. Une exposition limitée produit un essoufflement et des pensées confuses, tandis que des quantités plus importantes provoquent des troubles respiratoires comme l'asthme et des maladies pulmonaires mortelles."
   
- furmas: "Fourmas" #NT!
- furmas_adj: "Feu de camp" #NT!
- furmas_adherent: "Cancéreux" #NT!
- furmas_adherent_plural: "Cancéreux" #NT!
- furmas_desc: "Furmas est à la fois la perversion du feu du Wyrm et la manifestation spirituelle de la radioactivité. Composé du sang du Wyrm, le feu se tord et déforme tout ce qu’il touche. Trouvé naturellement au plus profond de la terre. Balefire est de loin l'élément le plus populaire utilisé par les Black Spiral Dancers. Le jour où Balefire deviendra monnaie courante, l’Apocalypse sera proche." #NT!
+ furmas: "Fourmas"
+ furmas_adj: "Feu de camp"
+ furmas_adherent: "Cancéreux"
+ furmas_adherent_plural: "Cancéreux"
+ furmas_desc: "Furmas est à la fois la perversion du feu du Wyrm et la manifestation spirituelle de la radioactivité. Composé du sang du Wyrm, le feu se tord et déforme tout ce qu’il touche. Trouvé naturellement au plus profond de la terre. Balefire est de loin l'élément le plus populaire utilisé par les Black Spiral Dancers. Le jour où Balefire deviendra monnaie courante, l’Apocalypse sera proche."
   
- wakshaa: "Wakshaa" #NT!
- wakshaa_adj: "Toxine" #NT!
- wakshaa_adherent: "Toxique" #NT!
- wakshaa_adherent_plural: "Toxique" #NT!
- wakshaa_desc: "L'Essence de Toxine est un esprit élémentaire du Wyrm. Wakshaa est la parodie mortelle du Wyrm de l'élément eau ainsi que des restes des parties liquides du corps du Wyrm. Il se manifeste physiquement sous la forme d'un poison mortel aux couleurs vives. Dans l'obscurité médiévale, on le retrouve dans de nombreux vins, bières et spiritueux corrompus. A forte dose, il tue instantanément et empoisonne la chair de la victime. À plus petites doses, il produit une explosion d’émotions violentes, provoquant une lente maladie débilitante." #NT!
+ wakshaa: "Wakshaa"
+ wakshaa_adj: "Toxine"
+ wakshaa_adherent: "Toxique"
+ wakshaa_adherent_plural: "Toxique"
+ wakshaa_desc: "L'Essence de Toxine est un esprit élémentaire du Wyrm. Wakshaa est la parodie mortelle du Wyrm de l'élément eau ainsi que des restes des parties liquides du corps du Wyrm. Il se manifeste physiquement sous la forme d'un poison mortel aux couleurs vives. Dans l'obscurité médiévale, on le retrouve dans de nombreux vins, bières et spiritueux corrompus. A forte dose, il tue instantanément et empoisonne la chair de la victime. À plus petites doses, il produit une explosion d’émotions violentes, provoquant une lente maladie débilitante."
   
- blackspiraldancer_religion: "Danseurs de la spirale noire" #NT!
- blackspiraldancer_religion_adj: "Danseurs de la spirale noire" #NT!
- blackspiraldancer_religion_adherent: "Danseuse spirale noire" #NT!
- blackspiraldancer_religion_adherent_plural: "Danseurs de la spirale noire" #NT!
- blackspiraldancer_religion_desc: "Également connus sous le nom de Tribu Perdue, les redoutables Danseurs de la Spirale Noire sont les Garous qui se sont tournés vers le Wyrm. Autrefois connus sous le nom de Hurleurs Blancs, ils ont été corrompus jusqu'à la fin après que la tribu ait tenté de vaincre le Wyrm par elle-même." #NT!
+ blackspiraldancer_religion: "Danseurs de la spirale noire"
+ blackspiraldancer_religion_adj: "Danseurs de la spirale noire"
+ blackspiraldancer_religion_adherent: "Danseuse spirale noire"
+ blackspiraldancer_religion_adherent_plural: "Danseurs de la spirale noire"
+ blackspiraldancer_religion_desc: "Également connus sous le nom de Tribu Perdue, les redoutables Danseurs de la Spirale Noire sont les Garous qui se sont tournés vers le Wyrm. Autrefois connus sous le nom de Hurleurs Blancs, ils ont été corrompus jusqu'à la fin après que la tribu ait tenté de vaincre le Wyrm par elle-même."
   
- blackspiraldancer: "Danseurs de la spirale noire" #NT!
- blackspiraldancer_adj: "Danseurs de la spirale noire" #NT!
- blackspiraldancer_adherent: "Danseuse spirale noire" #NT!
- blackspiraldancer_adherent_plural: "Danseurs de la spirale noire" #NT!
- blackspiraldancer_desc: "Également connus sous le nom de Tribu Perdue, les redoutables Danseurs de la Spirale Noire sont les Garous qui se sont tournés vers le Wyrm. Autrefois connus sous le nom de Hurleurs Blancs, ils ont été corrompus jusqu'à la fin après que la tribu ait tenté de vaincre le Wyrm par elle-même." #NT!
+ blackspiraldancer: "Danseurs de la spirale noire"
+ blackspiraldancer_adj: "Danseurs de la spirale noire"
+ blackspiraldancer_adherent: "Danseuse spirale noire"
+ blackspiraldancer_adherent_plural: "Danseurs de la spirale noire"
+ blackspiraldancer_desc: "Également connus sous le nom de Tribu Perdue, les redoutables Danseurs de la Spirale Noire sont les Garous qui se sont tournés vers le Wyrm. Autrefois connus sous le nom de Hurleurs Blancs, ils ont été corrompus jusqu'à la fin après que la tribu ait tenté de vaincre le Wyrm par elle-même."
   
- cluithi: "Cluithi" #NT!
- cluithi_adj: "Cluithi" #NT!
- cluithi_adherent: "Cluith" #NT!
- cluithi_adherent_plural: "Cluithi" #NT!
- cluithi_desc: "Au sein de la tribu Black Spiral, cependant, un camp a fait de son mieux pour préserver l'héritage des Hurleurs Blancs. Les Cluithi rôdent encore dans les landes et les forêts les plus désolées d'Écosse, imitant l'apparence de leurs ancêtres il y a des siècles. Ils déchirent leurs vêtements, s'enduisent fièrement de peinture corporelle bleue et arborent des tatouages ​​pictes. Les dirigeants de ce camp ont également un penchant élitiste, se considérant comme la noblesse de la tribu. Le nom du camp fait référence aux premiers dirigeants des royaumes pictes. De nombreux Cluithi se considèrent comme les véritables enfants de Cluid, le héros qui a conduit les Pictes en Calédonie." #NT!
+ cluithi: "Cluithi"
+ cluithi_adj: "Cluithi"
+ cluithi_adherent: "Cluith"
+ cluithi_adherent_plural: "Cluithi"
+ cluithi_desc: "Au sein de la tribu Black Spiral, cependant, un camp a fait de son mieux pour préserver l'héritage des Hurleurs Blancs. Les Cluithi rôdent encore dans les landes et les forêts les plus désolées d'Écosse, imitant l'apparence de leurs ancêtres il y a des siècles. Ils déchirent leurs vêtements, s'enduisent fièrement de peinture corporelle bleue et arborent des tatouages ​​pictes. Les dirigeants de ce camp ont également un penchant élitiste, se considérant comme la noblesse de la tribu. Le nom du camp fait référence aux premiers dirigeants des royaumes pictes. De nombreux Cluithi se considèrent comme les véritables enfants de Cluid, le héros qui a conduit les Pictes en Calédonie."
   
- princesofruin: "Princes de la ruine" #NT!
- princesofruin_adj: "Ruine" #NT!
- princesofruin_adherent: "Prince de la ruine" #NT!
- princesofruin_adherent_plural: "Princes de la ruine" #NT!
- princesofruin_desc: "Les Princes de la Ruine soutiennent que la guerre pour l'Apocalypse est terminée. Ils prêchent l’autosatisfaction, affirmant que le cadavre mourant du monde est désormais à eux, qu’ils peuvent le gouverner et le traiter comme ils l’entendent. Les champions triomphants du Corrupteur affirment que se livrer à leurs propres instincts vils constitue un culte catégorique du Ver. Princes of Ruin considère les danseurs noirs plus traditionnels comme des rustiques et des fanatiques religieux ; la violence entre les deux philosophies est courante." #NT!
+ princesofruin: "Princes de la ruine"
+ princesofruin_adj: "Ruine"
+ princesofruin_adherent: "Prince de la ruine"
+ princesofruin_adherent_plural: "Princes de la ruine"
+ princesofruin_desc: "Les Princes de la Ruine soutiennent que la guerre pour l'Apocalypse est terminée. Ils prêchent l’autosatisfaction, affirmant que le cadavre mourant du monde est désormais à eux, qu’ils peuvent le gouverner et le traiter comme ils l’entendent. Les champions triomphants du Corrupteur affirment que se livrer à leurs propres instincts vils constitue un culte catégorique du Ver. Princes of Ruin considère les danseurs noirs plus traditionnels comme des rustiques et des fanatiques religieux ; la violence entre les deux philosophies est courante."
   
- seekersoftheancient: "Chercheurs de l'Ancien" #NT!
- seekersoftheancient_adj: "Chercheurs" #NT!
- seekersoftheancient_adherent: "Chercheur" #NT!
- seekersoftheancient_adherent_plural: "Chercheur" #NT!
- seekersoftheancient_desc: "Druides sombres de la terre cherchant à interagir avec l'atmosphère et la géomancie entourant les Anciens. Ils ne vantent pas l'esprit lui-même, mais invoquent les vertus de ses éléments, l'invoquant indirectement à agir à travers la nature. Cela leur confère indirectement une perspicacité et un pouvoir, leur permettant de développer et de diriger une fosse liée au paysage environnant. Ils servent de chamanes, risquant l’esclavage et la folie pour communier avec des esprits impensables et obtenir directement un aperçu." #NT!
+ seekersoftheancient: "Chercheurs de l'Ancien"
+ seekersoftheancient_adj: "Chercheurs"
+ seekersoftheancient_adherent: "Chercheur"
+ seekersoftheancient_adherent_plural: "Chercheur"
+ seekersoftheancient_desc: "Druides sombres de la terre cherchant à interagir avec l'atmosphère et la géomancie entourant les Anciens. Ils ne vantent pas l'esprit lui-même, mais invoquent les vertus de ses éléments, l'invoquant indirectement à agir à travers la nature. Cela leur confère indirectement une perspicacité et un pouvoir, leur permettant de développer et de diriger une fosse liée au paysage environnant. Ils servent de chamanes, risquant l’esclavage et la folie pour communier avec des esprits impensables et obtenir directement un aperçu."
   
- hellcats: "Hellcats" #NT!
- hellcats_adj: "Hellcats" #NT!
- hellcats_adherent: "Hellcat" #NT!
- hellcats_adherent_plural: "Hellcats" #NT!
- hellcats_desc: "Lorsque les Danseurs de la Spirale Noire attaquèrent le débat annuel du Ceilican Bastet en Écosse, ils en forcèrent certains dans le [black_spiral_labyrinth|E] afin de les tourner vers le Wyrm. Ceux qui ont survécu sont devenus les Hellcats, leur véritable folie habituelle s'est transformée en une agression autodestructrice et insensée. En attendant l'Apocalypse pour honorer leur Père Sombre, ces créatures corrompues apportent avec elles leurs liens puissants avec les dons illusoires des Fae et divers fétiches de Wyrm qu'ils ont construits avec une curiosité semblable à celle de Bastet." #NT!
+ hellcats: "Hellcats"
+ hellcats_adj: "Hellcats"
+ hellcats_adherent: "Hellcat"
+ hellcats_adherent_plural: "Hellcats"
+ hellcats_desc: "Lorsque les Danseurs de la Spirale Noire attaquèrent le débat annuel du Ceilican Bastet en Écosse, ils en forcèrent certains dans le [black_spiral_labyrinth|E] afin de les tourner vers le Wyrm. Ceux qui ont survécu sont devenus les Hellcats, leur véritable folie habituelle s'est transformée en une agression autodestructrice et insensée. En attendant l'Apocalypse pour honorer leur Père Sombre, ces créatures corrompues apportent avec elles leurs liens puissants avec les dons illusoires des Fae et divers fétiches de Wyrm qu'ils ont construits avec une curiosité semblable à celle de Bastet."
   
   
   

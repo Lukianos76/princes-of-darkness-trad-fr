@@ -1,33 +1,33 @@
 ﻿l_french:
- POD_realm_mastery.2.t: "[Select_CString( DidShatteringHappen, 'The Ghosts of', 'The Court of' )] [GetPlayer.MakeScope.Var('current_journey').Var('destination').Province.GetHolding.GetCurrentSpecialBuildingType.GetNameNoTooltip]" #NT!
- POD_realm_mastery.2.desc: "Le glamour dans cet endroit est palpable. C'est comme si l'air lui-même bourdonnait de potentiel créatif, prêt à faire des rêves une réalité.\n\n" #NT!
- POD_realm_mastery.2.desc.preshattering: "Les nobles $POD_splat_fae$ qui résident ici au [GetPlayer.MakeScope.Var('current_journey').Var('destination').Province.GetHolding.GetCurrentSpecialBuildingType.GetName] m'ont accordé une audience. Les stoïciens font face à tout autour, mais pas nécessairement hostiles." #NT!
- POD_realm_mastery.2.desc.postshattering: "Après le [shattering|E], la pleine propriété du [GetPlayer.MakeScope.Var('current_journey').Var('destination').Province.GetHolding.GetCurrentSpecialBuildingType.GetName] aurait été abandonnée. Pourtant, il y a clairement quelqu'un de puissant qui m'observe – je peux sentir sa présence dans le [dreaming|E]." #NT!
- POD_realm_mastery.2.desc.end: "Il y a un sentiment d'attente curieuse.\n\nComment dois-je faire valoir mes arguments ?" #NT!
- POD_realm_mastery.2.option.a: "Présenter des trésors inestimables." #NT!
- POD_realm_mastery.2.option.a.success: "Le [Select_CString( DidShatteringHappen, 'Lost One is', 'Nobles are' )] impressionné" #NT!
- POD_realm_mastery.2.option.a.fail: "Le [Select_CString( DidShatteringHappen, 'Lost One', 'Nobles' )] en voulait plus" #NT!
- POD_realm_mastery.2.option.a.critfail: "Beaucoup plus" #NT!
- POD_realm_mastery.2.option.b: "Réciter un poème épique." #NT!
- POD_realm_mastery.2.option.b.success: "Une prestation sans faille" #NT!
- POD_realm_mastery.2.option.b.fail: "Une performance correcte, avec quelques ratés" #NT!
- POD_realm_mastery.2.option.b.critfail: "BEAUCOUP de hoquet" #NT!
- POD_realm_mastery.2.option.c: "Fabriquer une œuvre d’art chimérique." #NT!
- POD_realm_mastery.2.option.c.success: "Une œuvre d'art impressionnante" #NT!
- POD_realm_mastery.2.option.c.fail: "L'œuvre d'art avait besoin de quelques révisions mineures" #NT!
- POD_realm_mastery.2.option.c.critfail: "L'œuvre d'art avait besoin de BEAUCOUP de révisions" #NT!
-  
- POD_realm_mastery.3.t.success: "Une pétition réussie" #NT!
- POD_realm_mastery.3.t.fail: "Une pétition coûteuse" #NT!
- POD_realm_mastery.3.t.critfail: "Une pétition très coûteuse" #NT!
- POD_realm_mastery.3.desc.preshattering: "Un murmure d’accord traverse la foule. Il semblerait que les nobles soient satisfaits de ma pétition." #NT!
- POD_realm_mastery.3.desc.postshattering: "Je ne vois toujours pas mon compagnon, mais il semble que la présence invisible se réjouisse de ma requête." #NT!
- POD_realm_mastery.3.desc: "L'air étincelle et pétille, et le Glamour brut se déverse du [dreaming|E], fusionnant en une série d'images rapides.\n\n" #NT!
- POD_realm_mastery.3.desc.actor: "Je vois des Olympiens dans les cieux, se disputant, se chamaillant et se battant jusqu'à ce que les nuages ​​tonnent et que les mortels en bas parlent à voix basse de leur inimitié légendaire." #NT!
- POD_realm_mastery.3.desc.fae: "Je vois les Prodigues, les milliers et les milliers de visages de ceux qui ont oublié leurs origines $POD_splat_fae$ et attendent de retrouver le [dreaming|E], aspirant à quelque chose dont ils ignoraient l'existence." #NT!
- POD_realm_mastery.3.desc.prop: "Je vois une épée plantée dans une pierre, attendant son porteur légitime. Je vois un marteau défectueux, destiné à de grandes actions malgré un manche trop court. Et je vois bien d’autres de ces trésors, immortalisés dans des chansons et des sagas, et faisant partie du [dreaming|E] lui-même." #NT!
- POD_realm_mastery.3.desc.nature: "Je vois les saisons, en guerre et se nourrissant les unes les autres en même temps, comme une danse complexe. Je vois des océans agités et des tempêtes déchaînées. Et je vois la lune, et les larmes coulent librement de mes yeux, même si je ne sais pas pourquoi." #NT!
- POD_realm_mastery.3.desc.scene: "Je vois des histoires, voyageant à travers les continents comme s'il s'agissait d'êtres vivants qui respirent, atteignant tous les coins du monde et inspirant le respect des Rêveurs comme des Kithain, quelle que soit la distance." #NT!
- POD_realm_mastery.3.desc.time: "Je vois des histoires comme des trésors anciens, perdurant à travers les éons, vivant aussi longtemps qu'il y aura des Rêveurs et Kithain pour les raconter. Et même si les âges passent, leur étincelle ne s’émoussera jamais et leur capacité à inspirer ne s’effacera jamais." #NT!
- POD_realm_mastery.3.desc.end: "\n\nLes images chimériques sont trop difficiles à traiter pour moi, mais quelque chose au plus profond de moi a atteint une nouvelle compréhension." #NT!
- POD_realm_mastery.3.option.a: "Je chérirai cette expérience." #NT!
+    POD_realm_mastery.2.t: "[Select_CString( DidShatteringHappen, 'The Ghosts of', 'The Court of' )] [GetPlayer.MakeScope.Var('current_journey').Var('destination').Province.GetHolding.GetCurrentSpecialBuildingType.GetNameNoTooltip]"
+    POD_realm_mastery.2.desc: "Le glamour dans cet endroit est palpable. C'est comme si l'air lui-même bourdonnait de potentiel créatif, prêt à faire des rêves une réalité.\n\n"
+    POD_realm_mastery.2.desc.preshattering: "Les nobles $POD_splat_fae$ qui résident ici au [GetPlayer.MakeScope.Var('current_journey').Var('destination').Province.GetHolding.GetCurrentSpecialBuildingType.GetName] m'ont accordé une audience. Les stoïciens font face à tout autour, mais pas nécessairement hostiles."
+    POD_realm_mastery.2.desc.postshattering: "Après le [shattering|E], la pleine propriété du [GetPlayer.MakeScope.Var('current_journey').Var('destination').Province.GetHolding.GetCurrentSpecialBuildingType.GetName] aurait été abandonnée. Pourtant, il y a clairement quelqu'un de puissant qui m'observe – je peux sentir sa présence dans le [dreaming|E]."
+    POD_realm_mastery.2.desc.end: "Il y a un sentiment d'attente curieuse.\n\nComment dois-je faire valoir mes arguments ?"
+    POD_realm_mastery.2.option.a: "Présenter des trésors inestimables."
+    POD_realm_mastery.2.option.a.success: "Le [Select_CString( DidShatteringHappen, 'Lost One is', 'Nobles are' )] impressionné"
+    POD_realm_mastery.2.option.a.fail: "Le [Select_CString( DidShatteringHappen, 'Lost One', 'Nobles' )] en voulait plus"
+    POD_realm_mastery.2.option.a.critfail: "Beaucoup plus"
+    POD_realm_mastery.2.option.b: "Réciter un poème épique."
+    POD_realm_mastery.2.option.b.success: "Une prestation sans faille"
+    POD_realm_mastery.2.option.b.fail: "Une performance correcte, avec quelques ratés"
+    POD_realm_mastery.2.option.b.critfail: "BEAUCOUP de hoquet"
+    POD_realm_mastery.2.option.c: "Fabriquer une œuvre d’art chimérique."
+    POD_realm_mastery.2.option.c.success: "Une œuvre d'art impressionnante"
+    POD_realm_mastery.2.option.c.fail: "L'œuvre d'art avait besoin de quelques révisions mineures"
+    POD_realm_mastery.2.option.c.critfail: "L'œuvre d'art avait besoin de BEAUCOUP de révisions"
+
+    POD_realm_mastery.3.t.success: "Une pétition réussie"
+    POD_realm_mastery.3.t.fail: "Une pétition coûteuse"
+    POD_realm_mastery.3.t.critfail: "Une pétition très coûteuse"
+    POD_realm_mastery.3.desc.preshattering: "Un murmure d’accord traverse la foule. Il semblerait que les nobles soient satisfaits de ma pétition."
+    POD_realm_mastery.3.desc.postshattering: "Je ne vois toujours pas mon compagnon, mais il semble que la présence invisible se réjouisse de ma requête."
+    POD_realm_mastery.3.desc: "L'air étincelle et pétille, et le Glamour brut se déverse du [dreaming|E], fusionnant en une série d'images rapides.\n\n"
+    POD_realm_mastery.3.desc.actor: "Je vois des Olympiens dans les cieux, se disputant, se chamaillant et se battant jusqu'à ce que les nuages ​​tonnent et que les mortels en bas parlent à voix basse de leur inimitié légendaire."
+    POD_realm_mastery.3.desc.fae: "Je vois les Prodigues, les milliers et les milliers de visages de ceux qui ont oublié leurs origines $POD_splat_fae$ et attendent de retrouver le [dreaming|E], aspirant à quelque chose dont ils ignoraient l'existence."
+    POD_realm_mastery.3.desc.prop: "Je vois une épée plantée dans une pierre, attendant son porteur légitime. Je vois un marteau défectueux, destiné à de grandes actions malgré un manche trop court. Et je vois bien d’autres de ces trésors, immortalisés dans des chansons et des sagas, et faisant partie du [dreaming|E] lui-même."
+    POD_realm_mastery.3.desc.nature: "Je vois les saisons, en guerre et se nourrissant les unes les autres en même temps, comme une danse complexe. Je vois des océans agités et des tempêtes déchaînées. Et je vois la lune, et les larmes coulent librement de mes yeux, même si je ne sais pas pourquoi."
+    POD_realm_mastery.3.desc.scene: "Je vois des histoires, voyageant à travers les continents comme s'il s'agissait d'êtres vivants qui respirent, atteignant tous les coins du monde et inspirant le respect des Rêveurs comme des Kithain, quelle que soit la distance."
+    POD_realm_mastery.3.desc.time: "Je vois des histoires comme des trésors anciens, perdurant à travers les éons, vivant aussi longtemps qu'il y aura des Rêveurs et Kithain pour les raconter. Et même si les âges passent, leur étincelle ne s’émoussera jamais et leur capacité à inspirer ne s’effacera jamais."
+    POD_realm_mastery.3.desc.end: "\n\nLes images chimériques sont trop difficiles à traiter pour moi, mais quelque chose au plus profond de moi a atteint une nouvelle compréhension."
+    POD_realm_mastery.3.option.a: "Je chérirai cette expérience."

@@ -1,320 +1,321 @@
 ﻿l_french:
- grand_city_holding: "Grande Ville" #NT!
- grand_city_holding_concept_key: "[grand_city|E]" #NT!
- building_type_grand_city_01: "Grande Ville" #NT!
- building_type_grand_city_01_desc: "Un grand centre de population d'une grande importance pour le monde mortel et surnaturel." #NT!
- building_grand_city_01: "Où les gens se rassemblent" #NT!
- building_grand_city_01_desc: "Avec sa grande population de mortels, cette ville représente un potentiel pur et inexploité. Il ne manque plus qu'un dirigeant entreprenant qui ose s'en emparer." #NT!
- building_grand_city_02: "Là où les gens prospèrent" #NT!
- building_grand_city_02_desc: "Cette ville est connue partout pour être un lieu d’opportunités. Les mortels y affluent en masse à la recherche d’une vie meilleure. Et là où ils prospèrent, vous aussi." #NT!
- building_grand_city_03: "Là où la culture se façonne" #NT!
- building_grand_city_03_desc: "Cette ville de renommée mondiale est le berceau d’innovations et de tendances, jetant une grande ombre sur le reste de la civilisation." #NT!
- building_grand_city_04: "Là où l'histoire se fait" #NT!
- building_grand_city_04_desc: "Les événements monumentaux qui se déroulent dans cette ville garantiront que son nom ne sera jamais oublié." #NT!
-  
-  
-  ############################# 
-  ##### Rome for Vampires ##### 
-  ############################# 
-  
- building_type_rome_roma_aeterna_01: "Rome Aeterna" #NT!
- building_type_rome_roma_aeterna_01_desc: "#F Rome était autant le centre du monde [cainite|E] que du monde humain. Le restaurer à sa grandeur de mort-vivant serait une formidable réussite.#!" #NT!
- building_rome_roma_aeterna_01: "Roma Dividua" #NT!
- building_rome_roma_aeterna_01_desc: "Des hommes saints rôdent dans les rues, contestant toute tentative de contrôle direct sur le centre du monde européen. A ce stade, Rome est un titre prestigieux pour son propriétaire mais aussi dangereux." #NT!
- building_rome_roma_aeterna_02: "Rome Invicta" #NT!
- building_rome_roma_aeterna_02_desc: "Petit à petit, la foi de Rome s'érode et les vampires peuvent à nouveau utiliser leur influence subtile au profit du prince." #NT!
- building_rome_roma_aeterna_03: "Rome Aeterna" #NT!
- building_rome_roma_aeterna_03_desc: "Enfin, Rome est de retour entre les mains des vampiriques. Des hommes saints se recroquevillent dans l’obscurité tandis que les enfants de Caïn chantent les louanges du grand souverain qui a conquis la ville sainte." #NT!
-  
- POD_rome_ventrue_desc: "C'est ici que se trouve le vénérable Forum Romanum, qui fut autrefois le cœur battant de la ville. Son extérieur en ruine cache de belles et confortables chambres." #NT!
- POD_rome_ventrue_bonus: "#P Posséder ce quartier débloque le [sell_titles_decision|E] et le rend moins cher à utiliser.#!" #NT!
- building_type_rome_ventrue_01: "Montium et Bibératice" #NT!
- building_type_rome_ventrue_01_desc: "Un quartier historique du [roma_aeterna|E] confié au Clan [GetTrait('ventrue').GetName(GetNullCharacter)].\n\n$POD_rome_ventrue_desc$" #NT!
- building_rome_ventrue_01: "Montium et Bibératice" #NT!
- building_rome_ventrue_01_desc: "Un quartier historique de [roma_aeterna|E] confié au clan [GetTrait('ventrue').GetName(GetNullCharacter)].\n\n$POD_rome_ventrue_desc$\n\n#X Si vous souhaitez l'améliorer davantage, vous devez être un [king|E] et employer un [GetCourtPositionType('ventrue_primogen_court_position').GetName()].#!" #NT!
- building_rome_ventrue_02: "Montium et Bibératice" #NT!
- building_rome_ventrue_02_desc: "Un quartier historique de [roma_aeterna|E] confié à un [GetTrait('ventrue').GetName(GetPlayer)] [primogen|E].\n\n$POD_rome_ventrue_desc$\n\n#X Si vous souhaitez l'améliorer davantage, vous devez employer un [GetCourtPositionType('ventrue_primogen_court_position').GetName()] avec [Concept('ventrue_primogen','Good Aptitude')|E] ou plus.#!" #NT!
- building_rome_ventrue_03: "Montium et Bibératice" #NT!
- building_rome_ventrue_03_desc: "Un quartier historique de [roma_aeterna|E] confié à un respectable [GetTrait('ventrue').GetName(GetNullCharacter)] [primogen|E].\n\n$POD_rome_ventrue_desc$\n\n#X Si vous souhaitez l'améliorer encore, vous devez employer un [GetCourtPositionType('ventrue_primogen_court_position').GetName()] avec [Concept('ventrue_primogen','Excellent Aptitude')|E].#!" #NT!
- building_rome_ventrue_04: "Montium et Bibératice" #NT!
- building_rome_ventrue_04_desc: "Un quartier historique du [roma_aeterna|E] confié à un puissant [GetTrait('ventrue').GetName(GetNullCharacter)] [primogen|E].\n\n$POD_rome_ventrue_desc$" #NT!
-  
- POD_rome_brujah_desc: "C'est ici que se trouve la Via Lata, la grande route que les empereurs avaient l'habitude de parcourir pour leurs triomphes. Il contient également le dernier des aqueducs fonctionnels, l'Aqua Virgo, un lieu où les mortels se rassemblent en grand nombre." #NT!
- POD_rome_brujah_bonus: "#P Posséder ce quartier débloque le [GetActivityType('activity_brujah_panegyra').GetName()] [activity|E].#!" #NT!
- building_type_rome_brujah_01: "Trivii et Vie Late" #NT!
- building_type_rome_brujah_01_desc: "Un quartier historique du [roma_aeterna|E] confié au Clan [GetTrait('brujah').GetName(GetNullCharacter)].\n\n$POD_rome_brujah_desc$" #NT!
- building_rome_brujah_01: "Trivii et Vie Late" #NT!
- building_rome_brujah_01_desc: "Un quartier historique de [roma_aeterna|E] confié au clan [GetTrait('brujah').GetName(GetNullCharacter)].\n\n$POD_rome_brujah_desc$\n\n#X Si vous souhaitez l'améliorer davantage, vous devez être un [king|E] et employer un [GetCourtPositionType('brujah_primogen_court_position').GetName()].#!" #NT!
- building_rome_brujah_02: "Trivii et Vie Late" #NT!
- building_rome_brujah_02_desc: "Un quartier historique de [roma_aeterna|E] confié à un [GetTrait('brujah').GetName(GetNullCharacter)] [primogen|E].\n\n$POD_rome_brujah_desc$\n\n#X Si vous souhaitez l'améliorer davantage, vous devez employer un [GetCourtPositionType('brujah_primogen_court_position').GetName()] avec [Concept('brujah_primogen','Good Aptitude')|E] ou plus.#!" #NT!
- building_rome_brujah_03: "Trivii et Vie Late" #NT!
- building_rome_brujah_03_desc: "Un quartier historique de [roma_aeterna|E] confié à un respectable [GetTrait('brujah').GetName(GetNullCharacter)] [primogen|E].\n\n$POD_rome_brujah_desc$\n\n#X Si vous souhaitez l'améliorer encore, vous devez employer un [GetCourtPositionType('brujah_primogen_court_position').GetName()] avec [Concept('brujah_primogen','Excellent Aptitude')|E].#!" #NT!
- building_rome_brujah_04: "Trivii et Vie Late" #NT!
- building_rome_brujah_04_desc: "Un quartier historique du [roma_aeterna|E] confié à un puissant [GetTrait('brujah').GetName(GetNullCharacter)] [primogen|E].\n\n$POD_rome_brujah_desc$" #NT!
-  
- POD_rome_setite_desc: "Cette région abrite le temple de l'empereur déifié Hadrien. À l'intérieur de ses salles, des chambres secrètes ont été rénovées pour un usage clandestin." #NT!
- POD_rome_setite_bonus: "#P Le propriétaire de ce quartier peut utiliser [propaganda|E] pour supprimer l'un de ses traits criminels.#!" #NT!
- building_type_rome_setite_01: "Columpne et Sancte Marie à Aquiro" #NT!
- building_type_rome_setite_01_desc: "Un quartier historique du [roma_aeterna|E] confié au Clan [GetTrait('setite').GetName(GetNullCharacter)].\n\n$POD_rome_setite_desc$" #NT!
- building_rome_setite_01: "Columpne et Sancte Marie à Aquiro" #NT!
- building_rome_setite_01_desc: "Un quartier historique de [roma_aeterna|E] confié au clan [GetTrait('setite').GetName(GetNullCharacter)].\n\n$POD_rome_setite_desc$\n\n#X Si vous souhaitez l'améliorer davantage, vous devez être un [king|E] et employer un [GetCourtPositionType('setite_primogen_court_position').GetName()].#!" #NT!
- building_rome_setite_02: "Columpne et Sancte Marie à Aquiro" #NT!
- building_rome_setite_02_desc: "Un quartier historique de [roma_aeterna|E] confié à un [GetTrait('setite').GetName(GetNullCharacter)] [primogen|E].\n\n$POD_rome_setite_desc$\n\n#X Si vous souhaitez l'améliorer davantage, vous devez employer un [GetCourtPositionType('setite_primogen_court_position').GetName()] avec [Concept('setite_primogen','Good Aptitude')|E] ou plus.#!" #NT!
- building_rome_setite_03: "Columpne et Sancte Marie à Aquiro" #NT!
- building_rome_setite_03_desc: "Un quartier historique de [roma_aeterna|E] confié à un respectable [GetTrait('setite').GetName(GetNullCharacter)] [primogen|E].\n\n$POD_rome_setite_desc$\n\n#X Si vous souhaitez l'améliorer encore, vous devez employer un [GetCourtPositionType('setite_primogen_court_position').GetName()] avec [Concept('setite_primogen','Excellent Aptitude')|E].#!" #NT!
- building_rome_setite_04: "Columpne et Sancte Marie à Aquiro" #NT!
- building_rome_setite_04_desc: "Un quartier historique du [roma_aeterna|E] confié à un puissant [GetTrait('setite').GetName(GetNullCharacter)] [primogen|E].\n\n$POD_rome_setite_desc$" #NT!
-  
- POD_rome_gangrel_desc: "Cette région contient des parties des anciens Champs de Mars, où se rassemblaient autrefois les légionnaires. Tout comme les soldats venus de loin sont devenus Romains grâce à leur service, les Gangrel seront incités à venir ici pour être honorés en tant que guerriers." #NT!
- POD_rome_gangrel_bonus: "#P Posséder ce quartier débloque le [GetActivityType('activity_hunt').GetName()] [activity|E].#!" #NT!
- building_type_rome_gangrel_01: "Campi Martis et Sancte Laurentii à Lucina" #NT!
- building_type_rome_gangrel_01_desc: "Un quartier historique du [roma_aeterna|E] confié au Clan [GetTrait('gangrel').GetName(GetNullCharacter)].\n\n$POD_rome_gangrel_desc$" #NT!
- building_rome_gangrel_01: "Campi Martis et Sancte Laurentii à Lucina" #NT!
- building_rome_gangrel_01_desc: "Un quartier historique de [roma_aeterna|E] confié au clan [GetTrait('gangrel').GetName(GetNullCharacter)].\n\n$POD_rome_gangrel_desc$\n\n#X Si vous souhaitez l'améliorer davantage, vous devez être un [king|E] et employer un [GetCourtPositionType('gangrel_primogen_court_position').GetName()].#!" #NT!
- building_rome_gangrel_02: "Campi Martis et Sancte Laurentii à Lucina" #NT!
- building_rome_gangrel_02_desc: "Un quartier historique de [roma_aeterna|E] confié à un [GetTrait('gangrel').GetName(GetNullCharacter)] [primogen|E].\n\n$POD_rome_gangrel_desc$\n\n#X Si vous souhaitez l'améliorer davantage, vous devez employer un [GetCourtPositionType('gangrel_primogen_court_position').GetName()] avec [Concept('gangrel_primogen','Good Aptitude')|E] ou plus.#!" #NT!
- building_rome_gangrel_03: "Campi Martis et Sancte Laurentii à Lucina" #NT!
- building_rome_gangrel_03_desc: "Un quartier historique de [roma_aeterna|E] confié à un respectable [GetTrait('gangrel').GetName(GetNullCharacter)] [primogen|E].\n\n$POD_rome_gangrel_desc$\n\n#X Si vous souhaitez l'améliorer encore, vous devez employer un [GetCourtPositionType('gangrel_primogen_court_position').GetName()] avec [Concept('gangrel_primogen','Excellent Aptitude')|E].#!" #NT!
- building_rome_gangrel_04: "Campi Martis et Sancte Laurentii à Lucina" #NT!
- building_rome_gangrel_04_desc: "Un quartier historique du [roma_aeterna|E] confié à un puissant [GetTrait('gangrel').GetName(GetNullCharacter)] [primogen|E].\n\n$POD_rome_gangrel_desc$" #NT!
-  
- POD_rome_lasombra_desc: "Cette région tire son nom du pont de Néron, aujourd'hui brisé pour permettre le passage des grands navires. Un commerce important provient du fleuve et ses habitants prospèrent." #NT!
- POD_rome_lasombra_bonus: "#P Posséder ce quartier débloque le [extort_subjects_decision|E].#!" #NT!
- building_type_rome_lasombra_01: "Pontis et Scorteclariorum" #NT!
- building_type_rome_lasombra_01_desc: "Un quartier historique du [roma_aeterna|E] confié au Clan [GetTrait('lasombra').GetName(GetNullCharacter)].\n\n$POD_rome_lasombra_desc$" #NT!
- building_rome_lasombra_01: "Pontis et Scorteclariorum" #NT!
- building_rome_lasombra_01_desc: "Un quartier historique de [roma_aeterna|E] confié au clan [GetTrait('lasombra').GetName(GetNullCharacter)].\n\n$POD_rome_lasombra_desc$\n\n#X Si vous souhaitez l'améliorer davantage, vous devez être un [king|E] et employer un [GetCourtPositionType('lasombra_primogen_court_position').GetName()].#!" #NT!
- building_rome_lasombra_02: "Pontis et Scorteclariorum" #NT!
- building_rome_lasombra_02_desc: "Un quartier historique de [roma_aeterna|E] confié à un [GetTrait('lasombra').GetName(GetNullCharacter)] [primogen|E].\n\n$POD_rome_lasombra_desc$\n\n#X Si vous souhaitez l'améliorer davantage, vous devez employer un [GetCourtPositionType('lasombra_primogen_court_position').GetName()] avec [Concept('lasombra_primogen','Good Aptitude')|E] ou plus.#!" #NT!
- building_rome_lasombra_03: "Pontis et Scorteclariorum" #NT!
- building_rome_lasombra_03_desc: "Un quartier historique de [roma_aeterna|E] confié à un respectable [GetTrait('lasombra').GetName(GetNullCharacter)] [primogen|E].\n\n$POD_rome_lasombra_desc$\n\n#X Si vous souhaitez l'améliorer encore, vous devez employer un [GetCourtPositionType('lasombra_primogen_court_position').GetName()] avec [Concept('lasombra_primogen','Excellent Aptitude')|E].#!" #NT!
- building_rome_lasombra_04: "Pontis et Scorteclariorum" #NT!
- building_rome_lasombra_04_desc: "Un quartier historique du [roma_aeterna|E] confié à un puissant [GetTrait('lasombra').GetName(GetNullCharacter)] [primogen|E].\n\n$POD_rome_lasombra_desc$" #NT!
-  
- POD_rome_nosferatu_desc: "Cette région doit son nom à la basilique honorant Saint Eustache. En apparence, cet endroit ne semble rien de remarquable... ce qui convient très bien aux Nosferatu." #NT!
- POD_rome_nosferatu_bonus: "#P Posséder ce quartier débloque le [GetScheme('fabricate_hook').GetTypeName()] [scheme|E].#!" #NT!
- building_type_rome_nosferatu_01: "Sancte Eustachii et Vinea Teudemarii" #NT!
- building_type_rome_nosferatu_01_desc: "Un quartier historique du [roma_aeterna|E] confié au Clan [GetTrait('nosferatu').GetName(GetNullCharacter)].\n\n$POD_rome_nosferatu_desc$" #NT!
- building_rome_nosferatu_01: "Sancte Eustachii et Vinea Teudemarii" #NT!
- building_rome_nosferatu_01_desc: "Un quartier historique de [roma_aeterna|E] confié au clan [GetTrait('nosferatu').GetName(GetNullCharacter)].\n\n$POD_rome_nosferatu_desc$\n\n#X Si vous souhaitez l'améliorer davantage, vous devez être un [king|E] et employer un [GetCourtPositionType('nosferatu_primogen_court_position').GetName()].#!" #NT!
- building_rome_nosferatu_02: "Sancte Eustachii et Vinea Teudemarii" #NT!
- building_rome_nosferatu_02_desc: "Un quartier historique de [roma_aeterna|E] confié à un [GetTrait('nosferatu').GetName(GetNullCharacter)] [primogen|E].\n\n$POD_rome_nosferatu_desc$\n\n#X Si vous souhaitez l'améliorer davantage, vous devez employer un [GetCourtPositionType('nosferatu_primogen_court_position').GetName()] avec [Concept('nosferatu_primogen','Good Aptitude')|E] ou plus.#!" #NT!
- building_rome_nosferatu_03: "Sancte Eustachii et Vinea Teudemarii" #NT!
- building_rome_nosferatu_03_desc: "Un quartier historique de [roma_aeterna|E] confié à un respectable [GetTrait('nosferatu').GetName(GetNullCharacter)] [primogen|E].\n\n$POD_rome_nosferatu_desc$\n\n#X Si vous souhaitez l'améliorer encore, vous devez employer un [GetCourtPositionType('nosferatu_primogen_court_position').GetName()] avec [Concept('nosferatu_primogen','Excellent Aptitude')|E].#!" #NT!
- building_rome_nosferatu_04: "Sancte Eustachii et Vinea Teudemarii" #NT!
- building_rome_nosferatu_04_desc: "Un quartier historique du [roma_aeterna|E] confié à un puissant [GetTrait('nosferatu').GetName(GetNullCharacter)] [primogen|E].\n\n$POD_rome_nosferatu_desc$" #NT!
-  
- POD_rome_tzimisce_desc: "Située au bord du Tibre, cette région souffre de fréquentes inondations. Une couche de limon recouvre ses rues et ses habitants sont infestés d'insectes... et pire encore." #NT!
- POD_rome_tzimisce_bonus: "#P Le propriétaire de ce quartier peut recruter [GetMaA('vozhd').GetName()] [men_at_arms|E].#!" #NT!
- building_type_rome_tzimisce_01: "Arenule et Caccabariorum" #NT!
- building_type_rome_tzimisce_01_desc: "Un quartier historique du [roma_aeterna|E] confié au Clan [GetTrait('tzimisce').GetName(GetNullCharacter)].\n\n$POD_rome_tzimisce_desc$" #NT!
- building_rome_tzimisce_01: "Arenule et Caccabariorum" #NT!
- building_rome_tzimisce_01_desc: "Un quartier historique de [roma_aeterna|E] confié au clan [GetTrait('tzimisce').GetName(GetNullCharacter)].\n\n$POD_rome_tzimisce_desc$\n\n#X Si vous souhaitez l'améliorer davantage, vous devez être un [king|E] et employer un [GetCourtPositionType('tzimisce_primogen_court_position').GetName()].#!" #NT!
- building_rome_tzimisce_02: "Arenule et Caccabariorum" #NT!
- building_rome_tzimisce_02_desc: "Un quartier historique de [roma_aeterna|E] confié à un [GetTrait('tzimisce').GetName(GetNullCharacter)] [primogen|E].\n\n$POD_rome_tzimisce_desc$\n\n#X Si vous souhaitez l'améliorer davantage, vous devez employer un [GetCourtPositionType('tzimisce_primogen_court_position').GetName()] avec [Concept('tzimisce_primogen','Good Aptitude')|E] ou plus.#!" #NT!
- building_rome_tzimisce_03: "Arenule et Caccabariorum" #NT!
- building_rome_tzimisce_03_desc: "Un quartier historique de [roma_aeterna|E] confié à un respectable [GetTrait('tzimisce').GetName(GetNullCharacter)] [primogen|E].\n\n$POD_rome_tzimisce_desc$\n\n#X Si vous souhaitez l'améliorer encore, vous devez employer un [GetCourtPositionType('tzimisce_primogen_court_position').GetName()] avec [Concept('tzimisce_primogen','Excellent Aptitude')|E].#!" #NT!
- building_rome_tzimisce_04: "Arenule et Caccabariorum" #NT!
- building_rome_tzimisce_04_desc: "Un quartier historique du [roma_aeterna|E] confié à un puissant [GetTrait('tzimisce').GetName(GetNullCharacter)] [primogen|E].\n\n$POD_rome_tzimisce_desc$" #NT!
-  
- POD_rome_toreador_desc: "Les artistes à l'esprit artistique se rendent dans cette région pour réfléchir aux gloires des temps passés. Ici, Pompée le Grand a construit le premier théâtre romain et l'empereur Domitien a commandé un stade recouvert de marbre. Les deux sont désormais en ruines." #NT!
- POD_rome_toreador_bonus: "#P Posséder ce quartier débloque le [commission_epic_decision|E].#!" #NT!
- building_type_rome_toreador_01: "Parionis et Sancte Laurentii à Damaso" #NT!
- building_type_rome_toreador_01_desc: "Un quartier historique du [roma_aeterna|E] confié au Clan [GetTrait('toreador').GetName(GetNullCharacter)].\n\n$POD_rome_toreador_desc$" #NT!
- building_rome_toreador_01: "Parionis et Sancte Laurentii à Damaso" #NT!
- building_rome_toreador_01_desc: "Un quartier historique de [roma_aeterna|E] confié au clan [GetTrait('toreador').GetName(GetNullCharacter)].\n\n$POD_rome_toreador_desc$\n\n#X Si vous souhaitez l'améliorer davantage, vous devez être un [king|E] et employer un [GetCourtPositionType('toreador_primogen_court_position').GetName()].#!" #NT!
- building_rome_toreador_02: "Parionis et Sancte Laurentii à Damaso" #NT!
- building_rome_toreador_02_desc: "Un quartier historique de [roma_aeterna|E] confié à un [GetTrait('toreador').GetName(GetNullCharacter)] [primogen|E].\n\n$POD_rome_toreador_desc$\n\n#X Si vous souhaitez l'améliorer davantage, vous devez employer un [GetCourtPositionType('toreador_primogen_court_position').GetName()] avec [Concept('toreador_primogen','Good Aptitude')|E] ou plus.#!" #NT!
- building_rome_toreador_03: "Parionis et Sancte Laurentii à Damaso" #NT!
- building_rome_toreador_03_desc: "Un quartier historique de [roma_aeterna|E] confié à un respectable [GetTrait('toreador').GetName(GetNullCharacter)] [primogen|E].\n\n$POD_rome_toreador_desc$\n\n#X Si vous souhaitez l'améliorer encore, vous devez employer un [GetCourtPositionType('toreador_primogen_court_position').GetName()] avec [Concept('toreador_primogen','Excellent Aptitude')|E].#!" #NT!
- building_rome_toreador_04: "Parionis et Sancte Laurentii à Damaso" #NT!
- building_rome_toreador_04_desc: "Un quartier historique du [roma_aeterna|E] confié à un puissant [GetTrait('toreador').GetName(GetNullCharacter)] [primogen|E].\n\n$POD_rome_toreador_desc$" #NT!
-  
- POD_rome_cappadocian_desc: "Le Panthéon est la structure la plus remarquable de cette région. Les mortels en ont fait une église dédiée à Marie et aux Martyrs et ont déplacé des centaines de corps des catacombes pour les réinhumer." #NT!
- POD_rome_cappadocian_bonus: "#P Le propriétaire de ce quartier peut entrer dans le [shadowlands|E] et manipuler le Linceul à cet endroit.#!" #NT!
- building_type_rome_cappadocian_01: "Pinée et Sancte Marci" #NT!
- building_type_rome_cappadocian_01_desc: "Un quartier historique du [roma_aeterna|E] confié au Clan [GetTrait('cappadocian').GetName(GetNullCharacter)].\n\n$POD_rome_cappadocian_desc$" #NT!
- building_rome_cappadocian_01: "Pinée et Sancte Marci" #NT!
- building_rome_cappadocian_01_desc: "Un quartier historique de [roma_aeterna|E] confié au clan [GetTrait('cappadocian').GetName(GetNullCharacter)].\n\n$POD_rome_cappadocian_desc$\n\n#X Si vous souhaitez l'améliorer davantage, vous devez être un [king|E] et employer un [GetCourtPositionType('cappadocian_primogen_court_position').GetName()].#!" #NT!
- building_rome_cappadocian_02: "Pinée et Sancte Marci" #NT!
- building_rome_cappadocian_02_desc: "Un quartier historique de [roma_aeterna|E] confié à un [GetTrait('cappadocian').GetName(GetNullCharacter)] [primogen|E].\n\n$POD_rome_cappadocian_desc$\n\n#X Si vous souhaitez l'améliorer davantage, vous devez employer un [GetCourtPositionType('cappadocian_primogen_court_position').GetName()] avec [Concept('cappadocian_primogen','Good Aptitude')|E] ou plus.#!" #NT!
- building_rome_cappadocian_03: "Pinée et Sancte Marci" #NT!
- building_rome_cappadocian_03_desc: "Un quartier historique de [roma_aeterna|E] confié à un respectable [GetTrait('cappadocian').GetName(GetNullCharacter)] [primogen|E].\n\n$POD_rome_cappadocian_desc$\n\n#X Si vous souhaitez l'améliorer encore, vous devez employer un [GetCourtPositionType('cappadocian_primogen_court_position').GetName()] avec [Concept('cappadocian_primogen','Excellent Aptitude')|E].#!" #NT!
- building_rome_cappadocian_04: "Pinée et Sancte Marci" #NT!
- building_rome_cappadocian_04_desc: "Un quartier historique du [roma_aeterna|E] confié à un puissant [GetTrait('cappadocian').GetName(GetNullCharacter)] [primogen|E].\n\n$POD_rome_cappadocian_desc$" #NT!
-  
- POD_rome_ravnos_desc: "Cette région abrite le marché aux poissons de Rome, un lieu où de nombreux roturiers se rassemblent pour faire du commerce." #NT!
- POD_rome_ravnos_bonus: "#P Le propriétaire de ce quartier obtient de meilleurs résultats lors de la chasse dans votre capitale [journey|E].#!" #NT!
- building_type_rome_ravnos_01: "Sancte Angeli au Foro Piscium" #NT!
- building_type_rome_ravnos_01_desc: "Un quartier historique du [roma_aeterna|E] confié au Clan [GetTrait('ravnos').GetName(GetNullCharacter)].\n\n$POD_rome_ravnos_desc$" #NT!
- building_rome_ravnos_01: "Sancte Angeli au Foro Piscium" #NT!
- building_rome_ravnos_01_desc: "Un quartier historique de [roma_aeterna|E] confié au clan [GetTrait('ravnos').GetName(GetNullCharacter)].\n\n$POD_rome_ravnos_desc$\n\n#X Si vous souhaitez l'améliorer davantage, vous devez être un [king|E] et employer un [GetCourtPositionType('ravnos_primogen_court_position').GetName()].#!" #NT!
- building_rome_ravnos_02: "Sancte Angeli au Foro Piscium" #NT!
- building_rome_ravnos_02_desc: "Un quartier historique de [roma_aeterna|E] confié à un [GetTrait('ravnos').GetName(GetNullCharacter)] [primogen|E].\n\n$POD_rome_ravnos_desc$\n\n#X Si vous souhaitez l'améliorer davantage, vous devez employer un [GetCourtPositionType('ravnos_primogen_court_position').GetName()] avec [Concept('ravnos_primogen','Good Aptitude')|E] ou plus.#!" #NT!
- building_rome_ravnos_03: "Sancte Angeli au Foro Piscium" #NT!
- building_rome_ravnos_03_desc: "Un quartier historique de [roma_aeterna|E] confié à un respectable [GetTrait('ravnos').GetName(GetNullCharacter)] [primogen|E].\n\n$POD_rome_ravnos_desc$\n\n#X Si vous souhaitez l'améliorer encore, vous devez employer un [GetCourtPositionType('ravnos_primogen_court_position').GetName()] avec [Concept('ravnos_primogen','Excellent Aptitude')|E].#!" #NT!
- building_rome_ravnos_04: "Sancte Angeli au Foro Piscium" #NT!
- building_rome_ravnos_04_desc: "Un quartier historique du [roma_aeterna|E] confié à un puissant [GetTrait('ravnos').GetName(GetNullCharacter)] [primogen|E].\n\n$POD_rome_ravnos_desc$" #NT!
-  
- POD_rome_salubri_desc: "Autrefois, cette région abritait de grandes demeures resplendissantes de marbre. Après des siècles de dépeuplement, de troubles civils et de saisie de leurs pierres pour construire de nouvelles tours, il ne reste que leurs squelettes." #NT!
- POD_rome_salubri_bonus: "#P Le propriétaire de ce quartier peut utiliser le [unburden_interaction|E] pour modifier ses traits de stress.#!" #NT!
- building_type_rome_salubri_01: "Mûr et Marmoré" #NT!
- building_type_rome_salubri_01_desc: "Un quartier historique du [roma_aeterna|E] confié au Clan [GetTrait('salubri').GetName(GetNullCharacter)].\n\n$POD_rome_salubri_desc$" #NT!
- building_rome_salubri_01: "Mûr et Marmoré" #NT!
- building_rome_salubri_01_desc: "Un quartier historique de [roma_aeterna|E] confié au clan [GetTrait('salubri').GetName(GetNullCharacter)].\n\n$POD_rome_salubri_desc$\n\n#X Si vous souhaitez l'améliorer davantage, vous devez être un [king|E] et employer un [GetCourtPositionType('salubri_primogen_court_position').GetName()].#!" #NT!
- building_rome_salubri_02: "Mûr et Marmoré" #NT!
- building_rome_salubri_02_desc: "Un quartier historique de [roma_aeterna|E] confié à un [GetTrait('salubri').GetName(GetNullCharacter)] [primogen|E].\n\n$POD_rome_salubri_desc$\n\n#X Si vous souhaitez l'améliorer davantage, vous devez employer un [GetCourtPositionType('salubri_primogen_court_position').GetName()] avec [Concept('salubri_primogen','Good Aptitude')|E] ou plus.#!" #NT!
- building_rome_salubri_03: "Mûr et Marmoré" #NT!
- building_rome_salubri_03_desc: "Un quartier historique de [roma_aeterna|E] confié à un respectable [GetTrait('salubri').GetName(GetNullCharacter)] [primogen|E].\n\n$POD_rome_salubri_desc$\n\n#X Si vous souhaitez l'améliorer encore, vous devez employer un [GetCourtPositionType('salubri_primogen_court_position').GetName()] avec [Concept('salubri_primogen','Excellent Aptitude')|E].#!" #NT!
- building_rome_salubri_04: "Mûr et Marmoré" #NT!
- building_rome_salubri_04_desc: "Un quartier historique du [roma_aeterna|E] confié à un puissant [GetTrait('salubri').GetName(GetNullCharacter)] [primogen|E].\n\n$POD_rome_salubri_desc$" #NT!
-  
- POD_rome_malkavian_desc: "Cette région est sous contrôle malkavien depuis l'époque des Césars. De nombreux sanctuaires magnifiques ont été construits sous leur patronage secret." #NT!
- POD_rome_malkavian_bonus: "#P Posséder ce quartier débloque la Hold Mystical Communion [decision|E].#!" #NT!
- building_type_rome_malkavian_01: "Campitelli et Sancte Adriani" #NT!
- building_type_rome_malkavian_01_desc: "Un quartier historique du [roma_aeterna|E] confié au Clan [GetTrait('malkavian').GetName(GetNullCharacter)].\n\n$POD_rome_malkavian_desc$" #NT!
- building_rome_malkavian_01: "Campitelli et Sancte Adriani" #NT!
- building_rome_malkavian_01_desc: "Un quartier historique de [roma_aeterna|E] confié au clan [GetTrait('malkavian').GetName(GetNullCharacter)].\n\n$POD_rome_malkavian_desc$\n\n#X Si vous souhaitez l'améliorer davantage, vous devez être un [king|E] et employer un [GetCourtPositionType('malkavian_primogen_court_position').GetName()].#!" #NT!
- building_rome_malkavian_02: "Campitelli et Sancte Adriani" #NT!
- building_rome_malkavian_02_desc: "Un quartier historique de [roma_aeterna|E] confié à un [GetTrait('malkavian').GetName(GetNullCharacter)] [primogen|E].\n\n$POD_rome_malkavian_desc$\n\n#X Si vous souhaitez l'améliorer davantage, vous devez employer un [GetCourtPositionType('malkavian_primogen_court_position').GetName()] avec [Concept('malkavian_primogen','Good Aptitude')|E] ou plus.#!" #NT!
- building_rome_malkavian_03: "Campitelli et Sancte Adriani" #NT!
- building_rome_malkavian_03_desc: "Un quartier historique de [roma_aeterna|E] confié à un respectable [GetTrait('malkavian').GetName(GetNullCharacter)] [primogen|E].\n\n$POD_rome_malkavian_desc$\n\n#X Si vous souhaitez l'améliorer encore, vous devez employer un [GetCourtPositionType('malkavian_primogen_court_position').GetName()] avec [Concept('malkavian_primogen','Excellent Aptitude')|E].#!" #NT!
- building_rome_malkavian_04: "Campitelli et Sancte Adriani" #NT!
- building_rome_malkavian_04_desc: "Un quartier historique du [roma_aeterna|E] confié à un puissant [GetTrait('malkavian').GetName(GetNullCharacter)] [primogen|E].\n\n$POD_rome_malkavian_desc$" #NT!
-  
- POD_rome_assamite_desc: "Cette région de la rive ouest du Tibre regorge de rues étroites, sinueuses et irrégulières. C'était autrefois la villa-jardin de Jules César, les Horti Caesaris." #NT!
- POD_rome_assamite_bonus: "#P Le propriétaire de ce quartier peut utiliser [assassination|E] pour compléter instantanément son [GetScheme('murder').GetTypeName()] [schemes|E].#!" #NT!
- building_type_rome_assamite_01: "Trastaver" #NT!
- building_type_rome_assamite_01_desc: "Un quartier historique du [roma_aeterna|E] confié au Clan [GetTrait('assamite').GetName(GetNullCharacter)].\n\n$POD_rome_assamite_desc$" #NT!
- building_rome_assamite_01: "Trastaver" #NT!
- building_rome_assamite_01_desc: "Un quartier historique de [roma_aeterna|E] confié au clan [GetTrait('assamite').GetName(GetNullCharacter)].\n\n$POD_rome_assamite_desc$\n\n#X Si vous souhaitez l'améliorer davantage, vous devez être un [king|E] et employer un [GetCourtPositionType('assamite_primogen_court_position').GetName()].#!" #NT!
- building_rome_assamite_02: "Trastaver" #NT!
- building_rome_assamite_02_desc: "Un quartier historique de [roma_aeterna|E] confié à un [GetTrait('assamite').GetName(GetNullCharacter)] [primogen|E].\n\n$POD_rome_assamite_desc$\n\n#X Si vous souhaitez l'améliorer davantage, vous devez employer un [GetCourtPositionType('assamite_primogen_court_position').GetName()] avec [Concept('assamite_primogen','Good Aptitude')|E] ou plus.#!" #NT!
- building_rome_assamite_03: "Trastaver" #NT!
- building_rome_assamite_03_desc: "Un quartier historique de [roma_aeterna|E] confié à un respectable [GetTrait('assamite').GetName(GetNullCharacter)] [primogen|E].\n\n$POD_rome_assamite_desc$\n\n#X Si vous souhaitez l'améliorer encore, vous devez employer un [GetCourtPositionType('assamite_primogen_court_position').GetName()] avec [Concept('assamite_primogen','Excellent Aptitude')|E].#!" #NT!
- building_rome_assamite_04: "Trastaver" #NT!
- building_rome_assamite_04_desc: "Un quartier historique du [roma_aeterna|E] confié à un puissant [GetTrait('assamite').GetName(GetNullCharacter)] [primogen|E].\n\n$POD_rome_assamite_desc$" #NT!
-  
-  
-  ####################################### 
-  ##### Rome for Shadow Inquisition ##### 
-  ####################################### 
-  
- building_type_rome_st_peters_city_01: "Le Vatican" #NT!
- building_type_rome_st_peters_city_01_desc: "Le Vatican est le siège de la papauté depuis que saint Pierre a créé l'institution." #NT!
- building_rome_st_peters_city_01: "Espoir de Saint-Pierre" #NT!
- building_rome_st_peters_city_01_desc: "$building_type_rome_st_peters_city_01_desc$\n\nLe Saint-Père apprécie la présence de l'Inquisition, mais elle devra encore faire ses preuves." #NT!
- building_rome_st_peters_city_02: "Détermination de Saint-Pierre" #NT!
- building_rome_st_peters_city_02_desc: "$building_type_rome_st_peters_city_01_desc$\n\nL'Inquisition s'est employée à nettoyer la ville de son infestation surnaturelle." #NT!
- building_rome_st_peters_city_03: "Ville de Saint-Pierre" #NT!
- building_rome_st_peters_city_03_desc: "$building_type_rome_st_peters_city_01_desc$\n\nEnfin, la ville de Rome a été sauvée. Ses citoyens peuvent dormir tranquilles, sachant qu’aucun danger ne les menace plus la nuit." #NT!
-  
- POD_rome_san_michele_library_desc: "Il s’agit de l’une des collections de connaissances occultes les plus impressionnantes au monde. Des livres sur le surnaturel, la démonologie et la magie peuvent être trouvés ici. Divers Inquisiteurs ont également fait don de leurs collections privées à la bibliothèque." #NT!
- POD_rome_san_michele_library_bonus: "#P Lorsque le propriétaire de ce bâtiment utilise Intercession, la cible gagne toujours [GetTrait('truefaith').GetName(GetNullCharacter)].#!" #NT!
- building_type_rome_san_michele_library_01: "Bibliothèque de San Michele" #NT!
- building_type_rome_san_michele_library_01_desc: "Une partie du monastère de San Michele, réservée à un usage futur par l'Ordre Rouge.\n\n$POD_rome_san_michele_library_desc$" #NT!
- building_rome_san_michele_library_01: "Bibliothèque de San Michele" #NT!
- building_rome_san_michele_library_01_desc: "Une partie du monastère de San Michele, réservée à un usage futur par l'Ordre Rouge." #NT!
- building_rome_san_michele_library_02: "Bibliothèque de San Michele" #NT!
- building_rome_san_michele_library_02_desc: "Une section du monastère de San Michele, occupée par l'Ordre Rouge.\n\n$POD_rome_san_michele_library_desc$\n\n#X Si vous souhaitez l'améliorer davantage, vous devez terminer le majeur [decision|E] pour soutenir l'Ordre Rouge.§ _3" #NT!
- building_rome_san_michele_library_03: "Bibliothèque de San Michele" #NT!
- building_rome_san_michele_library_03_desc: "Une partie du monastère de San Michele, occupée par l'Ordre Rouge triomphant.\n\n$POD_rome_san_michele_library_desc$" #NT!
-  
- POD_rome_san_michele_aedificium_desc: "Cette imposante structure contient les bureaux administratifs de l'Inquisition, y compris les bureaux de l'Inquisiteur général, de l'intendant, du bureau du censeur, du condottiere général et une foule d'administrateurs moins importants." #NT!
- POD_rome_san_michele_aedificium_bonus: "#P Tant que l'Inquisition contrôlera ce bâtiment, le pape sera toujours favorable.#!" #NT!
- building_type_rome_san_michele_aedificium_01: "Édifice de San Michele" #NT!
- building_type_rome_san_michele_aedificium_01_desc: "Une partie du monastère de San Michele, réservée à un usage futur par la Maison Murnau.\n\n$POD_rome_san_michele_aedificium_desc$" #NT!
- building_rome_san_michele_aedificium_01: "Édifice de San Michele" #NT!
- building_rome_san_michele_aedificium_01_desc: "Une partie du monastère de San Michele, réservée à un usage futur par la Maison Murnau." #NT!
- building_rome_san_michele_aedificium_02: "Édifice de San Michele" #NT!
- building_rome_san_michele_aedificium_02_desc: "Une section du monastère de San Michele, occupée par la Maison Murnau.\n\n$POD_rome_san_michele_aedificium_desc$\n\n#X Si vous souhaitez l'améliorer davantage, vous devez terminer le [decision|E] majeur pour soutenir la Maison Murnau.#!" #NT!
- building_rome_san_michele_aedificium_03: "Édifice de San Michele" #NT!
- building_rome_san_michele_aedificium_03_desc: "Une partie du monastère de San Michele, occupée par une maison triomphante Murnau.\n\n$POD_rome_san_michele_aedificium_desc$" #NT!
-  
- POD_rome_san_michele_reliquary_desc: "Les nombreuses reliques de l'Inquisition sont stockées dans ce coffre-fort. Il possède une antichambre qui est utilisée pour des expositions occasionnelles. Le bureau du Reliquaire jouxte l'antichambre." #NT!
- POD_rome_san_michele_reliquary_bonus: "#P Le propriétaire de cet immeuble peut acheter [artifact_claims|E], et ce à un coût réduit.#!" #NT!
- building_type_rome_san_michele_reliquary_01: "Grand Reliquaire de San Michele" #NT!
- building_type_rome_san_michele_reliquary_01_desc: "Une partie du monastère de San Michele, réservée à un usage futur par les chevaliers d'Acre.\n\n$POD_rome_san_michele_reliquary_desc$" #NT!
- building_rome_san_michele_reliquary_01: "Grande Reliquaire de San Michele" #NT!
- building_rome_san_michele_reliquary_01_desc: "Une partie du monastère de San Michele, réservée à un usage futur par les chevaliers d'Acre." #NT!
- building_rome_san_michele_reliquary_02: "Grande Reliquaire de San Michele" #NT!
- building_rome_san_michele_reliquary_02_desc: "Une section du monastère de San Michele, occupée par les Chevaliers d'Acre.\n\n$POD_rome_san_michele_reliquary_desc$\n\n#X Si vous souhaitez l'améliorer davantage, vous devez terminer le [decision|E] majeur pour soutenir les Chevaliers d'Acre. .#!" #NT!
- building_rome_san_michele_reliquary_03: "Grande Reliquaire de San Michele" #NT!
- building_rome_san_michele_reliquary_03_desc: "Une partie du monastère de San Michele, occupée par les chevaliers triomphants d'Acre.\n\n$POD_rome_san_michele_reliquary_desc$" #NT!
-  
- POD_rome_san_michele_basilica_desc: "Cette basilique inspirante est le principal lieu de culte pour tous dans l'enceinte du monastère. Il s'agit d'une structure élaborée de styles architecturaux contrastés. Le niveau inférieur de la basilique contient un certain nombre de chapelles plus petites, généralement dédiées au culte privé." #NT!
- POD_rome_san_michele_basilica_bonus: "#P Le propriétaire de ce bâtiment peut méditer en isolement, ce qui donne de meilleurs résultats lorsqu'il est effectué dans la basilique.#!" #NT!
- building_type_rome_san_michele_basilica_01: "Basilique de San Michele" #NT!
- building_type_rome_san_michele_basilica_01_desc: "Une partie du monastère de San Michele, réservée à un usage futur par les Sœurs de Saint-Jean.\n\n$POD_rome_san_michele_basilica_desc$" #NT!
- building_rome_san_michele_basilica_01: "Basilique Saint-Michel" #NT!
- building_rome_san_michele_basilica_01_desc: "Une partie du monastère de San Michele, réservée à l'usage futur des Sœurs de Saint-Jean." #NT!
- building_rome_san_michele_basilica_02: "Basilique Saint-Michel" #NT!
- building_rome_san_michele_basilica_02_desc: "Une partie du monastère de San Michele, occupée par les Sœurs de Saint-Jean.\n\n$POD_rome_san_michele_basilica_desc$\n\n#X Si vous souhaitez l'améliorer davantage, vous devez compléter le majeur [decision|E] pour soutenir les Sœurs. de Saint-Jean.#!" #NT!
- building_rome_san_michele_basilica_03: "Basilique Saint-Michel" #NT!
- building_rome_san_michele_basilica_03_desc: "Une partie du monastère de San Michele, occupée par les Sœurs triomphantes de Saint-Jean.\n\n$POD_rome_san_michele_basilica_desc$" #NT!
-  
- POD_rome_san_michele_cloisters_desc: "Ce bâtiment de trois étages abrite tous les Inquisiteurs qui vivent en résidence. Il comprend deux cuisines, une salle à manger et deux petites salles à manger. Le premier étage du cloître contient une grande chapelle, généralement utilisée uniquement pour la dévotion privée, et des chapelles privées plus petites peuvent être trouvées aux deux étages supérieurs." #NT!
- POD_rome_san_michele_cloisters_bonus: "#P Le propriétaire de ce bâtiment a doublé [planning_speed|E] sur Find Lair [journey|E].#!" #NT!
- building_type_rome_san_michele_cloisters_01: "Cloître de San Michele" #NT!
- building_type_rome_san_michele_cloisters_01_desc: "Une partie du monastère de San Michele, réservée à un usage futur par l'Oculi Dei.\n\n$POD_rome_san_michele_cloisters_desc$" #NT!
- building_rome_san_michele_cloisters_01: "Eglise de San Michele" #NT!
- building_rome_san_michele_cloisters_01_desc: "Une partie du monastère de San Michele, réservée à un usage futur de l'Oculi Dei." #NT!
- building_rome_san_michele_cloisters_02: "Eglise de San Michele" #NT!
- building_rome_san_michele_cloisters_02_desc: "Une section du monastère de San Michele, occupée par l'Oculi Dei.\n\n$POD_rome_san_michele_cloisters_desc$\n\n#X Si vous souhaitez l'améliorer davantage, vous devez terminer le majeur [decision|E] pour soutenir l'Oculi Dei.§ _3" #NT!
- building_rome_san_michele_cloisters_03: "Eglise de San Michele" #NT!
- building_rome_san_michele_cloisters_03_desc: "Une partie du monastère de San Michele, occupée par l'Oculi Dei triomphant.\n\n$POD_rome_san_michele_cloisters_desc$" #NT!
-  
-  
-  ############################### 
-  ##### Rome for the others ##### 
-  ############################### 
-  
- building_type_rome_eternal_rome_01: "Rome éternelle" #NT!
- building_type_rome_eternal_rome_01_desc: "Les jours de gloire de l’Empire romain sont peut-être révolus depuis longtemps, mais si vous écoutez attentivement, vous pouvez encore entendre leurs échos." #NT!
- building_rome_eternal_rome_01: "Rome divisée" #NT!
- building_rome_eternal_rome_01_desc: "$building_type_rome_eternal_rome_01_desc$" #NT!
- building_rome_eternal_rome_02: "Rome invaincue" #NT!
- building_rome_eternal_rome_02_desc: "Les citoyens de Rome se sentent revigorés, sachant que la ville a un brillant avenir devant elle." #NT!
- building_rome_eternal_rome_03: "Rome éternelle" #NT!
- building_rome_eternal_rome_03_desc: "Une fois de plus, Rome est devenue le joyau de la Méditerranée. Les mortels ne savent pas à qui ils doivent la renaissance de la ville, mais ils sont tout de même reconnaissants." #NT!
-  
- POD_rome_colosseum_bonus: "[Select_CString(IsInGame,GuiScope.Custom('POD_colosseum_loc'),GuiScope.Custom('POD_colosseum_loc_null'))]" #NT!
- POD_rome_colosseum_bonus_dlc: "#P Le propriétaire de ce bâtiment peut organiser #TOOLTIP:ACTIVITY_TYPE,activity_gruesome_festival #L Festivals horribles#!#! et exécuter [prisoners|E] en les donnant à manger aux animaux sauvages.#!" #NT!
- POD_rome_colosseum_bonus_dlc_null: "#P Le propriétaire de ce bâtiment peut organiser des festivals horribles et exécuter le [prisoners|E] en les donnant à manger aux animaux sauvages.#!" #NT!
- POD_rome_colosseum_bonus_nodlc: "#P Le propriétaire de ce bâtiment peut exécuter [prisoners|E] en les donnant à manger aux animaux sauvages.#!" #NT!
- building_type_rome_colosseum_01: "Le Colisée" #NT!
- building_type_rome_colosseum_01_desc: "Le plus grand amphithéâtre jamais construit. Les années l'ont altéré, les tremblements de terre l'ont endommagé, ses pierres ont été récupérées et réutilisées pour d'autres projets de construction, et pourtant il est toujours aussi imposant aujourd'hui qu'il l'était dans les temps anciens." #NT!
- building_rome_colosseum_01: "Le Colisée" #NT!
- building_rome_colosseum_01_desc: "$building_type_rome_colosseum_01_desc$\n\nUn glorieux dirigeant pourrait lui redonner son objectif d'origine.\n\n#X Si vous souhaitez l'améliorer, vous devez être un [GetTrait('august').GetName(GetNullCharacter)] ou employer un [GetCourtPositionType('seneschal_court_position').GetName()] avec Excellent [aptitude|E].#!" #NT!
- building_rome_colosseum_02: "Colisée restauré" #NT!
- building_rome_colosseum_02_desc: "Pendant la journée, ce grand amphithéâtre accueille des pièces de théâtre, des concerts et d'autres divertissements pour les mortels. La nuit... il se passe des choses moins savoureuses." #NT!
-  
- building_type_rome_hadrianstomb_01: "Mausolée d'Hadrien" #NT!
- building_type_rome_hadrianstomb_01_desc: "Ce tombeau cylindrique est la structure la plus haute de toute la ville. Il contenait les urnes et les cendres de nombreux empereurs romains, jusqu'à ce que les pilleurs wisigoths les dispersent lors du sac de Rome." #NT!
- POD_rome_hadrianstomb_bonus: "#P Le propriétaire de cet immeuble peut acheter [artifact_claims|E], et ce à un coût réduit.#!" #NT!
- building_rome_hadrianstomb_01: "Mausolée d'Hadrien" #NT!
- building_rome_hadrianstomb_01_desc: "$building_type_rome_hadrianstomb_01_desc$\n\nUn dirigeant astucieux pourrait le fortifier et le transformer en coffre-fort.\n\n#X Si vous souhaitez l'améliorer, vous devez être un [GetTrait('scholar').GetName(GetNullCharacter)] ou employer un [GetCourtPositionType('antiquarian_court_position').GetName()] avec Excellent [aptitude|E].#!" #NT!
- building_rome_hadrianstomb_02: "Château Saint-Ange" #NT!
- building_rome_hadrianstomb_02_desc: "Cet ancien mausolée a été transformé en forteresse sécurisée. Situé au milieu de la ville, il n'a peut-être pas beaucoup de valeur militaire, mais c'est un endroit idéal pour stocker des trésors précieux." #NT!
-  
- building_type_rome_aqueduct_01: "Aqueduc" #NT!
- building_type_rome_aqueduct_01_desc: "Le dernier aqueduc fonctionnel de la Rome antique. À son apogée, il pourrait livrer 100 millions de litres d'eau par jour à des citoyens assoiffés... ou à des empereurs désireux de prendre un bain luxueux." #NT!
- POD_rome_aqueduct_bonus: "#P Le propriétaire de ce bâtiment peut utiliser le [diligent_development_focus_decision|E] si Rome est sa capitale.#!" #NT!
- building_rome_aqueduct_01: "Aqua Vierge" #NT!
- building_rome_aqueduct_01_desc: "$building_type_rome_aqueduct_01_desc$\n\nUn dirigeant compétent en ingénierie pourrait le rénover pour améliorer le niveau de vie de la ville.\n\n#X Si vous souhaitez l'améliorer, vous devez être un [GetTrait('architect').GetName(GetNullCharacter)] ou employer un [GetCourtPositionType('royal_architect_court_position').GetName()] avec Excellent §. _4.#!" #NT!
- building_rome_aqueduct_02: "Aqua Vergine" #NT!
- building_rome_aqueduct_02_desc: "Cet ancien aqueduc a été agrandi et réaménagé à l'aide de techniques d'ingénierie de pointe. Il fournit l'eau potable la plus pure de Rome, et de nombreuses personnes peuvent être vues en train de remplir des récipients pour boire et cuisiner." #NT!
-  
- building_type_rome_pasquino_01: "Statue parlante" #NT!
- building_type_rome_pasquino_01_desc: "Une statue récemment découverte d'un héros grec ou autre. Les citoyens de Rome l'utilisent comme panneau d'affichage, affichant des critiques anonymes et des poèmes satiriques sur sa base, faisant semblant que c'est la statue qui les prononce.\n\nCertains disent que la statue ressemble à Ménélé, mais cela semble absurde." #NT!
- POD_rome_pasquino_bonus: "#P Le propriétaire de ce bâtiment peut utiliser [propaganda|E] pour supprimer l'un de ses traits criminels.#!" #NT!
- building_rome_pasquino_01: "Pasquino" #NT!
- building_rome_pasquino_01_desc: "Une statue récemment découverte d'un héros grec ou autre. Les citoyens de Rome l'utilisent comme tableau d'affichage, affichant des critiques anonymes et des poèmes satiriques sur sa base, faisant comme si c'était la statue qui les prononçait.\n\nUn dirigeant rusé pourrait l'utiliser pour influencer l'opinion publique.\n\n§ _0 Si vous souhaitez le mettre à niveau, vous devez être un [GetTrait('schemer').GetName(GetNullCharacter)] ou avoir un [spymaster|E] avec au moins 20 [intrigue|E] assis sur le [council|E].#!" #NT!
- building_rome_pasquino_02: "Pasquino le Persuasif" #NT!
- building_rome_pasquino_02_desc: "Les citoyens qui postent des messages anonymes sur cette statue pensent qu'ils critiquent le dirigeant de la ville. En vérité, ils ne disent que ce que le #italic réel#! dirigeant de la ville leur laisse dire." #NT!
-  
-  # Special building for Werewolves 
- building_type_rome_tiber_01: "$building_rome_tiber_01$" #NT!
- building_type_rome_tiber_01_desc: "$building_rome_tiber_01_desc$" #NT!
- building_rome_tiber_01: "Le Tibre" #NT!
- building_rome_tiber_01_desc: "La civilisation a la mainmise sur cette région. Le peu de nature qui reste est actuellement domestiqué par les citadins.\n\nCependant, certains Garous entreprenants ont réussi à lancer des raids nocturnes sur la métropole, ramenant des armes et d'autres fournitures." #NT!
+    grand_city_holding: "Grande Ville"
+    grand_city_holding_concept_key: "[grand_city|E]"
+    building_type_grand_city_01: "Grande Ville"
+    building_type_grand_city_01_desc: "Un grand centre de population d'une grande importance pour le monde mortel et surnaturel."
+    building_grand_city_01: "Où les gens se rassemblent"
+    building_grand_city_01_desc: "Avec sa grande population de mortels, cette ville représente un potentiel pur et inexploité. Il ne manque plus qu'un dirigeant entreprenant qui ose s'en emparer."
+    building_grand_city_02: "Là où les gens prospèrent"
+    building_grand_city_02_desc: "Cette ville est connue partout pour être un lieu d’opportunités. Les mortels y affluent en masse à la recherche d’une vie meilleure. Et là où ils prospèrent, vous aussi."
+    building_grand_city_03: "Là où la culture se façonne"
+    building_grand_city_03_desc: "Cette ville de renommée mondiale est le berceau d’innovations et de tendances, jetant une grande ombre sur le reste de la civilisation."
+    building_grand_city_04: "Là où l'histoire se fait"
+    building_grand_city_04_desc:
+        "Les événements monumentaux qui se déroulent dans cette ville garantiront que son nom ne sera jamais oublié."
+
+        #############################
+        ##### Rome for Vampires #####
+        #############################
+
+    building_type_rome_roma_aeterna_01: "Rome Aeterna"
+    building_type_rome_roma_aeterna_01_desc: "#F Rome était autant le centre du monde [cainite|E] que du monde humain. Le restaurer à sa grandeur de mort-vivant serait une formidable réussite.#!"
+    building_rome_roma_aeterna_01: "Roma Dividua"
+    building_rome_roma_aeterna_01_desc: "Des hommes saints rôdent dans les rues, contestant toute tentative de contrôle direct sur le centre du monde européen. A ce stade, Rome est un titre prestigieux pour son propriétaire mais aussi dangereux."
+    building_rome_roma_aeterna_02: "Rome Invicta"
+    building_rome_roma_aeterna_02_desc: "Petit à petit, la foi de Rome s'érode et les vampires peuvent à nouveau utiliser leur influence subtile au profit du prince."
+    building_rome_roma_aeterna_03: "Rome Aeterna"
+    building_rome_roma_aeterna_03_desc: "Enfin, Rome est de retour entre les mains des vampiriques. Des hommes saints se recroquevillent dans l’obscurité tandis que les enfants de Caïn chantent les louanges du grand souverain qui a conquis la ville sainte."
+
+    POD_rome_ventrue_desc: "C'est ici que se trouve le vénérable Forum Romanum, qui fut autrefois le cœur battant de la ville. Son extérieur en ruine cache de belles et confortables chambres."
+    POD_rome_ventrue_bonus: "#P Posséder ce quartier débloque le [sell_titles_decision|E] et le rend moins cher à utiliser.#!"
+    building_type_rome_ventrue_01: "Montium et Bibératice"
+    building_type_rome_ventrue_01_desc: "Un quartier historique du [roma_aeterna|E] confié au Clan [GetTrait('ventrue').GetName(GetNullCharacter)].\n\n$POD_rome_ventrue_desc$"
+    building_rome_ventrue_01: "Montium et Bibératice"
+    building_rome_ventrue_01_desc: "Un quartier historique de [roma_aeterna|E] confié au clan [GetTrait('ventrue').GetName(GetNullCharacter)].\n\n$POD_rome_ventrue_desc$\n\n#X Si vous souhaitez l'améliorer davantage, vous devez être un [king|E] et employer un [GetCourtPositionType('ventrue_primogen_court_position').GetName()].#!"
+    building_rome_ventrue_02: "Montium et Bibératice"
+    building_rome_ventrue_02_desc: "Un quartier historique de [roma_aeterna|E] confié à un [GetTrait('ventrue').GetName(GetPlayer)] [primogen|E].\n\n$POD_rome_ventrue_desc$\n\n#X Si vous souhaitez l'améliorer davantage, vous devez employer un [GetCourtPositionType('ventrue_primogen_court_position').GetName()] avec [Concept('ventrue_primogen','Good Aptitude')|E] ou plus.#!"
+    building_rome_ventrue_03: "Montium et Bibératice"
+    building_rome_ventrue_03_desc: "Un quartier historique de [roma_aeterna|E] confié à un respectable [GetTrait('ventrue').GetName(GetNullCharacter)] [primogen|E].\n\n$POD_rome_ventrue_desc$\n\n#X Si vous souhaitez l'améliorer encore, vous devez employer un [GetCourtPositionType('ventrue_primogen_court_position').GetName()] avec [Concept('ventrue_primogen','Excellent Aptitude')|E].#!"
+    building_rome_ventrue_04: "Montium et Bibératice"
+    building_rome_ventrue_04_desc: "Un quartier historique du [roma_aeterna|E] confié à un puissant [GetTrait('ventrue').GetName(GetNullCharacter)] [primogen|E].\n\n$POD_rome_ventrue_desc$"
+
+    POD_rome_brujah_desc: "C'est ici que se trouve la Via Lata, la grande route que les empereurs avaient l'habitude de parcourir pour leurs triomphes. Il contient également le dernier des aqueducs fonctionnels, l'Aqua Virgo, un lieu où les mortels se rassemblent en grand nombre."
+    POD_rome_brujah_bonus: "#P Posséder ce quartier débloque le [GetActivityType('activity_brujah_panegyra').GetName()] [activity|E].#!"
+    building_type_rome_brujah_01: "Trivii et Vie Late"
+    building_type_rome_brujah_01_desc: "Un quartier historique du [roma_aeterna|E] confié au Clan [GetTrait('brujah').GetName(GetNullCharacter)].\n\n$POD_rome_brujah_desc$"
+    building_rome_brujah_01: "Trivii et Vie Late"
+    building_rome_brujah_01_desc: "Un quartier historique de [roma_aeterna|E] confié au clan [GetTrait('brujah').GetName(GetNullCharacter)].\n\n$POD_rome_brujah_desc$\n\n#X Si vous souhaitez l'améliorer davantage, vous devez être un [king|E] et employer un [GetCourtPositionType('brujah_primogen_court_position').GetName()].#!"
+    building_rome_brujah_02: "Trivii et Vie Late"
+    building_rome_brujah_02_desc: "Un quartier historique de [roma_aeterna|E] confié à un [GetTrait('brujah').GetName(GetNullCharacter)] [primogen|E].\n\n$POD_rome_brujah_desc$\n\n#X Si vous souhaitez l'améliorer davantage, vous devez employer un [GetCourtPositionType('brujah_primogen_court_position').GetName()] avec [Concept('brujah_primogen','Good Aptitude')|E] ou plus.#!"
+    building_rome_brujah_03: "Trivii et Vie Late"
+    building_rome_brujah_03_desc: "Un quartier historique de [roma_aeterna|E] confié à un respectable [GetTrait('brujah').GetName(GetNullCharacter)] [primogen|E].\n\n$POD_rome_brujah_desc$\n\n#X Si vous souhaitez l'améliorer encore, vous devez employer un [GetCourtPositionType('brujah_primogen_court_position').GetName()] avec [Concept('brujah_primogen','Excellent Aptitude')|E].#!"
+    building_rome_brujah_04: "Trivii et Vie Late"
+    building_rome_brujah_04_desc: "Un quartier historique du [roma_aeterna|E] confié à un puissant [GetTrait('brujah').GetName(GetNullCharacter)] [primogen|E].\n\n$POD_rome_brujah_desc$"
+
+    POD_rome_setite_desc: "Cette région abrite le temple de l'empereur déifié Hadrien. À l'intérieur de ses salles, des chambres secrètes ont été rénovées pour un usage clandestin."
+    POD_rome_setite_bonus: "#P Le propriétaire de ce quartier peut utiliser [propaganda|E] pour supprimer l'un de ses traits criminels.#!"
+    building_type_rome_setite_01: "Columpne et Sancte Marie à Aquiro"
+    building_type_rome_setite_01_desc: "Un quartier historique du [roma_aeterna|E] confié au Clan [GetTrait('setite').GetName(GetNullCharacter)].\n\n$POD_rome_setite_desc$"
+    building_rome_setite_01: "Columpne et Sancte Marie à Aquiro"
+    building_rome_setite_01_desc: "Un quartier historique de [roma_aeterna|E] confié au clan [GetTrait('setite').GetName(GetNullCharacter)].\n\n$POD_rome_setite_desc$\n\n#X Si vous souhaitez l'améliorer davantage, vous devez être un [king|E] et employer un [GetCourtPositionType('setite_primogen_court_position').GetName()].#!"
+    building_rome_setite_02: "Columpne et Sancte Marie à Aquiro"
+    building_rome_setite_02_desc: "Un quartier historique de [roma_aeterna|E] confié à un [GetTrait('setite').GetName(GetNullCharacter)] [primogen|E].\n\n$POD_rome_setite_desc$\n\n#X Si vous souhaitez l'améliorer davantage, vous devez employer un [GetCourtPositionType('setite_primogen_court_position').GetName()] avec [Concept('setite_primogen','Good Aptitude')|E] ou plus.#!"
+    building_rome_setite_03: "Columpne et Sancte Marie à Aquiro"
+    building_rome_setite_03_desc: "Un quartier historique de [roma_aeterna|E] confié à un respectable [GetTrait('setite').GetName(GetNullCharacter)] [primogen|E].\n\n$POD_rome_setite_desc$\n\n#X Si vous souhaitez l'améliorer encore, vous devez employer un [GetCourtPositionType('setite_primogen_court_position').GetName()] avec [Concept('setite_primogen','Excellent Aptitude')|E].#!"
+    building_rome_setite_04: "Columpne et Sancte Marie à Aquiro"
+    building_rome_setite_04_desc: "Un quartier historique du [roma_aeterna|E] confié à un puissant [GetTrait('setite').GetName(GetNullCharacter)] [primogen|E].\n\n$POD_rome_setite_desc$"
+
+    POD_rome_gangrel_desc: "Cette région contient des parties des anciens Champs de Mars, où se rassemblaient autrefois les légionnaires. Tout comme les soldats venus de loin sont devenus Romains grâce à leur service, les Gangrel seront incités à venir ici pour être honorés en tant que guerriers."
+    POD_rome_gangrel_bonus: "#P Posséder ce quartier débloque le [GetActivityType('activity_hunt').GetName()] [activity|E].#!"
+    building_type_rome_gangrel_01: "Campi Martis et Sancte Laurentii à Lucina"
+    building_type_rome_gangrel_01_desc: "Un quartier historique du [roma_aeterna|E] confié au Clan [GetTrait('gangrel').GetName(GetNullCharacter)].\n\n$POD_rome_gangrel_desc$"
+    building_rome_gangrel_01: "Campi Martis et Sancte Laurentii à Lucina"
+    building_rome_gangrel_01_desc: "Un quartier historique de [roma_aeterna|E] confié au clan [GetTrait('gangrel').GetName(GetNullCharacter)].\n\n$POD_rome_gangrel_desc$\n\n#X Si vous souhaitez l'améliorer davantage, vous devez être un [king|E] et employer un [GetCourtPositionType('gangrel_primogen_court_position').GetName()].#!"
+    building_rome_gangrel_02: "Campi Martis et Sancte Laurentii à Lucina"
+    building_rome_gangrel_02_desc: "Un quartier historique de [roma_aeterna|E] confié à un [GetTrait('gangrel').GetName(GetNullCharacter)] [primogen|E].\n\n$POD_rome_gangrel_desc$\n\n#X Si vous souhaitez l'améliorer davantage, vous devez employer un [GetCourtPositionType('gangrel_primogen_court_position').GetName()] avec [Concept('gangrel_primogen','Good Aptitude')|E] ou plus.#!"
+    building_rome_gangrel_03: "Campi Martis et Sancte Laurentii à Lucina"
+    building_rome_gangrel_03_desc: "Un quartier historique de [roma_aeterna|E] confié à un respectable [GetTrait('gangrel').GetName(GetNullCharacter)] [primogen|E].\n\n$POD_rome_gangrel_desc$\n\n#X Si vous souhaitez l'améliorer encore, vous devez employer un [GetCourtPositionType('gangrel_primogen_court_position').GetName()] avec [Concept('gangrel_primogen','Excellent Aptitude')|E].#!"
+    building_rome_gangrel_04: "Campi Martis et Sancte Laurentii à Lucina"
+    building_rome_gangrel_04_desc: "Un quartier historique du [roma_aeterna|E] confié à un puissant [GetTrait('gangrel').GetName(GetNullCharacter)] [primogen|E].\n\n$POD_rome_gangrel_desc$"
+
+    POD_rome_lasombra_desc: "Cette région tire son nom du pont de Néron, aujourd'hui brisé pour permettre le passage des grands navires. Un commerce important provient du fleuve et ses habitants prospèrent."
+    POD_rome_lasombra_bonus: "#P Posséder ce quartier débloque le [extort_subjects_decision|E].#!"
+    building_type_rome_lasombra_01: "Pontis et Scorteclariorum"
+    building_type_rome_lasombra_01_desc: "Un quartier historique du [roma_aeterna|E] confié au Clan [GetTrait('lasombra').GetName(GetNullCharacter)].\n\n$POD_rome_lasombra_desc$"
+    building_rome_lasombra_01: "Pontis et Scorteclariorum"
+    building_rome_lasombra_01_desc: "Un quartier historique de [roma_aeterna|E] confié au clan [GetTrait('lasombra').GetName(GetNullCharacter)].\n\n$POD_rome_lasombra_desc$\n\n#X Si vous souhaitez l'améliorer davantage, vous devez être un [king|E] et employer un [GetCourtPositionType('lasombra_primogen_court_position').GetName()].#!"
+    building_rome_lasombra_02: "Pontis et Scorteclariorum"
+    building_rome_lasombra_02_desc: "Un quartier historique de [roma_aeterna|E] confié à un [GetTrait('lasombra').GetName(GetNullCharacter)] [primogen|E].\n\n$POD_rome_lasombra_desc$\n\n#X Si vous souhaitez l'améliorer davantage, vous devez employer un [GetCourtPositionType('lasombra_primogen_court_position').GetName()] avec [Concept('lasombra_primogen','Good Aptitude')|E] ou plus.#!"
+    building_rome_lasombra_03: "Pontis et Scorteclariorum"
+    building_rome_lasombra_03_desc: "Un quartier historique de [roma_aeterna|E] confié à un respectable [GetTrait('lasombra').GetName(GetNullCharacter)] [primogen|E].\n\n$POD_rome_lasombra_desc$\n\n#X Si vous souhaitez l'améliorer encore, vous devez employer un [GetCourtPositionType('lasombra_primogen_court_position').GetName()] avec [Concept('lasombra_primogen','Excellent Aptitude')|E].#!"
+    building_rome_lasombra_04: "Pontis et Scorteclariorum"
+    building_rome_lasombra_04_desc: "Un quartier historique du [roma_aeterna|E] confié à un puissant [GetTrait('lasombra').GetName(GetNullCharacter)] [primogen|E].\n\n$POD_rome_lasombra_desc$"
+
+    POD_rome_nosferatu_desc: "Cette région doit son nom à la basilique honorant Saint Eustache. En apparence, cet endroit ne semble rien de remarquable... ce qui convient très bien aux Nosferatu."
+    POD_rome_nosferatu_bonus: "#P Posséder ce quartier débloque le [GetScheme('fabricate_hook').GetTypeName()] [scheme|E].#!"
+    building_type_rome_nosferatu_01: "Sancte Eustachii et Vinea Teudemarii"
+    building_type_rome_nosferatu_01_desc: "Un quartier historique du [roma_aeterna|E] confié au Clan [GetTrait('nosferatu').GetName(GetNullCharacter)].\n\n$POD_rome_nosferatu_desc$"
+    building_rome_nosferatu_01: "Sancte Eustachii et Vinea Teudemarii"
+    building_rome_nosferatu_01_desc: "Un quartier historique de [roma_aeterna|E] confié au clan [GetTrait('nosferatu').GetName(GetNullCharacter)].\n\n$POD_rome_nosferatu_desc$\n\n#X Si vous souhaitez l'améliorer davantage, vous devez être un [king|E] et employer un [GetCourtPositionType('nosferatu_primogen_court_position').GetName()].#!"
+    building_rome_nosferatu_02: "Sancte Eustachii et Vinea Teudemarii"
+    building_rome_nosferatu_02_desc: "Un quartier historique de [roma_aeterna|E] confié à un [GetTrait('nosferatu').GetName(GetNullCharacter)] [primogen|E].\n\n$POD_rome_nosferatu_desc$\n\n#X Si vous souhaitez l'améliorer davantage, vous devez employer un [GetCourtPositionType('nosferatu_primogen_court_position').GetName()] avec [Concept('nosferatu_primogen','Good Aptitude')|E] ou plus.#!"
+    building_rome_nosferatu_03: "Sancte Eustachii et Vinea Teudemarii"
+    building_rome_nosferatu_03_desc: "Un quartier historique de [roma_aeterna|E] confié à un respectable [GetTrait('nosferatu').GetName(GetNullCharacter)] [primogen|E].\n\n$POD_rome_nosferatu_desc$\n\n#X Si vous souhaitez l'améliorer encore, vous devez employer un [GetCourtPositionType('nosferatu_primogen_court_position').GetName()] avec [Concept('nosferatu_primogen','Excellent Aptitude')|E].#!"
+    building_rome_nosferatu_04: "Sancte Eustachii et Vinea Teudemarii"
+    building_rome_nosferatu_04_desc: "Un quartier historique du [roma_aeterna|E] confié à un puissant [GetTrait('nosferatu').GetName(GetNullCharacter)] [primogen|E].\n\n$POD_rome_nosferatu_desc$"
+
+    POD_rome_tzimisce_desc: "Située au bord du Tibre, cette région souffre de fréquentes inondations. Une couche de limon recouvre ses rues et ses habitants sont infestés d'insectes... et pire encore."
+    POD_rome_tzimisce_bonus: "#P Le propriétaire de ce quartier peut recruter [GetMaA('vozhd').GetName()] [men_at_arms|E].#!"
+    building_type_rome_tzimisce_01: "Arenule et Caccabariorum"
+    building_type_rome_tzimisce_01_desc: "Un quartier historique du [roma_aeterna|E] confié au Clan [GetTrait('tzimisce').GetName(GetNullCharacter)].\n\n$POD_rome_tzimisce_desc$"
+    building_rome_tzimisce_01: "Arenule et Caccabariorum"
+    building_rome_tzimisce_01_desc: "Un quartier historique de [roma_aeterna|E] confié au clan [GetTrait('tzimisce').GetName(GetNullCharacter)].\n\n$POD_rome_tzimisce_desc$\n\n#X Si vous souhaitez l'améliorer davantage, vous devez être un [king|E] et employer un [GetCourtPositionType('tzimisce_primogen_court_position').GetName()].#!"
+    building_rome_tzimisce_02: "Arenule et Caccabariorum"
+    building_rome_tzimisce_02_desc: "Un quartier historique de [roma_aeterna|E] confié à un [GetTrait('tzimisce').GetName(GetNullCharacter)] [primogen|E].\n\n$POD_rome_tzimisce_desc$\n\n#X Si vous souhaitez l'améliorer davantage, vous devez employer un [GetCourtPositionType('tzimisce_primogen_court_position').GetName()] avec [Concept('tzimisce_primogen','Good Aptitude')|E] ou plus.#!"
+    building_rome_tzimisce_03: "Arenule et Caccabariorum"
+    building_rome_tzimisce_03_desc: "Un quartier historique de [roma_aeterna|E] confié à un respectable [GetTrait('tzimisce').GetName(GetNullCharacter)] [primogen|E].\n\n$POD_rome_tzimisce_desc$\n\n#X Si vous souhaitez l'améliorer encore, vous devez employer un [GetCourtPositionType('tzimisce_primogen_court_position').GetName()] avec [Concept('tzimisce_primogen','Excellent Aptitude')|E].#!"
+    building_rome_tzimisce_04: "Arenule et Caccabariorum"
+    building_rome_tzimisce_04_desc: "Un quartier historique du [roma_aeterna|E] confié à un puissant [GetTrait('tzimisce').GetName(GetNullCharacter)] [primogen|E].\n\n$POD_rome_tzimisce_desc$"
+
+    POD_rome_toreador_desc: "Les artistes à l'esprit artistique se rendent dans cette région pour réfléchir aux gloires des temps passés. Ici, Pompée le Grand a construit le premier théâtre romain et l'empereur Domitien a commandé un stade recouvert de marbre. Les deux sont désormais en ruines."
+    POD_rome_toreador_bonus: "#P Posséder ce quartier débloque le [commission_epic_decision|E].#!"
+    building_type_rome_toreador_01: "Parionis et Sancte Laurentii à Damaso"
+    building_type_rome_toreador_01_desc: "Un quartier historique du [roma_aeterna|E] confié au Clan [GetTrait('toreador').GetName(GetNullCharacter)].\n\n$POD_rome_toreador_desc$"
+    building_rome_toreador_01: "Parionis et Sancte Laurentii à Damaso"
+    building_rome_toreador_01_desc: "Un quartier historique de [roma_aeterna|E] confié au clan [GetTrait('toreador').GetName(GetNullCharacter)].\n\n$POD_rome_toreador_desc$\n\n#X Si vous souhaitez l'améliorer davantage, vous devez être un [king|E] et employer un [GetCourtPositionType('toreador_primogen_court_position').GetName()].#!"
+    building_rome_toreador_02: "Parionis et Sancte Laurentii à Damaso"
+    building_rome_toreador_02_desc: "Un quartier historique de [roma_aeterna|E] confié à un [GetTrait('toreador').GetName(GetNullCharacter)] [primogen|E].\n\n$POD_rome_toreador_desc$\n\n#X Si vous souhaitez l'améliorer davantage, vous devez employer un [GetCourtPositionType('toreador_primogen_court_position').GetName()] avec [Concept('toreador_primogen','Good Aptitude')|E] ou plus.#!"
+    building_rome_toreador_03: "Parionis et Sancte Laurentii à Damaso"
+    building_rome_toreador_03_desc: "Un quartier historique de [roma_aeterna|E] confié à un respectable [GetTrait('toreador').GetName(GetNullCharacter)] [primogen|E].\n\n$POD_rome_toreador_desc$\n\n#X Si vous souhaitez l'améliorer encore, vous devez employer un [GetCourtPositionType('toreador_primogen_court_position').GetName()] avec [Concept('toreador_primogen','Excellent Aptitude')|E].#!"
+    building_rome_toreador_04: "Parionis et Sancte Laurentii à Damaso"
+    building_rome_toreador_04_desc: "Un quartier historique du [roma_aeterna|E] confié à un puissant [GetTrait('toreador').GetName(GetNullCharacter)] [primogen|E].\n\n$POD_rome_toreador_desc$"
+
+    POD_rome_cappadocian_desc: "Le Panthéon est la structure la plus remarquable de cette région. Les mortels en ont fait une église dédiée à Marie et aux Martyrs et ont déplacé des centaines de corps des catacombes pour les réinhumer."
+    POD_rome_cappadocian_bonus: "#P Le propriétaire de ce quartier peut entrer dans le [shadowlands|E] et manipuler le Linceul à cet endroit.#!"
+    building_type_rome_cappadocian_01: "Pinée et Sancte Marci"
+    building_type_rome_cappadocian_01_desc: "Un quartier historique du [roma_aeterna|E] confié au Clan [GetTrait('cappadocian').GetName(GetNullCharacter)].\n\n$POD_rome_cappadocian_desc$"
+    building_rome_cappadocian_01: "Pinée et Sancte Marci"
+    building_rome_cappadocian_01_desc: "Un quartier historique de [roma_aeterna|E] confié au clan [GetTrait('cappadocian').GetName(GetNullCharacter)].\n\n$POD_rome_cappadocian_desc$\n\n#X Si vous souhaitez l'améliorer davantage, vous devez être un [king|E] et employer un [GetCourtPositionType('cappadocian_primogen_court_position').GetName()].#!"
+    building_rome_cappadocian_02: "Pinée et Sancte Marci"
+    building_rome_cappadocian_02_desc: "Un quartier historique de [roma_aeterna|E] confié à un [GetTrait('cappadocian').GetName(GetNullCharacter)] [primogen|E].\n\n$POD_rome_cappadocian_desc$\n\n#X Si vous souhaitez l'améliorer davantage, vous devez employer un [GetCourtPositionType('cappadocian_primogen_court_position').GetName()] avec [Concept('cappadocian_primogen','Good Aptitude')|E] ou plus.#!"
+    building_rome_cappadocian_03: "Pinée et Sancte Marci"
+    building_rome_cappadocian_03_desc: "Un quartier historique de [roma_aeterna|E] confié à un respectable [GetTrait('cappadocian').GetName(GetNullCharacter)] [primogen|E].\n\n$POD_rome_cappadocian_desc$\n\n#X Si vous souhaitez l'améliorer encore, vous devez employer un [GetCourtPositionType('cappadocian_primogen_court_position').GetName()] avec [Concept('cappadocian_primogen','Excellent Aptitude')|E].#!"
+    building_rome_cappadocian_04: "Pinée et Sancte Marci"
+    building_rome_cappadocian_04_desc: "Un quartier historique du [roma_aeterna|E] confié à un puissant [GetTrait('cappadocian').GetName(GetNullCharacter)] [primogen|E].\n\n$POD_rome_cappadocian_desc$"
+
+    POD_rome_ravnos_desc: "Cette région abrite le marché aux poissons de Rome, un lieu où de nombreux roturiers se rassemblent pour faire du commerce."
+    POD_rome_ravnos_bonus: "#P Le propriétaire de ce quartier obtient de meilleurs résultats lors de la chasse dans votre capitale [journey|E].#!"
+    building_type_rome_ravnos_01: "Sancte Angeli au Foro Piscium"
+    building_type_rome_ravnos_01_desc: "Un quartier historique du [roma_aeterna|E] confié au Clan [GetTrait('ravnos').GetName(GetNullCharacter)].\n\n$POD_rome_ravnos_desc$"
+    building_rome_ravnos_01: "Sancte Angeli au Foro Piscium"
+    building_rome_ravnos_01_desc: "Un quartier historique de [roma_aeterna|E] confié au clan [GetTrait('ravnos').GetName(GetNullCharacter)].\n\n$POD_rome_ravnos_desc$\n\n#X Si vous souhaitez l'améliorer davantage, vous devez être un [king|E] et employer un [GetCourtPositionType('ravnos_primogen_court_position').GetName()].#!"
+    building_rome_ravnos_02: "Sancte Angeli au Foro Piscium"
+    building_rome_ravnos_02_desc: "Un quartier historique de [roma_aeterna|E] confié à un [GetTrait('ravnos').GetName(GetNullCharacter)] [primogen|E].\n\n$POD_rome_ravnos_desc$\n\n#X Si vous souhaitez l'améliorer davantage, vous devez employer un [GetCourtPositionType('ravnos_primogen_court_position').GetName()] avec [Concept('ravnos_primogen','Good Aptitude')|E] ou plus.#!"
+    building_rome_ravnos_03: "Sancte Angeli au Foro Piscium"
+    building_rome_ravnos_03_desc: "Un quartier historique de [roma_aeterna|E] confié à un respectable [GetTrait('ravnos').GetName(GetNullCharacter)] [primogen|E].\n\n$POD_rome_ravnos_desc$\n\n#X Si vous souhaitez l'améliorer encore, vous devez employer un [GetCourtPositionType('ravnos_primogen_court_position').GetName()] avec [Concept('ravnos_primogen','Excellent Aptitude')|E].#!"
+    building_rome_ravnos_04: "Sancte Angeli au Foro Piscium"
+    building_rome_ravnos_04_desc: "Un quartier historique du [roma_aeterna|E] confié à un puissant [GetTrait('ravnos').GetName(GetNullCharacter)] [primogen|E].\n\n$POD_rome_ravnos_desc$"
+
+    POD_rome_salubri_desc: "Autrefois, cette région abritait de grandes demeures resplendissantes de marbre. Après des siècles de dépeuplement, de troubles civils et de saisie de leurs pierres pour construire de nouvelles tours, il ne reste que leurs squelettes."
+    POD_rome_salubri_bonus: "#P Le propriétaire de ce quartier peut utiliser le [unburden_interaction|E] pour modifier ses traits de stress.#!"
+    building_type_rome_salubri_01: "Mûr et Marmoré"
+    building_type_rome_salubri_01_desc: "Un quartier historique du [roma_aeterna|E] confié au Clan [GetTrait('salubri').GetName(GetNullCharacter)].\n\n$POD_rome_salubri_desc$"
+    building_rome_salubri_01: "Mûr et Marmoré"
+    building_rome_salubri_01_desc: "Un quartier historique de [roma_aeterna|E] confié au clan [GetTrait('salubri').GetName(GetNullCharacter)].\n\n$POD_rome_salubri_desc$\n\n#X Si vous souhaitez l'améliorer davantage, vous devez être un [king|E] et employer un [GetCourtPositionType('salubri_primogen_court_position').GetName()].#!"
+    building_rome_salubri_02: "Mûr et Marmoré"
+    building_rome_salubri_02_desc: "Un quartier historique de [roma_aeterna|E] confié à un [GetTrait('salubri').GetName(GetNullCharacter)] [primogen|E].\n\n$POD_rome_salubri_desc$\n\n#X Si vous souhaitez l'améliorer davantage, vous devez employer un [GetCourtPositionType('salubri_primogen_court_position').GetName()] avec [Concept('salubri_primogen','Good Aptitude')|E] ou plus.#!"
+    building_rome_salubri_03: "Mûr et Marmoré"
+    building_rome_salubri_03_desc: "Un quartier historique de [roma_aeterna|E] confié à un respectable [GetTrait('salubri').GetName(GetNullCharacter)] [primogen|E].\n\n$POD_rome_salubri_desc$\n\n#X Si vous souhaitez l'améliorer encore, vous devez employer un [GetCourtPositionType('salubri_primogen_court_position').GetName()] avec [Concept('salubri_primogen','Excellent Aptitude')|E].#!"
+    building_rome_salubri_04: "Mûr et Marmoré"
+    building_rome_salubri_04_desc: "Un quartier historique du [roma_aeterna|E] confié à un puissant [GetTrait('salubri').GetName(GetNullCharacter)] [primogen|E].\n\n$POD_rome_salubri_desc$"
+
+    POD_rome_malkavian_desc: "Cette région est sous contrôle malkavien depuis l'époque des Césars. De nombreux sanctuaires magnifiques ont été construits sous leur patronage secret."
+    POD_rome_malkavian_bonus: "#P Posséder ce quartier débloque la Hold Mystical Communion [decision|E].#!"
+    building_type_rome_malkavian_01: "Campitelli et Sancte Adriani"
+    building_type_rome_malkavian_01_desc: "Un quartier historique du [roma_aeterna|E] confié au Clan [GetTrait('malkavian').GetName(GetNullCharacter)].\n\n$POD_rome_malkavian_desc$"
+    building_rome_malkavian_01: "Campitelli et Sancte Adriani"
+    building_rome_malkavian_01_desc: "Un quartier historique de [roma_aeterna|E] confié au clan [GetTrait('malkavian').GetName(GetNullCharacter)].\n\n$POD_rome_malkavian_desc$\n\n#X Si vous souhaitez l'améliorer davantage, vous devez être un [king|E] et employer un [GetCourtPositionType('malkavian_primogen_court_position').GetName()].#!"
+    building_rome_malkavian_02: "Campitelli et Sancte Adriani"
+    building_rome_malkavian_02_desc: "Un quartier historique de [roma_aeterna|E] confié à un [GetTrait('malkavian').GetName(GetNullCharacter)] [primogen|E].\n\n$POD_rome_malkavian_desc$\n\n#X Si vous souhaitez l'améliorer davantage, vous devez employer un [GetCourtPositionType('malkavian_primogen_court_position').GetName()] avec [Concept('malkavian_primogen','Good Aptitude')|E] ou plus.#!"
+    building_rome_malkavian_03: "Campitelli et Sancte Adriani"
+    building_rome_malkavian_03_desc: "Un quartier historique de [roma_aeterna|E] confié à un respectable [GetTrait('malkavian').GetName(GetNullCharacter)] [primogen|E].\n\n$POD_rome_malkavian_desc$\n\n#X Si vous souhaitez l'améliorer encore, vous devez employer un [GetCourtPositionType('malkavian_primogen_court_position').GetName()] avec [Concept('malkavian_primogen','Excellent Aptitude')|E].#!"
+    building_rome_malkavian_04: "Campitelli et Sancte Adriani"
+    building_rome_malkavian_04_desc: "Un quartier historique du [roma_aeterna|E] confié à un puissant [GetTrait('malkavian').GetName(GetNullCharacter)] [primogen|E].\n\n$POD_rome_malkavian_desc$"
+
+    POD_rome_assamite_desc: "Cette région de la rive ouest du Tibre regorge de rues étroites, sinueuses et irrégulières. C'était autrefois la villa-jardin de Jules César, les Horti Caesaris."
+    POD_rome_assamite_bonus: "#P Le propriétaire de ce quartier peut utiliser [assassination|E] pour compléter instantanément son [GetScheme('murder').GetTypeName()] [schemes|E].#!"
+    building_type_rome_assamite_01: "Trastaver"
+    building_type_rome_assamite_01_desc: "Un quartier historique du [roma_aeterna|E] confié au Clan [GetTrait('assamite').GetName(GetNullCharacter)].\n\n$POD_rome_assamite_desc$"
+    building_rome_assamite_01: "Trastaver"
+    building_rome_assamite_01_desc: "Un quartier historique de [roma_aeterna|E] confié au clan [GetTrait('assamite').GetName(GetNullCharacter)].\n\n$POD_rome_assamite_desc$\n\n#X Si vous souhaitez l'améliorer davantage, vous devez être un [king|E] et employer un [GetCourtPositionType('assamite_primogen_court_position').GetName()].#!"
+    building_rome_assamite_02: "Trastaver"
+    building_rome_assamite_02_desc: "Un quartier historique de [roma_aeterna|E] confié à un [GetTrait('assamite').GetName(GetNullCharacter)] [primogen|E].\n\n$POD_rome_assamite_desc$\n\n#X Si vous souhaitez l'améliorer davantage, vous devez employer un [GetCourtPositionType('assamite_primogen_court_position').GetName()] avec [Concept('assamite_primogen','Good Aptitude')|E] ou plus.#!"
+    building_rome_assamite_03: "Trastaver"
+    building_rome_assamite_03_desc: "Un quartier historique de [roma_aeterna|E] confié à un respectable [GetTrait('assamite').GetName(GetNullCharacter)] [primogen|E].\n\n$POD_rome_assamite_desc$\n\n#X Si vous souhaitez l'améliorer encore, vous devez employer un [GetCourtPositionType('assamite_primogen_court_position').GetName()] avec [Concept('assamite_primogen','Excellent Aptitude')|E].#!"
+    building_rome_assamite_04: "Trastaver"
+    building_rome_assamite_04_desc:
+        "Un quartier historique du [roma_aeterna|E] confié à un puissant [GetTrait('assamite').GetName(GetNullCharacter)] [primogen|E].\n\n$POD_rome_assamite_desc$"
+
+        #######################################
+        ##### Rome for Shadow Inquisition #####
+        #######################################
+
+    building_type_rome_st_peters_city_01: "Le Vatican"
+    building_type_rome_st_peters_city_01_desc: "Le Vatican est le siège de la papauté depuis que saint Pierre a créé l'institution."
+    building_rome_st_peters_city_01: "Espoir de Saint-Pierre"
+    building_rome_st_peters_city_01_desc: "$building_type_rome_st_peters_city_01_desc$\n\nLe Saint-Père apprécie la présence de l'Inquisition, mais elle devra encore faire ses preuves."
+    building_rome_st_peters_city_02: "Détermination de Saint-Pierre"
+    building_rome_st_peters_city_02_desc: "$building_type_rome_st_peters_city_01_desc$\n\nL'Inquisition s'est employée à nettoyer la ville de son infestation surnaturelle."
+    building_rome_st_peters_city_03: "Ville de Saint-Pierre"
+    building_rome_st_peters_city_03_desc: "$building_type_rome_st_peters_city_01_desc$\n\nEnfin, la ville de Rome a été sauvée. Ses citoyens peuvent dormir tranquilles, sachant qu’aucun danger ne les menace plus la nuit."
+
+    POD_rome_san_michele_library_desc: "Il s’agit de l’une des collections de connaissances occultes les plus impressionnantes au monde. Des livres sur le surnaturel, la démonologie et la magie peuvent être trouvés ici. Divers Inquisiteurs ont également fait don de leurs collections privées à la bibliothèque."
+    POD_rome_san_michele_library_bonus: "#P Lorsque le propriétaire de ce bâtiment utilise Intercession, la cible gagne toujours [GetTrait('truefaith').GetName(GetNullCharacter)].#!"
+    building_type_rome_san_michele_library_01: "Bibliothèque de San Michele"
+    building_type_rome_san_michele_library_01_desc: "Une partie du monastère de San Michele, réservée à un usage futur par l'Ordre Rouge.\n\n$POD_rome_san_michele_library_desc$"
+    building_rome_san_michele_library_01: "Bibliothèque de San Michele"
+    building_rome_san_michele_library_01_desc: "Une partie du monastère de San Michele, réservée à un usage futur par l'Ordre Rouge."
+    building_rome_san_michele_library_02: "Bibliothèque de San Michele"
+    building_rome_san_michele_library_02_desc: "Une section du monastère de San Michele, occupée par l'Ordre Rouge.\n\n$POD_rome_san_michele_library_desc$\n\n#X Si vous souhaitez l'améliorer davantage, vous devez terminer le majeur [decision|E] pour soutenir l'Ordre Rouge.§ _3"
+    building_rome_san_michele_library_03: "Bibliothèque de San Michele"
+    building_rome_san_michele_library_03_desc: "Une partie du monastère de San Michele, occupée par l'Ordre Rouge triomphant.\n\n$POD_rome_san_michele_library_desc$"
+
+    POD_rome_san_michele_aedificium_desc: "Cette imposante structure contient les bureaux administratifs de l'Inquisition, y compris les bureaux de l'Inquisiteur général, de l'intendant, du bureau du censeur, du condottiere général et une foule d'administrateurs moins importants."
+    POD_rome_san_michele_aedificium_bonus: "#P Tant que l'Inquisition contrôlera ce bâtiment, le pape sera toujours favorable.#!"
+    building_type_rome_san_michele_aedificium_01: "Édifice de San Michele"
+    building_type_rome_san_michele_aedificium_01_desc: "Une partie du monastère de San Michele, réservée à un usage futur par la Maison Murnau.\n\n$POD_rome_san_michele_aedificium_desc$"
+    building_rome_san_michele_aedificium_01: "Édifice de San Michele"
+    building_rome_san_michele_aedificium_01_desc: "Une partie du monastère de San Michele, réservée à un usage futur par la Maison Murnau."
+    building_rome_san_michele_aedificium_02: "Édifice de San Michele"
+    building_rome_san_michele_aedificium_02_desc: "Une section du monastère de San Michele, occupée par la Maison Murnau.\n\n$POD_rome_san_michele_aedificium_desc$\n\n#X Si vous souhaitez l'améliorer davantage, vous devez terminer le [decision|E] majeur pour soutenir la Maison Murnau.#!"
+    building_rome_san_michele_aedificium_03: "Édifice de San Michele"
+    building_rome_san_michele_aedificium_03_desc: "Une partie du monastère de San Michele, occupée par une maison triomphante Murnau.\n\n$POD_rome_san_michele_aedificium_desc$"
+
+    POD_rome_san_michele_reliquary_desc: "Les nombreuses reliques de l'Inquisition sont stockées dans ce coffre-fort. Il possède une antichambre qui est utilisée pour des expositions occasionnelles. Le bureau du Reliquaire jouxte l'antichambre."
+    POD_rome_san_michele_reliquary_bonus: "#P Le propriétaire de cet immeuble peut acheter [artifact_claims|E], et ce à un coût réduit.#!"
+    building_type_rome_san_michele_reliquary_01: "Grand Reliquaire de San Michele"
+    building_type_rome_san_michele_reliquary_01_desc: "Une partie du monastère de San Michele, réservée à un usage futur par les chevaliers d'Acre.\n\n$POD_rome_san_michele_reliquary_desc$"
+    building_rome_san_michele_reliquary_01: "Grande Reliquaire de San Michele"
+    building_rome_san_michele_reliquary_01_desc: "Une partie du monastère de San Michele, réservée à un usage futur par les chevaliers d'Acre."
+    building_rome_san_michele_reliquary_02: "Grande Reliquaire de San Michele"
+    building_rome_san_michele_reliquary_02_desc: "Une section du monastère de San Michele, occupée par les Chevaliers d'Acre.\n\n$POD_rome_san_michele_reliquary_desc$\n\n#X Si vous souhaitez l'améliorer davantage, vous devez terminer le [decision|E] majeur pour soutenir les Chevaliers d'Acre. .#!"
+    building_rome_san_michele_reliquary_03: "Grande Reliquaire de San Michele"
+    building_rome_san_michele_reliquary_03_desc: "Une partie du monastère de San Michele, occupée par les chevaliers triomphants d'Acre.\n\n$POD_rome_san_michele_reliquary_desc$"
+
+    POD_rome_san_michele_basilica_desc: "Cette basilique inspirante est le principal lieu de culte pour tous dans l'enceinte du monastère. Il s'agit d'une structure élaborée de styles architecturaux contrastés. Le niveau inférieur de la basilique contient un certain nombre de chapelles plus petites, généralement dédiées au culte privé."
+    POD_rome_san_michele_basilica_bonus: "#P Le propriétaire de ce bâtiment peut méditer en isolement, ce qui donne de meilleurs résultats lorsqu'il est effectué dans la basilique.#!"
+    building_type_rome_san_michele_basilica_01: "Basilique de San Michele"
+    building_type_rome_san_michele_basilica_01_desc: "Une partie du monastère de San Michele, réservée à un usage futur par les Sœurs de Saint-Jean.\n\n$POD_rome_san_michele_basilica_desc$"
+    building_rome_san_michele_basilica_01: "Basilique Saint-Michel"
+    building_rome_san_michele_basilica_01_desc: "Une partie du monastère de San Michele, réservée à l'usage futur des Sœurs de Saint-Jean."
+    building_rome_san_michele_basilica_02: "Basilique Saint-Michel"
+    building_rome_san_michele_basilica_02_desc: "Une partie du monastère de San Michele, occupée par les Sœurs de Saint-Jean.\n\n$POD_rome_san_michele_basilica_desc$\n\n#X Si vous souhaitez l'améliorer davantage, vous devez compléter le majeur [decision|E] pour soutenir les Sœurs. de Saint-Jean.#!"
+    building_rome_san_michele_basilica_03: "Basilique Saint-Michel"
+    building_rome_san_michele_basilica_03_desc: "Une partie du monastère de San Michele, occupée par les Sœurs triomphantes de Saint-Jean.\n\n$POD_rome_san_michele_basilica_desc$"
+
+    POD_rome_san_michele_cloisters_desc: "Ce bâtiment de trois étages abrite tous les Inquisiteurs qui vivent en résidence. Il comprend deux cuisines, une salle à manger et deux petites salles à manger. Le premier étage du cloître contient une grande chapelle, généralement utilisée uniquement pour la dévotion privée, et des chapelles privées plus petites peuvent être trouvées aux deux étages supérieurs."
+    POD_rome_san_michele_cloisters_bonus: "#P Le propriétaire de ce bâtiment a doublé [planning_speed|E] sur Find Lair [journey|E].#!"
+    building_type_rome_san_michele_cloisters_01: "Cloître de San Michele"
+    building_type_rome_san_michele_cloisters_01_desc: "Une partie du monastère de San Michele, réservée à un usage futur par l'Oculi Dei.\n\n$POD_rome_san_michele_cloisters_desc$"
+    building_rome_san_michele_cloisters_01: "Eglise de San Michele"
+    building_rome_san_michele_cloisters_01_desc: "Une partie du monastère de San Michele, réservée à un usage futur de l'Oculi Dei."
+    building_rome_san_michele_cloisters_02: "Eglise de San Michele"
+    building_rome_san_michele_cloisters_02_desc: "Une section du monastère de San Michele, occupée par l'Oculi Dei.\n\n$POD_rome_san_michele_cloisters_desc$\n\n#X Si vous souhaitez l'améliorer davantage, vous devez terminer le majeur [decision|E] pour soutenir l'Oculi Dei.§ _3"
+    building_rome_san_michele_cloisters_03: "Eglise de San Michele"
+    building_rome_san_michele_cloisters_03_desc:
+        "Une partie du monastère de San Michele, occupée par l'Oculi Dei triomphant.\n\n$POD_rome_san_michele_cloisters_desc$"
+
+        ###############################
+        ##### Rome for the others #####
+        ###############################
+
+    building_type_rome_eternal_rome_01: "Rome éternelle"
+    building_type_rome_eternal_rome_01_desc: "Les jours de gloire de l’Empire romain sont peut-être révolus depuis longtemps, mais si vous écoutez attentivement, vous pouvez encore entendre leurs échos."
+    building_rome_eternal_rome_01: "Rome divisée"
+    building_rome_eternal_rome_01_desc: "$building_type_rome_eternal_rome_01_desc$"
+    building_rome_eternal_rome_02: "Rome invaincue"
+    building_rome_eternal_rome_02_desc: "Les citoyens de Rome se sentent revigorés, sachant que la ville a un brillant avenir devant elle."
+    building_rome_eternal_rome_03: "Rome éternelle"
+    building_rome_eternal_rome_03_desc: "Une fois de plus, Rome est devenue le joyau de la Méditerranée. Les mortels ne savent pas à qui ils doivent la renaissance de la ville, mais ils sont tout de même reconnaissants."
+
+    POD_rome_colosseum_bonus: "[Select_CString(IsInGame,GuiScope.Custom('POD_colosseum_loc'),GuiScope.Custom('POD_colosseum_loc_null'))]"
+    POD_rome_colosseum_bonus_dlc: "#P Le propriétaire de ce bâtiment peut organiser #TOOLTIP:ACTIVITY_TYPE,activity_gruesome_festival #L Festivals horribles#!#! et exécuter [prisoners|E] en les donnant à manger aux animaux sauvages.#!"
+    POD_rome_colosseum_bonus_dlc_null: "#P Le propriétaire de ce bâtiment peut organiser des festivals horribles et exécuter le [prisoners|E] en les donnant à manger aux animaux sauvages.#!"
+    POD_rome_colosseum_bonus_nodlc: "#P Le propriétaire de ce bâtiment peut exécuter [prisoners|E] en les donnant à manger aux animaux sauvages.#!"
+    building_type_rome_colosseum_01: "Le Colisée"
+    building_type_rome_colosseum_01_desc: "Le plus grand amphithéâtre jamais construit. Les années l'ont altéré, les tremblements de terre l'ont endommagé, ses pierres ont été récupérées et réutilisées pour d'autres projets de construction, et pourtant il est toujours aussi imposant aujourd'hui qu'il l'était dans les temps anciens."
+    building_rome_colosseum_01: "Le Colisée"
+    building_rome_colosseum_01_desc: "$building_type_rome_colosseum_01_desc$\n\nUn glorieux dirigeant pourrait lui redonner son objectif d'origine.\n\n#X Si vous souhaitez l'améliorer, vous devez être un [GetTrait('august').GetName(GetNullCharacter)] ou employer un [GetCourtPositionType('seneschal_court_position').GetName()] avec Excellent [aptitude|E].#!"
+    building_rome_colosseum_02: "Colisée restauré"
+    building_rome_colosseum_02_desc: "Pendant la journée, ce grand amphithéâtre accueille des pièces de théâtre, des concerts et d'autres divertissements pour les mortels. La nuit... il se passe des choses moins savoureuses."
+
+    building_type_rome_hadrianstomb_01: "Mausolée d'Hadrien"
+    building_type_rome_hadrianstomb_01_desc: "Ce tombeau cylindrique est la structure la plus haute de toute la ville. Il contenait les urnes et les cendres de nombreux empereurs romains, jusqu'à ce que les pilleurs wisigoths les dispersent lors du sac de Rome."
+    POD_rome_hadrianstomb_bonus: "#P Le propriétaire de cet immeuble peut acheter [artifact_claims|E], et ce à un coût réduit.#!"
+    building_rome_hadrianstomb_01: "Mausolée d'Hadrien"
+    building_rome_hadrianstomb_01_desc: "$building_type_rome_hadrianstomb_01_desc$\n\nUn dirigeant astucieux pourrait le fortifier et le transformer en coffre-fort.\n\n#X Si vous souhaitez l'améliorer, vous devez être un [GetTrait('scholar').GetName(GetNullCharacter)] ou employer un [GetCourtPositionType('antiquarian_court_position').GetName()] avec Excellent [aptitude|E].#!"
+    building_rome_hadrianstomb_02: "Château Saint-Ange"
+    building_rome_hadrianstomb_02_desc: "Cet ancien mausolée a été transformé en forteresse sécurisée. Situé au milieu de la ville, il n'a peut-être pas beaucoup de valeur militaire, mais c'est un endroit idéal pour stocker des trésors précieux."
+
+    building_type_rome_aqueduct_01: "Aqueduc"
+    building_type_rome_aqueduct_01_desc: "Le dernier aqueduc fonctionnel de la Rome antique. À son apogée, il pourrait livrer 100 millions de litres d'eau par jour à des citoyens assoiffés... ou à des empereurs désireux de prendre un bain luxueux."
+    POD_rome_aqueduct_bonus: "#P Le propriétaire de ce bâtiment peut utiliser le [diligent_development_focus_decision|E] si Rome est sa capitale.#!"
+    building_rome_aqueduct_01: "Aqua Vierge"
+    building_rome_aqueduct_01_desc: "$building_type_rome_aqueduct_01_desc$\n\nUn dirigeant compétent en ingénierie pourrait le rénover pour améliorer le niveau de vie de la ville.\n\n#X Si vous souhaitez l'améliorer, vous devez être un [GetTrait('architect').GetName(GetNullCharacter)] ou employer un [GetCourtPositionType('royal_architect_court_position').GetName()] avec Excellent §. _4.#!"
+    building_rome_aqueduct_02: "Aqua Vergine"
+    building_rome_aqueduct_02_desc: "Cet ancien aqueduc a été agrandi et réaménagé à l'aide de techniques d'ingénierie de pointe. Il fournit l'eau potable la plus pure de Rome, et de nombreuses personnes peuvent être vues en train de remplir des récipients pour boire et cuisiner."
+
+    building_type_rome_pasquino_01: "Statue parlante"
+    building_type_rome_pasquino_01_desc: "Une statue récemment découverte d'un héros grec ou autre. Les citoyens de Rome l'utilisent comme panneau d'affichage, affichant des critiques anonymes et des poèmes satiriques sur sa base, faisant semblant que c'est la statue qui les prononce.\n\nCertains disent que la statue ressemble à Ménélé, mais cela semble absurde."
+    POD_rome_pasquino_bonus: "#P Le propriétaire de ce bâtiment peut utiliser [propaganda|E] pour supprimer l'un de ses traits criminels.#!"
+    building_rome_pasquino_01: "Pasquino"
+    building_rome_pasquino_01_desc: "Une statue récemment découverte d'un héros grec ou autre. Les citoyens de Rome l'utilisent comme tableau d'affichage, affichant des critiques anonymes et des poèmes satiriques sur sa base, faisant comme si c'était la statue qui les prononçait.\n\nUn dirigeant rusé pourrait l'utiliser pour influencer l'opinion publique.\n\n§ _0 Si vous souhaitez le mettre à niveau, vous devez être un [GetTrait('schemer').GetName(GetNullCharacter)] ou avoir un [spymaster|E] avec au moins 20 [intrigue|E] assis sur le [council|E].#!"
+    building_rome_pasquino_02: "Pasquino le Persuasif"
+    building_rome_pasquino_02_desc:
+        "Les citoyens qui postent des messages anonymes sur cette statue pensent qu'ils critiquent le dirigeant de la ville. En vérité, ils ne disent que ce que le #italic réel#! dirigeant de la ville leur laisse dire."
+
+        # Special building for Werewolves
+    building_type_rome_tiber_01: "$building_rome_tiber_01$"
+    building_type_rome_tiber_01_desc: "$building_rome_tiber_01_desc$"
+    building_rome_tiber_01: "Le Tibre"
+    building_rome_tiber_01_desc: "La civilisation a la mainmise sur cette région. Le peu de nature qui reste est actuellement domestiqué par les citadins.\n\nCependant, certains Garous entreprenants ont réussi à lancer des raids nocturnes sur la métropole, ramenant des armes et d'autres fournitures."

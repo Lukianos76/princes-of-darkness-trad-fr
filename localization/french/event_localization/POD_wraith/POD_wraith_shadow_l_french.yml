@@ -1,28 +1,28 @@
 ﻿l_french:
- POD_wraith_shadow.001.t: "Matérialiser l'Ombre" #NT!
- POD_wraith_shadow.001.desc: "Avec la maîtrise de Thorn par votre Ombre, votre Ombre peut tenter de se matérialiser." #NT!
- POD_wraith_shadow.001.option.a: "Hors mon ombre ! Où vas-tu?" #NT!
- POD_wraith_shadow.001.option.a.tt: "Votre Ombre va tenter de se matérialiser" #NT!
- POD_wraith_shadow.001.option.a.desc: "Une lutte entre Psyché et Shadow" #NT!
- POD_wraith_shadow.001.option.a.tt.success: "Votre Ombre est matérialisée avec succès" #NT!
- POD_wraith_shadow.001.option.a.tt.failure: "Votre ombre ne parvient pas à se matérialiser" #NT!
- POD_wraith_shadow.001.option.b: "Ce n'est pas le bon moment" #NT!
- POD_wraith_shadow.001.option.b.tt: "Votre Ombre abandonnera votre idée de se matérialiser" #NT!
-  
- POD_wraith_shadow.002.t: "Matérialiser l'Ombre II" #NT!
- POD_wraith_shadow.002.desc: "Grâce à la maîtrise de Thorn par votre ombre, votre Ombre a réussi à se matérialiser, une bonne chose ?" #NT!
- POD_wraith_shadow.002.option.a: "Ma propre ombre" #NT!
- POD_wraith_shadow.002.option.a.tt: "Votre Ombre est matérialisée avec succès." #NT!
-  
- POD_wraith_shadow.003.t: "Matérialiser l'Ombre II" #NT!
- POD_wraith_shadow.003.desc: "Même la maîtrise de Thorn par votre ombre ne suffit pas à se matérialiser... pour l'instant." #NT!
- POD_wraith_shadow.003.option.a: "Tu n'es pas encore prêt" #NT!
- POD_wraith_shadow.003.option.a.tt: "Votre ombre n'a pas réussi à se matérialiser" #NT!
-  
- POD_wraith_shadow.004.t: "Le retour de votre ombre" #NT!
- POD_wraith_shadow.004.desc: "Votre Ombre matérialisée a subi un incident et doit revenir vers vous." #NT!
- POD_wraith_shadow.004.option.a: "Mon ombre est revenue" #NT!
- POD_wraith_shadow.004.option.a.tt: "Ton ombre et toi ne faites plus qu'un" #NT!
- POD_wraith_shadow.004.t_ferryman: "Des destins entrelacés" #NT!
- POD_wraith_shadow.004.desc_ferryman: "Le Pasiphae et le Ferryman sont toujours connectés de telle sorte que si l'un doit être détruit, l'autre l'est également." #NT!
- POD_wraith_shadow.004.option.b: "Mon Pasiphaé est parti, et moi aussi..." #NT!
+    POD_wraith_shadow.001.t: "Matérialiser l'Ombre"
+    POD_wraith_shadow.001.desc: "Avec la maîtrise de Thorn par votre Ombre, votre Ombre peut tenter de se matérialiser."
+    POD_wraith_shadow.001.option.a: "Hors mon ombre ! Où vas-tu?"
+    POD_wraith_shadow.001.option.a.tt: "Votre Ombre va tenter de se matérialiser"
+    POD_wraith_shadow.001.option.a.desc: "Une lutte entre Psyché et Shadow"
+    POD_wraith_shadow.001.option.a.tt.success: "Votre Ombre est matérialisée avec succès"
+    POD_wraith_shadow.001.option.a.tt.failure: "Votre ombre ne parvient pas à se matérialiser"
+    POD_wraith_shadow.001.option.b: "Ce n'est pas le bon moment"
+    POD_wraith_shadow.001.option.b.tt: "Votre Ombre abandonnera votre idée de se matérialiser"
+
+    POD_wraith_shadow.002.t: "Matérialiser l'Ombre II"
+    POD_wraith_shadow.002.desc: "Grâce à la maîtrise de Thorn par votre ombre, votre Ombre a réussi à se matérialiser, une bonne chose ?"
+    POD_wraith_shadow.002.option.a: "Ma propre ombre"
+    POD_wraith_shadow.002.option.a.tt: "Votre Ombre est matérialisée avec succès."
+
+    POD_wraith_shadow.003.t: "Matérialiser l'Ombre II"
+    POD_wraith_shadow.003.desc: "Même la maîtrise de Thorn par votre ombre ne suffit pas à se matérialiser... pour l'instant."
+    POD_wraith_shadow.003.option.a: "Tu n'es pas encore prêt"
+    POD_wraith_shadow.003.option.a.tt: "Votre ombre n'a pas réussi à se matérialiser"
+
+    POD_wraith_shadow.004.t: "Le retour de votre ombre"
+    POD_wraith_shadow.004.desc: "Votre Ombre matérialisée a subi un incident et doit revenir vers vous."
+    POD_wraith_shadow.004.option.a: "Mon ombre est revenue"
+    POD_wraith_shadow.004.option.a.tt: "Ton ombre et toi ne faites plus qu'un"
+    POD_wraith_shadow.004.t_ferryman: "Des destins entrelacés"
+    POD_wraith_shadow.004.desc_ferryman: "Le Pasiphae et le Ferryman sont toujours connectés de telle sorte que si l'un doit être détruit, l'autre l'est également."
+    POD_wraith_shadow.004.option.b: "Mon Pasiphaé est parti, et moi aussi..."

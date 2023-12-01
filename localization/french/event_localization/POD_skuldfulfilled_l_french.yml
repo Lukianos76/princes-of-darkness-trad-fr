@@ -1,19 +1,17 @@
 ﻿l_french:
-  
- POD_skuldfulfilled.001.t: "Skuld réalisé" #NT!
- POD_skuldfulfilled.001.desc: "Vous essayez de retirer le pouvoir éternel du sang au petit non-[cainite|E] qu'est [defender.GetFirstName], faisant de [defender.GetHerHim] un simple humain une fois de plus. Si [defender.GetSheHe] est assez vieux, il est possible que vos manipulations tuent [defender.GetHerHim]" #NT!
- POD_skuldfulfilled.001.option.a: "[defender.GetSheHe|U] ne mérite pas un tel pouvoir !" #NT!
- POD_skuldfulfilled.001.option.a.tt: "Vous essaierez de prendre [defender.GetHerHis] pouvoir du sang" #NT!
- POD_skuldfulfilled.option.001.a.desc: "Vous utiliserez votre connaissance mystique d'Oblivion" #NT!
- POD_skuldfulfilled.001.option.success: "[defender.GetFirstName] devient un simple humain" #NT!
- POD_skuldfulfilled.001.option.a.tt.attacker_wins: "Tu as réussi" #NT!
- POD_skuldfulfilled.001.option.failure: "Vos connaissances ne suffisent pas" #NT!
- POD_skuldfulfilled.001.option.a.tt.attacker_lost: "[defender.GetFirstName] résiste" #NT!
- POD_skuldfulfilled.001.option.b: "Ce n'est pas le bon moment..." #NT!
- POD_skuldfulfilled.001.option.b.tt: "Vous abandonnez votre tentative de voler le pouvoir du sang au [defender.GetFirstName]" #NT!
-  
-  
- POD_skuldfulfilled.002.t: "Skuld réalisé" #NT!
- POD_skuldfulfilled.002.desc: "Quelqu'un a utilisé les sombres pouvoirs d'Oblivion pour voler les pouvoirs de votre sang au [defender.GetFirstName] ! Désormais, [defender.GetSheHe] ne vous est plus lié par des liens de sang..." #NT!
- POD_skuldfulfilled.002.option.a: "Je devrais faire quelque chose à ce sujet" #NT!
- POD_skuldfulfilled.002.option.a.tt: "[defender.GetFirstName] n'est plus votre esclave" #NT!
+    POD_skuldfulfilled.001.t: "Skuld réalisé"
+    POD_skuldfulfilled.001.desc: "Vous essayez de retirer le pouvoir éternel du sang au petit non-[cainite|E] qu'est [defender.GetFirstName], faisant de [defender.GetHerHim] un simple humain une fois de plus. Si [defender.GetSheHe] est assez vieux, il est possible que vos manipulations tuent [defender.GetHerHim]"
+    POD_skuldfulfilled.001.option.a: "[defender.GetSheHe|U] ne mérite pas un tel pouvoir !"
+    POD_skuldfulfilled.001.option.a.tt: "Vous essaierez de prendre [defender.GetHerHis] pouvoir du sang"
+    POD_skuldfulfilled.option.001.a.desc: "Vous utiliserez votre connaissance mystique d'Oblivion"
+    POD_skuldfulfilled.001.option.success: "[defender.GetFirstName] devient un simple humain"
+    POD_skuldfulfilled.001.option.a.tt.attacker_wins: "Tu as réussi"
+    POD_skuldfulfilled.001.option.failure: "Vos connaissances ne suffisent pas"
+    POD_skuldfulfilled.001.option.a.tt.attacker_lost: "[defender.GetFirstName] résiste"
+    POD_skuldfulfilled.001.option.b: "Ce n'est pas le bon moment..."
+    POD_skuldfulfilled.001.option.b.tt: "Vous abandonnez votre tentative de voler le pouvoir du sang au [defender.GetFirstName]"
+
+    POD_skuldfulfilled.002.t: "Skuld réalisé"
+    POD_skuldfulfilled.002.desc: "Quelqu'un a utilisé les sombres pouvoirs d'Oblivion pour voler les pouvoirs de votre sang au [defender.GetFirstName] ! Désormais, [defender.GetSheHe] ne vous est plus lié par des liens de sang..."
+    POD_skuldfulfilled.002.option.a: "Je devrais faire quelque chose à ce sujet"
+    POD_skuldfulfilled.002.option.a.tt: "[defender.GetFirstName] n'est plus votre esclave"

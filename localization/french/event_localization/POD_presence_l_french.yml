@@ -1,42 +1,41 @@
 ﻿l_french:
-  
- POD_perfect_world.001.t: "Un monde parfait" #NT!
- POD_perfect_world.001.desc: "Vous êtes un être d'un pouvoir considérable et votre maîtrise de la Présence est monumentale. Vous regardez votre domaine et voyez tous ces animaux vivre leur vie, sans se soucier de la situation dans son ensemble. Mais vous avez le pouvoir de changer cela, de les faire vivre comme bon vous semble, le pouvoir de faire de votre domaine un monde parfait... pour vous.\nMais quel est votre monde parfait ?" #NT!
- POD_perfect_world.001.a: "Je les inciterai à devenir grands, régner sur les élites, c'est mieux" #NT!
- POD_perfect_world.001.a.tt: "Vous obtenez un puissant modificateur qui s'applique à votre capital, le modificateur augmente le développement." #NT!
- POD_perfect_world.001.a.tt.beast: "#R Ah, pourquoi voudrions-nous gouverner les paysans ?#!" #NT!
- POD_perfect_world.001.b: "Ce monde est cruel, ils devraient rassembler leurs forces pour aider mes plans." #NT!
- POD_perfect_world.001.b.tt: "Vous obtenez un puissant modificateur qui s'applique à votre capitale, le modificateur augmente votre puissance militaire." #NT!
- POD_perfect_world.001.b.tt.beast: "#R La guerre arrive#!" #NT!
- POD_perfect_world.001.c: "Ce n'est pas le moment" #NT!
- POD_perfect_world.001.c.tt: "Vous abandonnerez vos tentatives pour faire agir les mortels comme vous le souhaitez" #NT!
- POD_perfect_world.001.c.tt.beast: "#R Non ! Nous les contrôlerons !#!" #NT!
-  
- POD_perfect_world.002.t: "Un monde parfait" #NT!
- POD_perfect_world.002.desc: "Il fallait dépenser beaucoup d'énergie et certains kines ont remarqué quelque chose de bizarre, mais le résultat était phénoménal ! Vous voyez déjà comment les mortels agissent dans votre vision et vous êtes prêt à en récolter les bénéfices." #NT!
- POD_perfect_world.002.option.a: "Ah, une telle perfection" #NT!
- POD_perfect_world.002.option.a.tt: "Vous avez réussi à influencer les mortels de la ville" #NT!
-  
- POD_mask_of_empathy.001.t: "Masque d'empathie" #NT!
- POD_mask_of_empathy.001.desc: "Tout est en mouvement, grâce à vos immenses pouvoirs de Présence, vous êtes désormais capable d'agir. Vous élargissez votre volonté et votre charme contre nature et vous sentez déjà que votre objectif est proche, très proche. Allez-vous continuer ?" #NT!
- POD_mask_of_empathy.001.option.a: "Il est temps de rompre leurs liens" #NT!
- POD_mask_of_empathy.001.option.a.tt: "Vous tenterez d'utiliser le pouvoir du Masque d'empathie" #NT!
- POD_mask_of_empathy.001.option.a.desc: "Bataille de volontés" #NT!
- POD_mask_of_empathy.001.option.a.success: "Succès" #NT!
- POD_mask_of_empathy.001.option.a.tt.attacker_wins: "[target.GetFirstName] et [target_relation.GetFirstName] ne sont plus connectés" #NT!
- POD_mask_of_empathy.001.option.a.failure: "Échec" #NT!
- POD_mask_of_empathy.001.option.a.tt.defender_wins: "Vous avez échoué et votre volonté vacille" #NT!
- POD_mask_of_empathy.001.option.b: "C'est pas le moment" #NT!
- POD_mask_of_empathy.001.option.b.tt: "Vous abandonnerez vos tentatives visant à empêcher [target.GetFirstName] et [target_relation.GetFirstName] d'être connectés" #NT!
-  
- POD_mask_of_empathy.002.t: "Masque d'empathie" #NT!
- POD_mask_of_empathy.002.desc: "Vous avez réussi, vous pouvez déjà sentir que [target.GetFirstName] et [target_relation.GetFirstName] ne ressentent pas la même chose l'un envers l'autre." #NT!
- POD_mask_of_empathy.002.option.a: "Ah, bien sûr, ils n'ont pas pu résister à mes charmes" #NT!
- POD_mask_of_empathy.002.option.a.tt: "Vous avez réussi" #NT!
- POD_mask_of_empathy.002.option.a.tt.beast: "#R Nous les contrôlons !" #NT!
-  
- POD_mask_of_empathy.003.t: "Masque d'empathie" #NT!
- POD_mask_of_empathy.003.desc: "Vous avez échoué, [target.GetFirstName] et [target_relation.GetFirstName] sont toujours connectés l'un à l'autre. Tu as à peine réussi à ne pas te faire prendre, c'est un plus" #NT!
- POD_mask_of_empathy.003.option.a: "Quelle honte" #NT!
- POD_mask_of_empathy.003.option.a.tt: "Tu as échoué" #NT!
- POD_mask_of_empathy.003.option.a.tt.beast: "#R Quelle déception" #NT!
+    POD_perfect_world.001.t: "Un monde parfait"
+    POD_perfect_world.001.desc: "Vous êtes un être d'un pouvoir considérable et votre maîtrise de la Présence est monumentale. Vous regardez votre domaine et voyez tous ces animaux vivre leur vie, sans se soucier de la situation dans son ensemble. Mais vous avez le pouvoir de changer cela, de les faire vivre comme bon vous semble, le pouvoir de faire de votre domaine un monde parfait... pour vous.\nMais quel est votre monde parfait ?"
+    POD_perfect_world.001.a: "Je les inciterai à devenir grands, régner sur les élites, c'est mieux"
+    POD_perfect_world.001.a.tt: "Vous obtenez un puissant modificateur qui s'applique à votre capital, le modificateur augmente le développement."
+    POD_perfect_world.001.a.tt.beast: "#R Ah, pourquoi voudrions-nous gouverner les paysans ?#!"
+    POD_perfect_world.001.b: "Ce monde est cruel, ils devraient rassembler leurs forces pour aider mes plans."
+    POD_perfect_world.001.b.tt: "Vous obtenez un puissant modificateur qui s'applique à votre capitale, le modificateur augmente votre puissance militaire."
+    POD_perfect_world.001.b.tt.beast: "#R La guerre arrive#!"
+    POD_perfect_world.001.c: "Ce n'est pas le moment"
+    POD_perfect_world.001.c.tt: "Vous abandonnerez vos tentatives pour faire agir les mortels comme vous le souhaitez"
+    POD_perfect_world.001.c.tt.beast: "#R Non ! Nous les contrôlerons !#!"
+
+    POD_perfect_world.002.t: "Un monde parfait"
+    POD_perfect_world.002.desc: "Il fallait dépenser beaucoup d'énergie et certains kines ont remarqué quelque chose de bizarre, mais le résultat était phénoménal ! Vous voyez déjà comment les mortels agissent dans votre vision et vous êtes prêt à en récolter les bénéfices."
+    POD_perfect_world.002.option.a: "Ah, une telle perfection"
+    POD_perfect_world.002.option.a.tt: "Vous avez réussi à influencer les mortels de la ville"
+
+    POD_mask_of_empathy.001.t: "Masque d'empathie"
+    POD_mask_of_empathy.001.desc: "Tout est en mouvement, grâce à vos immenses pouvoirs de Présence, vous êtes désormais capable d'agir. Vous élargissez votre volonté et votre charme contre nature et vous sentez déjà que votre objectif est proche, très proche. Allez-vous continuer ?"
+    POD_mask_of_empathy.001.option.a: "Il est temps de rompre leurs liens"
+    POD_mask_of_empathy.001.option.a.tt: "Vous tenterez d'utiliser le pouvoir du Masque d'empathie"
+    POD_mask_of_empathy.001.option.a.desc: "Bataille de volontés"
+    POD_mask_of_empathy.001.option.a.success: "Succès"
+    POD_mask_of_empathy.001.option.a.tt.attacker_wins: "[target.GetFirstName] et [target_relation.GetFirstName] ne sont plus connectés"
+    POD_mask_of_empathy.001.option.a.failure: "Échec"
+    POD_mask_of_empathy.001.option.a.tt.defender_wins: "Vous avez échoué et votre volonté vacille"
+    POD_mask_of_empathy.001.option.b: "C'est pas le moment"
+    POD_mask_of_empathy.001.option.b.tt: "Vous abandonnerez vos tentatives visant à empêcher [target.GetFirstName] et [target_relation.GetFirstName] d'être connectés"
+
+    POD_mask_of_empathy.002.t: "Masque d'empathie"
+    POD_mask_of_empathy.002.desc: "Vous avez réussi, vous pouvez déjà sentir que [target.GetFirstName] et [target_relation.GetFirstName] ne ressentent pas la même chose l'un envers l'autre."
+    POD_mask_of_empathy.002.option.a: "Ah, bien sûr, ils n'ont pas pu résister à mes charmes"
+    POD_mask_of_empathy.002.option.a.tt: "Vous avez réussi"
+    POD_mask_of_empathy.002.option.a.tt.beast: "#R Nous les contrôlons !"
+
+    POD_mask_of_empathy.003.t: "Masque d'empathie"
+    POD_mask_of_empathy.003.desc: "Vous avez échoué, [target.GetFirstName] et [target_relation.GetFirstName] sont toujours connectés l'un à l'autre. Tu as à peine réussi à ne pas te faire prendre, c'est un plus"
+    POD_mask_of_empathy.003.option.a: "Quelle honte"
+    POD_mask_of_empathy.003.option.a.tt: "Tu as échoué"
+    POD_mask_of_empathy.003.option.a.tt.beast: "#R Quelle déception"

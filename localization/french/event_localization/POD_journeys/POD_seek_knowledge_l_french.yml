@@ -1,15 +1,14 @@
 ﻿l_french:
-  
- POD_seek_knowledge.2.t: "Rencontrer le mentor" #NT!
- POD_seek_knowledge.2.desc: "Après mon arrivée au [ROOT.Var('current_journey').Var('destination').Province.GetCounty.GetTitle.GetNameNoTier], je commence à me renseigner sur l'endroit où se trouve mon futur professeur.\n\n" #NT!
- POD_seek_knowledge.2.desc.local_ruler: "Il s'avère que ce n'est autre que le dirigeant du domaine local, [recipient.GetNameNicknamed]." #NT!
- POD_seek_knowledge.2.desc.wanderer: "Dans une auberge miteuse, je rencontre enfin la personne que je cherchais : un vagabond nommé [recipient.GetFirstName]." #NT!
- POD_seek_knowledge.2.desc.ghoul: "Dans une taverne délabrée en bordure de ville, je rencontre la personne que je cherchais : un [GetTrait('ghoul').GetName(recipient)] indépendant nommé [recipient.GetFirstName]. Il semble que [recipient.GetSheHe] s'est récemment libéré du lien de sang et qu'il dévoile maintenant les secrets de son ancien maître [recipient.GetHerHis] comme moyen de vengeance." #NT!
- POD_seek_knowledge.2.desc.gargoyle: "Dans une ruelle cachée à la sortie de la ville, je rencontre la personne que je cherchais : un [GetTrait('gargoyle').GetName(recipient)] solitaire nommé [recipient.GetFirstName]." #NT!
- POD_seek_knowledge.2.desc.fae: "Dans un parc abandonné à la périphérie de la ville, je rencontre la personne que je cherchais : un mystérieux fae nommé [recipient.GetFirstName]." #NT!
- POD_seek_knowledge.2.desc.mortal: "Dans une auberge miteuse, je rencontre finalement la personne que je cherchais : un mortel énigmatique nommé [recipient.GetFirstName]." #NT!
- POD_seek_knowledge.2.desc.2: "\n\nNous échangeons quelques plaisanteries initiales, puis la conversation se tourne vers des questions plus pratiques." #NT!
- POD_seek_knowledge.2.option.a: "Je suis prêt à apprendre." #NT!
- POD_seek_knowledge.2.option.a.tt: "Vous procéderez à l’apprentissage de cette nouvelle capacité." #NT!
- POD_seek_knowledge.2.option.b: "Nous sommes prêts à apprendre." #NT!
- POD_seek_knowledge.2.option.b.tt: "Comme vous voyagez ensemble, les autres membres du $POD_player_coterie$ apprendront également cette capacité (s'ils sont éligibles)." #NT!
+    POD_seek_knowledge.2.t: "Rencontrer le mentor"
+    POD_seek_knowledge.2.desc: "Après mon arrivée au [ROOT.Var('current_journey').Var('destination').Province.GetCounty.GetTitle.GetNameNoTier], je commence à me renseigner sur l'endroit où se trouve mon futur professeur.\n\n"
+    POD_seek_knowledge.2.desc.local_ruler: "Il s'avère que ce n'est autre que le dirigeant du domaine local, [recipient.GetNameNicknamed]."
+    POD_seek_knowledge.2.desc.wanderer: "Dans une auberge miteuse, je rencontre enfin la personne que je cherchais : un vagabond nommé [recipient.GetFirstName]."
+    POD_seek_knowledge.2.desc.ghoul: "Dans une taverne délabrée en bordure de ville, je rencontre la personne que je cherchais : un [GetTrait('ghoul').GetName(recipient)] indépendant nommé [recipient.GetFirstName]. Il semble que [recipient.GetSheHe] s'est récemment libéré du lien de sang et qu'il dévoile maintenant les secrets de son ancien maître [recipient.GetHerHis] comme moyen de vengeance."
+    POD_seek_knowledge.2.desc.gargoyle: "Dans une ruelle cachée à la sortie de la ville, je rencontre la personne que je cherchais : un [GetTrait('gargoyle').GetName(recipient)] solitaire nommé [recipient.GetFirstName]."
+    POD_seek_knowledge.2.desc.fae: "Dans un parc abandonné à la périphérie de la ville, je rencontre la personne que je cherchais : un mystérieux fae nommé [recipient.GetFirstName]."
+    POD_seek_knowledge.2.desc.mortal: "Dans une auberge miteuse, je rencontre finalement la personne que je cherchais : un mortel énigmatique nommé [recipient.GetFirstName]."
+    POD_seek_knowledge.2.desc.2: "\n\nNous échangeons quelques plaisanteries initiales, puis la conversation se tourne vers des questions plus pratiques."
+    POD_seek_knowledge.2.option.a: "Je suis prêt à apprendre."
+    POD_seek_knowledge.2.option.a.tt: "Vous procéderez à l’apprentissage de cette nouvelle capacité."
+    POD_seek_knowledge.2.option.b: "Nous sommes prêts à apprendre."
+    POD_seek_knowledge.2.option.b.tt: "Comme vous voyagez ensemble, les autres membres du $POD_player_coterie$ apprendront également cette capacité (s'ils sont éligibles)."

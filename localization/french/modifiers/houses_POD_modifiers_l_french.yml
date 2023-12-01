@@ -1,612 +1,612 @@
 ﻿l_french:
- house_hardestadt_modifier: "Maison Hardestadt" #NT!
- house_hardestadt_modifier_desc: "Bien qu'elle soit issue d'une lignée quelque peu obscure avec l'ancêtre Ventrue, la Maison Hardestadt a déjà prouvé un sens du pouvoir jamais vu depuis les nuits de Rome Ventrue." #NT!
- house_nabonidus_modifier: "Maison Nabonide" #NT!
- house_nabonidus_modifier_desc: "Cette lignée assamite solitaire est connue pour inspirer une grande confiance à ses adeptes, même avec les activités les plus exotiques qu'elle semble avoir." #NT!
- house_shahiri_modifier: "House Sha'hiri" #NT!
- house_shahiri_modifier_desc: "La lignée de l’Aîné choisie par Haqim lui-même comme successeur est un choix consensuel pour les [Clan|E] divisés. Bien que cela puisse aussi être dû au fait que Sha'hiri est connu comme un jeu d'enfant." #NT!
- house_anath_modifier: "Maison Anath" #NT!
- house_anath_modifier_desc: "La Reine de la Guerre et de l’Amour est une figure obscure, mais ses enfants ont réalisé de grands exploits tant en diplomatie qu’en guerre. Ils sont cependant connus pour être quelque peu imprudents et directs." #NT!
- house_jamal_modifier: "Maison Jamal" #NT!
- house_jamal_modifier_desc: "Le chef implacable de la faction [ashirra|E] de l'Assamite [Clan|E] est un guerrier hors pair. Mais il n’est pas connu pour sa patience envers les incroyants." #NT!
- house_urshulgi_modifier: "Maison Ur'Shulgi" #NT!
- house_urshulgi_modifier_desc: "La lignée du Berger Noir est un mystère. Et pour le bien de tous, cette question ne devrait pas être résolue." #NT!
- house_thetmes_modifier: "Thèmes de la maison" #NT!
- house_thetmes_modifier_desc: "L'Araignée a des plans dans les plans. Et pas le temps de s’occuper de questions triviales comme la gouvernance." #NT!
- house_anosh_modifier: "Maison Anosh" #NT!
- house_anosh_modifier_desc: "Boudée par tout son [Clan|E], la lignée Anosh est celle des visions et de l'expérimentation vers l'inconnu." #NT!
- house_azrael_modifier: "Maison Azraël" #NT!
- house_azrael_modifier_desc: "Les meilleurs guerriers d'un guerrier [Clan|E] le font eux-mêmes." #NT!
- house_nakurtum_modifier: "Maison Nakurtoum" #NT!
- house_nakurtum_modifier_desc: "L'imprudent et fougueux Nakurtum a pris d'assaut l'Assamite [Clan|E]. Elle attend de ses sujets une diligence raisonnable, mais a du mal à la mériter." #NT!
- house_abuilaf_modifier: "Maison Abou Ilaf" #NT!
- house_abuilaf_modifier_desc: "La maison mineure d'un descendant mineur de Haqim a principalement créé des chercheurs dévoués, souvent reclus et renfermés." #NT!
- house_shango_modifier: "Maison Shango" #NT!
- house_shango_modifier_desc: "Dirigeants et conseillers avisés, les Shango suscitent encore la méfiance parmi les Laibon en raison de leurs manières cruelles. A ce titre, il est assez rare qu’un Shango dirige un grand domaine sans représailles." #NT!
- house_wahsheen_modifier: "Maison Wah'Sheen" #NT!
- house_wahsheen_modifier_desc: "Il est difficile de gagner la confiance d'un Gangrel [ashirra|E], mais une fois que vous l'avez fait, c'est un lien inébranlable." #NT!
- house_saad_modifier: "Maison Saad" #NT!
- house_saad_modifier_desc: "Les Bédouins des Assamites [Clan|E] sont quelque peu mal vus et ont tendance à se serrer les coudes ou avec leurs tribus." #NT!
- house_zayyat_modifier: "Maison Zayyat" #NT!
- house_zayyat_modifier_desc: "La maison Zayyat brûle de la foi des nouveaux convertis. Un spectacle inspirant et effrayant." #NT!
- house_hannibal_modifier: "Maison Hannibal" #NT!
- house_hannibal_modifier_desc: "Bien qu'ils se battent avec courage et avec un esprit stratégique sûr, les membres de la Maison Hannibal semblent toujours voués à l'échec à la fin." #NT!
- house_losario_modifier: "Maison Losario" #NT!
- house_losario_modifier_desc: "Les membres de la Maison Losario sont des incendiaires et des innovateurs, repoussant toujours les limites. Cependant, personne ne semble capable de rester longtemps en colère contre nous." #NT!
- house_leeland_modifier: "Maison Leeland" #NT!
- house_leeland_modifier_desc: "Les Leeland's Get sont les dirigeants passionnés du monde libre [cainite|E]. Les clans traditionnels les soupçonneront toujours de planifier quelque chose." #NT!
- house_menele_modifier: "Maison Ménélé" #NT!
- house_menele_modifier_desc: "Infatigables lorsqu'ils se battent pour leurs convictions, les membres de la Maison Menele restent souvent aveugles aux menaces plus subtiles." #NT!
- house_dominic_modifier: "Maison Dominique" #NT!
- house_dominic_modifier_desc: "Bien versés dans l'art de la guerre, les membres de la Maison Dominic sont malheureusement souvent des proies faciles pour leur Bête particulièrement vorace." #NT!
- house_gersakkun_modifier: "Maison Gersakkun" #NT!
- house_gersakkun_modifier_desc: "Cette lignée presque oubliée n’a pas laissé de trace dans l’histoire des Brujah, même si elle a produit quelques philosophes talentueux." #NT!
- house_truebrujah_modifier: "Maison True Brujah" #NT!
- house_truebrujah_modifier_desc: "Personne ne sait s’il y a du vrai dans l’étrange histoire d’origine de cette lignée. Mais leur froideur distante ne leur vaut pas non plus d’amis." #NT!
- house_baytmushakis_modifier: "Maison Bay't Mushakis" #NT!
- house_baytmushakis_modifier_desc: "Les Brujahs musulmans étaient implacables dans leur chasse aux Ventrues détestés. Ils s'en prennent à tout ami de leur grand ennemi." #NT!
- house_guillaume_modifier: "Maison Guillaume" #NT!
- house_guillaume_modifier_desc: "Justes et justes, les membres de la Maison Guillaume sont plus préoccupés par leur état d'âme que par de petites affaires politiques." #NT!
- house_azif_modifier: "Maison Azif" #NT!
- house_azif_modifier_desc: "La maison Azif porte les stigmates de son vol avide d'âme d'un ancêtre. Un crime que peu de gens sont prêts à oublier." #NT!
- house_osebo_modifier: "Maison Osébo" #NT!
- house_osebo_modifier_desc: "Livré à lui-même, l'Osebo est une créature de feu et de colère à peine maîtrisée. Mais ils le savent eux-mêmes et recherchent des clients équitables à contrôler." #NT!
- house_giovanni_modifier: "Maison Giovanni" #NT!
- house_giovanni_modifier_desc: "Ceux-ci aiment le garder dans la famille." #NT!
- house_lazarene_modifier: "Maison Lazaréen" #NT!
- house_lazarene_modifier_desc: "Les mendiants ne peuvent pas choisir, chassés par leurs propres [Clan|E], le pouvoir de Lazare s'alliera avec tous ceux qui le souhaitent." #NT!
- house_japhet_modifier: "Maison Japhet" #NT!
- house_japhet_modifier_desc: "Les chefs traditionnels du [Clan|E] Cappadocien ont une approche très non interventionniste. Cela peut être enrichissant... et dangereux." #NT!
- house_byzar_modifier: "Maison Byzar" #NT!
- house_byzar_modifier_desc: "Les membres de la Maison Byzar sont des bâtisseurs de civilisations. Ils ne sont cependant pas les meilleurs pour les défendre." #NT!
- house_premascine_modifier: "Maison Prémascine" #NT!
- house_premascine_modifier_desc: "Si l’ambition était une vertu, voici ses anges." #NT!
- house_harbingersofskulls_modifier: "Les précurseurs de la maison" #NT!
- house_harbingersofskulls_modifier_desc: "L’étrange groupe acharné des Cappadociens est bien plus à l’aise dans l’ombre que sur le trône." #NT!
- house_lamia_modifier: "Maison Lamia" #NT!
- house_lamia_modifier_desc_no_collide: "Personne ne connaît la véritable fin de partie des filles guerrières de Lilith. Et ils ne le disent pas." #NT!
- house_mlawatu_modifier: "Maison Mla Watu" #NT!
- house_mlawatu_modifier_desc: "Vous ne pouvez pas faire confiance à un être qui recherche le pouvoir sur les âmes et les corps des morts. Même s'ils savent des choses que vous désirez." #NT!
- house_almawt_modifier: "Maison Al Mawt" #NT!
- house_almawt_modifier_desc: "Attention à ne pas s'attirer les foudres du monde musulman, les Cappadociens de cette maison ont peu d'alliés, mais de nombreux secrets." #NT!
- house_hecata_modifier: "Maison Hécata" #NT!
- house_hecata_modifier_desc: "Une nuit, la déesse de la mort accueillera tous ses enfants rebelles dans son étreinte froide." #NT!
- house_rusenko_modifier: "Maison Rusenko" #NT!
- house_rusenko_modifier_desc: "Si la folie est une échelle, il ne reste plus grand-chose à gravir." #NT!
- house_lhiannan_modifier: "Maison Lhiannan" #NT!
- house_lhiannan_modifier_desc: "Les reliques d’une époque révolue se battent jusqu’à leur dernier souffle. Et c'est un spectacle dangereux à voir." #NT!
- house_odin_modifier: "Maison Odin" #NT!
- house_odin_modifier_desc: "Le Père de Tout regarde le dernier combat du [einherjar|E]. Et aucun lâche n’entrera dans le Valhalla." #NT!
- house_rufus_modifier: "Maison Rufus" #NT!
- house_rufus_modifier_desc: "Rufus protège ses montagnes depuis des milliers d'années. Il a l'intention de continuer pendant mille autres." #NT!
- house_matasuntha_modifier: "Maison Matasuntha" #NT!
- house_matasuntha_modifier_desc: "Les Huns ont presque détruit Rome dans le passé. Elle n'a pas l'intention d'être arrêtée deux fois." #NT!
- house_hukros_modifier: "Maison Hukros" #NT!
- house_hukros_modifier_desc: "La lignée d'Hukros est toujours à la recherche de vérités cachées, un esprit curieux qui ne plaît pas aux coreligionnaires." #NT!
- house_aajav_modifier: "Maison Aajav" #NT!
- house_aajav_modifier_desc: "La bannière d'Aajav flotte haut dans le ciel, dernier cri de défi d'un monde mourant. Il n’y a plus de retour en arrière possible." #NT!
- house_kurru_modifier: "Maison Kurru" #NT!
- house_kurru_modifier_desc: "Les membres de la Maison Kurru sont inhabituellement à l'aise dans des rôles de leadership que le reste du Gangrel [Clan|E]. Leur approche directe du pouvoir les laisse cependant souvent ouverts à des tactiques sournoises." #NT!
- house_vola_modifier: "Maison Vola" #NT!
- house_vola_modifier_desc: "Les robustes habitants du Nord de la Maison Vola n’ont aucune patience pour les imbéciles. Il y a des raids et des pillages à faire !" #NT!
- house_anda_modifier: "Maison Anda" #NT!
- house_anda_modifier_desc: "Les fléaux des steppes sont des guerriers inégalés, mais ils peuvent avoir du mal à s'adapter aux rigueurs de la domination de vastes étendues de terre." #NT!
- house_akunanse_modifier: "Maison Akunanse" #NT!
- house_akunanse_modifier_desc: "Les araignées sages d’Afrique s’intéressent peu au Jyhad. Cela en fait des voisins utiles, mais de mauvais dirigeants." #NT!
- house_noiad_modifier: "Maison Noiade" #NT!
- house_noiad_modifier_desc: "Les étranges [cainites|E] du Nord gelé sont des créatures sauvages, peu adaptées pour gouverner des zones peuplées." #NT!
- house_montano_modifier: "Maison Montano" #NT!
- house_montano_modifier_desc: "Les chefs traditionnels du [Clan|E] Lasombra sont des mystiques solitaires, souvent peu adaptés à leur rôle." #NT!
- house_deruiz_modifier: "Maison De Ruiz" #NT!
- house_deruiz_modifier_desc: "Les ennemis détestés des musulmans ibériques sont profondément enracinés dans la culture chevaleresque de la péninsule ibérique et en font pleinement usage." #NT!
- house_narses_modifier: "Maison Narsès" #NT!
- house_narses_modifier_desc: "Les anciens grands dirigeants de l'hérésie [cainite|E] sont dispersés et brisés depuis la mort de leur archevêque. Leurs péchés ne doivent pas être oubliés." #NT!
- house_boukephos_modifier: "Maison Bouképhos" #NT!
- house_boukephos_modifier_desc: "Le savant diplomate childe de Lasombra est un [cainite|E] amical, aimé de la jeune génération. Cependant, il est souvent sujet à des crises d'errance loin de son royaume." #NT!
- house_sybil_modifier: "Maison Sybille" #NT!
- house_sybil_modifier_desc: "Le reste du [Clan|E] reconnaît à peine la lignée de la fille rejetée. Ainsi, ils ont appris à compter principalement sur eux-mêmes." #NT!
- house_gratiano_modifier: "Maison Gratiano" #NT!
- house_gratiano_modifier_desc: "Gratiano est destiné à de grandes choses. Et il tient à le rappeler à tout le monde." #NT!
- house_khanommehr_modifier: "Maison Khanom Mehr" #NT!
- house_khanommehr_modifier_desc: "A l'écart de la politique, la Maison Khanom Mehr se consacre à la protection du [Clan|E] et de son fondateur." #NT!
- house_karotos_modifier: "Maison Karotos" #NT!
- house_karotos_modifier_desc: "La lignée presque inconnue d'un mystérieux Lasombra porte peu d'événements traumatisants passés mais a tout à prouver." #NT!
- house_qabilatalkhayal_modifier: "Maison Qabilat al-Khayal" #NT!
- house_qabilatalkhayal_modifier_desc: "Les Lasombra [ashirra|E] sont en retrait, leur zèle incessant à la fois une bénédiction et une malédiction en ces temps difficiles." #NT!
- house_allama_modifier: "Maison al-Lam'a" #NT!
- house_allama_modifier_desc: "Grâce à sa diplomatie flexible, la petite maison al-Lam'a assure sa survie, malgré sa réticence à recourir à des tactiques sournoises." #NT!
- house_tubalcain_modifier: "Maison Tubalcaïn" #NT!
- house_tubalcain_modifier_desc: "Maîtres de la Domination, la Maison Tubalcain n'apprécie pas les opinions religieuses divergentes." #NT!
- house_tepelit_modifier: "Maison Tepelit" #NT!
- house_tepelit_modifier_desc: "Tepelit, solitaire et presque inconnu, a eu des visions de sa perte et certains disent qu'il l'a même accepté." #NT!
- house_blueeye_modifier: "Maison Oeil Bleu" #NT!
- house_blueeye_modifier_desc: "Cette lignée mythique de Lasombra est une lignée recluse, qui, selon la plupart, n'est pas apte à gouverner ou à occuper des postes de pouvoir." #NT!
- house_ramanga_modifier: "Maison Ramanga" #NT!
- house_ramanga_modifier_desc: "Lignée impitoyable qui n'hésite pas à influencer ouvertement les kines, la Maison de la Reine de Madagascar ne se confie qu'en matière de gouvernance." #NT!
- house_lamdiel_modifier: "Maison Lamdiel" #NT!
- house_lamdiel_modifier_desc: "Avec des visions sans fin de malheur et d’obscurité, il n’est pas facile d’être membre de la Maison Lamdiel." #NT!
- house_eater_modifier: "Mangeur de maison" #NT!
- house_eater_modifier_desc: "Il vous surveille toujours, attendant le moment de vous arracher vos mots si vous n'y faites pas attention." #NT!
- house_brahina_modifier: "Maison Brahina" #NT!
- house_brahina_modifier_desc: "Créatures d'une intense passion, les membres de la Maison Brahina ont du mal à rester longtemps concentrés sur un seul sujet." #NT!
- house_delaurent_modifier: "Maison De Laurent" #NT!
- house_delaurent_modifier_desc: "Érudit concentré et talentueux, De Laurent donne le meilleur d'il-même, seul dans sa bibliothèque, sans régner sur une grande salle d'audience." #NT!
- house_midian_modifier: "Maison Madian" #NT!
- house_midian_modifier_desc: "Les tyrans peuvent avoir de la chance. Mais il s’épuisera toujours le plus tôt possible." #NT!
- house_banes_modifier: "Fléaux de la maison" #NT!
- house_banes_modifier_desc: "Connaître l’avenir peut être une aubaine. Mais cela peut aussi briser un attachement déjà précaire à la réalité." #NT!
- house_plague_modifier: "Peste domestique" #NT!
- house_plague_modifier_desc: "La Maison des Plaies a une mission singulière et horrible qui la rend très dangereuse à approcher." #NT!
- house_izaha_modifier: "Maison Izaha" #NT!
- house_izaha_modifier_desc: "Cette Maison Malkavienne est encore plus folle que d'habitude, mais il y a un côté étrange dans leurs yeux tordus." #NT!
- house_lerterimas_modifier: "Maison Lerterimas" #NT!
- house_lerterimas_modifier_desc: "Boudées par leur propre [Clan|E] en raison de leur alliance avec une puissance plus sombre, la maison Lerterimas court vers une apocalypse de sa propre initiative." #NT!
- house_panehesy_modifier: "Maison Panehésy" #NT!
- house_panehesy_modifier_desc: "Cette maison égyptienne de Malkav occupait de grandes positions dans les anciens royaumes égyptiens. Cela semblait contrôler leur santé mentale, voire apaiser leur recherche d'une puissance supérieure." #NT!
- house_nissiku_modifier: "Maison Nissiku" #NT!
- house_nissiku_modifier_desc: "Le Prince Clever sait quand tromper et quand charmer. Sa présence se fait toujours sentir dans sa lignée, qui est toujours obligée de trouver de nouvelles façons de satisfaire son esprit en constante expansion." #NT!
- house_ananke_modifier: "Maison Ananké" #NT!
- house_ananke_modifier_desc: "L’offensé se vengera sanglantement des fils et des filles des trompeurs." #NT!
- house_vrykolakas_modifier: "Maison Vrykolakas" #NT!
- house_vrykolakas_modifier_desc: "Celui qui s'est enfui court toujours, sans jamais regarder en arrière." #NT!
- house_yagnatia_modifier: "Maison Yagnatia" #NT!
- house_yagnatia_modifier_desc: "La grand-mère a fini de s'enfuir. Sa couvée tiendra bon et se battra jusqu'au bout si besoin est." #NT!
- house_baytmutasharid_modifier: "Maison Bay't Mutasharid" #NT!
- house_baytmutasharid_modifier_desc: "Les Nosferatu du monde musulman qui ont refusé de rejoindre le Hajj mènent une vie isolée, amère et en marge de la société." #NT!
- house_trajan_modifier: "Maison Trajan" #NT!
- house_trajan_modifier_desc: "Si Trajan's Net ne connaît pas une information, cela ne vaut tout simplement pas la peine d'être connue." #NT!
- house_absalon_modifier: "Maison Absalon" #NT!
- house_absalon_modifier_desc: "L'évêque mort-vivant du Danemark occupe des postes de pouvoir prestigieux dans son pays natal. La seule terre qui mérite d’être prise en compte, évidemment." #NT!
- house_yima_modifier: "House Yima" #NT!
- house_yima_modifier_desc: "Le Saint Graal du [Clan|E] Nosferatu est quelque chose autour duquel on peut se rallier, se réconforter ou mourir." #NT!
- house_alexius_modifier: "Maison Alexius" #NT!
- house_alexius_modifier_desc: "Brûlant d'une fureur fanatique, la Maison Alexius est prête à purifier tous les incroyants se mettant en travers de son chemin." #NT!
- house_malachite_modifier: "Maison Malachite" #NT!
- house_malachite_modifier_desc: "Le Rocher de Constantinople est aussi son dernier espoir. Aucun obstacle ne pourra bloquer le chemin de Michael's Chosen." #NT!
- house_guruhi_modifier: "Gourouhi de la maison" #NT!
- house_guruhi_modifier_desc: "Traditionnellement chefs des Laibon, les Guruhi apprécient leur place, loin du caniveau de leurs cousins ​​du Nord." #NT!
- house_al_hajj_modifier: "Maison al-Hajj" #NT!
- house_al_hajj_modifier_desc: "Protecteurs des Villes Saintes, indomptables dans leur foi." #NT!
- house_chandraputra_modifier: "Maison Chandraputra" #NT!
- house_chandraputra_modifier_desc: "Le chef incontesté du [Clan|E] Ravnos depuis des millénaires ne restera pas les bras croisés alors que ses frères sont constamment attaqués. La victoire ou la mort est le seul choix qui s'offre au général." #NT!
- house_ravana_modifier: "Maison Ravana" #NT!
- house_ravana_modifier_desc: "Le traître a vendu son âme depuis longtemps. Ne sous-estimez jamais l’attrait du Mal brut." #NT!
- house_hazimel_modifier: "Maison Hazimel" #NT!
- house_hazimel_modifier_desc: "...et, tandis que vous regardez dans l'Œil, la connaissance éternelle en jaillit." #NT!
- house_alexandrite_modifier: "Maison Alexandrite" #NT!
- house_alexandrite_modifier_desc: "Prendre l'or de la gueule du Serpent est un geste dangereux auquel les Alexandrites sont habitués." #NT!
- house_rroma_modifier: "Maison Phuri Dae" #NT!
- house_rroma_modifier_desc: "Loin de chez eux, ils se serrent les coudes, à l'abri de la tempête qui n'en finit pas." #NT!
- house_kali_modifier: "Maison Kali" #NT!
- house_kali_modifier_desc: "Lignée oubliée, son existence rayée des archives des Ravnos pour leurs crimes abominables... ou leurs opinions divergentes." #NT!
- house_baytmujirim_modifier: "Maison Bay't Mujirim" #NT!
- house_baytmujirim_modifier_desc: "Méfiés du monde [ashirra|E] au sens large, les Ravnos musulmans sont une race autonome, robuste mais cynique." #NT!
- house_kinyonyi_modifier: "Maison Kinyonyi" #NT!
- house_kinyonyi_modifier_desc: "Les messagers du Royaume d'Ébène sont les bienvenus dans la plupart des cours, même s'ils ne restent jamais longtemps." #NT!
- house_bashirite_modifier: "Maison Bashirite" #NT!
- house_bashirite_modifier_desc: "Jusqu'à l'Apocalypse, il y a de l'argent à gagner." #NT!
- house_phaedymite_modifier: "Maison Phédymite" #NT!
- house_phaedymite_modifier_desc: "Les Chevaliers des Ravnos tentent de racheter leur clan déchu, malgré lui." #NT!
- house_sybarite_modifier: "Maison Sybarite" #NT!
- house_sybarite_modifier_desc: "Il n'y a pas de vrai ou de faux. Prenez ce que vous désirez." #NT!
- house_yoryari_modifier: "House Yoryari" #NT!
- house_yoryari_modifier_desc: "À la recherche de la vérité, en retournant à leurs racines. L’Est appelle." #NT!
-  
- indian_ravnos_improved_modifier: "Ravnos indiens habilités" #NT!
- indian_ravnos_improved_modifier_desc: "Le centre du clan Ravnos tient et continuera de le faire. La guerre éternelle sera gagnée." #NT!
- house_alexandrite_improved_modifier: "Maison spirituelle Alexandrite" #NT!
- house_alexandrite_improved_modifier_desc: "Les serpents se cachent devant les véritables héritiers de l'Egypte ancienne." #NT!
- house_rroma_improved_modifier: "Maison spirituelle Phuri Dae" #NT!
- house_rroma_improved_modifier_desc: "Le nomade trouvera enfin un chez-soi et le repos qu’il mérite vraiment." #NT!
- house_baytmujirim_improved_modifier: "Maison spirituelle Bay't Mujirim" #NT!
- house_baytmujirim_improved_modifier_desc: "Des parias aux dirigeants, ils n’avaient autrefois pas de place à la table. Maintenant, ils possèdent la table." #NT!
- house_bashirite_improved_modifier: "Maison spirituelle Bashirite" #NT!
- house_bashirite_improved_modifier_desc: "Si une place au Paradis peut être achetée, les Bashirite sont prêts à la négocier." #NT!
- house_phaedymite_improved_modifier: "Maison spirituelle Phaedymite" #NT!
- house_phaedymite_improved_modifier_desc: "La chevalerie et l’honneur ne meurent vraiment jamais. Même parmi les morts-vivants." #NT!
- house_sybarite_improved_modifier: "Sybarite de maison spirituelle" #NT!
- house_sybarite_improved_modifier_desc: "Cette fête ne finira vraiment jamais." #NT!
- house_yoryari_improved_modifier: "Maison spirituelle Yoryari" #NT!
- house_yoryari_improved_modifier_desc: "Un nouveau mélange d’Orient et d’Occident apparaît, plus fort que les deux réunis." #NT!
-  
- house_samiel_modifier: "Maison Samiel" #NT!
- house_samiel_modifier_desc: "Les anges ont fini de se cacher, de battre en retraite ou de se recroqueviller. L'heure est à la guerre." #NT!
- house_enosh_modifier: "Maison Énosh" #NT!
- house_enosh_modifier_desc: "Les sages conseillers de la Maison Enosh sont stoïques et envisagent rarement la violence comme une possibilité." #NT!
- house_rayzeel_modifier: "Maison Rayzeel" #NT!
- house_rayzeel_modifier_desc: "Les guérisseurs du [Clan|E] Salubri ont déjà vu tellement de morts. Leur esprit s’affaiblit à chaque blessure qu’ils pansent." #NT!
- house_twilight_modifier: "Crépuscule de la maison" #NT!
- house_twilight_modifier_desc: "Défenseurs de l’humanité, implacables dans leur guerre contre le mal." #NT!
- house_hrorsh_modifier: "Maison Hrorsh" #NT!
- house_hrorsh_modifier_desc: "Non préparée face à l'assaut cruel des Tremere, la Maison Hrorsh est un rappel fantomatique d'un [Clan|E] autrefois glorieux." #NT!
- house_mokur_modifier: "Maison Mokur" #NT!
- house_mokur_modifier_desc: "Le dernier à tomber, comme Saulot l’avait toujours voulu." #NT!
- house_watcher_modifier: "Surveillant de maison" #NT!
- house_watcher_modifier_desc: "Alors que leurs cousins ​​occidentaux tombent, ils se tiennent dans l’ombre orientale, leur surveillance ne faisant que commencer." #NT!
- house_abdallah_modifier: "Maison Abdallah" #NT!
- house_abdallah_modifier_desc: "Ancêtre d'un héritage, porteur d'une prophétie, toujours aux aguets." #NT!
-  
- house_khaibit_modifier: "Maison Khaibit" #NT!
- house_khaibit_modifier_desc: "La lignée du premier fils de Seth suscite le respect et la crainte parmi ses pairs." #NT!
- house_sarrasine_modifier: "Maison Sarrasine" #NT!
- house_sarrasine_modifier_desc: "Sarrasine tuerait ses parents pour le moindre pouvoir. En fait, il l'a déjà fait." #NT!
- house_jormungandr_modifier: "Maison Jörmungandr" #NT!
- house_jormungandr_modifier_desc: "Ces hérétiques ne sont guère engagés dans une cause, si ce n’est leur propre profit et leur propre survie." #NT!
- house_isis_modifier: "Maison Isis" #NT!
- house_isis_modifier_desc: "Méfiez-vous de la femme méprisée. Surtout quand elle est la fille d’Isis et qu’elle tient dans sa paume le secret de la vie et de la mort." #NT!
- house_tawaret_modifier: "Maison Taweret" #NT!
- house_tawaret_modifier_desc: "Taweret a combattu Kemintiri jusqu'à l'arrêt et a survécu pour raconter l'histoire. Ses prouesses traversent sa lignée." #NT!
- house_nefertiti_modifier: "Maison Néfertiti" #NT!
- house_nefertiti_modifier_desc: "Si la fierté survient avant la chute, Néfertiti tombera pendant très, très longtemps." #NT!
- house_maatkare_modifier: "Maison Maatkarê" #NT!
- house_maatkare_modifier_desc: "Le doux attrait du Serpent est miséricordieux... et tellement séduisant." #NT!
- house_seterpenre_modifier: "Maison Seterpenre" #NT!
- house_seterpenre_modifier_desc: "Le diplomate Hiérophante est suffisamment ouvert d’esprit pour travailler avec des étrangers. Certains le qualifieraient même de doux." #NT!
- house_heru_modifier: "House Heru" #NT!
- house_heru_modifier_desc: "Attention, ce serpent a de sérieux crocs." #NT!
- house_scorpio_modifier: "Maison Scorpion" #NT!
- house_scorpio_modifier_desc: "Cette Assemblée fait preuve d’un penchant alarmant pour l’élaboration de plans apocalyptiques interminables. Ce qui est encore plus alarmant, c'est que certains pourraient fonctionner un jour..." #NT!
- house_porphyrion_modifier: "Maison Porphyrion" #NT!
- house_porphyrion_modifier_desc: "Les Diables de l'Inde préparent des plans incalculables pour apporter la gloire de Seth dans le sous-continent. S’ils réussissent, ce ne sera agréable pour personne." #NT!
- house_osiris_modifier: "Maison Osiris" #NT!
- house_osiris_modifier_desc: "Pourchassés par le Serpent, les Enfants du Dieu de la mort sont désormais presque tous auprès de leur père." #NT!
- house_damballah_modifier: "Maison Dambalah" #NT!
- house_damballah_modifier_desc: "Quelque peu éloignés du [Clan|E] principal, les Enfants de Damballah sont un groupe pragmatique, adaptant leur credo aux croyances africaines." #NT!
- house_khaytall_modifier: "Maison Khay'Tall" #NT!
- house_khaytall_modifier_desc: "Les hérétiques exclus autrefois associés au Constantinople de Michael constituent une lignée traquée. Leurs options diminuent chaque nuit qui passe." #NT!
- house_wepwawet_modifier: "Maison Wepwawet" #NT!
- house_wepwawet_modifier_desc: "Ce culte guerrier défend l’Égypte des menaces extérieures, menaces qu’ils qualifient eux-mêmes comme telles." #NT!
- house_mucalinda_modifier: "Maison Mucalinda" #NT!
- house_mucalinda_modifier_desc: "Les Naktanchara méprisés sont une émanation bouddhiste du Setite [Clan|E]. Reclus et sur la défensive, leur position est précaire." #NT!
- house_glycon_modifier: "Maison Glycon" #NT!
- house_glycon_modifier_desc: "Les escrocs sont une caste de guerriers avides de pouvoir du Setite [Clan|E]. Aveugles aux intrigues, ce ne sont que de simples brutes pointées vers la cible la plus proche." #NT!
- house_echidna_modifier: "House Echidna" #NT!
- house_echidna_modifier_desc: "Les Gorgones ont prévu leur propre disparition. Leur acceptation étrange les rend craints par la plupart des [cainites|E]." #NT!
- house_nephilim_modifier: "Maison Néphilim" #NT!
- house_nephilim_modifier_desc: "La maison la plus prestigieuse du [Clan|E] Toreador connaît des temps difficiles avec la mort de son fondateur. Mais le germe de la grandeur est toujours là." #NT!
- house_salianna_modifier: "Maison Salianna" #NT!
- house_salianna_modifier_desc: "Salianna a déjà tout perdu deux fois. Elle ne laissera pas cela se produire une troisième fois." #NT!
- house_callisti_modifier: "Maison Callisti et Callisto" #NT!
- house_callisti_modifier_desc: "Diplomates chevronnés, les députés de cette Assemblée ont tendance à oublier les petites choses pour les grandes, ce qui leur a déjà coûté cher." #NT!
- house_nicholas_modifier: "Maison Nicolas" #NT!
- house_nicholas_modifier_desc: "Avec une lignée fabriquée et un comportement oubliable, Etienne de Poitiers a fait de sa Maison une cible difficile à cerner." #NT!
- house_andrew_modifier: "Maison André" #NT!
- house_andrew_modifier_desc: "L'« archange » de l'hérésie [cainite|E] a imprégné sa Maison de sa vision pragmatique de l'utilisation de la religion comme facteur de motivation pour la guerre." #NT!
- house_helena_modifier: "Maison Hélène" #NT!
- house_helena_modifier_desc: "Si vous n'êtes pas tombé amoureux d'un membre de la Maison d'Helena, c'est que vous n'en avez pas encore rencontré." #NT!
- house_baldr_modifier: "Maison Baldr" #NT!
- house_baldr_modifier_desc: "Les Skalds du Nord tentent de perpétuer leurs récits grâce à la puissance de leurs chants et de leurs voix." #NT!
- house_lubbock_modifier: "Maison Lubbock" #NT!
- house_lubbock_modifier_desc: "Perdus dans leurs passions, les membres de la Maison Lubbock sont des proies faciles dans le monde impitoyable du [cainite|E]." #NT!
- house_volgirre_modifier: "Maison Volgirre" #NT!
- house_volgirre_modifier_desc: "Les petits dirigeants des petits domaines esclavagistes de la Maison Volgirre sont des suzerains sadiques et des pères cruels." #NT!
- house_apollo_modifier: "Maison Apollon" #NT!
- house_apollo_modifier_desc: "Fleurs petites et délicates, à la recherche du soleil et facilement piétinées par la guerre." #NT!
- house_rayeenalfen_modifier: "Maison Ray'een al-Fen" #NT!
- house_rayeenalfen_modifier_desc: "Les calligraphes du monde musulman sont depuis longtemps plongés dans un schisme générationnel, à tel point qu’il le marque dans leur sang." #NT!
- house_ishtarri_modifier: "Maison Ishtarri" #NT!
- house_ishtarri_modifier_desc: "En proie à une profonde soif de s'adonner à leurs vices, les Ishtarri sont néanmoins experts dans l'art subtil de la manipulation de l'information." #NT!
- house_goratrix_modifier: "Maison Goratrix" #NT!
- house_goratrix_modifier_desc: "Le porteur de lumière assurera un nouvel âge pour le [Clan|E], ou sera englouti par les ténèbres." #NT!
- house_etrius_modifier: "Maison Étrius" #NT!
- house_etrius_modifier_desc: "Le régent choisi de Tremere mène une défense solide à la tête d'un [Clan|E] battu. Une position peu enviable." #NT!
- house_leduc_modifier: "Maison LeDuc" #NT!
- house_leduc_modifier_desc: "L'ancien régent de France y était un [cainite|E] respecté, bien plus que son remplaçant, Goratrix." #NT!
- house_meerlinda_modifier: "Maison Meerlinda" #NT!
- house_meerlinda_modifier_desc: "La seule femme du Conseil des Sept est en réalité celle qui maintient la pyramide ensemble. L'Angleterre sera sa récompense si elle parvient à déjouer les manœuvres prudentes des Îles." #NT!
- house_calderon_modifier: "Maison Calderón" #NT!
- house_calderon_modifier_desc: "Les féroces Espagnols défendront l'honneur de Tremere jusqu'à son dernier souffle, ignorant les forces les plus obscures à l'œuvre." #NT!
- house_grimgroth_modifier: "Maison Grimgroth" #NT!
- house_grimgroth_modifier_desc: "Les fantômes de Mistridge irritent encore cette nuit, un nom solitaire prononcé sur un ton maudit : Grimgroth." #NT!
- house_cincao_modifier: "House De Cincao" #NT!
- house_cincao_modifier_desc: "Xavier est impitoyable dans ses méthodes, mais personne ne peut nier qu'il obtient des résultats étonnants." #NT!
- house_telyavel_modifier: "Maison Telyavel" #NT!
- house_telyavel_modifier_desc: "Traqués comme hérétiques, les Magus de l'Ancienne Foi trouvent une relative sécurité auprès des [cainites|E] partageant les mêmes idées." #NT!
- house_trimira_modifier: "Maison Trimira" #NT!
- house_trimira_modifier_desc: "Des étrangers sur une terre hostile, contraints de faire des concessions pour survivre." #NT!
- house_kartarirya_modifier: "Maison Kartarirya" #NT!
- house_kartarirya_modifier_desc: "Les Tzimisces indiens, nombreux et armés, sont connus pour couper plusieurs têtes avant de poser des questions." #NT!
- house_yaroslavich_modifier: "Maison Iaroslavitch" #NT!
- house_yaroslavich_modifier_desc: "Plus il devient puissant, plus Hedeon éprouve du plaisir à écraser ses pathétiques ennemis." #NT!
- house_ruthven_modifier: "Maison Ruthvenski" #NT!
- house_ruthven_modifier_desc: "Les gardiens de la forme corporelle de Tzimisce sont aveuglés par leur position prestigieuse, ignorant les nombreuses menaces qu'elle implique." #NT!
- house_vykos_modifier: "Maison Vykos" #NT!
- house_vykos_modifier_desc: "Myka est dans une longue quête de sens. La fin de la route se rapproche chaque nuit qui passe..." #NT!
- house_rustovitch_modifier: "Maison Rustovitch" #NT!
- house_rustovitch_modifier_desc: "Vladimir tente d'apprivoiser les Tzimisces [Clan|E] par la force des armes. Un geste audacieux, et potentiellement mortel." #NT!
- house_yorak_modifier: "Maison Yorak" #NT!
- house_yorak_modifier_desc: "Imaginez votre pire cauchemar sous forme humaine. Te torturer pour l'éternité. Pendant que ses précédentes victimes vous observent, avant de les rejoindre sur les murs de la cathédrale." #NT!
- house_tabak_modifier: "Maison Tabak" #NT!
- house_tabak_modifier_desc: "La maison Tabak est conçue pour le leadership, sachant exactement quand faire couler jusqu'à la dernière goutte de sang pour les paysans, ou quand s'enfuir lorsqu'elle est dépassée." #NT!
- house_dracon_modifier: "Maison Dragon" #NT!
- house_dracon_modifier_desc: "Les pieux descendants du Dracon et de l'Obertus sont mal adaptés à la guerre et évitent les pratiques de vicissitude de leurs frères." #NT!
- house_byelobog_modifier: "Maison Biélobog" #NT!
- house_byelobog_modifier_desc: "Le Dieu Blanc règne sur l’hiver, mais ne se soucie pas de régner sur autre chose." #NT!
- house_triglav_modifier: "Maison Triglav" #NT!
- house_triglav_modifier_desc: "La Maison Triglav est consumée par sa querelle contre la Maison Dracon, à peine capable de faire autre chose." #NT!
- house_andeleon_modifier: "Maison Andéléon" #NT!
- house_andeleon_modifier_desc: "À l'écart des préoccupations les plus banales, Andeleon cherche la vérité au-delà des étoiles." #NT!
- house_demdemeh_modifier: "Maison Demdemeh" #NT!
- house_demdemeh_modifier_desc: "Le véritable érudit sait qu’il doit transcender la chair pour devenir un Dieu." #NT!
- house_djavakhi_modifier: "Maison Djavakhi" #NT!
- house_djavakhi_modifier_desc: "Lorsque vous gouvernez d’une main de fer, ne baissez jamais la main." #NT!
- house_nagloper_modifier: "Maison Nagloper" #NT!
- house_nagloper_modifier_desc: "Comment la Bête peut-elle vous contrôler si vous êtes la Bête elle-même ?" #NT!
- house_hrothgar_modifier: "Maison Hrothgar" #NT!
- house_hrothgar_modifier_desc: "Vous pouvez distancer votre propre [Clan|E], mais pouvez-vous dépasser Ragnarok ?" #NT!
- house_jedrik_modifier: "Maison Jédrik" #NT!
- house_jedrik_modifier_desc: "Parfois, la menace la plus grave qui pèse sur votre gouvernement est plus proche de vous que vous ne le pensez." #NT!
- house_tinia_modifier: "Maison Tinia" #NT!
- house_tinia_modifier_desc: "Consumés par l’envie de voyager, les membres de la Maison Tinia aspirent à de nouvelles expériences exotiques." #NT!
- house_mithras_modifier: "Maison Mithra" #NT!
- house_mithras_modifier_desc: "Les descendants du Dieu Soleil s'alignent facilement, ayant été conditionnés par leur ancêtre depuis des siècles maintenant." #NT!
- house_alexander_modifier: "Maison Alexandre" #NT!
- house_alexander_modifier_desc: "Alexandre a prouvé sa gestion avisée en régnant sur l’empire le plus puissant d’Europe occidentale. Mais ses accès de colère étaient tout aussi légendaires." #NT!
- house_antonian_modifier: "Maison Antonienne" #NT!
- house_antonian_modifier_desc: "L'Architecte du Rêve a construit l'une des utopies les plus impressionnantes du monde [cainite|E]. Jusqu'à ce qu'il craque et soit détruit à cause de cela." #NT!
- house_camilla_modifier: "Maison Camille" #NT!
- house_camilla_modifier_desc: "Les descendants de Rome sont à juste titre fiers de leur héritage. Cependant, le vaste prestige et la considération dont ils font preuve peuvent facilement les rendre indolents." #NT!
- house_eigermann_modifier: "Maison Eigermann" #NT!
- house_eigermann_modifier_desc: "Des intimidateurs et des brutes qui s'intègrent à peine au [Clan|E] Ventrue, la Maison Eigermann est son propre pire ennemi." #NT!
- house_artemis_modifier: "Maison Artémis" #NT!
- house_artemis_modifier_desc: "Les Orthiens Ventrue s'emparent des trônes et attendent rarement leur heure lorsqu'une lame peut accélérer le processus. Ils croient que la gloire leur est due et la prennent sans pause." #NT!
- house_bindusara_modifier: "Maison Bindusara" #NT!
- house_bindusara_modifier_desc: "L’érudit errant est une source de connaissances, souvent recherchée pour apprendre les voies mystérieuses des générations passées." #NT!
- house_veddartha_modifier: "Maison Veddartha" #NT!
- house_veddartha_modifier_desc: "Presque synonyme de Ventrue lui-même, Veddartha est une maison au leadership fier et diligent." #NT!
- house_arakur_modifier: "Maison Arakur" #NT!
- house_arakur_modifier_desc: "La lignée d'Arakur a une réputation de [diablerie|E], de communion avec les diables et d'orgueil. Ils sont également des lâches manifestes lorsqu’ils ne peuvent pas intimider les autres." #NT!
- house_medon_modifier: "Maison Médon" #NT!
- house_medon_modifier_desc: "Medon a l'honneur douteux d'être le premier vampire vraiment puissant à avoir été tué par les mortels. Une honte encore ressentie par sa lignée aujourd'hui." #NT!
- house_nefermeriisis_modifier: "Maison Nefer-meri-Isis" #NT!
- house_nefermeriisis_modifier_desc: "La féroce enfant de Ventrue préfère se salir les mains au combat. En tant que telle, sa lignée méprise le fait de compter sur les autres." #NT!
- house_arpad_modifier: "Maison Arpad" #NT!
- house_arpad_modifier_desc: "Tenace et bien ancrée dans la noblesse hongroise, la Maison Arpad est un ennemi difficile à déloger de son pays d'origine." #NT!
- house_antasia_modifier: "Maison Antasia" #NT!
- house_antasia_modifier_desc: "Julia Antasia, sereine et bien connectée, nourrit sa progéniture pour qu'elle soit respectueuse et amicale, abordant toujours les problèmes avec soin et compassion." #NT!
- house_le_croise_modifier: "Maison le Croise" #NT!
- house_le_croise_modifier_desc: "Geoffrey est en proie aux mêmes problèmes de colère que son [Sire|E]. Il ne peut compter que sur son attitude chevaleresque pour le sauver de la colère de son [Clan|E]." #NT!
- house_moloch_modifier: "Maison Molochim" #NT!
- house_moloch_modifier_desc: "Gardiens d'un monde ingrat, les Molochim sont pourchassés à la fois par les autres clans et par leurs camarades. Les premiers ne comprennent pas leur objectif, et les seconds ne le comprennent que trop bien." #NT!
- house_nergal_modifier: "Maison Nergalite" #NT!
- house_nergal_modifier_desc: "Fléau d'un monde qu'ils veulent voir brûler, les enfants de Nergal sont la plus noire des abominations que la malédiction de Caïn ait jamais produite." #NT!
- house_angellisater_modifier: "Maison Azaneali" #NT!
- house_angellisater_modifier_desc: "Les odieux Angellis Ater sont des usurpateurs au sein des Baali [Clan|E], à la recherche d'un chemin dément vers le statut de démon." #NT!
- house_wankuei_modifier: "House Wan Kuei" #NT!
- house_wankuei_modifier_desc: "Les morts-affamés de Chine sont les maîtres d’un vaste empire, mais ils souffrent de sérieuses limitations dont les [cainites|E] occidentaux pourraient profiter." #NT!
- house_asuratizayya_modifier: "Maison Asuratizayya" #NT!
- house_asuratizayya_modifier_desc: "Qualifiés d'hérétiques par les autres Wan Kuei, les Indiens Asuratizayya s'en tiennent toujours à un système de castes et de hiérarchie rigide mais fonctionnel." #NT!
- house_penangallan_modifier: "Maison Penangallan" #NT!
- house_penangallan_modifier_desc: "Les Wan Kuei, décentralisés et matriarcaux de la Cour Écarlate, sont des gens turbulents, essayant de vivre leur non-vie au maximum." #NT!
- house_wanderers_modifier: "Les vagabonds de la maison" #NT!
- house_wanderers_modifier_desc: "En proie aux Akumas, les Wan Kuei des steppes sont en sursis." #NT!
- dynn_nagaraja_modifier: "Nagaraja" #NT!
- dynn_nagaraja_modifier_desc: "La malédiction odieuse des Nagaraja en fait un groupe évité, mais aussi résilient." #NT!
- dynn_unbound_modifier: "Non lié" #NT!
- dynn_unbound_modifier_desc: "La simple rumeur concernant ces [cainites|E] et leurs lignées est une menace pour l'ordre établi." #NT!
- dynn_kiasyd_modifier: "Kiasyd" #NT!
- dynn_kiasyd_modifier_desc: "Les Kiasyd, reclus et mystérieux, font des ravages dans leurs laboratoires d'alchimistes, ignorant les menaces qui grandissent autour d'eux." #NT!
- dynn_impundulu_modifier: "Impundu" #NT!
- dynn_impundulu_modifier_desc: "Les Impundulu recherchent une faille dans un contrat conclu il y a longtemps qui les mène lentement à leur perte." #NT!
- house_ahrimane_modifier: "Ahriman" #NT!
- house_ahrimane_modifier_desc: "Adisa ne s'est jamais pliée ni n'a reculé devant un combat. Ses filles non plus ; Freya regarde après tout." #NT!
- house_feroux_modifier: "Féroux" #NT!
- house_feroux_modifier_desc: "Les soi-disant Gangrel grecs forment une fière lignée, ayant été l’une des forces majeures derrière le Rêve de Constantinople. Sa perte pèse lourdement sur leurs âmes." #NT!
- house_siren_modifier: "Filles de la Cacophonie" #NT!
- house_siren_modifier_desc: "Elles chantent pour moi, les sirènes des sept mers..." #NT!
- dynn_knightsofacre_modifier: "Chevaliers d'Acre" #NT!
- dynn_knightsofacre_modifier_desc: "Les Chevaliers sont effectivement féroces au combat, mais méprisent les moyens les plus subtils de perturber les plans de l'Ennemi." #NT!
- dynn_swordofstjames_modifier: "Épée de Saint-Jacques" #NT!
- dynn_swordofstjames_modifier_desc: "Soyons honnêtes, les partisans de Rodrigue sont des connards arrogants. Mais ils sont aussi durs comme des ongles, des connards arrogants !" #NT!
- dynn_redorder_modifier: "Ordre rouge" #NT!
- dynn_redorder_modifier_desc: "Ils connaissent de terribles secrets sur les horreurs de l’inconnu. Mais tant de temps passé dans les bibliothèques les a également rendus assez... faibles face à des tactiques plus fondées." #NT!
- dynn_sistersjohn_modifier: "Sœurs de Saint-Jean" #NT!
- dynn_sistersjohn_modifier_desc: "En proie à de terribles visions de malheur, les sœurs ont créé un sens administratif très solide pour asseoir leur terrible existence." #NT!
- dynn_oculidei_modifier: "Oculi Dei" #NT!
- dynn_oculidei_modifier_desc: "Les membres paranoïaques des Yeux de Dieu ont bien souvent raison sur leurs peurs. Mais cela ne les rend pas pour autant appréciés par leurs camarades." #NT!
- dynn_murnau_modifier: "Von Murnau" #NT!
- dynn_murnau_modifier_desc: "La fière Maison allemande est habituée à traiter avec les paysans fraudeurs fiscaux. Après tout, la crainte de Dieu n’est pas réservée aux enfants de l’Enfer." #NT!
- dynn_gantenbein_modifier: "Gantenbein" #NT!
- dynn_gantenbein_modifier_desc: "Les frères bogomilistes zélés ont le plus de mal à concilier leur foi honnête et leur besoin de sang de vampire. Ce fait les éloigne de leur propre troupeau." #NT!
- house_obertus_modifier: "Obertus" #NT!
- house_obertus_modifier_desc: "La chute de Constantinople pèse lourdement sur le diligent Ordre d’Obertus. Mais ils travaillent sans relâche pour découvrir les secrets les plus profonds du divin." #NT!
- house_grimaldi_modifier: "Grimaldi" #NT!
- house_grimaldi_modifier_desc: "Les plus humains des [Revenants|E] sont le lien entre les Tzimisces [Clan|E] et le monde des mortels. Diplomates et commerçants doués, ils sont pourtant méprisés par les familles les plus belliqueuses." #NT!
- house_bratovitch_modifier: "Bratovitch" #NT!
- house_bratovitch_modifier_desc: "Monstres brutaux qui servent habituellement les Tzimisce, les Bratovitch sont des combattants et des pisteurs, et s'engagent rarement dans des événements sociaux plus raffinés." #NT!
- house_szantovich_modifier: "Szantovitch" #NT!
- house_szantovich_modifier_desc: "Les Szantovich sont des papillons sociaux décadents, riches et hédonistes. Ils stimulent leurs sens à la recherche du plaisir et jouent avec les humains avec un abandon inconsidéré. Ils sont probablement les [Revenants|E] les moins maîtres d’eux-mêmes." #NT!
- house_vlaszy_modifier: "Vlaszy" #NT!
- house_vlaszy_modifier_desc: "Chaque Vlaszy est formé à l'équitation, au sens politique, à l'art de la guerre et à d'autres compétences courtoises dès son plus jeune âge, et de nombreux anciens Tzimisces les préfèrent comme champions et messagers." #NT!
- house_basarab_modifier: "Basarab" #NT!
- house_basarab_modifier_desc: "Réputés pour leurs prouesses au combat et leur leadership, ils constituent des atouts précieux pour les Tzimisce. La lignée Basarab s'agrandit chaque nuit, commençant à rendre certains de leurs maîtres mal à l'aise quant à la force de leurs « animaux de compagnie »..." #NT!
- house_premysl_modifier: "Prémysl" #NT!
- house_premysl_modifier_desc: "Issus d'une lignée royale de Bohême, les Premysl sont des suzerains cruels et mesquins envers leurs maîtres inférieurs, mais fanatiquement dévoués à leurs maîtres Tzimisces." #NT!
- house_danislav_modifier: "Daniel" #NT!
- house_danislav_modifier_desc: "À l'origine une noble dynastie liée aux Seigneurs des Ombres, les Danislavs du nord de la Transylvanie tombèrent sous l'emprise du Tzimisce Florescu, qui les garda dans ses cachots pendant les dix premières années de leur vie et les conditionna à le servir." #NT!
- house_khazi_modifier: "Khazi" #NT!
- house_khazi_modifier_desc: "Cette lignée étrange et solitaire ne sert que les Methuselah Byelobog et est considérée comme des parias et des monstres, même selon les standards de Tzimisce." #NT!
- dynn_ducheski_modifier: "Duchéski" #NT!
- dynn_ducheski_modifier_desc: "Une famille anciennement nommée Krevcheski et appartenant aux Tzimisce qui dessert désormais les Tremere est connue pour ses compétences en magie et dans la fabrication d'appareils mécaniques, en particulier d'instruments de torture. De nombreux Tremere demandent aux Ducheski d'entretenir leurs bibliothèques et leurs laboratoires." #NT!
- house_oprichniki_modifier: "Opritchniki" #NT!
- house_oprichniki_modifier_desc: "La police secrète d'Ivan le Terrible survécut de justesse au règne de son maître. Les survivants ont été adoptés par les Tzimisces russes et élevés dans une famille [revenant|E], bien qu'ils n'aient jamais mis les pieds sur le sol dévasté de Transylvanie." #NT!
- house_narov_modifier: "Narov" #NT!
- house_narov_modifier_desc: "Les Narov arrogants sont méprisés par la plupart des autres familles, mais leur style de vie somptueux fait toujours l'envie de beaucoup." #NT!
- house_rustovitchi_modifier: "Roustovitchi" #NT!
- house_rustovitchi_modifier_desc: "Jetés dans une guerre qu'ils ne veulent pas mener, les Rustovitchi n'ont d'autre choix que de gagner ou de mourir." #NT!
- house_ruthvenski_modifier: "Ruthvenski" #NT!
- house_ruthvenski_modifier_desc: "Les Ruthvenski sont une lignée épuisée, accrochée à leur renommée d’antan. Leur talent de dirigeant est plus pointu que jamais, mais personne ne se soucie plus de leur obéir." #NT!
- house_slatikov_modifier: "Slatikov" #NT!
- house_slatikov_modifier_desc: "Pions de Razkoljna, les Tzimisce de Cracovie, les Slatikov sont une petite famille d'érudits et d'érudits, peu intéressés par le grand jeu du Jyhad." #NT!
- dynn_enrathi_modifier: "Enrathi" #NT!
- dynn_enrathi_modifier_desc: "Les Enrathi sont des esclavagistes et l’ont toujours été. Malgré les temps qui changent, il y a toujours des gens qui cherchent à offrir leurs services... et il y en aura toujours." #NT!
- dynn_marijava_modifier: "Marijava" #NT!
- dynn_marijava_modifier_desc: "Les espions et les assassins des Tal'mahe'Ra sont dévoués, voire obstinés, dans leur art de prédilection." #NT!
- dynn_rafastio_modifier: "Rafastio" #NT!
- dynn_rafastio_modifier_desc: "Les séduisants Rafastio sont vaguement associés aux Tal'mahe'Ra, où ils servent à la fois de voyants et de papillons mondains." #NT!
- dynn_dhabi_modifier: "D'habi" #NT!
- dynn_dhabi_modifier_desc: "Les D'habi, à la volonté faible, ont été mentalement brisés par des siècles de mauvais traitements infligés par leurs maîtres Baali." #NT!
- dynn_keskinen_modifier: "Keskinen" #NT!
- dynn_keskinen_modifier_desc: "Les Keskinen sont une petite famille soudée qui sert le fou Mathusalem appelé Louhi. Ils pratiquent une magie ancienne, pour la plupart oubliée, alimentée en partie par leur sang pervers et leurs traditions transmises au fil des années." #NT!
- dynn_rosselini_modifier: "Rossélini" #NT!
- dynn_rosselini_modifier_desc: "Les Rosselini désarticulés sont une famille de nécromanciens qui ont croisé la route des Giovanni une fois de trop. Ils servent désormais leur ancien ennemi, volontairement ou non." #NT!
- dynn_rawan_modifier: "Rawan" #NT!
- dynn_rawan_modifier_desc: "Les pêcheurs au service de l'excentrique Anushin-Rawan sont élevés dans un seul but : être totalement fidèles à leur Dame." #NT!
- dynn_kairouan_modifier: "Confrérie de Kairouan" #NT!
- dynn_kairouan_modifier_desc: "Une famille créée grâce aux expériences des Sorciers Assamites sur Tzimisce [Revenants|E] ; la Confrérie de Kairouan est divisée à travers le monde, les trois castes luttant pour tirer le meilleur parti des quelques castes restantes." #NT!
- dynn_dimitriou_modifier: "Dimitriou" #NT!
- dynn_dimitriou_modifier_desc: "Prias a déjà tué des hommes, des monstres et des dieux pour protéger sa Dame. Il le fera à nouveau sans hésiter." #NT!
- dynn_nirriti_modifier: "Nirriti" #NT!
- dynn_nirriti_modifier_desc: "Les défenseurs du royaume de la Mort sont des hommes vaillants et un ennemi redoutable pour tout hérétique qui se présente à eux." #NT!
- dynn_crassus_modifier: "Crassus" #NT!
- dynn_crassus_modifier_desc: "Expérience dérangée née de l’époque romaine, la famille Crassus est maudite des pires excès de l’époque impériale." #NT!
- dynn_gravenor_modifier: "Gravenor" #NT!
- dynn_gravenor_modifier_desc: "Les Gravenor paranoïaques sont bien cachés, servant leurs maîtres Nosferatu aussi longtemps que leur santé mentale demeure." #NT!
- dynn_angustri_modifier: "Angustri" #NT!
- dynn_angustri_modifier_desc: "Les rares Augustri sont réputés pour leur intelligence et font bon usage de leurs compétences pour leurs clients Ravnos." #NT!
- dynn_kurulas_modifier: "Kurulas" #NT!
- dynn_kurulas_modifier_desc: "La tribu de l'épouse de Gengis Khan est prisée parmi la Horde Anda. Ils sont soigneusement conservés comme un lien prestigieux avec leur glorieux passé." #NT!
- dynn_qarnaim_modifier: "Qarnaim" #NT!
- dynn_qarnaim_modifier_desc: "Carthage était le summum de la relation humain-[cainite|E]. Les Qarnaim se battent pour que leur histoire d'origine redevienne réalité." #NT!
- dynn_bomkazi_modifier: "Bomkazi" #NT!
- dynn_bomkazi_modifier_desc: "Fidèles à leurs partenaires Impundulu, les sorcières Bomkazi se méfient de la lente dilution de leur sang." #NT!
- dynn_societyofstgeorge_modifier: "Société de Saint-Georges" #NT!
- dynn_societyofstgeorge_modifier_desc: "Personne ne peut lancer une charge frontale dévastatrice à travers un champ ouvert comme les Chevaliers de Saint-Georges, mais leur préférence pour cette tactique frise l'arrogance insensée." #NT!
- house_faust_modifier: "Faust" #NT!
- houst_faust_modifier_desc: "Zethraeus a mené plusieurs expériences amorales et affronte des pouvoirs infernaux dans sa quête pour acquérir de meilleures connaissances." #NT!
- dynn_custom_bloodline_war_modifier: "Lignée des guerriers" #NT!
- dynn_custom_bloodline_war_modifier_desc: "Cette lignée vit avec la conquête ; la plupart de leurs proches les considèrent comme des fauteurs de guerre." #NT!
- dynn_custom_bloodline_prowess_modifier: "Lignée des tueurs" #NT!
- dynn_custom_bloodline_prowess_modifier_desc: "Cette lignée est composée de tueurs mortels. Cela ne leur donne pas de popularité parmi leurs proches, mais presque tout le monde en a peur." #NT!
- dynn_custom_bloodline_intrigue_modifier: "Lignée des comploteurs" #NT!
- dynn_custom_bloodline_intrigue_modifier_desc: "Les membres de cette lignée sont parmi les conspirateurs les plus meurtriers du monde [cainite|E]." #NT!
- dynn_custom_bloodline_diplomacy_modifier: "Lignée des diplomates" #NT!
- dynn_custom_bloodline_diplomacy_modifier_desc: "Les membres de cette lignée sont convaincus qu'on peut réaliser de grandes choses en étant poli... quand ils peuvent en bénéficier." #NT!
- dynn_custom_bloodline_learning_modifier: "Lignée des chercheurs" #NT!
- dynn_custom_bloodline_learning_modifier_desc: "Les membres de cette lignée cherchent des réponses. Ils pensent que la connaissance est bien plus importante que les projets politiques et les guerres." #NT!
- dynn_custom_bloodline_stewardship_modifier: "Lignée des dirigeants" #NT!
- dynn_custom_bloodline_stewardship_modifier_desc: "Les membres de cette lignée cherchent à dominer les autres. Non pas à cause de leur fierté, mais parce qu’ils savent gouverner." #NT!
- dynn_custom_bloodline_secret_modifier: "Sang-pur" #NT!
- dynn_custom_bloodline_secret_modifier_desc: "Les membres de cette lignée pensent qu'ils sont de véritables descendants de Caïn. À leurs yeux, tous les autres [cainite|E] ne sont qu'une simple sangsue sans droit au sang de Caïn." #NT!
- house_mancheaka_modifier: "Mancheaka" #NT!
- house_mancheaka_modifier_desc: "Comme leur fondateur l’a fait il y a bien longtemps, les membres de cette lignée ont tendance à se précipiter tête baissée vers le danger, ce qui en fait des proies faciles pour les manipulateurs habiles." #NT!
- house_caias_modifier: "Koiné" #NT!
- house_caias_modifier_desc: "Caias Koine s'est battu pour protéger l'honneur de son [Sire|E], avant d'être vaincu par la sorcellerie la plus ignoble." #NT!
- house_nebmaatsutekh_modifier: "Nebmaatsutekh" #NT!
- house_nebmaatsutekh_modifier_desc: "La mère des miracles est la preuve éternelle de la dette de Ra envers Seth." #NT!
- house_nephtys_modifier: "Nephtys" #NT!
- house_nephtys_modifier_desc: "Elle est née de la tromperie et est morte à cause de cela." #NT!
- house_wadjet_modifier: "Ouadjet" #NT!
- house_wadjet_modifier_desc: "Une fois séduit par Set, Wadjet s'est libéré et s'est battu courageusement pour protéger les autres de lui." #NT!
- house_gilgamesh_modifier: "Gilgamesh" #NT!
- house_gilgamesh_modifier_desc: "Le poète a créé de nombreuses chansons sur lui, mais pas celle de sa mort." #NT!
- house_enkidu_modifier: "Enkidu" #NT!
- house_enkidu_modifier_desc: "Chargé de la tâche la plus importante, Enkidu ne faiblira jamais." #NT!
- house_amarantha_modifier: "Amarante" #NT!
- house_amarantha_modifier_desc: "Les premiers détruits perdurent encore, héritage de douleur et de haine." #NT!
- house_amphion_modifier: "Amphion" #NT!
- house_amphion_modifier_desc: "Amphion a charmé Arikel elle-même avec sa musique harmonieuse et apaisante." #NT!
- house_tammuz_modifier: "Tammouz" #NT!
- house_tammuz_modifier_desc: "Le protecteur et amoureux du sacrifice d'Arikel a imprégné sa lignée d'un sens du devoir inquiétant." #NT!
- house_ereshkigal_modifier: "Ereshkigal" #NT!
- house_ereshkigal_modifier_desc: "La sorcière mystérieuse et solitaire a sa propre fin de partie, loin des préoccupations des autres Gangrels." #NT!
- house_cyscek_modifier: "Cyscek" #NT!
- house_cyscek_modifier_desc: "Contre ses monstrueux parents, Cyscek n'hésitera pas à faire le sacrifice ultime." #NT!
- house_gallod_modifier: "Gallod" #NT!
- house_gallod_modifier_desc: "Victime des horreurs de l'Aîné, la lignée de Gallod est écrite dans le sang." #NT!
- house_ionache_modifier: "Ionache" #NT!
- house_ionache_modifier_desc: "Le premier voïvode a longtemps été oublié. Mais sa lignée se souvient de sa gloire perdue." #NT!
- house_toomler_modifier: "Outiller" #NT!
- house_toomler_modifier_desc: "Maître des vicissitudes, Toomler était incapable de voir les dangers bien plus banals. Il sert encore le [Clan|E] cette nuit, sous une autre forme." #NT!
- house_melachoate_modifier: "Mélanchoate" #NT!
- house_melachoate_modifier_desc: "Le rebelle Nictuku joue sur les deux tableaux, en veillant soigneusement à ce qu'aucun d'entre eux ne s'en doute." #NT!
- house_petrodon_modifier: "Pétrodon" #NT!
- house_petrodon_modifier_desc: "Un zèle fanatique pousse Petrodon toujours en avant, faisant murmurer son nom à ses ennemis avec effroi." #NT!
- house_carna_modifier: "Carna" #NT!
- house_carna_modifier_desc: "Une âme perdue à la recherche d’un but pourrait constituer la plus grande menace pour la pyramide Tremere." #NT!
- house_dracula_modifier: "Dracula" #NT!
- house_dracula_modifier_desc: "L'héritage d'effroi et de terreur de celui-ci sera un jour l'héritage de tous les vampires." #NT!
- house_valerius_modifier: "Valérius" #NT!
- house_valerius_modifier_desc: "Personne ne respecte le lieutenant loyal jusqu'au moment où il cesse de l'être." #NT!
- house_giangaleazzo_modifier: "Giangaleazzo" #NT!
- house_giangaleazzo_modifier_desc: "Le Vrai Prince sait quand revoir son allégeance actuelle." #NT!
- house_cardona_modifier: "Cardona" #NT!
- house_cardona_modifier_desc: "Un vrai patriarche protège même le membre le plus humble de sa famille." #NT!
- house_rosselini_modifier: "Rossélini" #NT!
- house_rosselini_modifier_desc: "La connaissance ne se soucie pas des frontières morales." #NT!
- dynn_mamluk_modifier: "Caïdif mamelouk" #NT!
- dynn_mamluk_modifier_desc: "Préjugés pour leur lignée Caitiff, les descendants de Mukhtar Bey ont néanmoins prouvé à maintes reprises leurs compétences administratives." #NT!
- house_cecilia_modifier: "Cécilia" #NT!
- houst_cecilia_modifier_desc: ""
- house_etheyra_modifier: "Étheyra" #NT!
- house_etheyra_modifier_desc: "Lorsque vous trahissez tout et tout le monde, soyez prêt à ce que peu de gens vous fassent confiance à la fin." #NT!
- custom_lay_order_modifier: "Famille initiée" #NT!
- custom_lay_order_modifier_desc: "Une noble maison de laïcs ayant juré d'aider la cause." #NT!
- custom_knightly_order_modifier: "Ordre chevaleresque" #NT!
- custom_knightly_order_modifier_desc: "Une société de guerriers liés par le sacrement de l'Ordre" #NT!
- custom_mendicant_order_modifier: "Ordre mendiant" #NT!
- custom_mendicant_order_modifier_desc: "Une société religieuse qui a juré de vivre parmi les gens ordinaires et de les aider." #NT!
- custom_contemplative_order_modifier: "Ordre contemplatif" #NT!
- custom_contemplative_order_modifier_desc: "Une communauté de fidèles éloignée des affaires du monde pour se concentrer sur la prière." #NT!
- house_dankovsky_modifier: "Dankovski" #NT!
- house_dankovsky_modifier_desc: "Les nécromanciens des steppes trop prudents étaient voués à une méfiance éternelle à l'égard de la Famille, après leur étreinte forcée à l'extérieur d'elle." #NT!
-  
- dynn_horus_modifier: "Shemsu-Heru" #NT!
- dynn_horus_modifier_desc: "Les Shemsu-Heru furent la première dynastie, les véritables immortels créés par et pour les dieux pour mener une guerre sainte contre Apophis." #NT!
- dynn_ishmaelites_modifier: "Ismaélites" #NT!
- dynn_ishmaelites_modifier_desc: "Les transfuges des Ismaélites, la deuxième dynastie, créée par un désir de liberté et d'autodétermination." #NT!
- dynn_apepnu_modifier: "Apepnou" #NT!
- dynn_apepnu_modifier_desc: "La troisième dynastie est constituée des maudits Apepnu, serviteurs d'Apophis élevés par le rite Bane de l'ennemi Set." #NT!
- dynn_cabiri_modifier: "Cabiri" #NT!
- dynn_cabiri_modifier_desc: "Les bâtards voleurs d'immortalité, de la quatrième dynastie des Cabiri, étaient haïs et enviés dans une égale mesure." #NT!
- dynn_wufeng_modifier: "Wu Feng" #NT!
- dynn_wufeng_modifier_desc: "Les Wu Feng ont un aspect Yang et sont des serviteurs de la Reine Écarlate." #NT!
- dynn_xianlung_modifier: "Xian Lung" #NT!
- dynn_xianlung_modifier_desc: "Xian Lung a un aspect Yin et est un serviteur du Dragon d'Ébène." #NT!
-  
- dynn_asharu_modifier: "Asharu" #NT!
- dynn_asharu_modifier_desc: "Asharu sont d'anciens anges gardiens qui ont été bannis dans les Abysses." #NT!
- dynn_rabisu_modifier: "Rabisu" #NT!
- dynn_rabisu_modifier_desc: "Les Rabisu sont des Démons qui étaient autrefois chargés de protéger et d'enrichir la nature tout en la mettant à la disposition de l'humanité." #NT!
- dynn_halaku_modifier: "Halaku" #NT!
- dynn_halaku_modifier_desc: "Les Halaku étaient les Elohim qui apportaient la mort afin de faire place à plus de vie." #NT!
- dynn_namaru_modifier: "Namaru" #NT!
- dynn_namaru_modifier_desc: "Les Namaru sont la première Maison et ont servi de hérauts de Dieu avant la Chute." #NT!
- dynn_lammasu_modifier: "Lammasu" #NT!
- dynn_lammasu_modifier_desc: "Les Lammasu sont les anciens anges de Dieu qui ont inspiré et recherché la vérité, la beauté et la puissance intérieure." #NT!
- dynn_annunaki_modifier: "Annunaki" #NT!
- dynn_annunaki_modifier_desc: "Les Annunaki sont les anciens façonneurs et utilisateurs de la Terre condamnés aux Abysses par Dieu." #NT!
- dynn_neberu_modifier: "Néberu" #NT!
- dynn_neberu_modifier_desc: "Les Neberu sont ceux qui ont maintenu les œuvres de Dieu, travaillant comme conseillers et voyants avant la Chute." #NT!
-  
- dynn_beaumayn_modifier: "Beaumayn" #NT!
- dynn_beaumayn_modifier_desc: "Aujourd'hui, je jure fidélité au Livre et à la Lame, au futur qui est mon destin, au présent qui est mon devoir et au passé qui est mon trésor. Je jure fidélité aux membres et aux objectifs de la Maison Beaumayn, et que les rêves des damnés hantent mon esprit si jamais je romps cette confiance. Comme l’étoile noire brûle au-dessus, mon cœur brûle également en te servant." #NT!
- dynn_dougal_modifier: "Dougal" #NT!
- dynn_dougal_modifier_desc: "Mon cœur est le cœur de Dougal. Mon bras prendra son marteau. Mon corps assumera son fardeau. Mon cœur assumera sa volonté. Je travaillerai jusqu'à la fin de mes jours, faisant son travail." #NT!
- dynn_eiluned_modifier: "Eiluned" #NT!
- dynn_eiluned_modifier_desc: "Aujourd'hui, je promets ma loyauté envers les Noirs et Argent, par l'intermédiaire de mon suzerain. J’accorderai à mes supérieurs le respect qu’ils ont mérité et je m’efforcerai de guider les plus jeunes que moi vers le chemin de la compréhension et de la sagesse. Chaque jour, je m'efforcerai d'en apprendre davantage sur le monde et mon propre cœur, pour mieux enrichir Eiluned et moi-même. Par-dessus tout, je m'engage moi-même envers la Maison Eiluned en tant que vassal, et j'espère pouvoir servir avec honneur et distinction." #NT!
- dynn_fiona_modifier: "Fiona" #NT!
- dynn_fiona_modifier_desc: "Dame/Seigneur, je vous donne toute l'affection et la chaleur de mon cœur afin qu'elles puissent vous soulager à travers les kilomètres et les années à venir. Je serai votre ami, votre compagnon et votre compagnon comme vous le désirez. Dans les heures désolées, je vous tiendrai compagnie et, sur le champ de bataille, je porterai votre signe avec fierté et honneur. Vous ne serez jamais seul ; jamais tes larmes ne resteront insensibles à ma main. Avant que mon lien ne soit rompu, mes reins ne trouveront plus de plaisir ; mon cœur ne trouvera plus de joie dans le plaisir charnel. Que les dents du lion d'argent de Fiona me déchirent si je trahis ta confiance !" #NT!
- dynn_gwydion_modifier: "Gwydion" #NT!
- dynn_gwydion_modifier_desc: "Seigneurs et dames du Faucon, je vous jure fidélité ainsi qu'à la noble maison de Gwydion, à partir de ce jour jusqu'à ce que le soleil ne brûle plus. Je ne manquerai jamais de défendre mes charges, ni l'honneur de mes frères et sœurs. Je serai gracieux en paix et inflexible au combat, et je ferai honneur à la Maison de Gwydion par mes actes. Au nom de Lord Gwydion le Gris et de Lady Keredwyn, je le jure." #NT!
- dynn_liam_modifier: "Liam" #NT!
- dynn_liam_modifier_desc: "Que la lumière du Soleil brûle ma peau,\nQue la lumière de la Lune m'apporte la peur,\nQue la nourriture de la Terre m'apporte la faim,\nQue les eaux de la Vie dessèchent ma gorge\nDois-je renoncer à la boussole de mon voyage ,\nDois-je négliger les soins du Rêveur,\nDois-je être aveugle aux besoins de mes protégés,\nDois-je ignorer la pureté de mon devoir." #NT!
- dynn_aesin_modifier: "Aésine" #NT!
- dynn_aesin_modifier_desc: "Mon âme éternelle repose désormais dans la Maison Aesin. Je jure par les forêts et les montagnes de ma maison que je respecterai les traditions et coutumes de la maison Aesin. Sachant que je suis en sécurité, je cherche refuge sous les ailes du hibou. Si mon serment est rompu, que le Rêve me prive de tous privilèges et ne me laisse jamais oublier qui j'étais et ce que je suis devenu." #NT!
- dynn_ailil_modifier: "Ailil" #NT!
- dynn_ailil_modifier_desc: "Par les écailles du dragon d'argent, par la lumière des quatre étoiles, par la couverture de la nuit la plus sombre, je remets mon corps, mon cœur et ma volonté sous la garde de la Maison Ailil. Puisse ses objectifs guider ma vision, ses espoirs diriger mes aspirations et son objectif inspirer mes actions. Que toutes mes ambitions s'effondrent dans la poussière si je trahis les paroles que j'ai prononcées cette nuit. Dragon à côté de moi, étoiles au-dessus de moi, nuit derrière moi, sois témoin de mon serment." #NT!
- dynn_balor_modifier: "Balor" #NT!
- dynn_balor_modifier_desc: "Par le serpent qui s’enroule autour de la tour dorée, par le rayon cramoisi qui jaillit de l’œil de Balor, par le sang qui coule comme un feu dans mes veines, j’engage mon cœur, mon esprit et mon corps à la volonté de la maison Balor. Que le défi qui rend mon corps différent de tous les autres me rappelle constamment ma naissance et mon destin. Puissé-je souffrir l'agonie de mille flammes si je trahis ma maison. Je le jure par le sang et les yeux devant le Rêve lui-même." #NT!
- dynn_daireann_modifier: "Daireann" #NT!
- dynn_daireann_modifier_desc: "Frères et sœurs, par le fil de l'épée et les liens du sang, je jure par la force de mes bras et le courage de mon cœur de vous défendre, vous et notre cause, contre la puissance de nos ennemis. Jamais tu ne resteras seul sur le champ de bataille tant que le souffle restera dans mon corps. Si je romps mon serment, qu'une pluie de poignards de fer me transperce la poitrine et envoie mon âme pour toujours dans les ténèbres." #NT!
- dynn_leanhaun_modifier: "Leanhaun" #NT!
- dynn_leanhaun_modifier_desc: "Par les éléments et l'essence des Rêves, je déclare devant témoins que je suis prêt à prendre mes fonctions au sein de la Maison Leanhaun. Je resterai fidèle à ma maison, gardant ses secrets, aidant tous les autres membres et gardant ses trésors. Si je manque à l'un de mes devoirs, ou si je dois trahir ma maison, que mon nom soit rayé de l'histoire et effacé de l'esprit des Rêveurs. Que mon histoire soit inachevée, mon objectif inachevé et mon essence dispersée par les vents. Qu'aucun Kithain ne se souvienne qu'il ait jamais existé tel que moi." #NT!
- dynn_varich_modifier: "Varich" #NT!
- dynn_varich_modifier_desc: "Un modèle que j'ai commencé, maintenant je le termine pour recommencer au nom de Varich, fondateur de la maison que je prends pour mienne. Puissé-je ne jamais laisser les fils d'un modèle non lus. Puissé-je ne jamais laisser un défi sans réponse. Puissé-je ne jamais faire vœu de véritable amour à un autre. Je rends honneur à la Maison Varich et la sers avec mon esprit, mon cœur et mes actions. Si je renonce à mon serment, que toutes les mains de ma maison se lèvent contre moi et que le rythme de mon cœur battant s'immobilise pour toujours." #NT!
- dynn_danaan_modifier: "Danann" #NT!
- dynn_danaan_modifier_desc: "Pour chaque étoile dans le ciel, il y a un chemin à parcourir. Pour chaque rêve nocturne, un voyage vous attend. Je jure par les étoiles au-dessus et les rêves intérieurs de servir la Maison Danaan, de garder les voies du Rêve et d'ouvrir de nouvelles pistes là où il n'en existe pas. Je garderai les voyageurs, guiderai les Rêveurs et continuerai jusqu'à ce qu'il n'y ait plus de chemin à suivre. Je le jure, et que le dragon me dévore dans mes rêves si je ne respecte pas mon engagement." #NT!
- dynn_scathach_modifier: "Scathach" #NT!
- dynn_scathach_modifier_desc: "Aujourd'hui, je fais un vœu de sang et d'acier et je promets ma vie à la Maison Scathach. Je tiendrai compte des paroles des oracles et je n'engagerai ma lame dans aucune cause qui invite au déshonneur. Je soignerai mon propre acier, garderai mes propres conseils et suivrai mon propre chemin jusqu'au jour où je ne projetterai plus d'ombre. Ainsi je le jure, par la lune brillante et la lame sanglante. Et c’est ainsi que commence ma longue marche." #NT!
-  
- POD_unity_impassive_tax_modifier: "Administration améliorée" #NT!
- POD_unity_impassive_tax_modifier_desc: "Les membres de cette maison bénéficient d'une efficacité accrue dans leur administration." #NT!
+    house_hardestadt_modifier: "Maison Hardestadt"
+    house_hardestadt_modifier_desc: "Bien qu'elle soit issue d'une lignée quelque peu obscure avec l'ancêtre Ventrue, la Maison Hardestadt a déjà prouvé un sens du pouvoir jamais vu depuis les nuits de Rome Ventrue."
+    house_nabonidus_modifier: "Maison Nabonide"
+    house_nabonidus_modifier_desc: "Cette lignée assamite solitaire est connue pour inspirer une grande confiance à ses adeptes, même avec les activités les plus exotiques qu'elle semble avoir."
+    house_shahiri_modifier: "House Sha'hiri"
+    house_shahiri_modifier_desc: "La lignée de l’Aîné choisie par Haqim lui-même comme successeur est un choix consensuel pour les [Clan|E] divisés. Bien que cela puisse aussi être dû au fait que Sha'hiri est connu comme un jeu d'enfant."
+    house_anath_modifier: "Maison Anath"
+    house_anath_modifier_desc: "La Reine de la Guerre et de l’Amour est une figure obscure, mais ses enfants ont réalisé de grands exploits tant en diplomatie qu’en guerre. Ils sont cependant connus pour être quelque peu imprudents et directs."
+    house_jamal_modifier: "Maison Jamal"
+    house_jamal_modifier_desc: "Le chef implacable de la faction [ashirra|E] de l'Assamite [Clan|E] est un guerrier hors pair. Mais il n’est pas connu pour sa patience envers les incroyants."
+    house_urshulgi_modifier: "Maison Ur'Shulgi"
+    house_urshulgi_modifier_desc: "La lignée du Berger Noir est un mystère. Et pour le bien de tous, cette question ne devrait pas être résolue."
+    house_thetmes_modifier: "Thèmes de la maison"
+    house_thetmes_modifier_desc: "L'Araignée a des plans dans les plans. Et pas le temps de s’occuper de questions triviales comme la gouvernance."
+    house_anosh_modifier: "Maison Anosh"
+    house_anosh_modifier_desc: "Boudée par tout son [Clan|E], la lignée Anosh est celle des visions et de l'expérimentation vers l'inconnu."
+    house_azrael_modifier: "Maison Azraël"
+    house_azrael_modifier_desc: "Les meilleurs guerriers d'un guerrier [Clan|E] le font eux-mêmes."
+    house_nakurtum_modifier: "Maison Nakurtoum"
+    house_nakurtum_modifier_desc: "L'imprudent et fougueux Nakurtum a pris d'assaut l'Assamite [Clan|E]. Elle attend de ses sujets une diligence raisonnable, mais a du mal à la mériter."
+    house_abuilaf_modifier: "Maison Abou Ilaf"
+    house_abuilaf_modifier_desc: "La maison mineure d'un descendant mineur de Haqim a principalement créé des chercheurs dévoués, souvent reclus et renfermés."
+    house_shango_modifier: "Maison Shango"
+    house_shango_modifier_desc: "Dirigeants et conseillers avisés, les Shango suscitent encore la méfiance parmi les Laibon en raison de leurs manières cruelles. A ce titre, il est assez rare qu’un Shango dirige un grand domaine sans représailles."
+    house_wahsheen_modifier: "Maison Wah'Sheen"
+    house_wahsheen_modifier_desc: "Il est difficile de gagner la confiance d'un Gangrel [ashirra|E], mais une fois que vous l'avez fait, c'est un lien inébranlable."
+    house_saad_modifier: "Maison Saad"
+    house_saad_modifier_desc: "Les Bédouins des Assamites [Clan|E] sont quelque peu mal vus et ont tendance à se serrer les coudes ou avec leurs tribus."
+    house_zayyat_modifier: "Maison Zayyat"
+    house_zayyat_modifier_desc: "La maison Zayyat brûle de la foi des nouveaux convertis. Un spectacle inspirant et effrayant."
+    house_hannibal_modifier: "Maison Hannibal"
+    house_hannibal_modifier_desc: "Bien qu'ils se battent avec courage et avec un esprit stratégique sûr, les membres de la Maison Hannibal semblent toujours voués à l'échec à la fin."
+    house_losario_modifier: "Maison Losario"
+    house_losario_modifier_desc: "Les membres de la Maison Losario sont des incendiaires et des innovateurs, repoussant toujours les limites. Cependant, personne ne semble capable de rester longtemps en colère contre nous."
+    house_leeland_modifier: "Maison Leeland"
+    house_leeland_modifier_desc: "Les Leeland's Get sont les dirigeants passionnés du monde libre [cainite|E]. Les clans traditionnels les soupçonneront toujours de planifier quelque chose."
+    house_menele_modifier: "Maison Ménélé"
+    house_menele_modifier_desc: "Infatigables lorsqu'ils se battent pour leurs convictions, les membres de la Maison Menele restent souvent aveugles aux menaces plus subtiles."
+    house_dominic_modifier: "Maison Dominique"
+    house_dominic_modifier_desc: "Bien versés dans l'art de la guerre, les membres de la Maison Dominic sont malheureusement souvent des proies faciles pour leur Bête particulièrement vorace."
+    house_gersakkun_modifier: "Maison Gersakkun"
+    house_gersakkun_modifier_desc: "Cette lignée presque oubliée n’a pas laissé de trace dans l’histoire des Brujah, même si elle a produit quelques philosophes talentueux."
+    house_truebrujah_modifier: "Maison True Brujah"
+    house_truebrujah_modifier_desc: "Personne ne sait s’il y a du vrai dans l’étrange histoire d’origine de cette lignée. Mais leur froideur distante ne leur vaut pas non plus d’amis."
+    house_baytmushakis_modifier: "Maison Bay't Mushakis"
+    house_baytmushakis_modifier_desc: "Les Brujahs musulmans étaient implacables dans leur chasse aux Ventrues détestés. Ils s'en prennent à tout ami de leur grand ennemi."
+    house_guillaume_modifier: "Maison Guillaume"
+    house_guillaume_modifier_desc: "Justes et justes, les membres de la Maison Guillaume sont plus préoccupés par leur état d'âme que par de petites affaires politiques."
+    house_azif_modifier: "Maison Azif"
+    house_azif_modifier_desc: "La maison Azif porte les stigmates de son vol avide d'âme d'un ancêtre. Un crime que peu de gens sont prêts à oublier."
+    house_osebo_modifier: "Maison Osébo"
+    house_osebo_modifier_desc: "Livré à lui-même, l'Osebo est une créature de feu et de colère à peine maîtrisée. Mais ils le savent eux-mêmes et recherchent des clients équitables à contrôler."
+    house_giovanni_modifier: "Maison Giovanni"
+    house_giovanni_modifier_desc: "Ceux-ci aiment le garder dans la famille."
+    house_lazarene_modifier: "Maison Lazaréen"
+    house_lazarene_modifier_desc: "Les mendiants ne peuvent pas choisir, chassés par leurs propres [Clan|E], le pouvoir de Lazare s'alliera avec tous ceux qui le souhaitent."
+    house_japhet_modifier: "Maison Japhet"
+    house_japhet_modifier_desc: "Les chefs traditionnels du [Clan|E] Cappadocien ont une approche très non interventionniste. Cela peut être enrichissant... et dangereux."
+    house_byzar_modifier: "Maison Byzar"
+    house_byzar_modifier_desc: "Les membres de la Maison Byzar sont des bâtisseurs de civilisations. Ils ne sont cependant pas les meilleurs pour les défendre."
+    house_premascine_modifier: "Maison Prémascine"
+    house_premascine_modifier_desc: "Si l’ambition était une vertu, voici ses anges."
+    house_harbingersofskulls_modifier: "Les précurseurs de la maison"
+    house_harbingersofskulls_modifier_desc: "L’étrange groupe acharné des Cappadociens est bien plus à l’aise dans l’ombre que sur le trône."
+    house_lamia_modifier: "Maison Lamia"
+    house_lamia_modifier_desc_no_collide: "Personne ne connaît la véritable fin de partie des filles guerrières de Lilith. Et ils ne le disent pas."
+    house_mlawatu_modifier: "Maison Mla Watu"
+    house_mlawatu_modifier_desc: "Vous ne pouvez pas faire confiance à un être qui recherche le pouvoir sur les âmes et les corps des morts. Même s'ils savent des choses que vous désirez."
+    house_almawt_modifier: "Maison Al Mawt"
+    house_almawt_modifier_desc: "Attention à ne pas s'attirer les foudres du monde musulman, les Cappadociens de cette maison ont peu d'alliés, mais de nombreux secrets."
+    house_hecata_modifier: "Maison Hécata"
+    house_hecata_modifier_desc: "Une nuit, la déesse de la mort accueillera tous ses enfants rebelles dans son étreinte froide."
+    house_rusenko_modifier: "Maison Rusenko"
+    house_rusenko_modifier_desc: "Si la folie est une échelle, il ne reste plus grand-chose à gravir."
+    house_lhiannan_modifier: "Maison Lhiannan"
+    house_lhiannan_modifier_desc: "Les reliques d’une époque révolue se battent jusqu’à leur dernier souffle. Et c'est un spectacle dangereux à voir."
+    house_odin_modifier: "Maison Odin"
+    house_odin_modifier_desc: "Le Père de Tout regarde le dernier combat du [einherjar|E]. Et aucun lâche n’entrera dans le Valhalla."
+    house_rufus_modifier: "Maison Rufus"
+    house_rufus_modifier_desc: "Rufus protège ses montagnes depuis des milliers d'années. Il a l'intention de continuer pendant mille autres."
+    house_matasuntha_modifier: "Maison Matasuntha"
+    house_matasuntha_modifier_desc: "Les Huns ont presque détruit Rome dans le passé. Elle n'a pas l'intention d'être arrêtée deux fois."
+    house_hukros_modifier: "Maison Hukros"
+    house_hukros_modifier_desc: "La lignée d'Hukros est toujours à la recherche de vérités cachées, un esprit curieux qui ne plaît pas aux coreligionnaires."
+    house_aajav_modifier: "Maison Aajav"
+    house_aajav_modifier_desc: "La bannière d'Aajav flotte haut dans le ciel, dernier cri de défi d'un monde mourant. Il n’y a plus de retour en arrière possible."
+    house_kurru_modifier: "Maison Kurru"
+    house_kurru_modifier_desc: "Les membres de la Maison Kurru sont inhabituellement à l'aise dans des rôles de leadership que le reste du Gangrel [Clan|E]. Leur approche directe du pouvoir les laisse cependant souvent ouverts à des tactiques sournoises."
+    house_vola_modifier: "Maison Vola"
+    house_vola_modifier_desc: "Les robustes habitants du Nord de la Maison Vola n’ont aucune patience pour les imbéciles. Il y a des raids et des pillages à faire !"
+    house_anda_modifier: "Maison Anda"
+    house_anda_modifier_desc: "Les fléaux des steppes sont des guerriers inégalés, mais ils peuvent avoir du mal à s'adapter aux rigueurs de la domination de vastes étendues de terre."
+    house_akunanse_modifier: "Maison Akunanse"
+    house_akunanse_modifier_desc: "Les araignées sages d’Afrique s’intéressent peu au Jyhad. Cela en fait des voisins utiles, mais de mauvais dirigeants."
+    house_noiad_modifier: "Maison Noiade"
+    house_noiad_modifier_desc: "Les étranges [cainites|E] du Nord gelé sont des créatures sauvages, peu adaptées pour gouverner des zones peuplées."
+    house_montano_modifier: "Maison Montano"
+    house_montano_modifier_desc: "Les chefs traditionnels du [Clan|E] Lasombra sont des mystiques solitaires, souvent peu adaptés à leur rôle."
+    house_deruiz_modifier: "Maison De Ruiz"
+    house_deruiz_modifier_desc: "Les ennemis détestés des musulmans ibériques sont profondément enracinés dans la culture chevaleresque de la péninsule ibérique et en font pleinement usage."
+    house_narses_modifier: "Maison Narsès"
+    house_narses_modifier_desc: "Les anciens grands dirigeants de l'hérésie [cainite|E] sont dispersés et brisés depuis la mort de leur archevêque. Leurs péchés ne doivent pas être oubliés."
+    house_boukephos_modifier: "Maison Bouképhos"
+    house_boukephos_modifier_desc: "Le savant diplomate childe de Lasombra est un [cainite|E] amical, aimé de la jeune génération. Cependant, il est souvent sujet à des crises d'errance loin de son royaume."
+    house_sybil_modifier: "Maison Sybille"
+    house_sybil_modifier_desc: "Le reste du [Clan|E] reconnaît à peine la lignée de la fille rejetée. Ainsi, ils ont appris à compter principalement sur eux-mêmes."
+    house_gratiano_modifier: "Maison Gratiano"
+    house_gratiano_modifier_desc: "Gratiano est destiné à de grandes choses. Et il tient à le rappeler à tout le monde."
+    house_khanommehr_modifier: "Maison Khanom Mehr"
+    house_khanommehr_modifier_desc: "A l'écart de la politique, la Maison Khanom Mehr se consacre à la protection du [Clan|E] et de son fondateur."
+    house_karotos_modifier: "Maison Karotos"
+    house_karotos_modifier_desc: "La lignée presque inconnue d'un mystérieux Lasombra porte peu d'événements traumatisants passés mais a tout à prouver."
+    house_qabilatalkhayal_modifier: "Maison Qabilat al-Khayal"
+    house_qabilatalkhayal_modifier_desc: "Les Lasombra [ashirra|E] sont en retrait, leur zèle incessant à la fois une bénédiction et une malédiction en ces temps difficiles."
+    house_allama_modifier: "Maison al-Lam'a"
+    house_allama_modifier_desc: "Grâce à sa diplomatie flexible, la petite maison al-Lam'a assure sa survie, malgré sa réticence à recourir à des tactiques sournoises."
+    house_tubalcain_modifier: "Maison Tubalcaïn"
+    house_tubalcain_modifier_desc: "Maîtres de la Domination, la Maison Tubalcain n'apprécie pas les opinions religieuses divergentes."
+    house_tepelit_modifier: "Maison Tepelit"
+    house_tepelit_modifier_desc: "Tepelit, solitaire et presque inconnu, a eu des visions de sa perte et certains disent qu'il l'a même accepté."
+    house_blueeye_modifier: "Maison Oeil Bleu"
+    house_blueeye_modifier_desc: "Cette lignée mythique de Lasombra est une lignée recluse, qui, selon la plupart, n'est pas apte à gouverner ou à occuper des postes de pouvoir."
+    house_ramanga_modifier: "Maison Ramanga"
+    house_ramanga_modifier_desc: "Lignée impitoyable qui n'hésite pas à influencer ouvertement les kines, la Maison de la Reine de Madagascar ne se confie qu'en matière de gouvernance."
+    house_lamdiel_modifier: "Maison Lamdiel"
+    house_lamdiel_modifier_desc: "Avec des visions sans fin de malheur et d’obscurité, il n’est pas facile d’être membre de la Maison Lamdiel."
+    house_eater_modifier: "Mangeur de maison"
+    house_eater_modifier_desc: "Il vous surveille toujours, attendant le moment de vous arracher vos mots si vous n'y faites pas attention."
+    house_brahina_modifier: "Maison Brahina"
+    house_brahina_modifier_desc: "Créatures d'une intense passion, les membres de la Maison Brahina ont du mal à rester longtemps concentrés sur un seul sujet."
+    house_delaurent_modifier: "Maison De Laurent"
+    house_delaurent_modifier_desc: "Érudit concentré et talentueux, De Laurent donne le meilleur d'il-même, seul dans sa bibliothèque, sans régner sur une grande salle d'audience."
+    house_midian_modifier: "Maison Madian"
+    house_midian_modifier_desc: "Les tyrans peuvent avoir de la chance. Mais il s’épuisera toujours le plus tôt possible."
+    house_banes_modifier: "Fléaux de la maison"
+    house_banes_modifier_desc: "Connaître l’avenir peut être une aubaine. Mais cela peut aussi briser un attachement déjà précaire à la réalité."
+    house_plague_modifier: "Peste domestique"
+    house_plague_modifier_desc: "La Maison des Plaies a une mission singulière et horrible qui la rend très dangereuse à approcher."
+    house_izaha_modifier: "Maison Izaha"
+    house_izaha_modifier_desc: "Cette Maison Malkavienne est encore plus folle que d'habitude, mais il y a un côté étrange dans leurs yeux tordus."
+    house_lerterimas_modifier: "Maison Lerterimas"
+    house_lerterimas_modifier_desc: "Boudées par leur propre [Clan|E] en raison de leur alliance avec une puissance plus sombre, la maison Lerterimas court vers une apocalypse de sa propre initiative."
+    house_panehesy_modifier: "Maison Panehésy"
+    house_panehesy_modifier_desc: "Cette maison égyptienne de Malkav occupait de grandes positions dans les anciens royaumes égyptiens. Cela semblait contrôler leur santé mentale, voire apaiser leur recherche d'une puissance supérieure."
+    house_nissiku_modifier: "Maison Nissiku"
+    house_nissiku_modifier_desc: "Le Prince Clever sait quand tromper et quand charmer. Sa présence se fait toujours sentir dans sa lignée, qui est toujours obligée de trouver de nouvelles façons de satisfaire son esprit en constante expansion."
+    house_ananke_modifier: "Maison Ananké"
+    house_ananke_modifier_desc: "L’offensé se vengera sanglantement des fils et des filles des trompeurs."
+    house_vrykolakas_modifier: "Maison Vrykolakas"
+    house_vrykolakas_modifier_desc: "Celui qui s'est enfui court toujours, sans jamais regarder en arrière."
+    house_yagnatia_modifier: "Maison Yagnatia"
+    house_yagnatia_modifier_desc: "La grand-mère a fini de s'enfuir. Sa couvée tiendra bon et se battra jusqu'au bout si besoin est."
+    house_baytmutasharid_modifier: "Maison Bay't Mutasharid"
+    house_baytmutasharid_modifier_desc: "Les Nosferatu du monde musulman qui ont refusé de rejoindre le Hajj mènent une vie isolée, amère et en marge de la société."
+    house_trajan_modifier: "Maison Trajan"
+    house_trajan_modifier_desc: "Si Trajan's Net ne connaît pas une information, cela ne vaut tout simplement pas la peine d'être connue."
+    house_absalon_modifier: "Maison Absalon"
+    house_absalon_modifier_desc: "L'évêque mort-vivant du Danemark occupe des postes de pouvoir prestigieux dans son pays natal. La seule terre qui mérite d’être prise en compte, évidemment."
+    house_yima_modifier: "House Yima"
+    house_yima_modifier_desc: "Le Saint Graal du [Clan|E] Nosferatu est quelque chose autour duquel on peut se rallier, se réconforter ou mourir."
+    house_alexius_modifier: "Maison Alexius"
+    house_alexius_modifier_desc: "Brûlant d'une fureur fanatique, la Maison Alexius est prête à purifier tous les incroyants se mettant en travers de son chemin."
+    house_malachite_modifier: "Maison Malachite"
+    house_malachite_modifier_desc: "Le Rocher de Constantinople est aussi son dernier espoir. Aucun obstacle ne pourra bloquer le chemin de Michael's Chosen."
+    house_guruhi_modifier: "Gourouhi de la maison"
+    house_guruhi_modifier_desc: "Traditionnellement chefs des Laibon, les Guruhi apprécient leur place, loin du caniveau de leurs cousins ​​du Nord."
+    house_al_hajj_modifier: "Maison al-Hajj"
+    house_al_hajj_modifier_desc: "Protecteurs des Villes Saintes, indomptables dans leur foi."
+    house_chandraputra_modifier: "Maison Chandraputra"
+    house_chandraputra_modifier_desc: "Le chef incontesté du [Clan|E] Ravnos depuis des millénaires ne restera pas les bras croisés alors que ses frères sont constamment attaqués. La victoire ou la mort est le seul choix qui s'offre au général."
+    house_ravana_modifier: "Maison Ravana"
+    house_ravana_modifier_desc: "Le traître a vendu son âme depuis longtemps. Ne sous-estimez jamais l’attrait du Mal brut."
+    house_hazimel_modifier: "Maison Hazimel"
+    house_hazimel_modifier_desc: "...et, tandis que vous regardez dans l'Œil, la connaissance éternelle en jaillit."
+    house_alexandrite_modifier: "Maison Alexandrite"
+    house_alexandrite_modifier_desc: "Prendre l'or de la gueule du Serpent est un geste dangereux auquel les Alexandrites sont habitués."
+    house_rroma_modifier: "Maison Phuri Dae"
+    house_rroma_modifier_desc: "Loin de chez eux, ils se serrent les coudes, à l'abri de la tempête qui n'en finit pas."
+    house_kali_modifier: "Maison Kali"
+    house_kali_modifier_desc: "Lignée oubliée, son existence rayée des archives des Ravnos pour leurs crimes abominables... ou leurs opinions divergentes."
+    house_baytmujirim_modifier: "Maison Bay't Mujirim"
+    house_baytmujirim_modifier_desc: "Méfiés du monde [ashirra|E] au sens large, les Ravnos musulmans sont une race autonome, robuste mais cynique."
+    house_kinyonyi_modifier: "Maison Kinyonyi"
+    house_kinyonyi_modifier_desc: "Les messagers du Royaume d'Ébène sont les bienvenus dans la plupart des cours, même s'ils ne restent jamais longtemps."
+    house_bashirite_modifier: "Maison Bashirite"
+    house_bashirite_modifier_desc: "Jusqu'à l'Apocalypse, il y a de l'argent à gagner."
+    house_phaedymite_modifier: "Maison Phédymite"
+    house_phaedymite_modifier_desc: "Les Chevaliers des Ravnos tentent de racheter leur clan déchu, malgré lui."
+    house_sybarite_modifier: "Maison Sybarite"
+    house_sybarite_modifier_desc: "Il n'y a pas de vrai ou de faux. Prenez ce que vous désirez."
+    house_yoryari_modifier: "House Yoryari"
+    house_yoryari_modifier_desc: "À la recherche de la vérité, en retournant à leurs racines. L’Est appelle."
+
+    indian_ravnos_improved_modifier: "Ravnos indiens habilités"
+    indian_ravnos_improved_modifier_desc: "Le centre du clan Ravnos tient et continuera de le faire. La guerre éternelle sera gagnée."
+    house_alexandrite_improved_modifier: "Maison spirituelle Alexandrite"
+    house_alexandrite_improved_modifier_desc: "Les serpents se cachent devant les véritables héritiers de l'Egypte ancienne."
+    house_rroma_improved_modifier: "Maison spirituelle Phuri Dae"
+    house_rroma_improved_modifier_desc: "Le nomade trouvera enfin un chez-soi et le repos qu’il mérite vraiment."
+    house_baytmujirim_improved_modifier: "Maison spirituelle Bay't Mujirim"
+    house_baytmujirim_improved_modifier_desc: "Des parias aux dirigeants, ils n’avaient autrefois pas de place à la table. Maintenant, ils possèdent la table."
+    house_bashirite_improved_modifier: "Maison spirituelle Bashirite"
+    house_bashirite_improved_modifier_desc: "Si une place au Paradis peut être achetée, les Bashirite sont prêts à la négocier."
+    house_phaedymite_improved_modifier: "Maison spirituelle Phaedymite"
+    house_phaedymite_improved_modifier_desc: "La chevalerie et l’honneur ne meurent vraiment jamais. Même parmi les morts-vivants."
+    house_sybarite_improved_modifier: "Sybarite de maison spirituelle"
+    house_sybarite_improved_modifier_desc: "Cette fête ne finira vraiment jamais."
+    house_yoryari_improved_modifier: "Maison spirituelle Yoryari"
+    house_yoryari_improved_modifier_desc: "Un nouveau mélange d’Orient et d’Occident apparaît, plus fort que les deux réunis."
+
+    house_samiel_modifier: "Maison Samiel"
+    house_samiel_modifier_desc: "Les anges ont fini de se cacher, de battre en retraite ou de se recroqueviller. L'heure est à la guerre."
+    house_enosh_modifier: "Maison Énosh"
+    house_enosh_modifier_desc: "Les sages conseillers de la Maison Enosh sont stoïques et envisagent rarement la violence comme une possibilité."
+    house_rayzeel_modifier: "Maison Rayzeel"
+    house_rayzeel_modifier_desc: "Les guérisseurs du [Clan|E] Salubri ont déjà vu tellement de morts. Leur esprit s’affaiblit à chaque blessure qu’ils pansent."
+    house_twilight_modifier: "Crépuscule de la maison"
+    house_twilight_modifier_desc: "Défenseurs de l’humanité, implacables dans leur guerre contre le mal."
+    house_hrorsh_modifier: "Maison Hrorsh"
+    house_hrorsh_modifier_desc: "Non préparée face à l'assaut cruel des Tremere, la Maison Hrorsh est un rappel fantomatique d'un [Clan|E] autrefois glorieux."
+    house_mokur_modifier: "Maison Mokur"
+    house_mokur_modifier_desc: "Le dernier à tomber, comme Saulot l’avait toujours voulu."
+    house_watcher_modifier: "Surveillant de maison"
+    house_watcher_modifier_desc: "Alors que leurs cousins ​​occidentaux tombent, ils se tiennent dans l’ombre orientale, leur surveillance ne faisant que commencer."
+    house_abdallah_modifier: "Maison Abdallah"
+    house_abdallah_modifier_desc: "Ancêtre d'un héritage, porteur d'une prophétie, toujours aux aguets."
+
+    house_khaibit_modifier: "Maison Khaibit"
+    house_khaibit_modifier_desc: "La lignée du premier fils de Seth suscite le respect et la crainte parmi ses pairs."
+    house_sarrasine_modifier: "Maison Sarrasine"
+    house_sarrasine_modifier_desc: "Sarrasine tuerait ses parents pour le moindre pouvoir. En fait, il l'a déjà fait."
+    house_jormungandr_modifier: "Maison Jörmungandr"
+    house_jormungandr_modifier_desc: "Ces hérétiques ne sont guère engagés dans une cause, si ce n’est leur propre profit et leur propre survie."
+    house_isis_modifier: "Maison Isis"
+    house_isis_modifier_desc: "Méfiez-vous de la femme méprisée. Surtout quand elle est la fille d’Isis et qu’elle tient dans sa paume le secret de la vie et de la mort."
+    house_tawaret_modifier: "Maison Taweret"
+    house_tawaret_modifier_desc: "Taweret a combattu Kemintiri jusqu'à l'arrêt et a survécu pour raconter l'histoire. Ses prouesses traversent sa lignée."
+    house_nefertiti_modifier: "Maison Néfertiti"
+    house_nefertiti_modifier_desc: "Si la fierté survient avant la chute, Néfertiti tombera pendant très, très longtemps."
+    house_maatkare_modifier: "Maison Maatkarê"
+    house_maatkare_modifier_desc: "Le doux attrait du Serpent est miséricordieux... et tellement séduisant."
+    house_seterpenre_modifier: "Maison Seterpenre"
+    house_seterpenre_modifier_desc: "Le diplomate Hiérophante est suffisamment ouvert d’esprit pour travailler avec des étrangers. Certains le qualifieraient même de doux."
+    house_heru_modifier: "House Heru"
+    house_heru_modifier_desc: "Attention, ce serpent a de sérieux crocs."
+    house_scorpio_modifier: "Maison Scorpion"
+    house_scorpio_modifier_desc: "Cette Assemblée fait preuve d’un penchant alarmant pour l’élaboration de plans apocalyptiques interminables. Ce qui est encore plus alarmant, c'est que certains pourraient fonctionner un jour..."
+    house_porphyrion_modifier: "Maison Porphyrion"
+    house_porphyrion_modifier_desc: "Les Diables de l'Inde préparent des plans incalculables pour apporter la gloire de Seth dans le sous-continent. S’ils réussissent, ce ne sera agréable pour personne."
+    house_osiris_modifier: "Maison Osiris"
+    house_osiris_modifier_desc: "Pourchassés par le Serpent, les Enfants du Dieu de la mort sont désormais presque tous auprès de leur père."
+    house_damballah_modifier: "Maison Dambalah"
+    house_damballah_modifier_desc: "Quelque peu éloignés du [Clan|E] principal, les Enfants de Damballah sont un groupe pragmatique, adaptant leur credo aux croyances africaines."
+    house_khaytall_modifier: "Maison Khay'Tall"
+    house_khaytall_modifier_desc: "Les hérétiques exclus autrefois associés au Constantinople de Michael constituent une lignée traquée. Leurs options diminuent chaque nuit qui passe."
+    house_wepwawet_modifier: "Maison Wepwawet"
+    house_wepwawet_modifier_desc: "Ce culte guerrier défend l’Égypte des menaces extérieures, menaces qu’ils qualifient eux-mêmes comme telles."
+    house_mucalinda_modifier: "Maison Mucalinda"
+    house_mucalinda_modifier_desc: "Les Naktanchara méprisés sont une émanation bouddhiste du Setite [Clan|E]. Reclus et sur la défensive, leur position est précaire."
+    house_glycon_modifier: "Maison Glycon"
+    house_glycon_modifier_desc: "Les escrocs sont une caste de guerriers avides de pouvoir du Setite [Clan|E]. Aveugles aux intrigues, ce ne sont que de simples brutes pointées vers la cible la plus proche."
+    house_echidna_modifier: "House Echidna"
+    house_echidna_modifier_desc: "Les Gorgones ont prévu leur propre disparition. Leur acceptation étrange les rend craints par la plupart des [cainites|E]."
+    house_nephilim_modifier: "Maison Néphilim"
+    house_nephilim_modifier_desc: "La maison la plus prestigieuse du [Clan|E] Toreador connaît des temps difficiles avec la mort de son fondateur. Mais le germe de la grandeur est toujours là."
+    house_salianna_modifier: "Maison Salianna"
+    house_salianna_modifier_desc: "Salianna a déjà tout perdu deux fois. Elle ne laissera pas cela se produire une troisième fois."
+    house_callisti_modifier: "Maison Callisti et Callisto"
+    house_callisti_modifier_desc: "Diplomates chevronnés, les députés de cette Assemblée ont tendance à oublier les petites choses pour les grandes, ce qui leur a déjà coûté cher."
+    house_nicholas_modifier: "Maison Nicolas"
+    house_nicholas_modifier_desc: "Avec une lignée fabriquée et un comportement oubliable, Etienne de Poitiers a fait de sa Maison une cible difficile à cerner."
+    house_andrew_modifier: "Maison André"
+    house_andrew_modifier_desc: "L'« archange » de l'hérésie [cainite|E] a imprégné sa Maison de sa vision pragmatique de l'utilisation de la religion comme facteur de motivation pour la guerre."
+    house_helena_modifier: "Maison Hélène"
+    house_helena_modifier_desc: "Si vous n'êtes pas tombé amoureux d'un membre de la Maison d'Helena, c'est que vous n'en avez pas encore rencontré."
+    house_baldr_modifier: "Maison Baldr"
+    house_baldr_modifier_desc: "Les Skalds du Nord tentent de perpétuer leurs récits grâce à la puissance de leurs chants et de leurs voix."
+    house_lubbock_modifier: "Maison Lubbock"
+    house_lubbock_modifier_desc: "Perdus dans leurs passions, les membres de la Maison Lubbock sont des proies faciles dans le monde impitoyable du [cainite|E]."
+    house_volgirre_modifier: "Maison Volgirre"
+    house_volgirre_modifier_desc: "Les petits dirigeants des petits domaines esclavagistes de la Maison Volgirre sont des suzerains sadiques et des pères cruels."
+    house_apollo_modifier: "Maison Apollon"
+    house_apollo_modifier_desc: "Fleurs petites et délicates, à la recherche du soleil et facilement piétinées par la guerre."
+    house_rayeenalfen_modifier: "Maison Ray'een al-Fen"
+    house_rayeenalfen_modifier_desc: "Les calligraphes du monde musulman sont depuis longtemps plongés dans un schisme générationnel, à tel point qu’il le marque dans leur sang."
+    house_ishtarri_modifier: "Maison Ishtarri"
+    house_ishtarri_modifier_desc: "En proie à une profonde soif de s'adonner à leurs vices, les Ishtarri sont néanmoins experts dans l'art subtil de la manipulation de l'information."
+    house_goratrix_modifier: "Maison Goratrix"
+    house_goratrix_modifier_desc: "Le porteur de lumière assurera un nouvel âge pour le [Clan|E], ou sera englouti par les ténèbres."
+    house_etrius_modifier: "Maison Étrius"
+    house_etrius_modifier_desc: "Le régent choisi de Tremere mène une défense solide à la tête d'un [Clan|E] battu. Une position peu enviable."
+    house_leduc_modifier: "Maison LeDuc"
+    house_leduc_modifier_desc: "L'ancien régent de France y était un [cainite|E] respecté, bien plus que son remplaçant, Goratrix."
+    house_meerlinda_modifier: "Maison Meerlinda"
+    house_meerlinda_modifier_desc: "La seule femme du Conseil des Sept est en réalité celle qui maintient la pyramide ensemble. L'Angleterre sera sa récompense si elle parvient à déjouer les manœuvres prudentes des Îles."
+    house_calderon_modifier: "Maison Calderón"
+    house_calderon_modifier_desc: "Les féroces Espagnols défendront l'honneur de Tremere jusqu'à son dernier souffle, ignorant les forces les plus obscures à l'œuvre."
+    house_grimgroth_modifier: "Maison Grimgroth"
+    house_grimgroth_modifier_desc: "Les fantômes de Mistridge irritent encore cette nuit, un nom solitaire prononcé sur un ton maudit : Grimgroth."
+    house_cincao_modifier: "House De Cincao"
+    house_cincao_modifier_desc: "Xavier est impitoyable dans ses méthodes, mais personne ne peut nier qu'il obtient des résultats étonnants."
+    house_telyavel_modifier: "Maison Telyavel"
+    house_telyavel_modifier_desc: "Traqués comme hérétiques, les Magus de l'Ancienne Foi trouvent une relative sécurité auprès des [cainites|E] partageant les mêmes idées."
+    house_trimira_modifier: "Maison Trimira"
+    house_trimira_modifier_desc: "Des étrangers sur une terre hostile, contraints de faire des concessions pour survivre."
+    house_kartarirya_modifier: "Maison Kartarirya"
+    house_kartarirya_modifier_desc: "Les Tzimisces indiens, nombreux et armés, sont connus pour couper plusieurs têtes avant de poser des questions."
+    house_yaroslavich_modifier: "Maison Iaroslavitch"
+    house_yaroslavich_modifier_desc: "Plus il devient puissant, plus Hedeon éprouve du plaisir à écraser ses pathétiques ennemis."
+    house_ruthven_modifier: "Maison Ruthvenski"
+    house_ruthven_modifier_desc: "Les gardiens de la forme corporelle de Tzimisce sont aveuglés par leur position prestigieuse, ignorant les nombreuses menaces qu'elle implique."
+    house_vykos_modifier: "Maison Vykos"
+    house_vykos_modifier_desc: "Myka est dans une longue quête de sens. La fin de la route se rapproche chaque nuit qui passe..."
+    house_rustovitch_modifier: "Maison Rustovitch"
+    house_rustovitch_modifier_desc: "Vladimir tente d'apprivoiser les Tzimisces [Clan|E] par la force des armes. Un geste audacieux, et potentiellement mortel."
+    house_yorak_modifier: "Maison Yorak"
+    house_yorak_modifier_desc: "Imaginez votre pire cauchemar sous forme humaine. Te torturer pour l'éternité. Pendant que ses précédentes victimes vous observent, avant de les rejoindre sur les murs de la cathédrale."
+    house_tabak_modifier: "Maison Tabak"
+    house_tabak_modifier_desc: "La maison Tabak est conçue pour le leadership, sachant exactement quand faire couler jusqu'à la dernière goutte de sang pour les paysans, ou quand s'enfuir lorsqu'elle est dépassée."
+    house_dracon_modifier: "Maison Dragon"
+    house_dracon_modifier_desc: "Les pieux descendants du Dracon et de l'Obertus sont mal adaptés à la guerre et évitent les pratiques de vicissitude de leurs frères."
+    house_byelobog_modifier: "Maison Biélobog"
+    house_byelobog_modifier_desc: "Le Dieu Blanc règne sur l’hiver, mais ne se soucie pas de régner sur autre chose."
+    house_triglav_modifier: "Maison Triglav"
+    house_triglav_modifier_desc: "La Maison Triglav est consumée par sa querelle contre la Maison Dracon, à peine capable de faire autre chose."
+    house_andeleon_modifier: "Maison Andéléon"
+    house_andeleon_modifier_desc: "À l'écart des préoccupations les plus banales, Andeleon cherche la vérité au-delà des étoiles."
+    house_demdemeh_modifier: "Maison Demdemeh"
+    house_demdemeh_modifier_desc: "Le véritable érudit sait qu’il doit transcender la chair pour devenir un Dieu."
+    house_djavakhi_modifier: "Maison Djavakhi"
+    house_djavakhi_modifier_desc: "Lorsque vous gouvernez d’une main de fer, ne baissez jamais la main."
+    house_nagloper_modifier: "Maison Nagloper"
+    house_nagloper_modifier_desc: "Comment la Bête peut-elle vous contrôler si vous êtes la Bête elle-même ?"
+    house_hrothgar_modifier: "Maison Hrothgar"
+    house_hrothgar_modifier_desc: "Vous pouvez distancer votre propre [Clan|E], mais pouvez-vous dépasser Ragnarok ?"
+    house_jedrik_modifier: "Maison Jédrik"
+    house_jedrik_modifier_desc: "Parfois, la menace la plus grave qui pèse sur votre gouvernement est plus proche de vous que vous ne le pensez."
+    house_tinia_modifier: "Maison Tinia"
+    house_tinia_modifier_desc: "Consumés par l’envie de voyager, les membres de la Maison Tinia aspirent à de nouvelles expériences exotiques."
+    house_mithras_modifier: "Maison Mithra"
+    house_mithras_modifier_desc: "Les descendants du Dieu Soleil s'alignent facilement, ayant été conditionnés par leur ancêtre depuis des siècles maintenant."
+    house_alexander_modifier: "Maison Alexandre"
+    house_alexander_modifier_desc: "Alexandre a prouvé sa gestion avisée en régnant sur l’empire le plus puissant d’Europe occidentale. Mais ses accès de colère étaient tout aussi légendaires."
+    house_antonian_modifier: "Maison Antonienne"
+    house_antonian_modifier_desc: "L'Architecte du Rêve a construit l'une des utopies les plus impressionnantes du monde [cainite|E]. Jusqu'à ce qu'il craque et soit détruit à cause de cela."
+    house_camilla_modifier: "Maison Camille"
+    house_camilla_modifier_desc: "Les descendants de Rome sont à juste titre fiers de leur héritage. Cependant, le vaste prestige et la considération dont ils font preuve peuvent facilement les rendre indolents."
+    house_eigermann_modifier: "Maison Eigermann"
+    house_eigermann_modifier_desc: "Des intimidateurs et des brutes qui s'intègrent à peine au [Clan|E] Ventrue, la Maison Eigermann est son propre pire ennemi."
+    house_artemis_modifier: "Maison Artémis"
+    house_artemis_modifier_desc: "Les Orthiens Ventrue s'emparent des trônes et attendent rarement leur heure lorsqu'une lame peut accélérer le processus. Ils croient que la gloire leur est due et la prennent sans pause."
+    house_bindusara_modifier: "Maison Bindusara"
+    house_bindusara_modifier_desc: "L’érudit errant est une source de connaissances, souvent recherchée pour apprendre les voies mystérieuses des générations passées."
+    house_veddartha_modifier: "Maison Veddartha"
+    house_veddartha_modifier_desc: "Presque synonyme de Ventrue lui-même, Veddartha est une maison au leadership fier et diligent."
+    house_arakur_modifier: "Maison Arakur"
+    house_arakur_modifier_desc: "La lignée d'Arakur a une réputation de [diablerie|E], de communion avec les diables et d'orgueil. Ils sont également des lâches manifestes lorsqu’ils ne peuvent pas intimider les autres."
+    house_medon_modifier: "Maison Médon"
+    house_medon_modifier_desc: "Medon a l'honneur douteux d'être le premier vampire vraiment puissant à avoir été tué par les mortels. Une honte encore ressentie par sa lignée aujourd'hui."
+    house_nefermeriisis_modifier: "Maison Nefer-meri-Isis"
+    house_nefermeriisis_modifier_desc: "La féroce enfant de Ventrue préfère se salir les mains au combat. En tant que telle, sa lignée méprise le fait de compter sur les autres."
+    house_arpad_modifier: "Maison Arpad"
+    house_arpad_modifier_desc: "Tenace et bien ancrée dans la noblesse hongroise, la Maison Arpad est un ennemi difficile à déloger de son pays d'origine."
+    house_antasia_modifier: "Maison Antasia"
+    house_antasia_modifier_desc: "Julia Antasia, sereine et bien connectée, nourrit sa progéniture pour qu'elle soit respectueuse et amicale, abordant toujours les problèmes avec soin et compassion."
+    house_le_croise_modifier: "Maison le Croise"
+    house_le_croise_modifier_desc: "Geoffrey est en proie aux mêmes problèmes de colère que son [Sire|E]. Il ne peut compter que sur son attitude chevaleresque pour le sauver de la colère de son [Clan|E]."
+    house_moloch_modifier: "Maison Molochim"
+    house_moloch_modifier_desc: "Gardiens d'un monde ingrat, les Molochim sont pourchassés à la fois par les autres clans et par leurs camarades. Les premiers ne comprennent pas leur objectif, et les seconds ne le comprennent que trop bien."
+    house_nergal_modifier: "Maison Nergalite"
+    house_nergal_modifier_desc: "Fléau d'un monde qu'ils veulent voir brûler, les enfants de Nergal sont la plus noire des abominations que la malédiction de Caïn ait jamais produite."
+    house_angellisater_modifier: "Maison Azaneali"
+    house_angellisater_modifier_desc: "Les odieux Angellis Ater sont des usurpateurs au sein des Baali [Clan|E], à la recherche d'un chemin dément vers le statut de démon."
+    house_wankuei_modifier: "House Wan Kuei"
+    house_wankuei_modifier_desc: "Les morts-affamés de Chine sont les maîtres d’un vaste empire, mais ils souffrent de sérieuses limitations dont les [cainites|E] occidentaux pourraient profiter."
+    house_asuratizayya_modifier: "Maison Asuratizayya"
+    house_asuratizayya_modifier_desc: "Qualifiés d'hérétiques par les autres Wan Kuei, les Indiens Asuratizayya s'en tiennent toujours à un système de castes et de hiérarchie rigide mais fonctionnel."
+    house_penangallan_modifier: "Maison Penangallan"
+    house_penangallan_modifier_desc: "Les Wan Kuei, décentralisés et matriarcaux de la Cour Écarlate, sont des gens turbulents, essayant de vivre leur non-vie au maximum."
+    house_wanderers_modifier: "Les vagabonds de la maison"
+    house_wanderers_modifier_desc: "En proie aux Akumas, les Wan Kuei des steppes sont en sursis."
+    dynn_nagaraja_modifier: "Nagaraja"
+    dynn_nagaraja_modifier_desc: "La malédiction odieuse des Nagaraja en fait un groupe évité, mais aussi résilient."
+    dynn_unbound_modifier: "Non lié"
+    dynn_unbound_modifier_desc: "La simple rumeur concernant ces [cainites|E] et leurs lignées est une menace pour l'ordre établi."
+    dynn_kiasyd_modifier: "Kiasyd"
+    dynn_kiasyd_modifier_desc: "Les Kiasyd, reclus et mystérieux, font des ravages dans leurs laboratoires d'alchimistes, ignorant les menaces qui grandissent autour d'eux."
+    dynn_impundulu_modifier: "Impundu"
+    dynn_impundulu_modifier_desc: "Les Impundulu recherchent une faille dans un contrat conclu il y a longtemps qui les mène lentement à leur perte."
+    house_ahrimane_modifier: "Ahriman"
+    house_ahrimane_modifier_desc: "Adisa ne s'est jamais pliée ni n'a reculé devant un combat. Ses filles non plus ; Freya regarde après tout."
+    house_feroux_modifier: "Féroux"
+    house_feroux_modifier_desc: "Les soi-disant Gangrel grecs forment une fière lignée, ayant été l’une des forces majeures derrière le Rêve de Constantinople. Sa perte pèse lourdement sur leurs âmes."
+    house_siren_modifier: "Filles de la Cacophonie"
+    house_siren_modifier_desc: "Elles chantent pour moi, les sirènes des sept mers..."
+    dynn_knightsofacre_modifier: "Chevaliers d'Acre"
+    dynn_knightsofacre_modifier_desc: "Les Chevaliers sont effectivement féroces au combat, mais méprisent les moyens les plus subtils de perturber les plans de l'Ennemi."
+    dynn_swordofstjames_modifier: "Épée de Saint-Jacques"
+    dynn_swordofstjames_modifier_desc: "Soyons honnêtes, les partisans de Rodrigue sont des connards arrogants. Mais ils sont aussi durs comme des ongles, des connards arrogants !"
+    dynn_redorder_modifier: "Ordre rouge"
+    dynn_redorder_modifier_desc: "Ils connaissent de terribles secrets sur les horreurs de l’inconnu. Mais tant de temps passé dans les bibliothèques les a également rendus assez... faibles face à des tactiques plus fondées."
+    dynn_sistersjohn_modifier: "Sœurs de Saint-Jean"
+    dynn_sistersjohn_modifier_desc: "En proie à de terribles visions de malheur, les sœurs ont créé un sens administratif très solide pour asseoir leur terrible existence."
+    dynn_oculidei_modifier: "Oculi Dei"
+    dynn_oculidei_modifier_desc: "Les membres paranoïaques des Yeux de Dieu ont bien souvent raison sur leurs peurs. Mais cela ne les rend pas pour autant appréciés par leurs camarades."
+    dynn_murnau_modifier: "Von Murnau"
+    dynn_murnau_modifier_desc: "La fière Maison allemande est habituée à traiter avec les paysans fraudeurs fiscaux. Après tout, la crainte de Dieu n’est pas réservée aux enfants de l’Enfer."
+    dynn_gantenbein_modifier: "Gantenbein"
+    dynn_gantenbein_modifier_desc: "Les frères bogomilistes zélés ont le plus de mal à concilier leur foi honnête et leur besoin de sang de vampire. Ce fait les éloigne de leur propre troupeau."
+    house_obertus_modifier: "Obertus"
+    house_obertus_modifier_desc: "La chute de Constantinople pèse lourdement sur le diligent Ordre d’Obertus. Mais ils travaillent sans relâche pour découvrir les secrets les plus profonds du divin."
+    house_grimaldi_modifier: "Grimaldi"
+    house_grimaldi_modifier_desc: "Les plus humains des [Revenants|E] sont le lien entre les Tzimisces [Clan|E] et le monde des mortels. Diplomates et commerçants doués, ils sont pourtant méprisés par les familles les plus belliqueuses."
+    house_bratovitch_modifier: "Bratovitch"
+    house_bratovitch_modifier_desc: "Monstres brutaux qui servent habituellement les Tzimisce, les Bratovitch sont des combattants et des pisteurs, et s'engagent rarement dans des événements sociaux plus raffinés."
+    house_szantovich_modifier: "Szantovitch"
+    house_szantovich_modifier_desc: "Les Szantovich sont des papillons sociaux décadents, riches et hédonistes. Ils stimulent leurs sens à la recherche du plaisir et jouent avec les humains avec un abandon inconsidéré. Ils sont probablement les [Revenants|E] les moins maîtres d’eux-mêmes."
+    house_vlaszy_modifier: "Vlaszy"
+    house_vlaszy_modifier_desc: "Chaque Vlaszy est formé à l'équitation, au sens politique, à l'art de la guerre et à d'autres compétences courtoises dès son plus jeune âge, et de nombreux anciens Tzimisces les préfèrent comme champions et messagers."
+    house_basarab_modifier: "Basarab"
+    house_basarab_modifier_desc: "Réputés pour leurs prouesses au combat et leur leadership, ils constituent des atouts précieux pour les Tzimisce. La lignée Basarab s'agrandit chaque nuit, commençant à rendre certains de leurs maîtres mal à l'aise quant à la force de leurs « animaux de compagnie »..."
+    house_premysl_modifier: "Prémysl"
+    house_premysl_modifier_desc: "Issus d'une lignée royale de Bohême, les Premysl sont des suzerains cruels et mesquins envers leurs maîtres inférieurs, mais fanatiquement dévoués à leurs maîtres Tzimisces."
+    house_danislav_modifier: "Daniel"
+    house_danislav_modifier_desc: "À l'origine une noble dynastie liée aux Seigneurs des Ombres, les Danislavs du nord de la Transylvanie tombèrent sous l'emprise du Tzimisce Florescu, qui les garda dans ses cachots pendant les dix premières années de leur vie et les conditionna à le servir."
+    house_khazi_modifier: "Khazi"
+    house_khazi_modifier_desc: "Cette lignée étrange et solitaire ne sert que les Methuselah Byelobog et est considérée comme des parias et des monstres, même selon les standards de Tzimisce."
+    dynn_ducheski_modifier: "Duchéski"
+    dynn_ducheski_modifier_desc: "Une famille anciennement nommée Krevcheski et appartenant aux Tzimisce qui dessert désormais les Tremere est connue pour ses compétences en magie et dans la fabrication d'appareils mécaniques, en particulier d'instruments de torture. De nombreux Tremere demandent aux Ducheski d'entretenir leurs bibliothèques et leurs laboratoires."
+    house_oprichniki_modifier: "Opritchniki"
+    house_oprichniki_modifier_desc: "La police secrète d'Ivan le Terrible survécut de justesse au règne de son maître. Les survivants ont été adoptés par les Tzimisces russes et élevés dans une famille [revenant|E], bien qu'ils n'aient jamais mis les pieds sur le sol dévasté de Transylvanie."
+    house_narov_modifier: "Narov"
+    house_narov_modifier_desc: "Les Narov arrogants sont méprisés par la plupart des autres familles, mais leur style de vie somptueux fait toujours l'envie de beaucoup."
+    house_rustovitchi_modifier: "Roustovitchi"
+    house_rustovitchi_modifier_desc: "Jetés dans une guerre qu'ils ne veulent pas mener, les Rustovitchi n'ont d'autre choix que de gagner ou de mourir."
+    house_ruthvenski_modifier: "Ruthvenski"
+    house_ruthvenski_modifier_desc: "Les Ruthvenski sont une lignée épuisée, accrochée à leur renommée d’antan. Leur talent de dirigeant est plus pointu que jamais, mais personne ne se soucie plus de leur obéir."
+    house_slatikov_modifier: "Slatikov"
+    house_slatikov_modifier_desc: "Pions de Razkoljna, les Tzimisce de Cracovie, les Slatikov sont une petite famille d'érudits et d'érudits, peu intéressés par le grand jeu du Jyhad."
+    dynn_enrathi_modifier: "Enrathi"
+    dynn_enrathi_modifier_desc: "Les Enrathi sont des esclavagistes et l’ont toujours été. Malgré les temps qui changent, il y a toujours des gens qui cherchent à offrir leurs services... et il y en aura toujours."
+    dynn_marijava_modifier: "Marijava"
+    dynn_marijava_modifier_desc: "Les espions et les assassins des Tal'mahe'Ra sont dévoués, voire obstinés, dans leur art de prédilection."
+    dynn_rafastio_modifier: "Rafastio"
+    dynn_rafastio_modifier_desc: "Les séduisants Rafastio sont vaguement associés aux Tal'mahe'Ra, où ils servent à la fois de voyants et de papillons mondains."
+    dynn_dhabi_modifier: "D'habi"
+    dynn_dhabi_modifier_desc: "Les D'habi, à la volonté faible, ont été mentalement brisés par des siècles de mauvais traitements infligés par leurs maîtres Baali."
+    dynn_keskinen_modifier: "Keskinen"
+    dynn_keskinen_modifier_desc: "Les Keskinen sont une petite famille soudée qui sert le fou Mathusalem appelé Louhi. Ils pratiquent une magie ancienne, pour la plupart oubliée, alimentée en partie par leur sang pervers et leurs traditions transmises au fil des années."
+    dynn_rosselini_modifier: "Rossélini"
+    dynn_rosselini_modifier_desc: "Les Rosselini désarticulés sont une famille de nécromanciens qui ont croisé la route des Giovanni une fois de trop. Ils servent désormais leur ancien ennemi, volontairement ou non."
+    dynn_rawan_modifier: "Rawan"
+    dynn_rawan_modifier_desc: "Les pêcheurs au service de l'excentrique Anushin-Rawan sont élevés dans un seul but : être totalement fidèles à leur Dame."
+    dynn_kairouan_modifier: "Confrérie de Kairouan"
+    dynn_kairouan_modifier_desc: "Une famille créée grâce aux expériences des Sorciers Assamites sur Tzimisce [Revenants|E] ; la Confrérie de Kairouan est divisée à travers le monde, les trois castes luttant pour tirer le meilleur parti des quelques castes restantes."
+    dynn_dimitriou_modifier: "Dimitriou"
+    dynn_dimitriou_modifier_desc: "Prias a déjà tué des hommes, des monstres et des dieux pour protéger sa Dame. Il le fera à nouveau sans hésiter."
+    dynn_nirriti_modifier: "Nirriti"
+    dynn_nirriti_modifier_desc: "Les défenseurs du royaume de la Mort sont des hommes vaillants et un ennemi redoutable pour tout hérétique qui se présente à eux."
+    dynn_crassus_modifier: "Crassus"
+    dynn_crassus_modifier_desc: "Expérience dérangée née de l’époque romaine, la famille Crassus est maudite des pires excès de l’époque impériale."
+    dynn_gravenor_modifier: "Gravenor"
+    dynn_gravenor_modifier_desc: "Les Gravenor paranoïaques sont bien cachés, servant leurs maîtres Nosferatu aussi longtemps que leur santé mentale demeure."
+    dynn_angustri_modifier: "Angustri"
+    dynn_angustri_modifier_desc: "Les rares Augustri sont réputés pour leur intelligence et font bon usage de leurs compétences pour leurs clients Ravnos."
+    dynn_kurulas_modifier: "Kurulas"
+    dynn_kurulas_modifier_desc: "La tribu de l'épouse de Gengis Khan est prisée parmi la Horde Anda. Ils sont soigneusement conservés comme un lien prestigieux avec leur glorieux passé."
+    dynn_qarnaim_modifier: "Qarnaim"
+    dynn_qarnaim_modifier_desc: "Carthage était le summum de la relation humain-[cainite|E]. Les Qarnaim se battent pour que leur histoire d'origine redevienne réalité."
+    dynn_bomkazi_modifier: "Bomkazi"
+    dynn_bomkazi_modifier_desc: "Fidèles à leurs partenaires Impundulu, les sorcières Bomkazi se méfient de la lente dilution de leur sang."
+    dynn_societyofstgeorge_modifier: "Société de Saint-Georges"
+    dynn_societyofstgeorge_modifier_desc: "Personne ne peut lancer une charge frontale dévastatrice à travers un champ ouvert comme les Chevaliers de Saint-Georges, mais leur préférence pour cette tactique frise l'arrogance insensée."
+    house_faust_modifier: "Faust"
+    houst_faust_modifier_desc: "Zethraeus a mené plusieurs expériences amorales et affronte des pouvoirs infernaux dans sa quête pour acquérir de meilleures connaissances."
+    dynn_custom_bloodline_war_modifier: "Lignée des guerriers"
+    dynn_custom_bloodline_war_modifier_desc: "Cette lignée vit avec la conquête ; la plupart de leurs proches les considèrent comme des fauteurs de guerre."
+    dynn_custom_bloodline_prowess_modifier: "Lignée des tueurs"
+    dynn_custom_bloodline_prowess_modifier_desc: "Cette lignée est composée de tueurs mortels. Cela ne leur donne pas de popularité parmi leurs proches, mais presque tout le monde en a peur."
+    dynn_custom_bloodline_intrigue_modifier: "Lignée des comploteurs"
+    dynn_custom_bloodline_intrigue_modifier_desc: "Les membres de cette lignée sont parmi les conspirateurs les plus meurtriers du monde [cainite|E]."
+    dynn_custom_bloodline_diplomacy_modifier: "Lignée des diplomates"
+    dynn_custom_bloodline_diplomacy_modifier_desc: "Les membres de cette lignée sont convaincus qu'on peut réaliser de grandes choses en étant poli... quand ils peuvent en bénéficier."
+    dynn_custom_bloodline_learning_modifier: "Lignée des chercheurs"
+    dynn_custom_bloodline_learning_modifier_desc: "Les membres de cette lignée cherchent des réponses. Ils pensent que la connaissance est bien plus importante que les projets politiques et les guerres."
+    dynn_custom_bloodline_stewardship_modifier: "Lignée des dirigeants"
+    dynn_custom_bloodline_stewardship_modifier_desc: "Les membres de cette lignée cherchent à dominer les autres. Non pas à cause de leur fierté, mais parce qu’ils savent gouverner."
+    dynn_custom_bloodline_secret_modifier: "Sang-pur"
+    dynn_custom_bloodline_secret_modifier_desc: "Les membres de cette lignée pensent qu'ils sont de véritables descendants de Caïn. À leurs yeux, tous les autres [cainite|E] ne sont qu'une simple sangsue sans droit au sang de Caïn."
+    house_mancheaka_modifier: "Mancheaka"
+    house_mancheaka_modifier_desc: "Comme leur fondateur l’a fait il y a bien longtemps, les membres de cette lignée ont tendance à se précipiter tête baissée vers le danger, ce qui en fait des proies faciles pour les manipulateurs habiles."
+    house_caias_modifier: "Koiné"
+    house_caias_modifier_desc: "Caias Koine s'est battu pour protéger l'honneur de son [Sire|E], avant d'être vaincu par la sorcellerie la plus ignoble."
+    house_nebmaatsutekh_modifier: "Nebmaatsutekh"
+    house_nebmaatsutekh_modifier_desc: "La mère des miracles est la preuve éternelle de la dette de Ra envers Seth."
+    house_nephtys_modifier: "Nephtys"
+    house_nephtys_modifier_desc: "Elle est née de la tromperie et est morte à cause de cela."
+    house_wadjet_modifier: "Ouadjet"
+    house_wadjet_modifier_desc: "Une fois séduit par Set, Wadjet s'est libéré et s'est battu courageusement pour protéger les autres de lui."
+    house_gilgamesh_modifier: "Gilgamesh"
+    house_gilgamesh_modifier_desc: "Le poète a créé de nombreuses chansons sur lui, mais pas celle de sa mort."
+    house_enkidu_modifier: "Enkidu"
+    house_enkidu_modifier_desc: "Chargé de la tâche la plus importante, Enkidu ne faiblira jamais."
+    house_amarantha_modifier: "Amarante"
+    house_amarantha_modifier_desc: "Les premiers détruits perdurent encore, héritage de douleur et de haine."
+    house_amphion_modifier: "Amphion"
+    house_amphion_modifier_desc: "Amphion a charmé Arikel elle-même avec sa musique harmonieuse et apaisante."
+    house_tammuz_modifier: "Tammouz"
+    house_tammuz_modifier_desc: "Le protecteur et amoureux du sacrifice d'Arikel a imprégné sa lignée d'un sens du devoir inquiétant."
+    house_ereshkigal_modifier: "Ereshkigal"
+    house_ereshkigal_modifier_desc: "La sorcière mystérieuse et solitaire a sa propre fin de partie, loin des préoccupations des autres Gangrels."
+    house_cyscek_modifier: "Cyscek"
+    house_cyscek_modifier_desc: "Contre ses monstrueux parents, Cyscek n'hésitera pas à faire le sacrifice ultime."
+    house_gallod_modifier: "Gallod"
+    house_gallod_modifier_desc: "Victime des horreurs de l'Aîné, la lignée de Gallod est écrite dans le sang."
+    house_ionache_modifier: "Ionache"
+    house_ionache_modifier_desc: "Le premier voïvode a longtemps été oublié. Mais sa lignée se souvient de sa gloire perdue."
+    house_toomler_modifier: "Outiller"
+    house_toomler_modifier_desc: "Maître des vicissitudes, Toomler était incapable de voir les dangers bien plus banals. Il sert encore le [Clan|E] cette nuit, sous une autre forme."
+    house_melachoate_modifier: "Mélanchoate"
+    house_melachoate_modifier_desc: "Le rebelle Nictuku joue sur les deux tableaux, en veillant soigneusement à ce qu'aucun d'entre eux ne s'en doute."
+    house_petrodon_modifier: "Pétrodon"
+    house_petrodon_modifier_desc: "Un zèle fanatique pousse Petrodon toujours en avant, faisant murmurer son nom à ses ennemis avec effroi."
+    house_carna_modifier: "Carna"
+    house_carna_modifier_desc: "Une âme perdue à la recherche d’un but pourrait constituer la plus grande menace pour la pyramide Tremere."
+    house_dracula_modifier: "Dracula"
+    house_dracula_modifier_desc: "L'héritage d'effroi et de terreur de celui-ci sera un jour l'héritage de tous les vampires."
+    house_valerius_modifier: "Valérius"
+    house_valerius_modifier_desc: "Personne ne respecte le lieutenant loyal jusqu'au moment où il cesse de l'être."
+    house_giangaleazzo_modifier: "Giangaleazzo"
+    house_giangaleazzo_modifier_desc: "Le Vrai Prince sait quand revoir son allégeance actuelle."
+    house_cardona_modifier: "Cardona"
+    house_cardona_modifier_desc: "Un vrai patriarche protège même le membre le plus humble de sa famille."
+    house_rosselini_modifier: "Rossélini"
+    house_rosselini_modifier_desc: "La connaissance ne se soucie pas des frontières morales."
+    dynn_mamluk_modifier: "Caïdif mamelouk"
+    dynn_mamluk_modifier_desc: "Préjugés pour leur lignée Caitiff, les descendants de Mukhtar Bey ont néanmoins prouvé à maintes reprises leurs compétences administratives."
+    house_cecilia_modifier: "Cécilia"
+    houst_cecilia_modifier_desc: ""
+    house_etheyra_modifier: "Étheyra"
+    house_etheyra_modifier_desc: "Lorsque vous trahissez tout et tout le monde, soyez prêt à ce que peu de gens vous fassent confiance à la fin."
+    custom_lay_order_modifier: "Famille initiée"
+    custom_lay_order_modifier_desc: "Une noble maison de laïcs ayant juré d'aider la cause."
+    custom_knightly_order_modifier: "Ordre chevaleresque"
+    custom_knightly_order_modifier_desc: "Une société de guerriers liés par le sacrement de l'Ordre"
+    custom_mendicant_order_modifier: "Ordre mendiant"
+    custom_mendicant_order_modifier_desc: "Une société religieuse qui a juré de vivre parmi les gens ordinaires et de les aider."
+    custom_contemplative_order_modifier: "Ordre contemplatif"
+    custom_contemplative_order_modifier_desc: "Une communauté de fidèles éloignée des affaires du monde pour se concentrer sur la prière."
+    house_dankovsky_modifier: "Dankovski"
+    house_dankovsky_modifier_desc: "Les nécromanciens des steppes trop prudents étaient voués à une méfiance éternelle à l'égard de la Famille, après leur étreinte forcée à l'extérieur d'elle."
+
+    dynn_horus_modifier: "Shemsu-Heru"
+    dynn_horus_modifier_desc: "Les Shemsu-Heru furent la première dynastie, les véritables immortels créés par et pour les dieux pour mener une guerre sainte contre Apophis."
+    dynn_ishmaelites_modifier: "Ismaélites"
+    dynn_ishmaelites_modifier_desc: "Les transfuges des Ismaélites, la deuxième dynastie, créée par un désir de liberté et d'autodétermination."
+    dynn_apepnu_modifier: "Apepnou"
+    dynn_apepnu_modifier_desc: "La troisième dynastie est constituée des maudits Apepnu, serviteurs d'Apophis élevés par le rite Bane de l'ennemi Set."
+    dynn_cabiri_modifier: "Cabiri"
+    dynn_cabiri_modifier_desc: "Les bâtards voleurs d'immortalité, de la quatrième dynastie des Cabiri, étaient haïs et enviés dans une égale mesure."
+    dynn_wufeng_modifier: "Wu Feng"
+    dynn_wufeng_modifier_desc: "Les Wu Feng ont un aspect Yang et sont des serviteurs de la Reine Écarlate."
+    dynn_xianlung_modifier: "Xian Lung"
+    dynn_xianlung_modifier_desc: "Xian Lung a un aspect Yin et est un serviteur du Dragon d'Ébène."
+
+    dynn_asharu_modifier: "Asharu"
+    dynn_asharu_modifier_desc: "Asharu sont d'anciens anges gardiens qui ont été bannis dans les Abysses."
+    dynn_rabisu_modifier: "Rabisu"
+    dynn_rabisu_modifier_desc: "Les Rabisu sont des Démons qui étaient autrefois chargés de protéger et d'enrichir la nature tout en la mettant à la disposition de l'humanité."
+    dynn_halaku_modifier: "Halaku"
+    dynn_halaku_modifier_desc: "Les Halaku étaient les Elohim qui apportaient la mort afin de faire place à plus de vie."
+    dynn_namaru_modifier: "Namaru"
+    dynn_namaru_modifier_desc: "Les Namaru sont la première Maison et ont servi de hérauts de Dieu avant la Chute."
+    dynn_lammasu_modifier: "Lammasu"
+    dynn_lammasu_modifier_desc: "Les Lammasu sont les anciens anges de Dieu qui ont inspiré et recherché la vérité, la beauté et la puissance intérieure."
+    dynn_annunaki_modifier: "Annunaki"
+    dynn_annunaki_modifier_desc: "Les Annunaki sont les anciens façonneurs et utilisateurs de la Terre condamnés aux Abysses par Dieu."
+    dynn_neberu_modifier: "Néberu"
+    dynn_neberu_modifier_desc: "Les Neberu sont ceux qui ont maintenu les œuvres de Dieu, travaillant comme conseillers et voyants avant la Chute."
+
+    dynn_beaumayn_modifier: "Beaumayn"
+    dynn_beaumayn_modifier_desc: "Aujourd'hui, je jure fidélité au Livre et à la Lame, au futur qui est mon destin, au présent qui est mon devoir et au passé qui est mon trésor. Je jure fidélité aux membres et aux objectifs de la Maison Beaumayn, et que les rêves des damnés hantent mon esprit si jamais je romps cette confiance. Comme l’étoile noire brûle au-dessus, mon cœur brûle également en te servant."
+    dynn_dougal_modifier: "Dougal"
+    dynn_dougal_modifier_desc: "Mon cœur est le cœur de Dougal. Mon bras prendra son marteau. Mon corps assumera son fardeau. Mon cœur assumera sa volonté. Je travaillerai jusqu'à la fin de mes jours, faisant son travail."
+    dynn_eiluned_modifier: "Eiluned"
+    dynn_eiluned_modifier_desc: "Aujourd'hui, je promets ma loyauté envers les Noirs et Argent, par l'intermédiaire de mon suzerain. J’accorderai à mes supérieurs le respect qu’ils ont mérité et je m’efforcerai de guider les plus jeunes que moi vers le chemin de la compréhension et de la sagesse. Chaque jour, je m'efforcerai d'en apprendre davantage sur le monde et mon propre cœur, pour mieux enrichir Eiluned et moi-même. Par-dessus tout, je m'engage moi-même envers la Maison Eiluned en tant que vassal, et j'espère pouvoir servir avec honneur et distinction."
+    dynn_fiona_modifier: "Fiona"
+    dynn_fiona_modifier_desc: "Dame/Seigneur, je vous donne toute l'affection et la chaleur de mon cœur afin qu'elles puissent vous soulager à travers les kilomètres et les années à venir. Je serai votre ami, votre compagnon et votre compagnon comme vous le désirez. Dans les heures désolées, je vous tiendrai compagnie et, sur le champ de bataille, je porterai votre signe avec fierté et honneur. Vous ne serez jamais seul ; jamais tes larmes ne resteront insensibles à ma main. Avant que mon lien ne soit rompu, mes reins ne trouveront plus de plaisir ; mon cœur ne trouvera plus de joie dans le plaisir charnel. Que les dents du lion d'argent de Fiona me déchirent si je trahis ta confiance !"
+    dynn_gwydion_modifier: "Gwydion"
+    dynn_gwydion_modifier_desc: "Seigneurs et dames du Faucon, je vous jure fidélité ainsi qu'à la noble maison de Gwydion, à partir de ce jour jusqu'à ce que le soleil ne brûle plus. Je ne manquerai jamais de défendre mes charges, ni l'honneur de mes frères et sœurs. Je serai gracieux en paix et inflexible au combat, et je ferai honneur à la Maison de Gwydion par mes actes. Au nom de Lord Gwydion le Gris et de Lady Keredwyn, je le jure."
+    dynn_liam_modifier: "Liam"
+    dynn_liam_modifier_desc: "Que la lumière du Soleil brûle ma peau,\nQue la lumière de la Lune m'apporte la peur,\nQue la nourriture de la Terre m'apporte la faim,\nQue les eaux de la Vie dessèchent ma gorge\nDois-je renoncer à la boussole de mon voyage ,\nDois-je négliger les soins du Rêveur,\nDois-je être aveugle aux besoins de mes protégés,\nDois-je ignorer la pureté de mon devoir."
+    dynn_aesin_modifier: "Aésine"
+    dynn_aesin_modifier_desc: "Mon âme éternelle repose désormais dans la Maison Aesin. Je jure par les forêts et les montagnes de ma maison que je respecterai les traditions et coutumes de la maison Aesin. Sachant que je suis en sécurité, je cherche refuge sous les ailes du hibou. Si mon serment est rompu, que le Rêve me prive de tous privilèges et ne me laisse jamais oublier qui j'étais et ce que je suis devenu."
+    dynn_ailil_modifier: "Ailil"
+    dynn_ailil_modifier_desc: "Par les écailles du dragon d'argent, par la lumière des quatre étoiles, par la couverture de la nuit la plus sombre, je remets mon corps, mon cœur et ma volonté sous la garde de la Maison Ailil. Puisse ses objectifs guider ma vision, ses espoirs diriger mes aspirations et son objectif inspirer mes actions. Que toutes mes ambitions s'effondrent dans la poussière si je trahis les paroles que j'ai prononcées cette nuit. Dragon à côté de moi, étoiles au-dessus de moi, nuit derrière moi, sois témoin de mon serment."
+    dynn_balor_modifier: "Balor"
+    dynn_balor_modifier_desc: "Par le serpent qui s’enroule autour de la tour dorée, par le rayon cramoisi qui jaillit de l’œil de Balor, par le sang qui coule comme un feu dans mes veines, j’engage mon cœur, mon esprit et mon corps à la volonté de la maison Balor. Que le défi qui rend mon corps différent de tous les autres me rappelle constamment ma naissance et mon destin. Puissé-je souffrir l'agonie de mille flammes si je trahis ma maison. Je le jure par le sang et les yeux devant le Rêve lui-même."
+    dynn_daireann_modifier: "Daireann"
+    dynn_daireann_modifier_desc: "Frères et sœurs, par le fil de l'épée et les liens du sang, je jure par la force de mes bras et le courage de mon cœur de vous défendre, vous et notre cause, contre la puissance de nos ennemis. Jamais tu ne resteras seul sur le champ de bataille tant que le souffle restera dans mon corps. Si je romps mon serment, qu'une pluie de poignards de fer me transperce la poitrine et envoie mon âme pour toujours dans les ténèbres."
+    dynn_leanhaun_modifier: "Leanhaun"
+    dynn_leanhaun_modifier_desc: "Par les éléments et l'essence des Rêves, je déclare devant témoins que je suis prêt à prendre mes fonctions au sein de la Maison Leanhaun. Je resterai fidèle à ma maison, gardant ses secrets, aidant tous les autres membres et gardant ses trésors. Si je manque à l'un de mes devoirs, ou si je dois trahir ma maison, que mon nom soit rayé de l'histoire et effacé de l'esprit des Rêveurs. Que mon histoire soit inachevée, mon objectif inachevé et mon essence dispersée par les vents. Qu'aucun Kithain ne se souvienne qu'il ait jamais existé tel que moi."
+    dynn_varich_modifier: "Varich"
+    dynn_varich_modifier_desc: "Un modèle que j'ai commencé, maintenant je le termine pour recommencer au nom de Varich, fondateur de la maison que je prends pour mienne. Puissé-je ne jamais laisser les fils d'un modèle non lus. Puissé-je ne jamais laisser un défi sans réponse. Puissé-je ne jamais faire vœu de véritable amour à un autre. Je rends honneur à la Maison Varich et la sers avec mon esprit, mon cœur et mes actions. Si je renonce à mon serment, que toutes les mains de ma maison se lèvent contre moi et que le rythme de mon cœur battant s'immobilise pour toujours."
+    dynn_danaan_modifier: "Danann"
+    dynn_danaan_modifier_desc: "Pour chaque étoile dans le ciel, il y a un chemin à parcourir. Pour chaque rêve nocturne, un voyage vous attend. Je jure par les étoiles au-dessus et les rêves intérieurs de servir la Maison Danaan, de garder les voies du Rêve et d'ouvrir de nouvelles pistes là où il n'en existe pas. Je garderai les voyageurs, guiderai les Rêveurs et continuerai jusqu'à ce qu'il n'y ait plus de chemin à suivre. Je le jure, et que le dragon me dévore dans mes rêves si je ne respecte pas mon engagement."
+    dynn_scathach_modifier: "Scathach"
+    dynn_scathach_modifier_desc: "Aujourd'hui, je fais un vœu de sang et d'acier et je promets ma vie à la Maison Scathach. Je tiendrai compte des paroles des oracles et je n'engagerai ma lame dans aucune cause qui invite au déshonneur. Je soignerai mon propre acier, garderai mes propres conseils et suivrai mon propre chemin jusqu'au jour où je ne projetterai plus d'ombre. Ainsi je le jure, par la lune brillante et la lame sanglante. Et c’est ainsi que commence ma longue marche."
+
+    POD_unity_impassive_tax_modifier: "Administration améliorée"
+    POD_unity_impassive_tax_modifier_desc: "Les membres de cette maison bénéficient d'une efficacité accrue dans leur administration."

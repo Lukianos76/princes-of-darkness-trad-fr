@@ -1,75 +1,74 @@
 ﻿l_french:
-  
- burning_faith_name: "Foi brûlante" #NT!
- burning_faith_doctrine_name: "Guerriers de Mithra" #NT!
- burning_faith_doctrine_desc: "En tant que guerriers du Soleil Invaincu, nous devons être aussi redoutables que Lui. Le monde de la nuit verra enfin la lumière du Soleil." #NT!
- undead_aesir_name: "Ases morts-vivants" #NT!
- undead_aesir_doctrine_name: "Rajeuni [einherjar|E]" #NT!
- undead_aesir_doctrine_desc: "Les Guerriers de Canarl ont soif de gloire et de combat, et sont à juste titre craints par les faibles [cainites|E]." #NT!
- restored_republic_name: "République restaurée" #NT!
- restored_republic_doctrine_name: "Sénat en session" #NT!
- restored_republic_doctrine_desc: "Pour une institution [cainite|E], le Sénat est étonnamment ouvert d’esprit. Mais pas moins stressant et sanglant que les autres." #NT!
- senatorial_clans_name: "Amis de la République" #NT!
- senatorial_clans_doctrine_name: "Clans sénatoriaux" #NT!
- senatorial_clans_doctrine_desc: "Le Sénat n'a pas oublié la trahison de Michel de Constantinople ou de Carthage. Leurs « clans » décadents ne sont pas les bienvenus dans les salles sacrées du Sénat." #NT!
- vengeful_carthage_name: "Carthage vengeresse" #NT!
- vengeful_carthage_doctrine_name: "Utopie impitoyable" #NT!
- vengeful_carthage_doctrine_desc: "Carthage a des générations de torts à réparer. Dans le sang des traîtres romains de préférence." #NT!
- broken_hope_name: "Espoir brisé" #NT!
- broken_hope_doctrine_name: "Utopie ratée" #NT!
- broken_hope_doctrine_desc: "La Nouvelle Carthage n’est qu’un outil politique sans âme. L'esprit des vrais Prométhéens a été écrasé par cette nouvelle défaite." #NT!
- secure_anda_name: "Sécurisez Anda" #NT!
- secure_anda_doctrine_name: "Gérer un empire" #NT!
- secure_anda_doctrine_desc: "D’habiles bellicistes, les Anda sont également devenus des hommes d’État compétents, utilisant la tolérance religieuse de leurs parents mongols comme élément de base." #NT!
- crimsom_curia_name: "Curie cramoisie" #NT!
- crimsom_curia_doctrine_name: "Siège restauré de Nod" #NT!
- crimsom_curia_doctrine_desc: "Le conseil ecclésiastique restauré de l'Église du Troisième Caïn s'occupe des affaires quotidiennes... mais appelle également à l'expansion de la domination de l'Église avant la venue du Sauveur." #NT!
- militarized_experiments_name: "Atelier des Horreurs" #NT!
- militarized_experiments_doctrine_name: "Expériences militarisées" #NT!
- militarized_experiments_doctrine_desc: "Les horreurs et les abominations tordues sont désormais encore plus régulièrement utilisées par [Clan|E] Tzimisce comme troupes de choc." #NT!
- warden_network_name: "Réseau de gardiens" #NT!
- warden_network_doctrine_name: "Yeux et oreilles" #NT!
- warden_network_doctrine_desc: "L'Ordre de Moloch est plus unifié qu'il ne l'a jamais été, garantissant que tout gardien puisse trouver de l'aide n'importe où." #NT!
- knights_acre_name: "Chevaliers d'Acre" #NT!
- knights_acre_doctrine_name: "Épée de Dieu préparée" #NT!
- knights_acre_doctrine_desc: "Les courageux Chevaliers sont désormais pleinement engagés dans le but de l'Inquisition, prêts à déchaîner leur sainte fureur sur les engeances de l'enfer." #NT!
- oculi_dei_name: "Oculi Dei" #NT!
- oculi_dei_doctrine_name: "Des yeux vigilants" #NT!
- oculi_dei_doctrine_desc: "L'Oculi Dei a maîtrisé ses membres les plus paranoïaques, ce qui en fait un atout encore plus redoutable contre le Mal." #NT!
- sisters_stjohn_name: "Sœurs de Saint-Jean" #NT!
- sisters_stjohn_doctrine_name: "Soins divins" #NT!
- sisters_stjohn_doctrine_desc: "Les Sœurs sont le cœur de l'Inquisition, le roc même qui la soutient dans les ténèbres rampantes." #NT!
- red_order_name: "Ordre rouge" #NT!
- red_order_doctrine_name: "Gardiens attentifs" #NT!
- red_order_doctrine_desc: "L'Ordre Rouge est le gardien des secrets de l'Inquisition. Et ils ne diffusent leurs connaissances qu’avec la plus grande précaution." #NT!
- von_murnau_name: "Maison de Murnau" #NT!
- von_murnau_doctrine_name: "Chiens de Dieu" #NT!
- von_murnau_doctrine_desc: "La famille allemande est pleinement engagée dans la cause de l’Inquisition, mettant à profit ses ressources considérables." #NT!
- great_awakening_name: "Grand réveil" #NT!
- great_awakening_doctrine_name: "Grand réveil" #NT!
- great_awakening_doctrine_desc: "Les Réprouvés de Calomena ont longtemps lutté pour transmettre aux masses la vérité qui leur avait été révélée, mais ils ne luttent plus. Partout où ils prêchent, les gens écoutent et suivent." #NT!
- champions_gaia_name: "Champions de Gaïa" #NT!
- champions_gaia_doctrine_name: "Champions de Gaïa" #NT!
- champions_gaia_doctrine_desc: "Gaia est à juste titre fière de ses plus courageux défenseurs. Les Garous sont unis derrière leur bannière, sauvant enfin le monde de l'apocalypse." #NT!
- under_wufeng_cause_name: "Sous la cause de Wu Feng" #NT!
- under_wufeng_cause_doctrine_name: "Sous la cause de Wu Feng" #NT!
- under_wufeng_cause_doctrine_desc: "La paix apporte l'espoir, l'espoir apporte la guérison, la guérison apporte la vie. Dans toutes ces choses, l’enfer est vaincu." #NT!
- special_doctrine_is_wufeng_faith_name: "Wu Feng" #NT!
- special_doctrine_is_wufeng_faith_desc: "La paix apporte l'espoir, l'espoir apporte la guérison, la guérison apporte la vie. Dans toutes ces choses, l’enfer est vaincu." #NT!
- doctrine_parameter_hostility_override_special_doctrine_is_wufeng_faith: "[faiths|E] avec [GetFaithDoctrine('under_wufeng_cause_doctrine').GetBaseName] [doctrine|E] sont considérés comme [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V]." #NT!
- hostility_override_under_wufeng_cause_doctrine: "Les [faiths|E] qui suivent Wu Feng sont considérés comme [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V]." #NT!
-  
- hunter_schism_mended_name: "Schisme des chasseurs réparé" #NT!
- special_doctrine_hunter_schism_mended_name: "Schisme des chasseurs réparé" #NT!
- special_doctrine_hunter_schism_mended_desc: "Shadow Inquisition est sous notre mandat." #NT!
- doctrine_parameter_access_to_holy_arts: "Accéder aux Arts Saints" #NT!
-  
- theurgist_ordination_name: "Ordination théurgiste" #NT!
- special_doctrine_theurgist_ordination_name: "Ordination théurgiste" #NT!
- special_doctrine_theurgist_ordination_desc: "Nous enseignons la théurgie." #NT!
- doctrine_parameter_theurgist_ordination: "Le disciple gagnera [GetTrait('theurgist').GetName( GetPlayer )] [trait|E] lors de l'ordination." #NT!
-  
- sorcerer_ordination_name: "Ordination de sorcier" #NT!
- special_doctrine_sorcerer_ordination_name: "Ordination de sorcier" #NT!
- special_doctrine_sorcerer_ordination_desc: "Nous enseignons la sorcellerie." #NT!
- doctrine_parameter_sorcerer_ordination: "Le disciple gagnera [GetTrait('sorcerer').GetName( GetPlayer )] [trait|E] lors de l'ordination." #NT!
+    burning_faith_name: "Foi brûlante"
+    burning_faith_doctrine_name: "Guerriers de Mithra"
+    burning_faith_doctrine_desc: "En tant que guerriers du Soleil Invaincu, nous devons être aussi redoutables que Lui. Le monde de la nuit verra enfin la lumière du Soleil."
+    undead_aesir_name: "Ases morts-vivants"
+    undead_aesir_doctrine_name: "Rajeuni [einherjar|E]"
+    undead_aesir_doctrine_desc: "Les Guerriers de Canarl ont soif de gloire et de combat, et sont à juste titre craints par les faibles [cainites|E]."
+    restored_republic_name: "République restaurée"
+    restored_republic_doctrine_name: "Sénat en session"
+    restored_republic_doctrine_desc: "Pour une institution [cainite|E], le Sénat est étonnamment ouvert d’esprit. Mais pas moins stressant et sanglant que les autres."
+    senatorial_clans_name: "Amis de la République"
+    senatorial_clans_doctrine_name: "Clans sénatoriaux"
+    senatorial_clans_doctrine_desc: "Le Sénat n'a pas oublié la trahison de Michel de Constantinople ou de Carthage. Leurs « clans » décadents ne sont pas les bienvenus dans les salles sacrées du Sénat."
+    vengeful_carthage_name: "Carthage vengeresse"
+    vengeful_carthage_doctrine_name: "Utopie impitoyable"
+    vengeful_carthage_doctrine_desc: "Carthage a des générations de torts à réparer. Dans le sang des traîtres romains de préférence."
+    broken_hope_name: "Espoir brisé"
+    broken_hope_doctrine_name: "Utopie ratée"
+    broken_hope_doctrine_desc: "La Nouvelle Carthage n’est qu’un outil politique sans âme. L'esprit des vrais Prométhéens a été écrasé par cette nouvelle défaite."
+    secure_anda_name: "Sécurisez Anda"
+    secure_anda_doctrine_name: "Gérer un empire"
+    secure_anda_doctrine_desc: "D’habiles bellicistes, les Anda sont également devenus des hommes d’État compétents, utilisant la tolérance religieuse de leurs parents mongols comme élément de base."
+    crimsom_curia_name: "Curie cramoisie"
+    crimsom_curia_doctrine_name: "Siège restauré de Nod"
+    crimsom_curia_doctrine_desc: "Le conseil ecclésiastique restauré de l'Église du Troisième Caïn s'occupe des affaires quotidiennes... mais appelle également à l'expansion de la domination de l'Église avant la venue du Sauveur."
+    militarized_experiments_name: "Atelier des Horreurs"
+    militarized_experiments_doctrine_name: "Expériences militarisées"
+    militarized_experiments_doctrine_desc: "Les horreurs et les abominations tordues sont désormais encore plus régulièrement utilisées par [Clan|E] Tzimisce comme troupes de choc."
+    warden_network_name: "Réseau de gardiens"
+    warden_network_doctrine_name: "Yeux et oreilles"
+    warden_network_doctrine_desc: "L'Ordre de Moloch est plus unifié qu'il ne l'a jamais été, garantissant que tout gardien puisse trouver de l'aide n'importe où."
+    knights_acre_name: "Chevaliers d'Acre"
+    knights_acre_doctrine_name: "Épée de Dieu préparée"
+    knights_acre_doctrine_desc: "Les courageux Chevaliers sont désormais pleinement engagés dans le but de l'Inquisition, prêts à déchaîner leur sainte fureur sur les engeances de l'enfer."
+    oculi_dei_name: "Oculi Dei"
+    oculi_dei_doctrine_name: "Des yeux vigilants"
+    oculi_dei_doctrine_desc: "L'Oculi Dei a maîtrisé ses membres les plus paranoïaques, ce qui en fait un atout encore plus redoutable contre le Mal."
+    sisters_stjohn_name: "Sœurs de Saint-Jean"
+    sisters_stjohn_doctrine_name: "Soins divins"
+    sisters_stjohn_doctrine_desc: "Les Sœurs sont le cœur de l'Inquisition, le roc même qui la soutient dans les ténèbres rampantes."
+    red_order_name: "Ordre rouge"
+    red_order_doctrine_name: "Gardiens attentifs"
+    red_order_doctrine_desc: "L'Ordre Rouge est le gardien des secrets de l'Inquisition. Et ils ne diffusent leurs connaissances qu’avec la plus grande précaution."
+    von_murnau_name: "Maison de Murnau"
+    von_murnau_doctrine_name: "Chiens de Dieu"
+    von_murnau_doctrine_desc: "La famille allemande est pleinement engagée dans la cause de l’Inquisition, mettant à profit ses ressources considérables."
+    great_awakening_name: "Grand réveil"
+    great_awakening_doctrine_name: "Grand réveil"
+    great_awakening_doctrine_desc: "Les Réprouvés de Calomena ont longtemps lutté pour transmettre aux masses la vérité qui leur avait été révélée, mais ils ne luttent plus. Partout où ils prêchent, les gens écoutent et suivent."
+    champions_gaia_name: "Champions de Gaïa"
+    champions_gaia_doctrine_name: "Champions de Gaïa"
+    champions_gaia_doctrine_desc: "Gaia est à juste titre fière de ses plus courageux défenseurs. Les Garous sont unis derrière leur bannière, sauvant enfin le monde de l'apocalypse."
+    under_wufeng_cause_name: "Sous la cause de Wu Feng"
+    under_wufeng_cause_doctrine_name: "Sous la cause de Wu Feng"
+    under_wufeng_cause_doctrine_desc: "La paix apporte l'espoir, l'espoir apporte la guérison, la guérison apporte la vie. Dans toutes ces choses, l’enfer est vaincu."
+    special_doctrine_is_wufeng_faith_name: "Wu Feng"
+    special_doctrine_is_wufeng_faith_desc: "La paix apporte l'espoir, l'espoir apporte la guérison, la guérison apporte la vie. Dans toutes ces choses, l’enfer est vaincu."
+    doctrine_parameter_hostility_override_special_doctrine_is_wufeng_faith: "[faiths|E] avec [GetFaithDoctrine('under_wufeng_cause_doctrine').GetBaseName] [doctrine|E] sont considérés comme [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V]."
+    hostility_override_under_wufeng_cause_doctrine: "Les [faiths|E] qui suivent Wu Feng sont considérés comme [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V]."
+
+    hunter_schism_mended_name: "Schisme des chasseurs réparé"
+    special_doctrine_hunter_schism_mended_name: "Schisme des chasseurs réparé"
+    special_doctrine_hunter_schism_mended_desc: "Shadow Inquisition est sous notre mandat."
+    doctrine_parameter_access_to_holy_arts: "Accéder aux Arts Saints"
+
+    theurgist_ordination_name: "Ordination théurgiste"
+    special_doctrine_theurgist_ordination_name: "Ordination théurgiste"
+    special_doctrine_theurgist_ordination_desc: "Nous enseignons la théurgie."
+    doctrine_parameter_theurgist_ordination: "Le disciple gagnera [GetTrait('theurgist').GetName( GetPlayer )] [trait|E] lors de l'ordination."
+
+    sorcerer_ordination_name: "Ordination de sorcier"
+    special_doctrine_sorcerer_ordination_name: "Ordination de sorcier"
+    special_doctrine_sorcerer_ordination_desc: "Nous enseignons la sorcellerie."
+    doctrine_parameter_sorcerer_ordination: "Le disciple gagnera [GetTrait('sorcerer').GetName( GetPlayer )] [trait|E] lors de l'ordination."

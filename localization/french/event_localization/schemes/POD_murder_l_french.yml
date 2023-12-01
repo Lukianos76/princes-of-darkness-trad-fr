@@ -1,197 +1,195 @@
 ﻿l_french:
-  
- POD_murder_outcome.1001.t: "Voir le soleil" #NT!
- POD_murder_outcome.1001.desc: "Tuer des vampires est, à la base, assez facile. Le soleil le fera sans faute à chaque fois. La partie la plus délicate est de s'assurer que la cible est à l'extérieur lorsque les rayons de lumière de Dieu bénissent ce monde.\nPour celui-ci, vous avez choisi la méthode de « démolition ». Pas besoin de déplacer le vampire endormi si le toit lui-même est retiré pendant la nuit. Vous n'avez besoin que de bons hommes capables de créer une diversion dans le refuge pour que votre équipe d'experts puisse se mettre au travail.\nQu'est-ce qui pourrait mal tourner ?" #NT!
- POD_murder_outcome.1001.a: "Un classique, vraiment" #NT!
- POD_murder_outcome.1001.b: "Ce n'est pas le moment" #NT!
-  
- POD_murder_outcome.2001.t: "Voir le soleil" #NT!
- POD_murder_outcome.2001.opening_1: "[target.GetTitledFirstName] devrait vous remercier, s'ils le pouvaient, car de nombreux Caïnites rêvent de revoir le Soleil après leur [Embrace|E]. Eh bien, peut-être pas en étant réveillé par ses cris et ses saccades, et probablement en se demandant « où diable est mon toit ?! ». Mais hé, personne n’a dit que la non-vie était facile." #NT!
- POD_murder_outcome.2001.owner_is_known_1: "\n\nMalheureusement, un de vos agents a été retrouvé avec un morceau de toit assez compromettant dans les mains avant de pouvoir quitter le refuge. Il a rapidement révélé votre implication dans toute cette affaire." #NT!
- POD_murder_outcome.2001.no_awareness_1: "\n\nVos agents étant partis depuis longtemps avant que le reste du refuge puisse se rassembler, il n'y a rien qui puisse vous incriminer." #NT!
- POD_murder_outcome.2001.a.discovered: "Il est temps de vérifier mon propre toit." #NT!
- POD_murder_outcome.2001.a: "Louer le soleil!" #NT!
-  
- murder_outcome.5001.vampire_sun: "Je suis réveillé par l'odeur de chair brûlée... ma propre chair. Le soleil est encore haut dans le ciel et, pour une raison mystérieuse, mon toit semble avoir disparu. Le résultat est rapide mais douloureux. Il ne faut pas jouer avec la malédiction de Dieu, et je me démène pour trouver un refuge alors que je m'enflamme comme une torche vivante.\nMon effort frénétique arrive trop peu, trop tard, et je me transforme bientôt en cendres enflammées." #NT!
-  
- POD_murder_outcome.4001.t: "Voir le soleil" #NT!
- POD_murder_outcome.4001.failure_declaration_1: "D'une manière ou d'une autre, #EMP, d'une manière ou d'une autre#!, [target.GetTitledFirstName] vit toujours !" #NT!
- POD_murder_outcome.4001.failed_attempt_1: "Mes agents ont réussi à créer une diversion, mais pas assez longtemps pour que mon équipe de démolition puisse faire un trou dans le toit visiblement bien renforcé de ma cible." #NT!
- POD_murder_outcome.4001.disastrous_attempt_1: "\n\nAssez vite, les gardes sont arrivés et ont arrêté certains de mes hommes, révélant ainsi mon implication dans toute cette affaire." #NT!
- POD_murder_outcome.4001.unknown_so_far: "\n\nLorsque les gardes sont apparus, mes hommes ont pu s'échapper, cachant au moins mon implication dans tout ce stratagème." #NT!
- POD_murder_outcome.4001.a: "C'était juste une inspection planifiée du toit, je le jure !" #NT!
- POD_murder_outcome.4001.b: "On ne trouve pas de bons constructeurs de nos jours." #NT!
-  
- murder_outcome.5002.vampire_sun: "Je me réveille par l'odeur de chair brûlée... ma propre chair. Le soleil est encore haut dans le ciel et, pour une raison mystérieuse, mon toit semble avoir disparu. Le résultat est rapide mais douloureux. Il ne faut pas jouer avec la malédiction de Dieu, et je me démène pour trouver un refuge alors que je prends feu comme une torche vivante.\nMon salut réside dans une grange voisine où je m'assois dans un coin sombre après avoir éteint les flammes. Ce n'est pas une façon très digne de passer la journée, mais cela signifie quand même que je survivrai au moins pour le moment." #NT!
-  
- POD_murder_outcome.1002.t: "Chasseurs Chasseurs" #NT!
- POD_murder_outcome.1002.desc: "De nombreuses personnes aiment tuer des vampires et il existe même des organisations dédiées à cette cause. Ils vont du simple désagrément à de dignes ennemis, mais peut-être pourraient-ils aussi être utiles dans l'affaire de ce soir. Si vous deviez divulguer l'emplacement du refuge de votre cible à des tiers intéressés, vous pourriez être sûr que quelque chose se produirait.\nCela pourrait être un bon moyen de ne pas trop s'impliquer, tout en s'assurant que l'acte est accompli. Qui a dit que les mortels étaient inutiles contre les vampires ? Bien guidé, chacun a un rôle à jouer..." #NT!
- POD_murder_outcome.1002.a: "Je suis le marionnettiste" #NT!
- POD_murder_outcome.1002.b: "Ce n'est pas le moment" #NT!
-  
- POD_murder_outcome.2002.t: "Chasseurs Chasseurs" #NT!
- POD_murder_outcome.2002.opening_1: "« Terrible » nouvelle, car [target.GetTitledFirstName] semble avoir été la cible des chasseurs récemment. Un groupe de mortels expérimentés semble avoir localisé leur position et lancé un assaut à grande échelle sur le refuge.\nIls n'ont laissé derrière eux que les ruines en feu et les cadavres fumants des défenseurs, y compris celui de votre victime. C'est vraiment une tragédie, n'ont-ils pas honte ?" #NT!
- POD_murder_outcome.2002.owner_is_known_1: "\n\nMalheureusement, l'un des chasseurs a été capturé lors de leur évasion et a révélé votre implication dans la découverte 'miraculeuse' du refuge..." #NT!
- POD_murder_outcome.2002.no_awareness_1: "\n\nLes chasseurs ayant réussi à s'en sortir proprement, rien ne peut vous incriminer dans cette affaire." #NT!
- POD_murder_outcome.2002.a.discovered: "J'aidais juste !" #NT!
- POD_murder_outcome.2002.a: "Transmettez mes salutations aux héritiers" #NT!
-  
- murder_outcome.5001.vampire_hunters: "Même si les attaques des chasseurs ne sont pas rares, celle-ci vous a pris par surprise. Il n'y a eu aucun avertissement, aucun reniflement de la part de l'un d'entre eux essayant de localiser votre refuge, seulement une attaque soudaine et précise, comme s'ils savaient... Mais vous n'avez pas le temps de trop réfléchir à la question pour le moment, car votre non-vie est en jeu.\nMalgré tous vos efforts, ils sont trop nombreux et trop bien organisés... et ils semblent également posséder des alliés surnaturels, confirmant que quelqu'un est derrière cette attaque. Mais c'est trop peu, trop tard, et vous pouvez espérer qu'ils regretteront eux-mêmes d'avoir joué avec les chasseurs une nuit." #NT!
-  
- POD_murder_outcome.4002.t: "Chasseurs Chasseurs" #NT!
- POD_murder_outcome.4002.failure_declaration_1: "D'une manière ou d'une autre, #EMP, d'une manière ou d'une autre#!, [target.GetTitledFirstName] vit toujours !" #NT!
- POD_murder_outcome.4002.failed_attempt_1: "« Terrible » nouvelle, car [target.GetTitledFirstName] semble avoir été la cible des chasseurs récemment. Un groupe de mortels expérimentés a réussi à localiser leur position et à lancer un assaut à grande échelle sur le refuge.\nMême cela n'a pas suffi, et les solides défenses du refuge ont réussi à repousser cette attaque, laissant tout ce plan un échec retentissant." #NT!
- POD_murder_outcome.4002.disastrous_attempt_1: "\n\nPire encore, certains chasseurs ont été capturés, et ont immédiatement révélé tout ce qu'ils savaient, au point de donner le nom d'un de mes contacts..." #NT!
- POD_murder_outcome.4002.unknown_so_far: "\n\nAu moins, les chasseurs qui ont survécu ont pu s'échapper, s'assurant que personne ne puisse connaître mon implication." #NT!
- POD_murder_outcome.4002.a: "Dois-je tout faire moi-même ?" #NT!
- POD_murder_outcome.4002.b: "En réalité, les mortels ne servent à rien." #NT!
-  
- murder_outcome.5002.vampire_hunters: "Même si les attaques des chasseurs ne sont pas rares, celle-ci vous a pris par surprise. Il n'y a eu aucun avertissement, aucun reniflement de la part de l'un d'entre eux essayant de localiser votre refuge, seulement une attaque soudaine et précise, comme s'ils savaient... Mais vous n'avez pas le temps de trop réfléchir à la question pour le moment, car votre non-vie est en jeu.\nHeureusement, les défenses de votre refuge étaient bien planifiées et suffisantes pour repousser même cela. Ce fut une bataille acharnée, avec quelques coups serrés ici et là, mais rien qui puisse vraiment vous faire reculer. Maintenant, pour découvrir ce qui s'est réellement passé..." #NT!
-  
- POD_murder_outcome.1003.t: "Des loups à leur porte" #NT!
- POD_murder_outcome.1003.desc: "Même des prédateurs aussi terribles que les vampires peuvent devenir des proies de temps en temps. Tel est le cas des redoutés « lupins », ou loups-garous, ces féroces métamorphes voués à une haine profonde et rassasiée envers les sangsues. C'est quelque chose que vous pourriez utiliser.\nEn divulguant des informations sur un prochain voyage de votre cible près d'une zone boisée, vous pourriez vous assurer que son groupe serait attaqué. Alors, la sauvagerie et les redoutables prouesses au combat de ces bêtes pourraient suffire à résoudre le problème à votre place." #NT!
- POD_murder_outcome.1003.a: "Libérez les chiens de guerre !" #NT!
- POD_murder_outcome.1003.b: "Ce n'est pas le moment" #NT!
-  
- POD_murder_outcome.2003.t: "Des loups à leur porte" #NT!
- POD_murder_outcome.2003.opening_1: "Les loups-garous sont tout simplement fiables dans leur haine des vampires. Même le plus petit signe d'une mort potentielle était suffisant pour les envoyer préparer une embuscade à grande échelle sur votre cible.\nCe fut, comme prévu, un massacre. Les puissantes bêtes n'ont fait qu'une bouchée des défenseurs, et même si vous ne savez pas exactement ce qui est arrivé au [target.GetTitledFirstName], vous pariez que cela a été rapide mais sanglant et douloureux." #NT!
- POD_murder_outcome.2003.owner_is_known_1: "\n\nMalheureusement, plus près de chez nous, un de vos agents qui servait d'intermédiaire auprès des lupins a été capturé et a révélé votre implication dans l'embuscade." #NT!
- POD_murder_outcome.2003.no_awareness_1: "\n\nNi les héritiers de votre cible ni les loups-garous eux-mêmes n'ont la moindre idée de votre implication." #NT!
- POD_murder_outcome.2003.a.discovered: "L'ennemi de mon ennemi..." #NT!
- POD_murder_outcome.2003.a: "Bons chiens." #NT!
-  
- murder_outcome.5001.vampire_werewolves: "Un voyage à proximité d'une forêt est toujours une perspective dangereuse pour un vampire, car les loups-garous, ces féroces métamorphes voulant une profonde haine pour votre espèce, se cachent parmi ces arbres. Vous avez pris toutes les précautions possibles pour éviter d’attirer leur attention, mais cela n’a apparemment pas suffi. Alors qu'ils s'abattent sur votre groupe avec les crocs et les griffes tirés, vous vous demandez comment ils ont pu connaître votre itinéraire ?\nVous n'aurez probablement jamais la réponse, car les lupins submergent facilement votre escorte et se rapprochent de vous. Malgré vos formidables pouvoirs, vous ne pouvez pas faire grand-chose contre un si grand nombre de tueurs assoiffés de sang. Vous serez une victime de plus dans la guerre sans fin entre vos races." #NT!
-  
- POD_murder_outcome.4003.t: "Des loups à leur porte" #NT!
- POD_murder_outcome.4003.failure_declaration_1: "D'une manière ou d'une autre, #EMP, d'une manière ou d'une autre#!, [target.GetTitledFirstName] vit toujours !" #NT!
- POD_murder_outcome.4003.failed_attempt_1: "Les loups-garous sont tout simplement fiables dans leur haine des vampires. Même le plus petit signe d'une mort potentielle était suffisant pour les envoyer préparer une embuscade à grande échelle contre votre cible.\nMalheureusement, même si la bataille a été âprement menée, votre cible a réussi à se frayer un chemin pour sortir de l'embuscade et est réapparue plusieurs nuits plus tard à leur refuge, toujours vivant et en bonne santé. Il semble qu’il en faudra plus pour s’en débarrasser." #NT!
- POD_murder_outcome.4003.disastrous_attempt_1: "\n\nPire encore, plus près de chez nous, un de vos agents qui servait d'intermédiaire auprès des lupins a été capturé et a révélé votre implication dans l'embuscade." #NT!
- POD_murder_outcome.4003.unknown_so_far: "\n\nNi votre cible ni les loups-garous eux-mêmes n'ont la moindre idée de votre implication, c'est donc un petit soulagement." #NT!
- POD_murder_outcome.4003.a: "L’ennemi de mon ennemi semble inutile." #NT!
- POD_murder_outcome.4003.b: "Mauvais chiens !" #NT!
-  
- murder_outcome.5002.vampire_werewolves: "Un voyage à proximité d'une forêt est toujours une perspective dangereuse pour un vampire, car les loups-garous, ces féroces métamorphes voulant une profonde haine pour votre espèce, se cachent parmi ces arbres. Vous avez pris toutes les précautions possibles pour éviter d’attirer leur attention, mais cela n’a apparemment pas suffi. Alors qu'ils s'écrasent sur votre groupe avec leurs crocs et leurs griffes sortis, vous vous demandez comment ils ont pu connaître votre itinéraire ?\nVous êtes également une force avec laquelle il faut compter, et tandis que votre escorte meurt pour vous protéger, vous parvenez à vous frayer un chemin. à travers la horde bestiale. Les nuits et les jours suivants sont une période floue où vous vous cacherez du soleil dans n'importe quel endroit éloigné que vous pourrez trouver avant de finalement rejoindre votre refuge. Il est temps de comprendre ce qui s'est réellement passé là-bas..." #NT!
-  
- POD_murder_outcome.1004.t: "En cendres" #NT!
- POD_murder_outcome.1004.desc: "Outre le soleil, le plus grand ennemi de tout vampire pourrait être le feu. Et, malgré tous leurs efforts, il peut souvent être plus difficile de se cacher d’un matériau inflammable que des rayons de lumière. En tant que tel, vous envisagez de mettre le feu au refuge de votre cible.\nVous aurez besoin d'agents pour provoquer une agitation et de suffisamment de combustible pour vous assurer qu'absolument tout brûle. Il s’agit d’une solution potentielle brutale, bien que simple et efficace, pour se débarrasser de tout ce qui se trouve à l’intérieur du lieu." #NT!
- POD_murder_outcome.1004.a: "Trouvez-moi des pyromanes !" #NT!
- POD_murder_outcome.1004.b: "Ce n'est pas le moment" #NT!
-  
- POD_murder_outcome.2004.t: "En cendres" #NT!
- POD_murder_outcome.2004.opening_1: "L'opération a été lancée avec une solide efficacité. Un groupe de vos hommes a distrait certains gardes pendant que d'autres préparaient des torches et du combustible. Bientôt, tout l'endroit a brûlé.\nVos agents sont restés aussi longtemps qu'ils ont pu, et le rapport a révélé que personne n'est sorti de l'enfer car ils ont empêché toute aide d'arriver. Ils vous parlent d'un grand cri sauvage qui émanait d'en bas du havre. Espérons que ce soit le dernier dont vous entendrez parler [target.GetTitledFirstName]." #NT!
- POD_murder_outcome.2004.owner_is_known_1: "\n\nMalheureusement, l'un de vos agents a été capturé avant de pouvoir s'enfuir et a été contraint de révéler votre implication." #NT!
- POD_murder_outcome.2004.no_awareness_1: "\n\nVos agents se sont enfuis sans problème, cachant tout ce qui pourrait vous lier à ce stratagème." #NT!
- POD_murder_outcome.2004.a.discovered: "Je veux de l'eau à proximité partout dans mon refuge !" #NT!
- POD_murder_outcome.2004.a: "Cendres aux cendres" #NT!
-  
- murder_outcome.5001.vampire_fire: "Feu. La peur instinctive de votre espèce face à cet élément inconstant éveille pleinement vos sens au terrible danger dans lequel vous vous trouvez. D'une manière ou d'une autre, votre refuge brûle tout autour de vous. Un accident? Connaissant les nombreux ennemis que vous avez, probablement pas. Mais ce n'est pas le moment d'envisager cela.\nVous faites de votre mieux pour trouver un moyen de sortir de cet enfer flamboyant, mais en vain. Bientôt, votre Bête prend le dessus et court frénétiquement vers un coin. Il n'y a pas d'échappatoire et les flammes qui donnent la vie vous donneront bientôt la mort finale." #NT!
-  
- POD_murder_outcome.4004.t: "En cendres" #NT!
- POD_murder_outcome.4004.failure_declaration_1: "D'une manière ou d'une autre, #EMP, d'une manière ou d'une autre#!, [target.GetTitledFirstName] vit toujours !" #NT!
- POD_murder_outcome.4004.failed_attempt_1: "L'opération a été lancée avec une solide efficacité. Un groupe de vos hommes a distrait certains gardes pendant que d'autres préparaient des torches et du combustible. Bientôt, tout l'endroit brûla.\nCe n'était cependant pas suffisant, car vos agents furent bientôt déchirés par les [target.GetTitledFirstName] vengeurs qui réussirent à échapper à l'enfer flamboyant avant de s'enfuir plus profondément à l'intérieur de la ville. Vous avez perdu ce tour." #NT!
- POD_murder_outcome.4004.disastrous_attempt_1: "\n\nPire encore, un de vos agents a été capturé avant de pouvoir s'enfuir et a été contraint de révéler votre implication." #NT!
- POD_murder_outcome.4004.unknown_so_far: "\n\nVos agents se sont enfuis sans problème, cachant tout ce qui pourrait vous lier à ce stratagème, c'est donc un petit soulagement." #NT!
- POD_murder_outcome.4004.a: "Le début d’une vengeance enflammée ?" #NT!
- POD_murder_outcome.4004.b: "Juste un accident, évidemment." #NT!
-  
- murder_outcome.5002.vampire_fire: "Feu. La peur instinctive de votre espèce face à cet élément inconstant éveille pleinement vos sens au terrible danger dans lequel vous vous trouvez. D'une manière ou d'une autre, votre refuge brûle tout autour de vous. Un accident? Connaissant les nombreux ennemis que vous avez, probablement pas. Mais ce n'est pas le moment d'envisager cela.\nEn restant fort sous la pression, vous parvenez à trouver une issue à l'enfer sans trop de dégâts. En poussant un (inutile) soupir de soulagement par habitude, vous vous demandez s'il y a des indices dans les ruines fumantes sur ce qui s'est réellement passé ici..." #NT!
-  
- POD_murder_outcome.1005.t: "Une trahison soudaine mais attendue" #NT!
- POD_murder_outcome.1005.desc: "Il y a toujours un maillon faible dans le refuge d'un vampire. Il se peut que [ghoul|E] veuille être étreint, ou ce serviteur qui a été battu une fois de trop, ou même ce garde qui a des doutes sur le fait de servir un foutu Caïnite. Si vous parvenez à trouver ce maillon faible, il ne vous suffira que de faire en sorte que le cercueil du vampire voie la lumière du jour le matin.\nVous disposez de plusieurs informations sur le terrain de votre ennemi et vous pourriez les utiliser pour lancer une telle opération." #NT!
- POD_murder_outcome.1005.a: "Les soudoyer, les cajoler ou les menacer" #NT!
- POD_murder_outcome.1005.b: "Ce n'est pas le moment" #NT!
-  
- POD_murder_outcome.2005.t: "Une trahison soudaine mais attendue" #NT!
- POD_murder_outcome.2005.opening_1: "Un succès retentissant. Votre homme intérieur n'a jamais été retrouvé avant qu'il n'envoie astucieusement les gardes faire une course et s'assure que [target.GetTitledFirstName] soit face au soleil du matin.\nUn plan simple en fait, mais parfois cela suffit amplement." #NT!
- POD_murder_outcome.2005.owner_is_known_1: "\n\nMalheureusement, l'agonie de votre cible a été entendue assez loin et votre homme a été capturé avant de pouvoir s'enfuir. Vous avez été révélé comme le cerveau derrière ce stratagème." #NT!
- POD_murder_outcome.2005.no_awareness_1: "\n\nÉvidemment, vous avez pris soin de votre homme intérieur par la suite, en vous assurant que personne ne puisse connaître votre implication dans ce stratagème." #NT!
- POD_murder_outcome.2005.a.discovered: "Je l'aidais juste, rien de plus !" #NT!
- POD_murder_outcome.2005.a: "Une bonne aide est difficile à trouver de nos jours" #NT!
-  
- murder_outcome.5001.vampire_betrayal: "Vous êtes en train de mourir.\nC'est la première pensée qui vous vient à l'esprit lorsque le soleil brille sur votre visage... et vous transforme en une torche vivante. Comment vous êtes-vous retrouvé dans cette situation ?\nPuis vous le voyez. Ce humble garde, serviteur... ou [ghoul|E] ? qui vous regarde avec un air satisfait pendant que vous vous consommez. Quelqu'un a fait ça, quelqu'un a aidé ce traître pleurnicheur à vous tuer. Et ce quelqu’un est probablement en train de triompher en ce moment, profitant de votre disparition brûlante." #NT!
-  
- POD_murder_outcome.4005.t: "Une trahison soudaine mais attendue" #NT!
- POD_murder_outcome.4005.failure_declaration_1: "D'une manière ou d'une autre, #EMP, d'une manière ou d'une autre#!, [target.GetTitledFirstName] vit toujours !" #NT!
- POD_murder_outcome.4005.failed_attempt_1: "L'opération a été un désastre. Votre homme intérieur était maladroit et beaucoup trop évident dans ses intentions, ce qui l'a amené à être arrêté bien avant même de pouvoir s'approcher de votre cible." #NT!
- POD_murder_outcome.4005.disastrous_attempt_1: "\n\nPire encore, il a ensuite été capturé et a révélé votre implication dans ce stratagème." #NT!
- POD_murder_outcome.4005.unknown_so_far: "\n\nAu moins, il a réussi à s'échapper. Vous l'avez rapidement éliminé lorsqu'il a tenté de se réfugier dans votre tribunal, couvrant ainsi vos traces." #NT!
- POD_murder_outcome.4005.a: "Eh bien, c'est un revers" #NT!
- POD_murder_outcome.4005.b: "Tu ne peux faire confiance à personne ces jours-là" #NT!
-  
- murder_outcome.5002.vampire_betrayal: "Un de vos petits serviteurs s'est ridiculisé hier. Pendant votre sommeil, il a essayé de vous atteindre pour, apparemment, vous amener au soleil. Évidemment, vos gardes l'ont arrêté avant qu'il ne puisse faire des dégâts, mais cela soulève une question : travaillait-il seul ?\nVous pouvez imaginer la main de l'un de vos nombreux ennemis derrière cette faible tentative d'assassinat de votre non-vie..." #NT!
-  
- POD_murder_save.0001.t: "$murder_save_header$ Résistant au soleil" #NT!
- POD_murder_save.0001.desc: "[target.GetTitledFirstName] est toujours en vie !\n\nMon complot fonctionnait parfaitement et le soleil a commencé à brûler ma cible... mais même cela n'était pas suffisant. Utilisant leurs énormes pouvoirs physiques, [target.GetTitledFirstName] a simplement ignoré les rayons de lumière assez longtemps pour courir se cacher. Bientôt, les gardes revinrent pour aider leur seigneur et tout cela fut, à la fin, un échec retentissant." #NT!
- POD_murder_save.0001.a: "j'abandonne" #NT!
- POD_murder_save.0001.b: "Je dois réessayer !" #NT!
-  
- POD_murder_save.1001.t: "$murder_save_header$ Résistant au soleil" #NT!
- POD_murder_save.1001.desc: "Je me réveille par l'odeur de chair brûlée... ma propre chair. Le soleil est encore haut dans le ciel et, pour une raison mystérieuse, mon toit semble avoir disparu. Le résultat est rapide mais douloureux. Il ne faut pas jouer avec la malédiction de Dieu, et je me démène pour trouver un refuge alors que je m'enflamme comme une torche vivante.\nHeureusement, ma maîtrise des pouvoirs du sang est suffisante pour m'aider à endurer ce tourment assez longtemps pour trouver un abri. Mes gardes sont bientôt à mes côtés et le danger est écarté... du moins pour le moment. Ce n’était clairement pas un hasard." #NT!
- POD_murder_save.1001.a: "Je vais trouver qui a fait ça !" #NT!
- POD_murder_save.1001.b: "Il est évident qui était derrière tout ça !" #NT!
-  
- POD_murder_save.0002.t: "$murder_save_header$ Accident de chasse" #NT!
- POD_murder_save.0002.desc: "« Terrible » nouvelle, car [target.GetTitledFirstName] semble avoir été la cible des chasseurs récemment. Un groupe de mortels expérimentés a réussi à localiser leur position et a lancé un assaut à grande échelle sur le refuge.\nMalheureusement, ils n'étaient pas à la hauteur des terribles prouesses au combat que possède [target.GetTitledFirstName], et ont été facilement éliminés. Toute votre intrigue est un échec." #NT!
- POD_murder_save.0002.a: "j'abandonne" #NT!
- POD_murder_save.0002.b: "Je dois réessayer !" #NT!
-  
- POD_murder_save.1002.t: "$murder_save_header$ Accident de chasse" #NT!
- POD_murder_save.1002.desc: "Même si les attaques des chasseurs ne sont pas rares, celle-ci vous a pris par surprise. Il n'y a eu aucun avertissement, aucun reniflement de la part de l'un d'entre eux essayant de localiser votre refuge, seulement une attaque soudaine et précise, comme s'ils savaient... Mais vous n'avez pas le temps de trop réfléchir à la question pour le moment, car votre non-vie est en jeu.\nVous êtes cependant plus que capable de vous débrouiller seul, et bientôt ces chasseurs ne représentent plus que des partenaires d'entraînement réticents. Et vous savez vous entraîner durement." #NT!
- POD_murder_save.1002.a: "Je vais trouver qui a fait ça !" #NT!
- POD_murder_save.1002.b: "Il est évident qui était derrière tout ça !" #NT!
-  
- POD_murder_save.0003.t: "$murder_save_header$ Danse avec les loups" #NT!
- POD_murder_save.0003.desc: "Les loups-garous sont tout simplement fiables dans leur haine des vampires. Même le plus petit indice d'une mort potentielle était suffisant pour les envoyer préparer une embuscade à grande échelle contre votre cible.\nMalheureusement, cela n'a pas suffi, car votre cible a utilisé ses pouvoirs sauvages considérables pour confondre les Lupins suffisamment longtemps pour trouver une évasion. Ce complot a été déjoué." #NT!
- POD_murder_save.0003.a: "j'abandonne" #NT!
- POD_murder_save.0003.b: "Je dois réessayer !" #NT!
-  
- POD_murder_save.1003.t: "$murder_save_header$ Danse avec les loups" #NT!
- POD_murder_save.1003.desc: "Un voyage à proximité d'une forêt est toujours une perspective dangereuse pour un vampire, car les loups-garous, ces féroces métamorphes voulant une profonde haine pour votre espèce, se cachent parmi ces arbres. Vous avez pris toutes les précautions possibles pour éviter d’attirer leur attention, mais cela n’a apparemment pas suffi. Alors qu'ils s'abattent sur votre groupe avec les crocs et les griffes tirés, vous vous demandez comment ils ont pu connaître votre itinéraire ?\nHeureusement, vous contrôlez de puissants pouvoirs sauvages, vous permettant de confondre les Lupins suffisamment longtemps pour que vous trouviez une évasion. Encore un appel serré." #NT!
- POD_murder_save.1003.a: "Je vais trouver qui a fait ça !" #NT!
- POD_murder_save.1003.b: "Il est évident qui était derrière tout ça !" #NT!
-  
- POD_murder_save.0004.t: "$murder_save_header$ Ignifuge" #NT!
- POD_murder_save.0004.desc: "L'opération a été lancée avec une solide efficacité. Un groupe de vos hommes a distrait certains gardes pendant que d'autres préparaient des torches et du combustible. Bientôt, tout l'endroit brûlait.\nMais pas assez vite pour vraiment inquiéter votre cible. Grâce à leurs pouvoirs considérables, ils parviennent à repousser le feu et à échapper rapidement à l'enfer avant qu'il ne soit trop tard. Ce plan n'a pas fonctionné." #NT!
- POD_murder_save.0004.a: "j'abandonne" #NT!
- POD_murder_save.0004.b: "Je dois réessayer !" #NT!
-  
- POD_murder_save.1004.t: "$murder_save_header$ Ignifuge" #NT!
- POD_murder_save.1004.desc: "Feu. La peur instinctive de votre espèce face à cet élément inconstant éveille pleinement vos sens au terrible danger dans lequel vous vous trouvez. D'une manière ou d'une autre, votre refuge brûle tout autour de vous. Un accident? Connaissant les nombreux ennemis que vous avez, probablement pas. Mais ce n'est pas le moment d'envisager cela.\nGrâce à vos pouvoirs physiques considérables, vous êtes cependant capable de repousser le feu assez longtemps pour échapper à l'enfer brûlant. Cela reste néanmoins un appel serré." #NT!
- POD_murder_save.1004.a: "Je vais trouver qui a fait ça !" #NT!
- POD_murder_save.1004.b: "Il est évident qui était derrière tout ça !" #NT!
-  
- POD_murder_save.0005.t: "$murder_save_header$ Trahison attendue" #NT!
- POD_murder_save.0005.desc: "Eh bien, cela n'a pas fonctionné. [target.GetTitledFirstName] semblait d'une manière ou d'une autre être au courant de la trahison imminente, peut-être grâce à ses pouvoirs prophétiques considérables. Votre agent a été arrêté avant même d'avoir pu réellement mettre le plan à exécution. Tout cela n’a servi à rien." #NT!
- POD_murder_save.0005.a: "j'abandonne" #NT!
- POD_murder_save.0005.b: "Je dois réessayer !" #NT!
-  
- POD_murder_save.1005.t: "$murder_save_header$ Trahison attendue" #NT!
- POD_murder_save.1005.desc: "Averti par vos pouvoirs prophétiques considérables, vous avez pu avoir connaissance d'un complot visant votre non-vie. Un de vos serviteurs mineurs prévoyait de vous déplacer pendant votre journée de sommeil afin que vous soyez face au soleil, vous tuant probablement dans le processus.\nVous avez eu affaire à lui, mais la conspiration va probablement plus loin qu'un simple serviteur mécontent..." #NT!
- POD_murder_save.1005.a: "Je vais trouver qui a fait ça !" #NT!
- POD_murder_save.1005.b: "Il est évident qui était derrière tout ça !" #NT!
-  
- POD_murder_save.0006.t: "$murder_save_header$ Victoire sans faille" #NT!
- POD_murder_save.0006.desc: "Utiliser un assassin, même si ce n’était pas une mauvaise idée en soi, était probablement un plan voué à l’échec dès le départ. Aucune préparation ne pourrait suffire contre une centrale aussi puissante que [target.GetTitledFirstName]. Malgré l'effet de surprise et l'exécution minutieuse du plan, les assassins ont été facilement massacrés avant de pouvoir faire du mal.\nIl semble que vous aurez besoin de plus que la force brute." #NT!
- POD_murder_save.0006.a: "j'abandonne" #NT!
- POD_murder_save.0006.b: "Je dois réessayer !" #NT!
-  
- POD_murder_save.1006.t: "$murder_save_header$ Victoire sans faille" #NT!
- POD_murder_save.1006.desc: "Des imbéciles ont essayé de te tuer ce soir. Eh bien, ils sont morts maintenant, car vous avez été plus que capable de les éliminer facilement grâce à vos formidables prouesses au combat.\nCela soulève toujours la question : qui a planifié cet assaut ? Leur prochaine attaque pourrait ne pas être aussi facile à gérer..." #NT!
- POD_murder_save.1006.a: "Je vais trouver qui a fait ça !" #NT!
- POD_murder_save.1006.b: "Il est évident qui était derrière tout ça !" #NT!
-  
- POD_murder_save.0007.t: "$murder_save_header$ Personnalité charmante" #NT!
- POD_murder_save.0007.desc: "Cette idée d'émeute aurait pu bien fonctionner... si [target.GetTitledFirstName] n'était pas un praticien aussi compétent en magie mentale. Rendant facilement la foule en leur faveur, ils ont rapidement fait face à toute hostilité et sont revenus indemnes à leur cour.\nTrop charmant pour mourir de cette façon, vraiment." #NT!
- POD_murder_save.0007.a: "j'abandonne" #NT!
- POD_murder_save.0007.b: "Je dois réessayer !" #NT!
-  
- POD_murder_save.1007.t: "$murder_save_header$ Personnalité charmante" #NT!
- POD_murder_save.1007.desc: "Un incident mineur s'est produit cette nuit, au cours duquel les mortels de la région se sont insurgés contre vous pour quelque chose... ou par quelqu'un. Grâce à vos pouvoirs mentaux considérables, vous les avez affrontés facilement, mais la question de l'instigateur demeure.\nS'il s'agissait d'une sorte de complot, leur prochaine attaque pourrait être plus dangereuse que celle-ci." #NT!
- POD_murder_save.1007.a: "Je vais trouver qui a fait ça !" #NT!
- POD_murder_save.1007.b: "Il est évident qui était derrière tout ça !" #NT!
-  
- POD_murder_save_physical: "Il est peu probable que cette méthode de meurtre fonctionne contre des défenses physiques solides, par exemple Fortitude Advanced." #NT!
- POD_murder_save_perception: "Il est peu probable que cette méthode de meurtre fonctionne contre de fortes défenses de conscience, par exemple Auspex Advanced." #NT!
- POD_murder_save_fighter: "Il est peu probable que cette méthode de meurtre fonctionne contre des combattants puissants ayant un score de prouesse élevé." #NT!
- POD_murder_save_charisma: "Il est peu probable que cette méthode de meurtre fonctionne contre de fortes défenses de charisme, par exemple Présence Advanced." #NT!
-  
+    POD_murder_outcome.1001.t: "Voir le soleil"
+    POD_murder_outcome.1001.desc: "Tuer des vampires est, à la base, assez facile. Le soleil le fera sans faute à chaque fois. La partie la plus délicate est de s'assurer que la cible est à l'extérieur lorsque les rayons de lumière de Dieu bénissent ce monde.\nPour celui-ci, vous avez choisi la méthode de « démolition ». Pas besoin de déplacer le vampire endormi si le toit lui-même est retiré pendant la nuit. Vous n'avez besoin que de bons hommes capables de créer une diversion dans le refuge pour que votre équipe d'experts puisse se mettre au travail.\nQu'est-ce qui pourrait mal tourner ?"
+    POD_murder_outcome.1001.a: "Un classique, vraiment"
+    POD_murder_outcome.1001.b: "Ce n'est pas le moment"
+
+    POD_murder_outcome.2001.t: "Voir le soleil"
+    POD_murder_outcome.2001.opening_1: "[target.GetTitledFirstName] devrait vous remercier, s'ils le pouvaient, car de nombreux Caïnites rêvent de revoir le Soleil après leur [Embrace|E]. Eh bien, peut-être pas en étant réveillé par ses cris et ses saccades, et probablement en se demandant « où diable est mon toit ?! ». Mais hé, personne n’a dit que la non-vie était facile."
+    POD_murder_outcome.2001.owner_is_known_1: "\n\nMalheureusement, un de vos agents a été retrouvé avec un morceau de toit assez compromettant dans les mains avant de pouvoir quitter le refuge. Il a rapidement révélé votre implication dans toute cette affaire."
+    POD_murder_outcome.2001.no_awareness_1: "\n\nVos agents étant partis depuis longtemps avant que le reste du refuge puisse se rassembler, il n'y a rien qui puisse vous incriminer."
+    POD_murder_outcome.2001.a.discovered: "Il est temps de vérifier mon propre toit."
+    POD_murder_outcome.2001.a: "Louer le soleil!"
+
+    murder_outcome.5001.vampire_sun: "Je suis réveillé par l'odeur de chair brûlée... ma propre chair. Le soleil est encore haut dans le ciel et, pour une raison mystérieuse, mon toit semble avoir disparu. Le résultat est rapide mais douloureux. Il ne faut pas jouer avec la malédiction de Dieu, et je me démène pour trouver un refuge alors que je m'enflamme comme une torche vivante.\nMon effort frénétique arrive trop peu, trop tard, et je me transforme bientôt en cendres enflammées."
+
+    POD_murder_outcome.4001.t: "Voir le soleil"
+    POD_murder_outcome.4001.failure_declaration_1: "D'une manière ou d'une autre, #EMP, d'une manière ou d'une autre#!, [target.GetTitledFirstName] vit toujours !"
+    POD_murder_outcome.4001.failed_attempt_1: "Mes agents ont réussi à créer une diversion, mais pas assez longtemps pour que mon équipe de démolition puisse faire un trou dans le toit visiblement bien renforcé de ma cible."
+    POD_murder_outcome.4001.disastrous_attempt_1: "\n\nAssez vite, les gardes sont arrivés et ont arrêté certains de mes hommes, révélant ainsi mon implication dans toute cette affaire."
+    POD_murder_outcome.4001.unknown_so_far: "\n\nLorsque les gardes sont apparus, mes hommes ont pu s'échapper, cachant au moins mon implication dans tout ce stratagème."
+    POD_murder_outcome.4001.a: "C'était juste une inspection planifiée du toit, je le jure !"
+    POD_murder_outcome.4001.b: "On ne trouve pas de bons constructeurs de nos jours."
+
+    murder_outcome.5002.vampire_sun: "Je me réveille par l'odeur de chair brûlée... ma propre chair. Le soleil est encore haut dans le ciel et, pour une raison mystérieuse, mon toit semble avoir disparu. Le résultat est rapide mais douloureux. Il ne faut pas jouer avec la malédiction de Dieu, et je me démène pour trouver un refuge alors que je prends feu comme une torche vivante.\nMon salut réside dans une grange voisine où je m'assois dans un coin sombre après avoir éteint les flammes. Ce n'est pas une façon très digne de passer la journée, mais cela signifie quand même que je survivrai au moins pour le moment."
+
+    POD_murder_outcome.1002.t: "Chasseurs Chasseurs"
+    POD_murder_outcome.1002.desc: "De nombreuses personnes aiment tuer des vampires et il existe même des organisations dédiées à cette cause. Ils vont du simple désagrément à de dignes ennemis, mais peut-être pourraient-ils aussi être utiles dans l'affaire de ce soir. Si vous deviez divulguer l'emplacement du refuge de votre cible à des tiers intéressés, vous pourriez être sûr que quelque chose se produirait.\nCela pourrait être un bon moyen de ne pas trop s'impliquer, tout en s'assurant que l'acte est accompli. Qui a dit que les mortels étaient inutiles contre les vampires ? Bien guidé, chacun a un rôle à jouer..."
+    POD_murder_outcome.1002.a: "Je suis le marionnettiste"
+    POD_murder_outcome.1002.b: "Ce n'est pas le moment"
+
+    POD_murder_outcome.2002.t: "Chasseurs Chasseurs"
+    POD_murder_outcome.2002.opening_1: "« Terrible » nouvelle, car [target.GetTitledFirstName] semble avoir été la cible des chasseurs récemment. Un groupe de mortels expérimentés semble avoir localisé leur position et lancé un assaut à grande échelle sur le refuge.\nIls n'ont laissé derrière eux que les ruines en feu et les cadavres fumants des défenseurs, y compris celui de votre victime. C'est vraiment une tragédie, n'ont-ils pas honte ?"
+    POD_murder_outcome.2002.owner_is_known_1: "\n\nMalheureusement, l'un des chasseurs a été capturé lors de leur évasion et a révélé votre implication dans la découverte 'miraculeuse' du refuge..."
+    POD_murder_outcome.2002.no_awareness_1: "\n\nLes chasseurs ayant réussi à s'en sortir proprement, rien ne peut vous incriminer dans cette affaire."
+    POD_murder_outcome.2002.a.discovered: "J'aidais juste !"
+    POD_murder_outcome.2002.a: "Transmettez mes salutations aux héritiers"
+
+    murder_outcome.5001.vampire_hunters: "Même si les attaques des chasseurs ne sont pas rares, celle-ci vous a pris par surprise. Il n'y a eu aucun avertissement, aucun reniflement de la part de l'un d'entre eux essayant de localiser votre refuge, seulement une attaque soudaine et précise, comme s'ils savaient... Mais vous n'avez pas le temps de trop réfléchir à la question pour le moment, car votre non-vie est en jeu.\nMalgré tous vos efforts, ils sont trop nombreux et trop bien organisés... et ils semblent également posséder des alliés surnaturels, confirmant que quelqu'un est derrière cette attaque. Mais c'est trop peu, trop tard, et vous pouvez espérer qu'ils regretteront eux-mêmes d'avoir joué avec les chasseurs une nuit."
+
+    POD_murder_outcome.4002.t: "Chasseurs Chasseurs"
+    POD_murder_outcome.4002.failure_declaration_1: "D'une manière ou d'une autre, #EMP, d'une manière ou d'une autre#!, [target.GetTitledFirstName] vit toujours !"
+    POD_murder_outcome.4002.failed_attempt_1: "« Terrible » nouvelle, car [target.GetTitledFirstName] semble avoir été la cible des chasseurs récemment. Un groupe de mortels expérimentés a réussi à localiser leur position et à lancer un assaut à grande échelle sur le refuge.\nMême cela n'a pas suffi, et les solides défenses du refuge ont réussi à repousser cette attaque, laissant tout ce plan un échec retentissant."
+    POD_murder_outcome.4002.disastrous_attempt_1: "\n\nPire encore, certains chasseurs ont été capturés, et ont immédiatement révélé tout ce qu'ils savaient, au point de donner le nom d'un de mes contacts..."
+    POD_murder_outcome.4002.unknown_so_far: "\n\nAu moins, les chasseurs qui ont survécu ont pu s'échapper, s'assurant que personne ne puisse connaître mon implication."
+    POD_murder_outcome.4002.a: "Dois-je tout faire moi-même ?"
+    POD_murder_outcome.4002.b: "En réalité, les mortels ne servent à rien."
+
+    murder_outcome.5002.vampire_hunters: "Même si les attaques des chasseurs ne sont pas rares, celle-ci vous a pris par surprise. Il n'y a eu aucun avertissement, aucun reniflement de la part de l'un d'entre eux essayant de localiser votre refuge, seulement une attaque soudaine et précise, comme s'ils savaient... Mais vous n'avez pas le temps de trop réfléchir à la question pour le moment, car votre non-vie est en jeu.\nHeureusement, les défenses de votre refuge étaient bien planifiées et suffisantes pour repousser même cela. Ce fut une bataille acharnée, avec quelques coups serrés ici et là, mais rien qui puisse vraiment vous faire reculer. Maintenant, pour découvrir ce qui s'est réellement passé..."
+
+    POD_murder_outcome.1003.t: "Des loups à leur porte"
+    POD_murder_outcome.1003.desc: "Même des prédateurs aussi terribles que les vampires peuvent devenir des proies de temps en temps. Tel est le cas des redoutés « lupins », ou loups-garous, ces féroces métamorphes voués à une haine profonde et rassasiée envers les sangsues. C'est quelque chose que vous pourriez utiliser.\nEn divulguant des informations sur un prochain voyage de votre cible près d'une zone boisée, vous pourriez vous assurer que son groupe serait attaqué. Alors, la sauvagerie et les redoutables prouesses au combat de ces bêtes pourraient suffire à résoudre le problème à votre place."
+    POD_murder_outcome.1003.a: "Libérez les chiens de guerre !"
+    POD_murder_outcome.1003.b: "Ce n'est pas le moment"
+
+    POD_murder_outcome.2003.t: "Des loups à leur porte"
+    POD_murder_outcome.2003.opening_1: "Les loups-garous sont tout simplement fiables dans leur haine des vampires. Même le plus petit signe d'une mort potentielle était suffisant pour les envoyer préparer une embuscade à grande échelle sur votre cible.\nCe fut, comme prévu, un massacre. Les puissantes bêtes n'ont fait qu'une bouchée des défenseurs, et même si vous ne savez pas exactement ce qui est arrivé au [target.GetTitledFirstName], vous pariez que cela a été rapide mais sanglant et douloureux."
+    POD_murder_outcome.2003.owner_is_known_1: "\n\nMalheureusement, plus près de chez nous, un de vos agents qui servait d'intermédiaire auprès des lupins a été capturé et a révélé votre implication dans l'embuscade."
+    POD_murder_outcome.2003.no_awareness_1: "\n\nNi les héritiers de votre cible ni les loups-garous eux-mêmes n'ont la moindre idée de votre implication."
+    POD_murder_outcome.2003.a.discovered: "L'ennemi de mon ennemi..."
+    POD_murder_outcome.2003.a: "Bons chiens."
+
+    murder_outcome.5001.vampire_werewolves: "Un voyage à proximité d'une forêt est toujours une perspective dangereuse pour un vampire, car les loups-garous, ces féroces métamorphes voulant une profonde haine pour votre espèce, se cachent parmi ces arbres. Vous avez pris toutes les précautions possibles pour éviter d’attirer leur attention, mais cela n’a apparemment pas suffi. Alors qu'ils s'abattent sur votre groupe avec les crocs et les griffes tirés, vous vous demandez comment ils ont pu connaître votre itinéraire ?\nVous n'aurez probablement jamais la réponse, car les lupins submergent facilement votre escorte et se rapprochent de vous. Malgré vos formidables pouvoirs, vous ne pouvez pas faire grand-chose contre un si grand nombre de tueurs assoiffés de sang. Vous serez une victime de plus dans la guerre sans fin entre vos races."
+
+    POD_murder_outcome.4003.t: "Des loups à leur porte"
+    POD_murder_outcome.4003.failure_declaration_1: "D'une manière ou d'une autre, #EMP, d'une manière ou d'une autre#!, [target.GetTitledFirstName] vit toujours !"
+    POD_murder_outcome.4003.failed_attempt_1: "Les loups-garous sont tout simplement fiables dans leur haine des vampires. Même le plus petit signe d'une mort potentielle était suffisant pour les envoyer préparer une embuscade à grande échelle contre votre cible.\nMalheureusement, même si la bataille a été âprement menée, votre cible a réussi à se frayer un chemin pour sortir de l'embuscade et est réapparue plusieurs nuits plus tard à leur refuge, toujours vivant et en bonne santé. Il semble qu’il en faudra plus pour s’en débarrasser."
+    POD_murder_outcome.4003.disastrous_attempt_1: "\n\nPire encore, plus près de chez nous, un de vos agents qui servait d'intermédiaire auprès des lupins a été capturé et a révélé votre implication dans l'embuscade."
+    POD_murder_outcome.4003.unknown_so_far: "\n\nNi votre cible ni les loups-garous eux-mêmes n'ont la moindre idée de votre implication, c'est donc un petit soulagement."
+    POD_murder_outcome.4003.a: "L’ennemi de mon ennemi semble inutile."
+    POD_murder_outcome.4003.b: "Mauvais chiens !"
+
+    murder_outcome.5002.vampire_werewolves: "Un voyage à proximité d'une forêt est toujours une perspective dangereuse pour un vampire, car les loups-garous, ces féroces métamorphes voulant une profonde haine pour votre espèce, se cachent parmi ces arbres. Vous avez pris toutes les précautions possibles pour éviter d’attirer leur attention, mais cela n’a apparemment pas suffi. Alors qu'ils s'écrasent sur votre groupe avec leurs crocs et leurs griffes sortis, vous vous demandez comment ils ont pu connaître votre itinéraire ?\nVous êtes également une force avec laquelle il faut compter, et tandis que votre escorte meurt pour vous protéger, vous parvenez à vous frayer un chemin. à travers la horde bestiale. Les nuits et les jours suivants sont une période floue où vous vous cacherez du soleil dans n'importe quel endroit éloigné que vous pourrez trouver avant de finalement rejoindre votre refuge. Il est temps de comprendre ce qui s'est réellement passé là-bas..."
+
+    POD_murder_outcome.1004.t: "En cendres"
+    POD_murder_outcome.1004.desc: "Outre le soleil, le plus grand ennemi de tout vampire pourrait être le feu. Et, malgré tous leurs efforts, il peut souvent être plus difficile de se cacher d’un matériau inflammable que des rayons de lumière. En tant que tel, vous envisagez de mettre le feu au refuge de votre cible.\nVous aurez besoin d'agents pour provoquer une agitation et de suffisamment de combustible pour vous assurer qu'absolument tout brûle. Il s’agit d’une solution potentielle brutale, bien que simple et efficace, pour se débarrasser de tout ce qui se trouve à l’intérieur du lieu."
+    POD_murder_outcome.1004.a: "Trouvez-moi des pyromanes !"
+    POD_murder_outcome.1004.b: "Ce n'est pas le moment"
+
+    POD_murder_outcome.2004.t: "En cendres"
+    POD_murder_outcome.2004.opening_1: "L'opération a été lancée avec une solide efficacité. Un groupe de vos hommes a distrait certains gardes pendant que d'autres préparaient des torches et du combustible. Bientôt, tout l'endroit a brûlé.\nVos agents sont restés aussi longtemps qu'ils ont pu, et le rapport a révélé que personne n'est sorti de l'enfer car ils ont empêché toute aide d'arriver. Ils vous parlent d'un grand cri sauvage qui émanait d'en bas du havre. Espérons que ce soit le dernier dont vous entendrez parler [target.GetTitledFirstName]."
+    POD_murder_outcome.2004.owner_is_known_1: "\n\nMalheureusement, l'un de vos agents a été capturé avant de pouvoir s'enfuir et a été contraint de révéler votre implication."
+    POD_murder_outcome.2004.no_awareness_1: "\n\nVos agents se sont enfuis sans problème, cachant tout ce qui pourrait vous lier à ce stratagème."
+    POD_murder_outcome.2004.a.discovered: "Je veux de l'eau à proximité partout dans mon refuge !"
+    POD_murder_outcome.2004.a: "Cendres aux cendres"
+
+    murder_outcome.5001.vampire_fire: "Feu. La peur instinctive de votre espèce face à cet élément inconstant éveille pleinement vos sens au terrible danger dans lequel vous vous trouvez. D'une manière ou d'une autre, votre refuge brûle tout autour de vous. Un accident? Connaissant les nombreux ennemis que vous avez, probablement pas. Mais ce n'est pas le moment d'envisager cela.\nVous faites de votre mieux pour trouver un moyen de sortir de cet enfer flamboyant, mais en vain. Bientôt, votre Bête prend le dessus et court frénétiquement vers un coin. Il n'y a pas d'échappatoire et les flammes qui donnent la vie vous donneront bientôt la mort finale."
+
+    POD_murder_outcome.4004.t: "En cendres"
+    POD_murder_outcome.4004.failure_declaration_1: "D'une manière ou d'une autre, #EMP, d'une manière ou d'une autre#!, [target.GetTitledFirstName] vit toujours !"
+    POD_murder_outcome.4004.failed_attempt_1: "L'opération a été lancée avec une solide efficacité. Un groupe de vos hommes a distrait certains gardes pendant que d'autres préparaient des torches et du combustible. Bientôt, tout l'endroit brûla.\nCe n'était cependant pas suffisant, car vos agents furent bientôt déchirés par les [target.GetTitledFirstName] vengeurs qui réussirent à échapper à l'enfer flamboyant avant de s'enfuir plus profondément à l'intérieur de la ville. Vous avez perdu ce tour."
+    POD_murder_outcome.4004.disastrous_attempt_1: "\n\nPire encore, un de vos agents a été capturé avant de pouvoir s'enfuir et a été contraint de révéler votre implication."
+    POD_murder_outcome.4004.unknown_so_far: "\n\nVos agents se sont enfuis sans problème, cachant tout ce qui pourrait vous lier à ce stratagème, c'est donc un petit soulagement."
+    POD_murder_outcome.4004.a: "Le début d’une vengeance enflammée ?"
+    POD_murder_outcome.4004.b: "Juste un accident, évidemment."
+
+    murder_outcome.5002.vampire_fire: "Feu. La peur instinctive de votre espèce face à cet élément inconstant éveille pleinement vos sens au terrible danger dans lequel vous vous trouvez. D'une manière ou d'une autre, votre refuge brûle tout autour de vous. Un accident? Connaissant les nombreux ennemis que vous avez, probablement pas. Mais ce n'est pas le moment d'envisager cela.\nEn restant fort sous la pression, vous parvenez à trouver une issue à l'enfer sans trop de dégâts. En poussant un (inutile) soupir de soulagement par habitude, vous vous demandez s'il y a des indices dans les ruines fumantes sur ce qui s'est réellement passé ici..."
+
+    POD_murder_outcome.1005.t: "Une trahison soudaine mais attendue"
+    POD_murder_outcome.1005.desc: "Il y a toujours un maillon faible dans le refuge d'un vampire. Il se peut que [ghoul|E] veuille être étreint, ou ce serviteur qui a été battu une fois de trop, ou même ce garde qui a des doutes sur le fait de servir un foutu Caïnite. Si vous parvenez à trouver ce maillon faible, il ne vous suffira que de faire en sorte que le cercueil du vampire voie la lumière du jour le matin.\nVous disposez de plusieurs informations sur le terrain de votre ennemi et vous pourriez les utiliser pour lancer une telle opération."
+    POD_murder_outcome.1005.a: "Les soudoyer, les cajoler ou les menacer"
+    POD_murder_outcome.1005.b: "Ce n'est pas le moment"
+
+    POD_murder_outcome.2005.t: "Une trahison soudaine mais attendue"
+    POD_murder_outcome.2005.opening_1: "Un succès retentissant. Votre homme intérieur n'a jamais été retrouvé avant qu'il n'envoie astucieusement les gardes faire une course et s'assure que [target.GetTitledFirstName] soit face au soleil du matin.\nUn plan simple en fait, mais parfois cela suffit amplement."
+    POD_murder_outcome.2005.owner_is_known_1: "\n\nMalheureusement, l'agonie de votre cible a été entendue assez loin et votre homme a été capturé avant de pouvoir s'enfuir. Vous avez été révélé comme le cerveau derrière ce stratagème."
+    POD_murder_outcome.2005.no_awareness_1: "\n\nÉvidemment, vous avez pris soin de votre homme intérieur par la suite, en vous assurant que personne ne puisse connaître votre implication dans ce stratagème."
+    POD_murder_outcome.2005.a.discovered: "Je l'aidais juste, rien de plus !"
+    POD_murder_outcome.2005.a: "Une bonne aide est difficile à trouver de nos jours"
+
+    murder_outcome.5001.vampire_betrayal: "Vous êtes en train de mourir.\nC'est la première pensée qui vous vient à l'esprit lorsque le soleil brille sur votre visage... et vous transforme en une torche vivante. Comment vous êtes-vous retrouvé dans cette situation ?\nPuis vous le voyez. Ce humble garde, serviteur... ou [ghoul|E] ? qui vous regarde avec un air satisfait pendant que vous vous consommez. Quelqu'un a fait ça, quelqu'un a aidé ce traître pleurnicheur à vous tuer. Et ce quelqu’un est probablement en train de triompher en ce moment, profitant de votre disparition brûlante."
+
+    POD_murder_outcome.4005.t: "Une trahison soudaine mais attendue"
+    POD_murder_outcome.4005.failure_declaration_1: "D'une manière ou d'une autre, #EMP, d'une manière ou d'une autre#!, [target.GetTitledFirstName] vit toujours !"
+    POD_murder_outcome.4005.failed_attempt_1: "L'opération a été un désastre. Votre homme intérieur était maladroit et beaucoup trop évident dans ses intentions, ce qui l'a amené à être arrêté bien avant même de pouvoir s'approcher de votre cible."
+    POD_murder_outcome.4005.disastrous_attempt_1: "\n\nPire encore, il a ensuite été capturé et a révélé votre implication dans ce stratagème."
+    POD_murder_outcome.4005.unknown_so_far: "\n\nAu moins, il a réussi à s'échapper. Vous l'avez rapidement éliminé lorsqu'il a tenté de se réfugier dans votre tribunal, couvrant ainsi vos traces."
+    POD_murder_outcome.4005.a: "Eh bien, c'est un revers"
+    POD_murder_outcome.4005.b: "Tu ne peux faire confiance à personne ces jours-là"
+
+    murder_outcome.5002.vampire_betrayal: "Un de vos petits serviteurs s'est ridiculisé hier. Pendant votre sommeil, il a essayé de vous atteindre pour, apparemment, vous amener au soleil. Évidemment, vos gardes l'ont arrêté avant qu'il ne puisse faire des dégâts, mais cela soulève une question : travaillait-il seul ?\nVous pouvez imaginer la main de l'un de vos nombreux ennemis derrière cette faible tentative d'assassinat de votre non-vie..."
+
+    POD_murder_save.0001.t: "$murder_save_header$ Résistant au soleil"
+    POD_murder_save.0001.desc: "[target.GetTitledFirstName] est toujours en vie !\n\nMon complot fonctionnait parfaitement et le soleil a commencé à brûler ma cible... mais même cela n'était pas suffisant. Utilisant leurs énormes pouvoirs physiques, [target.GetTitledFirstName] a simplement ignoré les rayons de lumière assez longtemps pour courir se cacher. Bientôt, les gardes revinrent pour aider leur seigneur et tout cela fut, à la fin, un échec retentissant."
+    POD_murder_save.0001.a: "j'abandonne"
+    POD_murder_save.0001.b: "Je dois réessayer !"
+
+    POD_murder_save.1001.t: "$murder_save_header$ Résistant au soleil"
+    POD_murder_save.1001.desc: "Je me réveille par l'odeur de chair brûlée... ma propre chair. Le soleil est encore haut dans le ciel et, pour une raison mystérieuse, mon toit semble avoir disparu. Le résultat est rapide mais douloureux. Il ne faut pas jouer avec la malédiction de Dieu, et je me démène pour trouver un refuge alors que je m'enflamme comme une torche vivante.\nHeureusement, ma maîtrise des pouvoirs du sang est suffisante pour m'aider à endurer ce tourment assez longtemps pour trouver un abri. Mes gardes sont bientôt à mes côtés et le danger est écarté... du moins pour le moment. Ce n’était clairement pas un hasard."
+    POD_murder_save.1001.a: "Je vais trouver qui a fait ça !"
+    POD_murder_save.1001.b: "Il est évident qui était derrière tout ça !"
+
+    POD_murder_save.0002.t: "$murder_save_header$ Accident de chasse"
+    POD_murder_save.0002.desc: "« Terrible » nouvelle, car [target.GetTitledFirstName] semble avoir été la cible des chasseurs récemment. Un groupe de mortels expérimentés a réussi à localiser leur position et a lancé un assaut à grande échelle sur le refuge.\nMalheureusement, ils n'étaient pas à la hauteur des terribles prouesses au combat que possède [target.GetTitledFirstName], et ont été facilement éliminés. Toute votre intrigue est un échec."
+    POD_murder_save.0002.a: "j'abandonne"
+    POD_murder_save.0002.b: "Je dois réessayer !"
+
+    POD_murder_save.1002.t: "$murder_save_header$ Accident de chasse"
+    POD_murder_save.1002.desc: "Même si les attaques des chasseurs ne sont pas rares, celle-ci vous a pris par surprise. Il n'y a eu aucun avertissement, aucun reniflement de la part de l'un d'entre eux essayant de localiser votre refuge, seulement une attaque soudaine et précise, comme s'ils savaient... Mais vous n'avez pas le temps de trop réfléchir à la question pour le moment, car votre non-vie est en jeu.\nVous êtes cependant plus que capable de vous débrouiller seul, et bientôt ces chasseurs ne représentent plus que des partenaires d'entraînement réticents. Et vous savez vous entraîner durement."
+    POD_murder_save.1002.a: "Je vais trouver qui a fait ça !"
+    POD_murder_save.1002.b: "Il est évident qui était derrière tout ça !"
+
+    POD_murder_save.0003.t: "$murder_save_header$ Danse avec les loups"
+    POD_murder_save.0003.desc: "Les loups-garous sont tout simplement fiables dans leur haine des vampires. Même le plus petit indice d'une mort potentielle était suffisant pour les envoyer préparer une embuscade à grande échelle contre votre cible.\nMalheureusement, cela n'a pas suffi, car votre cible a utilisé ses pouvoirs sauvages considérables pour confondre les Lupins suffisamment longtemps pour trouver une évasion. Ce complot a été déjoué."
+    POD_murder_save.0003.a: "j'abandonne"
+    POD_murder_save.0003.b: "Je dois réessayer !"
+
+    POD_murder_save.1003.t: "$murder_save_header$ Danse avec les loups"
+    POD_murder_save.1003.desc: "Un voyage à proximité d'une forêt est toujours une perspective dangereuse pour un vampire, car les loups-garous, ces féroces métamorphes voulant une profonde haine pour votre espèce, se cachent parmi ces arbres. Vous avez pris toutes les précautions possibles pour éviter d’attirer leur attention, mais cela n’a apparemment pas suffi. Alors qu'ils s'abattent sur votre groupe avec les crocs et les griffes tirés, vous vous demandez comment ils ont pu connaître votre itinéraire ?\nHeureusement, vous contrôlez de puissants pouvoirs sauvages, vous permettant de confondre les Lupins suffisamment longtemps pour que vous trouviez une évasion. Encore un appel serré."
+    POD_murder_save.1003.a: "Je vais trouver qui a fait ça !"
+    POD_murder_save.1003.b: "Il est évident qui était derrière tout ça !"
+
+    POD_murder_save.0004.t: "$murder_save_header$ Ignifuge"
+    POD_murder_save.0004.desc: "L'opération a été lancée avec une solide efficacité. Un groupe de vos hommes a distrait certains gardes pendant que d'autres préparaient des torches et du combustible. Bientôt, tout l'endroit brûlait.\nMais pas assez vite pour vraiment inquiéter votre cible. Grâce à leurs pouvoirs considérables, ils parviennent à repousser le feu et à échapper rapidement à l'enfer avant qu'il ne soit trop tard. Ce plan n'a pas fonctionné."
+    POD_murder_save.0004.a: "j'abandonne"
+    POD_murder_save.0004.b: "Je dois réessayer !"
+
+    POD_murder_save.1004.t: "$murder_save_header$ Ignifuge"
+    POD_murder_save.1004.desc: "Feu. La peur instinctive de votre espèce face à cet élément inconstant éveille pleinement vos sens au terrible danger dans lequel vous vous trouvez. D'une manière ou d'une autre, votre refuge brûle tout autour de vous. Un accident? Connaissant les nombreux ennemis que vous avez, probablement pas. Mais ce n'est pas le moment d'envisager cela.\nGrâce à vos pouvoirs physiques considérables, vous êtes cependant capable de repousser le feu assez longtemps pour échapper à l'enfer brûlant. Cela reste néanmoins un appel serré."
+    POD_murder_save.1004.a: "Je vais trouver qui a fait ça !"
+    POD_murder_save.1004.b: "Il est évident qui était derrière tout ça !"
+
+    POD_murder_save.0005.t: "$murder_save_header$ Trahison attendue"
+    POD_murder_save.0005.desc: "Eh bien, cela n'a pas fonctionné. [target.GetTitledFirstName] semblait d'une manière ou d'une autre être au courant de la trahison imminente, peut-être grâce à ses pouvoirs prophétiques considérables. Votre agent a été arrêté avant même d'avoir pu réellement mettre le plan à exécution. Tout cela n’a servi à rien."
+    POD_murder_save.0005.a: "j'abandonne"
+    POD_murder_save.0005.b: "Je dois réessayer !"
+
+    POD_murder_save.1005.t: "$murder_save_header$ Trahison attendue"
+    POD_murder_save.1005.desc: "Averti par vos pouvoirs prophétiques considérables, vous avez pu avoir connaissance d'un complot visant votre non-vie. Un de vos serviteurs mineurs prévoyait de vous déplacer pendant votre journée de sommeil afin que vous soyez face au soleil, vous tuant probablement dans le processus.\nVous avez eu affaire à lui, mais la conspiration va probablement plus loin qu'un simple serviteur mécontent..."
+    POD_murder_save.1005.a: "Je vais trouver qui a fait ça !"
+    POD_murder_save.1005.b: "Il est évident qui était derrière tout ça !"
+
+    POD_murder_save.0006.t: "$murder_save_header$ Victoire sans faille"
+    POD_murder_save.0006.desc: "Utiliser un assassin, même si ce n’était pas une mauvaise idée en soi, était probablement un plan voué à l’échec dès le départ. Aucune préparation ne pourrait suffire contre une centrale aussi puissante que [target.GetTitledFirstName]. Malgré l'effet de surprise et l'exécution minutieuse du plan, les assassins ont été facilement massacrés avant de pouvoir faire du mal.\nIl semble que vous aurez besoin de plus que la force brute."
+    POD_murder_save.0006.a: "j'abandonne"
+    POD_murder_save.0006.b: "Je dois réessayer !"
+
+    POD_murder_save.1006.t: "$murder_save_header$ Victoire sans faille"
+    POD_murder_save.1006.desc: "Des imbéciles ont essayé de te tuer ce soir. Eh bien, ils sont morts maintenant, car vous avez été plus que capable de les éliminer facilement grâce à vos formidables prouesses au combat.\nCela soulève toujours la question : qui a planifié cet assaut ? Leur prochaine attaque pourrait ne pas être aussi facile à gérer..."
+    POD_murder_save.1006.a: "Je vais trouver qui a fait ça !"
+    POD_murder_save.1006.b: "Il est évident qui était derrière tout ça !"
+
+    POD_murder_save.0007.t: "$murder_save_header$ Personnalité charmante"
+    POD_murder_save.0007.desc: "Cette idée d'émeute aurait pu bien fonctionner... si [target.GetTitledFirstName] n'était pas un praticien aussi compétent en magie mentale. Rendant facilement la foule en leur faveur, ils ont rapidement fait face à toute hostilité et sont revenus indemnes à leur cour.\nTrop charmant pour mourir de cette façon, vraiment."
+    POD_murder_save.0007.a: "j'abandonne"
+    POD_murder_save.0007.b: "Je dois réessayer !"
+
+    POD_murder_save.1007.t: "$murder_save_header$ Personnalité charmante"
+    POD_murder_save.1007.desc: "Un incident mineur s'est produit cette nuit, au cours duquel les mortels de la région se sont insurgés contre vous pour quelque chose... ou par quelqu'un. Grâce à vos pouvoirs mentaux considérables, vous les avez affrontés facilement, mais la question de l'instigateur demeure.\nS'il s'agissait d'une sorte de complot, leur prochaine attaque pourrait être plus dangereuse que celle-ci."
+    POD_murder_save.1007.a: "Je vais trouver qui a fait ça !"
+    POD_murder_save.1007.b: "Il est évident qui était derrière tout ça !"
+
+    POD_murder_save_physical: "Il est peu probable que cette méthode de meurtre fonctionne contre des défenses physiques solides, par exemple Fortitude Advanced."
+    POD_murder_save_perception: "Il est peu probable que cette méthode de meurtre fonctionne contre de fortes défenses de conscience, par exemple Auspex Advanced."
+    POD_murder_save_fighter: "Il est peu probable que cette méthode de meurtre fonctionne contre des combattants puissants ayant un score de prouesse élevé."
+    POD_murder_save_charisma: "Il est peu probable que cette méthode de meurtre fonctionne contre de fortes défenses de charisme, par exemple Présence Advanced."

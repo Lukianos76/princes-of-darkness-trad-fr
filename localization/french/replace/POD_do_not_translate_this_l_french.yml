@@ -1,16 +1,16 @@
 ﻿l_french:
- foreign_affairs_name: "affaires_étrangères_visible" #NT!
- family_name: "famille_visible" #NT!
- majesty_name: "majesté_visible" #NT!
- strategy_name: "stratégie_visible" #NT!
- authority_name: "autorité_visible" #NT!
- chivalry_name: "chevalerie_visible" #NT!
- skulduggery_name: "skulduggery_visible" #NT!
- temptation_name: "tentation_visible" #NT!
- intimidation_name: "intimidation_visible" #NT!
- domain_name: "domaine_visible" #NT!
- duty_name: "devoir_visible" #NT!
- wealth_name: "richesse_visible" #NT!
- theology_name: "théologie_visible" #NT!
- medicine_name: "médecine_visible" #NT!
- scholarship_name: "bourse_visible" #NT!
+    foreign_affairs_name: "affaires_étrangères_visible"
+    family_name: "famille_visible"
+    majesty_name: "majesté_visible"
+    strategy_name: "stratégie_visible"
+    authority_name: "autorité_visible"
+    chivalry_name: "chevalerie_visible"
+    skulduggery_name: "skulduggery_visible"
+    temptation_name: "tentation_visible"
+    intimidation_name: "intimidation_visible"
+    domain_name: "domaine_visible"
+    duty_name: "devoir_visible"
+    wealth_name: "richesse_visible"
+    theology_name: "théologie_visible"
+    medicine_name: "médecine_visible"
+    scholarship_name: "bourse_visible"

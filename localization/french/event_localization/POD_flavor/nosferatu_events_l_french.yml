@@ -1,83 +1,83 @@
 ﻿l_french:
   
- podnosferatu.1.t: "Horreurs dans le noir" #NT!
- podnosferatu.1.desc: "Le clan Nosferatu est doublement maudit. La malédiction évidente est visible sur leur personne mais la seconde est plus insidieuse.\nLe fondateur du [Clan|E], Absimilliard, pense que ce n'est qu'en tuant toute sa lignée qu'il sera pardonné par Caïn. À cette fin, il créa un petit groupe de infants fanatiquement dévoués, connus collectivement sous le nom de Nictuku. Leur seul but est de tuer autant de Nosferatu que possible et ils y parviennent malheureusement assez efficacement.\nEn tant que tels, les Nosferatu vivent une non-vie de peur et de paranoïa, regardant toujours derrière leur épaule, espérant ne pas voir les célèbres croque-mitaines prêts à mettre fin à leur existence." #NT!
- podnosferatu.1.a: "Ils ne m'attraperont pas !" #NT!
- nosferatu_intro_tt: "Peut-être que les Nictuku interféreront dans votre non-vie à l'avenir. Ou peut être pas. Qui sait?" #NT!
+ podnosferatu.1.t: "Horreurs dans le noir"
+ podnosferatu.1.desc: "Le clan Nosferatu est doublement maudit. La malédiction évidente est visible sur leur personne mais la seconde est plus insidieuse.\nLe fondateur du [Clan|E], Absimilliard, pense que ce n'est qu'en tuant toute sa lignée qu'il sera pardonné par Caïn. À cette fin, il créa un petit groupe de infants fanatiquement dévoués, connus collectivement sous le nom de Nictuku. Leur seul but est de tuer autant de Nosferatu que possible et ils y parviennent malheureusement assez efficacement.\nEn tant que tels, les Nosferatu vivent une non-vie de peur et de paranoïa, regardant toujours derrière leur épaule, espérant ne pas voir les célèbres croque-mitaines prêts à mettre fin à leur existence."
+ podnosferatu.1.a: "Ils ne m'attraperont pas !"
+ nosferatu_intro_tt: "Peut-être que les Nictuku interféreront dans votre non-vie à l'avenir. Ou peut être pas. Qui sait?"
   
- nictuku_well_prepared_modifier: "Paranoïa Nictuku" #NT!
- nictuku_well_prepared_modifier_desc: "Ils arrivent. ILS ARRIVENT!" #NT!
- nictuku_well_prepared_tt: "Si quelque chose arrive réellement, vous y serez bien préparé." #NT!
+ nictuku_well_prepared_modifier: "Paranoïa Nictuku"
+ nictuku_well_prepared_modifier_desc: "Ils arrivent. ILS ARRIVENT!"
+ nictuku_well_prepared_tt: "Si quelque chose arrive réellement, vous y serez bien préparé."
   
- nictuku_prepared_modifier: "Peur Nictuku" #NT!
- nictuku_prepared_modifier_desc: "Nous devrions être prêts, espérons-le." #NT!
- nictuku_prepared_tt: "Si quelque chose arrive réellement, vous y serez quelque peu préparé." #NT!
+ nictuku_prepared_modifier: "Peur Nictuku"
+ nictuku_prepared_modifier_desc: "Nous devrions être prêts, espérons-le."
+ nictuku_prepared_tt: "Si quelque chose arrive réellement, vous y serez quelque peu préparé."
   
- podnosferatu.3.t: "Horreurs dans le noir : Brumes mortelles" #NT!
- podnosferatu.3.desc: "Les gens signalent une augmentation soudaine et inexpliquée des disparitions dans votre région. Cela semble être lié à la météo avec un brouillard dense et inattendu qui rend les voyages particulièrement difficiles.\nVos amis Nosferatu commencent à murmurer que le redoutable Nictuku, Abraxes, pourrait être à proximité car il est connu sous le nom de "Seigneur des Brumes". Vos courtisans les plus pondérés rejettent simplement la faute sur les attaques habituelles de Lupin et rejettent toute cause de réelle inquiétude." #NT!
- podnosferatu.3.a: "Barricadez tout !" #NT!
- podnosferatu.3.b: "Soyons... prudents" #NT!
- podnosferatu.3.c: "Contes de fées et croque-mitaines." #NT!
+ podnosferatu.3.t: "Horreurs dans le noir : Brumes mortelles"
+ podnosferatu.3.desc: "Les gens signalent une augmentation soudaine et inexpliquée des disparitions dans votre région. Cela semble être lié à la météo avec un brouillard dense et inattendu qui rend les voyages particulièrement difficiles.\nVos amis Nosferatu commencent à murmurer que le redoutable Nictuku, Abraxes, pourrait être à proximité car il est connu sous le nom de "Seigneur des Brumes". Vos courtisans les plus pondérés rejettent simplement la faute sur les attaques habituelles de Lupin et rejettent toute cause de réelle inquiétude."
+ podnosferatu.3.a: "Barricadez tout !"
+ podnosferatu.3.b: "Soyons... prudents"
+ podnosferatu.3.c: "Contes de fées et croque-mitaines."
   
- podnosferatu.30.t: "Horreurs dans le noir : Abraxes" #NT!
- podnosferatu.30.desc: "Les mystérieuses disparitions autour de votre région se poursuivent et le brouillard ne se dissipe pas. Vos agents les plus fiables sont désormais ciblés et il y a de moins en moins de doutes sur le fait qu'un Nictuku vous traque, éliminant lentement tous les obstacles sur son chemin avant de vous lancer dans la mise à mort.\nVous n'avez pas encore fini cependant et vous connaissez maintenant le danger du Dans cette situation, vous pourriez réorganiser vos actifs et, avec un peu de chance, vous débarrasser de cette horreur ancienne.\nOu vous pourriez simplement vous enfuir et vous cacher dans un trou." #NT!
- podnosferatu.30.a: "Je peux les déjouer." #NT!
- podnosferatu.30.effect.success.desc: "Ils abandonnent !" #NT!
- podnosferatu.30.critical.failure.effect.desc: "Pourquoi y a-t-il du brouillard dans ma salle du trône ?" #NT!
+ podnosferatu.30.t: "Horreurs dans le noir : Abraxes"
+ podnosferatu.30.desc: "Les mystérieuses disparitions autour de votre région se poursuivent et le brouillard ne se dissipe pas. Vos agents les plus fiables sont désormais ciblés et il y a de moins en moins de doutes sur le fait qu'un Nictuku vous traque, éliminant lentement tous les obstacles sur son chemin avant de vous lancer dans la mise à mort.\nVous n'avez pas encore fini cependant et vous connaissez maintenant le danger du Dans cette situation, vous pourriez réorganiser vos actifs et, avec un peu de chance, vous débarrasser de cette horreur ancienne.\nOu vous pourriez simplement vous enfuir et vous cacher dans un trou."
+ podnosferatu.30.a: "Je peux les déjouer."
+ podnosferatu.30.effect.success.desc: "Ils abandonnent !"
+ podnosferatu.30.critical.failure.effect.desc: "Pourquoi y a-t-il du brouillard dans ma salle du trône ?"
   
- podnosferatu.4.t: "Horreurs dans le noir : des abominations ?" #NT!
- podnosferatu.4.desc: "Les mortels de votre domaine signalent de plus en plus d'observations de ce qu'ils décrivent comme des « abominations infernales ». Cet événement soudain et inexpliqué pour vous a poussé de nombreux chasseurs potentiels à affluer dans la région.\nLa plupart de vos courtisans soutiennent que cela est simplement dû au comportement laxiste de certains vampires (ou autres créatures) disparus. ) mais vos camarades Nosferatu sont moins confiants, partageant que fouetter les mortels dans une frénésie est une tactique connue du Nictuku Azazel. Ils militent pour prendre plus directement le contrôle de la situation, quitte à devoir laver le cerveau de certains mortels et ainsi s'exposer pendant un certain temps." #NT!
- podnosferatu.4.a: "Assumer un contrôle directe." #NT!
+ podnosferatu.4.t: "Horreurs dans le noir : des abominations ?"
+ podnosferatu.4.desc: "Les mortels de votre domaine signalent de plus en plus d'observations de ce qu'ils décrivent comme des « abominations infernales ». Cet événement soudain et inexpliqué pour vous a poussé de nombreux chasseurs potentiels à affluer dans la région.\nLa plupart de vos courtisans soutiennent que cela est simplement dû au comportement laxiste de certains vampires (ou autres créatures) disparus. ) mais vos camarades Nosferatu sont moins confiants, partageant que fouetter les mortels dans une frénésie est une tactique connue du Nictuku Azazel. Ils militent pour prendre plus directement le contrôle de la situation, quitte à devoir laver le cerveau de certains mortels et ainsi s'exposer pendant un certain temps."
+ podnosferatu.4.a: "Assumer un contrôle directe."
   
- podnosferatu.40.t: "Horreurs dans le noir : Azazel" #NT!
- podnosferatu.40.desc: "De nombreux chasseurs se sont rués sur votre domaine, à la recherche des « abominations » que l'on dénonce depuis plusieurs années. Il y en a trop pour les ignorer et votre influence est paralysée à mesure que la suspicion s’installe dans toute la région. Il ne fait aucun doute qu'il s'agit d'un effort concerté contre vous, probablement pour vous isoler avant de vous tuer.\nIl y a une dernière tentative que vous pourriez faire, en apparaissant comme une figure d'autorité cléricale respectée pour expliquer ces " observations infernales" aux mortels. Peut-être qu'alors la situation se résoudra d'elle-même.\nOu vous pourriez simplement vous enfuir et faire profil bas jusqu'à ce que le Nictuku abandonne." #NT!
- podnosferatu.40.a: "Pas de panique !" #NT!
- podnosferatu.40.critical.failure.effect.desc: "Je ne fais pas partie des abominations ! Arrêt!" #NT!
+ podnosferatu.40.t: "Horreurs dans le noir : Azazel"
+ podnosferatu.40.desc: "De nombreux chasseurs se sont rués sur votre domaine, à la recherche des « abominations » que l'on dénonce depuis plusieurs années. Il y en a trop pour les ignorer et votre influence est paralysée à mesure que la suspicion s’installe dans toute la région. Il ne fait aucun doute qu'il s'agit d'un effort concerté contre vous, probablement pour vous isoler avant de vous tuer.\nIl y a une dernière tentative que vous pourriez faire, en apparaissant comme une figure d'autorité cléricale respectée pour expliquer ces " observations infernales" aux mortels. Peut-être qu'alors la situation se résoudra d'elle-même.\nOu vous pourriez simplement vous enfuir et faire profil bas jusqu'à ce que le Nictuku abandonne."
+ podnosferatu.40.a: "Pas de panique !"
+ podnosferatu.40.critical.failure.effect.desc: "Je ne fais pas partie des abominations ! Arrêt!"
   
- podnosferatu.5.t: "Horreurs dans le noir : Mort et décadence" #NT!
- podnosferatu.5.desc: "Les mortels meurent. Bien qu’il ne s’agisse pas exactement d’un phénomène nouveau, le grand nombre de décès récents dus à des maladies dans votre domaine vous inquiète. Vos courtisans affirment qu’il s’agit d’un fléau, comme on en souffre souvent à notre époque, et qu’il disparaîtra d’ici peu. Vos frères Nosferatu répondent cependant que ce « fléau » semble trop concentré sur votre région pour être une véritable affaire. Ils racontent l'histoire de Nictuku Echidna, la mère de Decay, et comment tout ce qu'elle approche pourrira et s'effondrera en poussière. Leur solution serait de mettre en quarantaine très strictement les zones touchées, ce qui pourrait contribuer à perturber les mouvements d'Echidna mais paralyserait également la communauté locale." #NT!
- podnosferatu.5.a: "Ne laissez aucun mortel errer dans nos rues." #NT!
+ podnosferatu.5.t: "Horreurs dans le noir : Mort et décadence"
+ podnosferatu.5.desc: "Les mortels meurent. Bien qu’il ne s’agisse pas exactement d’un phénomène nouveau, le grand nombre de décès récents dus à des maladies dans votre domaine vous inquiète. Vos courtisans affirment qu’il s’agit d’un fléau, comme on en souffre souvent à notre époque, et qu’il disparaîtra d’ici peu. Vos frères Nosferatu répondent cependant que ce « fléau » semble trop concentré sur votre région pour être une véritable affaire. Ils racontent l'histoire de Nictuku Echidna, la mère de Decay, et comment tout ce qu'elle approche pourrira et s'effondrera en poussière. Leur solution serait de mettre en quarantaine très strictement les zones touchées, ce qui pourrait contribuer à perturber les mouvements d'Echidna mais paralyserait également la communauté locale."
+ podnosferatu.5.a: "Ne laissez aucun mortel errer dans nos rues."
   
- podnosferatu.50.t: "Horreurs dans le noir : Echidna" #NT!
- podnosferatu.50.desc: "Il n'y a plus de concours, le redoutable Nictuku Echidna vous cible. En infectant vos mortels avec sa puissante décomposition, elle a veillé à vous isoler de vos troupeaux et de votre influence dans les villes voisines. Il est tout à fait clair qu'elle va bientôt vous attaquer directement.\nIl est encore temps de contrecarrer ses plans, car les guérisseurs ambulants ont commencé à essayer d'aider la population locale. Si vous deviez les aider et les guider avec succès, la principale méthode d’Echidna pour vous isoler échouerait." #NT!
- podnosferatu.50.a: "Ils obtiendront tout ce dont ils ont besoin." #NT!
- podnosferatu.50.critical.failure.effect.desc: "Pourquoi ça sent si mauvais tout d'un coup ?" #NT!
+ podnosferatu.50.t: "Horreurs dans le noir : Echidna"
+ podnosferatu.50.desc: "Il n'y a plus de concours, le redoutable Nictuku Echidna vous cible. En infectant vos mortels avec sa puissante décomposition, elle a veillé à vous isoler de vos troupeaux et de votre influence dans les villes voisines. Il est tout à fait clair qu'elle va bientôt vous attaquer directement.\nIl est encore temps de contrecarrer ses plans, car les guérisseurs ambulants ont commencé à essayer d'aider la population locale. Si vous deviez les aider et les guider avec succès, la principale méthode d’Echidna pour vous isoler échouerait."
+ podnosferatu.50.a: "Ils obtiendront tout ce dont ils ont besoin."
+ podnosferatu.50.critical.failure.effect.desc: "Pourquoi ça sent si mauvais tout d'un coup ?"
   
- podnosferatu.6.t: "Horreurs dans le noir : Guerre des ombres" #NT!
- podnosferatu.6.desc: "Quelqu'un a récemment ciblé vos actifs. Ce rival, quel qu'il soit, a racheté vos contacts mortels utiles et même certains vampires avant de les retourner contre vous. Cela n'en est qu'à ses balbutiements et vous avez le temps de réagir, mais cela pourrait coûter cher.\nVos courtisans recherchent qui pourrait être ce nouveau rival potentiel, mais vos frères Nosferatu chuchotent à propos d'une silhouette sombre utilisant un déguisement angélique pour tromper et corrompre. vos anciens contacts. Ils parlent du Nictuku, Gayomart, et vous préviennent que cela pourrait être la première étape de son attaque contre vous." #NT!
- podnosferatu.6.a: "Plus d’or résoudra le problème." #NT!
+ podnosferatu.6.t: "Horreurs dans le noir : Guerre des ombres"
+ podnosferatu.6.desc: "Quelqu'un a récemment ciblé vos actifs. Ce rival, quel qu'il soit, a racheté vos contacts mortels utiles et même certains vampires avant de les retourner contre vous. Cela n'en est qu'à ses balbutiements et vous avez le temps de réagir, mais cela pourrait coûter cher.\nVos courtisans recherchent qui pourrait être ce nouveau rival potentiel, mais vos frères Nosferatu chuchotent à propos d'une silhouette sombre utilisant un déguisement angélique pour tromper et corrompre. vos anciens contacts. Ils parlent du Nictuku, Gayomart, et vous préviennent que cela pourrait être la première étape de son attaque contre vous."
+ podnosferatu.6.a: "Plus d’or résoudra le problème."
   
- podnosferatu.60.t: "Horreurs dans le noir : Gayomart" #NT!
- podnosferatu.60.desc: "Il n'y a plus de débat : vous êtes habilement coupé de vos contacts mortels et de vos alliés vampiriques par une personnalité invisible de votre domaine. Les Nosferatu de votre région insistent sur le fait que c'est l'œuvre de Gayomart, le séduisant Nictuku, et qu'il agira bientôt directement contre vous maintenant que vous êtes isolé.\nIl est encore temps d'agir cependant, et vous pourriez déployer votre toile d'intrigue. complètement pour vous assurer que vous auriez toujours des alliés à qui faire appel en cas d'attaque. Ou vous pourriez vous enfuir, en espérant fuir avant qu'il ne soit trop tard." #NT!
- podnosferatu.60.a: "J'ai encore des cartes à jouer." #NT!
- podnosferatu.60.critical.failure.effect.desc: "Seul dans le noir..." #NT!
+ podnosferatu.60.t: "Horreurs dans le noir : Gayomart"
+ podnosferatu.60.desc: "Il n'y a plus de débat : vous êtes habilement coupé de vos contacts mortels et de vos alliés vampiriques par une personnalité invisible de votre domaine. Les Nosferatu de votre région insistent sur le fait que c'est l'œuvre de Gayomart, le séduisant Nictuku, et qu'il agira bientôt directement contre vous maintenant que vous êtes isolé.\nIl est encore temps d'agir cependant, et vous pourriez déployer votre toile d'intrigue. complètement pour vous assurer que vous auriez toujours des alliés à qui faire appel en cas d'attaque. Ou vous pourriez vous enfuir, en espérant fuir avant qu'il ne soit trop tard."
+ podnosferatu.60.a: "J'ai encore des cartes à jouer."
+ podnosferatu.60.critical.failure.effect.desc: "Seul dans le noir..."
   
- nictuku_knight_large_modifier: "Paranoïa Nictuku" #NT!
- nictuku_knight_large_modifier_desc: "Vos champions sont occupés à chasser un fantôme. Peut-être littéralement." #NT!
- nictuku_knight_modifier: "Peur Nictuku" #NT!
- nictuku_knight_modifier_desc: "Vos champions sont occupés à chasser un fantôme. Peut-être littéralement." #NT!
+ nictuku_knight_large_modifier: "Paranoïa Nictuku"
+ nictuku_knight_large_modifier_desc: "Vos champions sont occupés à chasser un fantôme. Peut-être littéralement."
+ nictuku_knight_modifier: "Peur Nictuku"
+ nictuku_knight_modifier_desc: "Vos champions sont occupés à chasser un fantôme. Peut-être littéralement."
   
- podnosferatu.7.t: "Horreurs dans le noir : guérilla" #NT!
- podnosferatu.7.desc: "Quelqu'un a récemment pris pour cible vos forces armées et certains de vos contacts mortels dans l'armée ont été retrouvés mystérieusement morts. Même les soldats ordinaires que vous payez ont soudainement peur de travailler pour vous, parlant d'un terrible chasseur qui s'attaque spécifiquement à ceux qui travaillent avec vous.\nVos courtisans parlent d'un nouveau rival potentiel essayant de vous saper, mais ce n'est pas le cas de vos frères Nosferatu. convaincu. Ils chuchotent à propos de Gorgo, celle qui crie dans les ténèbres, une puissante Nictuku connue pour utiliser de telles tactiques. Ils vous invitent à utiliser tous les moyens considérables à votre disposition pour la ralentir." #NT!
- podnosferatu.7.a: "Trouve-la!" #NT!
+ podnosferatu.7.t: "Horreurs dans le noir : guérilla"
+ podnosferatu.7.desc: "Quelqu'un a récemment pris pour cible vos forces armées et certains de vos contacts mortels dans l'armée ont été retrouvés mystérieusement morts. Même les soldats ordinaires que vous payez ont soudainement peur de travailler pour vous, parlant d'un terrible chasseur qui s'attaque spécifiquement à ceux qui travaillent avec vous.\nVos courtisans parlent d'un nouveau rival potentiel essayant de vous saper, mais ce n'est pas le cas de vos frères Nosferatu. convaincu. Ils chuchotent à propos de Gorgo, celle qui crie dans les ténèbres, une puissante Nictuku connue pour utiliser de telles tactiques. Ils vous invitent à utiliser tous les moyens considérables à votre disposition pour la ralentir."
+ podnosferatu.7.a: "Trouve-la!"
   
- podnosferatu.70.t: "Horreurs dans le noir : Gorgo" #NT!
- podnosferatu.70.desc: "Après des années de guérilla menée par le légendaire Nictuku Gorgo, votre contrôle sur les forces armées de votre domaine a considérablement diminué. De nouveaux gardes non éprouvés se tiennent devant votre salle du trône et la peur peut être vue sur les visages des Nosferatu présents ce soir. Cela doit cesser.\nVous pouvez rassembler vos forces restantes et organiser une chasse aux Nictuku à l'échelle du domaine pour éliminer (ou au moins forcer à fuir) Gorgo pour de bon. Ou vous pourriez vous enfuir et fuir, peut-être en espérant ainsi éviter la vengeance des Nictuku pour une nuit de plus." #NT!
- podnosferatu.70.a: "Nous allons la traquer !" #NT!
- podnosferatu.70.critical.failure.effect.desc: "C'était une très mauvaise idée..." #NT!
+ podnosferatu.70.t: "Horreurs dans le noir : Gorgo"
+ podnosferatu.70.desc: "Après des années de guérilla menée par le légendaire Nictuku Gorgo, votre contrôle sur les forces armées de votre domaine a considérablement diminué. De nouveaux gardes non éprouvés se tiennent devant votre salle du trône et la peur peut être vue sur les visages des Nosferatu présents ce soir. Cela doit cesser.\nVous pouvez rassembler vos forces restantes et organiser une chasse aux Nictuku à l'échelle du domaine pour éliminer (ou au moins forcer à fuir) Gorgo pour de bon. Ou vous pourriez vous enfuir et fuir, peut-être en espérant ainsi éviter la vengeance des Nictuku pour une nuit de plus."
+ podnosferatu.70.a: "Nous allons la traquer !"
+ podnosferatu.70.critical.failure.effect.desc: "C'était une très mauvaise idée..."
   
- podnosferatu.8.t: "Horreurs dans le noir : le Faucheur" #NT!
- podnosferatu.8.desc: "Des meurtres de grizzlis ont été signalés récemment dans votre domaine. Bien qu'aucun modèle perceptible n'ait pu être trouvé jusqu'à présent, il semble se cacher autour de vos intérêts et a lentement commencé à faire en sorte que vos contacts habituels et vos sources d'influence hésitent à travailler avec vous.\nVos courtisans parlent d'un vampire potentiel disparu devenu sauvage ou peut-être d'un autre type de créature entièrement. Vos frères Nosferatu soulignent cependant que certains jeunes membres de votre clan ont déjà été tués de cette manière et vous demandent de prendre des mesures considérables contre cette menace. Ils murmurent que cela pourrait être l’œuvre d’un redoutable Nictuku." #NT!
- podnosferatu.8.a: "Regardez partout !" #NT!
+ podnosferatu.8.t: "Horreurs dans le noir : le Faucheur"
+ podnosferatu.8.desc: "Des meurtres de grizzlis ont été signalés récemment dans votre domaine. Bien qu'aucun modèle perceptible n'ait pu être trouvé jusqu'à présent, il semble se cacher autour de vos intérêts et a lentement commencé à faire en sorte que vos contacts habituels et vos sources d'influence hésitent à travailler avec vous.\nVos courtisans parlent d'un vampire potentiel disparu devenu sauvage ou peut-être d'un autre type de créature entièrement. Vos frères Nosferatu soulignent cependant que certains jeunes membres de votre clan ont déjà été tués de cette manière et vous demandent de prendre des mesures considérables contre cette menace. Ils murmurent que cela pourrait être l’œuvre d’un redoutable Nictuku."
+ podnosferatu.8.a: "Regardez partout !"
   
- podnosferatu.80.t: "Horreurs dans le noir : Illuyankas" #NT!
- podnosferatu.80.desc: "Il n’y a aucun doute, vous êtes la cible d’un Nictuku. Les érudits de Nosferatu pensent qu'il pourrait s'agir d'Illuyankas, le Faucheur, connu pour ses meurtres sanglants contre quiconque s'opposait à son objectif. Vous le traquez depuis un certain temps maintenant, mais vous n'avez pas réussi à l'arrêter.\nIl vous reste deux options : lui préparer un piège et, si possible, le combattre avec l'aide de vos champions. Ou simplement fuir au loin pendant un moment jusqu'à ce qu'il perde votre odeur." #NT!
- podnosferatu.80.a: "Nous restons debout et combattons !" #NT!
- podnosferatu.80.critical.failure.effect.desc: "Nous nous sommes levés et nous nous sommes battus..." #NT!
+ podnosferatu.80.t: "Horreurs dans le noir : Illuyankas"
+ podnosferatu.80.desc: "Il n’y a aucun doute, vous êtes la cible d’un Nictuku. Les érudits de Nosferatu pensent qu'il pourrait s'agir d'Illuyankas, le Faucheur, connu pour ses meurtres sanglants contre quiconque s'opposait à son objectif. Vous le traquez depuis un certain temps maintenant, mais vous n'avez pas réussi à l'arrêter.\nIl vous reste deux options : lui préparer un piège et, si possible, le combattre avec l'aide de vos champions. Ou simplement fuir au loin pendant un moment jusqu'à ce qu'il perde votre odeur."
+ podnosferatu.80.a: "Nous restons debout et combattons !"
+ podnosferatu.80.critical.failure.effect.desc: "Nous nous sommes levés et nous nous sommes battus..."
   
- podnosferatu.9.t: "Horreurs dans le noir : le monstre" #NT!
- podnosferatu.9.desc: "Des observations étranges vous ont été rapportées récemment. Un horrible monstre ressemblant à un cheval a apparemment commencé à se déchaîner non loin de votre zone d'influence. Vos courtisans recherchent des indices sur l'identité de cette créature, affirmant qu'il pourrait s'agir d'une race de métamorphe jusqu'ici inédite. Vos frères Nosferatu ne sont cependant pas convaincus et parlent à voix basse de Nuckalavee, un Nictuku redouté sous la forme d'un tel monstre. Ils demandent que des mesures drastiques soient prises pour vous protéger (et eux) de sa colère s'il venait dans votre direction." #NT!
- podnosferatu.9.a: "Préparez nos défenses !" #NT!
+ podnosferatu.9.t: "Horreurs dans le noir : le monstre"
+ podnosferatu.9.desc: "Des observations étranges vous ont été rapportées récemment. Un horrible monstre ressemblant à un cheval a apparemment commencé à se déchaîner non loin de votre zone d'influence. Vos courtisans recherchent des indices sur l'identité de cette créature, affirmant qu'il pourrait s'agir d'une race de métamorphe jusqu'ici inédite. Vos frères Nosferatu ne sont cependant pas convaincus et parlent à voix basse de Nuckalavee, un Nictuku redouté sous la forme d'un tel monstre. Ils demandent que des mesures drastiques soient prises pour vous protéger (et eux) de sa colère s'il venait dans votre direction."
+ podnosferatu.9.a: "Préparez nos défenses !"
   
- podnosferatu.90.t: "Horreurs dans le noir : Nuckalavee" #NT!
- podnosferatu.90.desc: "Le monstre semblable à un cheval dont vous avez entendu parler il y a plusieurs années s'est avéré être un problème beaucoup plus important que vous ne le pensiez initialement. Son schéma d'attaques quelque peu aléatoire rendait difficile sa localisation et sa grande force apparente rendait encore plus difficile de le maîtriser. Après avoir dévasté la région (et particulièrement ciblé Nosferatu), il s'approche maintenant de votre domaine.\nLes deux options qui vous restent sont claires : préparez votre meilleure défense et affrontez-le sur le champ de bataille ou fuyez en espérant qu'il perde votre trace." #NT!
+ podnosferatu.90.t: "Horreurs dans le noir : Nuckalavee"
+ podnosferatu.90.desc: "Le monstre semblable à un cheval dont vous avez entendu parler il y a plusieurs années s'est avéré être un problème beaucoup plus important que vous ne le pensiez initialement. Son schéma d'attaques quelque peu aléatoire rendait difficile sa localisation et sa grande force apparente rendait encore plus difficile de le maîtriser. Après avoir dévasté la région (et particulièrement ciblé Nosferatu), il s'approche maintenant de votre domaine.\nLes deux options qui vous restent sont claires : préparez votre meilleure défense et affrontez-le sur le champ de bataille ou fuyez en espérant qu'il perde votre trace."

@@ -1,146 +1,146 @@
 ﻿l_french:
- tab_ventrue_ephorate: "#T Éphorate de Ventrue#!" #NT!
+ tab_ventrue_ephorate: "#T Éphorate de Ventrue#!"
   
- ventrue_ephorate_tab_tt: "#bold Éphorate de Ventrue #!" #NT!
- ventrue_ephorate_intro: "#bold L'Éphorat se compose des 12 anciens Ventrue les plus puissants et les plus influents. Les Éphores établissent un précédent en matière de « politique de clan ». C'est le rang le plus élevé de la hiérarchie interne des Ventrue.\nChaque Éphore soutient une faction spécifique et, en fonction de sa puissance globale, chaque faction donne des avantages et des obstacles à l'ensemble du clan, représentés par des modificateurs de dynastie.#!" #NT!
- support_knights_loc: "Soutient les chevaliers cendrés" #NT!
- support_patricians_loc: "Soutient les Patriciens" #NT!
- support_merchants_loc: "Soutient les princes marchands" #NT!
- support_eternal_loc: "Soutient la Rome pécheresse" #NT!
- support_senate_loc: "Soutient le Sénat éternel" #NT!
- ashen_knights_gui_loc: "Soutien des Chevaliers Cendrés :" #NT!
- sinner_rome_gui_loc: "Soutien de Sinner Rome :" #NT!
- eternal_senate_gui_loc: "Soutien éternel du Sénat :" #NT!
- patricians_gui_loc: "Soutien aux Patriciens :" #NT!
- merchant_princes_gui_loc: "Soutien aux princes marchands :" #NT!
- #game_concept_eternal_senate: "Sénat éternel" #NT!
- #game_concept_eternal_senate_desc: "Le Sénat éternel, également connu sous le nom d'Antasiens, est une reconstitution idéalisée de l'organisation du même nom existant à l'époque romaine. Ils luttent pour l'égalité et une vision démocratique pour l'avenir Caïnite, où tous les vampires ont une représentation au sein du conseil d'administration.\nSous la direction de Julia Antasia, leur mouvement s'est étendu de Francfort aux régions voisines et prend de l'ampleur à mesure que de nombreux jeunes vampires idéalistes trouvent ses idéaux plus séduisants que l'application impitoyable du régime féodal par Hardestadt." #NT!
- ephorate_support_gui_loc: "#bold Les effets des différents niveaux de support sont : \n- 0/4 : Aucun effet\n- 5/8 : Un petit modificateur de dynastie\n- 8/11 : Un modificateur de dynastie influent \n- 12 : La faction prend sur l'Ephorate, en la dissolvant et en appliquant un puissant modificateur de dynastie.#!" #NT!
- Learn_Ephorate: "#V En savoir plus sur les factions#!" #NT!
- window_learn_ephorate_tooltip: "Ouvre un événement où vous pouvez en apprendre davantage sur chaque faction et ce qu'elle représente." #NT!
+ ventrue_ephorate_tab_tt: "#bold Éphorate de Ventrue #!"
+ ventrue_ephorate_intro: "#bold L'Éphorat se compose des 12 anciens Ventrue les plus puissants et les plus influents. Les Éphores établissent un précédent en matière de « politique de clan ». C'est le rang le plus élevé de la hiérarchie interne des Ventrue.\nChaque Éphore soutient une faction spécifique et, en fonction de sa puissance globale, chaque faction donne des avantages et des obstacles à l'ensemble du clan, représentés par des modificateurs de dynastie.#!"
+ support_knights_loc: "Soutient les chevaliers cendrés"
+ support_patricians_loc: "Soutient les Patriciens"
+ support_merchants_loc: "Soutient les princes marchands"
+ support_eternal_loc: "Soutient la Rome pécheresse"
+ support_senate_loc: "Soutient le Sénat éternel"
+ ashen_knights_gui_loc: "Soutien des Chevaliers Cendrés :"
+ sinner_rome_gui_loc: "Soutien de Sinner Rome :"
+ eternal_senate_gui_loc: "Soutien éternel du Sénat :"
+ patricians_gui_loc: "Soutien aux Patriciens :"
+ merchant_princes_gui_loc: "Soutien aux princes marchands :"
+ #game_concept_eternal_senate: "Sénat éternel"
+ #game_concept_eternal_senate_desc: "Le Sénat éternel, également connu sous le nom d'Antasiens, est une reconstitution idéalisée de l'organisation du même nom existant à l'époque romaine. Ils luttent pour l'égalité et une vision démocratique pour l'avenir Caïnite, où tous les vampires ont une représentation au sein du conseil d'administration.\nSous la direction de Julia Antasia, leur mouvement s'est étendu de Francfort aux régions voisines et prend de l'ampleur à mesure que de nombreux jeunes vampires idéalistes trouvent ses idéaux plus séduisants que l'application impitoyable du régime féodal par Hardestadt."
+ ephorate_support_gui_loc: "#bold Les effets des différents niveaux de support sont : \n- 0/4 : Aucun effet\n- 5/8 : Un petit modificateur de dynastie\n- 8/11 : Un modificateur de dynastie influent \n- 12 : La faction prend sur l'Ephorate, en la dissolvant et en appliquant un puissant modificateur de dynastie.#!"
+ Learn_Ephorate: "#V En savoir plus sur les factions#!"
+ window_learn_ephorate_tooltip: "Ouvre un événement où vous pouvez en apprendre davantage sur chaque faction et ce qu'elle représente."
   
- substantial_senate_influence_modifier: "Influence substantielle et éternelle du Sénat" #NT!
- substantial_senate_influence_modifier_desc: "Le Sénat éternel exerce une influence notable sur la politique de l'Ephorate, influençant quelque peu l'idéologie du clan Ventrue." #NT!
- important_senate_influence_modifier: "Influence éternelle importante du Sénat" #NT!
- important_senate_influence_modifier_desc: "Le Sénat éternel exerce une influence importante sur la politique de l'Ephorate, influençant de manière remarquable l'idéologie du clan Ventrue." #NT!
- overwhelming_senate_influence_modifier: "Influence écrasante du Sénat éternel" #NT!
- overwhelming_senate_influence_modifier_desc: "Le Sénat éternel exerce une influence toute-puissante sur la politique de l'Ephorate, influençant jusqu'au cœur l'idéologie du clan Ventrue." #NT!
+ substantial_senate_influence_modifier: "Influence substantielle et éternelle du Sénat"
+ substantial_senate_influence_modifier_desc: "Le Sénat éternel exerce une influence notable sur la politique de l'Ephorate, influençant quelque peu l'idéologie du clan Ventrue."
+ important_senate_influence_modifier: "Influence éternelle importante du Sénat"
+ important_senate_influence_modifier_desc: "Le Sénat éternel exerce une influence importante sur la politique de l'Ephorate, influençant de manière remarquable l'idéologie du clan Ventrue."
+ overwhelming_senate_influence_modifier: "Influence écrasante du Sénat éternel"
+ overwhelming_senate_influence_modifier_desc: "Le Sénat éternel exerce une influence toute-puissante sur la politique de l'Ephorate, influençant jusqu'au cœur l'idéologie du clan Ventrue."
   
- substantial_eternal_influence_modifier: "Influence substantielle des pécheurs sur Rome" #NT!
- substantial_eternal_influence_modifier_desc: "La faction Sinner Rome exerce une influence notable sur la politique de l'Ephorate, influençant quelque peu l'idéologie du clan Ventrue." #NT!
- important_eternal_influence_modifier: "Influence importante de Rome pécheresse" #NT!
- important_eternal_influence_modifier_desc: "La faction Sinner Rome exerce une influence importante dans la politique de l'Ephorate, influençant de manière remarquable l'idéologie du clan Ventrue." #NT!
- overwhelming_eternal_influence_modifier: "Influence écrasante des pécheurs de Rome" #NT!
- overwhelming_eternal_influence_modifier_desc: "La faction Sinner Rome exerce une influence toute-puissante sur la politique de l'Ephorate, influençant jusqu'au cœur l'idéologie du clan Ventrue." #NT!
+ substantial_eternal_influence_modifier: "Influence substantielle des pécheurs sur Rome"
+ substantial_eternal_influence_modifier_desc: "La faction Sinner Rome exerce une influence notable sur la politique de l'Ephorate, influençant quelque peu l'idéologie du clan Ventrue."
+ important_eternal_influence_modifier: "Influence importante de Rome pécheresse"
+ important_eternal_influence_modifier_desc: "La faction Sinner Rome exerce une influence importante dans la politique de l'Ephorate, influençant de manière remarquable l'idéologie du clan Ventrue."
+ overwhelming_eternal_influence_modifier: "Influence écrasante des pécheurs de Rome"
+ overwhelming_eternal_influence_modifier_desc: "La faction Sinner Rome exerce une influence toute-puissante sur la politique de l'Ephorate, influençant jusqu'au cœur l'idéologie du clan Ventrue."
   
- substantial_merchants_influence_modifier: "Influence substantielle des princes marchands" #NT!
- substantial_merchants_influence_modifier_desc: "La faction des Princes Marchands exerce une influence notable sur la politique de l'Ephorate, influençant quelque peu l'idéologie du clan Ventrue." #NT!
- important_merchants_influence_modifier: "Influence importante des princes marchands" #NT!
- important_merchants_influence_modifier_desc: "La faction des Princes Marchands exerce une influence importante sur la politique de l'Ephorate, influençant de manière remarquable l'idéologie du clan Ventrue." #NT!
- overwhelming_merchants_influence_modifier: "Influence écrasante des princes marchands" #NT!
- overwhelming_merchants_influence_modifier_desc: "La faction des Princes Marchands exerce une influence toute-puissante sur la politique de l'Ephorate, influençant jusqu'au cœur l'idéologie du clan Ventrue." #NT!
+ substantial_merchants_influence_modifier: "Influence substantielle des princes marchands"
+ substantial_merchants_influence_modifier_desc: "La faction des Princes Marchands exerce une influence notable sur la politique de l'Ephorate, influençant quelque peu l'idéologie du clan Ventrue."
+ important_merchants_influence_modifier: "Influence importante des princes marchands"
+ important_merchants_influence_modifier_desc: "La faction des Princes Marchands exerce une influence importante sur la politique de l'Ephorate, influençant de manière remarquable l'idéologie du clan Ventrue."
+ overwhelming_merchants_influence_modifier: "Influence écrasante des princes marchands"
+ overwhelming_merchants_influence_modifier_desc: "La faction des Princes Marchands exerce une influence toute-puissante sur la politique de l'Ephorate, influençant jusqu'au cœur l'idéologie du clan Ventrue."
   
- substantial_patricians_influence_modifier: "Influence substantielle des Patriciens" #NT!
- substantial_patricians_influence_modifier_desc: "La faction des Patriciens exerce une influence notable sur la politique de l'Ephorate, influençant quelque peu l'idéologie du clan Ventrue." #NT!
- important_patricians_influence_modifier: "Influence importante des Patriciens" #NT!
- important_patricians_influence_modifier_desc: "La faction des Patriciens exerce une influence importante sur la politique de l'Ephorate, influençant de manière remarquable l'idéologie du clan Ventrue." #NT!
- overwhelming_patricians_influence_modifier: "Influence écrasante des Patriciens" #NT!
- overwhelming_patricians_influence_modifier_desc: "La faction des Patriciens exerce une influence toute-puissante sur la politique de l'Ephorate, influençant jusqu'au cœur l'idéologie du clan Ventrue." #NT!
+ substantial_patricians_influence_modifier: "Influence substantielle des Patriciens"
+ substantial_patricians_influence_modifier_desc: "La faction des Patriciens exerce une influence notable sur la politique de l'Ephorate, influençant quelque peu l'idéologie du clan Ventrue."
+ important_patricians_influence_modifier: "Influence importante des Patriciens"
+ important_patricians_influence_modifier_desc: "La faction des Patriciens exerce une influence importante sur la politique de l'Ephorate, influençant de manière remarquable l'idéologie du clan Ventrue."
+ overwhelming_patricians_influence_modifier: "Influence écrasante des Patriciens"
+ overwhelming_patricians_influence_modifier_desc: "La faction des Patriciens exerce une influence toute-puissante sur la politique de l'Ephorate, influençant jusqu'au cœur l'idéologie du clan Ventrue."
   
- substantial_knights_influence_modifier: "Influence substantielle des chevaliers cendrés" #NT!
- substantial_knights_influence_modifier_desc: "La faction des Ashen Knights exerce une influence notable sur la politique de l'Ephorate, influençant quelque peu l'idéologie du clan Ventrue." #NT!
- important_knights_influence_modifier: "Influence importante des chevaliers cendrés" #NT!
- important_knights_influence_modifier_desc: "La faction des Ashen Knights exerce une influence importante sur la politique de l'Ephorate, influençant de manière remarquable l'idéologie du clan Ventrue." #NT!
- overwhelming_knights_influence_modifier: "Influence écrasante des chevaliers cendrés" #NT!
- overwhelming_knights_influence_modifier_desc: "La faction des Ashen Knights exerce une influence toute-puissante sur la politique de l'Ephorate, influençant jusqu'au cœur l'idéologie du clan Ventrue." #NT!
+ substantial_knights_influence_modifier: "Influence substantielle des chevaliers cendrés"
+ substantial_knights_influence_modifier_desc: "La faction des Ashen Knights exerce une influence notable sur la politique de l'Ephorate, influençant quelque peu l'idéologie du clan Ventrue."
+ important_knights_influence_modifier: "Influence importante des chevaliers cendrés"
+ important_knights_influence_modifier_desc: "La faction des Ashen Knights exerce une influence importante sur la politique de l'Ephorate, influençant de manière remarquable l'idéologie du clan Ventrue."
+ overwhelming_knights_influence_modifier: "Influence écrasante des chevaliers cendrés"
+ overwhelming_knights_influence_modifier_desc: "La faction des Ashen Knights exerce une influence toute-puissante sur la politique de l'Ephorate, influençant jusqu'au cœur l'idéologie du clan Ventrue."
   
- pod_ventrue_ephorate.4.t: "L'Éphorie appelle" #NT!
- pod_ventrue_ephorate.4.desc: "Avec le récent décès d'un membre de l'estimé Ephorate, une place s'est ouverte. Les Ephors ont décidé que vous étiez le meilleur candidat pour remplacer leur collègue perdu. Il s'agit certainement d'un honneur très prestigieux car les Ephors ont beaucoup de poids dans les affaires du clan.\nMême si vous ne serez qu'une voix parmi douze, cela aura toujours une bonne image de vous et pourrait vous ouvrir de nouvelles opportunités à l'avenir. Il est temps pour vous de prendre place parmi les Ventrue les plus puissants du monde." #NT!
- pod_ventrue_ephorate.4.a: "Mon talent est enfin récompensé." #NT!
- ventrue_ephorate_entry_tt: "Vous faites désormais partie de l'Ephorat et soutiendrez automatiquement une faction en fonction de votre religion et de vos caractéristiques.\nDe nouveaux événements impliquant votre nouveau rôle pour façonner le clan se produiront dans le futur." #NT!
- pod_ventrue_ephorate.4.b: "Je soutiendrai les Ashen Knights." #NT!
- pod_ventrue_ephorate.4.c: "Je soutiendrai les princes marchands." #NT!
- pod_ventrue_ephorate.4.d: "Je soutiendrai le Sénat éternel." #NT!
- pod_ventrue_ephorate.4.e: "Je soutiendrai Sinner Rome." #NT!
- pod_ventrue_ephorate.4.f: "Je soutiendrai les Patriciens." #NT!
+ pod_ventrue_ephorate.4.t: "L'Éphorie appelle"
+ pod_ventrue_ephorate.4.desc: "Avec le récent décès d'un membre de l'estimé Ephorate, une place s'est ouverte. Les Ephors ont décidé que vous étiez le meilleur candidat pour remplacer leur collègue perdu. Il s'agit certainement d'un honneur très prestigieux car les Ephors ont beaucoup de poids dans les affaires du clan.\nMême si vous ne serez qu'une voix parmi douze, cela aura toujours une bonne image de vous et pourrait vous ouvrir de nouvelles opportunités à l'avenir. Il est temps pour vous de prendre place parmi les Ventrue les plus puissants du monde."
+ pod_ventrue_ephorate.4.a: "Mon talent est enfin récompensé."
+ ventrue_ephorate_entry_tt: "Vous faites désormais partie de l'Ephorat et soutiendrez automatiquement une faction en fonction de votre religion et de vos caractéristiques.\nDe nouveaux événements impliquant votre nouveau rôle pour façonner le clan se produiront dans le futur."
+ pod_ventrue_ephorate.4.b: "Je soutiendrai les Ashen Knights."
+ pod_ventrue_ephorate.4.c: "Je soutiendrai les princes marchands."
+ pod_ventrue_ephorate.4.d: "Je soutiendrai le Sénat éternel."
+ pod_ventrue_ephorate.4.e: "Je soutiendrai Sinner Rome."
+ pod_ventrue_ephorate.4.f: "Je soutiendrai les Patriciens."
   
- pod_ventrue_ephorate.6.t: "L'Éphorie" #NT!
- pod_ventrue_ephorate.6.desc: "L'Éphorat se compose des 12 anciens Ventrue les plus puissants et les plus influents. Les Éphores établissent un précédent en matière de « politique de clan ». Il s'agit du rang le plus élevé de la hiérarchie interne des Ventrue. La fonction la plus importante de l'Ephorate n'est pas si facilement quantifiée ; ils donnent le ton à tout le [Clan|E]. Leurs philosophies, styles de leadership et positions politiques sont discutés et débattus dans les rangs, influençant ainsi dans une certaine mesure la majorité des Ventrue.\n #X L'Éphorie est une caractéristique déterminante des Ventrue. Vous pouvez y accéder dans un onglet à droite de votre écran.#!" #NT!
- pod_ventrue_ephorate.6.a: "Nous sommes plus forts unis." #NT!
- ventrue_ephorate_intro_tt: "L'Éphorie actuelle est divisée, mais faiblement dominée par les Patriciens, donnant un modificateur à l'ensemble du clan Ventrue.\nSi la composition de l'Éphorie change, les modificateurs pourraient également changer." #NT!
- ventrue_ephorate_intro_member_tt: "L'Éphorie actuelle est divisée, mais faiblement dominée par les Patriciens, ce qui donne un modificateur à l'ensemble du clan Ventrue.\nSi la composition de l'Éphorie change, les modificateurs pourraient également changer.\nVotre personnage commence en tant que membre de cette institution, qui ouvrira de nouvelles possibilités pour influencer le clan à l'avenir." #NT!
+ pod_ventrue_ephorate.6.t: "L'Éphorie"
+ pod_ventrue_ephorate.6.desc: "L'Éphorat se compose des 12 anciens Ventrue les plus puissants et les plus influents. Les Éphores établissent un précédent en matière de « politique de clan ». Il s'agit du rang le plus élevé de la hiérarchie interne des Ventrue. La fonction la plus importante de l'Ephorate n'est pas si facilement quantifiée ; ils donnent le ton à tout le [Clan|E]. Leurs philosophies, styles de leadership et positions politiques sont discutés et débattus dans les rangs, influençant ainsi dans une certaine mesure la majorité des Ventrue.\n #X L'Éphorie est une caractéristique déterminante des Ventrue. Vous pouvez y accéder dans un onglet à droite de votre écran.#!"
+ pod_ventrue_ephorate.6.a: "Nous sommes plus forts unis."
+ ventrue_ephorate_intro_tt: "L'Éphorie actuelle est divisée, mais faiblement dominée par les Patriciens, donnant un modificateur à l'ensemble du clan Ventrue.\nSi la composition de l'Éphorie change, les modificateurs pourraient également changer."
+ ventrue_ephorate_intro_member_tt: "L'Éphorie actuelle est divisée, mais faiblement dominée par les Patriciens, ce qui donne un modificateur à l'ensemble du clan Ventrue.\nSi la composition de l'Éphorie change, les modificateurs pourraient également changer.\nVotre personnage commence en tant que membre de cette institution, qui ouvrira de nouvelles possibilités pour influencer le clan à l'avenir."
   
- pod_ventrue_ephorate.100.t: "Fin de l'Éphorie" #NT!
- pod_ventrue_ephorate.100.desc: "L'Éphorie a toujours été divisée entre factions rivales depuis l'époque romaine. Cette division était en fait la bouée de sauvetage de l'institution, car elle signifiait que le clan Ventrue manquait d'une autorité incontestée qui pourrait le faire avancer avec force.\nCet état de choses a changé et une faction a réussi à atteindre une domination totale sur l'institution. Alors que le clan Ventrue est à nouveau unifié sous une seule vision, l'Ephorate elle-même perd tout pouvoir, pour devenir bientôt une relique d'une époque troublée révolue des Ventrue." #NT!
- pod_ventrue_ephorate.100.a: "Un pas audacieux vers l’avenir." #NT!
- ventrue_ephorate_end_tt: "L'Ephorate est dissoute, la faction gagnante impose une version plus forte de son modificateur à la dynastie du clan Ventrue." #NT!
+ pod_ventrue_ephorate.100.t: "Fin de l'Éphorie"
+ pod_ventrue_ephorate.100.desc: "L'Éphorie a toujours été divisée entre factions rivales depuis l'époque romaine. Cette division était en fait la bouée de sauvetage de l'institution, car elle signifiait que le clan Ventrue manquait d'une autorité incontestée qui pourrait le faire avancer avec force.\nCet état de choses a changé et une faction a réussi à atteindre une domination totale sur l'institution. Alors que le clan Ventrue est à nouveau unifié sous une seule vision, l'Ephorate elle-même perd tout pouvoir, pour devenir bientôt une relique d'une époque troublée révolue des Ventrue."
+ pod_ventrue_ephorate.100.a: "Un pas audacieux vers l’avenir."
+ ventrue_ephorate_end_tt: "L'Ephorate est dissoute, la faction gagnante impose une version plus forte de son modificateur à la dynastie du clan Ventrue."
   
- ephorate_distributing_funds_modifier: "Redistribution des éphorates" #NT!
- ephorate_distributing_funds_modifier_desc: "L'Ephorate redistribue une partie de ses fonds pour aider les projets de Ventrue dans le monde entier." #NT!
+ ephorate_distributing_funds_modifier: "Redistribution des éphorates"
+ ephorate_distributing_funds_modifier_desc: "L'Ephorate redistribue une partie de ses fonds pour aider les projets de Ventrue dans le monde entier."
   
- pod_ventrue_ephorate.7.t: "Le Trésor de l'Ephorate" #NT!
- pod_ventrue_ephorate.7.desc: "L'Éphorie repose sur l'un des trésors les plus impressionnants de l'histoire vampirique. Le clan Ventrue est connu pour ses investissements judicieux, et ces investissements peuvent durer éternellement. En tant que tel, l'Ephorate dirige les projets mondiaux du clan avant de redistribuer ensuite sa richesse à d'autres projets Ventrue dans le monde.\nVous avez été choisi pour gérer la redistribution actuelle de cette décennie, ce qui signifie que vous êtes désormais en charge d'un vaste trésor d'or. réserve.\nUn honneur et une tentation..." #NT!
- pod_ventrue_ephorate.7.a: "L'argent disparaît parfois..." #NT!
- pod_ventrue_ephorate.7.b: "Il est temps d’investir à nouveau." #NT!
+ pod_ventrue_ephorate.7.t: "Le Trésor de l'Ephorate"
+ pod_ventrue_ephorate.7.desc: "L'Éphorie repose sur l'un des trésors les plus impressionnants de l'histoire vampirique. Le clan Ventrue est connu pour ses investissements judicieux, et ces investissements peuvent durer éternellement. En tant que tel, l'Ephorate dirige les projets mondiaux du clan avant de redistribuer ensuite sa richesse à d'autres projets Ventrue dans le monde.\nVous avez été choisi pour gérer la redistribution actuelle de cette décennie, ce qui signifie que vous êtes désormais en charge d'un vaste trésor d'or. réserve.\nUn honneur et une tentation..."
+ pod_ventrue_ephorate.7.a: "L'argent disparaît parfois..."
+ pod_ventrue_ephorate.7.b: "Il est temps d’investir à nouveau."
   
- ephorate_decorum_modifier: "Décorum d'éphorate" #NT!
- ephorate_decorum_modifier_desc: "L'Ephorat maintient bien le décorum, projetant l'image d'un clan Ventrue puissant et discipliné." #NT!
+ ephorate_decorum_modifier: "Décorum d'éphorate"
+ ephorate_decorum_modifier_desc: "L'Ephorat maintient bien le décorum, projetant l'image d'un clan Ventrue puissant et discipliné."
   
- pod_ventrue_ephorate.8.t: "Décorum de l'élite" #NT!
- pod_ventrue_ephorate.8.desc: "L'Ephorat est une institution prestigieuse et devrait représenter l'élite du clan Ventrue. Le problème est qu'avec autant d'anciens puissants dans la même organisation, les esprits peuvent s'échauffer assez rapidement et des séances houleuses peuvent conduire à des querelles se poursuivant bien au-delà des salles de l'Ephorat. Un de ces débats difficiles a commencé à s'intensifier avec l'un de vos collègues et aucun de vous n'a encore reculé.\nSi cela continue, il est probable que le sujet sera entendu à l'extérieur de l'institution et brisera la façade d'unité disciplinée du clan Ventrue. veut présenter. Faire marche arrière maintenant est toujours une option si vous voulez éviter cette terrible possibilité." #NT!
- pod_ventrue_ephorate.8.a: "Nous pouvons lentement calmer ce débat." #NT!
- pod_ventrue_ephorate.8.b: "Faisons des compromis." #NT!
- pod_ventrue_ephorate.8.c: "J'ai raison ici !" #NT!
+ pod_ventrue_ephorate.8.t: "Décorum de l'élite"
+ pod_ventrue_ephorate.8.desc: "L'Ephorat est une institution prestigieuse et devrait représenter l'élite du clan Ventrue. Le problème est qu'avec autant d'anciens puissants dans la même organisation, les esprits peuvent s'échauffer assez rapidement et des séances houleuses peuvent conduire à des querelles se poursuivant bien au-delà des salles de l'Ephorat. Un de ces débats difficiles a commencé à s'intensifier avec l'un de vos collègues et aucun de vous n'a encore reculé.\nSi cela continue, il est probable que le sujet sera entendu à l'extérieur de l'institution et brisera la façade d'unité disciplinée du clan Ventrue. veut présenter. Faire marche arrière maintenant est toujours une option si vous voulez éviter cette terrible possibilité."
+ pod_ventrue_ephorate.8.a: "Nous pouvons lentement calmer ce débat."
+ pod_ventrue_ephorate.8.b: "Faisons des compromis."
+ pod_ventrue_ephorate.8.c: "J'ai raison ici !"
   
- ephorate_decorum_broken_modifier: "Décorum d'éphorate brisé" #NT!
- ephorate_decorum_broken_modifier_desc: "La façade d'unité de l'Éphorat montre des fissures, affaiblissant le clan Ventrue dans son ensemble." #NT!
+ ephorate_decorum_broken_modifier: "Décorum d'éphorate brisé"
+ ephorate_decorum_broken_modifier_desc: "La façade d'unité de l'Éphorat montre des fissures, affaiblissant le clan Ventrue dans son ensemble."
   
- pod_ventrue_ephorate.9.t: "Des menaces partout" #NT!
- pod_ventrue_ephorate.9.desc: "L'Ephorate emploie une police secrète qui fait également office de force d'intervention rapide, les Licteurs. Ces agents puissants veillent à ce que les intérêts du clan Ventrue soient toujours défendus avec force lorsque cela est nécessaire et ont été un atout important pour de nombreux princes faibles au fil des années.\nMalheureusement, il semble que les menaces contre les Ventrue ne cessent d'apparaître et les Licteurs rapportent qu'elles sont dépassés par le grand nombre d’incendies qu’ils doivent éteindre. En tant que tels, ils demandent que davantage de ressources leur soient envoyées, qu'il s'agisse d'or ou de faveurs politiques auprès de princes neutres.\nEn tant qu'Ephor actuel responsable de la sécurité intérieure, il vous incombe de répondre à cet appel à l'aide." #NT!
- pod_ventrue_ephorate.9.a: "Les Licteurs devront simplement travailler plus dur." #NT!
- pod_ventrue_ephorate.9.b: "Une bonne cause." #NT!
+ pod_ventrue_ephorate.9.t: "Des menaces partout"
+ pod_ventrue_ephorate.9.desc: "L'Ephorate emploie une police secrète qui fait également office de force d'intervention rapide, les Licteurs. Ces agents puissants veillent à ce que les intérêts du clan Ventrue soient toujours défendus avec force lorsque cela est nécessaire et ont été un atout important pour de nombreux princes faibles au fil des années.\nMalheureusement, il semble que les menaces contre les Ventrue ne cessent d'apparaître et les Licteurs rapportent qu'elles sont dépassés par le grand nombre d’incendies qu’ils doivent éteindre. En tant que tels, ils demandent que davantage de ressources leur soient envoyées, qu'il s'agisse d'or ou de faveurs politiques auprès de princes neutres.\nEn tant qu'Ephor actuel responsable de la sécurité intérieure, il vous incombe de répondre à cet appel à l'aide."
+ pod_ventrue_ephorate.9.a: "Les Licteurs devront simplement travailler plus dur."
+ pod_ventrue_ephorate.9.b: "Une bonne cause."
   
- ephorate_overwhelmed_lictor_modifier: "Les licteurs d'Ephorate débordés" #NT!
- ephorate_overwhelmed_lictor_modifier_desc: "La force d'intervention rapide de l'Ephorat, les Licteurs, est submergée de demandes, laissant de nombreuses failles dans la défense du clan." #NT!
+ ephorate_overwhelmed_lictor_modifier: "Les licteurs d'Ephorate débordés"
+ ephorate_overwhelmed_lictor_modifier_desc: "La force d'intervention rapide de l'Ephorat, les Licteurs, est submergée de demandes, laissant de nombreuses failles dans la défense du clan."
   
- pod_ventrue_ephorate.10.t: "Yeux et oreilles du Ventrue" #NT!
- pod_ventrue_ephorate.10.desc: "Les membres les plus bas de l'Ephorate sont les Tribunes, messagers et espions de l'organisation et du clan Ventrue dans son ensemble. Bien qu'il ne s'agisse pas d'un rang prestigieux, leur importance ne peut être sous-estimée car ils constituent souvent la source d'informations la plus fiable dont disposent les princes Ventrue.\nLes tribunes sont nombreuses mais mal coordonnées et relèvent pour la plupart du Ventrue le plus âgé de leur région au lieu de directement de l'Éphorie. . Comme vous en êtes l'Ephor responsable pour cette décennie, vous envisagez une réforme en profondeur pour les rapprocher de l'Ephorate elle-même, en améliorant par la même occasion leurs performances." #NT!
- pod_ventrue_ephorate.10.a: "Je vais rédiger une réforme." #NT!
- pod_ventrue_ephorate.10.b: "Le changement n’est pas nécessaire." #NT!
+ pod_ventrue_ephorate.10.t: "Yeux et oreilles du Ventrue"
+ pod_ventrue_ephorate.10.desc: "Les membres les plus bas de l'Ephorate sont les Tribunes, messagers et espions de l'organisation et du clan Ventrue dans son ensemble. Bien qu'il ne s'agisse pas d'un rang prestigieux, leur importance ne peut être sous-estimée car ils constituent souvent la source d'informations la plus fiable dont disposent les princes Ventrue.\nLes tribunes sont nombreuses mais mal coordonnées et relèvent pour la plupart du Ventrue le plus âgé de leur région au lieu de directement de l'Éphorie. . Comme vous en êtes l'Ephor responsable pour cette décennie, vous envisagez une réforme en profondeur pour les rapprocher de l'Ephorate elle-même, en améliorant par la même occasion leurs performances."
+ pod_ventrue_ephorate.10.a: "Je vais rédiger une réforme."
+ pod_ventrue_ephorate.10.b: "Le changement n’est pas nécessaire."
   
- ephorate_empowered_tribunes_modifier: "Les Tribunes d'Ephorate habilitées" #NT!
- ephorate_empowered_tribunes_modifier_desc: "Les messagers et espions de l'Ephorate ont été réorganisés, offrant encore plus de soutien aux intérêts obscurs du clan." #NT!
+ ephorate_empowered_tribunes_modifier: "Les Tribunes d'Ephorate habilitées"
+ ephorate_empowered_tribunes_modifier_desc: "Les messagers et espions de l'Ephorate ont été réorganisés, offrant encore plus de soutien aux intérêts obscurs du clan."
   
- pod_ventrue_ephorate.11.t: "Subordonnés ambitieux" #NT!
- pod_ventrue_ephorate.11.desc: "Les agents directs de l'Ephorat sont les Strategoi, des individus puissants dotés du pouvoir des Ephors et les seuls à connaître réellement leurs noms. Les stratèges sont extrêmement utiles pour exercer le pouvoir de l'éphore sans vous mettre en danger, mais ils sont aussi souvent gênants car ils regardent la position des éphores avec avidité et sont la principale cause de trahison au sein de l'organisation.\nIl est presque habituel que les Ephors doit procéder de temps à autre à un examen approfondi des Strategoi (ce qui conduit souvent à une purge) et c'est vous qui êtes chargé de cet honneur douteux pour cette décennie." #NT!
- pod_ventrue_ephorate.11.a: "Les Strategoi sont fidèles." #NT!
- pod_ventrue_ephorate.11.b: "On ne peut pas leur faire confiance." #NT!
+ pod_ventrue_ephorate.11.t: "Subordonnés ambitieux"
+ pod_ventrue_ephorate.11.desc: "Les agents directs de l'Ephorat sont les Strategoi, des individus puissants dotés du pouvoir des Ephors et les seuls à connaître réellement leurs noms. Les stratèges sont extrêmement utiles pour exercer le pouvoir de l'éphore sans vous mettre en danger, mais ils sont aussi souvent gênants car ils regardent la position des éphores avec avidité et sont la principale cause de trahison au sein de l'organisation.\nIl est presque habituel que les Ephors doit procéder de temps à autre à un examen approfondi des Strategoi (ce qui conduit souvent à une purge) et c'est vous qui êtes chargé de cet honneur douteux pour cette décennie."
+ pod_ventrue_ephorate.11.a: "Les Strategoi sont fidèles."
+ pod_ventrue_ephorate.11.b: "On ne peut pas leur faire confiance."
   
- ephorate_empowered_strategoi_modifier: "Stratèges d'Ephorate renforcés" #NT!
- ephorate_empowered_strategoi_modifier_desc: "Les agents directs de l'Ephorat travaillent plus dur que jamais, mais souvent dans leur propre intérêt plutôt que dans celui du clan." #NT!
+ ephorate_empowered_strategoi_modifier: "Stratèges d'Ephorate renforcés"
+ ephorate_empowered_strategoi_modifier_desc: "Les agents directs de l'Ephorat travaillent plus dur que jamais, mais souvent dans leur propre intérêt plutôt que dans celui du clan."
   
- pod_ventrue_ephorate.667.t: "Points de discorde" #NT!
- pod_ventrue_ephorate.667.desc: "Les Ventrue sont un clan divisé à bien des égards, entre différentes terres, traditions, lignées et modes d'existence. Presque les seules choses sur lesquelles ses différentes factions s’accordent sont leur noble héritage et le fait qu’elles devraient s’unir, mais avec quelle faction est aux commandes et dans quel but ? Ce sont là les plus grands points de discorde parmi les Ventrue.\nSur quelle faction souhaitez-vous en savoir plus ?" #NT!
- pod_ventrue_ephorate.667.a: "Les Patriciens" #NT!
- pod_ventrue_ephorate.667.b: "Le Sénat éternel." #NT!
- pod_ventrue_ephorate.667.c: "Rome pécheresse." #NT!
- pod_ventrue_ephorate.667.d: "Les Princes Marchands." #NT!
- pod_ventrue_ephorate.667.e: "Les chevaliers cendrés." #NT!
- pod_ventrue_ephorate.667.f: "Aucun pour l'instant." #NT!
+ pod_ventrue_ephorate.667.t: "Points de discorde"
+ pod_ventrue_ephorate.667.desc: "Les Ventrue sont un clan divisé à bien des égards, entre différentes terres, traditions, lignées et modes d'existence. Presque les seules choses sur lesquelles ses différentes factions s’accordent sont leur noble héritage et le fait qu’elles devraient s’unir, mais avec quelle faction est aux commandes et dans quel but ? Ce sont là les plus grands points de discorde parmi les Ventrue.\nSur quelle faction souhaitez-vous en savoir plus ?"
+ pod_ventrue_ephorate.667.a: "Les Patriciens"
+ pod_ventrue_ephorate.667.b: "Le Sénat éternel."
+ pod_ventrue_ephorate.667.c: "Rome pécheresse."
+ pod_ventrue_ephorate.667.d: "Les Princes Marchands."
+ pod_ventrue_ephorate.667.e: "Les chevaliers cendrés."
+ pod_ventrue_ephorate.667.f: "Aucun pour l'instant."
   
- pod_ventrue_ephorate.668.t: "Les seuls vrais rois" #NT!
- pod_ventrue_ephorate.668.desc: "Les Patriciens (également connus sous le nom de Patriarches) réclament à grands cris le droit hérité d'Enoch de régner sur tous les Caïnites. Ils sont majoritairement composés de princes reflétant la noblesse mortelle. Bien qu'ils respectent les réalisations de Camilla et de Rome, ils voient l'hédonisme et la décadence comme la raison de sa chute et sont beaucoup plus sévères et disciplinés que leurs homologues de tendance romaine.\nLes Patriarches sont des Ventrue conservateurs moulés dans le moule classique. Ils se considèrent comme la noblesse élue de la nuit, favorisée par Caine lui-même et destinée à régner. Ils adhèrent fortement aux principes de la Route des Rois, pour la plupart, et s'accrochent aux anciennes façons de faire (c'est-à-dire aux traditions féodales de l'Europe, ce que la plupart des Patriarches connaissaient de leur vie de mortel). . Ils promeuvent le pouvoir Ventrue et ne font pas confiance au changement. Pourquoi les choses devraient-elles changer, après tout, alors qu'elles sont telles que Dieu et Caïn les ont ordonnées depuis le début des temps ?\nLe destin futur de Canon\nEn fusionnant avec les princes marchands, les Patriciens deviendront ce que tout le monde pense être un véritable Ventrue dans les nuits modernes. ." #NT!
+ pod_ventrue_ephorate.668.t: "Les seuls vrais rois"
+ pod_ventrue_ephorate.668.desc: "Les Patriciens (également connus sous le nom de Patriarches) réclament à grands cris le droit hérité d'Enoch de régner sur tous les Caïnites. Ils sont majoritairement composés de princes reflétant la noblesse mortelle. Bien qu'ils respectent les réalisations de Camilla et de Rome, ils voient l'hédonisme et la décadence comme la raison de sa chute et sont beaucoup plus sévères et disciplinés que leurs homologues de tendance romaine.\nLes Patriarches sont des Ventrue conservateurs moulés dans le moule classique. Ils se considèrent comme la noblesse élue de la nuit, favorisée par Caine lui-même et destinée à régner. Ils adhèrent fortement aux principes de la Route des Rois, pour la plupart, et s'accrochent aux anciennes façons de faire (c'est-à-dire aux traditions féodales de l'Europe, ce que la plupart des Patriarches connaissaient de leur vie de mortel). . Ils promeuvent le pouvoir Ventrue et ne font pas confiance au changement. Pourquoi les choses devraient-elles changer, après tout, alors qu'elles sont telles que Dieu et Caïn les ont ordonnées depuis le début des temps ?\nLe destin futur de Canon\nEn fusionnant avec les princes marchands, les Patriciens deviendront ce que tout le monde pense être un véritable Ventrue dans les nuits modernes. ."
   
- pod_ventrue_ephorate.669.t: "Rêve romain" #NT!
- pod_ventrue_ephorate.669.desc: "Également appelé Antasiens, le Sénat éternel est guidé par les idées de Julia Antasia, une Ventrue romaine qui était membre du Sénat éternel de cette ville avant son déclin. Modèle de la Route de l’Humanité, Antasia enseigne à ses disciples l’importance de l’égalité et de la coopération mutuelle pour le plus grand bien de tous. Elle s'en tient aux véritables « anciennes » voies des Caïnites romains et aux jours de gloire de l'Empire et espère recréer les réalisations du Sénat éternel. Inutile de dire que les patriarches considèrent les Antasiens comme des illusions, au mieux, comme une dangereuse rébellion en devenir, au pire. Le Sénat considère le Patriarche Ventrue comme des élitistes arrogants et égoïstes préoccupés par leur propre pouvoir et leurs positions et rien de plus.\nLe destin futur de Canon\nAvec la disparition de leur mentor et chef, le Sénat éternel perdra l'essentiel de son influence au profit des Patriciens, ne laissant que quelques villes (comme Francfort) suivre ses idéaux au cours des siècles suivants." #NT!
+ pod_ventrue_ephorate.669.t: "Rêve romain"
+ pod_ventrue_ephorate.669.desc: "Également appelé Antasiens, le Sénat éternel est guidé par les idées de Julia Antasia, une Ventrue romaine qui était membre du Sénat éternel de cette ville avant son déclin. Modèle de la Route de l’Humanité, Antasia enseigne à ses disciples l’importance de l’égalité et de la coopération mutuelle pour le plus grand bien de tous. Elle s'en tient aux véritables « anciennes » voies des Caïnites romains et aux jours de gloire de l'Empire et espère recréer les réalisations du Sénat éternel. Inutile de dire que les patriarches considèrent les Antasiens comme des illusions, au mieux, comme une dangereuse rébellion en devenir, au pire. Le Sénat considère le Patriarche Ventrue comme des élitistes arrogants et égoïstes préoccupés par leur propre pouvoir et leurs positions et rien de plus.\nLe destin futur de Canon\nAvec la disparition de leur mentor et chef, le Sénat éternel perdra l'essentiel de son influence au profit des Patriciens, ne laissant que quelques villes (comme Francfort) suivre ses idéaux au cours des siècles suivants."
   
- pod_ventrue_ephorate.670.t: "Rome douce et décadente" #NT!
- pod_ventrue_ephorate.670.desc: "Titus Venturus Camille (mieux connu sous le nom de Camilla) est une figure controversée dans l'histoire des Ventrue. Ils célèbrent son règne séculaire sur Rome et l'unité jamais vue avant ou après qu'il a apporté au monde caïnite et sont fiers de son rôle dans la purge de l'enfer de Carthage. Mais ils sont moins enthousiastes quant à son adhésion fervente à la Route du Péché et à la pure décadence qu’il a apporté à Rome. En tant que tel, la plupart des Ventrue se contentent de parler de Camilla comme d'un prototype de ce que devrait être un véritable Ventrue médiéval : un dirigeant fort et astucieux unifiant les clans derrière lui. Mais d'autres connaissent encore la vérité : Camilla a été définie autant par la Route du Péché que par le fait d'être un Ventrue et ils honorent les deux côtés.\nPeut-être que le clan Ventrue a pris un mauvais tournant après la chute de Rome et qu'un retour aux bonnes vieilles nuits pourrait être préférable au plan d'action actuel...\nLe destin futur de Canon\nCamilla restera une partie étrange et controversée de l'histoire des Ventrue mais, pour le meilleur ou pour le pire, le clan Ventrue ne connaîtra plus jamais l'unité et la décadence qu'il a atteint dans la Rome antique. ." #NT!
+ pod_ventrue_ephorate.670.t: "Rome douce et décadente"
+ pod_ventrue_ephorate.670.desc: "Titus Venturus Camille (mieux connu sous le nom de Camilla) est une figure controversée dans l'histoire des Ventrue. Ils célèbrent son règne séculaire sur Rome et l'unité jamais vue avant ou après qu'il a apporté au monde caïnite et sont fiers de son rôle dans la purge de l'enfer de Carthage. Mais ils sont moins enthousiastes quant à son adhésion fervente à la Route du Péché et à la pure décadence qu’il a apporté à Rome. En tant que tel, la plupart des Ventrue se contentent de parler de Camilla comme d'un prototype de ce que devrait être un véritable Ventrue médiéval : un dirigeant fort et astucieux unifiant les clans derrière lui. Mais d'autres connaissent encore la vérité : Camilla a été définie autant par la Route du Péché que par le fait d'être un Ventrue et ils honorent les deux côtés.\nPeut-être que le clan Ventrue a pris un mauvais tournant après la chute de Rome et qu'un retour aux bonnes vieilles nuits pourrait être préférable au plan d'action actuel...\nLe destin futur de Canon\nCamilla restera une partie étrange et controversée de l'histoire des Ventrue mais, pour le meilleur ou pour le pire, le clan Ventrue ne connaîtra plus jamais l'unité et la décadence qu'il a atteint dans la Rome antique. ."
   
- pod_ventrue_ephorate.671.t: "L'argent, c'est le pouvoir" #NT!
- pod_ventrue_ephorate.671.desc: "Une puissance croissante au sein des Ventrue est constituée de membres du clan qui font fortune en tant que marchands et commerçants plutôt que de chercher des terres et des domaines qui leur sont propres. La plupart de ces soi-disant princes marchands suivent la Voie du marchand et trouvent leur force dans la richesse plutôt que dans la terre et les vassaux. Sans lien avec un lieu particulier et profitant (pour la plupart) de la Guerre des Princes, les Princes Marchands se sont organisés en diverses guildes et réseaux de contacts à travers l'Europe.\nAlors que de nombreux Ventrues dédaignent les Princes Marchands avec leurs "voleurs d'argent". " et " l'usure ", les marchands ont lentement acquis au fil des années du pouvoir et de l'influence en plus de la richesse. Comme le Sénat éternel, les Marchands cherchent à réunifier les Ventrues comme à l'époque de Rome, mais sous une guilde marchande plutôt que sous un sénat ou un empereur. Ils ont commencé à soutenir certains seigneurs Caïnites pour créer l'environnement approprié en Europe où ils peuvent s'épanouir et devenir la puissance derrière les trônes.\nLe destin futur de Canon\nL'histoire donnera raison aux princes marchands car l'argent deviendra véritablement un pouvoir dans les siècles à venir. . En s'alliant aux Patriciens, les Princes Marchands deviendront partie intégrante de l'identité fondamentale des Ventrue." #NT!
+ pod_ventrue_ephorate.671.t: "L'argent, c'est le pouvoir"
+ pod_ventrue_ephorate.671.desc: "Une puissance croissante au sein des Ventrue est constituée de membres du clan qui font fortune en tant que marchands et commerçants plutôt que de chercher des terres et des domaines qui leur sont propres. La plupart de ces soi-disant princes marchands suivent la Voie du marchand et trouvent leur force dans la richesse plutôt que dans la terre et les vassaux. Sans lien avec un lieu particulier et profitant (pour la plupart) de la Guerre des Princes, les Princes Marchands se sont organisés en diverses guildes et réseaux de contacts à travers l'Europe.\nAlors que de nombreux Ventrues dédaignent les Princes Marchands avec leurs "voleurs d'argent". " et " l'usure ", les marchands ont lentement acquis au fil des années du pouvoir et de l'influence en plus de la richesse. Comme le Sénat éternel, les Marchands cherchent à réunifier les Ventrues comme à l'époque de Rome, mais sous une guilde marchande plutôt que sous un sénat ou un empereur. Ils ont commencé à soutenir certains seigneurs Caïnites pour créer l'environnement approprié en Europe où ils peuvent s'épanouir et devenir la puissance derrière les trônes.\nLe destin futur de Canon\nL'histoire donnera raison aux princes marchands car l'argent deviendra véritablement un pouvoir dans les siècles à venir. . En s'alliant aux Patriciens, les Princes Marchands deviendront partie intégrante de l'identité fondamentale des Ventrue."
   
- pod_ventrue_ephorate.672.t: "Lié à l'honneur" #NT!
- pod_ventrue_ephorate.672.desc: "Les Ashen Knights sont les Ventrue les moins intéressés par l'accumulation de pouvoir. Au lieu de cela, ils adhèrent strictement à leur propre code de chevalerie et espèrent que le clan Ventrue donnera l'exemple de bravoure, de retenue et de discipline aux autres clans au lieu d'essayer directement de les gouverner. La plupart des Chevaliers Cendrés travaillent bien avec les autres factions tant qu'ils considèrent leur conduite comme "honorable", ce qui est un qualificatif quelque peu mystérieux qui peut varier d'un chevalier à l'autre.\nSous-estimés par les autres Ventrues, les Chevaliers Cendres sont appréciés par les autres clans comme les Des Ventrue apparemment moins arrogants qui n'essaient pas de les dominer en utilisant un prétexte discutable. Cela en fait une force politique avec un nombre surprenant d'alliés auxquels faire appel en cas de besoin.\nLe destin futur de Canon\nLes Chevaliers Cendrés n'accepteront pas la transformation du clan Ventrue menée par l'alliance des Patriciens et des Princes Marchands. Rejoignant le Sabbat naissant en réponse, ils formeront l'épine dorsale des antitribus Ventrue, luttant pour restaurer l'honneur perdu depuis longtemps de leur clan." #NT!
+ pod_ventrue_ephorate.672.t: "Lié à l'honneur"
+ pod_ventrue_ephorate.672.desc: "Les Ashen Knights sont les Ventrue les moins intéressés par l'accumulation de pouvoir. Au lieu de cela, ils adhèrent strictement à leur propre code de chevalerie et espèrent que le clan Ventrue donnera l'exemple de bravoure, de retenue et de discipline aux autres clans au lieu d'essayer directement de les gouverner. La plupart des Chevaliers Cendrés travaillent bien avec les autres factions tant qu'ils considèrent leur conduite comme "honorable", ce qui est un qualificatif quelque peu mystérieux qui peut varier d'un chevalier à l'autre.\nSous-estimés par les autres Ventrues, les Chevaliers Cendres sont appréciés par les autres clans comme les Des Ventrue apparemment moins arrogants qui n'essaient pas de les dominer en utilisant un prétexte discutable. Cela en fait une force politique avec un nombre surprenant d'alliés auxquels faire appel en cas de besoin.\nLe destin futur de Canon\nLes Chevaliers Cendrés n'accepteront pas la transformation du clan Ventrue menée par l'alliance des Patriciens et des Princes Marchands. Rejoignant le Sabbat naissant en réponse, ils formeront l'épine dorsale des antitribus Ventrue, luttant pour restaurer l'honneur perdu depuis longtemps de leur clan."
   
   

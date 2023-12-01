@@ -1,88 +1,88 @@
 ﻿l_french:
- building_type_necropolis_01: "Nécropole" #NT!
- building_type_necropolis_01_desc: "#F Une Nécropole est une cité des morts, un amalgame de Hantises situées dans le [shadowlands|E]. Les nécropoles sont organisées autour d'une Citadelle centrale, un repaire massif renforcé conçu pour survivre aux Maelströms.#!" #NT!
- building_necropolis_01: "Petite Nécropole" #NT!
- building_necropolis_01_desc: "Une petite citadelle réside ici, avec quelques repaires se déplaçant dans ses salles maudites." #NT!
- building_necropolis_02: "Nécropole moyenne" #NT!
- building_necropolis_02_desc: "Une citadelle est entourée d'un petit village de repaires, et désormais, cette nécropole abrite un village digne de fantômes." #NT!
- building_necropolis_03: "Grande nécropole" #NT!
- building_necropolis_03_desc: "Désormais ville de spectres, la nécropole se dresse au-dessus de son domaine, ses murs étant désormais une barrière contre le maelström, une île de raison dans une mer de folie. Pour les spectres, du moins." #NT!
- building_necropolis_04: "Immense nécropole" #NT!
- building_necropolis_04_desc: "Cette nécropole survivra au-delà du gel de l’Umbra, et ici, aucun spectre ne frémira. C’est du moins ce qu’ils pensent." #NT!
-  
- building_type_haunted_house_01: "Maison hantée" #NT!
- building_type_haunted_house_01_desc: "#F Un Haunt est un endroit où les spectres peuvent chercher refuge. Certaines zones sont connues dans le [skinlands|E] comme étant « hantées » ou « effrayantes », et pour une bonne raison ; ces bâtiments, routes et autres zones ont des liens étroits avec un ou plusieurs spectres. Une maison est un endroit privilégié, où ils peuvent trouver un peu de paix au milieu des vivants.#!" #NT!
- building_haunted_house_01: "Cabane hantée" #NT!
- building_haunted_house_01_desc: "Un petit bâtiment autrefois habité est devenu un lieu de repos pour les spectres. C'est petit et exigu, mais au moins ça marche." #NT!
- building_haunted_house_02: "Maison hantée" #NT!
- building_haunted_house_02_desc: "Ce qui était autrefois la maison d'une famille est désormais un lieu de bref refuge au milieu des terreurs du [skinlands|E]." #NT!
- building_haunted_house_03: "Maison hantée" #NT!
- building_haunted_house_03_desc: "Ce qui était autrefois le siège des excès décadents est aujourd’hui le palais des misérables et des morts." #NT!
- building_haunted_house_04: "Manoir hanté" #NT!
- building_haunted_house_04_desc: "La misère aime la compagnie. Et là, tu as organisé une fête." #NT!
-  
- building_type_haunted_cemetery_01: "Cimetière hanté" #NT!
- building_type_haunted_cemetery_01_desc: "#F Un Haunt est un endroit où les spectres peuvent chercher refuge. Certaines zones sont connues dans le [skinlands|E] comme étant « hantées » ou « effrayantes », et pour une bonne raison ; ces bâtiments, routes et autres zones ont des liens étroits avec un ou plusieurs spectres. Un cimetière en particulier est toujours un bon endroit, en raison de sa capacité à abriter une très grande quantité de spectres.#!" #NT!
- building_haunted_cemetery_01: "Tombe hantée" #NT!
- building_haunted_cemetery_01_desc: "Là où repose un homme mort, un spectre peut trouver un moment de répit au milieu des vers dans ses os." #NT!
- building_haunted_cemetery_02: "Cimetière hanté" #NT!
- building_haunted_cemetery_02_desc: "Là où reposent les morts, les spectres peuvent trouver un endroit où s'arrêter et se rassembler, une petite oasis au milieu de la terreur des morts." #NT!
- building_haunted_cemetery_03: "Tombeau hanté" #NT!
- building_haunted_cemetery_03_desc: "Un grand rassemblement de morts, endormis ou agités. Il y a ici une illusion de paix." #NT!
- building_haunted_cemetery_04: "Mausolée hanté" #NT!
- building_haunted_cemetery_04_desc: "Les mortels craignent cet endroit, parlant à voix basse des morts qui s'y déplacent et des terreurs qui y règnent. Ils ont raison." #NT!
-  
- building_type_haunted_field_01: "Champ hanté" #NT!
- building_type_haunted_field_01_desc: "#F Un Haunt est un endroit où les spectres peuvent chercher refuge. Certaines zones sont connues dans le [skinlands|E] comme étant « hantées » ou « effrayantes », et pour une bonne raison ; ces bâtiments, routes et autres zones ont des liens étroits avec un ou plusieurs spectres. Les champs ne sont pas un choix immédiatement évident, mais les morts agités peuvent traverser l'ouverture ici et trouver un semblant de paix intérieure.#!" #NT!
- building_haunted_field_01: "Champ hanté effrayant" #NT!
- building_haunted_field_01_desc: "Parfois, les enfants parmi les grains sont effrayés par les murmures du vent et les bruissements entre les rangées." #NT!
- building_haunted_field_02: "Champ hanté effrayant" #NT!
- building_haunted_field_02_desc: "Dans ce lieu de nature, le rapport dit avoir vu passer un cavalier sans tête." #NT!
- building_haunted_field_03: "Champ hanté épouvantable" #NT!
- building_haunted_field_03_desc: "Ce champ est un lieu d'hystérie locale, car les rumeurs abondent sur les morts qui hantent cet endroit." #NT!
- building_haunted_field_04: "Champ hanté terrifiant" #NT!
- building_haunted_field_04_desc: "Les morts ici sont si nombreux qu'on pourrait croire que la Chasse Sauvage est revenue dans cet endroit maudit." #NT!
-  
- building_type_haunted_castle_01: "Château hanté" #NT!
- building_type_haunted_castle_01_desc: "#F Un Haunt est un endroit où les spectres peuvent chercher refuge. Certaines zones sont connues dans le [skinlands|E] comme étant « hantées » ou « effrayantes », et pour une bonne raison ; ces bâtiments, routes et autres zones ont des liens étroits avec un ou plusieurs spectres. Un château est le Saint Graal des repaires, un rempart qui peut au moins donner aux spectres l'illusion de la sécurité.#!" #NT!
- building_haunted_castle_01: "Citadelle hantée" #NT!
- building_haunted_castle_01_desc: "Avant-poste de guerre abandonné depuis, les habitants murmurent désormais à quel point les « guerriers » hantent cet endroit." #NT!
- building_haunted_castle_02: "Château hanté" #NT!
- building_haunted_castle_02_desc: "Les gardes ici parlent des morts des cachots parcourant les couloirs la nuit, et l'armure se retourne de temps en temps pour surveiller ces gardes." #NT!
- building_haunted_castle_03: "Forteresse hantée" #NT!
- building_haunted_castle_03_desc: "Lorsque cet endroit est assiégé, les assaillants découvrent que d'étranges forces semblent les gêner. Non pas que cela rende les vivants qui défendent cet endroit plus à l'aise..." #NT!
- building_haunted_castle_04: "Bastion hanté" #NT!
- building_haunted_castle_04_desc: "Il y aura une forteresse appelée Osoweic, où les morts ressusciteront. Ici, ce bastion est le miroir des horreurs de la guerre, de la folie de la mort et de la haine des morts." #NT!
-  
- building_type_soulsmithy_01: "Forge d'âme" #NT!
- building_type_soulsmithy_01_desc: "#F Soulforging est la pratique consistant à convertir un spectre en artefact. Il est utilisé à la fois comme punition et comme technique de fabrication.#!" #NT!
- building_soulsmithy_01: "Petite forge d'âme" #NT!
- building_soulsmithy_01_desc: "Un petit fourneau, servant à la fois de site d'exécution et de forge, cette Soulforge fait au moins le travail." #NT!
- building_soulsmithy_02: "Grande forge d'âme" #NT!
- building_soulsmithy_02_desc: "Depuis, votre forge a été agrandie et les spectres frémissent désormais à l'idée d'être amenés à cet endroit." #NT!
- building_soulsmithy_03: "Travaux d'acier d'âme" #NT!
- building_soulsmithy_03_desc: "La forge s'est véritablement agrandie, et les forges des usines n'auraient rien à voir avec elle, et même le bourreau le plus heureux des haches ne pourrait pas rattraper le nombre de morts que vous pourriez traiter ici." #NT!
- building_soulsmithy_04: "Travaux de Sombracier" #NT!
- building_soulsmithy_04_desc: "Les spectres de l'Umbra tremblent de peur devant cette terrible usine de mort, car les armes ici sont fabriquées de la qualité la plus immaculée. Un prix exorbitant pour un produit impeccable. Parfait." #NT!
-  
- building_type_tithe_of_the_dead_01: "La dîme des morts" #NT!
- building_type_tithe_of_the_dead_01_desc: "#F La dîme des morts consistait en deux pièces de monnaie enfoncées dans les yeux d'un spectre fraîchement décédé ; ces pièces reliques seraient données à Nhudri qui les utiliserait à son tour pour fabriquer des biens.#!" #NT!
- building_tithe_of_the_dead_01: "Faible dîme" #NT!
- building_tithe_of_the_dead_01_desc: "Pour un passage en toute sécurité, vous avez commencé à percevoir une modeste dîme. Ça pue pour ceux qui passent par là, mais ce n’est pas comme s’ils avaient leur mot à dire." #NT!
- building_tithe_of_the_dead_02: "Dîme élevée" #NT!
- building_tithe_of_the_dead_02_desc: "Un lourd tribut, les morts commencent à marmonner sur le « prix élevé », mais laissez-les marmonner. C'est votre pièce maintenant." #NT!
- building_tithe_of_the_dead_03: "Dîme sérieuse" #NT!
- building_tithe_of_the_dead_03_desc: "Vos évaluateurs sont désormais redoutés dans tous vos domaines, et pour cause. La pièce doit couler, quoi qu’il arrive." #NT!
- building_tithe_of_the_dead_04: "Dîme oppressive" #NT!
- building_tithe_of_the_dead_04_desc: "Mort récent, vieux mort, Wraith ou autre voyageur, cela vous est égal. Là où il y a du profit à réaliser, là est votre domaine !" #NT!
-  
- building_type_lux_veritatis_01: "Lux Veritatis" #NT!
- building_type_lux_veritatis_01_desc: "#F La Lux Veritatis a dicté que toutes les grandes œuvres de l'humanité doivent être collectées et préservées partout où elles se trouvent, et qu'elles soient conservées dans des coffres-forts sous le Sénat pour que tous puissent en profiter afin que tout l'art et toute l'histoire puissent être préservés pour toujours. .#!" #NT!
- building_lux_veritatis_01: "Petit coffre-fort" #NT!
- building_lux_veritatis_01_desc: "Coffre-fort personnel, vous avez caché ici une petite capsule temporelle de l'art et de la beauté locaux, pour, espérons-le, la préserver du sable du temps. Cela ne signifie peut-être pas grand-chose pour le monde, mais cela signifie beaucoup pour vous." #NT!
- building_lux_veritatis_02: "Petit coffre-fort" #NT!
- building_lux_veritatis_02_desc: "Votre petit refuge pour les reliques de l'humanité a été agrandi et vous disposez de quelques bibelots qui valent vraiment la peine d'être préservés. Vous espérez que ce sera suffisant." #NT!
- building_lux_veritatis_03: "Grand coffre-fort" #NT!
- building_lux_veritatis_03_desc: "Votre bunker d'art et de culture a acquis une certaine renommée, car vous détenez désormais des reliques inestimables, dans l'espoir de les préserver des ravages de l'histoire. Cela pourrait effectivement fonctionner ! Probablement." #NT!
- building_lux_veritatis_04: "Immense coffre-fort" #NT!
- building_lux_veritatis_04_desc: "Les plus grands musées des mortels ne sont rien à côté de vos coffres de traditions, de culture et d’histoire. Tout archéologue entreprenant voudrait jeter un simple coup d’œil à votre collection, et ici, les sagas de l’humanité ont au moins une seule âme misérable pour s’en souvenir." #NT!
+    building_type_necropolis_01: "Nécropole"
+    building_type_necropolis_01_desc: "#F Une Nécropole est une cité des morts, un amalgame de Hantises situées dans le [shadowlands|E]. Les nécropoles sont organisées autour d'une Citadelle centrale, un repaire massif renforcé conçu pour survivre aux Maelströms.#!"
+    building_necropolis_01: "Petite Nécropole"
+    building_necropolis_01_desc: "Une petite citadelle réside ici, avec quelques repaires se déplaçant dans ses salles maudites."
+    building_necropolis_02: "Nécropole moyenne"
+    building_necropolis_02_desc: "Une citadelle est entourée d'un petit village de repaires, et désormais, cette nécropole abrite un village digne de fantômes."
+    building_necropolis_03: "Grande nécropole"
+    building_necropolis_03_desc: "Désormais ville de spectres, la nécropole se dresse au-dessus de son domaine, ses murs étant désormais une barrière contre le maelström, une île de raison dans une mer de folie. Pour les spectres, du moins."
+    building_necropolis_04: "Immense nécropole"
+    building_necropolis_04_desc: "Cette nécropole survivra au-delà du gel de l’Umbra, et ici, aucun spectre ne frémira. C’est du moins ce qu’ils pensent."
+
+    building_type_haunted_house_01: "Maison hantée"
+    building_type_haunted_house_01_desc: "#F Un Haunt est un endroit où les spectres peuvent chercher refuge. Certaines zones sont connues dans le [skinlands|E] comme étant « hantées » ou « effrayantes », et pour une bonne raison ; ces bâtiments, routes et autres zones ont des liens étroits avec un ou plusieurs spectres. Une maison est un endroit privilégié, où ils peuvent trouver un peu de paix au milieu des vivants.#!"
+    building_haunted_house_01: "Cabane hantée"
+    building_haunted_house_01_desc: "Un petit bâtiment autrefois habité est devenu un lieu de repos pour les spectres. C'est petit et exigu, mais au moins ça marche."
+    building_haunted_house_02: "Maison hantée"
+    building_haunted_house_02_desc: "Ce qui était autrefois la maison d'une famille est désormais un lieu de bref refuge au milieu des terreurs du [skinlands|E]."
+    building_haunted_house_03: "Maison hantée"
+    building_haunted_house_03_desc: "Ce qui était autrefois le siège des excès décadents est aujourd’hui le palais des misérables et des morts."
+    building_haunted_house_04: "Manoir hanté"
+    building_haunted_house_04_desc: "La misère aime la compagnie. Et là, tu as organisé une fête."
+
+    building_type_haunted_cemetery_01: "Cimetière hanté"
+    building_type_haunted_cemetery_01_desc: "#F Un Haunt est un endroit où les spectres peuvent chercher refuge. Certaines zones sont connues dans le [skinlands|E] comme étant « hantées » ou « effrayantes », et pour une bonne raison ; ces bâtiments, routes et autres zones ont des liens étroits avec un ou plusieurs spectres. Un cimetière en particulier est toujours un bon endroit, en raison de sa capacité à abriter une très grande quantité de spectres.#!"
+    building_haunted_cemetery_01: "Tombe hantée"
+    building_haunted_cemetery_01_desc: "Là où repose un homme mort, un spectre peut trouver un moment de répit au milieu des vers dans ses os."
+    building_haunted_cemetery_02: "Cimetière hanté"
+    building_haunted_cemetery_02_desc: "Là où reposent les morts, les spectres peuvent trouver un endroit où s'arrêter et se rassembler, une petite oasis au milieu de la terreur des morts."
+    building_haunted_cemetery_03: "Tombeau hanté"
+    building_haunted_cemetery_03_desc: "Un grand rassemblement de morts, endormis ou agités. Il y a ici une illusion de paix."
+    building_haunted_cemetery_04: "Mausolée hanté"
+    building_haunted_cemetery_04_desc: "Les mortels craignent cet endroit, parlant à voix basse des morts qui s'y déplacent et des terreurs qui y règnent. Ils ont raison."
+
+    building_type_haunted_field_01: "Champ hanté"
+    building_type_haunted_field_01_desc: "#F Un Haunt est un endroit où les spectres peuvent chercher refuge. Certaines zones sont connues dans le [skinlands|E] comme étant « hantées » ou « effrayantes », et pour une bonne raison ; ces bâtiments, routes et autres zones ont des liens étroits avec un ou plusieurs spectres. Les champs ne sont pas un choix immédiatement évident, mais les morts agités peuvent traverser l'ouverture ici et trouver un semblant de paix intérieure.#!"
+    building_haunted_field_01: "Champ hanté effrayant"
+    building_haunted_field_01_desc: "Parfois, les enfants parmi les grains sont effrayés par les murmures du vent et les bruissements entre les rangées."
+    building_haunted_field_02: "Champ hanté effrayant"
+    building_haunted_field_02_desc: "Dans ce lieu de nature, le rapport dit avoir vu passer un cavalier sans tête."
+    building_haunted_field_03: "Champ hanté épouvantable"
+    building_haunted_field_03_desc: "Ce champ est un lieu d'hystérie locale, car les rumeurs abondent sur les morts qui hantent cet endroit."
+    building_haunted_field_04: "Champ hanté terrifiant"
+    building_haunted_field_04_desc: "Les morts ici sont si nombreux qu'on pourrait croire que la Chasse Sauvage est revenue dans cet endroit maudit."
+
+    building_type_haunted_castle_01: "Château hanté"
+    building_type_haunted_castle_01_desc: "#F Un Haunt est un endroit où les spectres peuvent chercher refuge. Certaines zones sont connues dans le [skinlands|E] comme étant « hantées » ou « effrayantes », et pour une bonne raison ; ces bâtiments, routes et autres zones ont des liens étroits avec un ou plusieurs spectres. Un château est le Saint Graal des repaires, un rempart qui peut au moins donner aux spectres l'illusion de la sécurité.#!"
+    building_haunted_castle_01: "Citadelle hantée"
+    building_haunted_castle_01_desc: "Avant-poste de guerre abandonné depuis, les habitants murmurent désormais à quel point les « guerriers » hantent cet endroit."
+    building_haunted_castle_02: "Château hanté"
+    building_haunted_castle_02_desc: "Les gardes ici parlent des morts des cachots parcourant les couloirs la nuit, et l'armure se retourne de temps en temps pour surveiller ces gardes."
+    building_haunted_castle_03: "Forteresse hantée"
+    building_haunted_castle_03_desc: "Lorsque cet endroit est assiégé, les assaillants découvrent que d'étranges forces semblent les gêner. Non pas que cela rende les vivants qui défendent cet endroit plus à l'aise..."
+    building_haunted_castle_04: "Bastion hanté"
+    building_haunted_castle_04_desc: "Il y aura une forteresse appelée Osoweic, où les morts ressusciteront. Ici, ce bastion est le miroir des horreurs de la guerre, de la folie de la mort et de la haine des morts."
+
+    building_type_soulsmithy_01: "Forge d'âme"
+    building_type_soulsmithy_01_desc: "#F Soulforging est la pratique consistant à convertir un spectre en artefact. Il est utilisé à la fois comme punition et comme technique de fabrication.#!"
+    building_soulsmithy_01: "Petite forge d'âme"
+    building_soulsmithy_01_desc: "Un petit fourneau, servant à la fois de site d'exécution et de forge, cette Soulforge fait au moins le travail."
+    building_soulsmithy_02: "Grande forge d'âme"
+    building_soulsmithy_02_desc: "Depuis, votre forge a été agrandie et les spectres frémissent désormais à l'idée d'être amenés à cet endroit."
+    building_soulsmithy_03: "Travaux d'acier d'âme"
+    building_soulsmithy_03_desc: "La forge s'est véritablement agrandie, et les forges des usines n'auraient rien à voir avec elle, et même le bourreau le plus heureux des haches ne pourrait pas rattraper le nombre de morts que vous pourriez traiter ici."
+    building_soulsmithy_04: "Travaux de Sombracier"
+    building_soulsmithy_04_desc: "Les spectres de l'Umbra tremblent de peur devant cette terrible usine de mort, car les armes ici sont fabriquées de la qualité la plus immaculée. Un prix exorbitant pour un produit impeccable. Parfait."
+
+    building_type_tithe_of_the_dead_01: "La dîme des morts"
+    building_type_tithe_of_the_dead_01_desc: "#F La dîme des morts consistait en deux pièces de monnaie enfoncées dans les yeux d'un spectre fraîchement décédé ; ces pièces reliques seraient données à Nhudri qui les utiliserait à son tour pour fabriquer des biens.#!"
+    building_tithe_of_the_dead_01: "Faible dîme"
+    building_tithe_of_the_dead_01_desc: "Pour un passage en toute sécurité, vous avez commencé à percevoir une modeste dîme. Ça pue pour ceux qui passent par là, mais ce n’est pas comme s’ils avaient leur mot à dire."
+    building_tithe_of_the_dead_02: "Dîme élevée"
+    building_tithe_of_the_dead_02_desc: "Un lourd tribut, les morts commencent à marmonner sur le « prix élevé », mais laissez-les marmonner. C'est votre pièce maintenant."
+    building_tithe_of_the_dead_03: "Dîme sérieuse"
+    building_tithe_of_the_dead_03_desc: "Vos évaluateurs sont désormais redoutés dans tous vos domaines, et pour cause. La pièce doit couler, quoi qu’il arrive."
+    building_tithe_of_the_dead_04: "Dîme oppressive"
+    building_tithe_of_the_dead_04_desc: "Mort récent, vieux mort, Wraith ou autre voyageur, cela vous est égal. Là où il y a du profit à réaliser, là est votre domaine !"
+
+    building_type_lux_veritatis_01: "Lux Veritatis"
+    building_type_lux_veritatis_01_desc: "#F La Lux Veritatis a dicté que toutes les grandes œuvres de l'humanité doivent être collectées et préservées partout où elles se trouvent, et qu'elles soient conservées dans des coffres-forts sous le Sénat pour que tous puissent en profiter afin que tout l'art et toute l'histoire puissent être préservés pour toujours. .#!"
+    building_lux_veritatis_01: "Petit coffre-fort"
+    building_lux_veritatis_01_desc: "Coffre-fort personnel, vous avez caché ici une petite capsule temporelle de l'art et de la beauté locaux, pour, espérons-le, la préserver du sable du temps. Cela ne signifie peut-être pas grand-chose pour le monde, mais cela signifie beaucoup pour vous."
+    building_lux_veritatis_02: "Petit coffre-fort"
+    building_lux_veritatis_02_desc: "Votre petit refuge pour les reliques de l'humanité a été agrandi et vous disposez de quelques bibelots qui valent vraiment la peine d'être préservés. Vous espérez que ce sera suffisant."
+    building_lux_veritatis_03: "Grand coffre-fort"
+    building_lux_veritatis_03_desc: "Votre bunker d'art et de culture a acquis une certaine renommée, car vous détenez désormais des reliques inestimables, dans l'espoir de les préserver des ravages de l'histoire. Cela pourrait effectivement fonctionner ! Probablement."
+    building_lux_veritatis_04: "Immense coffre-fort"
+    building_lux_veritatis_04_desc: "Les plus grands musées des mortels ne sont rien à côté de vos coffres de traditions, de culture et d’histoire. Tout archéologue entreprenant voudrait jeter un simple coup d’œil à votre collection, et ici, les sagas de l’humanité ont au moins une seule âme misérable pour s’en souvenir."

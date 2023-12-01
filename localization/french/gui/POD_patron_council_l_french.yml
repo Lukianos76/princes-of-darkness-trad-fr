@@ -1,42 +1,42 @@
 ﻿l_french:
- tab_patron_council: "#T Conseil des mécènes#!" #NT!
-  
- PATRON_COUNCIL_WINDOW_TAB_SEEKERS: "Chercheurs" #NT!
- PATRON_COUNCIL_WINDOW_TAB_VANGUARD: "Avant-garde" #NT!
- PATRON_COUNCIL_WINDOW_TAB_AUSTERE_CONCLAVE: "Conclave austère" #NT!
-  
- PATRON_COUNCIL_WINDOW_MY_STATUS: "Ma faction : #V [GetPlayer.Custom('PatronStatus')]#!" #NT!
- PATRON_COUNCIL_WINDOW_SEASON_STATUS: "Situation de la saison : #V [GetPlayer.Custom('SeasonStatus')]#!" #NT!
- PATRON_COUNCIL_WINDOW_ERA: "[GetPlayer.Custom('FaeEra')]" #NT!
-  
- patron_council_disabled: "Le conseil des patrons sera dissous." #NT!
-  
- seeker_membership_modifier: "Chercheur" #NT!
- vanguard_membership_modifier: "Avant-garde" #NT!
- austere_conclave_membership_modifier: "Membre du Conclave austère" #NT!
- philospher_king_modifier: "Roi-philosophe" #NT!
- philospher_queen_modifier: "Reine-philosophe" #NT!
-  
- custom_era_mythic_age: "[mythic_age|E]" #NT!
- custom_era_sundering: "[sundering|E]" #NT!
- custom_era_shattering: "[shattering|E]" #NT!
- custom_era_interregnum: "[interregnum|E]" #NT!
- custom_era_resurgence: "[resurgence|E]" #NT!
-  
- IS_PATRON_TRIGGER: "Vous êtes mécène." #NT!
- IS_NOT_PATRON_TRIGGER: "Vous êtes #bold et non#! un mécène." #NT!
- IS_SEEKER_TRIGGER: "Vous êtes un chercheur." #NT!
- IS_NOT_SEEKER_TRIGGER: "Vous êtes #bold et non#! un chercheur." #NT!
- IS_VANGUARD_TRIGGER: "Vous êtes une avant-garde." #NT!
- IS_NOT_VANGUARD_TRIGGER: "Vous êtes #bold et non#! un Vanguard." #NT!
- IS_AUSTERE_CONCLAVE_TRIGGER: "Vous êtes membre du Conclave Austère." #NT!
- IS_NOT_AUSTERE_CONCLAVE_TRIGGER: "Vous êtes #bold et non#! un membre du Conclave Austère." #NT!
- IS_PHILOSPHER_KING_TRIGGER: "Vous êtes un roi philosophe." #NT!
- IS_NOT_PHILOSPHER_KING_TRIGGER: "Vous êtes #bold et non#! un roi-philosophe." #NT!
- IS_PHILOSPHER_QUEEN_TRIGGER: "Vous êtes une reine philosophe." #NT!
- IS_NOT_PHILOSPHER_QUEEN_TRIGGER: "Vous êtes #bold et non#! une reine-philosophe." #NT!
-  
- set_philospher_queen_notification: "Nouvelle reine-philosophe" #NT!
- set_philospher_queen_notification_tooltip: "Vous avez été élue prochaine reine des philosophes." #NT!
- set_philospher_king_notification: "Nouveau roi-philosophe" #NT!
- set_philospher_king_notification_tooltip: "Vous avez été élu prochain Roi-Philosophe." #NT!
+    tab_patron_council: "#T Conseil des mécènes#!"
+
+    PATRON_COUNCIL_WINDOW_TAB_SEEKERS: "Chercheurs"
+    PATRON_COUNCIL_WINDOW_TAB_VANGUARD: "Avant-garde"
+    PATRON_COUNCIL_WINDOW_TAB_AUSTERE_CONCLAVE: "Conclave austère"
+
+    PATRON_COUNCIL_WINDOW_MY_STATUS: "Ma faction : #V [GetPlayer.Custom('PatronStatus')]#!"
+    PATRON_COUNCIL_WINDOW_SEASON_STATUS: "Situation de la saison : #V [GetPlayer.Custom('SeasonStatus')]#!"
+    PATRON_COUNCIL_WINDOW_ERA: "[GetPlayer.Custom('FaeEra')]"
+
+    patron_council_disabled: "Le conseil des patrons sera dissous."
+
+    seeker_membership_modifier: "Chercheur"
+    vanguard_membership_modifier: "Avant-garde"
+    austere_conclave_membership_modifier: "Membre du Conclave austère"
+    philospher_king_modifier: "Roi-philosophe"
+    philospher_queen_modifier: "Reine-philosophe"
+
+    custom_era_mythic_age: "[mythic_age|E]"
+    custom_era_sundering: "[sundering|E]"
+    custom_era_shattering: "[shattering|E]"
+    custom_era_interregnum: "[interregnum|E]"
+    custom_era_resurgence: "[resurgence|E]"
+
+    IS_PATRON_TRIGGER: "Vous êtes mécène."
+    IS_NOT_PATRON_TRIGGER: "Vous êtes #bold et non#! un mécène."
+    IS_SEEKER_TRIGGER: "Vous êtes un chercheur."
+    IS_NOT_SEEKER_TRIGGER: "Vous êtes #bold et non#! un chercheur."
+    IS_VANGUARD_TRIGGER: "Vous êtes une avant-garde."
+    IS_NOT_VANGUARD_TRIGGER: "Vous êtes #bold et non#! un Vanguard."
+    IS_AUSTERE_CONCLAVE_TRIGGER: "Vous êtes membre du Conclave Austère."
+    IS_NOT_AUSTERE_CONCLAVE_TRIGGER: "Vous êtes #bold et non#! un membre du Conclave Austère."
+    IS_PHILOSPHER_KING_TRIGGER: "Vous êtes un roi philosophe."
+    IS_NOT_PHILOSPHER_KING_TRIGGER: "Vous êtes #bold et non#! un roi-philosophe."
+    IS_PHILOSPHER_QUEEN_TRIGGER: "Vous êtes une reine philosophe."
+    IS_NOT_PHILOSPHER_QUEEN_TRIGGER: "Vous êtes #bold et non#! une reine-philosophe."
+
+    set_philospher_queen_notification: "Nouvelle reine-philosophe"
+    set_philospher_queen_notification_tooltip: "Vous avez été élue prochaine reine des philosophes."
+    set_philospher_king_notification: "Nouveau roi-philosophe"
+    set_philospher_king_notification_tooltip: "Vous avez été élu prochain Roi-Philosophe."

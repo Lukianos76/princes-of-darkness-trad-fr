@@ -1,443 +1,442 @@
 ﻿l_french:
-  
- PODthorns.0002.t: "La Convention des épines" #NT!
- PODthorns.0002.desc: "Alors que la révolte Anarch fait rage à travers le monde [cainite|E], aidée par l'Inquisition toujours présente, un événement sans précédent s'est produit. Plusieurs anciens de divers clans ont appelé à une réunion de paix et à la création d'une nouvelle organisation pour les vampires.\nCette organisation, la Camarilla, serait une secte globale se chargeant de protéger le [masquerade|E] et les relations entre les anciens et les nouveau-nés. De nombreux Vampires, notamment parmi les Anarchs, se méfient de cette initiative mais c'est déjà un succès politique surprenant, puisque des représentants de presque toute l'Europe se réunissent pour parler de la proposition.\nL'avenir des Vampires pourrait se décider dans ce petit anglais ville dans les nuits à venir." #NT!
- PODthorns.0002.a: "Le changement arrive" #NT!
- thorn_begins_effect_message: "Chaque [Clan|E] choisira une position concernant cette proposition. Si vous êtes assez fort, vous pourriez être le représentant de votre propre [Clan|E]." #NT!
- PODthorns.0003.t: "Épines : Les Ventrues" #NT!
- PODthorns.0003.desc: "Les vieilles habitudes sont immortelles et, à ce titre, c'est [Clan|E] Ventrue qui ouvrira la Convention. Beaucoup s’attendent à ce que les rois trouvent un moyen d’assurer leur leadership sur toute nouvelle secte. Leur choix aura également très probablement un impact sur leurs rivaux traditionnels en tant que dirigeants de la nuit, les Lasombra et les Tzimisce." #NT!
- PODthorns.0003.a: "La Camarilla est l'avenir." #NT!
- PODthorns.0003.b: "Nous ne ferons jamais partie de cette folie !" #NT!
- PODthorns.0003.c: "La neutralité est la clé de notre survie." #NT!
- choose_camarilla_effect_message: "Vous rejoignez la Camarilla ; la plupart des [Clan|E] vous suivront" #NT!
- choose_opposition_effect_message: "Vous êtes dans l'opposition, rejoignant les Anarchs avec la plupart de vos [Clan|E]" #NT!
- choose_independance_effect_message: "Rien ne change pour vous ou votre [Clan|E]." #NT!
- PODthorns.0004.t: "Épines : Camarilla Ventrue" #NT!
- PODthorns.0004.desc: "Dans un geste pas si surprenant, les Ventrue se sont alignés sur la Camarilla naissante, dans l'espoir probablement de prendre les rênes du pouvoir tant qu'ils le peuvent encore. La Convention se poursuit alors que les autres représentants discutent de cette décision." #NT!
- PODthorns.0004.a: "Une victoire pour la Camarilla." #NT!
- PODthorns.0004.b: "Je dois les rejoindre !" #NT!
- PODthorns.0005.t: "Épines : Opposition Ventrue" #NT!
- PODthorns.0005.desc: "Une tournure surprenante des événements dans les premières étapes de la Convention des Épines, puisque le représentant Ventrue est sorti en trombe de la table des négociations, qualifiant l'ensemble du processus de triste plaisanterie. Il semble que [Clan|E] Ventrue ne prendra pas part à la Camarilla et s'est aligné sur l'opposition Anarch, dans l'espoir peut-être de remettre de l'ordre dans ce mouvement jusqu'ici sans chef." #NT!
- PODthorns.0005.a: "Une victoire pour l'opposition." #NT!
- PODthorns.0006.t: "Épines : Ventrue neutre" #NT!
- PODthorns.0006.desc: "Une tournure surprenante des événements dans les premières étapes de la Convention des Épines, puisque le représentant Ventrue a annoncé la neutralité totale de son [Clan|E] dans un avenir prévisible. Peut-être que les Ventrue n'étaient pas en mesure de revendiquer le leadership sur les sectes naissantes ? C’est ce qu’affirment les négociateurs enhardis Lasombra et Tzimisce, qui sentent désormais l’occasion de jouer eux-mêmes un rôle de premier plan." #NT!
- PODthorns.0006.a: "Qu'est-ce qui fait qu'un [Clan|E] devient neutre ?" #NT!
- PODthorns.0007.t: "Épines : Le Lasombra" #NT!
- PODthorns.0007.desc: "Alors que le représentant des Lasombra prépare sa déclaration, nombreux sont ceux qui s'attendent à ce que les Magisters soient de l'autre côté des Ventrue. Après tout, il ne peut y avoir qu’un nombre limité de clans dirigeants dans une même secte." #NT!
- PODthorns.0008.t: "Épines : Camarilla Lasombra" #NT!
- PODthorns.0008.desc: "Dans un discours passionné, le représentant de Lasombra déclare son [Clan|E] pleinement en faveur de la Camarilla naissante. Esquissant déjà un plan pour ses institutions, suivant apparemment la hiérarchie de l'Église mortelle, beaucoup s'attendent à ce que les Magisters occupent le siège principal de la nouvelle secte." #NT!
- PODthorns.0009.t: "Épines : Opposition Lasombra" #NT!
- PODthorns.0009.desc: "Il semble que la Camarilla aura un ennemi puissant sous la forme de [Clan|E] Lasombra. Son représentant a maudit la résolution proposée et a quitté précipitamment la Convention. Rassemblés autour de la cause Anarch, les Magisters préparent déjà un projet pour leur propre nouvelle secte." #NT!
- PODthorns.0010.t: "Épines : Lasombra Neutre" #NT!
- PODthorns.0010.desc: "Il semble que [Clan|E] Lasombra ait fini de prétendre au trône des dirigeants de la nuit. Alors que leur représentant annonce leur choix de neutralité, d’autres émettent déjà l’hypothèse que les Magisters concentreront désormais leurs efforts sur des questions plus obscures et mystiques." #NT!
- PODthorns.0011.t: "Thorns : le Brujah" #NT!
- PODthorns.0011.desc: "Une grande majorité du mouvement Anarch originel, les membres du Brujah [Clan|E], sont encore assez divisés sur la manière d'aborder la Convention. Certains y voient une reddition humiliante, d’autres la possibilité d’un traité de paix honorable. Avec une vision aussi divisée et passionnée de la négociation, ce sera à leur représentant d’être la voix décisive." #NT!
- PODthorns.0012.t: "Épines : Camarilla Brujah" #NT!
- PODthorns.0012.desc: "Finalement, les Brujahs ont déposé les armes. Ce fut un processus long et ardu mais une paix a été signée. Le [Clan|E] fait désormais partie intégrante de la Camarilla, malgré les grognements de ses partisans de la ligne dure." #NT!
- PODthorns.0013.t: "Épines : Brujah de l'opposition" #NT!
- PODthorns.0013.desc: "La guerre ne change jamais, et les Brujahs non plus. Le rebelle [Clan|E] a refusé de se retirer et de signer un traité de paix avec la Camarilla naissante. La révolte Anarch se poursuit, mais certains envisagent de réformer le mouvement divisé en une secte plus cohésive, afin de mieux poursuivre le combat." #NT!
- PODthorns.0014.t: "Épines : Brujah neutre" #NT!
- PODthorns.0014.desc: "Rares sont ceux qui auraient pu prédire l’issue des négociations pour [Clan|E] Brujah. Dans un discours déterminé, son représentant a simplement déclaré qu'il ne s'inclinerait plus jamais devant une autre autorité. En tant que tels, les Brujah quittent la convention aussi divisés qu'ils y sont entrés." #NT!
- PODthorns.0015.t: "Thorns : Le Malkavien" #NT!
- PODthorns.0015.desc: "Soyons honnêtes. Personne n'a la moindre idée de la position que [Clan|E] Malkavian adoptera lors de la convention, probablement même pas son représentant. Pourtant, aussi dangereux soient-ils, les fous ne doivent pas être sous-estimés et sont courtisés par les nombreuses factions rassemblées ici." #NT!
- PODthorns.0016.t: "Épines : Camarilla Malkavian" #NT!
- PODthorns.0016.desc: "[Clan|E] Malkav a rejoint la Camarilla sous les applaudissements prudents des représentants de cette secte. Bien que certains qualifieraient une telle aide de malédiction, la Camarilla naissante semble satisfaite d’avoir les dangereux prophètes à ses côtés." #NT!
- PODthorns.0017.t: "Épines : Opposition Malkavien" #NT!
- PODthorns.0017.desc: "Il semble que [Clan|E] Malkav ait prévu... quelque chose d'important à propos de la révolte anarch. Leur représentant, dans une description un peu sordide d'un événement apocalyptique, a officiellement rallié son [Clan|E] à la cause de la rébellion. Les Anarchs, de leur côté, sont aussi surpris que les autres par cette soudaine tournure des événements." #NT!
- PODthorns.0018.t: "Épines : Malkavien neutre" #NT!
- PODthorns.0018.desc: "Revenant à leurs racines en tant que [Clan|E] de prophètes et de conseillers, les Malkaviens ont affirmé leur neutralité dans le conflit en cours. Il semble que chacun aura le plaisir douteux de les manipuler à l'avenir." #NT!
- PODthorns.0019.t: "Thorns : Le Toréador" #NT!
- PODthorns.0019.desc: "Bien que Michael soit parti depuis longtemps, les Toréadors restent un [Clan|E] puissant avec une base de pouvoir solide à travers l'Europe. Comme ils furent les premiers à avancer l'idée de la Mascarade forcée de la Camarilla, ils choisiront probablement cette secte, mais leur nature passionnée pourrait aussi les rapprocher de la Révolte..." #NT!
- PODthorns.0020.t: "Épines : Camarilla Toréador" #NT!
- PODthorns.0020.desc: "Comme prévu, [Clan|E] Toreador a officiellement rejoint la Camarilla, leur souci de l'application du [masquerade|E] ayant emporté sur leur esprit passionné." #NT!
- PODthorns.0021.t: "Épines : Opposition Toréador" #NT!
- PODthorns.0021.desc: "La passion et l'émotion brûlantes ont gagné la journée, alors que le représentant des Toréadors a prononcé un discours enthousiasmant faisant l'éloge de la cause Anarch. Il semble que l'alliance traditionnelle des Toréadors avec les clans dirigeants soit terminée, pour le moment." #NT!
- PODthorns.0022.t: "Épines : Toréador neutre" #NT!
- PODthorns.0022.desc: "Surprenant tout le monde, le représentant des Toréador a annoncé la neutralité de son [Clan|E] dans un avenir prévisible. Peut-être que les Roses en ont assez de la guerre et de la rébellion ?" #NT!
- PODthorns.0023.t: "Épines : les Tremeres" #NT!
- PODthorns.0023.desc: "Les Magii ont fait une entrée explosive dans le monde politique des Vampires et beaucoup ne souhaiteraient rien de plus que de les voir écrasés pour de bon. Il est probable qu'ils rejoindront la Camarilla, dans l'espoir d'y trouver refuge, en échange de leur puissante maîtrise de la sorcellerie du sang dont dispose la secte." #NT!
- PODthorns.0024.t: "Épines : Camarilla Tremere" #NT!
- PODthorns.0024.desc: "Comme la plupart des participants à la convention attendus, les Tremere ont prêté allégeance à la Camarilla. Beaucoup les considèrent déjà comme le véritable pouvoir derrière le trône dans la secte naissante." #NT!
- PODthorns.0025.t: "Épines : Opposition Tremere" #NT!
- PODthorns.0025.desc: "Une tournure surprenante des événements à la Convention, puisque les Tremere ont annoncé leur soutien au mouvement Anarch. Est-ce un échec dans leur pyramide ou une partie d’un projet plus vaste ?" #NT!
- PODthorns.0026.t: "Épines : Tremere neutre" #NT!
- PODthorns.0026.desc: "Il semble que les Mages ne s'inclineront que devant les leurs, puisque leur représentant a annoncé sa neutralité dans le conflit en cours. Nul doute que leurs services en tant que sorciers mercenaires seront très recherchés." #NT!
- PODthorns.0027.t: "Épines : Les Tzimisce" #NT!
- PODthorns.0027.desc: "Le puissant [Clan|E] des Eastern Fiends devrait prendre position contre leurs ennemis détestés Tremere. La neutralité est également une option sérieusement envisagée par nombre de ses membres les plus âgés, car pour la plupart, ils ne se soucient pas du monde en dehors de leurs sombres châteaux." #NT!
- PODthorns.0028.t: "Épines : Camarilla Tzimisce" #NT!
- PODthorns.0028.desc: "Bien que le débat ait été âprement disputé, les Tzimisces [Clan|E] ont accepté de rejoindre la Camarilla. De nombreux détails plus fins restent cependant encore à débattre, comme le [masquerade|E] en Transylvanie..." #NT!
- PODthorns.0029.t: "Épines : Opposition Tzimisce" #NT!
- PODthorns.0029.desc: "La confusion et la colère sont vives à la Convention des Épines alors que le représentant Tzimisce vient de lancer une partie surdimensionnée de son anatomie sur l'un de ses adversaires avant de sortir en trombe. Il semble que les Tzimisces ne soient pas satisfaits de la proposition de la Camarilla." #NT!
- PODthorns.0030.t: "Épines : Tzimisce neutre" #NT!
- PODthorns.0030.desc: "Les membres les plus âgés du [Clan|E] Tzimisce semblent avoir gagné le débat interne, puisque leur représentant vient d'annoncer la neutralité des Fiends dans la guerre en cours. Beaucoup ont exprimé leur inquiétude quant à l'état du [masquerade|E] en Transylvanie suite à une telle décision." #NT!
- PODthorns.0031.t: "Épines : Le Gangrel" #NT!
- PODthorns.0031.desc: "Les Gangrels ne peuvent plus le nier, leur monde est en train de mourir. Quelles que soient leurs prouesses sous le ciel nocturne, leurs mortels ont été influencés par la Croix ou le Croissant. Dans cet environnement en évolution rapide, nombreux sont ceux qui recherchent une place à leur place. Chaque faction adorerait être cet endroit." #NT!
- PODthorns.0032.t: "Épines : Gangrel de la Camarilla" #NT!
- PODthorns.0032.desc: "Le représentant des Gangrel a accepté à contrecœur de rejoindre la Camarilla. Peut-être que les [Clan|E] trouveront désormais un nouveau but en tant qu'exécutants et chiens de sang de cette secte." #NT!
- PODthorns.0033.t: "Épines : Gangrel de l'opposition" #NT!
- PODthorns.0033.desc: "Certains diraient que les Gangrels ont cédé à leur côté sauvage, car ils ont choisi de promettre leur soutien à la cause Anarch, peut-être à la recherche d'une guerre qui vaut la peine d'être menée. Une formidable aubaine pour les rebelles en tout cas." #NT!
- PODthorns.0034.t: "Épines : Gangrel neutre" #NT!
- PODthorns.0034.desc: "Le méfiant [Clan|E] Gangrel semble en avoir assez de ce monde étrange et nouveau dans lequel il se retrouve plongé. En déclarant leur neutralité, eux seuls choisiront la prochaine cible de leur chasse sans fin." #NT!
- PODthorns.0035.t: "Épines : Les Nosferatu" #NT!
- PODthorns.0035.desc: "À première vue, les Nosferatu semblent très enthousiastes à l'idée de la Camarilla. Toujours à la recherche d'une protection contre les horreurs de leur géniteur, ils recherchent la force dans le nombre. Cependant, avec une diplomatie astucieuse, ils pourraient trouver cette force ailleurs." #NT!
- PODthorns.0036.t: "Épines : Camarilla Nosferatu" #NT!
- PODthorns.0036.desc: "Ce ne fut pas une grande surprise lorsque le représentant du Nosferatu annonça le soutien total de son [Clan|E] à la Camarilla naissante. La nouvelle secte peut désormais compter sur un réseau d’informateurs fidèles et puissants." #NT!
- PODthorns.0037.t: "Épines : Opposition Nosferatu" #NT!
- PODthorns.0037.desc: "Nouvelle surprenante lors de la Convention des Épines, les Nosferatu se sont joints au mouvement Anarch. Beaucoup se demandent si les Cachés détiennent des informations secrètes qui auraient fait pencher la balance en défaveur de la Camarilla..." #NT!
- PODthorns.0038.t: "Épines : Nosferatu neutre" #NT!
- PODthorns.0038.desc: "Il a fallu plusieurs nuits avant que l'on s'en aperçoive, mais le représentant de Nosferatu a disparu de la Convention. Il semblerait que les Cachés ne participeront pas à la naissance des sectes." #NT!
- PODthorns.0039.t: "Thorns : les adeptes de Set" #NT!
- PODthorns.0039.desc: "Bien qu'ils aient été officiellement invités à rejoindre la Camarilla, personne ne s'attend vraiment à ce que les enfants de Set acceptent. Leurs voies mystiques les rendent très en contradiction avec le cadre proposé pour la nouvelle secte." #NT!
- PODthorns.0040.t: "Épines : Camarilla Setites" #NT!
- PODthorns.0040.desc: "Alors que le représentant des Disciples de Set accepte la proposition de rejoindre la Camarilla devant un public médusé, tous se demandent déjà quelle est l'arrière-pensée de ce choix. Le serpent vient-il d'être accepté dans le jardin ?" #NT!
- PODthorns.0041.t: "Épines : Séthites de l'opposition" #NT!
- PODthorns.0041.desc: "Il semble que la création de la Camarilla, une autorité centralisée pour les vampires, ait provoqué la colère des Séthites plus que prévu. Parlant de la perception de Set comme un « Grand Libérateur », leur représentant a promis le [Clan|E] à la cause Anarch." #NT!
- PODthorns.0042.t: "Épines : Séthites neutres" #NT!
- PODthorns.0042.desc: "Déclinant poliment l'offre timide de la Camarilla, le représentant séthite a fait ce que tout le monde pensait être le résultat le plus probable : confirmer la neutralité de son [Clan|E] dans la lutte en cours." #NT!
- PODthorns.0043.t: "Épines : l'Assamite" #NT!
- PODthorns.0043.desc: "Alors que l’expansion ottomane menace l’Europe, la Camarilla naissante est divisée sur la manière de la gérer. Les Assamites ont été très actifs dans l’ombre des Turcs, et la Convention des Épines sera l’occasion pour les deux parties d’essayer au moins de régler leurs différends." #NT!
- PODthorns.0044.t: "Épines : Camarilla Assamite" #NT!
- PODthorns.0044.desc: "Dans une surprenante démonstration de diplomatie de la part des deux factions, les Assamites et la Camarilla sont parvenus à un accord révolutionnaire, intégrant fermement les Enfants de Haqim dans la nouvelle secte. Une nouvelle ère de relations entre l’Est et l’Ouest s’ouvre." #NT!
- PODthorns.0045.t: "Épines : Opposition Assamite" #NT!
- PODthorns.0045.desc: "Les pourparlers ont échoué entre la Camarilla et les Assamites. Il semble que la Convention dans son ensemble ait aggravé les choses, puisque les Enfants de Haqim ont promis leur aide au mouvement Anarch, dans l’espoir de briser l’ancien et le nouvel ordre du [cainites|E] européen." #NT!
- PODthorns.0046.t: "Épines : Assamite neutre" #NT!
- PODthorns.0046.desc: "Alors que le représentant Assamite quitte la Convention, rien n’a beaucoup changé. La neutralité ténue des Enfants de Haqim dans les affaires du [cainites|E] occidental perdure." #NT!
- PODthorns.0047.t: "Épines : Le Cappadocien" #NT!
- PODthorns.0047.desc: "Le [Clan|E] de la Mort a toujours été divisé et a subi de nombreuses purges et restructurations. Pourtant, il a toujours été un [Clan|E] respecté et, malgré ses habitudes recluses, a reçu une invitation formelle à rejoindre la Camarilla." #NT!
- PODthorns.0048.t: "Épines : Camarilla Cappadocienne" #NT!
- PODthorns.0048.desc: "Après une longue discussion, il semble que la Camarilla et le [Clan|E] de la Mort soient parvenus à un accord. La secte naissante compte un membre de plus et se félicite déjà de cet exploit." #NT!
- PODthorns.0049.t: "Épines : Opposition Cappadocienne" #NT!
- PODthorns.0049.desc: "Bien que personne ne soit vraiment sûr de ce qui s'est exactement passé, les discussions entre la Camarilla et le [Clan|E] de la Mort se sont complètement retournées contre eux. Se sentant insultés et maltraités, ils ont choisi de s'allier au mouvement Anarch, qui s'étonne assez de ce soutien soudain." #NT!
- PODthorns.0050.t: "Épines : Cappadocien neutre" #NT!
- PODthorns.0050.desc: "Comme la plupart des membres de la Convention s'y attendaient, le [Clan|E] de la Mort a déclaré sa neutralité dans le conflit en cours. Ils resteront le même groupe mystérieux et solitaire d’érudits qu’ils ont toujours été." #NT!
- PODthorns.0051.t: "Épines : Les Salubriens" #NT!
- PODthorns.0051.desc: "Malgré leurs nombreux ennemis, les Salubriens restent une force avec laquelle il faut compter. Ils ont enduré cette nuit et ont évidemment été invités à la Convention. La plupart s'attendent à ce qu'ils prennent le parti opposé du [Clan|E] Tremere détesté, mais la neutralité est également une forte possibilité, car une guerre sans fin leur a déjà coûté cher." #NT!
- PODthorns.0052.t: "Épines : Camarilla Salubri" #NT!
- PODthorns.0052.desc: "La Camarilla se félicite alors que les Salubriens les rejoignent officiellement. Ils se sont déjà engagés à contribuer à freiner la campagne de désinformation en cours à l'encontre de leurs nouveaux alliés et à leur redonner leur véritable place de [Clan|E] des guérisseurs." #NT!
- PODthorns.0053.t: "Épines : Opposition Salubri" #NT!
- PODthorns.0053.desc: "La rétribution est le nom du moment pour [Clan|E] Salubri. Ils veulent se venger de toutes les horreurs qu’ils ont endurées et ont trouvé de nouveaux alliés dans le mouvement Anarch. Peut-être que leurs souffrances communes les ont rapprochés." #NT!
- PODthorns.0054.t: "Épines : Salubri neutre" #NT!
- PODthorns.0054.desc: "Leur lutte pour la survie a coûté très cher à [Clan|E] Salubri. Il est temps pour eux de guérir, corps et âme. Par ces mots, leur représentant confirme la neutralité du [Clan|E] dans la crise en cours." #NT!
- PODthorns.0055.t: "Épines : Les Ravnos" #NT!
- PODthorns.0055.desc: "Les Ravnos ont toujours été étrangers au [cainites|E] occidental, mais cette situation évolue rapidement à mesure que le [Clan|E] indien est de plus en plus présent en Europe. En guise de clin d’œil à cette force retrouvée, ils ont été invités à la Convention, même si la plupart des gens pensent qu’ils maintiendront une neutralité prudente dans la guerre en cours." #NT!
- PODthorns.0056.t: "Épines : Camarilla Ravnos" #NT!
- PODthorns.0056.desc: "Dans une tournure capitale des événements, les Ravnos accomplissent leur décision la plus cruciale en Europe à ce jour : ils ont décidé de rejoindre la Camarilla naissante. Un optimisme prudent se fait sentir au sein de la secte à l'annonce de cette alliance." #NT!
- PODthorns.0057.t: "Épines : Opposition Ravnos" #NT!
- PODthorns.0057.desc: "À la surprise générale, [Clan|E] Ravnos s'est rangé du côté du mouvement Anarch. Est-ce la conséquence du mauvais traitement qu’ils ont reçu de la part des princes occidentaux lors de leur première arrivée en Europe ? Peu de gens peuvent répondre, mais les Anarchs accueillent leurs nouveaux frères à bras ouverts." #NT!
- PODthorns.0058.t: "Épines : Ravnos neutres" #NT!
- PODthorns.0058.desc: "Comme la plupart des gens s’y attendaient, les Ravnos ont confirmé leur neutralité dans la guerre entre les aînés et les nouveau-nés. L'Indien [Clan|E] joue le long jeu et est encore dans un processus ardu pour se faire accepter dans ces terres lointaines." #NT!
- PODthorns.0059.t: "Thorns : Le Caitiff" #NT!
- PODthorns.0059.desc: "Les Caitiff n'étaient qu'une simple rumeur il y a deux siècles, et ils étaient pourchassés à mort s'ils se présentaient dans une ville. Mais les temps ont changé et on ne peut plus les ignorer. Ils se sont invités à la Convention et devraient aider le mouvement Anarch, qui partage bon nombre de leurs doléances." #NT!
- PODthorns.0060.t: "Épines : Camarilla Caitiff" #NT!
- PODthorns.0060.desc: "Une évolution choquante à la Convention puisque les Caitiff ont rejoint la Camarilla. Après de nombreux débats et modifications apportées à la constitution officielle proposée de la secte, les deux factions sont parvenues à un accord. Une nouvelle aube brille pour les opprimés de la race [cainite|E]." #NT!
- PODthorns.0061.t: "Thorns : Caitiff de l’opposition" #NT!
- PODthorns.0061.desc: "Le mouvement Anarch se trouve renforcé par l’allégeance du Caitiff. Ce n’est pas vraiment une surprise, car ils partagent pour la plupart les mêmes griefs et ennemis, mais cela reste une aubaine puissante pour la cause des nouveau-nés." #NT!
- PODthorns.0062.t: "Thorns : Caitiff neutre" #NT!
- PODthorns.0062.desc: "Le caissier a choisi une ligne de conduite prudente lors du congrès. Malgré leurs réticences à l'égard de la Camarilla, ils tentent de ne pas la contrarier davantage en annonçant leur neutralité." #NT!
- PODthorns.0063.t: "Épines : la fin" #NT!
- PODthorns.0063.desc: "Alors que les derniers représentants quittent la salle de la convention, chacun planifie déjà son prochain mouvement. La Camarilla n'a pas encore atteint la suprématie totale prévue sur la race Kindred. L’opposition parle de réformer le mouvement Anarch en une toute nouvelle organisation pour contrer la Camarilla. Enfin, les neutres préparent des pactes et des alliances pour assurer leur survie. Une nouvelle ère de l'histoire du [cainite|E] commence, avec un avenir incertain à venir." #NT!
- PODthorns.0063.a: "Quelle sera la prochaine étape du Grand Jeu ?" #NT!
-  
- PODthorns.1001.t: "Que sera la Camarilla ?" #NT!
- PODthorns.1001.desc: "Le concept de Camarilla en est encore à ses balbutiements et bien que beaucoup s'accordent sur la nécessité de cette organisation vampirique unie, il y a de nombreux débats sur ce que devrait exactement représenter la Camarilla. Participerez-vous à ces débats ?" #NT!
- PODthorns.1001.a: "Mon avis doit être entendu !" #NT!
- PODthorns.1001.a.tt: "#R Vous participerez à un vote pour définir les doctrines et principes de la Camarilla.#!" #NT!
- PODthorns.1001.b: "Je me fiche des détails." #NT!
- PODthorns.1001.b.tt: "La Camarilla conservera ses principes et doctrines par défaut actuels." #NT!
- PODthorns.1002.t: "Mécanique des votes : Principes" #NT!
- PODthorns.1002.desc: "Une procédure a été choisie pour le vote sur ce que devrait être exactement la Camarilla. Comme toujours avec les Caïnites, cela implique beaucoup de politique et d’accords en coulisses. Rien d'extraordinaire pour vous.\n #R Dans la nouvelle fenêtre qui apparaîtra, le premier onglet listera tous les principes en conflit et pouvant faire l'objet d'un vote. Le deuxième onglet listera vos votes actuels que vous pourrez librement modifier.\nLes trois principes ayant obtenu le plus de votes seront conservés et deviendront le noyau de la Camarilla. Si certains principes ont le même nombre de voix, un principe aléatoire sera choisi.\nVous pouvez utiliser la négociation [character_interaction|E] pour faire voter la cible pour un principe que vous avez choisi ou lui faire retirer tous ses votes actuels (et donc s'abstenir). \nPlus les principes choisis par un électeur seront acceptés, plus il voudra finalement rejoindre la Camarilla.#!" #NT!
- PODthorns.1002.a: "Compris." #NT!
- PODthorns.1002.a.tt: "La fenêtre de vote de principe apparaîtra maintenant." #NT!
- PODthorns.1003.t: "Mécanique des Votes : Doctrines" #NT!
- PODthorns.1003.desc: "Le débat pour l'âme de la Camarilla continue. Même si beaucoup ont rejoint cette discussion pour des raisons principalement politiques, ce choix aura quand même beaucoup d'importance car il va de soi que certains choix ne seront pas acceptés par tous les clans.\n #R Vous pouvez modifier votre vote dans le deuxième onglet, la lueur représentant l'option choisie et une coche représentant quelle doctrine sera la dernière compte tenu des votes en cours.\nLes électeurs seront mécontents si moins de 10 de leurs propositions sont acceptées ou si une doctrine choisie les rend criminels ou rejetés.\ nVous pouvez utiliser le vote de négociation [character_interaction|E] pour effectuer un vote cible exactement comme vous l'avez fait.\nLa marque dans le portrait comporte une info-bulle de leurs choix de doctrines.#!" #NT!
- PODthorns.1003.a: "Compris." #NT!
- PODthorns.1003.a.tt: "La fenêtre de vote de doctrine va maintenant s'ouvrir." #NT!
-  
- PODthorns.2001.t: "La deuxième réunion de la Camarilla" #NT!
- PODthorns.2001.desc: "La deuxième réunion, qui se tiendra dans les premiers mois de l'année dans une petite ville à l'extérieur de Vienne, a été programmée. Lors de cette réunion, les Fondateurs, qui avaient servi comme Justicars jusqu'à présent, ont l'intention de diriger un petit Conclave de membres invités de la Camarilla pour voter sur de nouveaux candidats pour pourvoir les sept postes de Justicar. Les Fondateurs deviendront alors le Cercle Intérieur, un conseil de surveillance de la Camarilla dans son ensemble. De nombreuses personnes présentes s'opposeront certainement à la création d'un groupe aussi puissant, mais les Fondateurs peuvent faire appel à des avantages importants pour faire pencher la balance et se désigner comme le Cercle Intérieur." #NT!
- PODthorns.2001.a: "Une bonne proposition." #NT!
- PODthorns.2001.b: "Pas intéressé." #NT!
- PODthorns.2001.c: "Camarilla et leur politique ennuyeuse." #NT!
-  
- POD_camarilla.110.title: "Chasse au sang" #NT!
- POD_camarilla.110.desc: "L'institution juridique traditionnelle derrière la Chasse au Sang est la Lextalionis (ou Lex Talionis), un principe juridique qui peut se résumer par « œil pour œil ». Un tel ordre est généralement donné chaque fois qu'un Vampire a commis une infraction grave, telle qu'un meurtre de parenté, une diablerie, une violation de la Mascarade, une invasion de domaine ayant entraîné l'une des infractions ci-dessus, un défi répété à l'autorité du Prince ou tout autre comportement. qu'un prince considère comme une menace suffisante pour la sécurité de la Mascarade et des vampires de la ville dans son ensemble.\nTout vampire qui entend l'ordre d'une chasse au sang est censé y participer, bien que cela ne soit pas officiellement requis. Allez-vous appeler vos voisins de la Camarilla à se joindre à cette guerre ?" #NT!
- POD_camarilla.110.a: "Appelle les." #NT!
- POD_camarilla.110.b: "Je chasse seul." #NT!
-  
- POD_camarilla.200.title: "Guerre intra-camarilla" #NT!
- POD_camarilla.200.desc: "Comment [attacker.GetFirstName] a-t-il pu déclencher une guerre contre vous, une noble Camarilla [defender.Custom('CamarillaStatus')] ? Peut-être devriez-vous convoquer un conclave et revendiquer le [attacker.GetHerHim] comme [GetTrait('anathema').GetName( GetPlayer )] !\nLa Camarilla dans son ensemble évite la guerre ouverte entre ses membres car elle a tendance à les affaiblir face aux menaces extérieures comme le Sabbat ou l'Anarch. Chaque infraction est cependant traitée séparément, et de nombreuses manœuvres politiques peuvent être impliquées pour parvenir à un accord final." #NT!
- POD_camarilla.200.a: "Appeler." #NT!
- POD_camarilla.200.b: "Pas besoin." #NT!
-  
- POD_camarilla.300.opening: "[recipient.Custom2('AppropriateGreeting', actor )]" #NT!
- POD_camarilla.300.desc: "Mon royaume m'appartient et le restera jusqu'à ce que j'en décide autrement. Votre autorité est reconnue mais votre abus de pouvoir est également constaté. Votre « demande » est refusée." #NT!
- POD_camarilla.300.a: "Je vais devoir explorer d'autres options..." #NT!
-  
- POD_camarilla.999.title: "Réunion du cercle intérieur" #NT!
- POD_camarilla.999.desc: "Les réunions du Inner Circle ont lieu tous les 13 ans et où les [justicar|E] changent ou conservent leur position." #NT!
- POD_camarilla.999.desc_spoiler: "Si vous avez le statut [inner_circle|E], vous pouvez également inscrire quelqu'un sur la Liste rouge ou initier un changement doctrinal au sein de la Camarilla." #NT!
- POD_camarilla.999.a: "Compris." #NT!
-  
- POD_camarilla.1100.title_justicar: "Défi du statut de justicier" #NT!
- POD_camarilla.1100.title: "Candidat justicier" #NT!
- POD_camarilla.1100.desc_justicar: "Les réunions du Cercle Intérieur ont lieu tous les 13 ans et les [justicar|E] changent ou conservent leur position.\nLes 13 années sont maintenant écoulées et vous risquez donc de perdre votre statut de [justicar|E]." #NT!
- POD_camarilla.1100.desc: "Vous êtes choisi comme candidat [justicar|E]." #NT!
- POD_camarilla.1100.a: "J'étais le choix évident." #NT!
- POD_camarilla.1100.a.tt: "Vous conserverez plus probablement votre statut [justicar|E] si le Cercle Intérieur vous apprécie." #NT!
- POD_camarilla.1100.b: "Je vais l'avoir." #NT!
-  
- POD_camarilla.1200.title: "Camarilla a du talent" #NT!
- POD_camarilla.1200.desc: "Choisissez quel candidat sera le prochain [justicar|E]." #NT!
- POD_camarilla.1201.a: "[ventrue_justicar_candidate_1.GetFirstNameNoTooltip]" #NT!
- POD_camarilla.1201.b: "[ventrue_justicar_candidate_2.GetFirstNameNoTooltip]" #NT!
- POD_camarilla.1201.c: "[ventrue_justicar_candidate_3.GetFirstNameNoTooltip]" #NT!
- POD_camarilla.1201.d: "[ventrue_justicar_candidate_4.GetFirstNameNoTooltip]" #NT!
- POD_camarilla.1201.e: "[ventrue_justicar_candidate_5.GetFirstNameNoTooltip]" #NT!
- POD_camarilla.1202.a: "[toreador_justicar_candidate_1.GetFirstNameNoTooltip]" #NT!
- POD_camarilla.1202.b: "[toreador_justicar_candidate_2.GetFirstNameNoTooltip]" #NT!
- POD_camarilla.1202.c: "[toreador_justicar_candidate_3.GetFirstNameNoTooltip]" #NT!
- POD_camarilla.1202.d: "[toreador_justicar_candidate_4.GetFirstNameNoTooltip]" #NT!
- POD_camarilla.1202.e: "[toreador_justicar_candidate_5.GetFirstNameNoTooltip]" #NT!
- POD_camarilla.1203.a: "[tremere_justicar_candidate_1.GetFirstNameNoTooltip]" #NT!
- POD_camarilla.1203.b: "[tremere_justicar_candidate_2.GetFirstNameNoTooltip]" #NT!
- POD_camarilla.1203.c: "[tremere_justicar_candidate_3.GetFirstNameNoTooltip]" #NT!
- POD_camarilla.1203.d: "[tremere_justicar_candidate_4.GetFirstNameNoTooltip]" #NT!
- POD_camarilla.1203.e: "[tremere_justicar_candidate_5.GetFirstNameNoTooltip]" #NT!
- POD_camarilla.1204.a: "[brujah_justicar_candidate_1.GetFirstNameNoTooltip]" #NT!
- POD_camarilla.1204.b: "[brujah_justicar_candidate_2.GetFirstNameNoTooltip]" #NT!
- POD_camarilla.1204.c: "[brujah_justicar_candidate_3.GetFirstNameNoTooltip]" #NT!
- POD_camarilla.1204.d: "[brujah_justicar_candidate_4.GetFirstNameNoTooltip]" #NT!
- POD_camarilla.1204.e: "[brujah_justicar_candidate_5.GetFirstNameNoTooltip]" #NT!
- POD_camarilla.1205.a: "[nosferatu_justicar_candidate_1.GetFirstNameNoTooltip]" #NT!
- POD_camarilla.1205.b: "[nosferatu_justicar_candidate_2.GetFirstNameNoTooltip]" #NT!
- POD_camarilla.1205.c: "[nosferatu_justicar_candidate_3.GetFirstNameNoTooltip]" #NT!
- POD_camarilla.1205.d: "[nosferatu_justicar_candidate_4.GetFirstNameNoTooltip]" #NT!
- POD_camarilla.1205.e: "[nosferatu_justicar_candidate_5.GetFirstNameNoTooltip]" #NT!
- POD_camarilla.1206.a: "[gangrel_justicar_candidate_1.GetFirstNameNoTooltip]" #NT!
- POD_camarilla.1206.b: "[gangrel_justicar_candidate_2.GetFirstNameNoTooltip]" #NT!
- POD_camarilla.1206.c: "[gangrel_justicar_candidate_3.GetFirstNameNoTooltip]" #NT!
- POD_camarilla.1206.d: "[gangrel_justicar_candidate_4.GetFirstNameNoTooltip]" #NT!
- POD_camarilla.1206.e: "[gangrel_justicar_candidate_5.GetFirstNameNoTooltip]" #NT!
- POD_camarilla.1207.a: "[malkavian_justicar_candidate_1.GetFirstNameNoTooltip]" #NT!
- POD_camarilla.1207.b: "[malkavian_justicar_candidate_2.GetFirstNameNoTooltip]" #NT!
- POD_camarilla.1207.c: "[malkavian_justicar_candidate_3.GetFirstNameNoTooltip]" #NT!
- POD_camarilla.1207.d: "[malkavian_justicar_candidate_4.GetFirstNameNoTooltip]" #NT!
- POD_camarilla.1207.e: "[malkavian_justicar_candidate_5.GetFirstNameNoTooltip]" #NT!
- POD_camarilla.1208.a: "[lasombra_justicar_candidate_1.GetFirstNameNoTooltip]" #NT!
- POD_camarilla.1208.b: "[lasombra_justicar_candidate_2.GetFirstNameNoTooltip]" #NT!
- POD_camarilla.1208.c: "[lasombra_justicar_candidate_3.GetFirstNameNoTooltip]" #NT!
- POD_camarilla.1208.d: "[lasombra_justicar_candidate_4.GetFirstNameNoTooltip]" #NT!
- POD_camarilla.1208.e: "[lasombra_justicar_candidate_5.GetFirstNameNoTooltip]" #NT!
- POD_camarilla.1209.a: "[tzimisce_justicar_candidate_1.GetFirstNameNoTooltip]" #NT!
- POD_camarilla.1209.b: "[tzimisce_justicar_candidate_2.GetFirstNameNoTooltip]" #NT!
- POD_camarilla.1209.c: "[tzimisce_justicar_candidate_3.GetFirstNameNoTooltip]" #NT!
- POD_camarilla.1209.d: "[tzimisce_justicar_candidate_4.GetFirstNameNoTooltip]" #NT!
- POD_camarilla.1209.e: "[tzimisce_justicar_candidate_5.GetFirstNameNoTooltip]" #NT!
- POD_camarilla.1210.a: "[ravnos_justicar_candidate_1.GetFirstNameNoTooltip]" #NT!
- POD_camarilla.1210.b: "[ravnos_justicar_candidate_2.GetFirstNameNoTooltip]" #NT!
- POD_camarilla.1210.c: "[ravnos_justicar_candidate_3.GetFirstNameNoTooltip]" #NT!
- POD_camarilla.1210.d: "[ravnos_justicar_candidate_4.GetFirstNameNoTooltip]" #NT!
- POD_camarilla.1210.e: "[ravnos_justicar_candidate_5.GetFirstNameNoTooltip]" #NT!
- POD_camarilla.1211.a: "[cappadocian_justicar_candidate_1.GetFirstNameNoTooltip]" #NT!
- POD_camarilla.1211.b: "[cappadocian_justicar_candidate_2.GetFirstNameNoTooltip]" #NT!
- POD_camarilla.1211.c: "[cappadocian_justicar_candidate_3.GetFirstNameNoTooltip]" #NT!
- POD_camarilla.1211.d: "[cappadocian_justicar_candidate_4.GetFirstNameNoTooltip]" #NT!
- POD_camarilla.1211.e: "[cappadocian_justicar_candidate_5.GetFirstNameNoTooltip]" #NT!
- POD_camarilla.1212.a: "[setite_justicar_candidate_1.GetFirstNameNoTooltip]" #NT!
- POD_camarilla.1212.b: "[setite_justicar_candidate_2.GetFirstNameNoTooltip]" #NT!
- POD_camarilla.1212.c: "[setite_justicar_candidate_3.GetFirstNameNoTooltip]" #NT!
- POD_camarilla.1212.d: "[setite_justicar_candidate_4.GetFirstNameNoTooltip]" #NT!
- POD_camarilla.1212.e: "[setite_justicar_candidate_5.GetFirstNameNoTooltip]" #NT!
- POD_camarilla.1213.a: "[assamite_justicar_candidate_1.GetFirstNameNoTooltip]" #NT!
- POD_camarilla.1213.b: "[assamite_justicar_candidate_2.GetFirstNameNoTooltip]" #NT!
- POD_camarilla.1213.c: "[assamite_justicar_candidate_3.GetFirstNameNoTooltip]" #NT!
- POD_camarilla.1213.d: "[assamite_justicar_candidate_4.GetFirstNameNoTooltip]" #NT!
- POD_camarilla.1213.e: "[assamite_justicar_candidate_5.GetFirstNameNoTooltip]" #NT!
- POD_camarilla.1214.a: "[salubri_justicar_candidate_1.GetFirstNameNoTooltip]" #NT!
- POD_camarilla.1214.b: "[salubri_justicar_candidate_2.GetFirstNameNoTooltip]" #NT!
- POD_camarilla.1214.c: "[salubri_justicar_candidate_3.GetFirstNameNoTooltip]" #NT!
- POD_camarilla.1214.d: "[salubri_justicar_candidate_4.GetFirstNameNoTooltip]" #NT!
- POD_camarilla.1214.e: "[salubri_justicar_candidate_5.GetFirstNameNoTooltip]" #NT!
- POD_camarilla.1215.a: "[caitiff_justicar_candidate_1.GetFirstNameNoTooltip]" #NT!
- POD_camarilla.1215.b: "[caitiff_justicar_candidate_2.GetFirstNameNoTooltip]" #NT!
- POD_camarilla.1215.c: "[caitiff_justicar_candidate_3.GetFirstNameNoTooltip]" #NT!
- POD_camarilla.1215.d: "[caitiff_justicar_candidate_4.GetFirstNameNoTooltip]" #NT!
- POD_camarilla.1215.e: "[caitiff_justicar_candidate_5.GetFirstNameNoTooltip]" #NT!
-  
- POD_camarilla.1301.title: "liste rouge" #NT!
- POD_camarilla.1301.desc: "La Liste Rouge est la liste des Vampires que la Camarilla désire le plus ardemment voir purgés de la surface de la terre. Les vampires figurant sur la liste rouge, appelés Anathema, sont considérés comme faisant l'objet d'une chasse au sang continuelle. La Camarilla confie généralement la chasse et la destruction de ces vampires aux Alastors. Traditionnellement, elle contient 13 noms.\nLa Liste Rouge est actuellement inférieure à 13 et vous pouvez donc y ajouter un nouvel Anathema à votre convenance." #NT!
- POD_camarilla.1301.a: "[red_list_candidate_1.GetFirstNameNoTooltip]" #NT!
- POD_camarilla.1301.b: "[red_list_candidate_2.GetFirstNameNoTooltip]" #NT!
- POD_camarilla.1301.c: "[red_list_candidate_3.GetFirstNameNoTooltip]" #NT!
- POD_camarilla.1301.d: "[red_list_candidate_4.GetFirstNameNoTooltip]" #NT!
- POD_camarilla.1301.e: "[red_list_candidate_5.GetFirstNameNoTooltip]" #NT!
-  
- POD_camarilla.1400.title: "Changer la doctrine" #NT!
- POD_camarilla.1400.desc: "Les réunions du cercle intérieur sont l'endroit où la politique globale de la Camarilla est discutée. Des relations obscures et des avantages vieux de plusieurs siècles peuvent conduire à des changements drastiques dans l'organisation de la secte.\nVoulez-vous changer une doctrine ?" #NT!
- POD_camarilla.1400.a: "Oui" #NT!
- POD_camarilla.1400.b: "Non" #NT!
-  
- POD_camarilla.2001.t: "Ventrue accepté" #NT!
- POD_camarilla.2001.desc: "Vous avez accepté de vous aventurer dans la Camarilla, leur représentant [ventrue_justicar_candidate_1.GetFirstNameNoTooltip] vous remercie pour votre soutien et vous promet le soutien éternel de leur clan à la secte.\nDe jolis mots qui ne coûtent pas grand chose à dire pour le moins." #NT!
- POD_camarilla.2001.a: "Bienvenue du côté des gagnants." #NT!
- POD_camarilla.2101.t: "Camarilla Ventrue" #NT!
- POD_camarilla.2101.desc: "En tant que principal représentant de Ventrue, vous êtes invité à devenir le nouveau membre [inner_circle|E] de votre clan. Un grand honneur, qui fait de vous l'une des figures marquantes de la secte la plus puissante qui existe." #NT!
- POD_camarilla.2101.a: "je le mérite" #NT!
- POD_camarilla.2201.t: "Justicier Ventrue" #NT!
- POD_camarilla.2201.desc: "Ventrue a gagné le droit d'avoir un [justicar|E]. Traditionnellement, chaque clan membre de la Camarilla a un Justicar représentant la volonté des membres de leur Cercle Intérieur. Il va de soi qu’un nouveau clan membre aura également accès à cette possibilité." #NT!
- POD_camarilla.2201.a: "Bon pour nous." #NT!
- POD_camarilla.2201.b: "Bien pour eux." #NT!
-  
- POD_camarilla.2002.t: "Toréador accepté" #NT!
- POD_camarilla.2002.desc: "Vous avez accepté le toréador dans la Camarilla, leur représentant [toreador_justicar_candidate_1.GetFirstNameNoTooltip] vous remercie pour votre soutien et vous promet le soutien éternel de leur clan à la secte.\nDe jolis mots qui ne coûtent pas grand chose à dire pour le moins." #NT!
- POD_camarilla.2002.a: "Bienvenue du côté des gagnants." #NT!
- POD_camarilla.2102.t: "Camarilla Toréador" #NT!
- POD_camarilla.2102.desc: "En tant que principal représentant des toréadors, vous êtes invité à devenir le nouveau membre [inner_circle|E] de votre clan. Un grand honneur, qui fait de vous l'une des figures marquantes de la secte la plus puissante qui existe." #NT!
- POD_camarilla.2102.a: "je le mérite" #NT!
- POD_camarilla.2202.t: "Toréador Justicier" #NT!
- POD_camarilla.2202.desc: "Toreador a gagné le droit d'avoir un [justicar|E]. Traditionnellement, chaque clan membre de la Camarilla a un Justicar représentant la volonté des membres de leur Cercle Intérieur. Il va de soi qu’un nouveau clan membre aura également accès à cette possibilité." #NT!
- POD_camarilla.2202.a: "Bon pour nous." #NT!
- POD_camarilla.2202.b: "Bien pour eux." #NT!
-  
- POD_camarilla.2003.t: "Tremere accepté" #NT!
- POD_camarilla.2003.desc: "Vous avez accepté les tremere dans la Camarilla, leur représentant [tremere_justicar_candidate_1.GetFirstNameNoTooltip] vous remercie pour votre soutien et vous promet le soutien éternel de leur clan à la secte.\nDe jolis mots qui ne coûtent pas grand chose à dire pour le moins." #NT!
- POD_camarilla.2003.a: "Bienvenue du côté des gagnants." #NT!
- POD_camarilla.2103.t: "Camarilla Tremere" #NT!
- POD_camarilla.2103.desc: "En tant que principal représentant tremere, vous êtes invité à devenir le nouveau membre [inner_circle|E] de votre clan. Un grand honneur, qui fait de vous l'une des figures marquantes de la secte la plus puissante qui existe." #NT!
- POD_camarilla.2103.a: "je le mérite" #NT!
- POD_camarilla.2203.t: "Tremere Justicier" #NT!
- POD_camarilla.2203.desc: "Tremere a gagné le droit d'avoir un [justicar|E]. Traditionnellement, chaque clan membre de la Camarilla a un Justicar représentant la volonté des membres de leur Cercle Intérieur. Il va de soi qu’un nouveau clan membre aura également accès à cette possibilité." #NT!
- POD_camarilla.2203.a: "Bon pour nous." #NT!
- POD_camarilla.2203.b: "Bien pour eux." #NT!
-  
- POD_camarilla.2004.t: "Brujah accepté" #NT!
- POD_camarilla.2004.desc: "Vous avez accepté les brujahs dans la Camarilla, leur représentant [brujah_justicar_candidate_1.GetFirstNameNoTooltip] vous remercie pour votre soutien et vous promet le soutien éternel de leur clan à la secte.\nDe jolis mots qui ne coûtent pas grand chose à dire pour le moins." #NT!
- POD_camarilla.2004.a: "Bienvenue du côté des gagnants." #NT!
- POD_camarilla.2104.t: "Camarilla Brujah" #NT!
- POD_camarilla.2104.desc: "En tant que principal représentant des Brujahs, vous êtes invité à devenir le nouveau membre [inner_circle|E] de votre clan. Un grand honneur, qui fait de vous l'une des figures marquantes de la secte la plus puissante qui existe." #NT!
- POD_camarilla.2104.a: "je le mérite" #NT!
- POD_camarilla.2204.t: "Brujah Justicier" #NT!
- POD_camarilla.2204.desc: "Brujah a gagné le droit d'avoir un [justicar|E]. Traditionnellement, chaque clan membre de la Camarilla a un Justicar représentant la volonté des membres de leur Cercle Intérieur. Il va de soi qu’un nouveau clan membre aura également accès à cette possibilité." #NT!
- POD_camarilla.2204.a: "Bon pour nous." #NT!
- POD_camarilla.2204.b: "Bien pour eux." #NT!
-  
- POD_camarilla.2005.t: "Nosferatu Accepté" #NT!
- POD_camarilla.2005.desc: "Vous avez accepté les nosferatu dans la Camarilla, leur représentant [nosferatu_justicar_candidate_1.GetFirstNameNoTooltip] vous remercie pour votre soutien et vous promet le soutien éternel de leur clan à la secte.\nDe jolis mots qui ne coûtent pas grand chose à dire pour le moins." #NT!
- POD_camarilla.2005.a: "Bienvenue du côté des gagnants." #NT!
- POD_camarilla.2105.t: "Camarilla Nosferatu" #NT!
- POD_camarilla.2105.desc: "En tant que principal représentant nosferatu, vous êtes invité à devenir le nouveau membre [inner_circle|E] de votre clan. Un grand honneur, qui fait de vous l'une des figures marquantes de la secte la plus puissante qui existe." #NT!
- POD_camarilla.2105.a: "je le mérite" #NT!
- POD_camarilla.2205.t: "Nosferatu Justicier" #NT!
- POD_camarilla.2205.desc: "Nosferatu a gagné le droit d'avoir un [justicar|E]. Traditionnellement, chaque clan membre de la Camarilla a un Justicar représentant la volonté des membres de leur Cercle Intérieur. Il va de soi qu’un nouveau clan membre aura également accès à cette possibilité." #NT!
- POD_camarilla.2205.a: "Bon pour nous." #NT!
- POD_camarilla.2205.b: "Bien pour eux." #NT!
-  
- POD_camarilla.2006.t: "Gangrel accepté" #NT!
- POD_camarilla.2006.desc: "Vous avez accepté le gangrel dans la Camarilla, leur représentant [gangrel_justicar_candidate_1.GetFirstNameNoTooltip] vous remercie pour votre soutien et vous promet le soutien éternel de leur clan à la secte.\nDe jolis mots qui ne coûtent pas grand chose à dire pour le moins." #NT!
- POD_camarilla.2006.a: "Bienvenue du côté des gagnants." #NT!
- POD_camarilla.2106.t: "Gangrel de la Camarilla" #NT!
- POD_camarilla.2106.desc: "En tant que principal représentant des gangrels, vous êtes invité à devenir le nouveau membre [inner_circle|E] de votre clan. Un grand honneur, qui fait de vous l'une des figures marquantes de la secte la plus puissante qui existe." #NT!
- POD_camarilla.2106.a: "je le mérite" #NT!
- POD_camarilla.2206.t: "Justicier Gangrel" #NT!
- POD_camarilla.2206.desc: "Gangrel a gagné le droit d'avoir un [justicar|E]. Traditionnellement, chaque clan membre de la Camarilla a un Justicar représentant la volonté des membres de leur Cercle Intérieur. Il va de soi qu’un nouveau clan membre aura également accès à cette possibilité." #NT!
- POD_camarilla.2206.a: "Bon pour nous." #NT!
- POD_camarilla.2206.b: "Bien pour eux." #NT!
-  
- POD_camarilla.2007.t: "Malkavien accepté" #NT!
- POD_camarilla.2007.desc: "Vous avez accepté les malkaviens dans la Camarilla, leur représentant [malkavian_justicar_candidate_1.GetFirstNameNoTooltip] vous remercie pour votre soutien et vous promet le soutien éternel de leur clan à la secte.\nDe jolis mots qui ne coûtent pas grand chose à dire pour le moins." #NT!
- POD_camarilla.2007.a: "Bienvenue du côté des gagnants." #NT!
- POD_camarilla.2107.t: "Camarilla Malkavienne" #NT!
- POD_camarilla.2107.desc: "En tant que principal représentant malkavien, vous êtes invité à devenir le nouveau membre [inner_circle|E] de votre clan. Un grand honneur, qui fait de vous l'une des figures marquantes de la secte la plus puissante qui existe." #NT!
- POD_camarilla.2107.a: "je le mérite" #NT!
- POD_camarilla.2207.t: "Justicier malkavien" #NT!
- POD_camarilla.2207.desc: "Malkavian a gagné le droit d'avoir un [justicar|E]. Traditionnellement, chaque clan membre de la Camarilla a un Justicar représentant la volonté des membres de leur Cercle Intérieur. Il va de soi qu’un nouveau clan membre aura également accès à cette possibilité." #NT!
- POD_camarilla.2207.a: "Bon pour nous." #NT!
- POD_camarilla.2207.b: "Bien pour eux." #NT!
-  
- POD_camarilla.2008.t: "Lasombra accepté" #NT!
- POD_camarilla.2008.desc: "Vous avez accepté les lasombra dans la Camarilla, leur représentant [lasombra_justicar_candidate_1.GetFirstNameNoTooltip] vous remercie pour votre soutien et vous promet le soutien éternel de leur clan à la secte.\nDe jolis mots qui ne coûtent pas grand chose à dire pour le moins." #NT!
- POD_camarilla.2008.a: "Bienvenue du côté des gagnants." #NT!
- POD_camarilla.2108.t: "Camarilla Lasombra" #NT!
- POD_camarilla.2108.desc: "En tant que principal représentant du Lasombra, vous êtes invité à devenir le nouveau membre [inner_circle|E] de votre clan. Un grand honneur, qui fait de vous l'une des figures marquantes de la secte la plus puissante qui existe." #NT!
- POD_camarilla.2108.a: "je le mérite" #NT!
- POD_camarilla.2208.t: "Justicier Lasombra" #NT!
- POD_camarilla.2208.desc: "Lasombra a gagné le droit d'avoir un [justicar|E]. Traditionnellement, chaque clan membre de la Camarilla a un Justicar représentant la volonté des membres de leur Cercle Intérieur. Il va de soi qu’un nouveau clan membre aura également accès à cette possibilité." #NT!
- POD_camarilla.2208.a: "Bon pour nous." #NT!
- POD_camarilla.2208.b: "Bien pour eux." #NT!
-  
- POD_camarilla.2009.t: "Tzimisce Accepté" #NT!
- POD_camarilla.2009.desc: "Vous avez accepté les tzimisce dans la Camarilla, leur représentant [tzimisce_justicar_candidate_1.GetFirstNameNoTooltip] vous remercie pour votre soutien et vous promet le soutien éternel de leur clan à la secte.\nDe jolis mots qui ne coûtent pas grand chose à dire pour le moins." #NT!
- POD_camarilla.2009.a: "Bienvenue du côté des gagnants." #NT!
- POD_camarilla.2109.t: "Camarilla Tzimisce" #NT!
- POD_camarilla.2109.desc: "En tant que principal représentant tzimisce, vous êtes invité à devenir le nouveau membre [inner_circle|E] de votre clan. Un grand honneur, qui fait de vous l'une des figures marquantes de la secte la plus puissante qui existe." #NT!
- POD_camarilla.2109.a: "je le mérite" #NT!
- POD_camarilla.2209.t: "Tzimisce Justicier" #NT!
- POD_camarilla.2209.desc: "Tzimisce a gagné le droit d'avoir un [justicar|E]. Traditionnellement, chaque clan membre de la Camarilla a un Justicar représentant la volonté des membres de leur Cercle Intérieur. Il va de soi qu’un nouveau clan membre aura également accès à cette possibilité." #NT!
- POD_camarilla.2209.a: "Bon pour nous." #NT!
- POD_camarilla.2209.b: "Bien pour eux." #NT!
-  
- POD_camarilla.2010.t: "Ravnos acceptés" #NT!
- POD_camarilla.2010.desc: "Vous avez accepté les ravnos dans la Camarilla, leur représentant [ravnos_justicar_candidate_1.GetFirstNameNoTooltip] vous remercie pour votre soutien et vous promet le soutien éternel de leur clan à la secte.\nDe jolis mots qui ne coûtent pas grand chose à dire pour le moins." #NT!
- POD_camarilla.2010.a: "Bienvenue du côté des gagnants." #NT!
- POD_camarilla.2110.t: "Camarilla Ravnos" #NT!
- POD_camarilla.2110.desc: "En tant que principal représentant des Ravnos, vous êtes invité à devenir le nouveau membre [inner_circle|E] de votre clan. Un grand honneur, qui fait de vous l'une des figures marquantes de la secte la plus puissante qui existe." #NT!
- POD_camarilla.2110.a: "je le mérite" #NT!
- POD_camarilla.2210.t: "Ravnos Justicier" #NT!
- POD_camarilla.2210.desc: "Ravnos a gagné le droit d'avoir un [justicar|E]. Traditionnellement, chaque clan membre de la Camarilla a un Justicar représentant la volonté des membres de leur Cercle Intérieur. Il va de soi qu’un nouveau clan membre aura également accès à cette possibilité." #NT!
- POD_camarilla.2210.a: "Bon pour nous." #NT!
- POD_camarilla.2210.b: "Bien pour eux." #NT!
-  
- POD_camarilla.2011.t: "Cappadocien accepté" #NT!
- POD_camarilla.2011.desc: "Vous avez accepté le cappadocien dans la Camarilla, leur représentant [cappadocian_justicar_candidate_1.GetFirstNameNoTooltip] vous remercie pour votre soutien et vous promet le soutien éternel de leur clan à la secte.\nDe jolis mots qui ne coûtent pas grand chose à dire pour le moins." #NT!
- POD_camarilla.2011.a: "Bienvenue du côté des gagnants." #NT!
- POD_camarilla.2111.t: "Camarilla Cappadocienne" #NT!
- POD_camarilla.2111.desc: "En tant que principal représentant cappadocien, vous êtes invité à devenir le nouveau membre [inner_circle|E] de votre clan. Un grand honneur, qui fait de vous l'une des figures marquantes de la secte la plus puissante qui existe." #NT!
- POD_camarilla.2111.a: "je le mérite" #NT!
- POD_camarilla.2211.t: "Justicier cappadocien" #NT!
- POD_camarilla.2211.desc: "Le Cappadocien a gagné le droit d'avoir un [justicar|E]. Traditionnellement, chaque clan membre de la Camarilla a un Justicar représentant la volonté des membres de leur Cercle Intérieur. Il va de soi qu’un nouveau clan membre aura également accès à cette possibilité." #NT!
- POD_camarilla.2211.a: "Bon pour nous." #NT!
- POD_camarilla.2211.b: "Bien pour eux." #NT!
-  
- POD_camarilla.2012.t: "Sétite Acceptée" #NT!
- POD_camarilla.2012.desc: "Vous avez accepté les sétites dans la Camarilla, leur représentant [setite_justicar_candidate_1.GetFirstNameNoTooltip] vous remercie pour votre soutien et vous promet le soutien éternel de leur clan à la secte.\nDe jolis mots qui ne coûtent pas grand chose à dire pour le moins." #NT!
- POD_camarilla.2012.a: "Bienvenue du côté des gagnants." #NT!
- POD_camarilla.2112.t: "Camarilla Sétite" #NT!
- POD_camarilla.2112.desc: "En tant que principal représentant setite, vous êtes invité à devenir le nouveau membre [inner_circle|E] de votre clan. Un grand honneur, qui fait de vous l'une des figures marquantes de la secte la plus puissante qui existe." #NT!
- POD_camarilla.2112.a: "je le mérite" #NT!
- POD_camarilla.2212.t: "Séthite Justicier" #NT!
- POD_camarilla.2212.desc: "Setite a gagné le droit d'avoir un [justicar|E]. Traditionnellement, chaque clan membre de la Camarilla a un Justicar représentant la volonté des membres de leur Cercle Intérieur. Il va de soi qu’un nouveau clan membre aura également accès à cette possibilité." #NT!
- POD_camarilla.2212.a: "Bon pour nous." #NT!
- POD_camarilla.2212.b: "Bien pour eux." #NT!
-  
- POD_camarilla.2013.t: "Assamite accepté" #NT!
- POD_camarilla.2013.desc: "Vous avez accepté les Assamite dans la Camarilla, leur représentant [assamite_justicar_candidate_1.GetFirstNameNoTooltip] vous remercie pour votre soutien et vous promet le soutien éternel de leur clan à la secte.\nDe jolis mots qui ne coûtent pas grand chose à dire pour le moins." #NT!
- POD_camarilla.2013.a: "Bienvenue du côté des gagnants." #NT!
- POD_camarilla.2113.t: "Camarilla Assamite" #NT!
- POD_camarilla.2113.desc: "En tant que principal représentant assamite, vous êtes invité à devenir le nouveau membre [inner_circle|E] de votre clan. Un grand honneur, qui fait de vous l'une des figures marquantes de la secte la plus puissante qui existe." #NT!
- POD_camarilla.2113.a: "je le mérite" #NT!
- POD_camarilla.2213.t: "Justicier Assamite" #NT!
- POD_camarilla.2213.desc: "Assamite a gagné le droit d'avoir un [justicar|E]. Traditionnellement, chaque clan membre de la Camarilla a un Justicar représentant la volonté des membres de leur Cercle Intérieur. Il va de soi qu’un nouveau clan membre aura également accès à cette possibilité." #NT!
- POD_camarilla.2213.a: "Bon pour nous." #NT!
- POD_camarilla.2213.b: "Bien pour eux." #NT!
-  
- POD_camarilla.2014.t: "Salubrien accepté" #NT!
- POD_camarilla.2014.desc: "Vous avez accepté les salubri dans la Camarilla, leur représentant [salubri_justicar_candidate_1.GetFirstNameNoTooltip] vous remercie pour votre soutien et vous promet le soutien éternel de leur clan à la secte.\nDe jolis mots qui ne coûtent pas grand chose à dire pour le moins." #NT!
- POD_camarilla.2014.a: "Bienvenue du côté des gagnants." #NT!
- POD_camarilla.2114.t: "Camarilla Salubri" #NT!
- POD_camarilla.2114.desc: "En tant que principal représentant salubri, vous êtes invité à devenir le nouveau membre [inner_circle|E] de votre clan. Un grand honneur, qui fait de vous l'une des figures marquantes de la secte la plus puissante qui existe." #NT!
- POD_camarilla.2114.a: "je le mérite" #NT!
- POD_camarilla.2214.t: "Justicier de Salubri" #NT!
- POD_camarilla.2214.desc: "Salubri a gagné le droit d'avoir un [justicar|E]. Traditionnellement, chaque clan membre de la Camarilla a un Justicar représentant la volonté des membres de leur Cercle Intérieur. Il va de soi qu’un nouveau clan membre aura également accès à cette possibilité." #NT!
- POD_camarilla.2214.a: "Bon pour nous." #NT!
- POD_camarilla.2214.b: "Bien pour eux." #NT!
-  
- POD_camarilla.2015.t: "Caitiff accepté" #NT!
- POD_camarilla.2015.desc: "Vous avez accepté le caitiff dans la Camarilla, leur représentant [caitiff_justicar_candidate_1.GetFirstNameNoTooltip] vous remercie pour votre soutien et vous promet le soutien éternel de leur clan à la secte.\nDe jolis mots qui ne coûtent pas grand chose à dire pour le moins." #NT!
- POD_camarilla.2015.a: "Bienvenue du côté des gagnants." #NT!
- POD_camarilla.2115.t: "Caïdif de la Camarilla" #NT!
- POD_camarilla.2115.desc: "En tant que principal représentant du caitiff, vous êtes invité à devenir le nouveau membre [inner_circle|E] de votre clan. Un grand honneur, qui fait de vous l'une des figures marquantes de la secte la plus puissante qui existe." #NT!
- POD_camarilla.2115.a: "je le mérite" #NT!
- POD_camarilla.2215.t: "Caitiff Justicier" #NT!
- POD_camarilla.2215.desc: "Caitiff a gagné le droit d'avoir un [justicar|E]. Traditionnellement, chaque clan membre de la Camarilla a un Justicar représentant la volonté des membres de leur Cercle Intérieur. Il va de soi qu’un nouveau clan membre aura également accès à cette possibilité." #NT!
- POD_camarilla.2215.a: "Bon pour nous." #NT!
- POD_camarilla.2215.b: "Bien pour eux." #NT!
+    PODthorns.0002.t: "La Convention des épines"
+    PODthorns.0002.desc: "Alors que la révolte Anarch fait rage à travers le monde [cainite|E], aidée par l'Inquisition toujours présente, un événement sans précédent s'est produit. Plusieurs anciens de divers clans ont appelé à une réunion de paix et à la création d'une nouvelle organisation pour les vampires.\nCette organisation, la Camarilla, serait une secte globale se chargeant de protéger le [masquerade|E] et les relations entre les anciens et les nouveau-nés. De nombreux Vampires, notamment parmi les Anarchs, se méfient de cette initiative mais c'est déjà un succès politique surprenant, puisque des représentants de presque toute l'Europe se réunissent pour parler de la proposition.\nL'avenir des Vampires pourrait se décider dans ce petit anglais ville dans les nuits à venir."
+    PODthorns.0002.a: "Le changement arrive"
+    thorn_begins_effect_message: "Chaque [Clan|E] choisira une position concernant cette proposition. Si vous êtes assez fort, vous pourriez être le représentant de votre propre [Clan|E]."
+    PODthorns.0003.t: "Épines : Les Ventrues"
+    PODthorns.0003.desc: "Les vieilles habitudes sont immortelles et, à ce titre, c'est [Clan|E] Ventrue qui ouvrira la Convention. Beaucoup s’attendent à ce que les rois trouvent un moyen d’assurer leur leadership sur toute nouvelle secte. Leur choix aura également très probablement un impact sur leurs rivaux traditionnels en tant que dirigeants de la nuit, les Lasombra et les Tzimisce."
+    PODthorns.0003.a: "La Camarilla est l'avenir."
+    PODthorns.0003.b: "Nous ne ferons jamais partie de cette folie !"
+    PODthorns.0003.c: "La neutralité est la clé de notre survie."
+    choose_camarilla_effect_message: "Vous rejoignez la Camarilla ; la plupart des [Clan|E] vous suivront"
+    choose_opposition_effect_message: "Vous êtes dans l'opposition, rejoignant les Anarchs avec la plupart de vos [Clan|E]"
+    choose_independance_effect_message: "Rien ne change pour vous ou votre [Clan|E]."
+    PODthorns.0004.t: "Épines : Camarilla Ventrue"
+    PODthorns.0004.desc: "Dans un geste pas si surprenant, les Ventrue se sont alignés sur la Camarilla naissante, dans l'espoir probablement de prendre les rênes du pouvoir tant qu'ils le peuvent encore. La Convention se poursuit alors que les autres représentants discutent de cette décision."
+    PODthorns.0004.a: "Une victoire pour la Camarilla."
+    PODthorns.0004.b: "Je dois les rejoindre !"
+    PODthorns.0005.t: "Épines : Opposition Ventrue"
+    PODthorns.0005.desc: "Une tournure surprenante des événements dans les premières étapes de la Convention des Épines, puisque le représentant Ventrue est sorti en trombe de la table des négociations, qualifiant l'ensemble du processus de triste plaisanterie. Il semble que [Clan|E] Ventrue ne prendra pas part à la Camarilla et s'est aligné sur l'opposition Anarch, dans l'espoir peut-être de remettre de l'ordre dans ce mouvement jusqu'ici sans chef."
+    PODthorns.0005.a: "Une victoire pour l'opposition."
+    PODthorns.0006.t: "Épines : Ventrue neutre"
+    PODthorns.0006.desc: "Une tournure surprenante des événements dans les premières étapes de la Convention des Épines, puisque le représentant Ventrue a annoncé la neutralité totale de son [Clan|E] dans un avenir prévisible. Peut-être que les Ventrue n'étaient pas en mesure de revendiquer le leadership sur les sectes naissantes ? C’est ce qu’affirment les négociateurs enhardis Lasombra et Tzimisce, qui sentent désormais l’occasion de jouer eux-mêmes un rôle de premier plan."
+    PODthorns.0006.a: "Qu'est-ce qui fait qu'un [Clan|E] devient neutre ?"
+    PODthorns.0007.t: "Épines : Le Lasombra"
+    PODthorns.0007.desc: "Alors que le représentant des Lasombra prépare sa déclaration, nombreux sont ceux qui s'attendent à ce que les Magisters soient de l'autre côté des Ventrue. Après tout, il ne peut y avoir qu’un nombre limité de clans dirigeants dans une même secte."
+    PODthorns.0008.t: "Épines : Camarilla Lasombra"
+    PODthorns.0008.desc: "Dans un discours passionné, le représentant de Lasombra déclare son [Clan|E] pleinement en faveur de la Camarilla naissante. Esquissant déjà un plan pour ses institutions, suivant apparemment la hiérarchie de l'Église mortelle, beaucoup s'attendent à ce que les Magisters occupent le siège principal de la nouvelle secte."
+    PODthorns.0009.t: "Épines : Opposition Lasombra"
+    PODthorns.0009.desc: "Il semble que la Camarilla aura un ennemi puissant sous la forme de [Clan|E] Lasombra. Son représentant a maudit la résolution proposée et a quitté précipitamment la Convention. Rassemblés autour de la cause Anarch, les Magisters préparent déjà un projet pour leur propre nouvelle secte."
+    PODthorns.0010.t: "Épines : Lasombra Neutre"
+    PODthorns.0010.desc: "Il semble que [Clan|E] Lasombra ait fini de prétendre au trône des dirigeants de la nuit. Alors que leur représentant annonce leur choix de neutralité, d’autres émettent déjà l’hypothèse que les Magisters concentreront désormais leurs efforts sur des questions plus obscures et mystiques."
+    PODthorns.0011.t: "Thorns : le Brujah"
+    PODthorns.0011.desc: "Une grande majorité du mouvement Anarch originel, les membres du Brujah [Clan|E], sont encore assez divisés sur la manière d'aborder la Convention. Certains y voient une reddition humiliante, d’autres la possibilité d’un traité de paix honorable. Avec une vision aussi divisée et passionnée de la négociation, ce sera à leur représentant d’être la voix décisive."
+    PODthorns.0012.t: "Épines : Camarilla Brujah"
+    PODthorns.0012.desc: "Finalement, les Brujahs ont déposé les armes. Ce fut un processus long et ardu mais une paix a été signée. Le [Clan|E] fait désormais partie intégrante de la Camarilla, malgré les grognements de ses partisans de la ligne dure."
+    PODthorns.0013.t: "Épines : Brujah de l'opposition"
+    PODthorns.0013.desc: "La guerre ne change jamais, et les Brujahs non plus. Le rebelle [Clan|E] a refusé de se retirer et de signer un traité de paix avec la Camarilla naissante. La révolte Anarch se poursuit, mais certains envisagent de réformer le mouvement divisé en une secte plus cohésive, afin de mieux poursuivre le combat."
+    PODthorns.0014.t: "Épines : Brujah neutre"
+    PODthorns.0014.desc: "Rares sont ceux qui auraient pu prédire l’issue des négociations pour [Clan|E] Brujah. Dans un discours déterminé, son représentant a simplement déclaré qu'il ne s'inclinerait plus jamais devant une autre autorité. En tant que tels, les Brujah quittent la convention aussi divisés qu'ils y sont entrés."
+    PODthorns.0015.t: "Thorns : Le Malkavien"
+    PODthorns.0015.desc: "Soyons honnêtes. Personne n'a la moindre idée de la position que [Clan|E] Malkavian adoptera lors de la convention, probablement même pas son représentant. Pourtant, aussi dangereux soient-ils, les fous ne doivent pas être sous-estimés et sont courtisés par les nombreuses factions rassemblées ici."
+    PODthorns.0016.t: "Épines : Camarilla Malkavian"
+    PODthorns.0016.desc: "[Clan|E] Malkav a rejoint la Camarilla sous les applaudissements prudents des représentants de cette secte. Bien que certains qualifieraient une telle aide de malédiction, la Camarilla naissante semble satisfaite d’avoir les dangereux prophètes à ses côtés."
+    PODthorns.0017.t: "Épines : Opposition Malkavien"
+    PODthorns.0017.desc: "Il semble que [Clan|E] Malkav ait prévu... quelque chose d'important à propos de la révolte anarch. Leur représentant, dans une description un peu sordide d'un événement apocalyptique, a officiellement rallié son [Clan|E] à la cause de la rébellion. Les Anarchs, de leur côté, sont aussi surpris que les autres par cette soudaine tournure des événements."
+    PODthorns.0018.t: "Épines : Malkavien neutre"
+    PODthorns.0018.desc: "Revenant à leurs racines en tant que [Clan|E] de prophètes et de conseillers, les Malkaviens ont affirmé leur neutralité dans le conflit en cours. Il semble que chacun aura le plaisir douteux de les manipuler à l'avenir."
+    PODthorns.0019.t: "Thorns : Le Toréador"
+    PODthorns.0019.desc: "Bien que Michael soit parti depuis longtemps, les Toréadors restent un [Clan|E] puissant avec une base de pouvoir solide à travers l'Europe. Comme ils furent les premiers à avancer l'idée de la Mascarade forcée de la Camarilla, ils choisiront probablement cette secte, mais leur nature passionnée pourrait aussi les rapprocher de la Révolte..."
+    PODthorns.0020.t: "Épines : Camarilla Toréador"
+    PODthorns.0020.desc: "Comme prévu, [Clan|E] Toreador a officiellement rejoint la Camarilla, leur souci de l'application du [masquerade|E] ayant emporté sur leur esprit passionné."
+    PODthorns.0021.t: "Épines : Opposition Toréador"
+    PODthorns.0021.desc: "La passion et l'émotion brûlantes ont gagné la journée, alors que le représentant des Toréadors a prononcé un discours enthousiasmant faisant l'éloge de la cause Anarch. Il semble que l'alliance traditionnelle des Toréadors avec les clans dirigeants soit terminée, pour le moment."
+    PODthorns.0022.t: "Épines : Toréador neutre"
+    PODthorns.0022.desc: "Surprenant tout le monde, le représentant des Toréador a annoncé la neutralité de son [Clan|E] dans un avenir prévisible. Peut-être que les Roses en ont assez de la guerre et de la rébellion ?"
+    PODthorns.0023.t: "Épines : les Tremeres"
+    PODthorns.0023.desc: "Les Magii ont fait une entrée explosive dans le monde politique des Vampires et beaucoup ne souhaiteraient rien de plus que de les voir écrasés pour de bon. Il est probable qu'ils rejoindront la Camarilla, dans l'espoir d'y trouver refuge, en échange de leur puissante maîtrise de la sorcellerie du sang dont dispose la secte."
+    PODthorns.0024.t: "Épines : Camarilla Tremere"
+    PODthorns.0024.desc: "Comme la plupart des participants à la convention attendus, les Tremere ont prêté allégeance à la Camarilla. Beaucoup les considèrent déjà comme le véritable pouvoir derrière le trône dans la secte naissante."
+    PODthorns.0025.t: "Épines : Opposition Tremere"
+    PODthorns.0025.desc: "Une tournure surprenante des événements à la Convention, puisque les Tremere ont annoncé leur soutien au mouvement Anarch. Est-ce un échec dans leur pyramide ou une partie d’un projet plus vaste ?"
+    PODthorns.0026.t: "Épines : Tremere neutre"
+    PODthorns.0026.desc: "Il semble que les Mages ne s'inclineront que devant les leurs, puisque leur représentant a annoncé sa neutralité dans le conflit en cours. Nul doute que leurs services en tant que sorciers mercenaires seront très recherchés."
+    PODthorns.0027.t: "Épines : Les Tzimisce"
+    PODthorns.0027.desc: "Le puissant [Clan|E] des Eastern Fiends devrait prendre position contre leurs ennemis détestés Tremere. La neutralité est également une option sérieusement envisagée par nombre de ses membres les plus âgés, car pour la plupart, ils ne se soucient pas du monde en dehors de leurs sombres châteaux."
+    PODthorns.0028.t: "Épines : Camarilla Tzimisce"
+    PODthorns.0028.desc: "Bien que le débat ait été âprement disputé, les Tzimisces [Clan|E] ont accepté de rejoindre la Camarilla. De nombreux détails plus fins restent cependant encore à débattre, comme le [masquerade|E] en Transylvanie..."
+    PODthorns.0029.t: "Épines : Opposition Tzimisce"
+    PODthorns.0029.desc: "La confusion et la colère sont vives à la Convention des Épines alors que le représentant Tzimisce vient de lancer une partie surdimensionnée de son anatomie sur l'un de ses adversaires avant de sortir en trombe. Il semble que les Tzimisces ne soient pas satisfaits de la proposition de la Camarilla."
+    PODthorns.0030.t: "Épines : Tzimisce neutre"
+    PODthorns.0030.desc: "Les membres les plus âgés du [Clan|E] Tzimisce semblent avoir gagné le débat interne, puisque leur représentant vient d'annoncer la neutralité des Fiends dans la guerre en cours. Beaucoup ont exprimé leur inquiétude quant à l'état du [masquerade|E] en Transylvanie suite à une telle décision."
+    PODthorns.0031.t: "Épines : Le Gangrel"
+    PODthorns.0031.desc: "Les Gangrels ne peuvent plus le nier, leur monde est en train de mourir. Quelles que soient leurs prouesses sous le ciel nocturne, leurs mortels ont été influencés par la Croix ou le Croissant. Dans cet environnement en évolution rapide, nombreux sont ceux qui recherchent une place à leur place. Chaque faction adorerait être cet endroit."
+    PODthorns.0032.t: "Épines : Gangrel de la Camarilla"
+    PODthorns.0032.desc: "Le représentant des Gangrel a accepté à contrecœur de rejoindre la Camarilla. Peut-être que les [Clan|E] trouveront désormais un nouveau but en tant qu'exécutants et chiens de sang de cette secte."
+    PODthorns.0033.t: "Épines : Gangrel de l'opposition"
+    PODthorns.0033.desc: "Certains diraient que les Gangrels ont cédé à leur côté sauvage, car ils ont choisi de promettre leur soutien à la cause Anarch, peut-être à la recherche d'une guerre qui vaut la peine d'être menée. Une formidable aubaine pour les rebelles en tout cas."
+    PODthorns.0034.t: "Épines : Gangrel neutre"
+    PODthorns.0034.desc: "Le méfiant [Clan|E] Gangrel semble en avoir assez de ce monde étrange et nouveau dans lequel il se retrouve plongé. En déclarant leur neutralité, eux seuls choisiront la prochaine cible de leur chasse sans fin."
+    PODthorns.0035.t: "Épines : Les Nosferatu"
+    PODthorns.0035.desc: "À première vue, les Nosferatu semblent très enthousiastes à l'idée de la Camarilla. Toujours à la recherche d'une protection contre les horreurs de leur géniteur, ils recherchent la force dans le nombre. Cependant, avec une diplomatie astucieuse, ils pourraient trouver cette force ailleurs."
+    PODthorns.0036.t: "Épines : Camarilla Nosferatu"
+    PODthorns.0036.desc: "Ce ne fut pas une grande surprise lorsque le représentant du Nosferatu annonça le soutien total de son [Clan|E] à la Camarilla naissante. La nouvelle secte peut désormais compter sur un réseau d’informateurs fidèles et puissants."
+    PODthorns.0037.t: "Épines : Opposition Nosferatu"
+    PODthorns.0037.desc: "Nouvelle surprenante lors de la Convention des Épines, les Nosferatu se sont joints au mouvement Anarch. Beaucoup se demandent si les Cachés détiennent des informations secrètes qui auraient fait pencher la balance en défaveur de la Camarilla..."
+    PODthorns.0038.t: "Épines : Nosferatu neutre"
+    PODthorns.0038.desc: "Il a fallu plusieurs nuits avant que l'on s'en aperçoive, mais le représentant de Nosferatu a disparu de la Convention. Il semblerait que les Cachés ne participeront pas à la naissance des sectes."
+    PODthorns.0039.t: "Thorns : les adeptes de Set"
+    PODthorns.0039.desc: "Bien qu'ils aient été officiellement invités à rejoindre la Camarilla, personne ne s'attend vraiment à ce que les enfants de Set acceptent. Leurs voies mystiques les rendent très en contradiction avec le cadre proposé pour la nouvelle secte."
+    PODthorns.0040.t: "Épines : Camarilla Setites"
+    PODthorns.0040.desc: "Alors que le représentant des Disciples de Set accepte la proposition de rejoindre la Camarilla devant un public médusé, tous se demandent déjà quelle est l'arrière-pensée de ce choix. Le serpent vient-il d'être accepté dans le jardin ?"
+    PODthorns.0041.t: "Épines : Séthites de l'opposition"
+    PODthorns.0041.desc: "Il semble que la création de la Camarilla, une autorité centralisée pour les vampires, ait provoqué la colère des Séthites plus que prévu. Parlant de la perception de Set comme un « Grand Libérateur », leur représentant a promis le [Clan|E] à la cause Anarch."
+    PODthorns.0042.t: "Épines : Séthites neutres"
+    PODthorns.0042.desc: "Déclinant poliment l'offre timide de la Camarilla, le représentant séthite a fait ce que tout le monde pensait être le résultat le plus probable : confirmer la neutralité de son [Clan|E] dans la lutte en cours."
+    PODthorns.0043.t: "Épines : l'Assamite"
+    PODthorns.0043.desc: "Alors que l’expansion ottomane menace l’Europe, la Camarilla naissante est divisée sur la manière de la gérer. Les Assamites ont été très actifs dans l’ombre des Turcs, et la Convention des Épines sera l’occasion pour les deux parties d’essayer au moins de régler leurs différends."
+    PODthorns.0044.t: "Épines : Camarilla Assamite"
+    PODthorns.0044.desc: "Dans une surprenante démonstration de diplomatie de la part des deux factions, les Assamites et la Camarilla sont parvenus à un accord révolutionnaire, intégrant fermement les Enfants de Haqim dans la nouvelle secte. Une nouvelle ère de relations entre l’Est et l’Ouest s’ouvre."
+    PODthorns.0045.t: "Épines : Opposition Assamite"
+    PODthorns.0045.desc: "Les pourparlers ont échoué entre la Camarilla et les Assamites. Il semble que la Convention dans son ensemble ait aggravé les choses, puisque les Enfants de Haqim ont promis leur aide au mouvement Anarch, dans l’espoir de briser l’ancien et le nouvel ordre du [cainites|E] européen."
+    PODthorns.0046.t: "Épines : Assamite neutre"
+    PODthorns.0046.desc: "Alors que le représentant Assamite quitte la Convention, rien n’a beaucoup changé. La neutralité ténue des Enfants de Haqim dans les affaires du [cainites|E] occidental perdure."
+    PODthorns.0047.t: "Épines : Le Cappadocien"
+    PODthorns.0047.desc: "Le [Clan|E] de la Mort a toujours été divisé et a subi de nombreuses purges et restructurations. Pourtant, il a toujours été un [Clan|E] respecté et, malgré ses habitudes recluses, a reçu une invitation formelle à rejoindre la Camarilla."
+    PODthorns.0048.t: "Épines : Camarilla Cappadocienne"
+    PODthorns.0048.desc: "Après une longue discussion, il semble que la Camarilla et le [Clan|E] de la Mort soient parvenus à un accord. La secte naissante compte un membre de plus et se félicite déjà de cet exploit."
+    PODthorns.0049.t: "Épines : Opposition Cappadocienne"
+    PODthorns.0049.desc: "Bien que personne ne soit vraiment sûr de ce qui s'est exactement passé, les discussions entre la Camarilla et le [Clan|E] de la Mort se sont complètement retournées contre eux. Se sentant insultés et maltraités, ils ont choisi de s'allier au mouvement Anarch, qui s'étonne assez de ce soutien soudain."
+    PODthorns.0050.t: "Épines : Cappadocien neutre"
+    PODthorns.0050.desc: "Comme la plupart des membres de la Convention s'y attendaient, le [Clan|E] de la Mort a déclaré sa neutralité dans le conflit en cours. Ils resteront le même groupe mystérieux et solitaire d’érudits qu’ils ont toujours été."
+    PODthorns.0051.t: "Épines : Les Salubriens"
+    PODthorns.0051.desc: "Malgré leurs nombreux ennemis, les Salubriens restent une force avec laquelle il faut compter. Ils ont enduré cette nuit et ont évidemment été invités à la Convention. La plupart s'attendent à ce qu'ils prennent le parti opposé du [Clan|E] Tremere détesté, mais la neutralité est également une forte possibilité, car une guerre sans fin leur a déjà coûté cher."
+    PODthorns.0052.t: "Épines : Camarilla Salubri"
+    PODthorns.0052.desc: "La Camarilla se félicite alors que les Salubriens les rejoignent officiellement. Ils se sont déjà engagés à contribuer à freiner la campagne de désinformation en cours à l'encontre de leurs nouveaux alliés et à leur redonner leur véritable place de [Clan|E] des guérisseurs."
+    PODthorns.0053.t: "Épines : Opposition Salubri"
+    PODthorns.0053.desc: "La rétribution est le nom du moment pour [Clan|E] Salubri. Ils veulent se venger de toutes les horreurs qu’ils ont endurées et ont trouvé de nouveaux alliés dans le mouvement Anarch. Peut-être que leurs souffrances communes les ont rapprochés."
+    PODthorns.0054.t: "Épines : Salubri neutre"
+    PODthorns.0054.desc: "Leur lutte pour la survie a coûté très cher à [Clan|E] Salubri. Il est temps pour eux de guérir, corps et âme. Par ces mots, leur représentant confirme la neutralité du [Clan|E] dans la crise en cours."
+    PODthorns.0055.t: "Épines : Les Ravnos"
+    PODthorns.0055.desc: "Les Ravnos ont toujours été étrangers au [cainites|E] occidental, mais cette situation évolue rapidement à mesure que le [Clan|E] indien est de plus en plus présent en Europe. En guise de clin d’œil à cette force retrouvée, ils ont été invités à la Convention, même si la plupart des gens pensent qu’ils maintiendront une neutralité prudente dans la guerre en cours."
+    PODthorns.0056.t: "Épines : Camarilla Ravnos"
+    PODthorns.0056.desc: "Dans une tournure capitale des événements, les Ravnos accomplissent leur décision la plus cruciale en Europe à ce jour : ils ont décidé de rejoindre la Camarilla naissante. Un optimisme prudent se fait sentir au sein de la secte à l'annonce de cette alliance."
+    PODthorns.0057.t: "Épines : Opposition Ravnos"
+    PODthorns.0057.desc: "À la surprise générale, [Clan|E] Ravnos s'est rangé du côté du mouvement Anarch. Est-ce la conséquence du mauvais traitement qu’ils ont reçu de la part des princes occidentaux lors de leur première arrivée en Europe ? Peu de gens peuvent répondre, mais les Anarchs accueillent leurs nouveaux frères à bras ouverts."
+    PODthorns.0058.t: "Épines : Ravnos neutres"
+    PODthorns.0058.desc: "Comme la plupart des gens s’y attendaient, les Ravnos ont confirmé leur neutralité dans la guerre entre les aînés et les nouveau-nés. L'Indien [Clan|E] joue le long jeu et est encore dans un processus ardu pour se faire accepter dans ces terres lointaines."
+    PODthorns.0059.t: "Thorns : Le Caitiff"
+    PODthorns.0059.desc: "Les Caitiff n'étaient qu'une simple rumeur il y a deux siècles, et ils étaient pourchassés à mort s'ils se présentaient dans une ville. Mais les temps ont changé et on ne peut plus les ignorer. Ils se sont invités à la Convention et devraient aider le mouvement Anarch, qui partage bon nombre de leurs doléances."
+    PODthorns.0060.t: "Épines : Camarilla Caitiff"
+    PODthorns.0060.desc: "Une évolution choquante à la Convention puisque les Caitiff ont rejoint la Camarilla. Après de nombreux débats et modifications apportées à la constitution officielle proposée de la secte, les deux factions sont parvenues à un accord. Une nouvelle aube brille pour les opprimés de la race [cainite|E]."
+    PODthorns.0061.t: "Thorns : Caitiff de l’opposition"
+    PODthorns.0061.desc: "Le mouvement Anarch se trouve renforcé par l’allégeance du Caitiff. Ce n’est pas vraiment une surprise, car ils partagent pour la plupart les mêmes griefs et ennemis, mais cela reste une aubaine puissante pour la cause des nouveau-nés."
+    PODthorns.0062.t: "Thorns : Caitiff neutre"
+    PODthorns.0062.desc: "Le caissier a choisi une ligne de conduite prudente lors du congrès. Malgré leurs réticences à l'égard de la Camarilla, ils tentent de ne pas la contrarier davantage en annonçant leur neutralité."
+    PODthorns.0063.t: "Épines : la fin"
+    PODthorns.0063.desc: "Alors que les derniers représentants quittent la salle de la convention, chacun planifie déjà son prochain mouvement. La Camarilla n'a pas encore atteint la suprématie totale prévue sur la race Kindred. L’opposition parle de réformer le mouvement Anarch en une toute nouvelle organisation pour contrer la Camarilla. Enfin, les neutres préparent des pactes et des alliances pour assurer leur survie. Une nouvelle ère de l'histoire du [cainite|E] commence, avec un avenir incertain à venir."
+    PODthorns.0063.a: "Quelle sera la prochaine étape du Grand Jeu ?"
+
+    PODthorns.1001.t: "Que sera la Camarilla ?"
+    PODthorns.1001.desc: "Le concept de Camarilla en est encore à ses balbutiements et bien que beaucoup s'accordent sur la nécessité de cette organisation vampirique unie, il y a de nombreux débats sur ce que devrait exactement représenter la Camarilla. Participerez-vous à ces débats ?"
+    PODthorns.1001.a: "Mon avis doit être entendu !"
+    PODthorns.1001.a.tt: "#R Vous participerez à un vote pour définir les doctrines et principes de la Camarilla.#!"
+    PODthorns.1001.b: "Je me fiche des détails."
+    PODthorns.1001.b.tt: "La Camarilla conservera ses principes et doctrines par défaut actuels."
+    PODthorns.1002.t: "Mécanique des votes : Principes"
+    PODthorns.1002.desc: "Une procédure a été choisie pour le vote sur ce que devrait être exactement la Camarilla. Comme toujours avec les Caïnites, cela implique beaucoup de politique et d’accords en coulisses. Rien d'extraordinaire pour vous.\n #R Dans la nouvelle fenêtre qui apparaîtra, le premier onglet listera tous les principes en conflit et pouvant faire l'objet d'un vote. Le deuxième onglet listera vos votes actuels que vous pourrez librement modifier.\nLes trois principes ayant obtenu le plus de votes seront conservés et deviendront le noyau de la Camarilla. Si certains principes ont le même nombre de voix, un principe aléatoire sera choisi.\nVous pouvez utiliser la négociation [character_interaction|E] pour faire voter la cible pour un principe que vous avez choisi ou lui faire retirer tous ses votes actuels (et donc s'abstenir). \nPlus les principes choisis par un électeur seront acceptés, plus il voudra finalement rejoindre la Camarilla.#!"
+    PODthorns.1002.a: "Compris."
+    PODthorns.1002.a.tt: "La fenêtre de vote de principe apparaîtra maintenant."
+    PODthorns.1003.t: "Mécanique des Votes : Doctrines"
+    PODthorns.1003.desc: "Le débat pour l'âme de la Camarilla continue. Même si beaucoup ont rejoint cette discussion pour des raisons principalement politiques, ce choix aura quand même beaucoup d'importance car il va de soi que certains choix ne seront pas acceptés par tous les clans.\n #R Vous pouvez modifier votre vote dans le deuxième onglet, la lueur représentant l'option choisie et une coche représentant quelle doctrine sera la dernière compte tenu des votes en cours.\nLes électeurs seront mécontents si moins de 10 de leurs propositions sont acceptées ou si une doctrine choisie les rend criminels ou rejetés.\ nVous pouvez utiliser le vote de négociation [character_interaction|E] pour effectuer un vote cible exactement comme vous l'avez fait.\nLa marque dans le portrait comporte une info-bulle de leurs choix de doctrines.#!"
+    PODthorns.1003.a: "Compris."
+    PODthorns.1003.a.tt: "La fenêtre de vote de doctrine va maintenant s'ouvrir."
+
+    PODthorns.2001.t: "La deuxième réunion de la Camarilla"
+    PODthorns.2001.desc: "La deuxième réunion, qui se tiendra dans les premiers mois de l'année dans une petite ville à l'extérieur de Vienne, a été programmée. Lors de cette réunion, les Fondateurs, qui avaient servi comme Justicars jusqu'à présent, ont l'intention de diriger un petit Conclave de membres invités de la Camarilla pour voter sur de nouveaux candidats pour pourvoir les sept postes de Justicar. Les Fondateurs deviendront alors le Cercle Intérieur, un conseil de surveillance de la Camarilla dans son ensemble. De nombreuses personnes présentes s'opposeront certainement à la création d'un groupe aussi puissant, mais les Fondateurs peuvent faire appel à des avantages importants pour faire pencher la balance et se désigner comme le Cercle Intérieur."
+    PODthorns.2001.a: "Une bonne proposition."
+    PODthorns.2001.b: "Pas intéressé."
+    PODthorns.2001.c: "Camarilla et leur politique ennuyeuse."
+
+    POD_camarilla.110.title: "Chasse au sang"
+    POD_camarilla.110.desc: "L'institution juridique traditionnelle derrière la Chasse au Sang est la Lextalionis (ou Lex Talionis), un principe juridique qui peut se résumer par « œil pour œil ». Un tel ordre est généralement donné chaque fois qu'un Vampire a commis une infraction grave, telle qu'un meurtre de parenté, une diablerie, une violation de la Mascarade, une invasion de domaine ayant entraîné l'une des infractions ci-dessus, un défi répété à l'autorité du Prince ou tout autre comportement. qu'un prince considère comme une menace suffisante pour la sécurité de la Mascarade et des vampires de la ville dans son ensemble.\nTout vampire qui entend l'ordre d'une chasse au sang est censé y participer, bien que cela ne soit pas officiellement requis. Allez-vous appeler vos voisins de la Camarilla à se joindre à cette guerre ?"
+    POD_camarilla.110.a: "Appelle les."
+    POD_camarilla.110.b: "Je chasse seul."
+
+    POD_camarilla.200.title: "Guerre intra-camarilla"
+    POD_camarilla.200.desc: "Comment [attacker.GetFirstName] a-t-il pu déclencher une guerre contre vous, une noble Camarilla [defender.Custom('CamarillaStatus')] ? Peut-être devriez-vous convoquer un conclave et revendiquer le [attacker.GetHerHim] comme [GetTrait('anathema').GetName( GetPlayer )] !\nLa Camarilla dans son ensemble évite la guerre ouverte entre ses membres car elle a tendance à les affaiblir face aux menaces extérieures comme le Sabbat ou l'Anarch. Chaque infraction est cependant traitée séparément, et de nombreuses manœuvres politiques peuvent être impliquées pour parvenir à un accord final."
+    POD_camarilla.200.a: "Appeler."
+    POD_camarilla.200.b: "Pas besoin."
+
+    POD_camarilla.300.opening: "[recipient.Custom2('AppropriateGreeting', actor )]"
+    POD_camarilla.300.desc: "Mon royaume m'appartient et le restera jusqu'à ce que j'en décide autrement. Votre autorité est reconnue mais votre abus de pouvoir est également constaté. Votre « demande » est refusée."
+    POD_camarilla.300.a: "Je vais devoir explorer d'autres options..."
+
+    POD_camarilla.999.title: "Réunion du cercle intérieur"
+    POD_camarilla.999.desc: "Les réunions du Inner Circle ont lieu tous les 13 ans et où les [justicar|E] changent ou conservent leur position."
+    POD_camarilla.999.desc_spoiler: "Si vous avez le statut [inner_circle|E], vous pouvez également inscrire quelqu'un sur la Liste rouge ou initier un changement doctrinal au sein de la Camarilla."
+    POD_camarilla.999.a: "Compris."
+
+    POD_camarilla.1100.title_justicar: "Défi du statut de justicier"
+    POD_camarilla.1100.title: "Candidat justicier"
+    POD_camarilla.1100.desc_justicar: "Les réunions du Cercle Intérieur ont lieu tous les 13 ans et les [justicar|E] changent ou conservent leur position.\nLes 13 années sont maintenant écoulées et vous risquez donc de perdre votre statut de [justicar|E]."
+    POD_camarilla.1100.desc: "Vous êtes choisi comme candidat [justicar|E]."
+    POD_camarilla.1100.a: "J'étais le choix évident."
+    POD_camarilla.1100.a.tt: "Vous conserverez plus probablement votre statut [justicar|E] si le Cercle Intérieur vous apprécie."
+    POD_camarilla.1100.b: "Je vais l'avoir."
+
+    POD_camarilla.1200.title: "Camarilla a du talent"
+    POD_camarilla.1200.desc: "Choisissez quel candidat sera le prochain [justicar|E]."
+    POD_camarilla.1201.a: "[ventrue_justicar_candidate_1.GetFirstNameNoTooltip]"
+    POD_camarilla.1201.b: "[ventrue_justicar_candidate_2.GetFirstNameNoTooltip]"
+    POD_camarilla.1201.c: "[ventrue_justicar_candidate_3.GetFirstNameNoTooltip]"
+    POD_camarilla.1201.d: "[ventrue_justicar_candidate_4.GetFirstNameNoTooltip]"
+    POD_camarilla.1201.e: "[ventrue_justicar_candidate_5.GetFirstNameNoTooltip]"
+    POD_camarilla.1202.a: "[toreador_justicar_candidate_1.GetFirstNameNoTooltip]"
+    POD_camarilla.1202.b: "[toreador_justicar_candidate_2.GetFirstNameNoTooltip]"
+    POD_camarilla.1202.c: "[toreador_justicar_candidate_3.GetFirstNameNoTooltip]"
+    POD_camarilla.1202.d: "[toreador_justicar_candidate_4.GetFirstNameNoTooltip]"
+    POD_camarilla.1202.e: "[toreador_justicar_candidate_5.GetFirstNameNoTooltip]"
+    POD_camarilla.1203.a: "[tremere_justicar_candidate_1.GetFirstNameNoTooltip]"
+    POD_camarilla.1203.b: "[tremere_justicar_candidate_2.GetFirstNameNoTooltip]"
+    POD_camarilla.1203.c: "[tremere_justicar_candidate_3.GetFirstNameNoTooltip]"
+    POD_camarilla.1203.d: "[tremere_justicar_candidate_4.GetFirstNameNoTooltip]"
+    POD_camarilla.1203.e: "[tremere_justicar_candidate_5.GetFirstNameNoTooltip]"
+    POD_camarilla.1204.a: "[brujah_justicar_candidate_1.GetFirstNameNoTooltip]"
+    POD_camarilla.1204.b: "[brujah_justicar_candidate_2.GetFirstNameNoTooltip]"
+    POD_camarilla.1204.c: "[brujah_justicar_candidate_3.GetFirstNameNoTooltip]"
+    POD_camarilla.1204.d: "[brujah_justicar_candidate_4.GetFirstNameNoTooltip]"
+    POD_camarilla.1204.e: "[brujah_justicar_candidate_5.GetFirstNameNoTooltip]"
+    POD_camarilla.1205.a: "[nosferatu_justicar_candidate_1.GetFirstNameNoTooltip]"
+    POD_camarilla.1205.b: "[nosferatu_justicar_candidate_2.GetFirstNameNoTooltip]"
+    POD_camarilla.1205.c: "[nosferatu_justicar_candidate_3.GetFirstNameNoTooltip]"
+    POD_camarilla.1205.d: "[nosferatu_justicar_candidate_4.GetFirstNameNoTooltip]"
+    POD_camarilla.1205.e: "[nosferatu_justicar_candidate_5.GetFirstNameNoTooltip]"
+    POD_camarilla.1206.a: "[gangrel_justicar_candidate_1.GetFirstNameNoTooltip]"
+    POD_camarilla.1206.b: "[gangrel_justicar_candidate_2.GetFirstNameNoTooltip]"
+    POD_camarilla.1206.c: "[gangrel_justicar_candidate_3.GetFirstNameNoTooltip]"
+    POD_camarilla.1206.d: "[gangrel_justicar_candidate_4.GetFirstNameNoTooltip]"
+    POD_camarilla.1206.e: "[gangrel_justicar_candidate_5.GetFirstNameNoTooltip]"
+    POD_camarilla.1207.a: "[malkavian_justicar_candidate_1.GetFirstNameNoTooltip]"
+    POD_camarilla.1207.b: "[malkavian_justicar_candidate_2.GetFirstNameNoTooltip]"
+    POD_camarilla.1207.c: "[malkavian_justicar_candidate_3.GetFirstNameNoTooltip]"
+    POD_camarilla.1207.d: "[malkavian_justicar_candidate_4.GetFirstNameNoTooltip]"
+    POD_camarilla.1207.e: "[malkavian_justicar_candidate_5.GetFirstNameNoTooltip]"
+    POD_camarilla.1208.a: "[lasombra_justicar_candidate_1.GetFirstNameNoTooltip]"
+    POD_camarilla.1208.b: "[lasombra_justicar_candidate_2.GetFirstNameNoTooltip]"
+    POD_camarilla.1208.c: "[lasombra_justicar_candidate_3.GetFirstNameNoTooltip]"
+    POD_camarilla.1208.d: "[lasombra_justicar_candidate_4.GetFirstNameNoTooltip]"
+    POD_camarilla.1208.e: "[lasombra_justicar_candidate_5.GetFirstNameNoTooltip]"
+    POD_camarilla.1209.a: "[tzimisce_justicar_candidate_1.GetFirstNameNoTooltip]"
+    POD_camarilla.1209.b: "[tzimisce_justicar_candidate_2.GetFirstNameNoTooltip]"
+    POD_camarilla.1209.c: "[tzimisce_justicar_candidate_3.GetFirstNameNoTooltip]"
+    POD_camarilla.1209.d: "[tzimisce_justicar_candidate_4.GetFirstNameNoTooltip]"
+    POD_camarilla.1209.e: "[tzimisce_justicar_candidate_5.GetFirstNameNoTooltip]"
+    POD_camarilla.1210.a: "[ravnos_justicar_candidate_1.GetFirstNameNoTooltip]"
+    POD_camarilla.1210.b: "[ravnos_justicar_candidate_2.GetFirstNameNoTooltip]"
+    POD_camarilla.1210.c: "[ravnos_justicar_candidate_3.GetFirstNameNoTooltip]"
+    POD_camarilla.1210.d: "[ravnos_justicar_candidate_4.GetFirstNameNoTooltip]"
+    POD_camarilla.1210.e: "[ravnos_justicar_candidate_5.GetFirstNameNoTooltip]"
+    POD_camarilla.1211.a: "[cappadocian_justicar_candidate_1.GetFirstNameNoTooltip]"
+    POD_camarilla.1211.b: "[cappadocian_justicar_candidate_2.GetFirstNameNoTooltip]"
+    POD_camarilla.1211.c: "[cappadocian_justicar_candidate_3.GetFirstNameNoTooltip]"
+    POD_camarilla.1211.d: "[cappadocian_justicar_candidate_4.GetFirstNameNoTooltip]"
+    POD_camarilla.1211.e: "[cappadocian_justicar_candidate_5.GetFirstNameNoTooltip]"
+    POD_camarilla.1212.a: "[setite_justicar_candidate_1.GetFirstNameNoTooltip]"
+    POD_camarilla.1212.b: "[setite_justicar_candidate_2.GetFirstNameNoTooltip]"
+    POD_camarilla.1212.c: "[setite_justicar_candidate_3.GetFirstNameNoTooltip]"
+    POD_camarilla.1212.d: "[setite_justicar_candidate_4.GetFirstNameNoTooltip]"
+    POD_camarilla.1212.e: "[setite_justicar_candidate_5.GetFirstNameNoTooltip]"
+    POD_camarilla.1213.a: "[assamite_justicar_candidate_1.GetFirstNameNoTooltip]"
+    POD_camarilla.1213.b: "[assamite_justicar_candidate_2.GetFirstNameNoTooltip]"
+    POD_camarilla.1213.c: "[assamite_justicar_candidate_3.GetFirstNameNoTooltip]"
+    POD_camarilla.1213.d: "[assamite_justicar_candidate_4.GetFirstNameNoTooltip]"
+    POD_camarilla.1213.e: "[assamite_justicar_candidate_5.GetFirstNameNoTooltip]"
+    POD_camarilla.1214.a: "[salubri_justicar_candidate_1.GetFirstNameNoTooltip]"
+    POD_camarilla.1214.b: "[salubri_justicar_candidate_2.GetFirstNameNoTooltip]"
+    POD_camarilla.1214.c: "[salubri_justicar_candidate_3.GetFirstNameNoTooltip]"
+    POD_camarilla.1214.d: "[salubri_justicar_candidate_4.GetFirstNameNoTooltip]"
+    POD_camarilla.1214.e: "[salubri_justicar_candidate_5.GetFirstNameNoTooltip]"
+    POD_camarilla.1215.a: "[caitiff_justicar_candidate_1.GetFirstNameNoTooltip]"
+    POD_camarilla.1215.b: "[caitiff_justicar_candidate_2.GetFirstNameNoTooltip]"
+    POD_camarilla.1215.c: "[caitiff_justicar_candidate_3.GetFirstNameNoTooltip]"
+    POD_camarilla.1215.d: "[caitiff_justicar_candidate_4.GetFirstNameNoTooltip]"
+    POD_camarilla.1215.e: "[caitiff_justicar_candidate_5.GetFirstNameNoTooltip]"
+
+    POD_camarilla.1301.title: "liste rouge"
+    POD_camarilla.1301.desc: "La Liste Rouge est la liste des Vampires que la Camarilla désire le plus ardemment voir purgés de la surface de la terre. Les vampires figurant sur la liste rouge, appelés Anathema, sont considérés comme faisant l'objet d'une chasse au sang continuelle. La Camarilla confie généralement la chasse et la destruction de ces vampires aux Alastors. Traditionnellement, elle contient 13 noms.\nLa Liste Rouge est actuellement inférieure à 13 et vous pouvez donc y ajouter un nouvel Anathema à votre convenance."
+    POD_camarilla.1301.a: "[red_list_candidate_1.GetFirstNameNoTooltip]"
+    POD_camarilla.1301.b: "[red_list_candidate_2.GetFirstNameNoTooltip]"
+    POD_camarilla.1301.c: "[red_list_candidate_3.GetFirstNameNoTooltip]"
+    POD_camarilla.1301.d: "[red_list_candidate_4.GetFirstNameNoTooltip]"
+    POD_camarilla.1301.e: "[red_list_candidate_5.GetFirstNameNoTooltip]"
+
+    POD_camarilla.1400.title: "Changer la doctrine"
+    POD_camarilla.1400.desc: "Les réunions du cercle intérieur sont l'endroit où la politique globale de la Camarilla est discutée. Des relations obscures et des avantages vieux de plusieurs siècles peuvent conduire à des changements drastiques dans l'organisation de la secte.\nVoulez-vous changer une doctrine ?"
+    POD_camarilla.1400.a: "Oui"
+    POD_camarilla.1400.b: "Non"
+
+    POD_camarilla.2001.t: "Ventrue accepté"
+    POD_camarilla.2001.desc: "Vous avez accepté de vous aventurer dans la Camarilla, leur représentant [ventrue_justicar_candidate_1.GetFirstNameNoTooltip] vous remercie pour votre soutien et vous promet le soutien éternel de leur clan à la secte.\nDe jolis mots qui ne coûtent pas grand chose à dire pour le moins."
+    POD_camarilla.2001.a: "Bienvenue du côté des gagnants."
+    POD_camarilla.2101.t: "Camarilla Ventrue"
+    POD_camarilla.2101.desc: "En tant que principal représentant de Ventrue, vous êtes invité à devenir le nouveau membre [inner_circle|E] de votre clan. Un grand honneur, qui fait de vous l'une des figures marquantes de la secte la plus puissante qui existe."
+    POD_camarilla.2101.a: "je le mérite"
+    POD_camarilla.2201.t: "Justicier Ventrue"
+    POD_camarilla.2201.desc: "Ventrue a gagné le droit d'avoir un [justicar|E]. Traditionnellement, chaque clan membre de la Camarilla a un Justicar représentant la volonté des membres de leur Cercle Intérieur. Il va de soi qu’un nouveau clan membre aura également accès à cette possibilité."
+    POD_camarilla.2201.a: "Bon pour nous."
+    POD_camarilla.2201.b: "Bien pour eux."
+
+    POD_camarilla.2002.t: "Toréador accepté"
+    POD_camarilla.2002.desc: "Vous avez accepté le toréador dans la Camarilla, leur représentant [toreador_justicar_candidate_1.GetFirstNameNoTooltip] vous remercie pour votre soutien et vous promet le soutien éternel de leur clan à la secte.\nDe jolis mots qui ne coûtent pas grand chose à dire pour le moins."
+    POD_camarilla.2002.a: "Bienvenue du côté des gagnants."
+    POD_camarilla.2102.t: "Camarilla Toréador"
+    POD_camarilla.2102.desc: "En tant que principal représentant des toréadors, vous êtes invité à devenir le nouveau membre [inner_circle|E] de votre clan. Un grand honneur, qui fait de vous l'une des figures marquantes de la secte la plus puissante qui existe."
+    POD_camarilla.2102.a: "je le mérite"
+    POD_camarilla.2202.t: "Toréador Justicier"
+    POD_camarilla.2202.desc: "Toreador a gagné le droit d'avoir un [justicar|E]. Traditionnellement, chaque clan membre de la Camarilla a un Justicar représentant la volonté des membres de leur Cercle Intérieur. Il va de soi qu’un nouveau clan membre aura également accès à cette possibilité."
+    POD_camarilla.2202.a: "Bon pour nous."
+    POD_camarilla.2202.b: "Bien pour eux."
+
+    POD_camarilla.2003.t: "Tremere accepté"
+    POD_camarilla.2003.desc: "Vous avez accepté les tremere dans la Camarilla, leur représentant [tremere_justicar_candidate_1.GetFirstNameNoTooltip] vous remercie pour votre soutien et vous promet le soutien éternel de leur clan à la secte.\nDe jolis mots qui ne coûtent pas grand chose à dire pour le moins."
+    POD_camarilla.2003.a: "Bienvenue du côté des gagnants."
+    POD_camarilla.2103.t: "Camarilla Tremere"
+    POD_camarilla.2103.desc: "En tant que principal représentant tremere, vous êtes invité à devenir le nouveau membre [inner_circle|E] de votre clan. Un grand honneur, qui fait de vous l'une des figures marquantes de la secte la plus puissante qui existe."
+    POD_camarilla.2103.a: "je le mérite"
+    POD_camarilla.2203.t: "Tremere Justicier"
+    POD_camarilla.2203.desc: "Tremere a gagné le droit d'avoir un [justicar|E]. Traditionnellement, chaque clan membre de la Camarilla a un Justicar représentant la volonté des membres de leur Cercle Intérieur. Il va de soi qu’un nouveau clan membre aura également accès à cette possibilité."
+    POD_camarilla.2203.a: "Bon pour nous."
+    POD_camarilla.2203.b: "Bien pour eux."
+
+    POD_camarilla.2004.t: "Brujah accepté"
+    POD_camarilla.2004.desc: "Vous avez accepté les brujahs dans la Camarilla, leur représentant [brujah_justicar_candidate_1.GetFirstNameNoTooltip] vous remercie pour votre soutien et vous promet le soutien éternel de leur clan à la secte.\nDe jolis mots qui ne coûtent pas grand chose à dire pour le moins."
+    POD_camarilla.2004.a: "Bienvenue du côté des gagnants."
+    POD_camarilla.2104.t: "Camarilla Brujah"
+    POD_camarilla.2104.desc: "En tant que principal représentant des Brujahs, vous êtes invité à devenir le nouveau membre [inner_circle|E] de votre clan. Un grand honneur, qui fait de vous l'une des figures marquantes de la secte la plus puissante qui existe."
+    POD_camarilla.2104.a: "je le mérite"
+    POD_camarilla.2204.t: "Brujah Justicier"
+    POD_camarilla.2204.desc: "Brujah a gagné le droit d'avoir un [justicar|E]. Traditionnellement, chaque clan membre de la Camarilla a un Justicar représentant la volonté des membres de leur Cercle Intérieur. Il va de soi qu’un nouveau clan membre aura également accès à cette possibilité."
+    POD_camarilla.2204.a: "Bon pour nous."
+    POD_camarilla.2204.b: "Bien pour eux."
+
+    POD_camarilla.2005.t: "Nosferatu Accepté"
+    POD_camarilla.2005.desc: "Vous avez accepté les nosferatu dans la Camarilla, leur représentant [nosferatu_justicar_candidate_1.GetFirstNameNoTooltip] vous remercie pour votre soutien et vous promet le soutien éternel de leur clan à la secte.\nDe jolis mots qui ne coûtent pas grand chose à dire pour le moins."
+    POD_camarilla.2005.a: "Bienvenue du côté des gagnants."
+    POD_camarilla.2105.t: "Camarilla Nosferatu"
+    POD_camarilla.2105.desc: "En tant que principal représentant nosferatu, vous êtes invité à devenir le nouveau membre [inner_circle|E] de votre clan. Un grand honneur, qui fait de vous l'une des figures marquantes de la secte la plus puissante qui existe."
+    POD_camarilla.2105.a: "je le mérite"
+    POD_camarilla.2205.t: "Nosferatu Justicier"
+    POD_camarilla.2205.desc: "Nosferatu a gagné le droit d'avoir un [justicar|E]. Traditionnellement, chaque clan membre de la Camarilla a un Justicar représentant la volonté des membres de leur Cercle Intérieur. Il va de soi qu’un nouveau clan membre aura également accès à cette possibilité."
+    POD_camarilla.2205.a: "Bon pour nous."
+    POD_camarilla.2205.b: "Bien pour eux."
+
+    POD_camarilla.2006.t: "Gangrel accepté"
+    POD_camarilla.2006.desc: "Vous avez accepté le gangrel dans la Camarilla, leur représentant [gangrel_justicar_candidate_1.GetFirstNameNoTooltip] vous remercie pour votre soutien et vous promet le soutien éternel de leur clan à la secte.\nDe jolis mots qui ne coûtent pas grand chose à dire pour le moins."
+    POD_camarilla.2006.a: "Bienvenue du côté des gagnants."
+    POD_camarilla.2106.t: "Gangrel de la Camarilla"
+    POD_camarilla.2106.desc: "En tant que principal représentant des gangrels, vous êtes invité à devenir le nouveau membre [inner_circle|E] de votre clan. Un grand honneur, qui fait de vous l'une des figures marquantes de la secte la plus puissante qui existe."
+    POD_camarilla.2106.a: "je le mérite"
+    POD_camarilla.2206.t: "Justicier Gangrel"
+    POD_camarilla.2206.desc: "Gangrel a gagné le droit d'avoir un [justicar|E]. Traditionnellement, chaque clan membre de la Camarilla a un Justicar représentant la volonté des membres de leur Cercle Intérieur. Il va de soi qu’un nouveau clan membre aura également accès à cette possibilité."
+    POD_camarilla.2206.a: "Bon pour nous."
+    POD_camarilla.2206.b: "Bien pour eux."
+
+    POD_camarilla.2007.t: "Malkavien accepté"
+    POD_camarilla.2007.desc: "Vous avez accepté les malkaviens dans la Camarilla, leur représentant [malkavian_justicar_candidate_1.GetFirstNameNoTooltip] vous remercie pour votre soutien et vous promet le soutien éternel de leur clan à la secte.\nDe jolis mots qui ne coûtent pas grand chose à dire pour le moins."
+    POD_camarilla.2007.a: "Bienvenue du côté des gagnants."
+    POD_camarilla.2107.t: "Camarilla Malkavienne"
+    POD_camarilla.2107.desc: "En tant que principal représentant malkavien, vous êtes invité à devenir le nouveau membre [inner_circle|E] de votre clan. Un grand honneur, qui fait de vous l'une des figures marquantes de la secte la plus puissante qui existe."
+    POD_camarilla.2107.a: "je le mérite"
+    POD_camarilla.2207.t: "Justicier malkavien"
+    POD_camarilla.2207.desc: "Malkavian a gagné le droit d'avoir un [justicar|E]. Traditionnellement, chaque clan membre de la Camarilla a un Justicar représentant la volonté des membres de leur Cercle Intérieur. Il va de soi qu’un nouveau clan membre aura également accès à cette possibilité."
+    POD_camarilla.2207.a: "Bon pour nous."
+    POD_camarilla.2207.b: "Bien pour eux."
+
+    POD_camarilla.2008.t: "Lasombra accepté"
+    POD_camarilla.2008.desc: "Vous avez accepté les lasombra dans la Camarilla, leur représentant [lasombra_justicar_candidate_1.GetFirstNameNoTooltip] vous remercie pour votre soutien et vous promet le soutien éternel de leur clan à la secte.\nDe jolis mots qui ne coûtent pas grand chose à dire pour le moins."
+    POD_camarilla.2008.a: "Bienvenue du côté des gagnants."
+    POD_camarilla.2108.t: "Camarilla Lasombra"
+    POD_camarilla.2108.desc: "En tant que principal représentant du Lasombra, vous êtes invité à devenir le nouveau membre [inner_circle|E] de votre clan. Un grand honneur, qui fait de vous l'une des figures marquantes de la secte la plus puissante qui existe."
+    POD_camarilla.2108.a: "je le mérite"
+    POD_camarilla.2208.t: "Justicier Lasombra"
+    POD_camarilla.2208.desc: "Lasombra a gagné le droit d'avoir un [justicar|E]. Traditionnellement, chaque clan membre de la Camarilla a un Justicar représentant la volonté des membres de leur Cercle Intérieur. Il va de soi qu’un nouveau clan membre aura également accès à cette possibilité."
+    POD_camarilla.2208.a: "Bon pour nous."
+    POD_camarilla.2208.b: "Bien pour eux."
+
+    POD_camarilla.2009.t: "Tzimisce Accepté"
+    POD_camarilla.2009.desc: "Vous avez accepté les tzimisce dans la Camarilla, leur représentant [tzimisce_justicar_candidate_1.GetFirstNameNoTooltip] vous remercie pour votre soutien et vous promet le soutien éternel de leur clan à la secte.\nDe jolis mots qui ne coûtent pas grand chose à dire pour le moins."
+    POD_camarilla.2009.a: "Bienvenue du côté des gagnants."
+    POD_camarilla.2109.t: "Camarilla Tzimisce"
+    POD_camarilla.2109.desc: "En tant que principal représentant tzimisce, vous êtes invité à devenir le nouveau membre [inner_circle|E] de votre clan. Un grand honneur, qui fait de vous l'une des figures marquantes de la secte la plus puissante qui existe."
+    POD_camarilla.2109.a: "je le mérite"
+    POD_camarilla.2209.t: "Tzimisce Justicier"
+    POD_camarilla.2209.desc: "Tzimisce a gagné le droit d'avoir un [justicar|E]. Traditionnellement, chaque clan membre de la Camarilla a un Justicar représentant la volonté des membres de leur Cercle Intérieur. Il va de soi qu’un nouveau clan membre aura également accès à cette possibilité."
+    POD_camarilla.2209.a: "Bon pour nous."
+    POD_camarilla.2209.b: "Bien pour eux."
+
+    POD_camarilla.2010.t: "Ravnos acceptés"
+    POD_camarilla.2010.desc: "Vous avez accepté les ravnos dans la Camarilla, leur représentant [ravnos_justicar_candidate_1.GetFirstNameNoTooltip] vous remercie pour votre soutien et vous promet le soutien éternel de leur clan à la secte.\nDe jolis mots qui ne coûtent pas grand chose à dire pour le moins."
+    POD_camarilla.2010.a: "Bienvenue du côté des gagnants."
+    POD_camarilla.2110.t: "Camarilla Ravnos"
+    POD_camarilla.2110.desc: "En tant que principal représentant des Ravnos, vous êtes invité à devenir le nouveau membre [inner_circle|E] de votre clan. Un grand honneur, qui fait de vous l'une des figures marquantes de la secte la plus puissante qui existe."
+    POD_camarilla.2110.a: "je le mérite"
+    POD_camarilla.2210.t: "Ravnos Justicier"
+    POD_camarilla.2210.desc: "Ravnos a gagné le droit d'avoir un [justicar|E]. Traditionnellement, chaque clan membre de la Camarilla a un Justicar représentant la volonté des membres de leur Cercle Intérieur. Il va de soi qu’un nouveau clan membre aura également accès à cette possibilité."
+    POD_camarilla.2210.a: "Bon pour nous."
+    POD_camarilla.2210.b: "Bien pour eux."
+
+    POD_camarilla.2011.t: "Cappadocien accepté"
+    POD_camarilla.2011.desc: "Vous avez accepté le cappadocien dans la Camarilla, leur représentant [cappadocian_justicar_candidate_1.GetFirstNameNoTooltip] vous remercie pour votre soutien et vous promet le soutien éternel de leur clan à la secte.\nDe jolis mots qui ne coûtent pas grand chose à dire pour le moins."
+    POD_camarilla.2011.a: "Bienvenue du côté des gagnants."
+    POD_camarilla.2111.t: "Camarilla Cappadocienne"
+    POD_camarilla.2111.desc: "En tant que principal représentant cappadocien, vous êtes invité à devenir le nouveau membre [inner_circle|E] de votre clan. Un grand honneur, qui fait de vous l'une des figures marquantes de la secte la plus puissante qui existe."
+    POD_camarilla.2111.a: "je le mérite"
+    POD_camarilla.2211.t: "Justicier cappadocien"
+    POD_camarilla.2211.desc: "Le Cappadocien a gagné le droit d'avoir un [justicar|E]. Traditionnellement, chaque clan membre de la Camarilla a un Justicar représentant la volonté des membres de leur Cercle Intérieur. Il va de soi qu’un nouveau clan membre aura également accès à cette possibilité."
+    POD_camarilla.2211.a: "Bon pour nous."
+    POD_camarilla.2211.b: "Bien pour eux."
+
+    POD_camarilla.2012.t: "Sétite Acceptée"
+    POD_camarilla.2012.desc: "Vous avez accepté les sétites dans la Camarilla, leur représentant [setite_justicar_candidate_1.GetFirstNameNoTooltip] vous remercie pour votre soutien et vous promet le soutien éternel de leur clan à la secte.\nDe jolis mots qui ne coûtent pas grand chose à dire pour le moins."
+    POD_camarilla.2012.a: "Bienvenue du côté des gagnants."
+    POD_camarilla.2112.t: "Camarilla Sétite"
+    POD_camarilla.2112.desc: "En tant que principal représentant setite, vous êtes invité à devenir le nouveau membre [inner_circle|E] de votre clan. Un grand honneur, qui fait de vous l'une des figures marquantes de la secte la plus puissante qui existe."
+    POD_camarilla.2112.a: "je le mérite"
+    POD_camarilla.2212.t: "Séthite Justicier"
+    POD_camarilla.2212.desc: "Setite a gagné le droit d'avoir un [justicar|E]. Traditionnellement, chaque clan membre de la Camarilla a un Justicar représentant la volonté des membres de leur Cercle Intérieur. Il va de soi qu’un nouveau clan membre aura également accès à cette possibilité."
+    POD_camarilla.2212.a: "Bon pour nous."
+    POD_camarilla.2212.b: "Bien pour eux."
+
+    POD_camarilla.2013.t: "Assamite accepté"
+    POD_camarilla.2013.desc: "Vous avez accepté les Assamite dans la Camarilla, leur représentant [assamite_justicar_candidate_1.GetFirstNameNoTooltip] vous remercie pour votre soutien et vous promet le soutien éternel de leur clan à la secte.\nDe jolis mots qui ne coûtent pas grand chose à dire pour le moins."
+    POD_camarilla.2013.a: "Bienvenue du côté des gagnants."
+    POD_camarilla.2113.t: "Camarilla Assamite"
+    POD_camarilla.2113.desc: "En tant que principal représentant assamite, vous êtes invité à devenir le nouveau membre [inner_circle|E] de votre clan. Un grand honneur, qui fait de vous l'une des figures marquantes de la secte la plus puissante qui existe."
+    POD_camarilla.2113.a: "je le mérite"
+    POD_camarilla.2213.t: "Justicier Assamite"
+    POD_camarilla.2213.desc: "Assamite a gagné le droit d'avoir un [justicar|E]. Traditionnellement, chaque clan membre de la Camarilla a un Justicar représentant la volonté des membres de leur Cercle Intérieur. Il va de soi qu’un nouveau clan membre aura également accès à cette possibilité."
+    POD_camarilla.2213.a: "Bon pour nous."
+    POD_camarilla.2213.b: "Bien pour eux."
+
+    POD_camarilla.2014.t: "Salubrien accepté"
+    POD_camarilla.2014.desc: "Vous avez accepté les salubri dans la Camarilla, leur représentant [salubri_justicar_candidate_1.GetFirstNameNoTooltip] vous remercie pour votre soutien et vous promet le soutien éternel de leur clan à la secte.\nDe jolis mots qui ne coûtent pas grand chose à dire pour le moins."
+    POD_camarilla.2014.a: "Bienvenue du côté des gagnants."
+    POD_camarilla.2114.t: "Camarilla Salubri"
+    POD_camarilla.2114.desc: "En tant que principal représentant salubri, vous êtes invité à devenir le nouveau membre [inner_circle|E] de votre clan. Un grand honneur, qui fait de vous l'une des figures marquantes de la secte la plus puissante qui existe."
+    POD_camarilla.2114.a: "je le mérite"
+    POD_camarilla.2214.t: "Justicier de Salubri"
+    POD_camarilla.2214.desc: "Salubri a gagné le droit d'avoir un [justicar|E]. Traditionnellement, chaque clan membre de la Camarilla a un Justicar représentant la volonté des membres de leur Cercle Intérieur. Il va de soi qu’un nouveau clan membre aura également accès à cette possibilité."
+    POD_camarilla.2214.a: "Bon pour nous."
+    POD_camarilla.2214.b: "Bien pour eux."
+
+    POD_camarilla.2015.t: "Caitiff accepté"
+    POD_camarilla.2015.desc: "Vous avez accepté le caitiff dans la Camarilla, leur représentant [caitiff_justicar_candidate_1.GetFirstNameNoTooltip] vous remercie pour votre soutien et vous promet le soutien éternel de leur clan à la secte.\nDe jolis mots qui ne coûtent pas grand chose à dire pour le moins."
+    POD_camarilla.2015.a: "Bienvenue du côté des gagnants."
+    POD_camarilla.2115.t: "Caïdif de la Camarilla"
+    POD_camarilla.2115.desc: "En tant que principal représentant du caitiff, vous êtes invité à devenir le nouveau membre [inner_circle|E] de votre clan. Un grand honneur, qui fait de vous l'une des figures marquantes de la secte la plus puissante qui existe."
+    POD_camarilla.2115.a: "je le mérite"
+    POD_camarilla.2215.t: "Caitiff Justicier"
+    POD_camarilla.2215.desc: "Caitiff a gagné le droit d'avoir un [justicar|E]. Traditionnellement, chaque clan membre de la Camarilla a un Justicar représentant la volonté des membres de leur Cercle Intérieur. Il va de soi qu’un nouveau clan membre aura également accès à cette possibilité."
+    POD_camarilla.2215.a: "Bon pour nous."
+    POD_camarilla.2215.b: "Bien pour eux."

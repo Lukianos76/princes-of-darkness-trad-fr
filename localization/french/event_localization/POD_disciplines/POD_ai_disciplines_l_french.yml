@@ -1,86 +1,84 @@
 ﻿l_french:
-  
- auspex_reveal_scheme: "Schéma exposé !" #NT!
- auspex_reveal_scheme_tt: "Advanced Auspex a été utilisé par votre cible pour exposer votre stratagème !" #NT!
-  
- POD_ai_disciplines.500.t: "Créatures frénétiques" #NT!
- POD_ai_disciplines.500.desc: "Sans aucune forme d'avertissement, la faune locale autour de votre capitale est soudain devenue très hostile. Vos agents signalent de nombreuses attaques contre la population locale et les dégâts commencent à s'accumuler. Les mortels sont effrayés, et le commerce et la vie habituelle dans la région ont pratiquement cessé.\nEn étudiant l'un des animaux morts, vous comprenez enfin qu'il s'agit d'une attaque concertée d'un de vos voisins utilisant ses pouvoirs considérables en matière d'animalisme. Vous pourriez faire un effort pour arrêter cet assaut, ou simplement essayer de résister à la tempête." #NT!
- POD_ai_disciplines.500.a: "Rassemblez les troupes !" #NT!
- POD_ai_disciplines.500.success: "Vous avez repoussé les animaux !" #NT!
- POD_ai_disciplines.500.failure: "Ils étaient trop forts..." #NT!
- POD_ai_disciplines.500.b: "Organisez les mortels pour résister !" #NT!
- POD_ai_disciplines.500.c: "Ils finiront par manquer de sang..." #NT!
-  
- POD_ai_disciplines.900.t: "L'attrait du serpent" #NT!
- POD_ai_disciplines.900.desc: "Vous vous êtes récemment senti étrangement bien disposé envers votre suzerain. Ils semblent plus forts, plus sages, plus... attirants que d'habitude. Méfiant, vous en cherchiez les signes et en êtes désormais sûr : les pouvoirs de séduction de Serpentis sont utilisés contre vous.\nLe savoir ne permet pas de freiner plus facilement cette attirance contre nature, cependant, vous devrez quand même résoudre votre esprit. encontre." #NT!
- POD_ai_disciplines.900.a: "Pourquoi le combattre ?" #NT!
- POD_ai_disciplines.900.b: "Mon esprit m'appartient !" #NT!
-  
- POD_ai_disciplines.2000.t: "Les bergers vigilants" #NT!
- POD_ai_disciplines.2000.desc: "Quelle que soit leur caste ou leurs origines, les Salubriens se considèrent comme les gardiens de l'humanité. Leur signature [discipline|E], Valeren, reflète ce fait. Votre suzerain a une certaine connaissance de ce pouvoir et vous a proposé de vous aider à surveiller les mortels de votre région et à favoriser leur croissance.\nRien n'est jamais gratuit dans le monde des vampires cependant, et une telle proposition justifierait certainement une faveur en retour de votre part. à un moment donné." #NT!
- POD_ai_disciplines.2000.a: "Une aide appréciée." #NT!
- POD_ai_disciplines.2000.b: "Je m'occuperai de mes propres mortels." #NT!
-  
- POD_ai_disciplines.2400.t: "Silence de mort" #NT!
- POD_ai_disciplines.2400.desc: "Vous avez récemment trouvé votre royaume difficile à administrer. Vos commandes semblent ignorées, vos messagers dispensent sans avertissement et il semble que les gens n'enregistrent tout simplement pas correctement vos commandes. Méfiant, vous avez finalement découvert que l'un de vos voisins utilisait sa puissante maîtrise de l'Obfuscation pour interférer dans vos affaires.\nArmé de cette connaissance, vous pouvez maintenant essayer de le contrer de différentes manières." #NT!
- POD_ai_disciplines.2400.a: "Je n'ai besoin que de quelques mots pour être obéi." #NT!
- POD_ai_disciplines.2400.success: "Votre royaume revient à la normale." #NT!
- POD_ai_disciplines.2400.failure: "Personne n'écoute !" #NT!
- POD_ai_disciplines.2400.b: "Formez des messagers plus qualifiés." #NT!
- POD_ai_disciplines.2400.c: "Je n'ai pas besoin d'autant de portée pour le moment." #NT!
-  
- obfuscate_end_scheme: "Programme terminé !" #NT!
- obfuscate_end_scheme_tt: "Advanced Obfuscate a été utilisé par votre cible pour mettre fin à votre stratagème !" #NT!
-  
- POD_ai_disciplines.2700.t: "Vider la vie" #NT!
- POD_ai_disciplines.2700.desc: "Il y a quelque chose qui ne va pas dans votre royaume. Il vous a fallu un moment pour le remarquer, mais la population mortelle de votre région semble en mauvaise santé. Après une petite enquête, vous comprenez que des manigances surnaturelles se préparent. Le soleil est souvent masqué pendant la journée, car les ombres semblent avoir leur propre volonté, compromettant la vie des résidents locaux.\nQuelqu'un utilise clairement un rituel puissant pour vous affaiblir et vous devrez trouver une solution, ou accepter. cette tournure troublante des événements." #NT!
- POD_ai_disciplines.2700.a: "Il est temps de consulter les livres pour trouver une solution." #NT!
- POD_ai_disciplines.2700.success: "Votre royaume revient à la normale." #NT!
- POD_ai_disciplines.2700.failure: "Eh bien, ça n'a pas fonctionné..." #NT!
- POD_ai_disciplines.2700.b: "Je connais ma propre sorcellerie." #NT!
- POD_ai_disciplines.2700.c: "Un peu d'obscurité n'a jamais fait de mal à personne." #NT!
-  
- POD_ai_disciplines.2800.t: "Rêver de morts" #NT!
- POD_ai_disciplines.2800.desc: "Votre sommeil a été récemment tourmenté par une quantité malsaine de cauchemars, au point que vous vous méfiez des interférences extérieures. Après quelques investigations, vous êtes sûr d'avoir été maudit par un nécromancien utilisant ses pions fantomatiques pour vous affaiblir.\nConnaître la source vous aide au moins à chercher un moyen d'arrêter ces manigances avant qu'elles ne vous affectent trop. Cependant, selon les pouvoirs du nécromancien, cela pourrait ne pas être aussi simple qu'il y paraît." #NT!
- POD_ai_disciplines.2800.success: "Des nuits paisibles." #NT!
- POD_ai_disciplines.2800.failure: "Eh bien, ça n'a pas fonctionné..." #NT!
- POD_ai_disciplines.2800.b: "Je connais ma propre nécromancie." #NT!
- POD_ai_disciplines.2800.c: "Qui a besoin de dormir ? J'ai du travail à faire!" #NT!
-  
- dominate_end_faction: "Faction terminée !" #NT!
- dominate_end_faction_tt: "Dominate a été utilisé par votre suzerain pour mettre fin à une faction qui le ciblait !" #NT!
-  
- advanced_dominate_end_faction: "Factions terminées !" #NT!
- advanced_dominate_end_faction_tt: "Advanced Dominate a été utilisé par votre suzerain pour mettre fin à toutes les factions qui le ciblaient !" #NT!
-  
- POD_ai_disciplines.3400.t: "Danse folle" #NT!
- POD_ai_disciplines.3400.desc: "Récemment, un étrange brouillard recouvre votre esprit et brouille vos pensées. Des images aléatoires apparaissent parfois aux limites de votre vision, ce qui rend plus difficile la distinction entre la réalité et la fiction. Cela a atteint un niveau tellement inquiétant que vous avez lancé une enquête subtile sur la question. Il s'avère qu'un maître voisin de la Démence vous a ciblé avec cet effrayant [discipline|E] pour une raison insondable. Maintenant que vous comprenez la racine du problème, vous pouvez essayer d’éviter qu’il ne devienne incontrôlable." #NT!
- POD_ai_disciplines.3400.success: "Mon esprit m'appartient !" #NT!
- POD_ai_disciplines.3400.failure: "Je me sens bizarre." #NT!
- POD_ai_disciplines.3400.a: "Sors de ma tête!" #NT!
- POD_ai_disciplines.3400.b: "Je ne vois aucun problème avec cette tournure des événements." #NT!
- POD_ai_disciplines.3400.c: "Ce serait encore pire de le combattre..." #NT!
-  
- ai_presence_majesty_modifier: "Présence majestueuse" #NT!
- ai_presence_majesty_modifier_desc: "Utilisant les puissants pouvoirs de Présence, ce personnage apparaît comme un dirigeant parfait pour ses sujets." #NT!
-  
- POD_ai_disciplines.3900.t: "Présence majestueuse" #NT!
- POD_ai_disciplines.3900.desc: "Votre seigneur est apparu plus royal et, enfin, plus attrayant ces dernières semaines. Vous n'êtes pas le seul à l'avoir remarqué et, après avoir prêté une attention particulière à quelques indices subtils, vous pouvez confirmer qu'ils utilisent le [discipline|E] de Présence pour créer cette aura de grandeur. Il est difficile d'y résister, et cela devient encore plus difficile à chaque fois que vous vous présentez au tribunal.\nUne solution pourrait être d'éviter ledit tribunal dans un avenir proche, mais cela serait considéré comme un acte assez lâche. Vous pouvez également essayer de piéger diplomatiquement votre suzerain, en vous assurant qu'il abandonne cette manigance avant de l'utiliser contre lui." #NT!
- POD_ai_disciplines.3900.success: "Une politique politique réussie." #NT!
- POD_ai_disciplines.3900.failure: "Un faux-pas." #NT!
- POD_ai_disciplines.3900.a: "Mon seigneur, si je peux me permettre..." #NT!
- POD_ai_disciplines.3900.b: "Trouvez une excuse pour éviter le tribunal." #NT!
-  
- baals_caress_amplified_perk_modifier: "La caresse de Baal" #NT!
- baals_caress_amplified_perk_modifier_desc: "Une maladie débilitante du sang, affaiblissant sa victime." #NT!
-  
- POD_ai_disciplines.4000.t: "Trempe du sang" #NT!
- POD_ai_disciplines.4000.desc: "Vos champions fidèles (ou pas si fidèles d’ailleurs) se sentent mal ces derniers temps. Vous avez d’abord mis cela sous le couvert des plaintes habituelles de vos subordonnés, mais cela semble être un problème plus important. Après quelques investigations, vos agents signalent un effort concerté de la part d'un de vos voisins pour maudire l'approvisionnement en ressources de votre région en utilisant sa maîtrise du Quietus [discipline|E].\nSi vous n'avez pas les moyens magiques pour vous y opposer, vous doivent capturer les mandataires qu'ils utilisent pour propager la malédiction avant qu'elle ne devienne incontrôlable." #NT!
- POD_ai_disciplines.4000.success: "Crise évitée." #NT!
- POD_ai_disciplines.4000.failure: "Ils se sont enfuis..." #NT!
- POD_ai_disciplines.4000.a: "Attrape-les!" #NT!
- POD_ai_disciplines.4000.b: "Adoptez un rituel magique pour arrêter cette malédiction." #NT!
- POD_ai_disciplines.4000.c: "Mieux vaut faire profil bas pour le moment." #NT!
- ai_quietus_tooltip2: "L'un de vos champions bénéficiera du modificateur Caresse de Baal, réduisant ses prouesses." #NT!
- ai_quietus_tooltip1: "Tous vos champions bénéficieront du modificateur Caresse de Baal, réduisant leurs prouesses." #NT!
-  
+    auspex_reveal_scheme: "Schéma exposé !"
+    auspex_reveal_scheme_tt: "Advanced Auspex a été utilisé par votre cible pour exposer votre stratagème !"
+
+    POD_ai_disciplines.500.t: "Créatures frénétiques"
+    POD_ai_disciplines.500.desc: "Sans aucune forme d'avertissement, la faune locale autour de votre capitale est soudain devenue très hostile. Vos agents signalent de nombreuses attaques contre la population locale et les dégâts commencent à s'accumuler. Les mortels sont effrayés, et le commerce et la vie habituelle dans la région ont pratiquement cessé.\nEn étudiant l'un des animaux morts, vous comprenez enfin qu'il s'agit d'une attaque concertée d'un de vos voisins utilisant ses pouvoirs considérables en matière d'animalisme. Vous pourriez faire un effort pour arrêter cet assaut, ou simplement essayer de résister à la tempête."
+    POD_ai_disciplines.500.a: "Rassemblez les troupes !"
+    POD_ai_disciplines.500.success: "Vous avez repoussé les animaux !"
+    POD_ai_disciplines.500.failure: "Ils étaient trop forts..."
+    POD_ai_disciplines.500.b: "Organisez les mortels pour résister !"
+    POD_ai_disciplines.500.c: "Ils finiront par manquer de sang..."
+
+    POD_ai_disciplines.900.t: "L'attrait du serpent"
+    POD_ai_disciplines.900.desc: "Vous vous êtes récemment senti étrangement bien disposé envers votre suzerain. Ils semblent plus forts, plus sages, plus... attirants que d'habitude. Méfiant, vous en cherchiez les signes et en êtes désormais sûr : les pouvoirs de séduction de Serpentis sont utilisés contre vous.\nLe savoir ne permet pas de freiner plus facilement cette attirance contre nature, cependant, vous devrez quand même résoudre votre esprit. encontre."
+    POD_ai_disciplines.900.a: "Pourquoi le combattre ?"
+    POD_ai_disciplines.900.b: "Mon esprit m'appartient !"
+
+    POD_ai_disciplines.2000.t: "Les bergers vigilants"
+    POD_ai_disciplines.2000.desc: "Quelle que soit leur caste ou leurs origines, les Salubriens se considèrent comme les gardiens de l'humanité. Leur signature [discipline|E], Valeren, reflète ce fait. Votre suzerain a une certaine connaissance de ce pouvoir et vous a proposé de vous aider à surveiller les mortels de votre région et à favoriser leur croissance.\nRien n'est jamais gratuit dans le monde des vampires cependant, et une telle proposition justifierait certainement une faveur en retour de votre part. à un moment donné."
+    POD_ai_disciplines.2000.a: "Une aide appréciée."
+    POD_ai_disciplines.2000.b: "Je m'occuperai de mes propres mortels."
+
+    POD_ai_disciplines.2400.t: "Silence de mort"
+    POD_ai_disciplines.2400.desc: "Vous avez récemment trouvé votre royaume difficile à administrer. Vos commandes semblent ignorées, vos messagers dispensent sans avertissement et il semble que les gens n'enregistrent tout simplement pas correctement vos commandes. Méfiant, vous avez finalement découvert que l'un de vos voisins utilisait sa puissante maîtrise de l'Obfuscation pour interférer dans vos affaires.\nArmé de cette connaissance, vous pouvez maintenant essayer de le contrer de différentes manières."
+    POD_ai_disciplines.2400.a: "Je n'ai besoin que de quelques mots pour être obéi."
+    POD_ai_disciplines.2400.success: "Votre royaume revient à la normale."
+    POD_ai_disciplines.2400.failure: "Personne n'écoute !"
+    POD_ai_disciplines.2400.b: "Formez des messagers plus qualifiés."
+    POD_ai_disciplines.2400.c: "Je n'ai pas besoin d'autant de portée pour le moment."
+
+    obfuscate_end_scheme: "Programme terminé !"
+    obfuscate_end_scheme_tt: "Advanced Obfuscate a été utilisé par votre cible pour mettre fin à votre stratagème !"
+
+    POD_ai_disciplines.2700.t: "Vider la vie"
+    POD_ai_disciplines.2700.desc: "Il y a quelque chose qui ne va pas dans votre royaume. Il vous a fallu un moment pour le remarquer, mais la population mortelle de votre région semble en mauvaise santé. Après une petite enquête, vous comprenez que des manigances surnaturelles se préparent. Le soleil est souvent masqué pendant la journée, car les ombres semblent avoir leur propre volonté, compromettant la vie des résidents locaux.\nQuelqu'un utilise clairement un rituel puissant pour vous affaiblir et vous devrez trouver une solution, ou accepter. cette tournure troublante des événements."
+    POD_ai_disciplines.2700.a: "Il est temps de consulter les livres pour trouver une solution."
+    POD_ai_disciplines.2700.success: "Votre royaume revient à la normale."
+    POD_ai_disciplines.2700.failure: "Eh bien, ça n'a pas fonctionné..."
+    POD_ai_disciplines.2700.b: "Je connais ma propre sorcellerie."
+    POD_ai_disciplines.2700.c: "Un peu d'obscurité n'a jamais fait de mal à personne."
+
+    POD_ai_disciplines.2800.t: "Rêver de morts"
+    POD_ai_disciplines.2800.desc: "Votre sommeil a été récemment tourmenté par une quantité malsaine de cauchemars, au point que vous vous méfiez des interférences extérieures. Après quelques investigations, vous êtes sûr d'avoir été maudit par un nécromancien utilisant ses pions fantomatiques pour vous affaiblir.\nConnaître la source vous aide au moins à chercher un moyen d'arrêter ces manigances avant qu'elles ne vous affectent trop. Cependant, selon les pouvoirs du nécromancien, cela pourrait ne pas être aussi simple qu'il y paraît."
+    POD_ai_disciplines.2800.success: "Des nuits paisibles."
+    POD_ai_disciplines.2800.failure: "Eh bien, ça n'a pas fonctionné..."
+    POD_ai_disciplines.2800.b: "Je connais ma propre nécromancie."
+    POD_ai_disciplines.2800.c: "Qui a besoin de dormir ? J'ai du travail à faire!"
+
+    dominate_end_faction: "Faction terminée !"
+    dominate_end_faction_tt: "Dominate a été utilisé par votre suzerain pour mettre fin à une faction qui le ciblait !"
+
+    advanced_dominate_end_faction: "Factions terminées !"
+    advanced_dominate_end_faction_tt: "Advanced Dominate a été utilisé par votre suzerain pour mettre fin à toutes les factions qui le ciblaient !"
+
+    POD_ai_disciplines.3400.t: "Danse folle"
+    POD_ai_disciplines.3400.desc: "Récemment, un étrange brouillard recouvre votre esprit et brouille vos pensées. Des images aléatoires apparaissent parfois aux limites de votre vision, ce qui rend plus difficile la distinction entre la réalité et la fiction. Cela a atteint un niveau tellement inquiétant que vous avez lancé une enquête subtile sur la question. Il s'avère qu'un maître voisin de la Démence vous a ciblé avec cet effrayant [discipline|E] pour une raison insondable. Maintenant que vous comprenez la racine du problème, vous pouvez essayer d’éviter qu’il ne devienne incontrôlable."
+    POD_ai_disciplines.3400.success: "Mon esprit m'appartient !"
+    POD_ai_disciplines.3400.failure: "Je me sens bizarre."
+    POD_ai_disciplines.3400.a: "Sors de ma tête!"
+    POD_ai_disciplines.3400.b: "Je ne vois aucun problème avec cette tournure des événements."
+    POD_ai_disciplines.3400.c: "Ce serait encore pire de le combattre..."
+
+    ai_presence_majesty_modifier: "Présence majestueuse"
+    ai_presence_majesty_modifier_desc: "Utilisant les puissants pouvoirs de Présence, ce personnage apparaît comme un dirigeant parfait pour ses sujets."
+
+    POD_ai_disciplines.3900.t: "Présence majestueuse"
+    POD_ai_disciplines.3900.desc: "Votre seigneur est apparu plus royal et, enfin, plus attrayant ces dernières semaines. Vous n'êtes pas le seul à l'avoir remarqué et, après avoir prêté une attention particulière à quelques indices subtils, vous pouvez confirmer qu'ils utilisent le [discipline|E] de Présence pour créer cette aura de grandeur. Il est difficile d'y résister, et cela devient encore plus difficile à chaque fois que vous vous présentez au tribunal.\nUne solution pourrait être d'éviter ledit tribunal dans un avenir proche, mais cela serait considéré comme un acte assez lâche. Vous pouvez également essayer de piéger diplomatiquement votre suzerain, en vous assurant qu'il abandonne cette manigance avant de l'utiliser contre lui."
+    POD_ai_disciplines.3900.success: "Une politique politique réussie."
+    POD_ai_disciplines.3900.failure: "Un faux-pas."
+    POD_ai_disciplines.3900.a: "Mon seigneur, si je peux me permettre..."
+    POD_ai_disciplines.3900.b: "Trouvez une excuse pour éviter le tribunal."
+
+    baals_caress_amplified_perk_modifier: "La caresse de Baal"
+    baals_caress_amplified_perk_modifier_desc: "Une maladie débilitante du sang, affaiblissant sa victime."
+
+    POD_ai_disciplines.4000.t: "Trempe du sang"
+    POD_ai_disciplines.4000.desc: "Vos champions fidèles (ou pas si fidèles d’ailleurs) se sentent mal ces derniers temps. Vous avez d’abord mis cela sous le couvert des plaintes habituelles de vos subordonnés, mais cela semble être un problème plus important. Après quelques investigations, vos agents signalent un effort concerté de la part d'un de vos voisins pour maudire l'approvisionnement en ressources de votre région en utilisant sa maîtrise du Quietus [discipline|E].\nSi vous n'avez pas les moyens magiques pour vous y opposer, vous doivent capturer les mandataires qu'ils utilisent pour propager la malédiction avant qu'elle ne devienne incontrôlable."
+    POD_ai_disciplines.4000.success: "Crise évitée."
+    POD_ai_disciplines.4000.failure: "Ils se sont enfuis..."
+    POD_ai_disciplines.4000.a: "Attrape-les!"
+    POD_ai_disciplines.4000.b: "Adoptez un rituel magique pour arrêter cette malédiction."
+    POD_ai_disciplines.4000.c: "Mieux vaut faire profil bas pour le moment."
+    ai_quietus_tooltip2: "L'un de vos champions bénéficiera du modificateur Caresse de Baal, réduisant ses prouesses."
+    ai_quietus_tooltip1: "Tous vos champions bénéficieront du modificateur Caresse de Baal, réduisant leurs prouesses."

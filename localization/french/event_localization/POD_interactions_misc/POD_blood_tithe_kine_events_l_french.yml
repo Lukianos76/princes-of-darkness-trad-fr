@@ -1,24 +1,20 @@
 ﻿l_french:
-  
- POD_blood_tithe_kine.100.t: "Arrivée de la dîme du sang" #NT!
- POD_blood_tithe_kine.100.desc: "[recipient.GetTitledFirstName] a envoyé la dîme du sang demandée. La dîme s'appelle '[kine_tithe.GetFirstName]'. [kine_tithe.GetHerHis|U] on dit que le sang contient un" #NT!
- POD_blood_tithe_kine.100.desc.negligible: "négligeable" #NT!
- POD_blood_tithe_kine.100.desc.fleeting: "fugace" #NT!
- POD_blood_tithe_kine.100.desc.intense: "intense" #NT!
- POD_blood_tithe_kine.100.desc.acute: "aigu" #NT!
- POD_blood_tithe_kine.100.desc.choleric: "colérique" #NT!
- POD_blood_tithe_kine.100.desc.melancholic: "mélancolique" #NT!
- POD_blood_tithe_kine.100.desc.phlegmatic: "flegmatique" #NT!
- POD_blood_tithe_kine.100.desc.sanguine: "sanguine" #NT!
- POD_blood_tithe_kine.100.desc.finish: "résonance." #NT!
- POD_blood_tithe_kine.100.option.a: "Je vais les ajouter à mon troupeau." #NT!
- POD_blood_tithe_kine.100.option.b: "Jetez-les dans mon donjon." #NT!
- POD_blood_tithe_kine.100.option.b.tt: "[kine_tithe.GetFirstName] sera emprisonné." #NT!
- POD_blood_tithe_kine.100.option.b.imprison: "La dîme du sang des vaches est jetée dans le donjon." #NT!
- POD_blood_tithe_kine.100.option.c: "Bienvenue dans ma cour, [kine_tithe.GetFirstName]." #NT!
- POD_blood_tithe_kine.100.option.d: "Je vais les consommer maintenant." #NT!
- POD_blood_tithe_kine.100.option.e: "Ce vaisseau est inacceptable, apportez-m'en un autre." #NT!
- POD_blood_tithe_kine.100.option.f: "Hors de ma vue." #NT!
-  
-  
-  
+    POD_blood_tithe_kine.100.t: "Arrivée de la dîme du sang"
+    POD_blood_tithe_kine.100.desc: "[recipient.GetTitledFirstName] a envoyé la dîme du sang demandée. La dîme s'appelle '[kine_tithe.GetFirstName]'. [kine_tithe.GetHerHis|U] on dit que le sang contient un"
+    POD_blood_tithe_kine.100.desc.negligible: "négligeable"
+    POD_blood_tithe_kine.100.desc.fleeting: "fugace"
+    POD_blood_tithe_kine.100.desc.intense: "intense"
+    POD_blood_tithe_kine.100.desc.acute: "aigu"
+    POD_blood_tithe_kine.100.desc.choleric: "colérique"
+    POD_blood_tithe_kine.100.desc.melancholic: "mélancolique"
+    POD_blood_tithe_kine.100.desc.phlegmatic: "flegmatique"
+    POD_blood_tithe_kine.100.desc.sanguine: "sanguine"
+    POD_blood_tithe_kine.100.desc.finish: "résonance."
+    POD_blood_tithe_kine.100.option.a: "Je vais les ajouter à mon troupeau."
+    POD_blood_tithe_kine.100.option.b: "Jetez-les dans mon donjon."
+    POD_blood_tithe_kine.100.option.b.tt: "[kine_tithe.GetFirstName] sera emprisonné."
+    POD_blood_tithe_kine.100.option.b.imprison: "La dîme du sang des vaches est jetée dans le donjon."
+    POD_blood_tithe_kine.100.option.c: "Bienvenue dans ma cour, [kine_tithe.GetFirstName]."
+    POD_blood_tithe_kine.100.option.d: "Je vais les consommer maintenant."
+    POD_blood_tithe_kine.100.option.e: "Ce vaisseau est inacceptable, apportez-m'en un autre."
+    POD_blood_tithe_kine.100.option.f: "Hors de ma vue."

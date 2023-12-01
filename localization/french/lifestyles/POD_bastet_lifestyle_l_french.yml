@@ -1,158 +1,158 @@
 ﻿l_french:
- bastettribegifts_lifestyle_name: "Cadeaux tribaux" #NT!
- bastettribegifts_lifestyle_desc: "Concentrez-vous sur le pouvoir qui vient de l’esprit protecteur de la tribu." #NT!
- bastettribegifts_lifestyle_highlight_desc: "Grâce à votre [GetModifier('POD_gnosis_5_modifier').GetNameWithTooltip], vous gagnez #P [GetPlayer.Custom('GetEducationLifestylePercentageBoost')]#! de plus [experience|E] dans ce style de vie." #NT!
- monthly_bastettribegifts_lifestyle_xp_gain_mult: "Cadeaux tribaux mensuels [lifestyle|E] [experience|E]" #NT!
-  
- bastettribegifts_focus: "Focus sur les cadeaux tribaux" #NT!
- bastettribegifts_focus_modifier: "[GetFocus('bastettribegifts_focus').GetName]" #NT!
- bastettribegifts_focus_desc: "Dons tribaux du Bastet." #NT!
- bastettribegifts_focus_effect_desc: "Focus sur les subventions pour les dons tribaux :" #NT!
-  
- bastetgifts_visible: "Cadeaux bastet" #NT!
- bastethomidgifts_visible: "Cadeaux homid" #NT!
- felinegifts_visible: "Cadeaux félins" #NT!
- bastetmetisgifts_visible: "Cadeaux métis" #NT!
-  
- pathfinders_pride_perk_name: "La fierté des éclaireurs" #NT!
- silent_stalking_perk_name: "Traque silencieuse" #NT!
- shriek_perk_name: "Cri" #NT!
- cheshire_prank_perk_name: "Blague du Cheshire" #NT!
- freyjas_blessing_perk_name: "La bénédiction de Freyja" #NT!
- fortuna_perk_name: "Fortune" #NT!
- jump_to_the_moon_perk_name: "Sauter sur la Lune" #NT!
- withering_stare_perk_name: "Regard flétri" #NT!
-  
- SHRIEK_PERK_EFFECT: "Donnez le modificateur [GetModifier('shriek_perk_modifier').GetNameWithTooltip] à l'ennemi [knights|E] en guerre en tant que commandant ou à l'ennemi en [single_combat_duel|E]." #NT!
- FREYJAS_BLESSING_PERK_EFFECT: "En [character_interaction|E], permet de rendre la cible enceinte." #NT!
- JUMP_TO_THE_MOON_PERK_EFFECT: "Progression mensuelle de l'exploration d'Umbra : [grace_i]#P +15#!" #NT!
- WITHERING_STARE_PERK_EFFECT: "En [character_interaction|E], permet d'infliger à la cible une blessure, de gravité selon vos prouesses." #NT!
-  
- sweet_hunters_smile_perk_name: "Le doux sourire du chasseur" #NT!
- cat_claws_perk_name: "Griffes de chat" #NT!
- eavesdroppers_ear_perk_name: "L'oreille de l'oreille indiscrète" #NT!
- craft_of_the_maker_perk_name: "Artisanat du créateur" #NT!
- babels_cure_perk_name: "Le remède de Babel" #NT!
- monkeys_uncle_perk_name: "L'oncle du singe" #NT!
- deny_the_hungry_perk_name: "Nier les affamés" #NT!
- madness_perk_name: "Folie" #NT!
-  
- DENY_THE_HUNGRY_PERK_EFFECT: "En tant que [character_interaction|E], permet de faire gagner au comté ciblé le [GetModifier( 'deny_the_hungry_perk_modifier' ).GetNameWithTooltip|L]." #NT!
- MADNESS_PERK_EFFECT: "En [character_interaction|E], permet de faire acquérir à la cible un trait mental négatif." #NT!
-  
- kittens_cry_perk_name: "Le cri du chaton" #NT!
- mark_as_mine_perk_name: "Marquer comme mien" #NT!
- killers_leap_perk_name: "Le saut du tueur" #NT!
- perfect_cover_perk_name: "Couverture parfaite" #NT!
- underbelly_perk_name: "Ventre" #NT!
- hand_of_will_perk_name: "Main de volonté" #NT!
- judgement_of_pestilence_perk_name: "Jugement de la peste" #NT!
- revolt_of_the_land_perk_name: "Révolte de la terre" #NT!
-  
- JUDGEMENT_OF_PESTILENCE_PERK_EFFECT: "En tant que deux [character_interaction|E], vous permet d'absorber une maladie puis de la relâcher dans le camp d'un ennemi." #NT!
-  
- sense_primal_nature_perk_name: "Sens de la nature primordiale" #NT!
- blinding_moonbeam_gaze_perk_name: "Regard aveuglant de rayon de lune" #NT!
- whisker_sight_perk_name: "Visée des moustaches" #NT!
- fist_of_cahlash_perk_name: "Poing de Cahlash" #NT!
- moons_gateway_perk_name: "La porte de la Lune" #NT!
- redeem_the_waste_perk_name: "Récupérer les déchets" #NT!
- moon_sense_perk_name: "Sens de la Lune" #NT!
- wrath_of_nala_perk_name: "La colère de Nala" #NT!
-  
- BLINDING_MOONBEAM_GAZE_PERK_EFFECT: "Donnez le modificateur [GetModifier('blinding_moonbeam_gaze_perk_modifier').GetNameWithTooltip] à l'ennemi [knights|E] en guerre en tant que commandant ou à l'ennemi en [single_combat_duel|E]." #NT!
- MOONS_GATEWAY_PERK_EFFECT: "En tant que [character_interaction|E], vous permet de vous téléporter vers l'emplacement cible." #NT!
- MOON_SENSE_PERK_EFFECT: "Vous recevrez une notification si quelqu'un a l'intention d'assassiner votre ami de la famille.\nVous recevrez une notification si quelqu'un a l'intention de séduire votre amant ou votre conjoint.\nVotre prisonnier a moins de chances de s'échapper de votre prison." #NT!
- WRATH_OF_NALA_PERK_EFFECT: "En tant que [character_interaction|E], vous permet de déclencher un [GetModifier( 'wrath_of_nala_modifier' ).GetNameWithTooltip|L] sur les royaumes ennemis." #NT!
-  
- bagheeragifts_name: "Cadeaux bagheera" #NT!
- # balamgifts_name: "Cadeaux balam" #NT!
- bubastigifts_name: "Cadeaux bubasti" #NT!
- khangifts_name: "Cadeaux khan" #NT!
- # pumoncagifts_name: "Cadeaux pumonca" #NT!
- # qualmigifts_name: "Cadeaux qualmi" #NT!
- simbagifts_name: "Cadeaux simba" #NT!
- swaragifts_name: "Cadeaux swara" #NT!
- celicangifts_name: "Cadeaux Hellcats" #NT!
-  
- humbabas_escape_perk_name: "L'évasion de Humbaba" #NT!
- treeclimber_perk_name: "Grimpeur d'arbres" #NT!
- ojas_surge_perk_name: "Surge d'Ojas" #NT!
- cobras_dance_perk_name: "Danse des Cobras" #NT!
- travelers_tongues_perk_name: "Langues du voyageur" #NT!
- the_paradox_of_time_perk_name: "Le paradoxe du temps" #NT!
- shivas_might_perk_name: "La puissance de Shiva" #NT!
- part_the_curtain_perk_name: "Séparez le rideau" #NT!
-  
- HUMBABAS_ESCAPE_PERK_EFFECT: "Vous ne pouvez plus être emprisonné par des sièges." #NT!
- OJAS_SURGE_PERK_EFFECT: "En tant que [character_interaction|E], permet d'augmenter temporairement un attribut." #NT!
- COBRAS_DANCE_PERK_EFFECT: "Plus susceptible de [imprison|E] [characters|E] après un [siege|E] ou [raid|E] réussi." #NT!
- THE_PARADOX_OF_TIME_PERK_EFFECT: "Donnez le modificateur [GetModifier('the_paradox_of_time_perk_modifier').GetNameWithTooltip] à l'ennemi [knights|E] en guerre en tant que commandant ou à l'ennemi en [single_combat_duel|E]." #NT!
- SHIVAS_MIGHT_PERK_EFFECT: "Débloquez l'option de changement de forme [GetModifier( 'POD_shapeshift_form_shiva_modifier' ).GetNameWithTooltip|L] ou [GetModifier( 'POD_shapeshift_form_kali_modifier' ).GetNameWithTooltip|L]." #NT!
-  
- alms_to_the_poor_perk_name: "L'aumône aux pauvres" #NT!
- scholars_friend_perk_name: "Ami de l'érudit" #NT!
- mousemaze_perk_name: "Labyrinthe de souris" #NT!
- banish_cahlashs_brood_perk_name: "Bannir la progéniture de Cahlash" #NT!
- the_many_tongues_of_ptah_perk_name: "Les nombreuses langues de Ptah" #NT!
- the_scarabs_flight_perk_name: "Le vol du scarabée" #NT!
- shadow_brethren_perk_name: "Frères de l'Ombre" #NT!
- spirit_wall_perk_name: "Mur spirituel" #NT!
- the_fleeing_scarab_perk_name: "Le scarabée en fuite" #NT!
-  
- MOUSEMAZE_PERK_EFFECT: "Donnez le modificateur [GetModifier('mousemaze_perk_modifier').GetNameWithTooltip] à l'ennemi [knights|E] en guerre en tant que commandant ou à l'ennemi en [single_combat_duel|E]." #NT!
- THE_FLEEING_SCARAB_PERK_EFFECT: "Autorisez la résurrection si vous mourez pour une cause non naturelle.\n#F L'un des secrets tribaux les plus obscurs des Bubasti, ce don permet à un chat de retirer son âme, de l'incarner et de la mettre hors de danger pendant que son corps meurt. L'âme, qui prend souvent la forme d'un scarabée volant, recherche un nouveau corps hôte approprié, grimpe dans sa bouche pendant son sommeil et « dépose » la vieille âme dans le nouvel hôte. Le Bubasti qui connaît ce secret interdit (et il existe moins de huit chats de ce type) est théoriquement immortel, bien qu'une telle longévité s'achète dans la vie d'autres êtres.#!" #NT!
-  
- rhinos_favor_perk_name: "La faveur du rhinocéros" #NT!
- skin_of_jade_perk_name: "Peau de Jade" #NT!
- ricepaper_walk_perk_name: "Promenade en papier de riz" #NT!
- paws_of_the_raging_spirit_tiger_perk_name: "Pattes du tigre spirituel enragé" #NT!
- makers_charm_perk_name: "Charme du créateur" #NT!
- dragonroar_perk_name: "Dragonroar" #NT!
- call_to_battle_perk_name: "Appel au combat" #NT!
- thousand_thunder_strike_perk_name: "Frappe de mille tonnerres" #NT!
-  
- PAWS_OF_THE_RAGING_SPIRIT_TIGER_PERK_EFFECT: "Plus besoin de payer Gnosis pour blesser un esprit au [single_combat_duel|E]." #NT!
- CALL_TO_BATTLE_PERK_EFFECT: "Donnez à l'allié [knights|E] en guerre en tant que commandant ou à vous-même dans [single_combat_duel|E] [GetModifier('mousemaze_perk_modifier').GetNameWithTooltip]." #NT!
-  
- bastet_majesty_perk_name: "Majesté" #NT!
- submit_perk_name: "Soumettre" #NT!
- rallying_challenge_perk_name: "Défi de rallye" #NT!
- fireroar_perk_name: "Rugissement de feu" #NT!
- shadow_the_moons_light_perk_name: "Ombrez la lumière de la Lune" #NT!
- king_of_beasts_perk_name: "Roi des bêtes" #NT!
- command_the_multitude_perk_name: "Commandez la multitude" #NT!
- rising_sun_perk_name: "Soleil levant" #NT!
- royal_privilege_perk_name: "Privilège Royal" #NT!
-  
- RISING_SUN_PERK_EFFECT: "Blessez l'ennemi [knights|E] et les commandants en guerre en tant que commandant ou ennemi au [single_combat_duel|E], s'ils sont des vampires (ou d'autres surnaturels qui craignent le soleil)." #NT!
- ROYAL_PRIVILEGE_PERK_EFFECT: "Autoriser le choix d'une autre race et d'un autre style de vie de cadeaux de tribu sans la race correspondante [trait|E] ou [faith|E].\n#F Cette supercherie profondément méprisée permet à un lion ancien et puissant de voler les cadeaux d'un autre chat-garou, même ceux qui appartiennent traditionnellement uniquement à cette tribu ou race. Black Tooth a rassemblé une grande partie de son pouvoir grâce à ce secret mortel. Ceux qui l'ont rencontré affirment qu'il invoque son « privilège » en tuant d'autres Bastet, puis en retirant leurs secrets à leurs esprits au moment de leur mort. Bien qu'il puisse y avoir d'autres Bastet qui connaissent le Don, ils n'ont pas beaucoup d'amis.#!" #NT!
-  
- diamond_claws_perk_name: "Griffes de diamant" #NT!
- impalas_flight_perk_name: "Le vol de l'Impala" #NT!
- walking_between_worlds_perk_name: "Marcher entre les mondes" #NT!
- dance_of_the_chaya_perk_name: "Danse de la Chaya" #NT!
- clearwater_passage_perk_name: "Passage d'eau claire" #NT!
- ghost_caress_perk_name: "Caresse fantôme" #NT!
- river_of_blood_perk_name: "Rivière de sang" #NT!
- all_beasts_under_the_sun_perk_name: "Toutes les bêtes sous le soleil" #NT!
-  
- WALKING_BETWEEN_WORLDS_PERK_EFFECT: "Progression mensuelle de l'exploration d'Umbra : [grace_i]#P +10#!" #NT!
- DANCE_OF_THE_CHAYA_PERK_EFFECT: "Débloquez $seek_aid_of_the_spirits_decision$ [decision|E]." #NT!
- CLEARWATER_PASSAGE_PERK_EFFECT: "Débloquez l'option de changement de forme [GetModifier( 'POD_shapeshift_form_water_modifier' ).GetNameWithTooltip|L]." #NT!
- GHOST_CARESS_PERK_EFFECT: "En tant que [character_interaction|E], vous permet de donner à la cible une blessure dont la gravité dépend de la rareté de l'artefact du destinataire réclamé." #NT!
- ALL_BEASTS_UNDER_THE_SUN_PERK_EFFECT: "Autoriser le changement de forme vers plusieurs formes animales." #NT!
-  
- mothers_blessing_curse_perk_name: "Bénédiction/Malédiction de la Mère" #NT!
- satyrs_wisdom_perk_name: "La sagesse du satyre" #NT!
- banish_burning_perk_name: "Bannir le feu" #NT!
- sorcerers_blade_perk_name: "Lame du sorcier" #NT!
- phantasm_perk_name: "Fantasme" #NT!
- small_cousin_perk_name: "Petite cousine" #NT!
- chariot_of_lions_perk_name: "Char des Lions" #NT!
- the_madness_of_crowds_perk_name: "La folie des foules" #NT!
-  
- MOTHERS_BLESSING_CURSE_PERK_EFFECT: "En tant que [character_interaction|E], vous permet de donner [GetModifier( 'mothers_blessing_perk_modifier' ).GetNameWithTooltip|L] ou [GetModifier( 'mothers_curse_perk_modifier' ).GetNameWithTooltip|L] à une cible enceinte." #NT!
- SORCERERS_BLADE_PERK_EFFECT: "En tant que [character_interaction|E], vous permet d'utiliser la gnose pour augmenter les prouesses d'un artefact d'arme." #NT!
- SMALL_COUSIN_PERK_EFFECT: "Débloquez l'option de changement de forme [GetModifier( 'POD_shapeshift_form_cat_modifier' ).GetNameWithTooltip|L]." #NT!
- THE_MADNESS_OF_CROWDS_PERK_EFFECT: "En tant que [character_interaction|E], vous permet de démarrer un [GetModifier( 'lunatic_summon_modifier' ).GetNameWithTooltip|L].\nPeut recruter [GetMaA('maniacs').GetName] en tant que [men_at_arms|E]." #NT!
+    bastettribegifts_lifestyle_name: "Cadeaux tribaux"
+    bastettribegifts_lifestyle_desc: "Concentrez-vous sur le pouvoir qui vient de l’esprit protecteur de la tribu."
+    bastettribegifts_lifestyle_highlight_desc: "Grâce à votre [GetModifier('POD_gnosis_5_modifier').GetNameWithTooltip], vous gagnez #P [GetPlayer.Custom('GetEducationLifestylePercentageBoost')]#! de plus [experience|E] dans ce style de vie."
+    monthly_bastettribegifts_lifestyle_xp_gain_mult: "Cadeaux tribaux mensuels [lifestyle|E] [experience|E]"
+
+    bastettribegifts_focus: "Focus sur les cadeaux tribaux"
+    bastettribegifts_focus_modifier: "[GetFocus('bastettribegifts_focus').GetName]"
+    bastettribegifts_focus_desc: "Dons tribaux du Bastet."
+    bastettribegifts_focus_effect_desc: "Focus sur les subventions pour les dons tribaux :"
+
+    bastetgifts_visible: "Cadeaux bastet"
+    bastethomidgifts_visible: "Cadeaux homid"
+    felinegifts_visible: "Cadeaux félins"
+    bastetmetisgifts_visible: "Cadeaux métis"
+
+    pathfinders_pride_perk_name: "La fierté des éclaireurs"
+    silent_stalking_perk_name: "Traque silencieuse"
+    shriek_perk_name: "Cri"
+    cheshire_prank_perk_name: "Blague du Cheshire"
+    freyjas_blessing_perk_name: "La bénédiction de Freyja"
+    fortuna_perk_name: "Fortune"
+    jump_to_the_moon_perk_name: "Sauter sur la Lune"
+    withering_stare_perk_name: "Regard flétri"
+
+    SHRIEK_PERK_EFFECT: "Donnez le modificateur [GetModifier('shriek_perk_modifier').GetNameWithTooltip] à l'ennemi [knights|E] en guerre en tant que commandant ou à l'ennemi en [single_combat_duel|E]."
+    FREYJAS_BLESSING_PERK_EFFECT: "En [character_interaction|E], permet de rendre la cible enceinte."
+    JUMP_TO_THE_MOON_PERK_EFFECT: "Progression mensuelle de l'exploration d'Umbra : [grace_i]#P +15#!"
+    WITHERING_STARE_PERK_EFFECT: "En [character_interaction|E], permet d'infliger à la cible une blessure, de gravité selon vos prouesses."
+
+    sweet_hunters_smile_perk_name: "Le doux sourire du chasseur"
+    cat_claws_perk_name: "Griffes de chat"
+    eavesdroppers_ear_perk_name: "L'oreille de l'oreille indiscrète"
+    craft_of_the_maker_perk_name: "Artisanat du créateur"
+    babels_cure_perk_name: "Le remède de Babel"
+    monkeys_uncle_perk_name: "L'oncle du singe"
+    deny_the_hungry_perk_name: "Nier les affamés"
+    madness_perk_name: "Folie"
+
+    DENY_THE_HUNGRY_PERK_EFFECT: "En tant que [character_interaction|E], permet de faire gagner au comté ciblé le [GetModifier( 'deny_the_hungry_perk_modifier' ).GetNameWithTooltip|L]."
+    MADNESS_PERK_EFFECT: "En [character_interaction|E], permet de faire acquérir à la cible un trait mental négatif."
+
+    kittens_cry_perk_name: "Le cri du chaton"
+    mark_as_mine_perk_name: "Marquer comme mien"
+    killers_leap_perk_name: "Le saut du tueur"
+    perfect_cover_perk_name: "Couverture parfaite"
+    underbelly_perk_name: "Ventre"
+    hand_of_will_perk_name: "Main de volonté"
+    judgement_of_pestilence_perk_name: "Jugement de la peste"
+    revolt_of_the_land_perk_name: "Révolte de la terre"
+
+    JUDGEMENT_OF_PESTILENCE_PERK_EFFECT: "En tant que deux [character_interaction|E], vous permet d'absorber une maladie puis de la relâcher dans le camp d'un ennemi."
+
+    sense_primal_nature_perk_name: "Sens de la nature primordiale"
+    blinding_moonbeam_gaze_perk_name: "Regard aveuglant de rayon de lune"
+    whisker_sight_perk_name: "Visée des moustaches"
+    fist_of_cahlash_perk_name: "Poing de Cahlash"
+    moons_gateway_perk_name: "La porte de la Lune"
+    redeem_the_waste_perk_name: "Récupérer les déchets"
+    moon_sense_perk_name: "Sens de la Lune"
+    wrath_of_nala_perk_name: "La colère de Nala"
+
+    BLINDING_MOONBEAM_GAZE_PERK_EFFECT: "Donnez le modificateur [GetModifier('blinding_moonbeam_gaze_perk_modifier').GetNameWithTooltip] à l'ennemi [knights|E] en guerre en tant que commandant ou à l'ennemi en [single_combat_duel|E]."
+    MOONS_GATEWAY_PERK_EFFECT: "En tant que [character_interaction|E], vous permet de vous téléporter vers l'emplacement cible."
+    MOON_SENSE_PERK_EFFECT: "Vous recevrez une notification si quelqu'un a l'intention d'assassiner votre ami de la famille.\nVous recevrez une notification si quelqu'un a l'intention de séduire votre amant ou votre conjoint.\nVotre prisonnier a moins de chances de s'échapper de votre prison."
+    WRATH_OF_NALA_PERK_EFFECT: "En tant que [character_interaction|E], vous permet de déclencher un [GetModifier( 'wrath_of_nala_modifier' ).GetNameWithTooltip|L] sur les royaumes ennemis."
+
+    bagheeragifts_name: "Cadeaux bagheera"
+    # balamgifts_name: "Cadeaux balam"
+    bubastigifts_name: "Cadeaux bubasti"
+    khangifts_name: "Cadeaux khan"
+    # pumoncagifts_name: "Cadeaux pumonca"
+    # qualmigifts_name: "Cadeaux qualmi"
+    simbagifts_name: "Cadeaux simba"
+    swaragifts_name: "Cadeaux swara"
+    celicangifts_name: "Cadeaux Hellcats"
+
+    humbabas_escape_perk_name: "L'évasion de Humbaba"
+    treeclimber_perk_name: "Grimpeur d'arbres"
+    ojas_surge_perk_name: "Surge d'Ojas"
+    cobras_dance_perk_name: "Danse des Cobras"
+    travelers_tongues_perk_name: "Langues du voyageur"
+    the_paradox_of_time_perk_name: "Le paradoxe du temps"
+    shivas_might_perk_name: "La puissance de Shiva"
+    part_the_curtain_perk_name: "Séparez le rideau"
+
+    HUMBABAS_ESCAPE_PERK_EFFECT: "Vous ne pouvez plus être emprisonné par des sièges."
+    OJAS_SURGE_PERK_EFFECT: "En tant que [character_interaction|E], permet d'augmenter temporairement un attribut."
+    COBRAS_DANCE_PERK_EFFECT: "Plus susceptible de [imprison|E] [characters|E] après un [siege|E] ou [raid|E] réussi."
+    THE_PARADOX_OF_TIME_PERK_EFFECT: "Donnez le modificateur [GetModifier('the_paradox_of_time_perk_modifier').GetNameWithTooltip] à l'ennemi [knights|E] en guerre en tant que commandant ou à l'ennemi en [single_combat_duel|E]."
+    SHIVAS_MIGHT_PERK_EFFECT: "Débloquez l'option de changement de forme [GetModifier( 'POD_shapeshift_form_shiva_modifier' ).GetNameWithTooltip|L] ou [GetModifier( 'POD_shapeshift_form_kali_modifier' ).GetNameWithTooltip|L]."
+
+    alms_to_the_poor_perk_name: "L'aumône aux pauvres"
+    scholars_friend_perk_name: "Ami de l'érudit"
+    mousemaze_perk_name: "Labyrinthe de souris"
+    banish_cahlashs_brood_perk_name: "Bannir la progéniture de Cahlash"
+    the_many_tongues_of_ptah_perk_name: "Les nombreuses langues de Ptah"
+    the_scarabs_flight_perk_name: "Le vol du scarabée"
+    shadow_brethren_perk_name: "Frères de l'Ombre"
+    spirit_wall_perk_name: "Mur spirituel"
+    the_fleeing_scarab_perk_name: "Le scarabée en fuite"
+
+    MOUSEMAZE_PERK_EFFECT: "Donnez le modificateur [GetModifier('mousemaze_perk_modifier').GetNameWithTooltip] à l'ennemi [knights|E] en guerre en tant que commandant ou à l'ennemi en [single_combat_duel|E]."
+    THE_FLEEING_SCARAB_PERK_EFFECT: "Autorisez la résurrection si vous mourez pour une cause non naturelle.\n#F L'un des secrets tribaux les plus obscurs des Bubasti, ce don permet à un chat de retirer son âme, de l'incarner et de la mettre hors de danger pendant que son corps meurt. L'âme, qui prend souvent la forme d'un scarabée volant, recherche un nouveau corps hôte approprié, grimpe dans sa bouche pendant son sommeil et « dépose » la vieille âme dans le nouvel hôte. Le Bubasti qui connaît ce secret interdit (et il existe moins de huit chats de ce type) est théoriquement immortel, bien qu'une telle longévité s'achète dans la vie d'autres êtres.#!"
+
+    rhinos_favor_perk_name: "La faveur du rhinocéros"
+    skin_of_jade_perk_name: "Peau de Jade"
+    ricepaper_walk_perk_name: "Promenade en papier de riz"
+    paws_of_the_raging_spirit_tiger_perk_name: "Pattes du tigre spirituel enragé"
+    makers_charm_perk_name: "Charme du créateur"
+    dragonroar_perk_name: "Dragonroar"
+    call_to_battle_perk_name: "Appel au combat"
+    thousand_thunder_strike_perk_name: "Frappe de mille tonnerres"
+
+    PAWS_OF_THE_RAGING_SPIRIT_TIGER_PERK_EFFECT: "Plus besoin de payer Gnosis pour blesser un esprit au [single_combat_duel|E]."
+    CALL_TO_BATTLE_PERK_EFFECT: "Donnez à l'allié [knights|E] en guerre en tant que commandant ou à vous-même dans [single_combat_duel|E] [GetModifier('mousemaze_perk_modifier').GetNameWithTooltip]."
+
+    bastet_majesty_perk_name: "Majesté"
+    submit_perk_name: "Soumettre"
+    rallying_challenge_perk_name: "Défi de rallye"
+    fireroar_perk_name: "Rugissement de feu"
+    shadow_the_moons_light_perk_name: "Ombrez la lumière de la Lune"
+    king_of_beasts_perk_name: "Roi des bêtes"
+    command_the_multitude_perk_name: "Commandez la multitude"
+    rising_sun_perk_name: "Soleil levant"
+    royal_privilege_perk_name: "Privilège Royal"
+
+    RISING_SUN_PERK_EFFECT: "Blessez l'ennemi [knights|E] et les commandants en guerre en tant que commandant ou ennemi au [single_combat_duel|E], s'ils sont des vampires (ou d'autres surnaturels qui craignent le soleil)."
+    ROYAL_PRIVILEGE_PERK_EFFECT: "Autoriser le choix d'une autre race et d'un autre style de vie de cadeaux de tribu sans la race correspondante [trait|E] ou [faith|E].\n#F Cette supercherie profondément méprisée permet à un lion ancien et puissant de voler les cadeaux d'un autre chat-garou, même ceux qui appartiennent traditionnellement uniquement à cette tribu ou race. Black Tooth a rassemblé une grande partie de son pouvoir grâce à ce secret mortel. Ceux qui l'ont rencontré affirment qu'il invoque son « privilège » en tuant d'autres Bastet, puis en retirant leurs secrets à leurs esprits au moment de leur mort. Bien qu'il puisse y avoir d'autres Bastet qui connaissent le Don, ils n'ont pas beaucoup d'amis.#!"
+
+    diamond_claws_perk_name: "Griffes de diamant"
+    impalas_flight_perk_name: "Le vol de l'Impala"
+    walking_between_worlds_perk_name: "Marcher entre les mondes"
+    dance_of_the_chaya_perk_name: "Danse de la Chaya"
+    clearwater_passage_perk_name: "Passage d'eau claire"
+    ghost_caress_perk_name: "Caresse fantôme"
+    river_of_blood_perk_name: "Rivière de sang"
+    all_beasts_under_the_sun_perk_name: "Toutes les bêtes sous le soleil"
+
+    WALKING_BETWEEN_WORLDS_PERK_EFFECT: "Progression mensuelle de l'exploration d'Umbra : [grace_i]#P +10#!"
+    DANCE_OF_THE_CHAYA_PERK_EFFECT: "Débloquez $seek_aid_of_the_spirits_decision$ [decision|E]."
+    CLEARWATER_PASSAGE_PERK_EFFECT: "Débloquez l'option de changement de forme [GetModifier( 'POD_shapeshift_form_water_modifier' ).GetNameWithTooltip|L]."
+    GHOST_CARESS_PERK_EFFECT: "En tant que [character_interaction|E], vous permet de donner à la cible une blessure dont la gravité dépend de la rareté de l'artefact du destinataire réclamé."
+    ALL_BEASTS_UNDER_THE_SUN_PERK_EFFECT: "Autoriser le changement de forme vers plusieurs formes animales."
+
+    mothers_blessing_curse_perk_name: "Bénédiction/Malédiction de la Mère"
+    satyrs_wisdom_perk_name: "La sagesse du satyre"
+    banish_burning_perk_name: "Bannir le feu"
+    sorcerers_blade_perk_name: "Lame du sorcier"
+    phantasm_perk_name: "Fantasme"
+    small_cousin_perk_name: "Petite cousine"
+    chariot_of_lions_perk_name: "Char des Lions"
+    the_madness_of_crowds_perk_name: "La folie des foules"
+
+    MOTHERS_BLESSING_CURSE_PERK_EFFECT: "En tant que [character_interaction|E], vous permet de donner [GetModifier( 'mothers_blessing_perk_modifier' ).GetNameWithTooltip|L] ou [GetModifier( 'mothers_curse_perk_modifier' ).GetNameWithTooltip|L] à une cible enceinte."
+    SORCERERS_BLADE_PERK_EFFECT: "En tant que [character_interaction|E], vous permet d'utiliser la gnose pour augmenter les prouesses d'un artefact d'arme."
+    SMALL_COUSIN_PERK_EFFECT: "Débloquez l'option de changement de forme [GetModifier( 'POD_shapeshift_form_cat_modifier' ).GetNameWithTooltip|L]."
+    THE_MADNESS_OF_CROWDS_PERK_EFFECT: "En tant que [character_interaction|E], vous permet de démarrer un [GetModifier( 'lunatic_summon_modifier' ).GetNameWithTooltip|L].\nPeut recruter [GetMaA('maniacs').GetName] en tant que [men_at_arms|E]."

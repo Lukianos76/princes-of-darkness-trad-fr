@@ -1,101 +1,98 @@
 ﻿l_french:
- POD_golconda_journey.1.t: "À la recherche de réponses" #NT!
- POD_golconda_journey.1.desc: "[teacher.GetFirstName] me rencontre dans un jardin isolé, à l'abri des regards indiscrets. [teacher.GetHerHis|U] la voix est basse, mais [teacher.GetHerHis] les yeux brillent.\n\n[teacher.GetSheHe|U] me parle de la Rédemption.\n\nPromis pour la première fois à [GetScriptedCharacterByHistoryID('505001').GetFirstName] par Gabriel, messager de Dieu. Réalisé pour la première fois au [GetScriptedCharacterByHistoryID('505008').GetFirstNameNicknamed]. Un état recherché par beaucoup et atteint par quelques-uns.\n\nLe nom de cette rédemption est [GetTrait('golconda').GetName(GetNullCharacter)]." #NT!
- POD_golconda_journey.1.option.a: "Nous discutons jusqu'au petit matin..." #NT!
-  
- POD_golconda_journey.2.t: "Un voyage de mille étapes" #NT!
- POD_golconda_journey.2.desc: "[teacher.GetFirstName] tente d'expliquer le chemin vers [golconda|E] avec une longue série de métaphores vagues, chacune plus ésotérique et déroutante que la précédente. Cependant, je #italic pense#! que j'en comprends l'essentiel.\n\nGolconde est, d'une certaine manière, un retour à l'humanité. Un [cainite|E] qui parcourt le chemin #X ne doit jamais laisser filer son Humanité en commettant un meurtre ou un vol#!.\n\nDe plus, la frénésie du #X doit être évitée à tout prix#!. Avoir un [piety_level|E] élevé sur son [golconda|E]0 peut affaiblir l'influence du [golconda|E]1.\n\nQuand [teacher.GetFirstName] me fait ses adieux, je suis perdu dans mes pensées." #NT!
- POD_golconda_journey.2.effect: "Vous avez découvert le [golconda|E] et déverrouillé le [journey|E] pour faire la paix avec votre [beast|E]." #NT!
- POD_golconda_journey.2.option.a: "Maintenant, je sais ce que je dois faire." #NT!
-  
-  
- POD_golconda_journey.10.t: "Un filet d'informations" #NT!
- POD_golconda_journey.10.desc: "Je m'enferme dans mon refuge et réfléchis à ce que j'ai appris.\n\n" #NT!
- POD_golconda_journey.10.desc.1: "[the_beast|E] est puissant. En effet, certains [Concept('faith','Roads')|E] tenteront d'exploiter son pouvoir en #R lui cédant#!, leurs adhérents s'éloignant de plus en plus de l'Humanité, sans se soucier des conséquences.\n\nBien sûr, la voie du [golconda|E] est fondamentalement incompatible avec une telle approche. Pourtant, [the_beast|E] n’acceptera rien d’autre que l’abandon complet du #R#!. Pourrait-il être convaincu de conclure un partenariat égalitaire ?" #NT!
- POD_golconda_journey.10.desc.2: "[the_beast|E] a #R faim#!. La Bête est #R faim#! elle-même.\n\nMais qu'est-ce que #italic#! #R faim#! ? Juste un instinct de survie. Un rappel que chaque créature de ce monde a besoin de #R se nourrir#!.\n\nEt pourtant, ce que la Bête exige va bien au-delà de ce qui est nécessaire à la survie. Quelque chose ne va pas." #NT!
- POD_golconda_journey.10.desc.3: "[the_beast|E] est impulsif. Il me tire constamment dessus, exigeant que je #R bois#! mes courtisans, mes pairs, mes amis, tous ceux que je rencontre, tous ceux qui me sont chers.\n\nPourtant, il est aussi rusé. Dans mes observations, j'ai vu des preuves de son intelligence. Il peut donc planifier à l'avance.\n\nCe qui soulève la question : toutes ses exigences apparemment impulsives sont-elles au service d'un objectif plus grand ?" #NT!
- POD_golconda_journey.10.desc.4: "[the_beast|E] est une #R malédiction#!. Beaucoup diraient qu'elle vient de Dieu lui-même ou d'une autre entité dotée d'un tel pouvoir, mais les détails n'ont pas vraiment d'importance.\n\nOn ne peut jamais lui faire confiance, négocier ou même la contraindre. Qu'il s'agisse d'un envahisseur étranger ou d'un sombre reflet n'a aucune importance car, en fin de compte, c'est un test.\n\nComprendre ce test et comment le surmonter pourrait être la clé de tout." #NT!
- POD_golconda_journey.10.desc.5: "[the_beast|E] est primitif. L'homme était #R sauvage#! autrefois, et tous les pièges modernes de la « civilisation » tentent maladroitement de cacher la brutalité inhérente à l'existence de l'homme.\n\nLes mortels n'entendent pas [the_beast|E] comme nous, mais ils en ressentent certainement les effets, expliquant la #R violence#! de leur monde. Les vampires, en tant que créatures coincées dans une stase éternelle, sont plus proches de cet état de choses primitif et, en tant que tels, entendent beaucoup plus clairement l'appel à la violence.\n\nGolconde est peut-être la véritable prochaine étape de l'évolution de chacun, où la #R sauvagerie#! de la naissance de l'humanité peut enfin être laissé de côté." #NT!
- POD_golconda_journey.10.desc.6: "[the_beast|E] est moi. Beaucoup rechigneraient à une telle notion, mais rares sont ceux qui peuvent nier l'attrait brut #R#! de ses murmures. Comment une telle #R allure#! pourrait-elle naître sinon en étant un sombre reflet de sa personnalité ? Comme les vampires le savent très bien, les meilleurs tentateurs savent tout sur leurs proies.\n\nCependant, passer à autre chose n'est pas une mince affaire. On ne peut pas simplement supprimer une partie de soi sans perdre beaucoup dans le processus, qui ne laisse qu'une seule ligne de conduite, terrifiante dans sa simplicité.\n\nL'acceptation.\n\nJe suis [the_beast|E] et [the_beast|E] c'est moi." #NT!
- POD_golconda_journey.10.desc.7: "[the_beast|E] est séduisant. Comme le serpent dans le premier jardin, il offre des promesses alléchantes, des solutions simples et des solutions faciles. Et, toujours comme le serpent, ce sont tous des chemins vers la #R damnation#!.\n\nIf. Le vampirisme était en effet une sorte de malédiction biblique, il ne peut y avoir de solution simple, ni de pouvoir magique pour tout défaire.\n\nLa réponse ne peut reposer que sur un long chemin d'expiation, loin des #R envies#! bestiales de notre espèce. Sur cette route solitaire, il n'y a qu'un seul compagnon, [the_beast|E] essayant de nous faire tomber à chaque étape du chemin. Nous devons simplement décliner ses offres alléchantes.\n\nEve n'a eu qu'à refuser celles du serpent, après tout." #NT!
- POD_golconda_journey.10.desc.8: "[the_beast|E] est Prométhée. Le porteur de feu qui a sauvé l'humanité de l'esclavage des dieux mais qui l'a également condamnée à se brûler encore et encore. Il alimente mes pouvoirs, écrase mes ennemis et me protège des horreurs de l'obscurité.\n\nMais cela fait aussi de moi un monstre, un Dieu-esclavagiste qui captive l'humanité pour mon propre plaisir pervers #R#! et répète l'interminable faire du vélo. Peut-être que le briser signifie simplement cesser de compter sur lui.\n\nMais que suis-je sans le #R pouvoir#! qui m'a libéré ?" #NT!
- POD_golconda_journey.10.desc.9: "[the_beast|E] est une illusion. Une fabrication de notre propre esprit pour rationaliser les horreurs que nous #R déchaînons#! sur l'humanité. La simple existence de Golconde, et le fait que ceux qui l'atteignent seraient libérés, prouve que [the_beast|E] est un mythe si profondément ancré dans la psyché du [cainites|E]' qu'il est devenu sa propre forme de réalité.\n \nLes voix dans ma tête, l'envie sombre #R#! de boire, de tuer, de mutiler, ne sont que cela, des fragments d'un état d'esprit prédateur qui peut être réduit avec suffisamment de volonté." #NT!
-  
- POD_golconda_journey.10.option.a: "Chaque réponse mène à encore plus de questions." #NT!
- POD_golconda_journey.10.option.a.success: "Vous avez réalisé une avancée majeure dans votre compréhension du [the_beast|E]." #NT!
-  
- POD_golconda_journey.11.t: "Regarder l'abîme" #NT!
- POD_golconda_journey.11.desc: "Quelque chose est différent cette fois.\n\nEn m'asseyant et en contemplant, je deviens très détendu. Ma conscience suit les sensations dans mon corps, le flux de vitae dans mes veines. Et soudain, je le remarque.\n\nComme la moindre piqûre de douleur brûlante. Une douleur indistincte flottant dans le sang de mon cœur.\n\nC'est fait de... souvenirs ? Et #R faim#!.\n\nI, j'en suis absolument certain. C'est là que réside le [the_beast|E]. Si je réveillais mon sang, je pourrais déverrouiller tout ce qu'il cache. Et je pourrais enfin y faire face, les yeux dans les yeux." #NT!
- POD_golconda_journey.11.effect: "Vous avez débloqué le Suspire en tant que [journey|E]." #NT!
- POD_golconda_journey.11.option.a: "La question est... suis-je prêt ?" #NT!
-  
-  
- POD_golconda_journey.100.t: "Plomberie des profondeurs" #NT!
- POD_golconda_journey.100.desc: "Je verrouille les portes de mon refuge une dernière fois, en pensant aux événements qui m'ont conduit ici.\n\n" #NT!
- POD_golconda_journey.100.desc.compassion: "Dans tout ce que je fais, j’essaie de voir le meilleur chez les autres. Et j'ai essayé d'étendre cette même compassion à [the_beast|E], mais cela ne rend pas les choses faciles.\n\nPuis-je faire preuve de compassion envers #R la faim aveugle#!? Plus j'essaie de comprendre ses motivations, plus cela semble impénétrable. \n\nJe ne peux qu'espérer qu'y faire face de front mènera aux réponses que je cherche." #NT!
- POD_golconda_journey.100.desc.selfreliance: "J'ai appris très tôt qu'on ne pouvait pas faire confiance aux autres. Ainsi va le monde. La naïveté détruira un [cainite|E] aussi sûrement que la lumière du soleil.\n\nPersonne ne peut m'aider dans cette quête. Si je veux affronter le [the_beast|E], la responsabilité m'incombe directement.\n\nJe sais ce que je dois faire et j'ai la détermination de le faire." #NT!
- POD_golconda_journey.100.option.a: "J'étends mes sens, et les envoie au plus profond de moi..." #NT!
-  
- POD_golconda_journey.101.t: "Non amarré" #NT!
- POD_golconda_journey.101.desc: "Douleur.\n\nJe suis pris dans un tourbillon de couleurs assourdissantes. Des bruits discordants laissent des arrière-goûts métalliques sur ma langue. Le haut est le bas, et le bas est le haut.\n\nL'assaut sensoriel me frappe comme une avalanche. La panique s'installe. Suis-je sur le point de mourir ?\n\nJ'ai besoin d'un moyen de m'ancrer, et vite." #NT!
- POD_golconda_journey.101.option.a: "Concentrez-vous sur les sensations corporelles." #NT!
- POD_golconda_journey.101.option.b: "Concentrez-vous sur un souvenir agréable." #NT!
-  
- POD_golconda_journey.102.t: "Flottant" #NT!
- POD_golconda_journey.102.desc: "Le chaos autour de moi se calme, ne serait-ce qu'un peu. Les formes se réorganisent selon un ordre géométrique. Comme une série infinie de miroirs, je me vois répété en eux.\n\nIls sont comme un microcosme de mon passé. Tous mes souvenirs de joies et de souffrances, de fierté et de regret, de déception et de soulagement.\n\nDe cette distance, ils semblent si petits et insignifiants." #NT!
- POD_golconda_journey.102.option.a: "Un rappel pour ne pas laisser les choses me monter à la tête." #NT!
- POD_golconda_journey.102.option.b: "Un rappel pour réfléchir à ce qui est vraiment important." #NT!
-  
- POD_golconda_journey.103.t: "Fondé" #NT!
- POD_golconda_journey.103.desc: "Les illusions se brisent et je me retrouve dans une vallée fluviale.\n\nLe soleil brille. J'avais déjà oublié ce que c'était que de recevoir sa chaleur. Les mots ne peuvent décrire ce sentiment.\n\nUn homme se tient au bord de la rivière. Le corps sans vie de son frère est étalé devant lui, le sang d'une blessure à la tête se répandant sans ménagement dans les eaux.\n\nLe visage de l'homme est vide. Pourtant, un intense sentiment de reconnaissance m’envahit. Je sais exactement ce qu'il ressent." #NT!
- POD_golconda_journey.103.option.a: "Culpabilité." #NT!
- POD_golconda_journey.103.option.b: "Confusion." #NT!
- POD_golconda_journey.103.option.c: "Une rage insondable." #NT!
-  
- POD_golconda_journey.104.t: "Horizon des événements" #NT!
- POD_golconda_journey.104.desc: "L'homme se tourne vers moi. Son environnement tourbillonne et se dissout. Le monde entier bouillonne, devenant un océan de liquide rouge bouillonnant.\n\n#R;bold La faim.#!\n\nAnd Je comprends enfin ce qu'est la faim." #NT!
- POD_golconda_journey.104.desc.guilt: "C'est sa culpabilité.\n\nIl a été qualifié de pécheur, mais on ne lui a offert aucune chance réaliste de rédemption, même au fil des millénaires." #NT!
- POD_golconda_journey.104.desc.confusion: "C'est sa confusion.\n\nC'est son sentiment d'impuissance à voir les règles changer sur lui et à se demander pendant des millénaires si quelque chose pourrait lui redonner le sentiment d'être puissant." #NT!
- POD_golconda_journey.104.desc.rage: "C'est sa rage.\n\nIl a offert son amour et a reçu des millénaires de punition en retour." #NT!
- POD_golconda_journey.104.desc.end: "\n\nEt je me rends compte qu’aucun de ces sentiments ne m’appartient. Ils sont à lui, et il doit les garder.\n\nMais leur poids est sur le point de me noyer." #NT!
- POD_golconda_journey.104.option.a: "None" #NT!
- POD_golconda_journey.104.option.a.tt: "Vous tenterez une dernière fois de conjurer la frénésie." #NT!
- POD_golconda_journey.104.option.a.success: "Vous internalisez votre compréhension de la faim, menant au [enlightenment|E]." #NT!
- POD_golconda_journey.104.option.a.failure: "Vous devenez #R faim#!, et #R faim#! devient vous." #NT!
-  
- POD_golconda_journey.105.t: "Golconde" #NT!
- POD_golconda_journey.105.desc: "Je me réveille. La réalité se dissipe et revient lentement au point, prenant son temps.\n\nJe suis absolument couverte de vitae. Il a dû suinter de mes pores pendant que mon esprit était en quête de vision.\n\nSa vue suffirait à envoyer n'importe quel [cainite|E] dans une frénésie. Mais rien ne bouge en moi. Aucune voix intérieure ne me pousse à tout boire.\n\nJuste le silence." #NT!
- POD_golconda_journey.105.option.a: "Silence..." #NT!
-  
- POD_golconda_journey.106.t: "Wassail" #NT!
- POD_golconda_journey.106.desc: "Du sang, c'est tout ce que je peux voir.\n\nPartout. Pétillant. Ébullition. Des boules bouillonnantes qui font signe.\n\nEn moi, autour de moi. Il n'y a pas de séparation. Non-duel, non-duel, seulement reddition, seulement reddition, seulement reddition, seulement reddition, seulement reddition, seulement reddition, seulement reddition, seulement reddition, seulement reddition, seulement reddition, seulement reddition, seulement reddition, seulement reddition, seulement la reddition, seulement la reddition, seulement la reddition, seulement la reddition, seulement la reddition, seulement la reddition, seulement la reddition, seulement la reddition, seulement la reddition, seulement la reddition, seulement la reddition, seulement la reddition, seulement la reddition, seulement la reddition, seulement la reddition, seulement la reddition, seulement la reddition , seulement la reddition, seulement la reddition, seulement la reddition, seulement la reddition, seulement la reddition, seulement la reddition, seulement la reddition, seulement la reddition, seulement la reddition, seulement la reddition, seulement la reddition, seulement la reddition, seulement la reddition, seulement la reddition, seulement s#!" #NT!
- POD_golconda_journey.106.option.a: "#R reddition#!" #NT!
-  
-  
- POD_golconda_journey.1000.t: "Bonjour ténèbres, vieil ami" #NT!
- POD_golconda_journey.1000.desc: "#R Oh, MAINTENANT, nous parlons.\n\nPensiez-vous que vous pourriez vous débarrasser de moi pour toujours ? Pensiez-vous VRAIMENT que votre numéro de bon deux chaussures allait tromper n'importe qui ? Eh bien, ça n'allait pas ME tromper.\n\nEt regardez où ça vous a mené. Vous ne pouviez tout simplement pas résister à la tentation, n'est-ce pas ? Eh bien, pour ma part, je suis TELLEMENT contente que tu sois de retour.\n\nNous allons tellement nous amuser ensemble. Attends...#!" #NT!
- POD_golconda_journey.1000.option.a: "None" #NT!
- POD_golconda_journey.1000.option.a.tt: "Vous avez dévié du chemin du [golconda|E]. Si vous souhaitez retrouver cet état, il faudra recommencer depuis le début..." #NT!
- POD_golconda_journey.1000.option.b: "J'abandonne." #NT!
- POD_golconda_journey.1000.option.b.tt: "Vous abandonnez entièrement le chemin du [golconda|E]." #NT!
-  
- POD_golconda_journey.1001.t: "Un revers" #NT!
- POD_golconda_journey.1001.desc: "#R JE LE SAVAIS ! Je le savais. Je le savais.\n\nTu aimes agir avec hauteur et puissance, hein ? Vous pensez que vous êtes une sorte de sage ? Tu penses que tu es MIEUX QUE MOI ? Et bien, RÉFLÉCHIS, FUCKER.\n\nJe t'aime mieux comme ça. Céder à vos pulsions vous rend beaucoup plus sympathique. Vous devriez en prendre l'habitude.#!" #NT!
- POD_golconda_journey.1001.option.a: "None" #NT!
- POD_golconda_journey.1001.option.a.tt: "Vous avez quitté le chemin du [golconda|E] et votre progression dans le [GetTrait('golconda_seeker').GetName(GetNullCharacter)] [trait|E] a été réinitialisée." #NT!
-  
- POD_golconda_journey.2000.toast.t: "Fin du mentorat" #NT!
- POD_golconda_journey.2000.toast.golconda: "[golconda_mentee.GetShortUIName] a atteint [GetTrait('golconda').GetName(GetNullCharacter)]" #NT!
- POD_golconda_journey.2000.toast.insight: "[golconda_mentee.GetShortUINamePossessive] insight a dépassé le vôtre" #NT!
- POD_golconda_journey.2000.toast.lowinsight: "En raison de votre faible perspicacité, vous ne pouvez plus encadrer les autres" #NT!
- POD_golconda_journey.2000.toast.invalid: "[golconda_mentee.GetShortUIName] ne peut plus être encadré" #NT!
-  
- POD_golconda_journey.2001.t: "Guidage constant" #NT!
- POD_golconda_journey.2001.desc: "Un an s'est écoulé depuis la dernière fois que j'ai transmis certaines de mes connaissances sur [the_beast|E] à [golconda_mentee.GetFirstNameNicknamed].\n\nDepuis, la compréhension du [golconda_mentee.GetHerHis] s'est approfondie, et ainsi l'esprit du [golconda_mentee.GetHerHis] est à nouveau ouvert à de nouvelles connaissances." #NT!
- POD_golconda_journey.2001.desc.xp: "\n\nActuellement, [golconda_mentee.GetHerHis] #TOOLTIP:GAME_TRAIT,golconda_seeker,[golconda_mentee.GetID] #L Insight#!#! est à #V [golconda_mentee.MakeScope.ScriptValue('suspire_success_chance')] %#!." #NT!
- POD_golconda_journey.2001.desc.end: "\n\nJe dois décider si je dois continuer à mentorer [golconda_mentee.GetHerHim] ou non." #NT!
- POD_golconda_journey.2001.option.a: "Je serai le mentor de [golconda_mentee.GetHerHim] ce soir et je recommencerai l'année prochaine." #NT!
- POD_golconda_journey.2001.option.a.tt: "Dans un an, vous encadrerez à nouveau [golconda_mentee.GetShortUIName]" #NT!
- POD_golconda_journey.2001.option.b: "Je serai le mentor de [golconda_mentee.GetHerHim] ce soir, mais pas plus loin." #NT!
- POD_golconda_journey.2001.option.b.tt: "Vous arrêterez le mentorat [golconda_mentee.GetShortUIName]" #NT!
- POD_golconda_journey.2001.option.c: "Je vais arrêter de mentorer [golconda_mentee.GetHerHim] pour le moment." #NT!
+    POD_golconda_journey.1.t: "À la recherche de réponses"
+    POD_golconda_journey.1.desc: "[teacher.GetFirstName] me rencontre dans un jardin isolé, à l'abri des regards indiscrets. [teacher.GetHerHis|U] la voix est basse, mais [teacher.GetHerHis] les yeux brillent.\n\n[teacher.GetSheHe|U] me parle de la Rédemption.\n\nPromis pour la première fois à [GetScriptedCharacterByHistoryID('505001').GetFirstName] par Gabriel, messager de Dieu. Réalisé pour la première fois au [GetScriptedCharacterByHistoryID('505008').GetFirstNameNicknamed]. Un état recherché par beaucoup et atteint par quelques-uns.\n\nLe nom de cette rédemption est [GetTrait('golconda').GetName(GetNullCharacter)]."
+    POD_golconda_journey.1.option.a: "Nous discutons jusqu'au petit matin..."
+
+    POD_golconda_journey.2.t: "Un voyage de mille étapes"
+    POD_golconda_journey.2.desc: "[teacher.GetFirstName] tente d'expliquer le chemin vers [golconda|E] avec une longue série de métaphores vagues, chacune plus ésotérique et déroutante que la précédente. Cependant, je #italic pense#! que j'en comprends l'essentiel.\n\nGolconde est, d'une certaine manière, un retour à l'humanité. Un [cainite|E] qui parcourt le chemin #X ne doit jamais laisser filer son Humanité en commettant un meurtre ou un vol#!.\n\nDe plus, la frénésie du #X doit être évitée à tout prix#!. Avoir un [piety_level|E] élevé sur son [golconda|E]0 peut affaiblir l'influence du [golconda|E]1.\n\nQuand [teacher.GetFirstName] me fait ses adieux, je suis perdu dans mes pensées."
+    POD_golconda_journey.2.effect: "Vous avez découvert le [golconda|E] et déverrouillé le [journey|E] pour faire la paix avec votre [beast|E]."
+    POD_golconda_journey.2.option.a: "Maintenant, je sais ce que je dois faire."
+
+    POD_golconda_journey.10.t: "Un filet d'informations"
+    POD_golconda_journey.10.desc: "Je m'enferme dans mon refuge et réfléchis à ce que j'ai appris.\n\n"
+    POD_golconda_journey.10.desc.1: "[the_beast|E] est puissant. En effet, certains [Concept('faith','Roads')|E] tenteront d'exploiter son pouvoir en #R lui cédant#!, leurs adhérents s'éloignant de plus en plus de l'Humanité, sans se soucier des conséquences.\n\nBien sûr, la voie du [golconda|E] est fondamentalement incompatible avec une telle approche. Pourtant, [the_beast|E] n’acceptera rien d’autre que l’abandon complet du #R#!. Pourrait-il être convaincu de conclure un partenariat égalitaire ?"
+    POD_golconda_journey.10.desc.2: "[the_beast|E] a #R faim#!. La Bête est #R faim#! elle-même.\n\nMais qu'est-ce que #italic#! #R faim#! ? Juste un instinct de survie. Un rappel que chaque créature de ce monde a besoin de #R se nourrir#!.\n\nEt pourtant, ce que la Bête exige va bien au-delà de ce qui est nécessaire à la survie. Quelque chose ne va pas."
+    POD_golconda_journey.10.desc.3: "[the_beast|E] est impulsif. Il me tire constamment dessus, exigeant que je #R bois#! mes courtisans, mes pairs, mes amis, tous ceux que je rencontre, tous ceux qui me sont chers.\n\nPourtant, il est aussi rusé. Dans mes observations, j'ai vu des preuves de son intelligence. Il peut donc planifier à l'avance.\n\nCe qui soulève la question : toutes ses exigences apparemment impulsives sont-elles au service d'un objectif plus grand ?"
+    POD_golconda_journey.10.desc.4: "[the_beast|E] est une #R malédiction#!. Beaucoup diraient qu'elle vient de Dieu lui-même ou d'une autre entité dotée d'un tel pouvoir, mais les détails n'ont pas vraiment d'importance.\n\nOn ne peut jamais lui faire confiance, négocier ou même la contraindre. Qu'il s'agisse d'un envahisseur étranger ou d'un sombre reflet n'a aucune importance car, en fin de compte, c'est un test.\n\nComprendre ce test et comment le surmonter pourrait être la clé de tout."
+    POD_golconda_journey.10.desc.5: "[the_beast|E] est primitif. L'homme était #R sauvage#! autrefois, et tous les pièges modernes de la « civilisation » tentent maladroitement de cacher la brutalité inhérente à l'existence de l'homme.\n\nLes mortels n'entendent pas [the_beast|E] comme nous, mais ils en ressentent certainement les effets, expliquant la #R violence#! de leur monde. Les vampires, en tant que créatures coincées dans une stase éternelle, sont plus proches de cet état de choses primitif et, en tant que tels, entendent beaucoup plus clairement l'appel à la violence.\n\nGolconde est peut-être la véritable prochaine étape de l'évolution de chacun, où la #R sauvagerie#! de la naissance de l'humanité peut enfin être laissé de côté."
+    POD_golconda_journey.10.desc.6: "[the_beast|E] est moi. Beaucoup rechigneraient à une telle notion, mais rares sont ceux qui peuvent nier l'attrait brut #R#! de ses murmures. Comment une telle #R allure#! pourrait-elle naître sinon en étant un sombre reflet de sa personnalité ? Comme les vampires le savent très bien, les meilleurs tentateurs savent tout sur leurs proies.\n\nCependant, passer à autre chose n'est pas une mince affaire. On ne peut pas simplement supprimer une partie de soi sans perdre beaucoup dans le processus, qui ne laisse qu'une seule ligne de conduite, terrifiante dans sa simplicité.\n\nL'acceptation.\n\nJe suis [the_beast|E] et [the_beast|E] c'est moi."
+    POD_golconda_journey.10.desc.7: "[the_beast|E] est séduisant. Comme le serpent dans le premier jardin, il offre des promesses alléchantes, des solutions simples et des solutions faciles. Et, toujours comme le serpent, ce sont tous des chemins vers la #R damnation#!.\n\nIf. Le vampirisme était en effet une sorte de malédiction biblique, il ne peut y avoir de solution simple, ni de pouvoir magique pour tout défaire.\n\nLa réponse ne peut reposer que sur un long chemin d'expiation, loin des #R envies#! bestiales de notre espèce. Sur cette route solitaire, il n'y a qu'un seul compagnon, [the_beast|E] essayant de nous faire tomber à chaque étape du chemin. Nous devons simplement décliner ses offres alléchantes.\n\nEve n'a eu qu'à refuser celles du serpent, après tout."
+    POD_golconda_journey.10.desc.8: "[the_beast|E] est Prométhée. Le porteur de feu qui a sauvé l'humanité de l'esclavage des dieux mais qui l'a également condamnée à se brûler encore et encore. Il alimente mes pouvoirs, écrase mes ennemis et me protège des horreurs de l'obscurité.\n\nMais cela fait aussi de moi un monstre, un Dieu-esclavagiste qui captive l'humanité pour mon propre plaisir pervers #R#! et répète l'interminable faire du vélo. Peut-être que le briser signifie simplement cesser de compter sur lui.\n\nMais que suis-je sans le #R pouvoir#! qui m'a libéré ?"
+    POD_golconda_journey.10.desc.9: "[the_beast|E] est une illusion. Une fabrication de notre propre esprit pour rationaliser les horreurs que nous #R déchaînons#! sur l'humanité. La simple existence de Golconde, et le fait que ceux qui l'atteignent seraient libérés, prouve que [the_beast|E] est un mythe si profondément ancré dans la psyché du [cainites|E]' qu'il est devenu sa propre forme de réalité.\n \nLes voix dans ma tête, l'envie sombre #R#! de boire, de tuer, de mutiler, ne sont que cela, des fragments d'un état d'esprit prédateur qui peut être réduit avec suffisamment de volonté."
+
+    POD_golconda_journey.10.option.a: "Chaque réponse mène à encore plus de questions."
+    POD_golconda_journey.10.option.a.success: "Vous avez réalisé une avancée majeure dans votre compréhension du [the_beast|E]."
+
+    POD_golconda_journey.11.t: "Regarder l'abîme"
+    POD_golconda_journey.11.desc: "Quelque chose est différent cette fois.\n\nEn m'asseyant et en contemplant, je deviens très détendu. Ma conscience suit les sensations dans mon corps, le flux de vitae dans mes veines. Et soudain, je le remarque.\n\nComme la moindre piqûre de douleur brûlante. Une douleur indistincte flottant dans le sang de mon cœur.\n\nC'est fait de... souvenirs ? Et #R faim#!.\n\nI, j'en suis absolument certain. C'est là que réside le [the_beast|E]. Si je réveillais mon sang, je pourrais déverrouiller tout ce qu'il cache. Et je pourrais enfin y faire face, les yeux dans les yeux."
+    POD_golconda_journey.11.effect: "Vous avez débloqué le Suspire en tant que [journey|E]."
+    POD_golconda_journey.11.option.a: "La question est... suis-je prêt ?"
+
+    POD_golconda_journey.100.t: "Plomberie des profondeurs"
+    POD_golconda_journey.100.desc: "Je verrouille les portes de mon refuge une dernière fois, en pensant aux événements qui m'ont conduit ici.\n\n"
+    POD_golconda_journey.100.desc.compassion: "Dans tout ce que je fais, j’essaie de voir le meilleur chez les autres. Et j'ai essayé d'étendre cette même compassion à [the_beast|E], mais cela ne rend pas les choses faciles.\n\nPuis-je faire preuve de compassion envers #R la faim aveugle#!? Plus j'essaie de comprendre ses motivations, plus cela semble impénétrable. \n\nJe ne peux qu'espérer qu'y faire face de front mènera aux réponses que je cherche."
+    POD_golconda_journey.100.desc.selfreliance: "J'ai appris très tôt qu'on ne pouvait pas faire confiance aux autres. Ainsi va le monde. La naïveté détruira un [cainite|E] aussi sûrement que la lumière du soleil.\n\nPersonne ne peut m'aider dans cette quête. Si je veux affronter le [the_beast|E], la responsabilité m'incombe directement.\n\nJe sais ce que je dois faire et j'ai la détermination de le faire."
+    POD_golconda_journey.100.option.a: "J'étends mes sens, et les envoie au plus profond de moi..."
+
+    POD_golconda_journey.101.t: "Non amarré"
+    POD_golconda_journey.101.desc: "Douleur.\n\nJe suis pris dans un tourbillon de couleurs assourdissantes. Des bruits discordants laissent des arrière-goûts métalliques sur ma langue. Le haut est le bas, et le bas est le haut.\n\nL'assaut sensoriel me frappe comme une avalanche. La panique s'installe. Suis-je sur le point de mourir ?\n\nJ'ai besoin d'un moyen de m'ancrer, et vite."
+    POD_golconda_journey.101.option.a: "Concentrez-vous sur les sensations corporelles."
+    POD_golconda_journey.101.option.b: "Concentrez-vous sur un souvenir agréable."
+
+    POD_golconda_journey.102.t: "Flottant"
+    POD_golconda_journey.102.desc: "Le chaos autour de moi se calme, ne serait-ce qu'un peu. Les formes se réorganisent selon un ordre géométrique. Comme une série infinie de miroirs, je me vois répété en eux.\n\nIls sont comme un microcosme de mon passé. Tous mes souvenirs de joies et de souffrances, de fierté et de regret, de déception et de soulagement.\n\nDe cette distance, ils semblent si petits et insignifiants."
+    POD_golconda_journey.102.option.a: "Un rappel pour ne pas laisser les choses me monter à la tête."
+    POD_golconda_journey.102.option.b: "Un rappel pour réfléchir à ce qui est vraiment important."
+
+    POD_golconda_journey.103.t: "Fondé"
+    POD_golconda_journey.103.desc: "Les illusions se brisent et je me retrouve dans une vallée fluviale.\n\nLe soleil brille. J'avais déjà oublié ce que c'était que de recevoir sa chaleur. Les mots ne peuvent décrire ce sentiment.\n\nUn homme se tient au bord de la rivière. Le corps sans vie de son frère est étalé devant lui, le sang d'une blessure à la tête se répandant sans ménagement dans les eaux.\n\nLe visage de l'homme est vide. Pourtant, un intense sentiment de reconnaissance m’envahit. Je sais exactement ce qu'il ressent."
+    POD_golconda_journey.103.option.a: "Culpabilité."
+    POD_golconda_journey.103.option.b: "Confusion."
+    POD_golconda_journey.103.option.c: "Une rage insondable."
+
+    POD_golconda_journey.104.t: "Horizon des événements"
+    POD_golconda_journey.104.desc: "L'homme se tourne vers moi. Son environnement tourbillonne et se dissout. Le monde entier bouillonne, devenant un océan de liquide rouge bouillonnant.\n\n#R;bold La faim.#!\n\nAnd Je comprends enfin ce qu'est la faim."
+    POD_golconda_journey.104.desc.guilt: "C'est sa culpabilité.\n\nIl a été qualifié de pécheur, mais on ne lui a offert aucune chance réaliste de rédemption, même au fil des millénaires."
+    POD_golconda_journey.104.desc.confusion: "C'est sa confusion.\n\nC'est son sentiment d'impuissance à voir les règles changer sur lui et à se demander pendant des millénaires si quelque chose pourrait lui redonner le sentiment d'être puissant."
+    POD_golconda_journey.104.desc.rage: "C'est sa rage.\n\nIl a offert son amour et a reçu des millénaires de punition en retour."
+    POD_golconda_journey.104.desc.end: "\n\nEt je me rends compte qu’aucun de ces sentiments ne m’appartient. Ils sont à lui, et il doit les garder.\n\nMais leur poids est sur le point de me noyer."
+    POD_golconda_journey.104.option.a: "None"
+    POD_golconda_journey.104.option.a.tt: "Vous tenterez une dernière fois de conjurer la frénésie."
+    POD_golconda_journey.104.option.a.success: "Vous internalisez votre compréhension de la faim, menant au [enlightenment|E]."
+    POD_golconda_journey.104.option.a.failure: "Vous devenez #R faim#!, et #R faim#! devient vous."
+
+    POD_golconda_journey.105.t: "Golconde"
+    POD_golconda_journey.105.desc: "Je me réveille. La réalité se dissipe et revient lentement au point, prenant son temps.\n\nJe suis absolument couverte de vitae. Il a dû suinter de mes pores pendant que mon esprit était en quête de vision.\n\nSa vue suffirait à envoyer n'importe quel [cainite|E] dans une frénésie. Mais rien ne bouge en moi. Aucune voix intérieure ne me pousse à tout boire.\n\nJuste le silence."
+    POD_golconda_journey.105.option.a: "Silence..."
+
+    POD_golconda_journey.106.t: "Wassail"
+    POD_golconda_journey.106.desc: "Du sang, c'est tout ce que je peux voir.\n\nPartout. Pétillant. Ébullition. Des boules bouillonnantes qui font signe.\n\nEn moi, autour de moi. Il n'y a pas de séparation. Non-duel, non-duel, seulement reddition, seulement reddition, seulement reddition, seulement reddition, seulement reddition, seulement reddition, seulement reddition, seulement reddition, seulement reddition, seulement reddition, seulement reddition, seulement reddition, seulement reddition, seulement la reddition, seulement la reddition, seulement la reddition, seulement la reddition, seulement la reddition, seulement la reddition, seulement la reddition, seulement la reddition, seulement la reddition, seulement la reddition, seulement la reddition, seulement la reddition, seulement la reddition, seulement la reddition, seulement la reddition, seulement la reddition, seulement la reddition , seulement la reddition, seulement la reddition, seulement la reddition, seulement la reddition, seulement la reddition, seulement la reddition, seulement la reddition, seulement la reddition, seulement la reddition, seulement la reddition, seulement la reddition, seulement la reddition, seulement la reddition, seulement la reddition, seulement s#!"
+    POD_golconda_journey.106.option.a: "#R reddition#!"
+
+    POD_golconda_journey.1000.t: "Bonjour ténèbres, vieil ami"
+    POD_golconda_journey.1000.desc: "#R Oh, MAINTENANT, nous parlons.\n\nPensiez-vous que vous pourriez vous débarrasser de moi pour toujours ? Pensiez-vous VRAIMENT que votre numéro de bon deux chaussures allait tromper n'importe qui ? Eh bien, ça n'allait pas ME tromper.\n\nEt regardez où ça vous a mené. Vous ne pouviez tout simplement pas résister à la tentation, n'est-ce pas ? Eh bien, pour ma part, je suis TELLEMENT contente que tu sois de retour.\n\nNous allons tellement nous amuser ensemble. Attends...#!"
+    POD_golconda_journey.1000.option.a: "None"
+    POD_golconda_journey.1000.option.a.tt: "Vous avez dévié du chemin du [golconda|E]. Si vous souhaitez retrouver cet état, il faudra recommencer depuis le début..."
+    POD_golconda_journey.1000.option.b: "J'abandonne."
+    POD_golconda_journey.1000.option.b.tt: "Vous abandonnez entièrement le chemin du [golconda|E]."
+
+    POD_golconda_journey.1001.t: "Un revers"
+    POD_golconda_journey.1001.desc: "#R JE LE SAVAIS ! Je le savais. Je le savais.\n\nTu aimes agir avec hauteur et puissance, hein ? Vous pensez que vous êtes une sorte de sage ? Tu penses que tu es MIEUX QUE MOI ? Et bien, RÉFLÉCHIS, FUCKER.\n\nJe t'aime mieux comme ça. Céder à vos pulsions vous rend beaucoup plus sympathique. Vous devriez en prendre l'habitude.#!"
+    POD_golconda_journey.1001.option.a: "None"
+    POD_golconda_journey.1001.option.a.tt: "Vous avez quitté le chemin du [golconda|E] et votre progression dans le [GetTrait('golconda_seeker').GetName(GetNullCharacter)] [trait|E] a été réinitialisée."
+
+    POD_golconda_journey.2000.toast.t: "Fin du mentorat"
+    POD_golconda_journey.2000.toast.golconda: "[golconda_mentee.GetShortUIName] a atteint [GetTrait('golconda').GetName(GetNullCharacter)]"
+    POD_golconda_journey.2000.toast.insight: "[golconda_mentee.GetShortUINamePossessive] insight a dépassé le vôtre"
+    POD_golconda_journey.2000.toast.lowinsight: "En raison de votre faible perspicacité, vous ne pouvez plus encadrer les autres"
+    POD_golconda_journey.2000.toast.invalid: "[golconda_mentee.GetShortUIName] ne peut plus être encadré"
+
+    POD_golconda_journey.2001.t: "Guidage constant"
+    POD_golconda_journey.2001.desc: "Un an s'est écoulé depuis la dernière fois que j'ai transmis certaines de mes connaissances sur [the_beast|E] à [golconda_mentee.GetFirstNameNicknamed].\n\nDepuis, la compréhension du [golconda_mentee.GetHerHis] s'est approfondie, et ainsi l'esprit du [golconda_mentee.GetHerHis] est à nouveau ouvert à de nouvelles connaissances."
+    POD_golconda_journey.2001.desc.xp: "\n\nActuellement, [golconda_mentee.GetHerHis] #TOOLTIP:GAME_TRAIT,golconda_seeker,[golconda_mentee.GetID] #L Insight#!#! est à #V [golconda_mentee.MakeScope.ScriptValue('suspire_success_chance')] %#!."
+    POD_golconda_journey.2001.desc.end: "\n\nJe dois décider si je dois continuer à mentorer [golconda_mentee.GetHerHim] ou non."
+    POD_golconda_journey.2001.option.a: "Je serai le mentor de [golconda_mentee.GetHerHim] ce soir et je recommencerai l'année prochaine."
+    POD_golconda_journey.2001.option.a.tt: "Dans un an, vous encadrerez à nouveau [golconda_mentee.GetShortUIName]"
+    POD_golconda_journey.2001.option.b: "Je serai le mentor de [golconda_mentee.GetHerHim] ce soir, mais pas plus loin."
+    POD_golconda_journey.2001.option.b.tt: "Vous arrêterez le mentorat [golconda_mentee.GetShortUIName]"
+    POD_golconda_journey.2001.option.c: "Je vais arrêter de mentorer [golconda_mentee.GetHerHim] pour le moment."
