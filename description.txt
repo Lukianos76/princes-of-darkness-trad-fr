@@ -9,7 +9,7 @@ Lien vers le Github : https://github.com/Lukianos76/princes-of-darkness-trad-fr
 
 L'âge des ténébres vient de devenir encore plus ténébreux. Plongez dans Crusader Kings III en tant que vampire, chasseur, loup-garou, momie ou démon ! Vous êtes le prince de la cité ! Inspiré par le Monde des Ténèbres, Dark Ages: Vampire, Vampire: the Masquerade...
 
-Mise à jour "Wards & Wardens", Version 1.11.1.1 Hotfix 5, 30 novembre 2023
+Mise à jour "Wards & Wardens", Version 1.11.2 Hotfix 5, 30 novembre 2023
 Compatible avec CK3 1.11.2 "Peacock" et le DLC "Legacy of Persia"
 
 Maintenant compatible avec le Community Flavor Pack (CFP) sans patch de compatibilité requis. Si vous utilisez le Community Flavor Pack (CFP), placez-le AVANT le mod Princes of Darkness dans votre ordre de chargement.
