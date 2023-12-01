@@ -1,45 +1,30 @@
-﻿l_french:
-    trait_predatortype_farmer: "Fermier"
-    trait_predatortype_farmer_desc: "Ce vampire préfère se nourrir d'animaux."
-
-    trait_predatortype_bloodleech: "Sangsue de sang"
-    trait_predatortype_bloodleech_desc: "Ce vampire préfère se nourrir du sang des autres vampires !"
-
-    trait_predatortype_phlebotomist: "Phlébotomiste"
-    trait_predatortype_phlebotomist_desc: "Ce vampire acquiert de la vitae sous l'apparence d'un médecin pratiquant une saignée."
-
-    trait_predatortype_bedlamite: "Fou"
-    trait_predatortype_bedlamite_desc: "Ce vampire s'attaque aux fous. Ils peuvent aussi être fous ou non."
-
-    trait_predatortype_cenobite: "Cénobite"
-    trait_predatortype_cenobite_desc: "Ce vampire possède un troupeau dans une institution religieuse comme un monastère."
-
-    trait_predatortype_alleycat: "Chat de ruelle"
-    trait_predatortype_alleycat_desc: "Ce vampire traque et attaque violemment les mortels pour gagner du sang. C'est une approche vulgaire."
-
-    trait_predatortype_cauchemar: "Cauchemar"
-    trait_predatortype_cauchemar_desc: "Ce vampire se nourrit principalement de proies endormies."
-
-    trait_predatortype_familias: "Familles"
-    trait_predatortype_familias_desc: "Ce vampire se nourrit presque exclusivement d'une dynastie familiale particulière. Ils peuvent même être liés à la famille, du moins c'est ce que pense la famille."
-
-    trait_predatortype_footpad: "Coussinet"
-    trait_predatortype_footpad_desc: "Ce coup de langue court avec les voyous de la société, prenant le sang des pauvres. S'ils disparaissent, les autorités ne montrent aucun intérêt."
-
-    trait_predatortype_consensualist: "Consensualiste"
-    trait_predatortype_consensualist_desc: "Ce vampire se nourrit de la volonté. Cela complique grandement le [masquerade|E]."
-
-    trait_predatortype_cultist: "Cultiste"
-    trait_predatortype_cultist_desc: "Ce vampire dirige un culte du sang, comme dans les temps anciens. Les vaches vénèrent et s'offrent librement à ce dieu du sang."
-
-    trait_predatortype_siren: "Sirène"
-    trait_predatortype_siren_desc: "Ce vampire séduit les amoureux pour qu'ils drainent leur sang par le baiser."
-
-    trait_predatortype_gentry: "Noblesse"
-    trait_predatortype_gentry_desc: "Ce vampire occupe une position d’un certain statut dans la société des mortels. Ils utilisent ce statut pour chasser les riches et les puissants. Personne ne croira qu’une personne aussi raffinée soit un monstre."
-
-    trait_predatortype_graverobber: "Pilleur de tombes"
-    trait_predatortype_graverobber_desc: "Ce vampire peut être trouvé rôdant autour des cimetières et des cryptes à la recherche des cadavres frais de nos personnes en deuil. Ils peuvent se nourrir des cadavres récents."
-
-    trait_predatortype_extortionist: "Extorqueur"
-    trait_predatortype_extortionist_desc: "Ce vampire force ses victimes à saigner pour eux. Apparemment, l’extorsionniste acquiert du sang en échange de services tels que la sécurité ou la surveillance, mais aussi souvent que le besoin de protection est réel, il s’agit tout aussi souvent d’une fiction conçue pour rendre l’accord acceptable."
+﻿l_french: trait_predatortype_farmer:0 "Fermier"
+    trait_predatortype_farmer_desc:0 "Ce vampire préfère se nourrir d'animaux."
+    trait_predatortype_bloodleech:0 "Sangsue de sang"
+    trait_predatortype_bloodleech_desc:0 "Ce vampire préfère se nourrir du sang des autres vampires !"
+    trait_predatortype_phlebotomist:0 "Phlébotomiste"
+    trait_predatortype_phlebotomist_desc:0 "Ce vampire acquiert de la vitae sous l'apparence d'un médecin pratiquant une saignée."
+    trait_predatortype_bedlamite:0 "Fou"
+    trait_predatortype_bedlamite_desc:0 "Ce vampire s'attaque aux fous. Ils peuvent aussi être fous ou non."
+    trait_predatortype_cenobite:0 "Cénobite"
+    trait_predatortype_cenobite_desc:0 "Ce vampire possède un troupeau dans une institution religieuse comme un monastère."
+    trait_predatortype_alleycat:0 "Chat de ruelle"
+    trait_predatortype_alleycat_desc:0 "Ce vampire traque et attaque violemment les mortels pour gagner du sang. C'est une approche vulgaire."
+    trait_predatortype_cauchemar:0 "Cauchemar"
+    trait_predatortype_cauchemar_desc:0 "Ce vampire se nourrit principalement de proies endormies."
+    trait_predatortype_familias:0 "Familles"
+    trait_predatortype_familias_desc:0 "Ce vampire se nourrit presque exclusivement d'une dynastie familiale particulière. Ils peuvent même être liés à la famille, du moins c'est ce que pense la famille."
+    trait_predatortype_footpad:0 "Coussinet"
+    trait_predatortype_footpad_desc:0 "Ce coup de langue court avec les voyous de la société, prenant le sang des pauvres. S'ils disparaissent, les autorités ne montrent aucun intérêt."
+    trait_predatortype_consensualist:0 "Consensualiste"
+    trait_predatortype_consensualist_desc:0 "Ce vampire se nourrit de la volonté. Cela complique grandement le [masquerade|E]."
+    trait_predatortype_cultist:0 "Cultiste"
+    trait_predatortype_cultist_desc:0 "Ce vampire dirige un culte du sang, comme dans les temps anciens. Les vaches vénèrent et s'offrent librement à ce dieu du sang."
+    trait_predatortype_siren:0 "Sirène"
+    trait_predatortype_siren_desc:0 "Ce vampire séduit les amoureux pour qu'ils drainent leur sang par le baiser."
+    trait_predatortype_gentry:0 "Noblesse"
+    trait_predatortype_gentry_desc:0 "Ce vampire occupe une position d’un certain statut dans la société des mortels. Ils utilisent ce statut pour chasser les riches et les puissants. Personne ne croira qu’une personne aussi raffinée soit un monstre."
+    trait_predatortype_graverobber:0 "Pilleur de tombes"
+    trait_predatortype_graverobber_desc:0 "Ce vampire peut être trouvé rôdant autour des cimetières et des cryptes à la recherche des cadavres frais de nos personnes en deuil. Ils peuvent se nourrir des cadavres récents."
+    trait_predatortype_extortionist:0 "Extorqueur"
+    trait_predatortype_extortionist_desc:0 "Ce vampire force ses victimes à saigner pour eux. Apparemment, l’extorsionniste acquiert du sang en échange de services tels que la sécurité ou la surveillance, mais aussi souvent que le besoin de protection est réel, il s’agit tout aussi souvent d’une fiction conçue pour rendre l’accord acceptable."

@@ -1,10 +1,8 @@
-﻿l_french:
-    POD_herdify.1.t: "Faire grandir le troupeau"
-    POD_herdify.1.option.a: "Un autre mouton rejoint mon troupeau."
-    POD_herdify.1.desc: "\nAprès une préparation et une planification minutieuses, vous lancez le piège sur la cible que vous avez choisie. Ils se soumettent et rejoignent volontiers votre stock d'alimentation.\n"
-
-    POD_drain_animal_interaction_auto: "Vidangez automatiquement les animaux."
-    POD_drain_animal_interaction_auto.tt: "Vous drainerez automatiquement les animaux tous les six mois pour obtenir de l'XP animale. Cette action ne donne pas de sang et vous procurera un peu de stress à chaque chasse."
-    POD_herd_automation.4010.toast: "Chasse aux animaux"
-    POD_drain_animal_interaction_auto_stop.tt: "Vous arrêterez votre chasse automatique aux animaux, sans gagner d’expérience animale ni de stress tous les six mois."
-    POD_drain_animal_interaction_auto_stop: "Arrêtez de drainer automatiquement les animaux"
+﻿l_french: POD_herdify.1.t:0 "Faire grandir le troupeau"
+    POD_herdify.1.option.a:0 "Un autre mouton rejoint mon troupeau."
+    POD_herdify.1.desc:0 "\nAprès une préparation et une planification minutieuses, vous lancez le piège sur la cible que vous avez choisie. Ils se soumettent et rejoignent volontiers votre stock d'alimentation.\n"
+    POD_drain_animal_interaction_auto:0 "Vidangez automatiquement les animaux."
+    POD_drain_animal_interaction_auto.tt:0 "Vous drainerez automatiquement les animaux tous les six mois pour obtenir de l'XP animale. Cette action ne donne pas de sang et vous procurera un peu de stress à chaque chasse."
+    POD_herd_automation.4010.toast:0 "Chasse aux animaux"
+    POD_drain_animal_interaction_auto_stop.tt:0 "Vous arrêterez votre chasse automatique aux animaux, sans gagner d’expérience animale ni de stress tous les six mois."
+    POD_drain_animal_interaction_auto_stop:0 "Arrêtez de drainer automatiquement les animaux"

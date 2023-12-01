@@ -1,31 +1,21 @@
-﻿l_french:
-    # Standard Signature Weapon Loc
-    signature_weapon_claws: "les griffes"
-    signature_weapon_claws_draw: "brandir"
-    signature_weapon_claws_draws: "brandit"
-    signature_weapon_claws_drawing: "brandir"
-    signature_weapon_claws_drawn: "brandi"
-
-    signature_weapon_fangs: "crocs"
-    signature_weapon_fangs_lift: "nu"
-    signature_weapon_fangs_lifts: "met à nu"
-    signature_weapon_fangs_lifting: "nu"
-    signature_weapon_fangs_lifted: "mis à nu"
-
-    signature_weapon_fangsclaws: "crocs et griffes"
-    signature_weapon_fangsclaws_bare: "nu"
-    signature_weapon_fangsclaws_bares: "met à nu"
-    signature_weapon_fangsclaws_baring: "nu"
-    signature_weapon_fangsclaws_bared:
-        "mis à nu"
-
-        # Weapon Descriptors
-
-    signature_weapon_base: "base"
-
-    signature_weapon_end_bone: "os"
-
-    signature_weapon_breaks_bone_breaks: "fractures osseuses"
-    signature_weapon_breaks_breaks_the_bone: "casse les os"
-    signature_weapon_breaks_breaking_the_bone: "briser l'os"
-    signature_weapon_breaks_break_the_bone: "briser l'os"
+﻿l_french: signature_weapon_claws:0 "les griffes"
+    signature_weapon_claws_draw:0 "brandir"
+    signature_weapon_claws_draws:0 "brandit"
+    signature_weapon_claws_drawing:0 "brandir"
+    signature_weapon_claws_drawn:0 "brandi"
+    signature_weapon_fangs:0 "crocs"
+    signature_weapon_fangs_lift:0 "nu"
+    signature_weapon_fangs_lifts:0 "met à nu"
+    signature_weapon_fangs_lifting:0 "nu"
+    signature_weapon_fangs_lifted:0 "mis à nu"
+    signature_weapon_fangsclaws:0 "crocs et griffes"
+    signature_weapon_fangsclaws_bare:0 "nu"
+    signature_weapon_fangsclaws_bares:0 "met à nu"
+    signature_weapon_fangsclaws_baring:0 "nu"
+    signature_weapon_fangsclaws_bared:0 "mis à nu"
+    signature_weapon_base:0 "base"
+    signature_weapon_end_bone:0 "os"
+    signature_weapon_breaks_bone_breaks:0 "fractures osseuses"
+    signature_weapon_breaks_breaks_the_bone:0 "casse les os"
+    signature_weapon_breaks_breaking_the_bone:0 "briser l'os"
+    signature_weapon_breaks_break_the_bone:0 "briser l'os"

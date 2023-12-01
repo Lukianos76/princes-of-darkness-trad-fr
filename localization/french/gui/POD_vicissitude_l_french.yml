@@ -1,4 +1,3 @@
-﻿l_french:
-    VICISSITUDE_WINDOW_TITLE: "Vicissitudes"
-    VICISSITUDE_WINDOW_CHANGE: "Transformation"
-    VICISSITUDE_WINDOW_CHOOSE_NEW: "Gène disponible"
+﻿l_french: VICISSITUDE_WINDOW_TITLE:0 "Vicissitudes"
+    VICISSITUDE_WINDOW_CHANGE:0 "Transformation"
+    VICISSITUDE_WINDOW_CHOOSE_NEW:0 "Gène disponible"

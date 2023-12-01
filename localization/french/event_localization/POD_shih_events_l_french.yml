@@ -1,10 +1,8 @@
-﻿l_french:
-    podshih.100.t: "Demande de paix"
-    podshih.100.desc: "[shih.GetFirstName] veut conclure une trêve avec vous. Une pratique courante parmi les [GetTrait('shih').GetName( GetPlayer )] errants, car ils ont souvent besoin de temps pour recentrer leur P'o intérieur, loin de l'hostilité et de l'agressivité constantes nécessaires à leur travail sanglant."
-    podshih.100.a: "Je suis d'accord."
-    podshih.100.b: "Je n'accepterai pas cela."
-
-    podshih.1010.t: "L'Armée Céleste et L'Inquisition"
-    podshih.1010.desc: "Après cent ans de réforme de l'Armée Céleste, l'opportunité d'une guerre totale contre les Shen est apparue.\nEn Occident, l'Inquisition fantôme de l'Église catholique a commencé à purger ses propres terres, vous donnant la possibilité d'intensifier vos efforts. vos agressions aussi. Il est temps d’en finir avec cela."
-    podshih.1010.a: "Je participerai."
-    podshih.1010.a.tt: "Je peux utiliser le [GetPlayer.GetFaith.Custom('GHWName')] pour [empire|E] [casus_belli|E]."
+﻿l_french: podshih.100.t:0 "Demande de paix"
+    podshih.100.desc:0 "[shih.GetFirstName] veut conclure une trêve avec vous. Une pratique courante parmi les [GetTrait('shih').GetName( GetPlayer )] errants, car ils ont souvent besoin de temps pour recentrer leur P'o intérieur, loin de l'hostilité et de l'agressivité constantes nécessaires à leur travail sanglant."
+    podshih.100.a:0 "Je suis d'accord."
+    podshih.100.b:0 "Je n'accepterai pas cela."
+    podshih.1010.t:0 "L'Armée Céleste et L'Inquisition"
+    podshih.1010.desc:0 "Après cent ans de réforme de l'Armée Céleste, l'opportunité d'une guerre totale contre les Shen est apparue.\nEn Occident, l'Inquisition fantôme de l'Église catholique a commencé à purger ses propres terres, vous donnant la possibilité d'intensifier vos efforts. vos agressions aussi. Il est temps d’en finir avec cela."
+    podshih.1010.a:0 "Je participerai."
+    podshih.1010.a.tt:0 "Je peux utiliser le [GetPlayer.GetFaith.Custom('GHWName')] pour [empire|E] [casus_belli|E]."

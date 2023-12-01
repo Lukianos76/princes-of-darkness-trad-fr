@@ -1,64 +1,39 @@
 ﻿l_french:
- culture_era_dark_fantastic: "Sombre Fantastique"
- culture_era_dark_fantastic_desc: "À l’aube de l’ère moderne, de nouveaux continents sont cartographiés tandis que la société féodale cède lentement la place à des États centralisés."
- culture_era_gothic_victorian: "Gothique Victorien"
- culture_era_gothic_victorian_desc: "Le nom « Gothic Victorian » fait référence aux deux sensibilités qui façonnent le décor : le romantisme maussade et voué à l'échec de la fiction gothique classique et le règne de la reine Victoria I du Royaume-Uni, qui a gouverné l'Empire britannique du 20 juin 1837 jusqu'à sa mort. le 22 janvier 1901. Ces deux sensibilités induisent toutes deux un souci de changement social radical alors qu'il coexiste et se heurte tour à tour au poids répressif de la tradition. L'ère gothique victorienne, telle qu'elle est présentée dans Victorian Age: Vampire, s'étend des années 1890 à 1897 et ne se termine pas avec la mort de Victoria, mais avec le roman Dracula de Bram Stoker. Cet événement a profondément ébranlé le monde Kindred. La période gothique victorienne chevauche partiellement le Savage West (ou "Wyld West"), le décor de Werewolf: The Wild West. Cependant, le thème et le ton des deux décors diffèrent considérablement. Le prochain Victorian Mage for Mage: The Ascension traitera également de l’ère victorienne."
- culture_era_final_nights: "Dernières nuits"
- culture_era_final_nights_desc: "Dans l'eschatologie [cainite|E], les Nuits Finales sont les nuits précédant l'arrivée de la Géhenne et la fin des vampires. Une grande partie de la croyance dans les Dernières Nuits trouve son origine dans la tradition noddiste. Plus précisément, le Livre de Nod. Les Dernières Nuits sont censées être précédées de plusieurs signes indiquant de grands changements dans la société [cainite|E] et le réveil imminent du [antediluvians|E], comme une augmentation du nombre de vampires au sang maigre, des principautés gouvernées par Caitiff et Kuei-jin. envahir l'Occident. On dit que la majorité des vampires ont un sentiment de catastrophe imminente pendant les Dernières Nuits."
-  
- ############## 
- # Dark Fantastic Era # 
- ############## 
-  
-  #Military 
- innovation_tenaille: "Tenaille"
- innovation_tenaille_desc: "Il était difficile de tirer autour des murs courbes, donc une fois que les attaquants se rapprochaient suffisamment de la fortification, la capacité des autres parties des défenses à fournir un tir de flanc était annulée. Le développement de bastions en forme d'étoile a permis à chaque partie du mur d'être soutenue par d'autres parties."
-  
- innovation_trunnions: "Tourillons"
- innovation_trunnions_desc: "La nouvelle artillerie, plus mobile, avait un problème : elle ne pouvait pas être facilement élevée et abaissée pour ajuster sa portée de tir. Les tourillons étaient des saillies cylindriques qui servaient de supports au canon sur son affût, ce qui lui permettait de l'incliner et ainsi de mieux viser."
-  
- innovation_professional_officers: "Officiers professionnels"
- innovation_professional_officers_desc: "La valeur de la formation et de l’expérience a toujours été grande sur le champ de bataille. Avec l'avènement de la poudre à canon et les changements tactiques qui y sont associés, ainsi que d'autres armes d'infanterie, une forte demande d'unités rompues à ces nouvelles innovations s'est produite."
-  
- innovation_early_modern_military: "Militaire moderne"
- innovation_early_modern_military_desc: "À la fin du Moyen Âge, les armées de terre étaient devenues plus professionnelles et mieux organisées. De meilleurs systèmes sont en place pour soutenir le mélange de levées et de soldats professionnels qui dominent désormais les champs de bataille et la puissance de l'infanterie gagne lentement mais sûrement le bras de la cavalerie."
-  
- innovation_standardized_pikes: "Brochets Standardisés"
- innovation_standardized_pikes_desc: "Une pique est une arme remarquablement simple à fabriquer, mais pour tirer pleinement parti de l'utilisation des piques, il est nécessaire que toute la formation manie des armes de longueur et de lame similaires."
-  
- innovation_musketmen: "Mousquets"
- innovation_musketmen_desc: "L'Arquebus, léger et fiable, était capable de déplacer l'arc en raison de trois facteurs principaux. Il avait une meilleure pénétration du blindage, il était plus facile de former les hommes à son utilisation et il ne dépendait pas de la force de l'utilisateur."
-  
-  #Civic 
- innovation_early_modern_administration: "Administration moderne"
- innovation_early_modern_administration_desc: "Avec le temps, il est devenu évident qu'une bureaucratie plus centralisée avec des organes administratifs dirigés par des fonctionnaires instruits employés directement par l'État était une nécessité pour les projets ambitieux des dirigeants du début de l'époque moderne."
-  
- innovation_land_clearance: "Défrichement"
- innovation_land_clearance_desc: "Les forêts à grande échelle sont bien sûr utiles comme source de bois de chauffage et comme lieu de chasse, mais si les arbres devaient disparaître, ces terres pourraient être utilisées à la place pour l'agriculture."
-  
- innovation_constitution: "La Constitution"
- innovation_constitution_desc: "Un nouveau concept philosophique appelé constitutionnalisme a été développé, dans lequel le gouvernement accepte les limites légales de son pouvoir. C’est une idée intrigante, mais je ne pense pas qu’elle fasse son chemin."
-  
- innovation_absolute_rulership: "Règle absolue"
- innovation_absolute_rulership_desc: "De nombreuses personnes réclament un rôle au sein du gouvernement, mais en réalité, elles veulent surtout des récompenses sans effort. Une nouvelle idée intéressante de l’absolutisme se répand, celle d’un système dans lequel nous nous débarrassons de ces parasites et gouvernons seuls."
-  
- innovation_textile_manufactory: "Manufacture textile"
- innovation_textile_manufactory_desc: "Les textiles étaient fabriqués depuis des temps immémoriaux. L'invention du bâti de bas en 1589 fut le premier pas vers la révolution industrielle et le début de la mécanisation. Cette invention entraînerait une augmentation de la production textile."
-  
- innovation_renaissance_thought: "Pensée de la Renaissance"
- innovation_renaissance_thought_desc: "La notion d’une noble oligarchie dirigeant la société existe depuis au moins l’époque romaine et est restée populaire dans certaines parties du monde. Aujourd’hui, cette idée gagne à nouveau en popularité parmi ceux qui comptent."
-  
- innovation_separation_of_powers: "Séparation des pouvoirs"
- innovation_separation_of_powers_desc: "Un traité anonyme sur la théorie politique a vu le jour et, malgré les efforts déployés pour le supprimer, il se répand rapidement à travers le monde. Il traite de la nature des formes de gouvernement, qu'il s'agisse de monarchies, de despotismes ou de démocraties, et plaide en faveur d'une séparation stricte des pouvoirs exécutif, législatif et judiciaire."
-  
-  #Regional 
- innovation_spanish_square: "Place d'Espagne"
- innovation_spanish_square_desc: "La place espagnole s'est développée naturellement à partir des formations de brochet et de tir. En son cœur se trouvait une place Pike traditionnelle. A chacun des coins il y avait un groupe d'arquebusiers. Il a conservé la tenue du carré à brochet traditionnel et l'a enrichi de la puissance de feu de l'Arquebuse."
-  
- innovation_new_world: "Le nouveau Monde"
- innovation_new_world_desc: "Qui sait ce qui se trouve au-delà ?... Outre des richesses et une gloire incalculables, bien sûr."
-  
- innovation_the_mughals: "Les Moghols"
- innovation_the_mughals_desc: "L'Empire moghol était un puissant État musulman turco-mongol, fondé au début du XVIe siècle par Babur, prince timouride et descendant de Tamerlan. À son apogée au début du XVIIIe siècle, l’empire contrôlait la quasi-totalité du sous-continent indien."
-  
-  
+ culture_era_dark_fantastic:0 "Sombre Fantastique"
+ culture_era_dark_fantastic_desc:0 "À l’aube de l’ère moderne, de nouveaux continents sont cartographiés tandis que la société féodale cède lentement la place à des États centralisés."
+ culture_era_gothic_victorian:0 "Gothique Victorien"
+ culture_era_gothic_victorian_desc:0 "Le nom « Gothic Victorian » fait référence aux deux sensibilités qui façonnent le décor : le romantisme maussade et voué à l'échec de la fiction gothique classique et le règne de la reine Victoria I du Royaume-Uni, qui a gouverné l'Empire britannique du 20 juin 1837 jusqu'à sa mort. le 22 janvier 1901. Ces deux sensibilités induisent toutes deux un souci de changement social radical alors qu'il coexiste et se heurte tour à tour au poids répressif de la tradition. L'ère gothique victorienne, telle qu'elle est présentée dans Victorian Age: Vampire, s'étend des années 1890 à 1897 et ne se termine pas avec la mort de Victoria, mais avec le roman Dracula de Bram Stoker. Cet événement a profondément ébranlé le monde Kindred. La période gothique victorienne chevauche partiellement le Savage West (ou \"Wyld West\"), le décor de Werewolf: The Wild West. Cependant, le thème et le ton des deux décors diffèrent considérablement. Le prochain Victorian Mage for Mage: The Ascension traitera également de l’ère victorienne."
+ culture_era_final_nights:0 "Dernières nuits"
+ culture_era_final_nights_desc:0 "Dans l'eschatologie [cainite|E], les Nuits Finales sont les nuits précédant l'arrivée de la Géhenne et la fin des vampires. Une grande partie de la croyance dans les Dernières Nuits trouve son origine dans la tradition noddiste. Plus précisément, le Livre de Nod. Les Dernières Nuits sont censées être précédées de plusieurs signes indiquant de grands changements dans la société [cainite|E] et le réveil imminent du [antediluvians|E], comme une augmentation du nombre de vampires au sang maigre, des principautés gouvernées par Caitiff et Kuei-jin. envahir l'Occident. On dit que la majorité des vampires ont un sentiment de catastrophe imminente pendant les Dernières Nuits."
+ innovation_tenaille:0 "Tenaille"
+ innovation_tenaille_desc:0 "Il était difficile de tirer autour des murs courbes, donc une fois que les attaquants se rapprochaient suffisamment de la fortification, la capacité des autres parties des défenses à fournir un tir de flanc était annulée. Le développement de bastions en forme d'étoile a permis à chaque partie du mur d'être soutenue par d'autres parties."
+ innovation_trunnions:0 "Tourillons"
+ innovation_trunnions_desc:0 "La nouvelle artillerie, plus mobile, avait un problème : elle ne pouvait pas être facilement élevée et abaissée pour ajuster sa portée de tir. Les tourillons étaient des saillies cylindriques qui servaient de supports au canon sur son affût, ce qui lui permettait de l'incliner et ainsi de mieux viser."
+ innovation_professional_officers:0 "Officiers professionnels"
+ innovation_professional_officers_desc:0 "La valeur de la formation et de l’expérience a toujours été grande sur le champ de bataille. Avec l'avènement de la poudre à canon et les changements tactiques qui y sont associés, ainsi que d'autres armes d'infanterie, une forte demande d'unités rompues à ces nouvelles innovations s'est produite."
+ innovation_early_modern_military:0 "Militaire moderne"
+ innovation_early_modern_military_desc:0 "À la fin du Moyen Âge, les armées de terre étaient devenues plus professionnelles et mieux organisées. De meilleurs systèmes sont en place pour soutenir le mélange de levées et de soldats professionnels qui dominent désormais les champs de bataille et la puissance de l'infanterie gagne lentement mais sûrement le bras de la cavalerie."
+ innovation_standardized_pikes:0 "Brochets Standardisés"
+ innovation_standardized_pikes_desc:0 "Une pique est une arme remarquablement simple à fabriquer, mais pour tirer pleinement parti de l'utilisation des piques, il est nécessaire que toute la formation manie des armes de longueur et de lame similaires."
+ innovation_musketmen:0 "Mousquets"
+ innovation_musketmen_desc:0 "L'Arquebus, léger et fiable, était capable de déplacer l'arc en raison de trois facteurs principaux. Il avait une meilleure pénétration du blindage, il était plus facile de former les hommes à son utilisation et il ne dépendait pas de la force de l'utilisateur."
+ innovation_early_modern_administration:0 "Administration moderne"
+ innovation_early_modern_administration_desc:0 "Avec le temps, il est devenu évident qu'une bureaucratie plus centralisée avec des organes administratifs dirigés par des fonctionnaires instruits employés directement par l'État était une nécessité pour les projets ambitieux des dirigeants du début de l'époque moderne."
+ innovation_land_clearance:0 "Défrichement"
+ innovation_land_clearance_desc:0 "Les forêts à grande échelle sont bien sûr utiles comme source de bois de chauffage et comme lieu de chasse, mais si les arbres devaient disparaître, ces terres pourraient être utilisées à la place pour l'agriculture."
+ innovation_constitution:0 "La Constitution"
+ innovation_constitution_desc:0 "Un nouveau concept philosophique appelé constitutionnalisme a été développé, dans lequel le gouvernement accepte les limites légales de son pouvoir. C’est une idée intrigante, mais je ne pense pas qu’elle fasse son chemin."
+ innovation_absolute_rulership:0 "Règle absolue"
+ innovation_absolute_rulership_desc:0 "De nombreuses personnes réclament un rôle au sein du gouvernement, mais en réalité, elles veulent surtout des récompenses sans effort. Une nouvelle idée intéressante de l’absolutisme se répand, celle d’un système dans lequel nous nous débarrassons de ces parasites et gouvernons seuls."
+ innovation_textile_manufactory:0 "Manufacture textile"
+ innovation_textile_manufactory_desc:0 "Les textiles étaient fabriqués depuis des temps immémoriaux. L'invention du bâti de bas en 1589 fut le premier pas vers la révolution industrielle et le début de la mécanisation. Cette invention entraînerait une augmentation de la production textile."
+ innovation_renaissance_thought:0 "Pensée de la Renaissance"
+ innovation_renaissance_thought_desc:0 "La notion d’une noble oligarchie dirigeant la société existe depuis au moins l’époque romaine et est restée populaire dans certaines parties du monde. Aujourd’hui, cette idée gagne à nouveau en popularité parmi ceux qui comptent."
+ innovation_separation_of_powers:0 "Séparation des pouvoirs"
+ innovation_separation_of_powers_desc:0 "Un traité anonyme sur la théorie politique a vu le jour et, malgré les efforts déployés pour le supprimer, il se répand rapidement à travers le monde. Il traite de la nature des formes de gouvernement, qu'il s'agisse de monarchies, de despotismes ou de démocraties, et plaide en faveur d'une séparation stricte des pouvoirs exécutif, législatif et judiciaire."
+ innovation_spanish_square:0 "Place d'Espagne"
+ innovation_spanish_square_desc:0 "La place espagnole s'est développée naturellement à partir des formations de brochet et de tir. En son cœur se trouvait une place Pike traditionnelle. A chacun des coins il y avait un groupe d'arquebusiers. Il a conservé la tenue du carré à brochet traditionnel et l'a enrichi de la puissance de feu de l'Arquebuse."
+ innovation_new_world:0 "Le nouveau Monde"
+ innovation_new_world_desc:0 "Qui sait ce qui se trouve au-delà ?... Outre des richesses et une gloire incalculables, bien sûr."
+ innovation_the_mughals:0 "Les Moghols"
+ innovation_the_mughals_desc:0 "L'Empire moghol était un puissant État musulman turco-mongol, fondé au début du XVIe siècle par Babur, prince timouride et descendant de Tamerlan. À son apogée au début du XVIIIe siècle, l’empire contrôlait la quasi-totalité du sous-continent indien."

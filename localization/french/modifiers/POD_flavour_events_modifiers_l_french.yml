@@ -1,7 +1,6 @@
-﻿l_french:
-    pareidolia_modifier: "Paréidolie"
-    pareidolia_modifier_desc: "Si vous regardez bien, vous pouvez voir des visages partout. Sauf le vôtre."
-    lasombraperfect_modifier: "Parfait"
-    lasombraperfect_modifier_desc: "Le look de ce personnage est absolument parfait. Du moins, ils le pensent."
-    lasombrahelper_modifier: "Un peu d'aide"
-    lasombrahelper_modifier_desc: "Parfois, tout ce dont vous avez besoin est un soutien émotionnel."
+﻿l_french: pareidolia_modifier:0 "Paréidolie"
+    pareidolia_modifier_desc:0 "Si vous regardez bien, vous pouvez voir des visages partout. Sauf le vôtre."
+    lasombraperfect_modifier:0 "Parfait"
+    lasombraperfect_modifier_desc:0 "Le look de ce personnage est absolument parfait. Du moins, ils le pensent."
+    lasombrahelper_modifier:0 "Un peu d'aide"
+    lasombrahelper_modifier_desc:0 "Parfois, tout ce dont vous avez besoin est un soutien émotionnel."

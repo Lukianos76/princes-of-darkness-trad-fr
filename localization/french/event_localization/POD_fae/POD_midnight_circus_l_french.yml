@@ -1,6 +1,6 @@
 ﻿l_french:
-    POD_midnight_circus.100.t: "Carnaval lunaire Ye Olde et cirque de minuit"
-    POD_midnight_circus.100.option.a: "Visitez le Carnaval!"
-    POD_midnight_circus.100.option.b: "Autorisez le Carnaval, mais interdisez à vos vassaux et courtisans d'y assister."
-    POD_midnight_circus.100.option.c: "Éloignez le Carnaval de votre domaine !"
-    POD_midnight_circus.100.desc: "Un mystérieux carnaval est arrivé dans votre domaine. Les troubadours itinérants invitent les gens à venir découvrir les merveilles de leur théâtre et de leur foire. Beaucoup disent que ce serait un plaisir léger, mais d'autres se méfient des visiteurs car ils sont peu recommandables."
+    POD_midnight_circus.100.t:0 "Carnaval lunaire Ye Olde et cirque de minuit"
+    POD_midnight_circus.100.option.a:0 "Visitez le Carnaval!"
+    POD_midnight_circus.100.option.b:0 "Autorisez le Carnaval, mais interdisez à vos vassaux et courtisans d'y assister."
+    POD_midnight_circus.100.option.c:0 "Éloignez le Carnaval de votre domaine !"
+    POD_midnight_circus.100.desc:0 "Un mystérieux carnaval est arrivé dans votre domaine. Les troubadours itinérants invitent les gens à venir découvrir les merveilles de leur théâtre et de leur foire. Beaucoup disent que ce serait un plaisir léger, mais d'autres se méfient des visiteurs car ils sont peu recommandables."

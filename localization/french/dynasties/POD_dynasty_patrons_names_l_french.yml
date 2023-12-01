@@ -1,347 +1,219 @@
-﻿l_french:
-    ############################################################
-    # Names
-    ############################################################
-
-    # Patrons
-    dynn_powodz: "Powódź"
-    dynn_powodz_motto: "Tu sèmes ce que tu récoltes"
-
-    dynn_pastelos: "La Lune Noire"
-    dynn_pastelos_motto: "La mer Noire est à moi"
-
-    dynn_blackmoon: "La lune Noire"
-    dynn_blackmoon_motto: "La mer Noire est à moi"
-
-    dynn_minceiri: "Mincéiri"
-    dynn_minceiri_motto: "Faire et souffrir de grandes choses"
-
-    dynn_imperiosvs: "Fvria Impériosa"
-    dynn_imperiosvs_motto: "Si Vis Bellvm, Para Bellvm"
-
-    dynn_petronia: "Pétronie"
-    dynn_petronia_motto: ""
-
-    dynn_nacearda: "à Ceàrda"
-    dynn_nacearda_motto: "Chlanna nan con tigibh a' so's gheibh sibh feòil"
-
-    dynn_decalamar: "De Calamar"
-    dynn_decalamar_motto: ""
-
-    dynn_uagemred: "Ua Gemred"
-    dynn_uagemred_motto: "Dans notre dernière prise"
-
-    dynn_masterson: "Maîtreson"
-    dynn_masterson_motto: "Annonce Augusta par Angusta"
-
-    dynn_shadovie: "Shadovie"
-    dynn_shadovie_motto: ""
-
-    dynn_helid: "Hélide"
-    dynn_helid_motto: ""
-
-    dynn_hawk: "Faucon"
-    dynn_hawk_motto: ""
-
-    dynn_dio: "Dieu"
-    dynn_dio_motto: ""
-
-    dynn_varten: "Varten"
-    dynn_varten_motto: "Transcendance de la chair"
-
-    dynn_sagaard: "Sagaard"
-    dynn_sagaard_motto: "Nous savons déjà"
-
-    dynn_lividus: "Lividus"
-    dynn_lividus_motto: "Centurions de Seth"
-
-    dynn_canale: "Canale"
-    dynn_canale_motto: "Une lumière dans le Maelström"
-
-    dynn_cathail: "Cathail"
-    dynn_cathail_motto: ""
-
-    dynn_ramos: "Ramos"
-    dynn_ramos_motto: ""
-
-    dynn_delacasta: "de la Casta"
-    dynn_delacasta_motto: ""
-
-    dynn_natasson: "Natashon"
-    dynn_natasson_motto: ""
-
-    dynn_desdeuxvalleesvertes: "des Deux Vallées Vertes"
-    dynn_desdeuxvalleesvertes_motto: ""
-
-    dynn_custom: "Coutume"
-    dynn_custom_motto: "De ma propre main"
-
-    dynn_oruairc: "Ó Ruairc"
-    dynn_oruairc_motto: "Serviendo Guberno"
-
-    dynn_fystond: "Fýstönd"
-    dynn_fystond_motto: ""
-
-    dynn_bimbeet: "Bimbeet"
-    dynn_bimbeet_motto: "Leur mélange hunangi við blóðit"
-
-    dynn_tenebris: "Ténébris"
-    dynn_tenebris_motto: "Flammes sombres de Tchernivtsi"
-
-    dynn_eridanus: "Éridan"
-    dynn_eridanus_motto: "Il faut se méfier de l'eau qui dort"
-
-    dynn_hastur: "Hastur"
-    dynn_hastur_motto: "Tu ne prononceras pas ton nom !"
-
-    dynn_vovkulaka: "Vovkoulaka"
-    dynn_vovkulaka_motto: "Défier Défier"
-
-    dynn_barcid: "Barcide"
-    dynn_barcid_motto: "Le bilan de Rome"
-
-    dynn_sutherland: "Sutherland"
-    dynn_sutherland_motto: "Pour le plus grand bien"
-
-    dynn_pendragon: "Pendragon"
-    dynn_pendragon_motto: ""
-
-    dynn_mortifier: "Mortificateur"
-    dynn_mortifier_motto: ""
-
-    dynn_avry: "D'Avry"
-    dynn_avry_motto: ""
-
-    dynn_onmyoji: "Onmyōji"
-    dynn_onmyoji_motto: ""
-
-    dynn_murchadh: "Murchadh"
-    dynn_murchadh_motto: ""
-
-    dynn_fitzroy: "Fitzroy"
-    dynn_fitzroy_motto: ""
-
-    dynn_draeck: "de Draeck"
-    dynn_draeck_motto: ""
-
-    dynn_cathasach: "Cathasach"
-    dynn_cathasach_motto: ""
-
-    dynn_markov: "Markov"
-    dynn_markov_motto: "Avec du laiton et du sang"
-
-    dynn_dominatus: "Dominateur"
-    dynn_dominatus_motto: ""
-
-    dynn_morningstar: "L'étoile du matin"
-    dynn_morningstar_motto: ""
-
-    dynn_yelbeghen: "Elbeghen"
-    dynn_yelbeghen_motto: ""
-
-    dynn_tertia: "Tertia"
-    dynn_tertia_motto: ""
-
-    dynn_cephissus: "Céphise"
-    dynn_cephissus_motto: ""
-
-    dynn_verrucosus: "Verruqueuse"
-    dynn_verrucosus_motto: ""
-
-    dynn_cecilia: "Cécilia"
-    dynn_cecilia_motto: "Ne pleurez pas à cause du vin renversé"
-
-    dynn_tenoctis: "Ténoctis"
-    dynn_tenoctis_motto: "Contemplez les abysses"
-
-    dynn_hectsaehtf: "Hectsaehtf"
-    dynn_hectsaehtf_motto: "Avec l'épée et le feu"
-
-    dynn_namesh: "Nomsh"
-    #dynn_namesh_motto: ""
-
-    dynn_de_gray: "de Gray"
-    dynn_de_gray_motto: ""
-
-    dynn_memnon: "Memnon"
-    dynn_memnon_motto: ""
-
-    dynn_forsworn: "Fait au faux serment"
-    dynn_forsworn_motto: ""
-
-    dynn_doe: "Biche"
-    dynn_doe_motto: ""
-
-    dynn_eris: "Éris"
-    dynn_eris_motto: "τῇ καλλίστῃ"
-
-    dynn_leanhaun_patron: "Leanhaun"
-    dynn_leanhaun_patron_motto: "Aimez profondément, buvez profondément"
-
-    dynn_sora: "Sora"
-    dynn_sora_motto: ""
-
-    dynn_vraalstad: "Vraalstad"
-    dynn_vraalstad_motto: "Trois Roses"
-
-    dynn_tsondu: "Tsondu"
-    dynn_tsondu_motto: "Les beautés du Tibet"
-
-    dynn_huyen: "Huyen"
-    dynn_huyen_motto: "Soyez magnifique dans votre monstruosité"
-
-    dynn_orban: "Orbán"
-    dynn_orban_motto: "Briseurs de loups"
-
-    dynn_valuk: "Valuk"
-    dynn_valuk_motto: ""
-
-    dynn_brunestud: "Brunestud"
-    dynn_brunestud_motto: "Enfant du Croissant de Lune"
-
-    dynn_arua: "Arua"
-    dynn_arua_motto: "Gardiens de la mer"
-
-    dynn_atticus: "Atticus"
-    dynn_atticus_motto: ""
-
-    dynn_nyx: "Nyx"
-    dynn_nyx_motto: ""
-
-    dynn_sha: "Sha"
-    dynn_sha_motto: ""
-
-    dynn_cultusveteriscustodiae: "Cultus Veteris Custodiae"
-    dynn_cultusveteriscustodiae_motto: ""
-
-    dynn_mckraken: "McKraken"
-    dynn_mckraken_motto: ""
-
-    dynn_tigray: "Tigré"
-    dynn_tigray_motto: "Pas par lignée, mais par le sang"
-
-    dynn_ramil: "Ramil"
-    dynn_ramil_motto: ""
-
-    dynn_zsoldos: "Zsoldos"
-    dynn_zsoldos_motto: ""
-
-    dynn_flynn: "Flynn"
-    dynn_flynn_motto: ""
-
-    dynn_degigli: "De'Gigli"
-    dynn_degigli_motto: ""
-
-    dynn_lirissa: "Lirisa"
-    dynn_lirissa_motto: ""
-
-    dynn_dankovsky: "Dankovski"
-    dynn_dankovsky_motto: "Vastum Silentium"
-
-    dynn_ying: "Ying"
-    dynn_ying_motto: "Avalez le ciel et dévorez la terre"
-
-    dynn_mjolnir: "Mjölnir"
-    dynn_mjolnir_motto: "Faites attention à la façon dont vous parlez !"
-
-    dynn_ilie: "Je ments"
-    # dynn_ilie_motto: ""
-
-    dynn_angelista: "Angéliste"
-    # dynn_angelista_motto: ""
-
-    dynn_lev: "Lév"
-    # dynn_lev_motto: ""
-
-    dynn_branco: "Branco"
-    # dynn_branco_motto: ""
-
-    dynn_barachiel: "Barachiel"
-    # dynn_barachiel_motto: ""
-
-    dynn_putnik: "Poutnik"
-    # dynn_putnik_motto: ""
-
-    dynn_seonjong: "Seonjong"
-    # dynn_seonjong_motto: ""
-
-    dynn_lancaster: "Lancastre"
-    # dynn_lancaster_motto: ""
-
-    dynn_zonaras: "Zones"
-    dynn_zonaras_motto: ""
-
-    dynn_abhartach: "Abhartach"
-    dynn_abhartach_motto: ""
-
-    dynn_daniel: "Daniel"
-    dynn_daniel_motto: ""
-
-    dynn_ashurbanipal: "Assurbanipal"
-    dynn_ashurbanipal_motto: ""
-
-    dynn_larva: "Larve"
-    dynn_larva_motto: "Ce qui est à moi est à moi. Ce qui est à toi est à moi."
-
-    dynn_caerellius: "Caerellius"
-    dynn_caerellius_motto: ""
-
-    dynn_thutmosid: "Thoutmosid"
-    dynn_thutmosid_motto: "Puissant de force, Sacré d'apparence"
-
-    dynn_ahmosid: "Ahmosid"
-    dynn_ahmosid_motto: "Je suis venu comme Hor-watit enflammant mes ennemis"
-
-    dynn_gaius: "Gaïus"
-    dynn_gaius_motto: ""
-
-    dynn_ezekiel: "Ézéchiel"
-    dynn_ezekiel_motto: ""
-
-    dynn_garland: "Guirlande"
-    dynn_garland_motto: ""
-
-    dynn_messeni: "Messéni"
-    dynn_messeni_motto: ""
-
-    dynn_veles: "Vélès"
-    dynn_veles_motto: ""
-
-    dynn_athanasios: "Athanase"
-    dynn_athanasios_motto: "Mors Pulchrum Est."
-
-    dynn_barkov: "Barkov"
-    dynn_barkov_motto: ""
-
-    dynn_temguis: "Temguis"
-    dynn_temguis_motto: ""
-
-    dynn_deimos: "Déimos"
-    dynn_deimos_motto: ""
-
-    dynn_sorush: "Sorush"
-    dynn_sorush_motto: ""
-
-    dynn_vitelliae: "Vitelliae"
-    dynn_vitelliae_motto: ""
-
-    dynn_chryseopilix: "Chryséopilix"
-    dynn_chryseopilix_motto: "Vous pouvez être plus cruel que ça !"
-
-    dynn_lupiezca: "lupieżca"
-    dynn_lupiezca_motto: ""
-
-    dynn_umayyad: "Omeyyade"
-    dynn_umayyad_motto: ""
-
-    dynn_kragen: "Krägen"
-    dynn_kragen_motto: "Venger le sang de ses serviteurs, se venger de ses ennemis"
-
-    dynn_helios: "Hélios"
-    dynn_helios_motto: ""
-
-    dynn_brigantes: "Brigantes"
-    dynn_brigantes_motto: ""
-
-    dynn_avis: "Avis"
-    dynn_avis_motto: ""
+﻿l_french: dynn_powodz:0 "Powódź"
+    dynn_powodz_motto:0 "Tu sèmes ce que tu récoltes"
+    dynn_pastelos:0 "La Lune Noire"
+    dynn_pastelos_motto:0 "La mer Noire est à moi"
+    dynn_blackmoon:0 "La lune Noire"
+    dynn_blackmoon_motto:0 "La mer Noire est à moi"
+    dynn_minceiri:0 "Mincéiri"
+    dynn_minceiri_motto:0 "Faire et souffrir de grandes choses"
+    dynn_imperiosvs:0 "Fvria Impériosa"
+    dynn_imperiosvs_motto:0 "Si Vis Bellvm, Para Bellvm"
+    dynn_petronia:0 "Pétronie"
+    dynn_petronia_motto:0 ""
+    dynn_nacearda:0 "à Ceàrda"
+    dynn_nacearda_motto:0 "Chlanna nan con tigibh a' so's gheibh sibh feòil"
+    dynn_decalamar:0 "De Calamar"
+    dynn_decalamar_motto:0 ""
+    dynn_uagemred:0 "Ua Gemred"
+    dynn_uagemred_motto:0 "Dans notre dernière prise"
+    dynn_masterson:0 "Maîtreson"
+    dynn_masterson_motto:0 "Annonce Augusta par Angusta"
+    dynn_shadovie:0 "Shadovie"
+    dynn_shadovie_motto:0 ""
+    dynn_helid:0 "Hélide"
+    dynn_helid_motto:0 ""
+    dynn_hawk:0 "Faucon"
+    dynn_hawk_motto:0 ""
+    dynn_dio:0 "Dieu"
+    dynn_dio_motto:0 ""
+    dynn_varten:0 "Varten"
+    dynn_varten_motto:0 "Transcendance de la chair"
+    dynn_sagaard:0 "Sagaard"
+    dynn_sagaard_motto:0 "Nous savons déjà"
+    dynn_lividus:0 "Lividus"
+    dynn_lividus_motto:0 "Centurions de Seth"
+    dynn_canale:0 "Canale"
+    dynn_canale_motto:0 "Une lumière dans le Maelström"
+    dynn_cathail:0 "Cathail"
+    dynn_cathail_motto:0 ""
+    dynn_ramos:0 "Ramos"
+    dynn_ramos_motto:0 ""
+    dynn_delacasta:0 "de la Casta"
+    dynn_delacasta_motto:0 ""
+    dynn_natasson:0 "Natashon"
+    dynn_natasson_motto:0 ""
+    dynn_desdeuxvalleesvertes:0 "des Deux Vallées Vertes"
+    dynn_desdeuxvalleesvertes_motto:0 ""
+    dynn_custom:0 "Coutume"
+    dynn_custom_motto:0 "De ma propre main"
+    dynn_oruairc:0 "Ó Ruairc"
+    dynn_oruairc_motto:0 "Serviendo Guberno"
+    dynn_fystond:0 "Fýstönd"
+    dynn_fystond_motto:0 ""
+    dynn_bimbeet:0 "Bimbeet"
+    dynn_bimbeet_motto:0 "Leur mélange hunangi við blóðit"
+    dynn_tenebris:0 "Ténébris"
+    dynn_tenebris_motto:0 "Flammes sombres de Tchernivtsi"
+    dynn_eridanus:0 "Éridan"
+    dynn_eridanus_motto:0 "Il faut se méfier de l'eau qui dort"
+    dynn_hastur:0 "Hastur"
+    dynn_hastur_motto:0 "Tu ne prononceras pas ton nom !"
+    dynn_vovkulaka:0 "Vovkoulaka"
+    dynn_vovkulaka_motto:0 "Défier Défier"
+    dynn_barcid:0 "Barcide"
+    dynn_barcid_motto:0 "Le bilan de Rome"
+    dynn_sutherland:0 "Sutherland"
+    dynn_sutherland_motto:0 "Pour le plus grand bien"
+    dynn_pendragon:0 "Pendragon"
+    dynn_pendragon_motto:0 ""
+    dynn_mortifier:0 "Mortificateur"
+    dynn_mortifier_motto:0 ""
+    dynn_avry:0 "D'Avry"
+    dynn_avry_motto:0 ""
+    dynn_onmyoji:0 "Onmyōji"
+    dynn_onmyoji_motto:0 ""
+    dynn_murchadh:0 "Murchadh"
+    dynn_murchadh_motto:0 ""
+    dynn_fitzroy:0 "Fitzroy"
+    dynn_fitzroy_motto:0 ""
+    dynn_draeck:0 "de Draeck"
+    dynn_draeck_motto:0 ""
+    dynn_cathasach:0 "Cathasach"
+    dynn_cathasach_motto:0 ""
+    dynn_markov:0 "Markov"
+    dynn_markov_motto:0 "Avec du laiton et du sang"
+    dynn_dominatus:0 "Dominateur"
+    dynn_dominatus_motto:0 ""
+    dynn_morningstar:0 "L'étoile du matin"
+    dynn_morningstar_motto:0 ""
+    dynn_yelbeghen:0 "Elbeghen"
+    dynn_yelbeghen_motto:0 ""
+    dynn_tertia:0 "Tertia"
+    dynn_tertia_motto:0 ""
+    dynn_cephissus:0 "Céphise"
+    dynn_cephissus_motto:0 ""
+    dynn_verrucosus:0 "Verruqueuse"
+    dynn_verrucosus_motto:0 ""
+    dynn_cecilia:0 "Cécilia"
+    dynn_cecilia_motto:0 "Ne pleurez pas à cause du vin renversé"
+    dynn_tenoctis:0 "Ténoctis"
+    dynn_tenoctis_motto:0 "Contemplez les abysses"
+    dynn_hectsaehtf:0 "Hectsaehtf"
+    dynn_hectsaehtf_motto:0 "Avec l'épée et le feu"
+    dynn_namesh:0 "Nomsh"
+    dynn_de_gray:0 "de Gray"
+    dynn_de_gray_motto:0 ""
+    dynn_memnon:0 "Memnon"
+    dynn_memnon_motto:0 ""
+    dynn_forsworn:0 "Fait au faux serment"
+    dynn_forsworn_motto:0 ""
+    dynn_doe:0 "Biche"
+    dynn_doe_motto:0 ""
+    dynn_eris:0 "Éris"
+    dynn_eris_motto:0 "τῇ καλλίστῃ"
+    dynn_leanhaun_patron:0 "Leanhaun"
+    dynn_leanhaun_patron_motto:0 "Aimez profondément, buvez profondément"
+    dynn_sora:0 "Sora"
+    dynn_sora_motto:0 ""
+    dynn_vraalstad:0 "Vraalstad"
+    dynn_vraalstad_motto:0 "Trois Roses"
+    dynn_tsondu:0 "Tsondu"
+    dynn_tsondu_motto:0 "Les beautés du Tibet"
+    dynn_huyen:0 "Huyen"
+    dynn_huyen_motto:0 "Soyez magnifique dans votre monstruosité"
+    dynn_orban:0 "Orbán"
+    dynn_orban_motto:0 "Briseurs de loups"
+    dynn_valuk:0 "Valuk"
+    dynn_valuk_motto:0 ""
+    dynn_brunestud:0 "Brunestud"
+    dynn_brunestud_motto:0 "Enfant du Croissant de Lune"
+    dynn_arua:0 "Arua"
+    dynn_arua_motto:0 "Gardiens de la mer"
+    dynn_atticus:0 "Atticus"
+    dynn_atticus_motto:0 ""
+    dynn_nyx:0 "Nyx"
+    dynn_nyx_motto:0 ""
+    dynn_sha:0 "Sha"
+    dynn_sha_motto:0 ""
+    dynn_cultusveteriscustodiae:0 "Cultus Veteris Custodiae"
+    dynn_cultusveteriscustodiae_motto:0 ""
+    dynn_mckraken:0 "McKraken"
+    dynn_mckraken_motto:0 ""
+    dynn_tigray:0 "Tigré"
+    dynn_tigray_motto:0 "Pas par lignée, mais par le sang"
+    dynn_ramil:0 "Ramil"
+    dynn_ramil_motto:0 ""
+    dynn_zsoldos:0 "Zsoldos"
+    dynn_zsoldos_motto:0 ""
+    dynn_flynn:0 "Flynn"
+    dynn_flynn_motto:0 ""
+    dynn_degigli:0 "De'Gigli"
+    dynn_degigli_motto:0 ""
+    dynn_lirissa:0 "Lirisa"
+    dynn_lirissa_motto:0 ""
+    dynn_dankovsky:0 "Dankovski"
+    dynn_dankovsky_motto:0 "Vastum Silentium"
+    dynn_ying:0 "Ying"
+    dynn_ying_motto:0 "Avalez le ciel et dévorez la terre"
+    dynn_mjolnir:0 "Mjölnir"
+    dynn_mjolnir_motto:0 "Faites attention à la façon dont vous parlez !"
+    dynn_ilie:0 "Je ments"
+    dynn_angelista:0 "Angéliste"
+    dynn_lev:0 "Lév"
+    dynn_branco:0 "Branco"
+    dynn_barachiel:0 "Barachiel"
+    dynn_putnik:0 "Poutnik"
+    dynn_seonjong:0 "Seonjong"
+    dynn_lancaster:0 "Lancastre"
+    dynn_zonaras:0 "Zones"
+    dynn_zonaras_motto:0 ""
+    dynn_abhartach:0 "Abhartach"
+    dynn_abhartach_motto:0 ""
+    dynn_daniel:0 "Daniel"
+    dynn_daniel_motto:0 ""
+    dynn_ashurbanipal:0 "Assurbanipal"
+    dynn_ashurbanipal_motto:0 ""
+    dynn_larva:0 "Larve"
+    dynn_larva_motto:0 "Ce qui est à moi est à moi. Ce qui est à toi est à moi."
+    dynn_caerellius:0 "Caerellius"
+    dynn_caerellius_motto:0 ""
+    dynn_thutmosid:0 "Thoutmosid"
+    dynn_thutmosid_motto:0 "Puissant de force, Sacré d'apparence"
+    dynn_ahmosid:0 "Ahmosid"
+    dynn_ahmosid_motto:0 "Je suis venu comme Hor-watit enflammant mes ennemis"
+    dynn_gaius:0 "Gaïus"
+    dynn_gaius_motto:0 ""
+    dynn_ezekiel:0 "Ézéchiel"
+    dynn_ezekiel_motto:0 ""
+    dynn_garland:0 "Guirlande"
+    dynn_garland_motto:0 ""
+    dynn_messeni:0 "Messéni"
+    dynn_messeni_motto:0 ""
+    dynn_veles:0 "Vélès"
+    dynn_veles_motto:0 ""
+    dynn_athanasios:0 "Athanase"
+    dynn_athanasios_motto:0 "Mors Pulchrum Est."
+    dynn_barkov:0 "Barkov"
+    dynn_barkov_motto:0 ""
+    dynn_temguis:0 "Temguis"
+    dynn_temguis_motto:0 ""
+    dynn_deimos:0 "Déimos"
+    dynn_deimos_motto:0 ""
+    dynn_sorush:0 "Sorush"
+    dynn_sorush_motto:0 ""
+    dynn_vitelliae:0 "Vitelliae"
+    dynn_vitelliae_motto:0 ""
+    dynn_chryseopilix:0 "Chryséopilix"
+    dynn_chryseopilix_motto:0 "Vous pouvez être plus cruel que ça !"
+    dynn_lupiezca:0 "lupieżca"
+    dynn_lupiezca_motto:0 ""
+    dynn_umayyad:0 "Omeyyade"
+    dynn_umayyad_motto:0 ""
+    dynn_kragen:0 "Krägen"
+    dynn_kragen_motto:0 "Venger le sang de ses serviteurs, se venger de ses ennemis"
+    dynn_helios:0 "Hélios"
+    dynn_helios_motto:0 ""
+    dynn_brigantes:0 "Brigantes"
+    dynn_brigantes_motto:0 ""
+    dynn_avis:0 "Avis"
+    dynn_avis_motto:0 ""

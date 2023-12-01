@@ -1,10 +1,8 @@
-﻿l_french:
-    POD_wraith_maintenance.21.t: "Sans entrave"
-    POD_wraith_maintenance.21.desc: "Vous n'avez aucun [Fetters|E] qui vous lie au [skinlands|E], en tant que tel, vous êtes renvoyé de force au [dark_kingdom|E]."
-    POD_wraith_maintenance.21.option.a: "Non!"
-    POD_wraith_maintenance.21.option.b: "Mon Po vient-il de se séparer ?"
-
-    POD_wraith_maintenance.22.t: "Échapper à Yomi"
-    POD_wraith_maintenance.22.desc: "Vous êtes coincé dans le Yomi depuis longtemps, torturé par les Yama Kings, mais vous pensez avoir trouvé un moyen de vous échapper et de retrouver votre Hun."
-    POD_wraith_maintenance.22.option.a: "Je pourrais aller encore plus loin !"
-    POD_wraith_maintenance.22.option.b: "Permettez-moi simplement de revenir au [underworld|E]."
+﻿l_french: POD_wraith_maintenance.21.t:0 "Sans entrave"
+    POD_wraith_maintenance.21.desc:0 "Vous n'avez aucun [Fetters|E] qui vous lie au [skinlands|E], en tant que tel, vous êtes renvoyé de force au [dark_kingdom|E]."
+    POD_wraith_maintenance.21.option.a:0 "Non!"
+    POD_wraith_maintenance.21.option.b:0 "Mon Po vient-il de se séparer ?"
+    POD_wraith_maintenance.22.t:0 "Échapper à Yomi"
+    POD_wraith_maintenance.22.desc:0 "Vous êtes coincé dans le Yomi depuis longtemps, torturé par les Yama Kings, mais vous pensez avoir trouvé un moyen de vous échapper et de retrouver votre Hun."
+    POD_wraith_maintenance.22.option.a:0 "Je pourrais aller encore plus loin !"
+    POD_wraith_maintenance.22.option.b:0 "Permettez-moi simplement de revenir au [underworld|E]."

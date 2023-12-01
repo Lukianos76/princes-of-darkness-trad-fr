@@ -1,99 +1,26 @@
 ﻿l_french:
-    # 03 = "Battle in the Valley of Enoch" "Bataille dans la vallée d'Enoch"
-    gehenna_seer_03_modifier:
-        "Prophétie : Bataille dans la vallée d'Enoch"
-
-        # 04 = "Mark the Shadow which Flies" "Marquez l'ombre qui vole"
-    gehenna_seer_04_modifier:
-        "Prophétie : marquez l'ombre qui vole"
-
-        # 05 = "Vitae as Rare as Diamonds" "Vitae aussi rare que les diamants"
-    gehenna_seer_05_modifier:
-        "Prophétie : Vitae aussi rare que les diamants"
-
-        # 06 = "Heads of Three Princes" "Têtes de trois princes"
-    gehenna_seer_06_modifier:
-        "Prophétie : chefs de trois princes"
-
-        # 07 = "Clanless will come to Rule" "Les sans clan prendront le pouvoir"
-    gehenna_seer_07_modifier:
-        "Prophétie : Les sans-clan prendront le pouvoir"
-
-        # 08 = "Last Daughter of Eve" "Dernière fille d'Eve"
-    gehenna_seer_08_modifier:
-        "Prophétie : Dernière fille d'Ève"
-
-        # 09 = "Ancient Hunger of the Northern Woods" "Faim ancienne des Bois du Nord"
-    gehenna_seer_09_modifier:
-        "Prophétie : Faim ancestrale des Bois du Nord"
-
-        # 10 = "Elder Darkness will Stir Deep Below a City" "Les Ténèbres ancestrales s'agiteront profondément sous une ville"
-    gehenna_seer_10_modifier:
-        "Prophétie : les ténèbres ancestrales s'agiteront profondément sous une ville"
-
-        # 11 = "Shine Black the Sun" "Brille noir le soleil"
-    gehenna_seer_11_modifier:
-        "Prophétie : Brillez en noir le soleil"
-
-        # 12 = "Hear the Raven's Cry" "Écoutez le cri du corbeau"
-    gehenna_seer_12_modifier:
-        "Prophétie : entendez le cri du corbeau"
-
-        # 13 = "The World will turn Cold" "Le monde deviendra froid"
-    gehenna_seer_13_modifier:
-        "Prophétie : Le monde va devenir froid"
-
-        # 14 = "The forces of Hell will Pour up out of the Ground" "Les forces de l'enfer sortiront du sol"
-    gehenna_seer_14_modifier:
-        "Prophétie : Les forces de l’Enfer sortiront du sol"
-
-        # 15 = "An Empire of Blood" "Un empire de sang"
-    gehenna_seer_15_modifier:
-        "Prophétie : un empire de sang"
-
-        # 16 = "Reign of One Thousand Years" "Règne de mille ans"
-    gehenna_seer_16_modifier:
-        "Prophétie : Règne de mille ans"
-
-        # 17 = "Children of Seth Will Rise Up" "Les enfants de Seth se lèveront"
-    gehenna_seer_17_modifier:
-        "Prophétie : Les enfants de Seth se lèveront"
-
-        # 18 = "They Will Serve Us While the Sun Rides the Sky" "Ils nous serviront pendant que le soleil parcourra le ciel"
-    gehenna_seer_18_modifier:
-        "Prophétie : Ils nous serviront pendant que le soleil parcourra le ciel"
-
-        # 19 = "The Waters Rise" "Les eaux montent"
-    gehenna_seer_19_modifier:
-        "Prophétie : la montée des eaux"
-
-        # 20 = "The Colossus of Steel" "Le colosse d'acier"
-    gehenna_seer_20_modifier:
-        "Prophétie : Le Colosse d'Acier"
-
-        # 21 = "Smell the Brother's Blood from Time's Beginning" "Sentez le sang du frère depuis le début des temps"
-    gehenna_seer_21_modifier:
-        "Prophétie : Sentez le sang du frère depuis le début des temps"
-
-        # 22 = "The Broken Chamber of 500 Years" "La chambre brisée de 500 ans"
-    gehenna_seer_22_modifier:
-        "Prophétie : la chambre brisée de 500 ans"
-
-        # 23 = "500 Years Will 7 be Joined" "500 ans, 7 seront rejoints"
-    gehenna_seer_23_modifier:
-        "Prophétie : 500 ans seront rejoints par 7"
-
-        # 24 = "Hearken the Words of the Seer" "Écoutez les paroles du voyant"
-    gehenna_seer_24_modifier:
-        "Prophétie : écoutez les paroles du voyant"
-
-        # 25 = "Ancient horrors are but dreams of things to come" "Les horreurs anciennes ne sont que des rêves de choses à venir"
-    gehenna_seer_25_modifier:
-        "Prophétie : les horreurs anciennes ne sont que des rêves de choses à venir"
-
-        # 26 = "The Grave that has No Ghosts" "La tombe sans fantômes"
-    gehenna_seer_26_modifier:
-        "Prophétie : la tombe sans fantômes"
-
-        # 27 = "Scouring the World for each Last Drop of Truth" "Parcourir le monde à la recherche de chaque dernière goutte de vérité"
-    gehenna_seer_27_modifier: "Prophétie : parcourir le monde à la recherche de chaque dernière goutte de vérité"
+ gehenna_seer_03_modifier:0 "Prophétie : Bataille dans la vallée d'Enoch"
+ gehenna_seer_04_modifier:0 "Prophétie : marquez l'ombre qui vole"
+ gehenna_seer_05_modifier:0 "Prophétie : Vitae aussi rare que les diamants"
+ gehenna_seer_06_modifier:0 "Prophétie : chefs de trois princes"
+ gehenna_seer_07_modifier:0 "Prophétie : Les sans-clan prendront le pouvoir"
+ gehenna_seer_08_modifier:0 "Prophétie : Dernière fille d'Ève"
+ gehenna_seer_09_modifier:0 "Prophétie : Faim ancestrale des Bois du Nord"
+ gehenna_seer_10_modifier:0 "Prophétie : les ténèbres ancestrales s'agiteront profondément sous une ville"
+ gehenna_seer_11_modifier:0 "Prophétie : Brillez en noir le soleil"
+ gehenna_seer_12_modifier:0 "Prophétie : entendez le cri du corbeau"
+ gehenna_seer_13_modifier:0 "Prophétie : Le monde va devenir froid"
+ gehenna_seer_14_modifier:0 "Prophétie : Les forces de l’Enfer sortiront du sol"
+ gehenna_seer_15_modifier:0 "Prophétie : un empire de sang"
+ gehenna_seer_16_modifier:0 "Prophétie : Règne de mille ans"
+ gehenna_seer_17_modifier:0 "Prophétie : Les enfants de Seth se lèveront"
+ gehenna_seer_18_modifier:0 "Prophétie : Ils nous serviront pendant que le soleil parcourra le ciel"
+ gehenna_seer_19_modifier:0 "Prophétie : la montée des eaux"
+ gehenna_seer_20_modifier:0 "Prophétie : Le Colosse d'Acier"
+ gehenna_seer_21_modifier:0 "Prophétie : Sentez le sang du frère depuis le début des temps"
+ gehenna_seer_22_modifier:0 "Prophétie : la chambre brisée de 500 ans"
+ gehenna_seer_23_modifier:0 "Prophétie : 500 ans seront rejoints par 7"
+ gehenna_seer_24_modifier:0 "Prophétie : écoutez les paroles du voyant"
+ gehenna_seer_25_modifier:0 "Prophétie : les horreurs anciennes ne sont que des rêves de choses à venir"
+ gehenna_seer_26_modifier:0 "Prophétie : la tombe sans fantômes"
+ gehenna_seer_27_modifier:0 "Prophétie : parcourir le monde à la recherche de chaque dernière goutte de vérité"

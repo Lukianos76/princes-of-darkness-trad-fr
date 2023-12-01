@@ -1,7 +1,5 @@
-﻿l_french:
-    POD_musing.1.t: "Faire grandir le rêveur"
-    POD_musing.1.option.a: "Une autre source de Glamour."
-    POD_musing.1.desc: "\nAprès une préparation et une planification minutieuses, vous lancez le piège sur la cible que vous avez choisie. Ils se soumettent et rejoignent volontiers votre ressource glamour protégée.\n"
-
-    POD_dreamer_maintenance: "Étincelle de créativité"
-    POD_dreamer_maintenance.tt: "Vous avez reçu une étincelle de créativité de l’inspiration de votre rêveur."
+﻿l_french: POD_musing.1.t:0 "Faire grandir le rêveur"
+    POD_musing.1.option.a:0 "Une autre source de Glamour."
+    POD_musing.1.desc:0 "\nAprès une préparation et une planification minutieuses, vous lancez le piège sur la cible que vous avez choisie. Ils se soumettent et rejoignent volontiers votre ressource glamour protégée.\n"
+    POD_dreamer_maintenance:0 "Étincelle de créativité"
+    POD_dreamer_maintenance.tt:0 "Vous avez reçu une étincelle de créativité de l’inspiration de votre rêveur."

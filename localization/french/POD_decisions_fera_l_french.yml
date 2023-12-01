@@ -1,5 +1,4 @@
-﻿l_french:
-    changing_moon_decision: "Rite de la Lune Changeante"
-    changing_moon_decision_tooltip: "Vous passerez à votre prochain auspice."
-    changing_moon_decision_desc: "Ces rites marquent le passage d'un Gurahl d'un auspice à un autre. Le sujet du rite subit d'abord une purification rituelle, comprenant un jeûne d'une journée et un bain cérémonial. À la fin de sa purification, elle brûle un objet symbolique de son ancien auspice (c'est-à-dire un jouet d'enfant pour Arcas, ou une lance en bois pour Uzmati). Ensuite, elle se pare de vêtements et de maquillage adaptés à son nouveau auspice. Enfin, elle se présente devant les autres participants au rite et déclare formellement son nom et son (nouveau) auspice. Les autres Gurahl la saluent en retour, utilisant à nouveau son nom et son nouveau titre d'auspice. Une célébration suit généralement la partie formelle du rite."
-    changing_moon_decision_confirm: "Lune changeante"
+﻿l_french: changing_moon_decision:0 "Rite de la Lune Changeante"
+    changing_moon_decision_tooltip:1 "Vous passerez à votre prochain auspice."
+    changing_moon_decision_desc:0 "Ces rites marquent le passage d'un Gurahl d'un auspice à un autre. Le sujet du rite subit d'abord une purification rituelle, comprenant un jeûne d'une journée et un bain cérémonial. À la fin de sa purification, elle brûle un objet symbolique de son ancien auspice (c'est-à-dire un jouet d'enfant pour Arcas, ou une lance en bois pour Uzmati). Ensuite, elle se pare de vêtements et de maquillage adaptés à son nouveau auspice. Enfin, elle se présente devant les autres participants au rite et déclare formellement son nom et son (nouveau) auspice. Les autres Gurahl la saluent en retour, utilisant à nouveau son nom et son nouveau titre d'auspice. Une célébration suit généralement la partie formelle du rite."
+    changing_moon_decision_confirm:0 "Lune changeante"
