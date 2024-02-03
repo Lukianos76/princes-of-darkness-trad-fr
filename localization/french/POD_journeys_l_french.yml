@@ -331,7 +331,7 @@
  seek_knowledge_visceratika_travel_desc:0 "J'ai hâte d'avoir la chance d'apprendre le [GetTrait('visceratika').GetName(GetNullCharacter)]. Toutes nos fortifications sont en pierre. Le contrôler donnerait un immense avantage tactique."
  seek_knowledge_visceratika_travel_confirm:0 "$POD_journey_travel_confirm_seek_knowledge$"
  seek_knowledge_giovanni_name:0 "Apprendre [GetTrait('necromancy').GetName(GetNullCharacter)] (Giovanni)"
- seek_knowledge_giovanni_desc:0 "La lignée [GetTrait('giovanni').GetName(GetNullCharacter)] a développé sa propre forme de [GetTrait('necromancy').GetName(GetNullCharacter)], leur permettant de créer et de lier des #TOOLTIP:GAME_TRAIT,wraith,[GetNullCharacter] #L Wraiths#!#! pour exécuter leurs ordres et entrer dans le [underworld|E]."
+ seek_knowledge_giovanni_desc:0 "La lignée [GetTrait('giovanni').GetName(GetNullCharacter)] a développé sa propre forme de [GetTrait('necromancy').GetName(GetNullCharacter)], leur permettant de créer et de lier des #TOOLTIP:GAME_TRAIT,wraith,[GetNullCharacter] #L Spectres#!#! pour exécuter leurs ordres et entrer dans le [underworld|E]."
  seek_knowledge_giovanni_effects:0 "Vous apprendrez où se trouve un professeur qui connaît Giovanni [GetTrait('necromancy').GetName(GetNullCharacter)]. Après y avoir voyagé, vous pourrez apprendre leurs techniques secrètes. Si vous n'avez pas encore le [GetTrait('necromancy').GetName(GetNullCharacter)] [trait|E], vous acquerrez également le [discipline|E] [trait|E], qui vous permettra de débloquer le [perks|E] dans le [GetTrait('necromancy').GetName(GetNullCharacter)] [lifestyle|E]."
  seek_knowledge_giovanni_tt:0 "Les morts feront avancer mes ambitions."
  seek_knowledge_giovanni_planning_title:0 "La quête de la nécromancie"

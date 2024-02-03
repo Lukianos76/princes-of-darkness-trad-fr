@@ -118,3 +118,68 @@
  shrouddesc9:0 "#T [GetModifier('shroud9_modifier').GetName]#!\n[GetModifier('shroud9_modifier').GetDescWithEffects]"
  shrouddesc10:0 "#T [GetModifier('shroud10_modifier').GetName]#!\n[GetModifier('shroud10_modifier').GetDescWithEffects]"
  original_music_by_serial_symphony:0 "Musique originale de Serial Symphony"
+  POD_chi_window_artifacts:0 "Vous avez des [artifacts|E] qui peuvent stocker du Chi."
+ POD_chi_window_hunt:0 "En tant que [GetTrait('kueijin').GetName(GetPlayer)], vous pouvez reconstituer votre Chi en buvant du sang.\n#help Cliquez avec le bouton droit de la souris sur un personnage non débarqué pour commencer la chasse [journey|E].# !"
+ POD_chi_window_prisoners_invalid:0 "#help Vous n'avez actuellement aucun prisonnier dont vous pourriez dévorer le Chi.# !"
+ POD_chi_window_prisoners:0 "Vous avez des prisonniers.\n#help Vous pourriez être capable de dévorer leur Chi !"
+ POD_chi_window_regen_augment:0 "Vous régénérez #V 1# ! Chi par mois parce que vous avez la [GetPerk('augment_perk').GetName(GetPlayer)] [perk|E]."
+ POD_chi_window_regen_dhampyr:0 "Parce que vous êtes un [GetTrait('dhampyr').GetName(GetPlayer)], vous régénérez #V 1# ! Chi par mois".
+ POD_chi_window_regen_hunandpo:0 "#help Avec votre [GetTrait('hun_and_po').GetName(GetPlayer)], vous ne vous reconstituez pas de Chi automatiquement à moins d'avoir la [GetPerk('augment_perk').GetName(GetPlayer)] [perk|E].# !"
+ POD_chi_window_regen_kueijin:0 "#help En tant que [GetTrait('kueijin').GetName(GetPlayer)], le Chi ne se reconstitue pas automatiquement à moins que vous n'ayez la [GetPerk('augment_perk').GetName(GetPlayer)] [perk|E].# !"
+ POD_chi_window_regen_shih:0 "Parce que vous êtes un [GetTrait('shih').GetName(GetPlayer)], vous régénérez #V 1# ! Chi par mois".
+ POD_chi_window_regen_wukuei:0 "Parce que vous êtes un [GetTrait('wukuei').GetName(GetPlayer)], vous régénérez #V 1# ! Chi par mois".
+ POD_chi_window_regen_wutian:0 "Parce que vous êtes un [GetTrait('wutian').GetName(GetPlayer)], vous régénérez #V 1# ! Chi par mois.\nVous pouvez régénérer #V 1# ! Chi supplémentaire par mois avec [GetDynastyPerk('wutian_mummy_legacy_5').GetName]."
+ POD_chi_window_regen:0 "[GetPlayer.Custom('PODChiRegenHint')]"
+ POD_glamour_window_artifacts:0 "Vous avez des [artifacts|E] qui peuvent stocker du Glamour."
+ POD_glamour_window_dreamer_help:0 "Les rêveurs vous accorderont [lifestyle_experience|E] et auront une petite chance de régénérer votre [GetPlayer.Custom('PODFaeResource')].# !"
+ POD_glamour_window_dreamer:0 "Vous pouvez ajouter un de vos [courtisans|E] en tant que Rêveur.
+ POD_glamour_window_regen_building:0 "#help Vous avez #V [GetPlayer.MakeScope.ScriptValue('chance_for_extra_glamour_regen')]%#! chance de régénération supplémentaire[GetPlayer.Custom('PODFaeResource')] des #TOOLTIP:BUILDING,glade_freehold_01 #L Glade#!#! bâtiments dans votre capitale.#!"
+ POD_glamour_window_regen_changeling:0 "Parce que vous êtes un [GetTrait('changeling').GetName(GetPlayer)], vous régénérez #V 1# [GetPlayer.Custom('PODFaeResource')] par mois."
+ POD_glamour_window_regen_fae:0 "Comme vous êtes un [GetTrait('fae').GetName(GetPlayer)], vous régénérez #V 1# [GetPlayer.Custom('PODFaeResource')] par mois."
+ POD_glamour_window_regen:0 "[GetPlayer.Custom('PODGlamourRegenHint')]"
+ POD_glamour_window_reverie:0 "Vous gagnez #V 2# [GetPlayer.Custom('PODFaeResource')] de la Rêverie à chaque fois que vous terminez un [GetScheme('sway').GetTypeName()], [GetScheme('befriend').GetTypeName()], ou un [GetScheme('courting').GetTypeName()]".
+ POD_hint_chi:0 "\n\n#ICliquez sur cette barre pour afficher les différentes façons de régénérer le Chi.#!"
+ POD_hint_glamour:0 "\n\n#ICliquez sur cette barre pour afficher les différentes façons de régénérer le Glamour.#!"
+ POD_hint_gnosis:0 "\n\nVous avez un $POD_player_gnosis_regen_chance$ chance de régénérer la Gnose chaque mois."
+ POD_hint_no_yangvirtue:0 ""
+ POD_hint_no_yinvirtue:0 ""
+ POD_hint_rage:0 "\n\nVous avez $POD_player_rage_growth_chance$ possibilité de gagner de la Rage chaque mois."
+ POD_hint_resolve:0 "\n\n#ICliquez sur cette barre pour afficher les différentes façons d'obtenir de la Résolution !"
+ POD_hint_sekhem:0 "\n\n#ICliquez sur cette barre pour afficher les différentes façons de régénérer Sekhem !"
+ POD_hint_window_chi:0 "Chi"
+ POD_hint_window_fae:0 "[GetPlayer.Custom('PODFaeResource')]"
+ POD_hint_window_glamour:0 "Glamour"
+ POD_hint_window_prison:0 "Afficher la prison"
+ POD_hint_window_resolve:0 "Résoudre
+ POD_hint_window_sekhem:0 "Sekhem"
+ POD_hint_yangvirtue:0 "Comme vous avez [GetPlayer.Custom('PODYangVirtue')], votre Yang Chi ne peut pas dépasser [GetPlayer.MakeScope.ScriptValue('yang_cap')|V0]."
+ POD_hint_yinvirtue:0 "Comme vous avez [GetPlayer.Custom('PODYinVirtue')], votre Yin Chi ne peut pas dépasser [GetPlayer.MakeScope.ScriptValue('yin_cap')|V0]."
+ POD_hunger_window_artifacts:0 "Vous avez des [artifacts|E] qui peuvent stocker du sang."
+ POD_hunger_window_prisoners_invalid:0 "#help Vous n'avez actuellement aucun prisonnier que vous pourriez exsangue ou herdify.# !"
+ POD_hunger_window_prisoners:0 "Vous avez des prisonniers.\n#help Vous pouvez peut-être drainer leur sang, ou les ajouter à votre troupeau. #!"
+ POD_hunger_window_regen_dhampir:0 "Parce que vous êtes un [GetTrait('dhampir').GetName(GetPlayer)], vous perdez automatiquement #V 1# ! [hunger_with_icon|E] par mois."
+ POD_hunger_window_regen_revenant:0 "Parce que vous êtes un [GetTrait('revenant').GetName(GetPlayer)], vous perdez automatiquement #V 1# ! [hunger_with_icon|E] par mois."
+ POD_hunger_window_regen:0 "[GetPlayer.Custom('PODBloodRegenHint')]"
+ POD_resolve_window_artifacts:0 "Vous avez des [artifacts|E] qui peuvent stocker la Résolution".
+ POD_resolve_window_demon_interaction:0 "$POD_resolve_window_demon$\n\n#help Vous n'avez actuellement aucune cible valide pour $POD_revelation_interaction$ dans votre [court|E].\n\nCliquez avec le bouton droit de la souris sur un mortel et effectuez $POD_revelation_interaction$ via [character_interaction|E].\nCette méthode est plus efficace sur les personnalités lâches.#!"
+ POD_resolve_window_demon_invalid:0 "$POD_resolve_window_demon$\n\n#help Vous devez vous transformer en [GetModifier('POD_shapeshift_form_apocalyptic_angelic_modifier').GetNameWithTooltip] ou [GetModifier('POD_shapeshift_form_apocalyptic_damned_modifier').GetNameWithTooltip] d'abord.#!"
+ POD_resolve_window_demon:0 "En tant que [GetTrait('demon').GetName(GetPlayer)], vous gagnez en résolution en vous révélant aux mortels."
+ POD_resolve_window_laham:0 "En tant que [GetTrait('laham').GetName(GetPlayer)], vous gagnez #V 1# ! Résolution par mois".
+ POD_resolve_window_nephilim:0 "En tant que [GetTrait('nephilim').GetName(GetPlayer)], vous gagnez #V 1# ! Résolution par mois".
+ POD_resolve_window_revelation:0 "Vous pouvez vous révéler à [GetPlayer.MakeScope.Var('suggested_revelation_target').Char.GetShortUINameNoTooltip]."
+ POD_resolve_window_thrall:0 "En tant que [thrall|E], vous gagnez #V 1# ! Résolution par mois".
+ POD_resolve_window:0 "[GetPlayer.Custom('PODResolveHint')]"
+ POD_sekhem_window_artifacts:0 "Vous avez des [artifacts|E] qui peuvent stocker Sekhem".
+ POD_sekhem_window_prisoners_invalid:0 "#help Vous n'avez actuellement aucun prisonnier que vous pourriez dévorer !#"
+ POD_sekhem_window_prisoners:0 "Vous avez des prisonniers. Vous pourriez les dévorer pour regagner Sekhem !"
+ POD_sekhem_window_regen_banemummy:0 "En tant que [GetTrait('banemummy').GetName(GetPlayer)], vous régénérez Sekhem en mangeant de la chair.\n#help Cliquez avec le bouton droit de la souris sur un personnage non débarqué pour commencer la chasse [journey|E].# !"
+ POD_sekhem_window_regen_cabiri_disabled:0 "En tant que [GetTrait('cabiri').GetName(GetPlayer)], vous pouvez dépenser [gold_i|E][GetPlayer.MakeScope.ScriptValue('pneuma_restoration_monthly_cost')|V0] pour régénérer #V 1# ! Sekhem par mois."
+ POD_sekhem_window_regen_cabiri_enabled:0 "Vous dépensez actuellement [gold_i|E][GetPlayer.MakeScope.ScriptValue('pneuma_restoration_monthly_cost')|V0] pour régénérer #V 1# ! Sekhem par mois."
+ POD_sekhem_window_regen_cabiri_hint:0 "#help #TOOLTIP:BUILDING,occult_affiliation_01 #L Occult Affiliation#!# ! les bâtiments du duché dans votre capitale réduiront le coût.# !"
+ POD_sekhem_window_regen_shemsuheru_buildings:0 "Vous êtes un [GetTrait('shemsuheru').GetName(GetPlayer)] en dehors de la [GetGeographicalRegion('pod_lands_of_faith').GetName].\n#help En vous basant sur le bâtiment du duché dans votre capitale, vous disposez d'un #V [GetPlayer.MakeScope.ScriptValue('shemsuheru_sekhem_regen_chance')]%#! chance de régénérer Sekhem chaque mois.#!"
+ POD_sekhem_window_regen_shemsuheru:0 "Vous régénérez #V 1# ! Sekhem par mois car vous êtes un [GetTrait('shemsuheru').GetName(GetPlayer)] dans la [GetGeographicalRegion('pod_lands_of_faith').GetName]".
+ POD_sekhem_window_regen:0 "[GetPlayer.Custom('PODSekhemRegenHint')]"
+ POD_sekhem_window_umbra_hint:0 "Vous pouvez régénérer plus de Sekhem si vous explorez le [sombre_royaume_de_sable|E] dans les [terres de l'ombre|E]."
+ POD_sekhem_window_umbra_needperk:0 "Vous avez besoin de [underworld_access|E] pour atteindre le [dark_kingdom_of_sand|E]."
+ POD_sekhem_window_umbra_regen:0 "Vous régénérez [GetPlayer.MakeScope.ScriptValue('dark_kingdom_of_sand_sekhem_regen')|V0] Sekhem tous les 3 mois tant que vous êtes dans le [dark_kingdom_of_sand|E]."
+ POD_sekhem_window_umbra:0 '[GetPlayer.Custom('PODSekhemHintUmbra')]'.

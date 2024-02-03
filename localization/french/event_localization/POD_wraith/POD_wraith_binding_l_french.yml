@@ -32,7 +32,7 @@
  POD_wraith_binding.600.t:0 "Reliure déjouée"
  POD_wraith_binding.600.desc:0 "[actor.GetTitledFirstName] a abandonné la tentative de [actor.GetHerHis] de vous forcer à entrer en service."
  POD_wraith_binding.600.option.a:0 "Mon indépendance est en sécurité !"
- POD_wraith_binding.1000.t:0 "Marked Wraith est arrivé"
+ POD_wraith_binding.1000.t:0 "Marked Spectre est arrivé"
  POD_wraith_binding.1000.desc:0 "[wraith.GetTitledFirstName] est mort et est arrivé en tant qu'invité à votre cour. Si vous ne faites rien, le [wraith.GetHerHim] ira au [underworld|E] après sept jours."
  POD_wraith_binding.1000.option.a:0 "Je devrais lier [wraith.GetHerHim] immédiatement."
  POD_wraith_binding.1000.option.b:0 "Je ne ferai rien."
