@@ -63,7 +63,7 @@
  hierarchy_religion_adj:0 "Légion"
  hierarchy_religion_adherent:0 "Spectre"
  hierarchy_religion_adherent_plural:0 "Spectres"
- hierarchy_religion_desc:0 "À sa mort, chaque Wraith est intronisé dans l'une des sept légions en fonction des circonstances de sa mort. Chaque Légion a un quartier général (son siège) et est supervisée par un Seigneur de la Mort."
+ hierarchy_religion_desc:0 "À sa mort, chaque Spectre est intronisé dans l'une des sept légions en fonction des circonstances de sa mort. Chaque Légion a un quartier général (son siège) et est supervisée par un Seigneur de la Mort."
  iron_legion:0 "Légion de Fer"
  iron_legion_adj:0 "Fer"
  iron_legion_desc:0 "La Légion de Fer est l'une des divisions de la Hiérarchie de Stygia. Ils accueillent des spectres qui ont vécu jusqu'à un âge avancé ou qui ont été abattus par le temps."

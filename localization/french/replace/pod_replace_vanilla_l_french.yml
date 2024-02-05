@@ -94,3 +94,5 @@
  MURDER_SUCCESS_DESC:1 "[AddTextIf(GetScriptedGui('is_on_golconda_gui').IsShown(GuiScope.SetRoot(GetPlayer.MakeScope).End), Concatenate(Localize('POD_golconda_murder_alert'),'\n'))][TARGET_CHARACTER.GetShortUIName|U] est tué"
  STEAL_BACK_ARTIFACT_SUCCESS_DESC:2 "[AddTextIf(GetScriptedGui('is_on_golconda_gui').IsShown(GuiScope.SetRoot(GetPlayer.MakeScope).End), Concatenate(Localize('POD_golconda_theft_alert'),'\n'))]Vous volerez un artefact du [TARGET_CHARACTER.GetShortUIName] sur lequel vous avez un droit"
  TAX_JURISDICTIONS_BUTTON: "#T Contrats vassaux#!"
+ tribal_authority_1_effects:0 "$EFFECT_LIST_BULLET$[characters|E] peut être [imprisoned|E]"
+ tribal_authority_3_effects:0 "$EFFECT_LIST_BULLET$Les vassaux ne peuvent pas déclarer de guerre sans un hameçon sur leur seigneur."  

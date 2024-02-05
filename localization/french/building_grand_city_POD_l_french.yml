@@ -116,7 +116,7 @@
  building_rome_toreador_04:0 "Parionis et Sancte Laurentii à Damaso"
  building_rome_toreador_04_desc:0 "Un quartier historique du [roma_aeterna|E] confié à un puissant [GetTrait('toreador').GetName(GetNullCharacter)] [primogen|E].\n\n$POD_rome_toreador_desc$"
  POD_rome_cappadocian_desc:0 "Le Panthéon est la structure la plus remarquable de cette région. Les mortels en ont fait une église dédiée à Marie et aux Martyrs et ont déplacé des centaines de corps des catacombes pour les réinhumer."
- POD_rome_cappadocian_bonus:0 "#P Le propriétaire de ce quartier peut entrer dans le [shadowlands|E] et manipuler le Linceul à cet endroit.#!"
+ POD_rome_cappadocian_bonus:0 "#P Le propriétaire de ce quartier peut entrer dans le [shadowlands|E] et manipuler le Voile à cet endroit.#!"
  building_type_rome_cappadocian_01:0 "Pinée et Sancte Marci"
  building_type_rome_cappadocian_01_desc:0 "Un quartier historique du [roma_aeterna|E] confié au Clan [GetTrait('cappadocian').GetName(GetNullCharacter)].\n\n$POD_rome_cappadocian_desc$"
  building_rome_cappadocian_01:0 "Pinée et Sancte Marci"
